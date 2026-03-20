@@ -1,0 +1,29 @@
+name: Validate Questions
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - "**/*.json"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate schema and indexes
+        run: python scripts/validate.py
+
+      - name: Check indexes are up to date
+        run: |
+          python scripts/generate_index.py
+          if ! git diff --quiet; then
+            echo "::error::index.json files are out of date. Run 'python scripts/generate_index.py' and commit the changes."
+            git diff --name-only
+            exit 1
+          fi
