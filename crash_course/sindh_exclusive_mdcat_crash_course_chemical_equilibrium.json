@@ -1,0 +1,777 @@
+{
+  "questions": [
+    {
+      "text": "The minimum energy below which no reaction occurs on reactant molecules is the:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Reaction Kinetics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Average kinetic energy of the molecule",
+          "isCorrect": false,
+          "explanation": "More or less than the average kinetic energy, a reaction can still take place."
+        },
+        {
+          "letter": "B",
+          "text": "P.E of the molecule",
+          "isCorrect": false,
+          "explanation": "Potential energy is the energy due to position or chemical bonds, not specifically the threshold for reaction."
+        },
+        {
+          "letter": "C",
+          "text": "Free energy of the molecule",
+          "isCorrect": false,
+          "explanation": "Free energy (Gibbs free energy) determines spontaneity of the reaction, but not the minimum energy needed for a collision."
+        },
+        {
+          "letter": "D",
+          "text": "Activation energy of the molecule",
+          "isCorrect": true,
+          "explanation": "The minimum energy below which no reaction occurs on reactant molecules is known as the activation energy."
+        }
+      ],
+      "explanation": "For a chemical reaction to occur, reactant molecules must collide with sufficient energy to overcome the energy barrier.This energy barrier is called the activation energy (Ea).Molecules with energy below Ea will not react, no matter how many collisions occur.",
+      "explanationImage": null,
+      "hints": [
+        "minimum"
+      ]
+    },
+    {
+      "text": "The rate law equation for a reaction is given as dx/dt= K[FeCl3][KI]2. The reaction is:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Reaction Kinetics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "First order",
+          "isCorrect": false,
+          "explanation": "To get the order of the reaction, exponents are added i.e.1+2=3. As it is a third order reaction, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Second order",
+          "isCorrect": false,
+          "explanation": "Second-order reactions have overall order = 2.Here overall order = 3 → not second-order."
+        },
+        {
+          "letter": "C",
+          "text": "Third order",
+          "isCorrect": true,
+          "explanation": "The sum of exponents = 1 + 2 = 3 → correct."
+        },
+        {
+          "letter": "D",
+          "text": "Pseudo first order",
+          "isCorrect": false,
+          "explanation": "Pseudo-first order occurs when one reactant is in large excess, so the reaction behaves as if it is first-order, even though actual order >1.No mention of excess reactant here → not pseudo-first order."
+        }
+      ],
+      "explanation": "Order with respect to FeCl₃ = 1Order with respect to KI = 2Overall order = 1 + 2 = 3",
+      "explanationImage": null,
+      "hints": [
+        "rate",
+        "law"
+      ]
+    },
+    {
+      "text": "The rate law for the reaction, A---C+k is given as: Rate=K[A]The unit of K will be:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Reaction Kinetics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "mole-1dm3s-1",
+          "isCorrect": false,
+          "explanation": "This is the unit for a second-order reaction, not first-order."
+        },
+        {
+          "letter": "B",
+          "text": "mole1dm-3s-1",
+          "isCorrect": false,
+          "explanation": "This is the unit of rate, not the rate constant for a first-order reaction."
+        },
+        {
+          "letter": "C",
+          "text": "s-1",
+          "isCorrect": true,
+          "explanation": "Unit of K = (Unit of Rate) / (Unit of [A]) Unit of K = (mol/L/s) / (mol/L) Unit of K = 1/s Therefore, the unit of the rate constant (K) for this first-order reaction is \"1 per second\" or \"s-1\". So, the correct answer is option C."
+        },
+        {
+          "letter": "D",
+          "text": "mole-1dm3",
+          "isCorrect": false,
+          "explanation": "Wrong. This is the unit for a second-order reaction, without the time component."
+        }
+      ],
+      "explanation": "Zero-order: k = same as rateFirst-order: k = “per unit time”Second-order and higher: k includes powers of volume and inverse concentration",
+      "explanationImage": null,
+      "hints": [
+        "rate law"
+      ]
+    },
+    {
+      "text": "Consider the following general reaction: IA+IB → products. Rate of this reaction is expressed as: Rate = K[A]1[B]1 The correct order of reaction and molecularity is:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Reaction Kinetics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2:2",
+          "isCorrect": true,
+          "explanation": "This option suggests that the reaction is second-order with respect to both reactants. This is because the exponents are both 1, so it's a first-order reaction with respect to each reactant, and when added together, it becomes a second-order reaction overall."
+        },
+        {
+          "letter": "B",
+          "text": "2:3",
+          "isCorrect": false,
+          "explanation": "This option suggests that the reaction is second-order with respect to [A] and third-order with respect to [B]. However, since both exponents are 1 in the given expression, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "3:2",
+          "isCorrect": false,
+          "explanation": "Order 3 and Molecularity 2 Incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "3:3",
+          "isCorrect": false,
+          "explanation": "Both order and molecularity are incorrect"
+        }
+      ],
+      "explanation": "Order of reaction = sum of the exponents of concentrations in the rate law.Order = 1+1 = 2 Molecularity = number of reactant particles colliding simultaneously in an elementary reaction.The reaction involves 1 molecule of A + 1 molecule of B → products.Molecularity = 1+1 = 2",
+      "explanationImage": null,
+      "hints": [
+        "molecularity"
+      ]
+    },
+    {
+      "text": "If the half-life of a certain chemical reaction is denoted by the relationship given below: t1/2=1/Ka1, where a is the initial concentration what will be the order of the reaction?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Reaction Kinetics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "First order kinetics",
+          "isCorrect": false,
+          "explanation": "For first order, t1/2 = 0.693/k independent of concentration.Does not match t1/2 ∝ 1/a"
+        },
+        {
+          "letter": "B",
+          "text": "Second order kinetics",
+          "isCorrect": true,
+          "explanation": "For second order, t1/2 = 1 / (k[A]0​)Exactly matches the given relationship."
+        },
+        {
+          "letter": "C",
+          "text": "Third order kinetics",
+          "isCorrect": false,
+          "explanation": "For third order, t1/2 ∝ 1 / [A]02​, not 1/[A]0"
+        },
+        {
+          "letter": "D",
+          "text": "Fractional order kinetics",
+          "isCorrect": false,
+          "explanation": "Fractional orders have different dependencies (not exactly 1/a)Does not match the given formula"
+        }
+      ],
+      "explanation": "Following is the solution:",
+      "explanationImage": null,
+      "hints": [
+        "half-life",
+        "initial"
+      ]
+    },
+    {
+      "text": "Change in concentration of a reactant is plotted against time and the slope dx/dt determined. The values of dx/dt are plotted against (a-x)2 and a straight line is obtained. It may be concluded that the reaction is:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Reaction Kinetics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "First order",
+          "isCorrect": false,
+          "explanation": "For a first-order reaction, dx/dt=k(a−x)1If we plot dx/dt​ vs (a−x), we get a straight line.In this case, the plot is vs (a−x)2, not (a−x), so first order is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Second order",
+          "isCorrect": true,
+          "explanation": "For a second-order reaction, dx/dt=k(a−x)2Plotting dx/dt vs (a−x)2 gives a straight line, exactly as described."
+        },
+        {
+          "letter": "C",
+          "text": "Third order",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it suggests different order of reaction, which is not consistent with the observed behavior in this scenario."
+        },
+        {
+          "letter": "D",
+          "text": "Zero order",
+          "isCorrect": false,
+          "explanation": "For a zero-order reaction, dx/dt=k(a−x)0=kThe slope is constant, independent of (a−x)Plotting dx/dt​ vs any power of (a−x) would give a horizontal line, not necessarily vs (a−x)2"
+        }
+      ],
+      "explanation": "For a second-order reaction, dx/dt=k(a−x)2Plotting dx/dt vs (a−x)2 gives a straight line, exactly as described.",
+      "explanationImage": null,
+      "hints": [
+        "straight",
+        "against time"
+      ]
+    },
+    {
+      "text": "Choose the one which is not an assumption of collision theory of reaction rate:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Reaction Kinetics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "For chemical reaction to occur molecule / particles must collide",
+          "isCorrect": false,
+          "explanation": "This is a necessary condition for a chemical reaction to occur. If the reactant molecules do not collide, they cannot react."
+        },
+        {
+          "letter": "B",
+          "text": "For reacting molecules / particles must possess a certain minimum amount of energy, the activation of energy",
+          "isCorrect": false,
+          "explanation": "This is also a necessary condition for a chemical reaction to occur. The activation energy is the energy barrier that the reactant molecules must overcome in order to react. If the reactant molecules do not have enough energy, they cannot react."
+        },
+        {
+          "letter": "C",
+          "text": "Every collision is not productive",
+          "isCorrect": true,
+          "explanation": "Collision theory assumes some collisions are productive if they have proper energy and orientation; it does not say that every collision is unproductive."
+        },
+        {
+          "letter": "D",
+          "text": "For hydrogen molecule formation from atoms require specific orientation",
+          "isCorrect": false,
+          "explanation": "This is true. Correct orientation of molecules/atoms is needed for a collision to be effective."
+        }
+      ],
+      "explanation": "Actually, collision theory assumes:Only a fraction of collisions are effective, due to orientation and energy requirements.If interpreted literally as “every collision is unproductive,” it contradicts collision theory, because some collisions are productive.",
+      "explanationImage": null,
+      "hints": [
+        "collision",
+        "assumption"
+      ]
+    },
+    {
+      "text": "If the reaction A + B -----> AB. If concentration of A and B are doubled, the rate of reaction will:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Reaction Kinetics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increase two times",
+          "isCorrect": false,
+          "explanation": "If [A] and [B] are doubled:Ratenew=k(2[A])(2[B])=4k[A][B] This would increase the rate 4 times, not 2 times"
+        },
+        {
+          "letter": "B",
+          "text": "Decrease to one half",
+          "isCorrect": false,
+          "explanation": "Doubling reactant concentrations cannot decrease the rate, it will increase it."
+        },
+        {
+          "letter": "C",
+          "text": "Increase four times",
+          "isCorrect": true,
+          "explanation": "Ratenew​ = k(2[A])(2[B]) = 4 × Rateinitial​"
+        },
+        {
+          "letter": "D",
+          "text": "Decrease to one",
+          "isCorrect": false,
+          "explanation": "Rate cannot decrease when reactant concentrations increase."
+        }
+      ],
+      "explanation": "Initial rate:Rateinitial = k[A][B] After doubling [A] and [B]:[A] → 2[A], [B] →2[B] Ratenew = k(2[A])(2[B]) = 4k[A][B] Compare new rate to initial rateRatenew = 4 × Rateinitial",
+      "explanationImage": null,
+      "hints": [
+        "rate",
+        "doubled"
+      ]
+    },
+    {
+      "text": "In which of the following reactions decrease or increase in pressure have no effect on the change of direction of the reaction?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "N2 + O2 ⇋ 2NO",
+          "isCorrect": true,
+          "explanation": "Since the number of moles of reactants = the number of moles of products, so there is no effect of increase or decrease in pressure in the given reversible reaction."
+        },
+        {
+          "letter": "B",
+          "text": "N2 + 3H2⇋ 2NH3",
+          "isCorrect": false,
+          "explanation": "Reactant moles = 1 + 3 = 4Product moles = 2Δn = 2 − 4 = −2 → Pressure increase favors products"
+        },
+        {
+          "letter": "C",
+          "text": "PCl5 ⇋ PCl3 + Cl2",
+          "isCorrect": false,
+          "explanation": "Reactant moles = 1Product moles = 1 + 1 = 2Δn = 2 − 1 = +1 → Pressure increase favors reactants"
+        },
+        {
+          "letter": "D",
+          "text": "2SO2 + O2⇋ 2SO3",
+          "isCorrect": false,
+          "explanation": "Reactant moles = 2 + 1 = 3Product moles = 2Δn = 2 − 3 = −1 → Pressure increase favors products"
+        }
+      ],
+      "explanation": "Option A is correct.N₂ + O₂ ⇋ 2NOReactant moles = 1 + 1 = 2Product moles = 2Δn = 2 − 2 = 0 → No effect of pressure",
+      "explanationImage": null,
+      "hints": [
+        "pressure",
+        "direction"
+      ]
+    },
+    {
+      "text": "Which one of the following groups of elements forms strongest bases?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "IVA",
+          "isCorrect": false,
+          "explanation": "Elements: C, Si, Ge, Sn, PbTypical compounds: hydrides like CH₄, SiH₄, SnH₄, PbH₄Basicity: Very weak bases."
+        },
+        {
+          "letter": "B",
+          "text": "IIIA",
+          "isCorrect": false,
+          "explanation": "Group IIIA elements do not make strong bases. Infact, they have amphoteric oxides and hydroxides which can act as both acids and bases."
+        },
+        {
+          "letter": "C",
+          "text": "IIA",
+          "isCorrect": false,
+          "explanation": "Group IIA alkaline earth metals have 2 valence shell electrons. They do make strong bases, however, not as strong as IA."
+        },
+        {
+          "letter": "D",
+          "text": "IA",
+          "isCorrect": true,
+          "explanation": "This option is correct because Group IA elements (alkali metals) form the strongest bases.Alkali metals, which include elements like sodium (Na), potassium (K), and cesium (Cs), are highly reactive metals. When they react with water, they form strong bases like hydroxides (e.g., NaOH, KOH). These hydroxides are highly soluble in water and dissociate completely, producing a high concentration of hydroxide ions (OH-) in solution."
+        }
+      ],
+      "explanation": "Elements: Li, Na, K, Rb, CsTypical compounds: LiOH, NaOH, KOH, RbOH, CsOHBasicity: Strongest bases among these groups.Reason: Hydroxides are highly soluble in water → completely dissociate to give OH⁻.Example: NaOH, KOH are strong bases used commonly in labs.Conclusion: Strongest bases",
+      "explanationImage": null,
+      "hints": [
+        "strongest bases"
+      ]
+    },
+    {
+      "text": "If Ka value is 10-6, then Kb value is:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10-4",
+          "isCorrect": false,
+          "explanation": "If Kb=10−4, then Ka=10−14, which does not match the given KaSo this is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "10-8",
+          "isCorrect": true,
+          "explanation": "As we know that Ka x Kb = KwKw = 10-14Ka = 10-610-6 x Kb = 10-14Kb = 10-14 / 10-6Kb = 10-14 - (-6)Kb = 10-8"
+        },
+        {
+          "letter": "C",
+          "text": "10-6",
+          "isCorrect": false,
+          "explanation": "If Kb=10−6, then Ka=10−14/10−6=10−8, which does not match the given KaSo this is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "10-10",
+          "isCorrect": false,
+          "explanation": "According to the solution, this option is not correct."
+        }
+      ],
+      "explanation": "As we know that Ka x Kb = KwKw = 10-14Ka = 10-610-6 x Kb = 10-14Kb = 10-14 / 10-6Kb = 10-14 - (-6)Kb = 10-8",
+      "explanationImage": null,
+      "hints": [
+        "K",
+        "Kb"
+      ]
+    },
+    {
+      "text": "Which one of the following statements is correct about the effect of a catalyst?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "It increases the equilibrium constant for the forward reaction",
+          "isCorrect": false,
+          "explanation": "A catalyst works by lowering the activation energy required for a reaction to occur. This allows the reaction to proceed more easily and at a faster rate, but it does not change the position of the equilibrium or the equilibrium constant."
+        },
+        {
+          "letter": "B",
+          "text": "It increases the rate of the equilibrium constant for the forward reaction but not of the reverse reaction",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because a catalyst increases the rate of both the forward and reverse reactions. However, it does not change the equilibrium constant itself."
+        },
+        {
+          "letter": "C",
+          "text": "It increases the yield of product at equilibrium",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because a catalyst does not directly affect the yield of product at equilibrium. It can speed up the attainment of equilibrium but does not change the position of the equilibrium."
+        },
+        {
+          "letter": "D",
+          "text": "It provides an alternative route for a reaction",
+          "isCorrect": true,
+          "explanation": "A catalyst provides an alternative route for a reaction to take place by lowering the activation energy for the reaction to start and hence, speeds it up."
+        }
+      ],
+      "explanation": "Catalysts work by lowering the activation energy, providing an alternative pathway with lower energy barrier.",
+      "explanationImage": null,
+      "hints": [
+        "catalyst",
+        "effect"
+      ]
+    },
+    {
+      "text": "All of the following are applications of K, EXCEPT:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "It helps to predict the direction of the reaction.",
+          "isCorrect": false,
+          "explanation": "The equilibrium constant indicates whether a reaction favors products or reactants at equilibrium, thus helping to predict its direction."
+        },
+        {
+          "letter": "B",
+          "text": "It tells about the extent of the reaction.",
+          "isCorrect": false,
+          "explanation": "The equilibrium constant provides a quantitative measure of the concentrations of products and reactants at equilibrium, indicating how far a reaction proceeds."
+        },
+        {
+          "letter": "C",
+          "text": "It tells about the rate of reaction.",
+          "isCorrect": true,
+          "explanation": "The equilibrium constant does not provide any information about the speed at which equilibrium is reached; this is the focus of chemical kinetics."
+        },
+        {
+          "letter": "D",
+          "text": "None of these.",
+          "isCorrect": false,
+          "explanation": "This option suggests that all statements are true; however, only options A and B accurately describe applications of K."
+        }
+      ],
+      "explanation": "The equilibrium constant (Kc ) provides information about the position of equilibrium (direction and extent) but gives no information about how fast the reaction reaches that equilibrium. The rate of reaction is the domain of chemical kinetics.",
+      "explanationImage": null,
+      "hints": [
+        "equilibrium",
+        "extent",
+        "rate"
+      ]
+    },
+    {
+      "text": "Which of the following statements describes a reversible reaction:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both forward and reverse reaction do not occur simultaneously",
+          "isCorrect": false,
+          "explanation": "This means only one direction happens at a time, which is not true for reversible reactions.Irreversible reactions often behave this way."
+        },
+        {
+          "letter": "B",
+          "text": "Both forward and reverse reaction occur simultaneously but under different conditions",
+          "isCorrect": false,
+          "explanation": "This suggests forward and reverse happen at the same time but require different environments, which is not typical.Usually, reversible reactions happen under the same conditions."
+        },
+        {
+          "letter": "C",
+          "text": "Both forward and reverse reaction occur simultaneously at the same time under same conditions.",
+          "isCorrect": true,
+          "explanation": "This is the correct definition of a reversible reaction!At equilibrium, both forward and reverse reactions proceed at equal rates simultaneously under the same conditions"
+        },
+        {
+          "letter": "D",
+          "text": "Forward and reverse reaction takes place at different time and different conditions",
+          "isCorrect": false,
+          "explanation": "This means the reactions are separated in time and conditions, which does not describe a reversible reaction."
+        }
+      ],
+      "explanation": "Forward and reverse reactions occur simultaneously.Both happen at the same time.Both happen under the same conditions.At equilibrium, their rates are equal, so concentrations stay constant.",
+      "explanationImage": null,
+      "hints": [
+        "reversible"
+      ]
+    },
+    {
+      "text": "At equilibrium, the concentrations of reactants and products are:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Constant",
+          "isCorrect": true,
+          "explanation": "At equilibrium, the concentrations of both reactants and products remain unchanged over time, which means they are constant."
+        },
+        {
+          "letter": "B",
+          "text": "Different",
+          "isCorrect": false,
+          "explanation": "While the concentrations of reactants and products may initially be different, at equilibrium, their concentrations do not change, so this statement is misleading."
+        },
+        {
+          "letter": "C",
+          "text": "Maximum",
+          "isCorrect": false,
+          "explanation": "This option suggests that concentrations reach a maximum value, which is not accurate. At equilibrium, concentrations are stable, not necessarily at their maximum values."
+        },
+        {
+          "letter": "D",
+          "text": "Equal",
+          "isCorrect": false,
+          "explanation": "This option implies that the concentrations of reactants and products are the same, which is not necessarily true. They can be constant but not equal."
+        }
+      ],
+      "explanation": "Chemical equilibrium is a dynamic state where the rate of the forward reaction equals the rate of the reverse reaction. This results in no net change in the concentrations of reactants and products, so their concentrations remain constant over time.",
+      "explanationImage": null,
+      "hints": [
+        "equilibrium",
+        "concentrations",
+        "reactants and products"
+      ]
+    },
+    {
+      "text": "At equilibrium, concentration of SO2 is 2M, O2 is 2M and SO3 is 4M.2SO2 +O2 ⇌ 2SO3 . What will be the Kc value of given reaction?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.2",
+          "isCorrect": false,
+          "explanation": "This is much smaller than the calculated Kc. It would mean the products are less favored compared to reactants, which is not the case here."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "Kc=[SO3]2/ [SO2]2 [O2] =(4)2 /(2)2(2)=16/8 = 2"
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "This is double the actual value. This would imply more products relative to reactants at equilibrium than actually given"
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "isCorrect": false,
+          "explanation": "This is four times the actual Kc Indicates an even greater product concentration compared to reactants, which contradicts the data."
+        }
+      ],
+      "explanation": "The calculation below proves that the value of Kc is 2.",
+      "explanationImage": null,
+      "hints": [
+        "K"
+      ]
+    },
+    {
+      "text": "The equilibrium expression for a reaction is Ke = X2 / V ( a-X ) , what is true for this reaction?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increase in pressure will favour forward reaction",
+          "isCorrect": false,
+          "explanation": "More pressure favors fewer moles (backward)"
+        },
+        {
+          "letter": "B",
+          "text": "Decrease in pressure will favour forward reaction",
+          "isCorrect": true,
+          "explanation": "Decreasing pressure means increasing volume.Increasing volume decreases concentration.If forward reaction produces more moles, increasing volume (decreasing pressure) favors the side with more moles.So forward reaction is favored."
+        },
+        {
+          "letter": "C",
+          "text": "Decrease in pressure will favour backward reaction",
+          "isCorrect": false,
+          "explanation": "From above, decreasing pressure favors forward reaction (more moles side).So backward reaction is not favored."
+        },
+        {
+          "letter": "D",
+          "text": "Increase in volume will favour backward reaction",
+          "isCorrect": false,
+          "explanation": "Increasing volume means decreasing pressure.From above, increasing volume favors the side with more moles.Forward reaction produces more moles, so it’s favored, not backward."
+        }
+      ],
+      "explanation": "Decreasing pressure = increasing volumeIncreasing volume = lower concentration of gasesEquilibrium shifts toward the side with more gas moleculesIf forward reaction has more moles, forward reaction speeds up and is favored.",
+      "explanationImage": null,
+      "hints": [
+        "equilibrium",
+        "true"
+      ]
+    },
+    {
+      "text": "Correct relationship b/w Ke and Kp can be written as:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kp=Ke (R)∆n",
+          "isCorrect": false,
+          "explanation": "Missing T, so incomplete.Since Kp depends on RT, this is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Kp=Ke (RT)∆n",
+          "isCorrect": true,
+          "explanation": "This is the correct relationship between ke and kp."
+        },
+        {
+          "letter": "C",
+          "text": "Ke=Kp (RT)∆n",
+          "isCorrect": false,
+          "explanation": "Incorrect order and exponent."
+        },
+        {
+          "letter": "D",
+          "text": "Kp=Ke (R/N)∆n",
+          "isCorrect": false,
+          "explanation": "N is not standard here possibly Avogadro's number"
+        }
+      ],
+      "explanation": "This equation simply converts between the concentration form of the equilibrium constant and the pressure form, by using the ideal gas law and accounting for the difference in the number of moles of gas between products and reactants. The (RT)Δn factor adjusts for how much “space” the gas molecules take up in pressure terms versus concentration terms.",
+      "explanationImage": null,
+      "hints": [
+        "relationship"
+      ]
+    },
+    {
+      "text": "For the following reaction in the gaseous phase;CO+1/2 O2 ⇌CO2, Kp/Kc is",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "(RT)1/2",
+          "isCorrect": false,
+          "explanation": "This means Kp=Kc×(RT)1/2Implies Δn=+1/2\\​ because the exponent on RT is positive half.But in this reaction, Δn=−1/2​, so this is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "(RT) - 1/2",
+          "isCorrect": true,
+          "explanation": "This means Kp=Kc×(RT)−1/2=Kc/(RT)1/2​​.Implies Δn=−1/2​, which matches the reaction."
+        },
+        {
+          "letter": "C",
+          "text": "RT",
+          "isCorrect": false,
+          "explanation": "This means Kp=Kc×RTImplies Δn=+1, which doesn't fit this reaction.Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "RT-1",
+          "isCorrect": false,
+          "explanation": "This means Kp=Kc×(RT)−1=Kc/RTImplies Δn=−1, which doesn't fit this reaction.Incorrect."
+        }
+      ],
+      "explanation": "This means Kp=Kc×(RT)−1/2=Kc/(RT)1/2​​.Implies Δn=−1/2​, which matches the reaction.",
+      "explanationImage": null,
+      "hints": [
+        "gaseous"
+      ]
+    },
+    {
+      "text": "N2+3H2 ⇌ 2NH3 ∆H=-41.02kJ/molForward reaction is favoured by:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adding NH3 at equilibrium.",
+          "isCorrect": false,
+          "explanation": ".Adding product (NH₃) shifts the equilibrium to the left (reverse) by Le Chatelier’s principle.So, forward reaction is NOT favored"
+        },
+        {
+          "letter": "B",
+          "text": "Adding catalyst.",
+          "isCorrect": false,
+          "explanation": "Catalyst speeds up both forward and reverse reactions equally.It does NOT change equilibrium position, just how fast equilibrium is reached.So, forward reaction is not favored more."
+        },
+        {
+          "letter": "C",
+          "text": "Decreasing temperature.",
+          "isCorrect": true,
+          "explanation": "According to Le-Chatelier principle, for exothermic reaction: Yield ∝ 1/Temperature."
+        },
+        {
+          "letter": "D",
+          "text": "Decreasing concentration of H2",
+          "isCorrect": false,
+          "explanation": "Reducing reactant (H₂) pushes equilibrium to the left to produce more H₂.So, forward reaction is not favored."
+        }
+      ],
+      "explanation": "The forward reaction is exothermic, lowering temperature favors the forward reaction.Reaction shifts right to produce more NH₃.",
+      "explanationImage": null,
+      "hints": [
+        "Forward"
+      ]
+    }
+  ]
+}

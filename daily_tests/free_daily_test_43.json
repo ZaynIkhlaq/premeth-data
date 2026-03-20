@@ -1,0 +1,1945 @@
+{
+  "questions": [
+    {
+      "text": "A semiconductor photodiode is a:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2011,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reverse-biased junction diode",
+          "isCorrect": true,
+          "explanation": "A semiconductor photodiode functions as a reverse-biased junction diode. It is designed to operate in reverse bias to effectively detect incident light. In this mode, the diode has a wide depletion region that facilitates the generation and collection of electron-hole pairs as a photocurrent, directly proportional to the intensity of the light."
+        },
+        {
+          "letter": "B",
+          "text": "Forward-biased junction diode",
+          "isCorrect": false,
+          "explanation": "A forward-biased junction diode allows current to flow easily in the forward direction, which is not suitable for the operation of a photodiode. Photodiodes require reverse bias to enhance their sensitivity to light by expanding the depletion region."
+        },
+        {
+          "letter": "C",
+          "text": "Half wave rectifier",
+          "isCorrect": false,
+          "explanation": "A half wave rectifier is a circuit that converts only the positive half of an AC input signal into DC. It is not designed for light detection, nor does it involve reverse-biased operation typical of a semiconductor photodiode."
+        },
+        {
+          "letter": "D",
+          "text": "Full wave rectifier",
+          "isCorrect": false,
+          "explanation": "A full wave rectifier converts both halves of an AC input signal into DC using a bridge rectifier. It does not function as a light-sensitive component like a photodiode, which operates in reverse bias."
+        },
+        {
+          "letter": "E",
+          "text": "Transistor",
+          "isCorrect": false,
+          "explanation": "A transistor is a semiconductor device used for amplification and switching. It is fundamentally different from a photodiode, which is specifically designed for light detection and operates in reverse bias."
+        }
+      ],
+      "explanation": "A semiconductor photodiode is a reverse-biased junction diode. In reverse bias, the photodiode's depletion region widens, allowing for efficient generation and collection of charge carriers (electron-hole pairs) when exposed to light. This configuration enables the photodiode to operate in the photoconductive mode, providing a fast response to changes in light intensity.The incorrect options do not describe how photodiodes function: Forward bias (Option B) is inappropriate for photodiodes as it limits sensitivity; half wave (Option C) and full wave rectifiers (Option D) are rectification circuits and unrelated to photodetection; and transistors (Option E) serve different functions such as amplification and switching, not light detection.",
+      "explanationImage": null,
+      "hints": [
+        "semiconductor",
+        "photodiode",
+        "reverse bias"
+      ]
+    },
+    {
+      "text": "A full wave rectifier is operating from 50 Hz mains, the fundamental frequency of ripple will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 Hz",
+          "isCorrect": true,
+          "explanation": "In a full-wave rectifier circuit operating from a 50 Hz mains frequency, the ripple frequency refers to the frequency at which the output waveform contains variations due to the rectification process.In a full-wave rectifier, both halves of the input waveform are rectified, resulting in a smoother output compared to a half-wave rectifier.Since each half-cycle of the input waveform produces a ripple in the output waveform, the ripple frequency in a full-wave rectifier is twice the frequency of the input mains frequency.Therefore, in this case, the ripple frequency would be 2×50Hz=100Hz."
+        },
+        {
+          "letter": "B",
+          "text": "25Hz",
+          "isCorrect": false,
+          "explanation": "This option suggests a ripple frequency of 25 Hz.However, in a full-wave rectifier, the ripple frequency is twice the mains frequency.Therefore, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "50Hz",
+          "isCorrect": false,
+          "explanation": "This option suggests a ripple frequency equal to the mains frequency.However, in a full-wave rectifier, the ripple frequency is twice the mains frequency.Therefore, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "200Hz",
+          "isCorrect": false,
+          "explanation": "This option suggests a ripple frequency of 200 Hz.However, in a full-wave rectifier, the ripple frequency is twice the mains frequency.Therefore, this option is incorrect."
+        }
+      ],
+      "explanation": "In a full wave rectifier, we get the output for the positive and negative cycle of input a.c. Hence the frequency of the ripple of the output is twice than that of input a.c. i.e. 100Hz",
+      "explanationImage": null,
+      "hints": [
+        "full wave rectifie",
+        "50 Hz",
+        "fundamental frequency"
+      ]
+    },
+    {
+      "text": "The majority of charge carriers in P-type semiconductors are:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Holes",
+          "isCorrect": true,
+          "explanation": "In P-type semiconductors, the majority charge carriers are \"holes.\"A hole is essentially an empty space in the crystal lattice where an electron could exist but does not.When a dopant with three valence electrons, such as boron or aluminum, is introduced into a semiconductor material like silicon or germanium, it creates \"holes\" in the crystal structure.These holes act as positive charge carriers and contribute to the conductivity of the semiconductor.Therefore, in P-type semiconductors, the majority charge carriers are holes."
+        },
+        {
+          "letter": "B",
+          "text": "Electrons",
+          "isCorrect": false,
+          "explanation": "While there are still some free electrons present in P-type semiconductors, they are not the majority charge carriers.In P-type semiconductors, the holes created by the dopant are the dominant charge carriers.Electrons can also contribute to conductivity in P-type semiconductors, but they are considered minority carriers."
+        },
+        {
+          "letter": "C",
+          "text": "Neutrons",
+          "isCorrect": false,
+          "explanation": "Neutrons are electrically neutral particles found in the nucleus of atoms.They do not contribute to the charge transport in semiconductors.Neutrons play a role in determining the atomic structure and stability of nuclei but are not involved in semiconductor conductivity."
+        },
+        {
+          "letter": "D",
+          "text": "Protons",
+          "isCorrect": false,
+          "explanation": "Protons are positively charged particles found in the nucleus of atoms.They do not contribute to the charge transport in semiconductors.Protons are involved in determining the atomic structure and stability of nuclei but are not involved in semiconductor conductivity."
+        }
+      ],
+      "explanation": "In a p-type semiconductor, holes are the majority charge carriers and electrons are minority charge carriers. So, holes are in larger numbers and electrons in smaller numbers.",
+      "explanationImage": null,
+      "hints": [
+        "majority",
+        "charge carriers",
+        "P-type semiconductors"
+      ]
+    },
+    {
+      "text": "The electron volt is the unit of _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electric current",
+          "isCorrect": false,
+          "explanation": "Electric current has a unit of ampere A, which is not present in the above calculation; hence, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Electric potential",
+          "isCorrect": false,
+          "explanation": "Electric potential has a unit of volts (V, which is not present in the above calculation; hence, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Electric energy",
+          "isCorrect": true,
+          "explanation": "The unit of electric energy is J, which is similar to the above equation. Hence, this option is the correct one."
+        },
+        {
+          "letter": "D",
+          "text": "Electric flux",
+          "isCorrect": false,
+          "explanation": "The unit of electric flux is J/C, which is different from the equation. Hence, the option is incorrect."
+        }
+      ],
+      "explanation": "1 eV = 1.6 x 10-19 C x 1V1 eV = 1.6 x 10-19 J (C.V = J)",
+      "explanationImage": null,
+      "hints": [
+        "electron volt",
+        "unit"
+      ]
+    },
+    {
+      "text": "Full wave bridge rectifier uses:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "One diode",
+          "isCorrect": false,
+          "explanation": "A full wave rectifier cannot be implemented using only one diode. A diode is a semiconductor device that allows current to flow in one direction and blocks it in the opposite direction. For a full wave rectification, which means converting an AC (alternating current) signal into a pulsating DC (direct current) signal, we need to utilize both the positive and negative cycles of the AC signal. A single diode can only rectify either the positive or the negative half-cycle, not both."
+        },
+        {
+          "letter": "B",
+          "text": "Two diodes",
+          "isCorrect": false,
+          "explanation": "A full wave rectifier typically uses two diodes arranged in a bridge configuration called a \"bridge rectifier\" or \"full-wave bridge rectifier.\" This configuration allows both the positive and negative halves of the AC signal to be rectified, resulting in a pulsating DC output."
+        },
+        {
+          "letter": "C",
+          "text": "Three diodes",
+          "isCorrect": false,
+          "explanation": "A configuration with three diodes cannot produce full wave rectification. While it is possible to design various rectifier circuits with three diodes (such as center-tapped rectifiers), these configurations typically provide half-wave rectification rather than full wave."
+        },
+        {
+          "letter": "D",
+          "text": "Four diodes",
+          "isCorrect": true,
+          "explanation": "A full wave rectifier generally uses four diodes arranged in a bridge configuration (bridge rectifier). These four diodes allow both halves of the AC input signal to be rectified, resulting in a smoother pulsating DC output compared to half-wave rectifiers."
+        }
+      ],
+      "explanation": "Full wave bridge rectifier uses four diodes. However, centre tap transformer uses two diodes.",
+      "explanationImage": null,
+      "hints": [
+        "Full wave",
+        "bridge rectifier"
+      ]
+    },
+    {
+      "text": "A half-wave rectifier has diodes:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": true,
+          "explanation": "A half-wave rectifier has one diode.A half-wave rectifier is a circuit used to convert an alternating current (AC) signal into a pulsating direct current (DC) signal. It uses a single diode to achieve this rectification process.Therefore, the correct answer is \"1\" diode, as a half-wave rectifier circuit requires only a single diode to perform the rectification process. The other options (2, 3, and 4) are incorrect because they do not represent the correct number of diodes used in a half-wave rectifier circuit."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A half-wave rectifier typically uses only one diode."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as well. A half-wave rectifier does not require two diodes. It utilizes only one diode to achieve the rectification process."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect. A half-wave rectifier does not involve four diodes. The use of multiple diodes in a rectifier circuit is more commonly associated with full-wave rectifiers."
+        }
+      ],
+      "explanation": "Only one diode is needed in the half-wave rectifier. This diode limits the current flow in one direction, which means that only half of the AC waveform can pass through the diode.",
+      "explanationImage": null,
+      "hints": [
+        "half-wave rectifier",
+        "diodes"
+      ]
+    },
+    {
+      "text": "The number of diodes in a center-tapped full-wave rectifier is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "A center-tapped full-wave rectifier is a rectifier that uses a center-tapped transformer to convert AC into DC. It has the following components: an AC source, a center-tapped transformer, two diodes, and a load resistor."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "A center-tapped full-wave rectifier is a rectifier that uses a center-tapped transformer to convert AC into DC. It has the following components: an AC source, a center-tapped transformer, two diodes, and a load resistor."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "A center-tapped full-wave rectifier is a rectifier that uses a center-tapped transformer to convert AC into DC. It has the following components: an AC source, a center-tapped transformer, two diodes, and a load resistor."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "A center-tapped full-wave rectifier is a rectifier that uses a center-tapped transformer to convert AC into DC. It has the following components: an AC source, a center-tapped transformer, two diodes, and a load resistor."
+        }
+      ],
+      "explanation": "A centre-tapped full-wave rectifier is a rectifier that uses a centre-tapped transformer to convert AC into DC. It has the following components: an AC source, a centre-tapped transformer, two diodes, and a load resistor.",
+      "explanationImage": null,
+      "hints": [
+        "number of diodes",
+        "center-tapped",
+        "full-wave rectifier"
+      ]
+    },
+    {
+      "text": "In half-wave rectification, the output DC voltage is obtained across the load for _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The positive half cycle of input AC",
+          "isCorrect": true,
+          "explanation": "In half-wave rectification:The diode conducts only during one half cycle of the input AC (the positive half if diode is forward-biased).Current flows through the load only in that half cycle.The other half cycle (negative half) is blocked.Therefore, the output DC voltage is obtained across the load for only one half cycle of the input AC (the positive half cycle, if connected in the usual way)."
+        },
+        {
+          "letter": "B",
+          "text": "The negative half cycle of input AC",
+          "isCorrect": false,
+          "explanation": "During the negative half cycle of the input AC voltage, the diode in the rectifier becomes reverse-biased and does not conduct. This prevents current from flowing through the load in the reverse direction, and as a result, no output DC voltage is generated across the load during the negative half cycle."
+        },
+        {
+          "letter": "C",
+          "text": "The positive and negative half cycles of input AC",
+          "isCorrect": false,
+          "explanation": "This statement is not correct. In half-wave rectification, only one half of the input AC cycle (either positive or negative) is rectified to produce the output DC voltage. The other half is not utilized, and no output voltage is generated during that period."
+        },
+        {
+          "letter": "D",
+          "text": "Either positive or negative half cycle of input",
+          "isCorrect": false,
+          "explanation": "In half-wave rectification: The diode conducts only during one half cycle of the input AC (the positive half if diode is forward-biased). Current flows through the load only in that half cycle. The other half cycle (negative half) is blocked."
+        }
+      ],
+      "explanation": "In half-wave rectification, the output DC voltage is obtained across the load for only half of the input AC cycle. Specifically, it only appears during the positive (or sometimes the negative) half-cycle of the AC input, depending on the orientation of the diode",
+      "explanationImage": null,
+      "hints": [
+        "half-wave rectification",
+        "output DC voltage"
+      ]
+    },
+    {
+      "text": "A diode works in _ bias for first cycle of rectification.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Forward",
+          "isCorrect": true,
+          "explanation": "A diode works in forward bias for rectification.Rectification is the process of converting alternating current (AC) to direct current (DC). A diode is a semiconductor device that allows current to flow in one direction only. When a diode is forward biased, the current flows easily through the diode. When a diode is reverse biased, the current does not flow through the diode.In a rectifier circuit, the diode is used to allow current to flow in one direction only. This is done by applying a forward bias to the diode during the positive half-cycle of the AC input signal. The diode will then conduct current, and the output of the rectifier circuit will be a DC signal."
+        },
+        {
+          "letter": "B",
+          "text": "Reverse",
+          "isCorrect": false,
+          "explanation": "Reverse bias. In reverse bias, the current does not flow through the diode. This is not the correct bias for rectification."
+        },
+        {
+          "letter": "C",
+          "text": "Mid",
+          "isCorrect": false,
+          "explanation": "Mid bias. Mid bias is a type of bias that is neither forward bias nor reverse bias. This is not a valid bias for rectification."
+        },
+        {
+          "letter": "D",
+          "text": "Positive",
+          "isCorrect": false,
+          "explanation": "Positive bias. Positive bias is a type of bias that is similar to forward bias. However, positive bias is not the correct bias for rectification."
+        }
+      ],
+      "explanation": "Correct option is A. A diode works in forward bias for rectification. Rectification is the process of converting alternating current (AC) to direct current (DC). A diode is a semiconductor device that allows current to flow in one direction only. When a diode is forward biased, the current flows easily through the diode. When a diode is reverse biased, the current does not flow through the diode. In a rectifier circuit, the diode is used to allow current to flow in one direction only. This is done by applying a forward bias to the diode during the positive half-cycle of the AC input signal. The diode will then conduct current, and the output of the rectifier circuit will be a DC signal.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The maximum efficiency of a half-wave rectifier is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "80.6%",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the theoretical maximum efficiency of a half-wave rectifier is about 40.6%."
+        },
+        {
+          "letter": "B",
+          "text": "40.6%",
+          "isCorrect": true,
+          "explanation": "This option is correct. The maximum efficiency of a half-wave rectifier is about 40.6%, indicating that it is not very efficient at converting AC to DC."
+        },
+        {
+          "letter": "C",
+          "text": "70%",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The maximum efficiency of a half-wave rectifier is only about 40.6%, much lower than 70%."
+        },
+        {
+          "letter": "D",
+          "text": "50%",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Although closer, the maximum efficiency of a half-wave rectifier is still lower, at about 40.6%."
+        }
+      ],
+      "explanation": "The maximum efficiency of a half-wave rectifier is about 40.6%. This is because it only utilizes one half of the AC waveform, leading to significant power loss. In contrast, a full-wave rectifier uses both halves of the waveform and has a maximum efficiency of about 81.2%, which is twice that of a half-wave rectifier. The incorrect options either overestimate the efficiency or are closer but still incorrect.",
+      "explanationImage": null,
+      "hints": [
+        "maximum",
+        "efficiency",
+        "half-wave"
+      ]
+    },
+    {
+      "text": "Which of the following is not a type of rectifier?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Phase wave rectifier",
+          "isCorrect": true,
+          "explanation": "A phase wave rectifier is not a recognized type of rectifier. The commonly known types of rectifiers are full wave rectifier and half wave rectifier. A rectifier is an electronic device used to convert alternating current (AC) into direct current (DC). In a full wave rectifier, both halves of the AC waveform are utilized, while in a half wave rectifier, only one half of the AC waveform is used. The option \"none of them\" implies that none of the given options are types of rectifiers, which is incorrect since full wave and half wave rectifiers are well-known types."
+        },
+        {
+          "letter": "B",
+          "text": "Full wave",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "halfwave",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "none of them",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A phase wave rectifier is not a recognized type of rectifier. The commonly known types of rectifiers are full wave rectifier and half wave rectifier. A rectifier is an electronic device used to convert alternating current (AC) into direct current (DC). In a full wave rectifier, both halves of the AC waveform are utilized, while in a half wave rectifier, only one half of the AC waveform is used. The option \"none of them\" implies that none of the given options are types of rectifiers, which is incorrect since full wave and half wave rectifiers are well-known types.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The process of converting alternating current into direct current is called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Modulation",
+          "isCorrect": false,
+          "explanation": "Modulation is the process of converting data into radio waves by adding information to an electronic or optical carrier signal."
+        },
+        {
+          "letter": "B",
+          "text": "Amplification",
+          "isCorrect": false,
+          "explanation": "amplification is the act, or result of independently increasing some quantity, especially voltage, power or current"
+        },
+        {
+          "letter": "C",
+          "text": "Ossilation",
+          "isCorrect": false,
+          "explanation": "Oscillation is the repetitive or periodic variation, typically in time, of some measure about a central value or between two or more different states."
+        },
+        {
+          "letter": "D",
+          "text": "Rectification",
+          "isCorrect": true,
+          "explanation": "Rectification is the conversion of alternating current (AC) to direct current (DC). A half-wave rectifier is a circuit that allows only one half-cycle of the AC voltage waveform to be applied to the load, resulting in one non-alternating polarity across it."
+        }
+      ],
+      "explanation": "Rectification is the conversion of alternating current (AC) to direct current (DC). A half-wave rectifier is a circuit that allows only one half-cycle of the AC voltage waveform to be applied to the load, resulting in one non-alternating polarity across it.",
+      "explanationImage": null,
+      "hints": [
+        "process",
+        "alternating current",
+        "direct current"
+      ]
+    },
+    {
+      "text": "The ripple factor of a half-wave rectifier is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.21",
+          "isCorrect": true,
+          "explanation": "This is the correct theoretical ripple factor for a half-wave rectifier. It indicates a significant amount of ripple in the output, which is expected for a half-wave rectifier."
+        },
+        {
+          "letter": "B",
+          "text": "0.8",
+          "isCorrect": false,
+          "explanation": "This option suggests a lower ripple factor than the theoretical value for a half-wave rectifier. This might be the case if additional filtering was applied to the output."
+        },
+        {
+          "letter": "C",
+          "text": "0.6",
+          "isCorrect": false,
+          "explanation": "This option suggests an even lower ripple factor. This would indicate a more effective filtering of the output, reducing the AC component further."
+        },
+        {
+          "letter": "D",
+          "text": "0.4",
+          "isCorrect": false,
+          "explanation": "This option suggests the lowest ripple factor among the options. This would indicate very effective filtering of the output, significantly reducing the AC component."
+        }
+      ],
+      "explanation": "Ripple factor determines how well a half-wave rectifier can convert AC voltage to DC voltage. The ripple factor is a measure of the effectiveness of a power supply filter, in this case, a half-wave rectifier. It's a measure of the amount of AC component (ripple) in the output DC signal. The ripple factor is defined as the ratio of the root mean square (rms) value of the ripple voltage to the absolute value of the DC component of the output voltage.For a half-wave rectifier, the ripple factor is theoretically calculated as 1.21 (or 121% if expressed as a percentage). This is because a half-wave rectifier only allows one half of the AC signal to pass through, leading to a significant ripple in the output. Without additional information about the specific rectifier or any filtering applied, the correct answer to this question would be A) 1.21, as this is the theoretical ripple factor for a half-wave rectifier.",
+      "explanationImage": null,
+      "hints": [
+        "ripple factor",
+        "half-wave rectifier"
+      ]
+    },
+    {
+      "text": "Which of the following is a type of rectifier?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Half wave",
+          "isCorrect": false,
+          "explanation": "A half-wave rectifier converts an AC signal to DC by passing either the negative or positive half-cycle of the waveform and blocking the other. Half-wave rectifiers can be easily constructed using only one diode, but are less efficient than full-wave rectifiers."
+        },
+        {
+          "letter": "B",
+          "text": "Full wave",
+          "isCorrect": false,
+          "explanation": "A full wave rectifier is defined as a rectifier that converts the complete cycle of alternating current into pulsating DC. Unlike halfwave rectifiers that utilize only the halfwave of the input AC cycle, full wave rectifiers utilize the full cycle."
+        },
+        {
+          "letter": "C",
+          "text": "Bridge",
+          "isCorrect": false,
+          "explanation": "Bridge rectifiers are full-wave rectifiers that use four or more diodes in a bridge circuit configuration to efficiently convert alternating (AC) current to a direct (DC) current."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above options are correct",
+          "isCorrect": true,
+          "explanation": "This is the correct option."
+        }
+      ],
+      "explanation": "Option A: A half-wave rectifier converts an AC signal to DC by passing either the negative or positive half-cycle of the waveform and blocking the other. Half-wave rectifiers can be easily constructed using only one diode, but are less efficient than full-wave rectifiers.Option B: A full wave rectifier is defined as a rectifier that converts the complete cycle of alternating current into pulsating DC. Unlike halfwave rectifiers that utilize only the halfwave of the input AC cycle, full wave rectifiers utilize the full cycle.Option C: bridge rectifiers is a type of full-wave rectifier that uses four or more diodes in a bridge circuit configuration to efficiently convert alternating (AC) current to a direct (DC) current.Option D: All are right options.",
+      "explanationImage": null,
+      "hints": [
+        "type",
+        "rectifier"
+      ]
+    },
+    {
+      "text": "The most widely used rectifier is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Half wave rectifier",
+          "isCorrect": false,
+          "explanation": "A half-wave rectifier converts an AC signal to DC by passing either the negative or positive half-cycle of the waveform and blocking the other."
+        },
+        {
+          "letter": "B",
+          "text": "Full wave rectifier",
+          "isCorrect": false,
+          "explanation": "A full wave rectifier is defined as a rectifier that converts the complete cycle of alternating current into pulsating DC"
+        },
+        {
+          "letter": "C",
+          "text": "Bridge rectifier",
+          "isCorrect": true,
+          "explanation": "Bridge rectifiers are widely used for large appliances, which can convert high AC voltage to low DC voltage."
+        },
+        {
+          "letter": "D",
+          "text": "None of them",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        }
+      ],
+      "explanation": "Bridge rectifiers are widely used for large appliances, which can convert high AC voltage to low DC voltage.",
+      "explanationImage": null,
+      "hints": [
+        "widely",
+        "rectifier"
+      ]
+    },
+    {
+      "text": "In half-wave rectification, during the negative cycle of the wave, the diode is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reverse biased",
+          "isCorrect": true,
+          "explanation": "During the positive half cycle of the AC voltage, the diode will be forward biased and the current flows through the diode. During the negative half cycle of the AC voltage, the diode will be reverse biased and the flow of current will be blocked. So the correct option is A."
+        },
+        {
+          "letter": "B",
+          "text": "Forward biased",
+          "isCorrect": false,
+          "explanation": "Forward bias occurs when the voltage applied to the diode allows current to flow through it.However, in half-wave rectification, the diode is arranged such that it conducts only during the positive half-cycle of the input waveform.During the negative half-cycle, the diode is reverse biased and does not conduct current.Therefore, option B) Forward biased is not correct for describing the state of the diode during the negative cycle of the waveform in half-wave rectification."
+        },
+        {
+          "letter": "C",
+          "text": "Potential barrier",
+          "isCorrect": false,
+          "explanation": "The potential barrier refers to the energy barrier that exists at the junction of a semiconductor diode due to the difference in energy levels between the P-type and N-type materials.While the potential barrier plays a role in the behavior of the diode, it is not directly related to its state during the negative cycle of the input waveform.During the negative cycle, the diode is reverse biased and does not conduct current, regardless of the potential barrier.Therefore, option C) Potential barrier is not the correct choice for describing the state of the diode during the negative cycle of the waveform in half-wave rectification."
+        },
+        {
+          "letter": "D",
+          "text": "None of these options are correct",
+          "isCorrect": false,
+          "explanation": "This option suggests that none of the provided options accurately describe the state of the diode during the negative cycle of the waveform in half-wave rectification.However, option A) Reverse biased accurately describes the state of the diode during this period, as it is indeed reverse biased and does not conduct current.Therefore, option D) None of these options are correct is not accurate, as option A) provides the correct description."
+        }
+      ],
+      "explanation": "During the positive half cycle of the AC voltage, the diode will be forward biased and the current flows through the diode. During the negative half cycle of the AC voltage, the diode will be reverse biased and the flow of current will be blocked. So the correct option is A.",
+      "explanationImage": null,
+      "hints": [
+        "half-wave rectification",
+        "negative cycle",
+        "diode"
+      ]
+    },
+    {
+      "text": "The ripple factor of a full-wave rectifier is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.21",
+          "isCorrect": false,
+          "explanation": "The ripple factor for a full-wave rectifier is 0.482 which can also be written as 48.2%."
+        },
+        {
+          "letter": "B",
+          "text": "0.6",
+          "isCorrect": false,
+          "explanation": "The ripple factor for a full-wave rectifier is 0.482 which can also be written as 48.2%."
+        },
+        {
+          "letter": "C",
+          "text": "0.482",
+          "isCorrect": true,
+          "explanation": "The ripple factor for a full-wave rectifier is 0.482 which can also be written as 48.2%."
+        },
+        {
+          "letter": "D",
+          "text": "0.9",
+          "isCorrect": false,
+          "explanation": "The ripple factor for a full-wave rectifier is 0.482 which can also be written as 48.2%."
+        }
+      ],
+      "explanation": "The ripple factor for a full-wave rectifier is 0.482 which can also be written as 48.2%.",
+      "explanationImage": null,
+      "hints": [
+        "ripple factor",
+        "full-wave rectifier"
+      ]
+    },
+    {
+      "text": "The bridge rectifier is preferred to an ordinary two diode full-wave rectifier because?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "It needs a much smaller transformer for the same output.",
+          "isCorrect": false,
+          "explanation": "While it's true that a bridge rectifier can use a smaller transformer for the same output, this is only one of the advantages. This option alone doesn't cover all the reasons for preferring a bridge rectifier."
+        },
+        {
+          "letter": "B",
+          "text": "No center tap required.",
+          "isCorrect": false,
+          "explanation": "The absence of a center tap is indeed an advantage of using a bridge rectifier. However, this is not the sole reason for its preference."
+        },
+        {
+          "letter": "C",
+          "text": "Less PIV rating per diode.",
+          "isCorrect": false,
+          "explanation": "A bridge rectifier requires less Peak Inverse Voltage (PIV) rating per diode, which is advantageous but not the only reason for its preference."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above options are correct.",
+          "isCorrect": true,
+          "explanation": "All the mentioned advantages are correct: less PIV rating per diode, no need for a center tap, and the ability to use a smaller transformer. These collectively make the bridge rectifier more efficient and preferable."
+        }
+      ],
+      "explanation": "A bridge rectifier is preferred over a two-diode full-wave rectifier because it offers multiple advantages: It requires less Peak Inverse Voltage (PIV) per diode, which reduces the stress on each diode and enhances reliability.There's no need for a center tap on the transformer, simplifying the design and potentially reducing costs.The transformer size can be smaller for the same output, making the system more compact and efficient.These factors combined make the bridge rectifier more advantageous than just considering one of these aspects alone, as outlined in the incorrect options.",
+      "explanationImage": null,
+      "hints": [
+        "bridge rectifier",
+        "two diode full-wave rectifier"
+      ]
+    },
+    {
+      "text": "A full-wave rectifier passes _ into positive cycles.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lower-half cycle",
+          "isCorrect": false,
+          "explanation": "A suggests that a full-wave rectifier passes the lower half cycle into the positive cycle. However, this option is incorrect. A full-wave rectifier is designed to convert both the positive and negative cycles of an alternating current (AC) input into a unidirectional (DC) output."
+        },
+        {
+          "letter": "B",
+          "text": "Upper half cycle",
+          "isCorrect": false,
+          "explanation": "B suggests that a full-wave rectifier passes the upper half cycle into the positive cycle. This option is also incorrect. A full-wave rectifier does not selectively pass only the upper half-cycle into the positive cycle."
+        },
+        {
+          "letter": "C",
+          "text": "Both cycles",
+          "isCorrect": true,
+          "explanation": "The correct answer is \"both cycles.\" In a full-wave rectifier, both the positive and negative halves of the input AC waveform are utilized. During the positive half-cycle of the input AC waveform, the diodes conduct and allow the current to flow in one direction. This results in a positive output voltage. During the negative half-cycle of the input AC waveform, the diodes also conduct, but in the opposite direction. This allows the current to flow in the opposite direction, effectively rectifying the negative half-cycle and still contributing to the positive output voltage."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "D suggests that none of the given options are correct. While this option is technically correct, it does not provide a specific explanation."
+        }
+      ],
+      "explanation": "Full-wave rectification rectifies the negative component of the input voltage to a positive voltage, then converts it into DC (pulse current) utilizing a diode bridge configuration.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The maximum efficiency of a full wave rectifier is _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "80.60%",
+          "isCorrect": true,
+          "explanation": "The maximum efficiency of full wave rectifier is 80.60%.This option suggests a specific efficiency value for a full-wave rectifier.However, the maximum theoretical efficiency of a full-wave rectifier is approximately 81.2%.The efficiency of a full-wave rectifier is determined by the ratio of the DC power output to the AC power input, considering losses in the rectification process."
+        },
+        {
+          "letter": "B",
+          "text": "40.60%",
+          "isCorrect": false,
+          "explanation": "This option suggests a specific efficiency value for a full-wave rectifier.However, 40.6% is the maximum theoretical efficiency of a half-wave rectifier, not a full-wave rectifier.The efficiency of a full-wave rectifier is typically higher than that of a half-wave rectifier due to its ability to utilize both halves of the input AC cycle.Therefore, option B) 40.6% is incorrect as it represents the maximum efficiency of a different type of rectifier."
+        },
+        {
+          "letter": "C",
+          "text": "70%",
+          "isCorrect": false,
+          "explanation": "This option suggests a specific efficiency value for a full-wave rectifier.However, 70% is not the maximum theoretical efficiency of a full-wave rectifier.While it is higher than the efficiency of a half-wave rectifier, the maximum theoretical efficiency of a full-wave rectifier is higher than 70%.Therefore, option C) 70% is incorrect as it does not accurately represent the maximum efficiency of a full-wave rectifier."
+        },
+        {
+          "letter": "D",
+          "text": "50%",
+          "isCorrect": false,
+          "explanation": "This option suggests a specific efficiency value for a full-wave rectifier.However, 50% is not the maximum theoretical efficiency of a full-wave rectifier.The efficiency of a full-wave rectifier is typically higher than 50% due to its ability to utilize both halves of the input AC cycle.Therefore, option D) 50% is incorrect as it does not accurately represent the maximum efficiency of a full-wave rectifier."
+        }
+      ],
+      "explanation": "It is a fact that maximum efficiency of a full wave rectifier is 80.60%.",
+      "explanationImage": null,
+      "hints": [
+        "maximum efficiency",
+        "full wave rectifier"
+      ]
+    },
+    {
+      "text": "The output voltage of a rectifier is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Smooth",
+          "isCorrect": false,
+          "explanation": "The output voltage of a rectifier cannot be smooth because of ripple factor; some of the AC voltage still goes into output. Hence, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Pulsating",
+          "isCorrect": true,
+          "explanation": "The output voltage of a rectifier is, indeed, pulsating. The rectifier does not completely eliminate the alternating nature of input. Some of the AC voltage still passes through it and results in pulsating DC voltage. Hence, this option is the correct option."
+        },
+        {
+          "letter": "C",
+          "text": "Perfectly direct",
+          "isCorrect": false,
+          "explanation": "The output voltage of a rectifier cannot be perfectly direct or DC voltage because some of the AC voltage still passes through the rectifier. Hence, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Alternating",
+          "isCorrect": false,
+          "explanation": "The main function of a rectifier is to convert AC voltage to DC voltage. Hence, the output of a rectifier cannot be AC. This option is incorrect."
+        }
+      ],
+      "explanation": "A rectifier is used to convert alternating current to pulsating direct current not smooth direct current. Perfectly direct current will have fixed magnitude and fixed direction of current. This is not true for the output of a rectifier. Hence, option B is correct.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The valence of an impurity added to germanium crystal in order to convert it into a P-type semiconductor is :",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": "Elements with a valence of 6 are not suitable for altering the semiconductor type, as they do not fit into the lattice structure of germanium effectively."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "Elements with a valence of 5, such as phosphorus, donate extra electrons to the semiconductor, resulting in an N-type semiconductor, not a P-type."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "Elements with a valence of 4, like silicon and germanium, are used as the base material for the semiconductor itself and do not change the type by doping."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "isCorrect": true,
+          "explanation": "Elements with a valence of 3, such as boron, accept electrons from the crystal lattice, creating 'holes' that contribute to the formation of a P-type semiconductor."
+        }
+      ],
+      "explanation": "To convert a germanium crystal into a P-type semiconductor, an element with a valence of 3, such as boron, is added. This type of impurity accepts electrons, creating holes that facilitate positive charge carrier movement, hence forming a P-type semiconductor. Other options are incorrect: elements with a valence of 5 donate electrons, forming N-type semiconductors, while elements with valences of 4 and 6 do not effectively alter the conduction type of the semiconductor.",
+      "explanationImage": null,
+      "hints": [
+        "valence",
+        "impurity"
+      ]
+    },
+    {
+      "text": "Assertion: In n-type semiconductors electrons are the majority charge carriers and holes are the minority charge carriers.Reason: n-type semiconductor is electrically neutral.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "If both Assertion & Reason are true and the reason is the correct explanation of the assertion",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While both the assertion and the reason are true, the reason does not explain why electrons are the majority carriers in n-type semiconductors; it merely states a general property of semiconductors."
+        },
+        {
+          "letter": "B",
+          "text": "If both Assertion & Reason are true but the reason is not the correct explanation of the assertion",
+          "isCorrect": true,
+          "explanation": "This option is correct. Both statements are true: electrons are indeed the majority charge carriers in n-type semiconductors, and they are electrically neutral. However, the reason does not explain why electrons are the majority carriers; it only states a separate fact about neutrality."
+        },
+        {
+          "letter": "C",
+          "text": "If Assertion is a true statement but Reason is false",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the reason is not false. The statement about n-type semiconductors being electrically neutral is true, even though it does not explain the assertion."
+        },
+        {
+          "letter": "D",
+          "text": "If both Assertion and Reason are false statements",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because both the assertion and the reason are true statements regarding n-type semiconductors."
+        }
+      ],
+      "explanation": "The assertion is true: In n-type semiconductors, electrons are the majority charge carriers and holes are the minority charge carriers. This is due to the doping process that adds extra electrons to the semiconductor material. The reason is also true: n-type semiconductors are electrically neutral because the number of positive charges (protons in the nucleus) balances the number of negative charges (electrons). However, the reason does not explain why electrons are the majority carriers; it is an independent fact about the semiconductor's electrical neutrality. Hence, Option B is the correct answer. Options A, C, and D are incorrect because they misrepresent the truth value or the explanatory power of the reason in relation to the assertion.",
+      "explanationImage": null,
+      "hints": [
+        "n-type semiconductors",
+        "majority charge carriers",
+        "electrically neutral"
+      ]
+    },
+    {
+      "text": "A diode characteristic curve is a graph between:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Current and time",
+          "isCorrect": false,
+          "explanation": "This is incorrect. A diode characteristic curve does not illustrate the relationship between current and time. It is more focused on the behavior of current with respect to voltage across the diode."
+        },
+        {
+          "letter": "B",
+          "text": "Voltage and current",
+          "isCorrect": true,
+          "explanation": "This is correct. The diode characteristic curve demonstrates how the current through the diode varies with the applied voltage, which is essential for understanding diode operation."
+        },
+        {
+          "letter": "C",
+          "text": "Voltage and time",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The diode characteristic curve is not typically concerned with time, but rather the relationship between voltage and current."
+        },
+        {
+          "letter": "D",
+          "text": "Forward voltage and reverse current",
+          "isCorrect": false,
+          "explanation": "This is incorrect. While forward voltage and reverse current are indeed important parameters for diodes, the characteristic curve primarily shows the overall voltage-current relationship rather than isolating these parameters."
+        }
+      ],
+      "explanation": "The correct answer is Voltage and current. A diode characteristic curve, also known as the I-V curve, represents the relationship between the voltage across a diode and the current flowing through it. This curve is crucial for understanding how a diode will behave in a circuit, particularly its forward and reverse bias characteristics. Other options such as Current and time or Voltage and time do not typically represent the fundamental characteristics of a diode. Similarly, while Forward voltage and reverse current are important, they do not constitute the entire characteristic curve which is based on the overall voltage-current relationship.",
+      "explanationImage": null,
+      "hints": [
+        "diode",
+        "characteristic",
+        "curve"
+      ]
+    },
+    {
+      "text": "The device used for conversion of AC into DC is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "An oscillator",
+          "isCorrect": false,
+          "explanation": "An oscillator is used to generate periodic signals, such as sine or square waves, and does not perform AC to DC conversion."
+        },
+        {
+          "letter": "B",
+          "text": "An amplifier",
+          "isCorrect": false,
+          "explanation": "An amplifier is designed to increase the power of a signal, maintaining its form, but it does not convert AC to DC."
+        },
+        {
+          "letter": "C",
+          "text": "A detector",
+          "isCorrect": false,
+          "explanation": "A detector's primary function is to sense or measure signals, and it does not change AC into DC."
+        },
+        {
+          "letter": "D",
+          "text": "A rectifier",
+          "isCorrect": true,
+          "explanation": "A rectifier is specifically engineered to convert alternating current (AC) into direct current (DC), which is crucial for devices that require DC power."
+        }
+      ],
+      "explanation": "The correct answer is A rectifier. A rectifier is an essential electronic component that converts alternating current (AC) into direct current (DC), making it indispensable in power supplies for electronic devices. In contrast, an oscillator is used for generating waveforms, an amplifier boosts the amplitude of a signal without altering its form, and a detector is used for identifying or measuring signal characteristics. None of these other options perform the function of converting AC to DC.",
+      "explanationImage": null,
+      "hints": [
+        "device",
+        "conversion"
+      ]
+    },
+    {
+      "text": "Depletion region carries:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Negative charge",
+          "isCorrect": false,
+          "explanation": "The depletion region is a charge-neutral area, so it does not carry negative charge."
+        },
+        {
+          "letter": "B",
+          "text": "No free charge",
+          "isCorrect": true,
+          "explanation": "In the depletion region, free charge carriers recombine, resulting in an area devoid of free charges."
+        },
+        {
+          "letter": "C",
+          "text": "Positive charge",
+          "isCorrect": false,
+          "explanation": "The depletion region is charge-neutral, meaning it does not have positive charge."
+        },
+        {
+          "letter": "D",
+          "text": "Positive ions",
+          "isCorrect": false,
+          "explanation": "While the depletion region may have fixed ions, it is primarily characterized by the absence of free charge carriers."
+        }
+      ],
+      "explanation": "The depletion region in a semiconductor junction forms due to the recombination of electrons and holes from the n and p regions, respectively. This recombination leads to a region where free charge carriers are absent, resulting in a charge-neutral area. Therefore, the depletion region carries no free charge. Options A, C, and D are incorrect because they suggest the presence of negative or positive charges, which contradicts the nature of a depletion region as being free of mobile charge carriers.",
+      "explanationImage": null,
+      "hints": [
+        "Depletion",
+        "region"
+      ]
+    },
+    {
+      "text": "Germanium at 0K is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conductor",
+          "isCorrect": false,
+          "explanation": "Germanium is part of group 4 elements, which are semiconductors, not conductors. At 0K, it has no free charge carriers to conduct electricity."
+        },
+        {
+          "letter": "B",
+          "text": "Semiconductor",
+          "isCorrect": false,
+          "explanation": "While germanium is a semiconductor at higher temperatures, at 0K it lacks the energy required to generate free charge carriers, making it behave like an insulator."
+        },
+        {
+          "letter": "C",
+          "text": "Insulator",
+          "isCorrect": true,
+          "explanation": "At 0K, germanium has no thermal energy to excite electrons into the conduction band, thus behaving as an insulator due to the absence of free charge carriers."
+        },
+        {
+          "letter": "D",
+          "text": "P and N semiconductor",
+          "isCorrect": false,
+          "explanation": "Without any doping, pure germanium at 0K behaves as an insulator, not as a P-type or N-type semiconductor."
+        }
+      ],
+      "explanation": "Germanium is a semiconductor, which means that its ability to conduct electricity depends on the availability of free charge carriers. At 0K, there is no thermal energy to excite electrons from the valence band to the conduction band, leaving no free charge carriers to support conduction. Therefore, germanium behaves as an insulator at this temperature. Other options are incorrect because they do not account for the lack of free charge carriers at 0K. Specifically, pure germanium at 0K cannot be a conductor or a semiconductor due to its lack of conductivity, and it is not doped to become a P-type or N-type semiconductor.",
+      "explanationImage": null,
+      "hints": [
+        "0K",
+        "Germanium"
+      ]
+    },
+    {
+      "text": "Which one of the following is an intrinsic semiconductor?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Boron",
+          "isCorrect": false,
+          "explanation": "Boron is a group 3 element used as a dopant in semiconductors, making it extrinsic rather than intrinsic."
+        },
+        {
+          "letter": "B",
+          "text": "Copper",
+          "isCorrect": false,
+          "explanation": "Copper is a transition metal and a good conductor of electricity, not a semiconductor."
+        },
+        {
+          "letter": "C",
+          "text": "Indium",
+          "isCorrect": false,
+          "explanation": "Indium is a group 3 element typically used as a dopant in semiconductors, resulting in extrinsic semiconductors."
+        },
+        {
+          "letter": "D",
+          "text": "Silicon",
+          "isCorrect": true,
+          "explanation": "Silicon is a group 4 element that can exist as a pure semiconductor, making it an intrinsic semiconductor."
+        }
+      ],
+      "explanation": "Intrinsic semiconductors are pure forms of semiconductor materials. Silicon, being a group 4 element, can function as an intrinsic semiconductor without the need for doping. Boron and Indium are group 3 elements and are commonly used as dopants to create extrinsic semiconductors. Copper, on the other hand, is a metal and a good conductor, not a semiconductor.",
+      "explanationImage": null,
+      "hints": [
+        "intrinsic",
+        "semiconductor"
+      ]
+    },
+    {
+      "text": "In extrinsic semiconductor, the doping level should be in the ratio:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1:10-6",
+          "isCorrect": false,
+          "explanation": "This ratio implies an extremely high concentration of dopants, which would disrupt the semiconductor's lattice structure and alter its properties more than desired."
+        },
+        {
+          "letter": "B",
+          "text": "1:106",
+          "isCorrect": true,
+          "explanation": "This ratio, where there is one dopant atom per 106 host atoms, is ideal as it effectively enhances conductivity without overwhelming the semiconductor matrix."
+        },
+        {
+          "letter": "C",
+          "text": "1:10-8",
+          "isCorrect": false,
+          "explanation": "An even higher concentration of dopants than 1:10-6, disrupting the semiconductor significantly and likely leading to a breakdown of its intended properties."
+        },
+        {
+          "letter": "D",
+          "text": "1:108",
+          "isCorrect": false,
+          "explanation": "This ratio suggests a very low concentration of dopants, insufficient to meaningfully alter the semiconductor's electrical properties."
+        }
+      ],
+      "explanation": "In extrinsic semiconductors, achieving the right balance of dopant concentration is key to optimizing electrical properties. The correct ratio is approximately 1 dopant atom per 106 host atoms (Option B), which introduces enough charge carriers to significantly enhance conductivity while maintaining the structural integrity of the semiconductor. Options A (1:10-6) and C (1:10-8) suggest ratios that are too high, leading to excessive changes in material properties and potential lattice disruptions. Option D (1:108) proposes a concentration too low to effectively alter conductivity, resulting in minimal impact on the semiconductor's performance.",
+      "explanationImage": null,
+      "hints": [
+        "extrinsic",
+        "semiconductor"
+      ]
+    },
+    {
+      "text": "In P-type semiconductor, the doping of Silicon is taken place with:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bivalent",
+          "isCorrect": false,
+          "explanation": "Bivalent elements have two valence electrons and are not used for doping semiconductors."
+        },
+        {
+          "letter": "B",
+          "text": "Trivalent",
+          "isCorrect": true,
+          "explanation": "Trivalent elements, such as those from group 3 of the periodic table, are used for P-type doping because they have three valence electrons. This creates 'holes' or positive charge carriers in the semiconductor."
+        },
+        {
+          "letter": "C",
+          "text": "Tetravalent",
+          "isCorrect": false,
+          "explanation": "Tetravelent elements, like silicon itself, have four valence electrons and do not change the charge carrier properties when used as dopants."
+        },
+        {
+          "letter": "D",
+          "text": "Pentavalent",
+          "isCorrect": false,
+          "explanation": "Pentavalent elements, with five valence electrons, are used for N-type doping, introducing extra electrons as charge carriers."
+        }
+      ],
+      "explanation": "P-type semiconductors are created by doping silicon with trivalent elements, which have three valence electrons. This creates holes in the crystal lattice that act as positive charge carriers. Bivalent and tetravelent elements do not introduce the necessary charge carriers for P-type doping. Pentavalent elements are used in N-type doping, providing extra electrons rather than holes.",
+      "explanationImage": null,
+      "hints": [
+        "P-type",
+        "doping",
+        "Silicon"
+      ]
+    },
+    {
+      "text": "When p-type and N-type semiconductor are combined then we have a:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Resistor",
+          "isCorrect": false,
+          "explanation": "Incorrect. A resistor is a passive component that opposes the flow of current, not formed by combining semiconductor types."
+        },
+        {
+          "letter": "B",
+          "text": "Capacitor",
+          "isCorrect": false,
+          "explanation": "Incorrect. A capacitor is used to store electrical energy and is not made by combining semiconductors."
+        },
+        {
+          "letter": "C",
+          "text": "Diode",
+          "isCorrect": true,
+          "explanation": "Correct. A diode is formed when a P-type and an N-type semiconductor are combined, creating a PN junction that allows current to flow in one direction."
+        },
+        {
+          "letter": "D",
+          "text": "Triode",
+          "isCorrect": false,
+          "explanation": "Incorrect. A triode is a type of vacuum tube with three electrodes, not formed by semiconductors alone."
+        }
+      ],
+      "explanation": "When P-type and N-type semiconductors are combined, they form a PN junction, which is the fundamental building block of a diode. This junction allows current to flow primarily in one direction, which is the defining characteristic of a diode. A resistor, capacitor, and triode are different types of electronic components with distinct functions and are not formed by combining P-type and N-type semiconductors. Resistors oppose current flow, capacitors store electrical energy, and triodes are vacuum tubes used to amplify signals.",
+      "explanationImage": null,
+      "hints": [
+        "p-type",
+        "N-type"
+      ]
+    },
+    {
+      "text": "The potential difference across the silicon PN-junction is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.3 V",
+          "isCorrect": false,
+          "explanation": "This value is commonly associated with germanium diodes rather than silicon. Silicon diodes typically have a higher forward voltage drop."
+        },
+        {
+          "letter": "B",
+          "text": "0.5 V",
+          "isCorrect": false,
+          "explanation": "While 0.5 V is within the range for silicon diodes, it is more typical for silicon diodes to have a forward voltage drop closer to 0.7 V."
+        },
+        {
+          "letter": "C",
+          "text": "0.7 V",
+          "isCorrect": true,
+          "explanation": "This is the typical forward voltage drop for a silicon PN-junction diode. Silicon diodes generally have a forward voltage range of 0.6 to 0.7 V."
+        },
+        {
+          "letter": "D",
+          "text": "0.9 V",
+          "isCorrect": false,
+          "explanation": "This value is higher than the typical forward voltage drop for silicon diodes, which usually falls in the 0.6 to 0.7 V range."
+        }
+      ],
+      "explanation": "The correct answer is C. The typical forward voltage drop for a silicon PN-junction is around 0.7 V. This value is due to the material properties of silicon and is a standard characteristic of silicon diodes. Option A (0.3 V) is usually associated with germanium diodes, not silicon. Option B (0.5 V) is lower than the typical forward voltage for silicon but falls within the broader range. Option D (0.9 V) exceeds the usual range for silicon diodes, indicating a value that is too high for typical applications.",
+      "explanationImage": null,
+      "hints": [
+        "potential",
+        "difference"
+      ]
+    },
+    {
+      "text": "In forward biasing, the knee voltage for Germanium PN-Junction is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.3 V",
+          "isCorrect": true,
+          "explanation": "This option states that the knee voltage for a Germanium PN-junction in forward biasing is 0.3 V. This is correct, as Germanium diodes typically have a knee voltage around 0.3 V."
+        },
+        {
+          "letter": "B",
+          "text": "0.7 V",
+          "isCorrect": false,
+          "explanation": "This option suggests a knee voltage of 0.7 V for a Germanium PN-junction, which is incorrect. The value of 0.7 V typically applies to Silicon diodes, not Germanium."
+        },
+        {
+          "letter": "C",
+          "text": "3 V",
+          "isCorrect": false,
+          "explanation": "This option implies a knee voltage of 3 V, which is much too high for both Germanium and Silicon diodes. It is not a plausible value for a PN-junction diode's knee voltage."
+        },
+        {
+          "letter": "D",
+          "text": "7 V",
+          "isCorrect": false,
+          "explanation": "This option suggests a knee voltage of 7 V, which is far from the typical range for Germanium or Silicon diodes, and is not a reasonable value for a diode's knee voltage."
+        }
+      ],
+      "explanation": "The correct answer is Option A: 0.3 V. Germanium PN-junction diodes have a typical knee voltage of about 0.3 V when forward biased. This is due to the smaller bandgap of Germanium compared to Silicon, which has a knee voltage of approximately 0.7 V. Option B incorrectly applies the knee voltage of Silicon to Germanium. Options C and D suggest knee voltages that are unrealistically high for any standard PN-junction diodes, making them incorrect.",
+      "explanationImage": null,
+      "hints": [
+        "forward",
+        "biasing",
+        "Germanium"
+      ]
+    },
+    {
+      "text": "The crystals of Germanium and Silicon are the examples of_.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electrons",
+          "isCorrect": false,
+          "explanation": "They are made of fundamental particles electrons but are not examples of them."
+        },
+        {
+          "letter": "B",
+          "text": "Semi-conductors",
+          "isCorrect": true,
+          "explanation": "The crystals of Germanium and Silicon are examples of semiconductors. Both elements are commonly used in electronic devices due to their semiconductor properties."
+        },
+        {
+          "letter": "C",
+          "text": "Conductors",
+          "isCorrect": false,
+          "explanation": "They are not examples of conductors as they conduct electricity under few circumstances and have conductivity less than that of conductors."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "As one of the above options is correct, this option is not correct."
+        }
+      ],
+      "explanation": "The crystals of Germanium and Silicon are examples of semiconductors. Both elements are commonly used in electronic devices due to their semiconductor properties.",
+      "explanationImage": null,
+      "hints": [
+        "Germanium",
+        "Silicon"
+      ]
+    },
+    {
+      "text": "We add impurities such as,_ we can gain an N-types semi-conductors:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Antimony, phosphorous or Arsenic",
+          "isCorrect": true,
+          "explanation": "We can gain an N-type semiconductor by adding impurities such as phosphorus or arsenic. These elements have more electrons in their outer shells than elements like silicon or germanium, and when they're introduced as impurities into these semiconductors, they create an excess of free electrons, thereby giving rise to an N-type semiconductor."
+        },
+        {
+          "letter": "B",
+          "text": "Carbon, oxygen and Nitrogen",
+          "isCorrect": false,
+          "explanation": "Carbon, oxygen, and nitrogen are not typically used as impurities to create N-type semiconductors. While these elements are crucial in various chemical and biological processes, they are not commonly employed as dopants to alter the conductivity type of semiconductors like silicon or germanium. Instead, elements like phosphorus or arsenic, which have extra electrons compared to the host semiconductor material, are used as dopants to create N-type semiconductors."
+        },
+        {
+          "letter": "C",
+          "text": "Arsenic and oxygen",
+          "isCorrect": false,
+          "explanation": "Arsenic is indeed used as a common impurity to create N-type semiconductors. However, oxygen, while it can be present in semiconductor materials, typically acts as a contributor to defects or as a part of the structure rather than as a deliberate dopant to alter conductivity type. Oxygen can influence the properties of semiconductors but is not primarily utilized as a dopant to intentionally create N-type conductivity."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "As one of the above options is correct, this option is not correct."
+        }
+      ],
+      "explanation": "We can gain an N-type semiconductor by adding impurities such as phosphorus or arsenic. These elements have more electrons in their outer shells than elements like silicon or germanium, and when they're introduced as impurities into these semiconductors, they create an excess of free electrons, thereby giving rise to an N-type semiconductor.",
+      "explanationImage": null,
+      "hints": [
+        "impurities",
+        "types",
+        "N-types"
+      ]
+    },
+    {
+      "text": "The single crystal of germanium or silicon, formed after adding a trivalent impurity is known as _ substance.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "N-type",
+          "isCorrect": false,
+          "explanation": "We can gain an N-type semiconductor by adding pentavalent impurities such as phosphorus or arsenic. These elements have more electrons in their outer shells than elements like silicon or germanium, and when they're introduced as impurities into these semiconductors, they create an excess of free electrons, thereby giving rise to an N-type semiconductor."
+        },
+        {
+          "letter": "B",
+          "text": "P-type",
+          "isCorrect": true,
+          "explanation": "The P-type semiconductor is obtained by adding trivalent impurity materials such as boron, aluminum, or gallium. These elements have fewer electrons in their outer shells compared to the host semiconductor material like silicon or germanium. When they're introduced as impurities, they create \"holes\" or vacancies in the crystal lattice, leading to a shortage of electrons and generating a P-type semiconductor."
+        },
+        {
+          "letter": "C",
+          "text": "Q-type",
+          "isCorrect": false,
+          "explanation": "This option is irrelevant."
+        },
+        {
+          "letter": "D",
+          "text": "R-type",
+          "isCorrect": false,
+          "explanation": "This option is irrelevant."
+        }
+      ],
+      "explanation": "The P-type semiconductor is obtained by adding trivalent impurity materials such as boron, aluminum, or gallium. These elements have fewer electrons in their outer shells compared to the host semiconductor material like silicon or germanium. When they're introduced as impurities, they create \"holes\" or vacancies in the crystal lattice, leading to a shortage of electrons and generating a P-type semiconductor.",
+      "explanationImage": null,
+      "hints": [
+        "trivalent"
+      ]
+    },
+    {
+      "text": "There are _ main types of rectifiers.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Four",
+          "isCorrect": false,
+          "explanation": "There are two main types of rectifiers: half-wave rectifiers and full-wave rectifiers."
+        },
+        {
+          "letter": "B",
+          "text": "Three",
+          "isCorrect": false,
+          "explanation": "There are two main types of rectifiers: half-wave rectifiers and full-wave rectifiers."
+        },
+        {
+          "letter": "C",
+          "text": "Two",
+          "isCorrect": true,
+          "explanation": "There are two main types of rectifiers: half-wave rectifiers and full-wave rectifiers. These categories differ in how they convert alternating current (AC) to direct current (DC). Half-wave rectifiers only allow one half of the AC waveform to pass, while full-wave rectifiers allow both halves, resulting in a more continuous flow of current in one direction."
+        },
+        {
+          "letter": "D",
+          "text": "Nine",
+          "isCorrect": false,
+          "explanation": "There are two main types of rectifiers: half-wave rectifiers and full-wave rectifiers."
+        }
+      ],
+      "explanation": "There are two main types of rectifiers: half-wave rectifiers and full-wave rectifiers. These categories differ in how they convert alternating current (AC) to direct current (DC). Half-wave rectifiers only allow one half of the AC waveform to pass, while full-wave rectifiers allow both halves, resulting in a more continuous flow of current in one direction.",
+      "explanationImage": null,
+      "hints": [
+        "types",
+        "rectifiers"
+      ]
+    },
+    {
+      "text": "The outer most orbit of each atom in silicon contains:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Four electrons",
+          "isCorrect": true,
+          "explanation": "In silicon, each atom has four electrons in its outermost shell, also known as the valence shell. These valence electrons participate in bonding and play a crucial role in silicon's properties as a semiconductor. Silicon has four valence electrons, allowing it to form stable covalent bonds with neighboring silicon atoms, creating a crystal lattice structure."
+        },
+        {
+          "letter": "B",
+          "text": "Two electrons",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given below."
+        },
+        {
+          "letter": "C",
+          "text": "Eight electrons",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given below."
+        },
+        {
+          "letter": "D",
+          "text": "No electrons",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given below."
+        }
+      ],
+      "explanation": "In silicon, each atom has four electrons in its outermost shell, also known as the valence shell. These valence electrons participate in bonding and play a crucial role in silicon's properties as a semiconductor. Silicon has four valence electrons, allowing it to form stable covalent bonds with neighboring silicon atoms, creating a crystal lattice structure.",
+      "explanationImage": null,
+      "hints": [
+        "outer"
+      ]
+    },
+    {
+      "text": "Which one of the following is not a semi-conductor?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Silicon",
+          "isCorrect": false,
+          "explanation": "Silicon, Germanium, and Gallium are all semiconductor materials. They possess properties that allow them to be doped and modified to exhibit semiconductor behavior, conducting electricity under specific conditions by either adding impurities to increase conductivity (n-type doping) or by creating \"holes\" in the crystal structure (p-type doping)."
+        },
+        {
+          "letter": "B",
+          "text": "Germanium",
+          "isCorrect": false,
+          "explanation": "Silicon, Germanium, and Gallium are all semiconductor materials. They possess properties that allow them to be doped and modified to exhibit semiconductor behavior, conducting electricity under specific conditions by either adding impurities to increase conductivity (n-type doping) or by creating \"holes\" in the crystal structure (p-type doping)."
+        },
+        {
+          "letter": "C",
+          "text": "Diamond",
+          "isCorrect": true,
+          "explanation": "Diamond is a form of carbon and is classified as an insulator in its pure form. Its crystal structure doesn't inherently possess the characteristics of a semiconductor. It has a wide band gap, similar to that of insulators, which restricts the movement of electrons, preventing them from easily transitioning from the valence band to the conduction band to conduct electricity."
+        },
+        {
+          "letter": "D",
+          "text": "Gallium",
+          "isCorrect": false,
+          "explanation": "Silicon, Germanium, and Gallium are all semiconductor materials. They possess properties that allow them to be doped and modified to exhibit semiconductor behavior, conducting electricity under specific conditions by either adding impurities to increase conductivity (n-type doping) or by creating \"holes\" in the crystal structure (p-type doping)."
+        }
+      ],
+      "explanation": "Diamond is a form of carbon and is classified as an insulator in its pure form. Its crystal structure doesn't inherently possess the characteristics of a semiconductor. It has a wide band gap, similar to that of insulators, which restricts the movement of electrons, preventing them from easily transitioning from the valence band to the conduction band to conduct electricity.",
+      "explanationImage": null,
+      "hints": [
+        "not"
+      ]
+    },
+    {
+      "text": "N -type materials are obtained by dopping intrinsic germanium with:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trivalent impurity atoms",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given below."
+        },
+        {
+          "letter": "B",
+          "text": "Pentavalent impurity atoms",
+          "isCorrect": true,
+          "explanation": "N-type materials are obtained by doping intrinsic (pure) germanium with a pentavalent impurity. Commonly used pentavalent dopants for germanium include elements like phosphorus (P), arsenic (As), or antimony (Sb). These elements have five valence electrons, one more than germanium's four valence electrons. When these pentavalent atoms replace some of the germanium atoms in the crystal lattice, they introduce extra electrons into the structure, creating an excess of negative (n-type) charge carriers, enhancing the material's conductivity."
+        },
+        {
+          "letter": "C",
+          "text": "Tetravalent impurity atoms",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given below."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "As one of the above options is correct, this option is not correct."
+        }
+      ],
+      "explanation": "N-type materials are obtained by doping intrinsic (pure) germanium with a pentavalent impurity. Commonly used pentavalent dopants for germanium include elements like phosphorus (P), arsenic (As), or antimony (Sb). These elements have five valence electrons, one more than germanium's four valence electrons. When these pentavalent atoms replace some of the germanium atoms in the crystal lattice, they introduce extra electrons into the structure, creating an excess of negative (n-type) charge carriers, enhancing the material's conductivity.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Choose the correct sentence:",
+      "image": null,
+      "subject": "English",
+      "topic": "Combination Mistake",
+      "year": 2020,
+      "options": [
+        {
+          "letter": "A",
+          "text": "I wish I have been a millionaire.",
+          "isCorrect": false,
+          "explanation": "After wish, you cannot use present perfect (have been). Wishes about the present require past tense, and wishes about the past require past perfect."
+        },
+        {
+          "letter": "B",
+          "text": "I wish I am being a millionaire.",
+          "isCorrect": false,
+          "explanation": "After “I wish,” we must use a past tense (were) to show an unreal or impossible situation — not am being, which is present continuous. Am being describes a temporary action, but being a millionaire is not an action you “are being” — it is a state, so continuous tense cannot be used"
+        },
+        {
+          "letter": "C",
+          "text": "I wish I were a millionaire.",
+          "isCorrect": true,
+          "explanation": "The correct sentence is:I wish I were a millionaire.The sentence is used by the speaker to express an unfulfilled desire (to be a millionaire). This means that the person is referring to an event in the past that they wanted to be true. I were” is the correct verb form. (Another example to illustrate this is the sentence “If I were you, I would go to the party”). Hence, Option C is correct"
+        },
+        {
+          "letter": "D",
+          "text": "I wish I was a millionaire.",
+          "isCorrect": false,
+          "explanation": "After “wish,” English requires the subjunctive mood, which uses “were” (not was) to show an unreal or imaginary situation."
+        }
+      ],
+      "explanation": "The correct sentence is:I wish I were a millionaire.The sentence is used by the speaker to express an unfulfilled desire (to be a millionaire). This means that the person is referring to an event in the past that they wanted to be trueHence, Option C is correct option.",
+      "explanationImage": null,
+      "hints": [
+        "correct"
+      ]
+    },
+    {
+      "text": "Choose the correct sentence:",
+      "image": null,
+      "subject": "English",
+      "topic": "Punctuations",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ariel is trying hard in school this semester, her father said.",
+          "isCorrect": false,
+          "explanation": "This is not true as per the Explanation.Using “, her father said” without quotation marks can seem informal, so adding quotes would make it more standard: “Ariel is trying hard in school this semester,” her father said."
+        },
+        {
+          "letter": "B",
+          "text": "\"Ariel is trying hard in school this semester,\" her father said.",
+          "isCorrect": true,
+          "explanation": "Using accurate punctuation in quoting dialogues as well as understanding the type of sentences. Understanding the comma's position before ending quotation marks is essential."
+        },
+        {
+          "letter": "C",
+          "text": "\"Ariel is trying hard in school this semester?\" her father said.",
+          "isCorrect": false,
+          "explanation": "This is not true as per the Explanation.Using asked instead of said would be more natural: \"Ariel is trying hard in school this semester?\" her father asked."
+        },
+        {
+          "letter": "D",
+          "text": "\"Ariel is trying hard School this semester,\" her father said.",
+          "isCorrect": false,
+          "explanation": "This is not true as per the Explanation.The word School should not be capitalized because it is not a proper noun in this context."
+        }
+      ],
+      "explanation": "Using accurate punctuation in quoting dialogues, as well as the understanding type of sentences (declarative), is imperative. Understanding the comma's position before ending quotation marks is essential.",
+      "explanationImage": null,
+      "hints": [
+        "correct"
+      ]
+    },
+    {
+      "text": "Choose the correct sentence.",
+      "image": null,
+      "subject": "English",
+      "topic": "Punctuations",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apples, which are my favourite fruit grow in my parent's orchard.",
+          "isCorrect": false,
+          "explanation": "The use of \"my parent's orchard\" suggests only one parent, which is likely incorrect. It should be \"my parents' orchard\" to indicate ownership by both parents. Additionally, there should be a comma after \"fruit\" to set off the non-essential clause."
+        },
+        {
+          "letter": "B",
+          "text": "Apples which are my favourite fruit grow in my parents' orchard.",
+          "isCorrect": false,
+          "explanation": "This sentence lacks a comma before \"which\" to indicate that the clause is non-restrictive. The correct form is \"Apples, which are my favourite fruit, grow in my parents' orchard.\""
+        },
+        {
+          "letter": "C",
+          "text": "Apples which are my favourite fruit, grow in my parents' orchard.",
+          "isCorrect": false,
+          "explanation": "The sentence incorrectly places a comma after \"fruit.\" The clause \"which are my favourite fruit\" should be enclosed in commas as it provides additional information. The possessive form is correct."
+        },
+        {
+          "letter": "D",
+          "text": "Apples, which are my favourite fruit, grow in my parents' orchard.",
+          "isCorrect": true,
+          "explanation": "This sentence correctly uses commas to enclose the non-essential clause \"which are my favourite fruit\" and uses the correct possessive form \"my parents' orchard.\""
+        }
+      ],
+      "explanation": "The correct sentence is \"Apples, which are my favourite fruit, grow in my parents' orchard.\" In this sentence, \"which are my favourite fruit\" is a non-essential clause that provides additional information about apples. It is correctly set off by commas. The possessive form \"my parents' orchard\" indicates that the orchard is owned by both parents. Other options either misuse the possessive apostrophe or fail to correctly punctuate the non-essential clause.",
+      "explanationImage": null,
+      "hints": [
+        "correct"
+      ]
+    },
+    {
+      "text": "Choose the correct sentence.",
+      "image": null,
+      "subject": "English",
+      "topic": "Subject Verb Agreement",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "I did not accompanied them.",
+          "isCorrect": false,
+          "explanation": "After “did not,” the main verb must be in its base form, not past tense. So it should be “accompany”, not “accompanied.”"
+        },
+        {
+          "letter": "B",
+          "text": "I do not accompanied them.",
+          "isCorrect": false,
+          "explanation": "After “do not”, the main verb must be in its base form, not past tense. So it should be “accompany”, not “accompanied.”"
+        },
+        {
+          "letter": "C",
+          "text": "I do not accompany them.",
+          "isCorrect": true,
+          "explanation": "The subject “I” correctly pairs with the base form of the verb “accompany” using do not for negation.The sentence is in the present simple tense, correctly expressing a habitual or general action, which is appropriate here."
+        },
+        {
+          "letter": "D",
+          "text": "I does not accompany them.",
+          "isCorrect": false,
+          "explanation": "This is grammatically incorrect.\"Accompanied\" is in the past tense whereas \"accompany\" is in the present tense. For the sentence to sound correct when read out aloud and to be grammatically correct option C is correct."
+        }
+      ],
+      "explanation": "The subject “I” correctly pairs with the base form of the verb “accompany” using do not for negation.The sentence is in the present simple tense, correctly expressing a habitual or general action, which is appropriate here.",
+      "explanationImage": null,
+      "hints": [
+        "correct"
+      ]
+    },
+    {
+      "text": "Demonstrate correct use of articles and prepositions, subject-verb agreement, writing conventions of spelling, capitalization and punctuation to clarify meaning.Choose the correct sentence.",
+      "image": null,
+      "subject": "English",
+      "topic": "Punctuations",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Who isn't here yet asked Parveen.",
+          "isCorrect": false,
+          "explanation": "This is incorrect as it not displays the proper use of punctuations and interrogation mark."
+        },
+        {
+          "letter": "B",
+          "text": "\"Who isn't here yet?\" Asked Parveen.",
+          "isCorrect": true,
+          "explanation": "B is the correct answer. Since only option b displays proper use of punctuations and interrogation mark."
+        },
+        {
+          "letter": "C",
+          "text": "Who isnt here yet? asked Parveen.",
+          "isCorrect": false,
+          "explanation": "“isnt” should be “isn’t” with an apostrophe.The sentence after the quotation mark should be capitalized: “Asked Parveen.”"
+        },
+        {
+          "letter": "D",
+          "text": "\"Who isnt here yet?\" asked Parveen.",
+          "isCorrect": false,
+          "explanation": "This is incorrect as it not displays the proper use of punctuations and interrogation mark."
+        }
+      ],
+      "explanation": "B is the correct answer. Since only option b displays proper use of punctuations and interrogation mark (question mark).“isnt” should be “isn’t” with an apostrophe.The sentence after the quotation mark should be capitalized: “Asked Parveen.”",
+      "explanationImage": null,
+      "hints": [
+        "correct"
+      ]
+    },
+    {
+      "text": "Choose the correct spelling of the word:",
+      "image": null,
+      "subject": "English",
+      "topic": "Punctuations",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fual",
+          "isCorrect": false,
+          "explanation": "This spelling is incorrect. The correct spelling is \"Fuel.\" The letter sequence \"ua\" does not match the correct spelling of the word."
+        },
+        {
+          "letter": "B",
+          "text": "Fuel",
+          "isCorrect": true,
+          "explanation": "This is the correct spelling. \"Fuel\" refers to a substance such as coal, gas, or oil that is burned to produce heat or power."
+        },
+        {
+          "letter": "C",
+          "text": "Fule",
+          "isCorrect": false,
+          "explanation": "This spelling is incorrect. The correct spelling does not include the letter \"e\" at the end."
+        },
+        {
+          "letter": "D",
+          "text": "Fuil",
+          "isCorrect": false,
+          "explanation": "This spelling is incorrect. The correct spelling does not include the letter \"i\" in the middle."
+        }
+      ],
+      "explanation": "This is the correct spelling. \"Fuel\" refers to a substance such as coal, gas, or oil that is burned to produce heat or power.",
+      "explanationImage": null,
+      "hints": [
+        "correct spelling"
+      ]
+    },
+    {
+      "text": "Choose the correct spelling of the word.",
+      "image": null,
+      "subject": "English",
+      "topic": "Punctuations",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nite",
+          "isCorrect": false,
+          "explanation": "The standard spelling is “night.” “Nite” is informal or text-speak."
+        },
+        {
+          "letter": "B",
+          "text": "Nigt",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as well. \"Nigt\" is not a recognized spelling of the word \"night.\" It does not follow the standard spelling conventions for the English language."
+        },
+        {
+          "letter": "C",
+          "text": "Nighte",
+          "isCorrect": false,
+          "explanation": "Nighte: This option is also incorrect. \"Nighte\" is an incorrect spelling of the word \"night.\" The addition of the \"e\" at the end does not correspond to the correct spelling."
+        },
+        {
+          "letter": "D",
+          "text": "Night",
+          "isCorrect": true,
+          "explanation": "This question tests basic vocabulary. The correct answer is Night."
+        }
+      ],
+      "explanation": "This question tests basic vocabulary. The correct spelling is displayed in Option D which is Night.",
+      "explanationImage": null,
+      "hints": [
+        "correct spelling"
+      ]
+    },
+    {
+      "text": "Pick the word which is always associated with \"books\".",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pages",
+          "isCorrect": true,
+          "explanation": "Pages: Books are made up of pages, which contain the text and information. When we think of books, we often think of flipping through the pages to read or find information."
+        },
+        {
+          "letter": "B",
+          "text": "Learning",
+          "isCorrect": false,
+          "explanation": "Learning: While books are commonly used as a source of learning and knowledge, not all books are specifically intended for learning purposes. Some books may be for entertainment or other purposes."
+        },
+        {
+          "letter": "C",
+          "text": "Pictures",
+          "isCorrect": false,
+          "explanation": "Pictures: While many books do contain pictures, not all books have them. There are various types of books, such as novels or textbooks, where the presence of pictures may vary."
+        },
+        {
+          "letter": "D",
+          "text": "Eraser",
+          "isCorrect": false,
+          "explanation": "Erasers: Erasers are not typically associated with books. Erasers are used for erasing mistakes or marks made with pencils, which are more commonly associated with writing or drawing."
+        }
+      ],
+      "explanation": "The word that is always associated with \"books\" A. Pages: Books are made up of pages, which contain the text and information. When we think of books, we often think of flipping through the pages to read or The other options are not always associated with B. Learning: While books are commonly used as a source of learning and knowledge, not all books are specifically intended for learning purposes. Some books may be for entertainment or other C. Pictures: While many books do contain pictures, not all books have them. There are various types of books, such as novels or textbooks, where the presence of pictures may D. Erasers: Erasers are not typically associated with books. Erasers are used for erasing mistakes or marks made with pencils, which are more commonly associated with writing or Therefore, the word that is always associated with \"books\" is \"pages\" (option A).",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Statements:Pakistan is a multilingual country. Urdu is the national language of Pakistan.Conclusions:I. AII Pakistanis should learn many languages. II. To be a Pakistani one needs to learn Urdu.",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only conclusion I follows",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The statement that Pakistan is multilingual describes the country as a whole, not a requirement for its individual citizens. The statement does not impose an obligation on all Pakistanis to learn multiple languages."
+        },
+        {
+          "letter": "B",
+          "text": "Only conclusion II follows",
+          "isCorrect": false,
+          "explanation": "This is incorrect. While Urdu is the national language, the statement does not establish learning it as a condition for being a Pakistani. It describes the status of the language, not a requirement for the people."
+        },
+        {
+          "letter": "C",
+          "text": "Neither Conclusion I nor Conclusion II is followed",
+          "isCorrect": true,
+          "explanation": "This is correct. The given statements are factual and descriptive. They do not contain any information that would support the prescriptive conclusions about what Pakistanis 'should' or 'need to' do."
+        },
+        {
+          "letter": "D",
+          "text": "Both Conclusion I and II are followed",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Since neither conclusion can be logically derived from the factual statements, it's impossible for both to follow."
+        }
+      ],
+      "explanation": "The statements are factual descriptions and do not contain any prescription or requirement. They do not imply what people should or need to do. Therefore, neither conclusion can be logically drawn from the statements provided.",
+      "explanationImage": null,
+      "hints": [
+        "should learn",
+        "needs to learn"
+      ]
+    },
+    {
+      "text": "Find the missing number in the series: 1, 7, 3, 9, 6, 12, 10, 16, 15, ?",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "18",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The number 18 does not align with the identified patterns of the two interwoven series."
+        },
+        {
+          "letter": "B",
+          "text": "15",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The number 15 has already appeared in the first series and does not fit the requirements for the next number in the sequence."
+        },
+        {
+          "letter": "C",
+          "text": "21",
+          "isCorrect": true,
+          "explanation": "This is correct. The number 21 follows the pattern of the second series, which increases by a consistent increment after 16."
+        },
+        {
+          "letter": "D",
+          "text": "20",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The number 20 does not belong to either series and fails to adhere to the established increment pattern."
+        }
+      ],
+      "explanation": "This is an alternating series. The first series (1, 3, 6, 10, 15) increases by +2, +3, +4, +5. The second series (7, 9, 12, 16) increases by +2, +3, +4. The next term belongs to the second series, so it is 16 + 5 = 21.",
+      "explanationImage": null,
+      "hints": [
+        "missing series",
+        "pattern",
+        "odd and even positions"
+      ]
+    }
+  ]
+}

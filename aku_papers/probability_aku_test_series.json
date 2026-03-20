@@ -1,0 +1,950 @@
+{
+  "questions": [
+    {
+      "text": "On a street with 7 houses, 2 houses are blue. If a house from this street is selected at random, what is the probability of selecting a house that is blue?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Probability",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/7",
+          "isCorrect": false,
+          "explanation": "Choice A is incorrect. This assumes there is only 1 blue house on the street, but there are actually 2."
+        },
+        {
+          "letter": "B",
+          "text": "2/7",
+          "isCorrect": true,
+          "explanation": "Choice B is correct. There are 2 blue houses out of a total of 7 houses, so the probability of selecting a blue house is 2/7."
+        },
+        {
+          "letter": "C",
+          "text": "5/7",
+          "isCorrect": false,
+          "explanation": "Choice C is incorrect. This is the probability of selecting a house that is not blue, as there are 5 non-blue houses on the street."
+        },
+        {
+          "letter": "D",
+          "text": "7/7",
+          "isCorrect": false,
+          "explanation": "Choice D is incorrect. This would only be correct if all 7 houses were blue, which they are not."
+        }
+      ],
+      "explanation": "The correct answer is Choice B: 2/7. To determine the probability of selecting a blue house, divide the number of blue houses by the total number of houses. There are 2 blue houses and 7 total houses, so the probability is 2/7. Choice A (1/7) is incorrect because it assumes only 1 house is blue. Choice C (5/7) is the probability of selecting a non-blue house. Choice D (7/7) assumes all houses are blue, which is not the case.",
+      "explanationImage": null,
+      "hints": [
+        "7 houses",
+        "blue",
+        "selected at random"
+      ]
+    },
+    {
+      "text": "A market researcher selected 200 people at random from a group of people who indicated that they liked a certain book. The 200 people were shown a movie based on the book and then asked whether they liked or disliked the movie. Of those surveyed, 95% said they disliked the movie. Which of the following inferences can appropriately be drawn from this survey result?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Probability",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "At least 95% of all moviegoers will dislike this movie.",
+          "isCorrect": false,
+          "explanation": "This inference is incorrect because the surveyed group is not representative of all moviegoers. The survey was conducted specifically on individuals who liked the book, not on the general moviegoing population."
+        },
+        {
+          "letter": "B",
+          "text": "At least 95% of all book readers will dislike this movie.",
+          "isCorrect": false,
+          "explanation": "This inference is incorrect because the surveyed group is not representative of all book readers. The survey only included people who liked the specific book in question, not all book readers generally."
+        },
+        {
+          "letter": "C",
+          "text": "Most people who disliked the book will like this movie.",
+          "isCorrect": false,
+          "explanation": "This inference is incorrect because the survey did not include people who disliked the book. Therefore, no conclusions can be drawn about those individuals' opinions on the movie."
+        },
+        {
+          "letter": "D",
+          "text": "Most people who like this book will dislike the movie.",
+          "isCorrect": true,
+          "explanation": "This inference is correct because the survey specifically examined people who liked the book, and 95% of them reported disliking the movie. Therefore, it can be inferred that a majority of book enthusiasts disliked the film."
+        }
+      ],
+      "explanation": "The correct answer is Option D: Most people who like this book will dislike the movie. The survey's results are based on a group of 200 individuals who expressed that they liked the book and were then surveyed about their opinion on the movie. Since 95% of them disliked the movie, it is reasonable to conclude that most fans of the book will also dislike the movie. Options A and B are incorrect because they overgeneralize the results to populations not represented in the survey (all moviegoers or all book readers). Option C is incorrect because the survey did not include people who disliked the book, so no conclusions can be drawn about their preferences regarding the movie.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "On Tuesday, a local gas station had 135 customers. The table above summarizes whether or not the customers on Tuesday purchased gasoline, a beverage, both, or neither. Based on the data in the table, what is the probability that a gas station customer selected at random on that day did not purchase gasoline?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Probability",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "15/50",
+          "isCorrect": false,
+          "explanation": "Choice A is incorrect. This option mistakenly calculates the probability of not purchasing a beverage, given that gasoline was not purchased. Focus on the overall probability of not purchasing gasoline for any customer."
+        },
+        {
+          "letter": "B",
+          "text": "15/40",
+          "isCorrect": false,
+          "explanation": "Choice B is incorrect. This option results from calculating the probability of not purchasing gasoline, given that a beverage was not purchased. The focus should be on all customers, not just those who did not purchase a beverage."
+        },
+        {
+          "letter": "C",
+          "text": "35/50",
+          "isCorrect": false,
+          "explanation": "Choice C is incorrect. This option represents the probability of purchasing a beverage, given that gasoline was not purchased. The task is to find the probability of not purchasing gasoline altogether."
+        },
+        {
+          "letter": "D",
+          "text": "50/135",
+          "isCorrect": true,
+          "explanation": "Choice D is correct. The table indicates that 50 out of 135 customers did not purchase gasoline. Therefore, the probability that a randomly selected customer did not purchase gasoline is 50/135."
+        }
+      ],
+      "explanation": "The correct answer is 50/135. To find the probability that a customer did not purchase gasoline, divide the number of customers who did not purchase gasoline (50) by the total number of customers (135). This gives 50/135 as the probability. Other options incorrectly calculate conditional probabilities or focus on unrelated probabilities.",
+      "explanationImage": null,
+      "hints": [
+        "135 customers",
+        "did not purchase gasoline"
+      ]
+    },
+    {
+      "text": "Human blood can be classified into four common blood types—A, B, AB, and O. It is also characterized by the presence (+) or absence (–) of the rhesus factor. The table shows the distribution of blood type and rhesus factor for a group of people. If one of these people who is rhesus negative (–) is chosen at random, the probability that the person has blood type B is 1/9. What is the value of x?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Probability",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "This would mean the total number of rhesus-negative people is 15, which does not satisfy the equation 2/(10+5) = 1/9."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": "This would mean the total number of rhesus-negative people is 16, which does not satisfy the equation 2/(10+6) = 1/9."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "isCorrect": false,
+          "explanation": "This would mean the total number of rhesus-negative people is 17, which does not satisfy the equation 2/(10+7) = 1/9."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "isCorrect": true,
+          "explanation": "The correct answer is 8. When x = 8, the total number of rhesus-negative people is 18, satisfying the equation 2/(10 + 8) = 1/9."
+        }
+      ],
+      "explanation": "The correct answer is 8. In this scenario, the probability that a randomly chosen rhesus-negative person has blood type B is given as 1/9. We know there are 2 people with blood type B who are rhesus-negative. Therefore, the equation is 2/(7 + 2 + 1 + x) = 1/9, which simplifies to 2/(10 + x) = 1/9. Solving this, we multiply both sides by 9 to get 18/(10 + x) = 1, then multiply both sides by (10 + x) to obtain 18 = 10 + x. Solving for x gives x = 8.Other options were incorrect because they resulted in total numbers of rhesus-negative individuals (15, 16, 17) that did not satisfy the given probability condition.",
+      "explanationImage": null,
+      "hints": [
+        "rhesus negative",
+        "probability",
+        "blood type B"
+      ]
+    },
+    {
+      "text": "Each face of a fair 14-sided die is labeled with a number from 1 through 14, with a different number appearing on each face. If the die is rolled one time, what is the probability of rolling a 2?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Probability",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/14",
+          "isCorrect": true,
+          "explanation": "Choice A is correct. The total number of possible outcomes for rolling a fair 14-sided die is 14. The number of possible outcomes for rolling a 2 is 1. The probability of rolling a 2 is the number of possible outcomes for rolling a 2divided by the total number of possible outcomes, or 1/14."
+        },
+        {
+          "letter": "B",
+          "text": "2/14",
+          "isCorrect": false,
+          "explanation": "Choice B is incorrect and may result from conceptual or calculation errors."
+        },
+        {
+          "letter": "C",
+          "text": "12/14",
+          "isCorrect": false,
+          "explanation": "Choice C is incorrect and may result from conceptual or calculation errors."
+        },
+        {
+          "letter": "D",
+          "text": "13/14",
+          "isCorrect": false,
+          "explanation": "Choice D is incorrect and may result from conceptual or calculation errors."
+        }
+      ],
+      "explanation": "Choice A is correct. The total number of possible outcomes for rolling a fair 14-sided die is 14. The number of possible outcomes for rolling a 2 is 1. The probability of rolling a 2 is the number of possible outcomes for rolling a 2divided by the total number of possible outcomes, or 1/14.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "For a particular machine that produces beads, 29 out of every 100 beads it produces have a defect. A bead produced by the machine will be selected at random. What is the probability of selecting a bead that has adefect?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Probability",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/2,900",
+          "isCorrect": false,
+          "explanation": "Choice A is incorrect. This may result from incorrectly calculating the probability by confusing the number of defective beads with the total number of beads squared."
+        },
+        {
+          "letter": "B",
+          "text": "1/29",
+          "isCorrect": false,
+          "explanation": "Choice B is incorrect. This may result from misunderstanding the given ratio of defective beads to the total number of beads produced."
+        },
+        {
+          "letter": "C",
+          "text": "29/100",
+          "isCorrect": true,
+          "explanation": "Choice C is correct. The probability of selecting a defective bead is directly given by the ratio of defective beads to the total number of beads, which is 29 out of 100."
+        },
+        {
+          "letter": "D",
+          "text": "29/10",
+          "isCorrect": false,
+          "explanation": "Choice D is incorrect. This choice results from a calculation error, confusing the ratio of defective beads with an improper fraction greater than 1."
+        }
+      ],
+      "explanation": "The correct answer is 29/100. Since 29 out of every 100 beads produced by the machine have a defect, the probability of selecting a defective bead is the ratio of defective beads to total beads, which is 29/100.Option A (1/2,900) is incorrect because it is an error in understanding the probability calculation. Option B (1/29) is incorrect due to a misinterpretation of the given ratio. Option D (29/10) is incorrect as it incorrectly suggests a probability greater than 1, which is not possible.",
+      "explanationImage": null,
+      "hints": [
+        "29",
+        "100",
+        "defect"
+      ]
+    },
+    {
+      "text": "The table gives the distribution of votes for a new school mascot and grade level for 80 students. If one of these students is selected at random, what is the probability of selecting a student whose vote for new mascot was for a lion?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Probability",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/9",
+          "isCorrect": false,
+          "explanation": "Choice A is incorrect. This result may arise from a miscalculation of the total number of lion votes or the total number of votes."
+        },
+        {
+          "letter": "B",
+          "text": "1/5",
+          "isCorrect": false,
+          "explanation": "Choice B is incorrect. This could come from mistakenly dividing the lion votes by a wrong total or misunderstanding the distribution."
+        },
+        {
+          "letter": "C",
+          "text": "1/4",
+          "isCorrect": true,
+          "explanation": "Choice C is correct. To find the probability, divide the number of students who voted for a lion (20) by the total number of students (80), resulting in a probability of 1/4."
+        },
+        {
+          "letter": "D",
+          "text": "2/3",
+          "isCorrect": false,
+          "explanation": "Choice D is incorrect. This value is too high and suggests a misunderstanding of the fraction of lion votes relative to the total votes."
+        }
+      ],
+      "explanation": "Choice C is correct. The probability of selecting a student who voted for a lion is calculated by dividing the number of lion votes by the total number of votes. The table indicates that 20 students voted for a lion out of 80 total votes. Thus, the probability is 20/80, which simplifies to 1/4.Choice A (1/9) and Choice B (1/5) are incorrect as they miscalculate the fraction of lion votes. Choice D (2/3) is incorrect as it overestimates the proportion of lion votes, suggesting a misunderstanding of the distribution.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The table summarizes the distribution of color and shape for 100 tiles of equal area.If one of these tiles is selected at random, what is the probability of selecting a red tile? (Express your answer as a decimal or fraction, not as a percent.)",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Probability",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3/10",
+          "isCorrect": true,
+          "explanation": "This is correct. With 100 total tiles and 30 being red, the probability is 30/100, which simplifies to 3/10."
+        },
+        {
+          "letter": "B",
+          "text": "5/10",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The fraction 5/10 suggests that half of the tiles are red, which is not supported by the data."
+        },
+        {
+          "letter": "C",
+          "text": "7/10",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The fraction 7/10 implies that 70 out of 100 tiles are red, which is not the case as per the given table."
+        },
+        {
+          "letter": "D",
+          "text": "9/10",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The fraction 9/10 suggests that 90 out of 100 tiles are red, which is not true according to the data."
+        }
+      ],
+      "explanation": "The correct answer is 3/10. Since there are 100 tiles in total and 30 are red, the probability of selecting a red tile is the number of red tiles divided by the total number of tiles, which is 30/100. This simplifies to 3/10. The other options overestimate the number of red tiles in the total, leading to incorrect probabilities.",
+      "explanationImage": null,
+      "hints": [
+        "100 tiles",
+        "red tile"
+      ]
+    },
+    {
+      "text": "Mushtaq has three grandparents with brown eyes and one with blue eyes.Raisa has two grand parents with brown eyes and two with blue eyes.Mushtaq and Raisa marry and have two children, both with brown eyes.What is the best estimate of the probability that their next child will have blue eyes?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Probability",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/8",
+          "isCorrect": false,
+          "explanation": "This probability is too low given that both parents have a significant proportion of brown eye genes."
+        },
+        {
+          "letter": "B",
+          "text": "1/4",
+          "isCorrect": true,
+          "explanation": "Both Mushtaq and Raisa likely have the genotype Bb, meaning each parent can pass on either a B (brown) or b (blue) allele. The probability of both passing on a blue allele (bb) is 1/4."
+        },
+        {
+          "letter": "C",
+          "text": "3/8",
+          "isCorrect": false,
+          "explanation": "This probability does not align with the typical Mendelian inheritance pattern for a single trait with two alleles."
+        },
+        {
+          "letter": "D",
+          "text": "1/2",
+          "isCorrect": false,
+          "explanation": "This probability is too high given that brown eyes are more dominant in the genetic makeup of both parents."
+        }
+      ],
+      "explanation": "Mushtaq has three grandparents with brown eyes and one with blue eyes, and Raisa has two grandparents with brown eyes and two with blue eyes. Both likely have the genotype Bb, indicating that they each have one allele for brown eyes (B) and one for blue eyes (b). When both parents are Bb, their children's possible genotypes are BB (brown eyes), Bb (brown eyes), Bb (brown eyes), and bb (blue eyes). Thus, the probability of a child having blue eyes (bb) is 1/4.Option B is correct, as it correctly identifies the probability as 1/4 based on the potential genetic combinations. Option A is incorrect as it underestimates the likelihood of the child having blue eyes. Option C is incorrect as it provides a probability not consistent with the genetic possibilities. Option D is incorrect as it overestimates the probability, not accounting for the dominance of the brown eye allele.",
+      "explanationImage": null,
+      "hints": [
+        "Mushtaq",
+        "Raisa",
+        "brown eyes"
+      ]
+    },
+    {
+      "text": "Parveen flips a coin and then spins the arrow on the spinner.What is the total number of outcomes for this event?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Probability",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "7",
+          "isCorrect": false,
+          "explanation": "This option incorrectly assumes the spinner has fewer sections than it actually does."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "isCorrect": true,
+          "explanation": "This is the correct number of outcomes derived from multiplying the 2 outcomes of the coin with the 5 outcomes of the spinner."
+        },
+        {
+          "letter": "C",
+          "text": "15",
+          "isCorrect": false,
+          "explanation": "This option overestimates the outcomes, likely assuming more outcomes for either the coin or the spinner."
+        },
+        {
+          "letter": "D",
+          "text": "25",
+          "isCorrect": false,
+          "explanation": "This option greatly overestimates the outcomes, possibly due to an overly large assumption of spinner outcomes."
+        }
+      ],
+      "explanation": "To calculate the total number of outcomes, consider both the coin and the spinner. A coin flip results in 2 possible outcomes: heads or tails. Assuming the spinner has 5 equal sections, it results in 5 possible outcomes. Therefore, the total number of outcomes when combining the coin flip and the spinner spin is 2 (coin outcomes) × 5 (spinner outcomes) = 10. Thus, the correct answer is Option B: 10. Other options arise from incorrect assumptions about the number of sections on the spinner or errors in multiplying the outcomes.",
+      "explanationImage": null,
+      "hints": [
+        "flips",
+        "coin",
+        "spinner"
+      ]
+    },
+    {
+      "text": "What is the probability of getting a head when tossing a fair coin?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Probability",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "A probability of 0 means an event cannot occur; however, getting a head is possible when tossing a fair coin."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "A probability of 1 indicates certainty; since a coin can land on either head or tail, getting a head is not certain."
+        },
+        {
+          "letter": "C",
+          "text": "1/2",
+          "isCorrect": true,
+          "explanation": "A fair coin has 2 equally likely outcomes: Head or Tail, making the probability of getting a head 1 out of 2 or 1/2."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "Probability values must be between 0 and 1; 2 is not a valid probability."
+        }
+      ],
+      "explanation": "The correct answer is 1/2 because a fair coin has two outcomes, both equally likely: head and tail. Therefore, the probability of getting a head is 1 out of 2. Option A (0) is incorrect because it implies getting a head is impossible, which is not true. Option B (1) is incorrect because it implies certainty of getting a head, which is not the case with a fair coin. Option D (2) is incorrect because probability values range from 0 to 1, and 2 is not a valid probability.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A die is rolled. What is the probability of getting a number less than 5?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Probability",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4/6",
+          "isCorrect": true,
+          "explanation": "There are 4 numbers (1, 2, 3, 4) that are less than 5, out of 6 possible outcomes on a die."
+        },
+        {
+          "letter": "B",
+          "text": "5/6",
+          "isCorrect": false,
+          "explanation": "This represents the probability of getting a number less than 6, not less than 5."
+        },
+        {
+          "letter": "C",
+          "text": "1/3",
+          "isCorrect": false,
+          "explanation": "This would mean only 2 outcomes are considered favorable, which is incorrect for numbers less than 5."
+        },
+        {
+          "letter": "D",
+          "text": "1/2",
+          "isCorrect": false,
+          "explanation": "This represents the probability of 3 favorable outcomes, which is not applicable here."
+        }
+      ],
+      "explanation": "The probability of rolling a number less than 5 on a die can be determined by considering the numbers 1, 2, 3, and 4, which are 4 favorable outcomes. Since a standard die has 6 faces, the total number of possible outcomes is 6. Therefore, the probability is calculated as 4 favorable outcomes divided by 6 total outcomes, resulting in 4/6, which can be simplified to 2/3. Option B (5/6) is incorrect as it considers numbers less than 6, Option C (1/3) incorrectly assumes only 2 favorable outcomes, and Option D (1/2) assumes 3 favorable outcomes, which do not correspond to the condition of getting a number less than 5.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A card is drawn from a deck. Probability of getting a king?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Probability",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/52",
+          "isCorrect": false,
+          "explanation": "Incorrect – This is the probability of drawing a specific king (e.g., the King of Hearts), not any king."
+        },
+        {
+          "letter": "B",
+          "text": "4/52",
+          "isCorrect": true,
+          "explanation": "Correct – There are 4 kings in a deck of 52 cards, so the probability is 4 out of 52."
+        },
+        {
+          "letter": "C",
+          "text": "13/52",
+          "isCorrect": false,
+          "explanation": "Incorrect – This is the probability of drawing any card from a complete suit, such as all hearts, not just kings."
+        },
+        {
+          "letter": "D",
+          "text": "12/52",
+          "isCorrect": false,
+          "explanation": "Incorrect – This would suggest there are 12 kings in the deck, which is not the case."
+        }
+      ],
+      "explanation": "A standard deck has 52 cards, including 4 kings (one for each suit: hearts, diamonds, clubs, and spades). Therefore, the probability of drawing a king is 4 favorable outcomes out of 52 possible outcomes, or 4/52, which simplifies to 1/13 if further reduced.The other options are incorrect: 1/52 is for a specific king, 13/52 represents an entire suit, and 12/52 implies an incorrect count of kings.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the probability of selecting an even number from 1 to 10?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Probability",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/2",
+          "isCorrect": true,
+          "explanation": "Correct – There are 5 even numbers out of 10 total numbers (2, 4, 6, 8, 10), which gives a probability of 5/10 = 1/2."
+        },
+        {
+          "letter": "B",
+          "text": "2/5",
+          "isCorrect": false,
+          "explanation": "Incorrect – There are actually 5 even numbers, not 4, so the probability is not 2/5."
+        },
+        {
+          "letter": "C",
+          "text": "3/5",
+          "isCorrect": false,
+          "explanation": "Incorrect – This would imply 6 even numbers, but there are only 5."
+        },
+        {
+          "letter": "D",
+          "text": "2/3",
+          "isCorrect": false,
+          "explanation": "Incorrect – This ratio does not correspond to the number of even numbers within the total range."
+        }
+      ],
+      "explanation": "To find the probability of selecting an even number from 1 to 10, first list all even numbers in this range: 2, 4, 6, 8, 10. There are 5 even numbers. Since there are 10 numbers in total from 1 to 10, the probability is the number of favorable outcomes (even numbers) over the total number of outcomes, which is 5/10 = 1/2. Thus, the correct answer is 1/2. Other options are incorrect because they either assume a different count of even numbers or a wrong ratio.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Probability of getting a red card from a deck?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Probability",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "13/52",
+          "isCorrect": false,
+          "explanation": "Incorrect – This fraction represents the probability of drawing a card from one red suit (either hearts or diamonds), not any red card."
+        },
+        {
+          "letter": "B",
+          "text": "1/2",
+          "isCorrect": true,
+          "explanation": "Correct – A standard deck has two red suits out of four total suits, making half of the cards red."
+        },
+        {
+          "letter": "C",
+          "text": "2/3",
+          "isCorrect": false,
+          "explanation": "Incorrect – This would imply that 34 cards in the deck are red, which is not possible with a standard deck."
+        },
+        {
+          "letter": "D",
+          "text": "1/4",
+          "isCorrect": false,
+          "explanation": "Incorrect – This fraction would mean only one suit is red, which does not account for both hearts and diamonds."
+        }
+      ],
+      "explanation": "A standard deck of cards consists of 52 cards, divided into four suits: hearts, diamonds, clubs, and spades. Hearts and diamonds are the red suits, making up 26 cards in total. Therefore, the probability of drawing a red card from a full deck is 26/52, which simplifies to 1/2. Option B correctly identifies this probability as 1/2. Option A incorrectly suggests the probability for a single red suit, Option C exaggerates the number of red cards, and Option D underestimates it by only considering one of the two red suits.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Probability is always between:",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Probability",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0 to 100",
+          "isCorrect": false,
+          "explanation": "Incorrect – Probability is not expressed as a percentage without context. It is a fraction or decimal between 0 and 1."
+        },
+        {
+          "letter": "B",
+          "text": "-1 to 1",
+          "isCorrect": false,
+          "explanation": "Incorrect – Probability values cannot be negative."
+        },
+        {
+          "letter": "C",
+          "text": "0 and 1",
+          "isCorrect": true,
+          "explanation": "Correct – Probabilities are always expressed as numbers between 0 (impossible event) and 1 (certain event)."
+        },
+        {
+          "letter": "D",
+          "text": "1 and 100",
+          "isCorrect": false,
+          "explanation": "Incorrect – This range is irrelevant for probabilities, which are never greater than 1."
+        }
+      ],
+      "explanation": "Probability is a measure of how likely an event is to occur, expressed as a number between 0 and 1. A probability of 0 means the event is impossible, while a probability of 1 means it is certain to happen. Options A and D incorrectly describe probability in terms of percentage ranges, which is not applicable here without conversion. Option B suggests a range that includes negative numbers, which are not possible for probabilities. Therefore, the correct answer is Option C.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "An event that is certain to happen has probability:",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Probability",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "Incorrect – A probability of 0 means the event is impossible, not certain."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": true,
+          "explanation": "Correct – A probability of 1 indicates an event is certain to happen."
+        },
+        {
+          "letter": "C",
+          "text": "0.5",
+          "isCorrect": false,
+          "explanation": "Incorrect – A probability of 0.5 means there is an equal chance of the event occurring or not occurring."
+        },
+        {
+          "letter": "D",
+          "text": "Cannot be determined",
+          "isCorrect": false,
+          "explanation": "Incorrect – The probability of a certain event is always 1, so it can be determined."
+        }
+      ],
+      "explanation": "The correct answer is 1 because a probability of 1 signifies certainty, meaning the event will definitely happen. Option A is incorrect because a probability of 0 means the event is impossible. Option C is incorrect because a probability of 0.5 suggests there is a 50% chance of the event happening, not certainty. Option D is incorrect because the probability of a certain event is always known and is 1.",
+      "explanationImage": null,
+      "hints": [
+        "event",
+        "certain",
+        "probability"
+      ]
+    },
+    {
+      "text": "Probability of drawing an ace from a standard deck is:",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Probability",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/13",
+          "isCorrect": false,
+          "explanation": "This is the simplified form of the probability of drawing an ace from a 52-card deck, which contains 4 aces."
+        },
+        {
+          "letter": "B",
+          "text": "1/26",
+          "isCorrect": false,
+          "explanation": "This would imply there are only 2 aces in the deck, which is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "4/52",
+          "isCorrect": false,
+          "explanation": "This is the unsimplified form of the probability of drawing an ace, which is equivalent to 1/13."
+        },
+        {
+          "letter": "D",
+          "text": "Both A and C",
+          "isCorrect": true,
+          "explanation": "Both 1/13 and 4/52 represent the same probability, just in different forms."
+        }
+      ],
+      "explanation": "A standard 52-card deck contains 4 aces. The probability of drawing an ace is calculated as the number of favorable outcomes (4 aces) divided by the total number of outcomes (52 cards), giving 4/52. This fraction simplifies to 1/13. Therefore, both 1/13 and 4/52 represent the same probability. Option B, 1/26, is incorrect because it suggests an incorrect count of aces in the deck.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If the probability of an event is 3/4, what is the probability of its complement?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Probability",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/4",
+          "isCorrect": true,
+          "explanation": "This is the correct probability of the complement, calculated by subtracting the event's probability from 1."
+        },
+        {
+          "letter": "B",
+          "text": "3/4",
+          "isCorrect": false,
+          "explanation": "This is the probability of the event itself, not its complement."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This is the total probability of an event and its complement together, not the complement alone."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "0 indicates an impossible event, not the complement of an event with probability 3/4."
+        }
+      ],
+      "explanation": "To find the probability of the complement of an event, use the formula: Complement = 1 - P(event). Given P(event) = 3/4, the complement is 1 - 3/4 = 1/4. This means the correct answer is 1/4. The option 3/4 is incorrect as it represents the event's probability, not the complement. The option 1 is incorrect because it represents the sum of the probabilities of an event and its complement, not just the complement. Lastly, the option 0 is incorrect because it signifies an impossible event, which is not the case here.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A coin is tossed twice. Total outcomes = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Probability",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "This would be the number of outcomes for a single coin toss, not two."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "Three outcomes would only occur if you incorrectly exclude one possible outcome."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "isCorrect": true,
+          "explanation": "Each toss of a coin has 2 possible outcomes (Heads or Tails). Tossing it twice results in 2 × 2 = 4 possible outcomes: HH, HT, TH, TT."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": "This number of outcomes is incorrect for coin tosses but would be relevant for rolling a single six-sided die."
+        }
+      ],
+      "explanation": "The correct answer is 4. When a coin is tossed twice, each toss can result in either Heads (H) or Tails (T). Thus, the combinations for two tosses are: HH, HT, TH, and TT, giving us a total of 4 outcomes.Option A (2) is incorrect as it only reflects the outcomes for one toss. Option B (3) is incorrect as it does not account for all possible outcomes. Option D (6) is incorrect as it pertains to rolling a die rather than tossing a coin.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If the probability of an event is 3/4, what is the probability of its complement?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Probability",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/4",
+          "isCorrect": true,
+          "explanation": "This is the correct probability of the complement, calculated as 1 minus the probability of the event."
+        },
+        {
+          "letter": "B",
+          "text": "3/4",
+          "isCorrect": false,
+          "explanation": "This is the given probability of the event itself, not its complement."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "1 represents the total probability of the event happening or not happening, not just the complement."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "0 signifies an impossible event, which is not applicable for the complement of an event with a probability of 3/4."
+        }
+      ],
+      "explanation": "To find the probability of the complement of an event, use the formula: Complement = 1 - P(event). Here, the probability of the event is given as 3/4. Therefore, the probability of the complement is 1 - 3/4 = 1/4.Option A (1/4) is correct because it accurately reflects the complement. Option B (3/4) is incorrect as it represents the probability of the event. Option C (1) is incorrect because it represents the total probability of the event and its complement. Option D (0) is incorrect as it denotes an impossible event, which does not apply here.",
+      "explanationImage": null,
+      "hints": [
+        "probability",
+        "event",
+        "complement"
+      ]
+    },
+    {
+      "text": "A coin is tossed twice. Total outcomes = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Probability",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "This is the number of outcomes for a single coin toss, not two."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "Three outcomes are incorrect because each toss has two possibilities, not three."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "isCorrect": true,
+          "explanation": "Each coin toss has 2 possible outcomes. Tossing twice means 2 × 2 = 4 outcomes."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": "Six outcomes apply to a die roll, not a coin toss."
+        }
+      ],
+      "explanation": "Tossing a coin twice results in four outcomes: heads-heads (HH), heads-tails (HT), tails-heads (TH), and tails-tails (TT). This is because each toss has 2 possible outcomes (heads or tails), and thus 2 × 2 = 4 total combinations. The other options are incorrect: 2 is the number of outcomes for a single toss, 3 is not applicable as it doesn't align with binary outcomes, and 6 relates to the outcomes of rolling a six-sided die, not a coin.",
+      "explanationImage": null,
+      "hints": [
+        "coin",
+        "tossed",
+        "twice"
+      ]
+    },
+    {
+      "text": "Which of these is a sure event?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Probability",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rolling an 8 on a standard six-sided die",
+          "isCorrect": false,
+          "explanation": "A standard die has numbers 1 to 6, so rolling an 8 is impossible."
+        },
+        {
+          "letter": "B",
+          "text": "Drawing a specific card from a shuffled deck",
+          "isCorrect": false,
+          "explanation": "The outcome depends on the draw; it is not guaranteed."
+        },
+        {
+          "letter": "C",
+          "text": "Rolling a number less than 7 on a standard six-sided die",
+          "isCorrect": true,
+          "explanation": "Every face of the die is numbered 1 through 6, all of which are less than 7, making this a sure event."
+        },
+        {
+          "letter": "D",
+          "text": "Flipping a coin and getting tails",
+          "isCorrect": false,
+          "explanation": "The probability of getting tails is 50%, not a certainty."
+        }
+      ],
+      "explanation": "The correct answer is rolling a number less than 7 on a standard six-sided die. Each face of the die shows a number from 1 to 6, all of which are less than 7, making this event certain and thus a sure event. Rolling an 8 on a standard die is impossible, making it not a sure event. Drawing a specific card from a deck depends on chance, and flipping a coin to get tails has a probability of 0.5, neither of which are sure events.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A bag contains 5 red and 3 green balls. P(red) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Probability",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "5/8",
+          "isCorrect": true,
+          "explanation": "The probability of picking a red ball is determined by dividing the number of red balls (5) by the total number of balls (8), resulting in 5/8."
+        },
+        {
+          "letter": "B",
+          "text": "3/8",
+          "isCorrect": false,
+          "explanation": "This represents the probability of picking a green ball, not a red ball."
+        },
+        {
+          "letter": "C",
+          "text": "1/2",
+          "isCorrect": false,
+          "explanation": "This would only be correct if the number of red and green balls were equal, which they are not."
+        },
+        {
+          "letter": "D",
+          "text": "2/5",
+          "isCorrect": false,
+          "explanation": "This would suggest there are 10 balls in total, which is incorrect. The total number of balls is 8."
+        }
+      ],
+      "explanation": "The probability of an event is the number of favorable outcomes divided by the total number of possible outcomes. In this case, the favorable outcome is selecting a red ball. There are 5 red balls out of a total of 8 balls, making the probability 5/8. Option A is correct because it accurately represents this probability. Option B is incorrect because it represents the probability of selecting a green ball. Option C is incorrect because it assumes the probability is 1/2, which would only be true if there were an equal number of red and green balls. Option D is incorrect because it suggests a different total number of balls, which does not match the given scenario.",
+      "explanationImage": null,
+      "hints": [
+        "bag contains",
+        "red",
+        "green"
+      ]
+    },
+    {
+      "text": "Probability of getting a prime number on a die?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Probability",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2/3",
+          "isCorrect": false,
+          "explanation": "This option assumes there are 4 prime numbers on the die, which is incorrect since only three numbers are prime."
+        },
+        {
+          "letter": "B",
+          "text": "1/3",
+          "isCorrect": false,
+          "explanation": "This would be correct if there were only 2 prime numbers, but there are 3."
+        },
+        {
+          "letter": "C",
+          "text": "1/6",
+          "isCorrect": false,
+          "explanation": "Implies only 1 prime number on the die, which is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "1/2",
+          "isCorrect": true,
+          "explanation": "Correct, because there are 3 prime numbers (2, 3, 5) out of 6 possible outcomes on a die."
+        }
+      ],
+      "explanation": "A standard die has six faces, numbered 1 through 6. The prime numbers in this range are 2, 3, and 5. Therefore, there are 3 prime numbers. The probability of rolling a prime number is the number of favorable outcomes (prime numbers) over the total number of possible outcomes (sides of the die), which is 3/6 = 1/2. Therefore, option D is correct. Options A, B, and C are incorrect because they do not accurately represent the number of prime numbers on a die.",
+      "explanationImage": null,
+      "hints": [
+        "prime",
+        "number",
+        "die"
+      ]
+    }
+  ]
+}

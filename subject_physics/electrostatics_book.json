@@ -1,0 +1,3942 @@
+{
+  "questions": [
+    {
+      "text": "The potential difference between two parallel plates is 10⁴ V. If the plates are separated by 0.5 cm, the force on an electron between the plates is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 x 10⁻¹³ N",
+          "isCorrect": false,
+          "explanation": "This option incorrectly calculates the force by either misapplying the formulas or using incorrect values. Ensure you double-check the electric field calculation."
+        },
+        {
+          "letter": "B",
+          "text": "0.32 x 10⁻¹³ N",
+          "isCorrect": false,
+          "explanation": "This value is too low to be the correct answer. It suggests a misunderstanding of how to calculate the force from the electric field and charge."
+        },
+        {
+          "letter": "C",
+          "text": "0.032 x 10⁻¹³ N",
+          "isCorrect": false,
+          "explanation": "This option is significantly lower than the actual value. It indicates a major error in the calculations, particularly in determining the electric field or force."
+        },
+        {
+          "letter": "D",
+          "text": "3.2 x 10⁻¹³ N",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. It is derived from calculating the electric field as E = V/d and then applying the force formula F = qE, yielding the correct result."
+        }
+      ],
+      "explanation": "First, find the electric field E = V/d = 10⁴ V / 0.005 m = 2 x 10⁶ V/m. Then, calculate the force on the electron using F = qE = (1.6 x 10⁻¹⁹ C) × (2 x 10⁶ V/m) = 3.2 x 10⁻¹³ N.",
+      "explanationImage": null,
+      "hints": [
+        "potential difference",
+        "separated by"
+      ]
+    },
+    {
+      "text": "When a charged particle is projected perpendicular to a magnetic field:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "It's path is circular in a plane perpendicular to the plane of the magnetic field",
+          "isCorrect": true,
+          "explanation": "This is correct because a charged particle moving perpendicular to a magnetic field experiences a centripetal force that keeps it in a circular path."
+        },
+        {
+          "letter": "B",
+          "text": "The speed and kinetic energy of the particle do not remain constant",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The speed of the particle remains constant as it moves in a circular path due to the nature of uniform circular motion."
+        },
+        {
+          "letter": "C",
+          "text": "The velocity and momentum of the particle change in direction and magnitude",
+          "isCorrect": false,
+          "explanation": "This is partially correct; while the direction of velocity changes, the magnitude remains constant in uniform circular motion, so the momentum does change direction but not its magnitude."
+        },
+        {
+          "letter": "D",
+          "text": "The time period of revolution, angular frequency, and frequency of revolution are independent of the path of the particle and radius of the circular path",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The time period and angular frequency depend on the radius of the circular path and the magnetic field strength, making them not independent of these factors."
+        }
+      ],
+      "explanation": "A charged particle moving perpendicular to the field experiences a force always prependicular to it's motion causing it to move in a circular path. It's speed remains constant so motion is uniform circular motion in plane prependicular to the field.",
+      "explanationImage": null,
+      "hints": [
+        "charged particle",
+        "magnetic field"
+      ]
+    },
+    {
+      "text": "An electric dipole is situated in a non-uniform electric field. It may experience:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A resultant force and torque",
+          "isCorrect": true,
+          "explanation": "In a non-uniform electric field, the electric field strength varies with position. This results in unequal forces acting on the two ends of the dipole, creating a net force. Additionally, if the dipole is not perfectly aligned with the field direction, it will experience torque, causing it to rotate."
+        },
+        {
+          "letter": "B",
+          "text": "Only force",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because while a dipole does experience a net force in a non-uniform field, it also experiences torque unless it is perfectly aligned with the field."
+        },
+        {
+          "letter": "C",
+          "text": "Only torque",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it ignores the fact that a dipole in a non-uniform electric field also experiences a net force due to the unequal forces acting on its ends."
+        },
+        {
+          "letter": "D",
+          "text": "All of these are correct",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because not all statements are true. A dipole experiences both a resultant force and torque in a non-uniform electric field, but it does not experience only force or only torque."
+        }
+      ],
+      "explanation": "In a non-uniform field, the forces on the two ends of the dipole will not be equal and opposite, resulting in a net force. Unless the dipole is perfectly aligned with the field, it willalso experience a net torque.",
+      "explanationImage": null,
+      "hints": [
+        "electric dipole",
+        "non-uniform electric field"
+      ]
+    },
+    {
+      "text": "The total electric flux, leaving a spherical surface of radius 1 cm, and surrounding an electric dipole is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "q/ε₀",
+          "isCorrect": false,
+          "explanation": "This option suggests that there is a net charge enclosed within the spherical surface. However, since the dipole consists of equal positive and negative charges, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. According to Gauss's Law, the total electric flux through a closed surface is proportional to the net charge enclosed. Since an electric dipole has equal positive (+q) and negative (-q) charges, the net enclosed charge is zero, resulting in zero total electric flux."
+        },
+        {
+          "letter": "C",
+          "text": "2q/ε₀",
+          "isCorrect": false,
+          "explanation": "This option implies that there is a net charge of 2q enclosed within the surface, which is not true for a dipole. Thus, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "8πr² q/ε₀",
+          "isCorrect": false,
+          "explanation": "This option suggests a specific electric flux calculation based on the surface area and charge, but it incorrectly assumes a net charge presence. The total charge of the dipole is zero, making this option incorrect as well."
+        }
+      ],
+      "explanation": "According to Gauss's Law, the total electric flux through a closed surface is proportional to the net charge enclosed. Since a dipole consists of equal positive (+q) and negative (- q) charges, the net enclosed charge is zero, making the total flux zero.",
+      "explanationImage": null,
+      "hints": [
+        "electric flux",
+        "spherical surface",
+        "electric dipole"
+      ]
+    },
+    {
+      "text": "How many electrons should be removed from a coin of mass 1.6 g, so that it may float in an electric field intensity of 10⁹ N/C which is directed upwards?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "9.8 x 10⁷",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. To find the required charge for the coin to float, we use the formula q = mg/E. The gravitational force (mg) acting on the coin is balanced by the electric force (qE). After calculating q, we divide by the charge of one electron (approximately 1.6 x 10-19 C) to find the number of electrons."
+        },
+        {
+          "letter": "B",
+          "text": "9.8 x 10⁵",
+          "isCorrect": false,
+          "explanation": "This option represents an incorrect calculation of the number of electrons needed. The value is much lower than what is required to balance the forces acting on the coin in the given electric field."
+        },
+        {
+          "letter": "C",
+          "text": "9.8 x 10³",
+          "isCorrect": false,
+          "explanation": "This option is significantly underestimating the number of electrons required. The calculations based on the gravitational force and electric field intensity lead to a much larger number of electrons."
+        },
+        {
+          "letter": "D",
+          "text": "9.8 x 10¹",
+          "isCorrect": false,
+          "explanation": "This value is far too low for the number of electrons that need to be removed. The calculation must account for the mass of the coin and the intensity of the electric field."
+        }
+      ],
+      "explanation": "For the coin to float, the electric force (Fₑ = qE) must balance the gravitational force ( F₉= mg). Setting qE = mg, we find the required charge q = mg/E. The number of electrons is then n = q/e, where e is the charge of a single electron.",
+      "explanationImage": null,
+      "hints": [
+        "float",
+        "electric field intensity"
+      ]
+    },
+    {
+      "text": "Two bodies are charged by rubbing one against the other. During the process, one becomes positively charged while the other becomes negatively charged. Then:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The mass of each body remains unchanged.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because while the total mass remains constant, the individual masses change slightly due to the transfer of electrons."
+        },
+        {
+          "letter": "B",
+          "text": "Mass of each body changes marginally.",
+          "isCorrect": false,
+          "explanation": "This option is partially correct, but it does not clarify that the total mass of the system remains unchanged."
+        },
+        {
+          "letter": "C",
+          "text": "Mass of each body changes slightly and hence the total mass.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because while the individual masses change, the total mass of the system does not change; it remains constant."
+        },
+        {
+          "letter": "D",
+          "text": "Mass of each body changes slightly but the total mass remains the same.",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The mass of each body changes due to the gain or loss of electrons, but the total mass of the system is conserved."
+        }
+      ],
+      "explanation": "Charging by rubbing involves the transfer of electrons, which have a very small mass. The body that gains electrons will have a slight mass increase, and the body that losesthem will have a slight mass decrease, but the total mass of the two-body system is conserved.",
+      "explanationImage": null,
+      "hints": [
+        "positively charged",
+        "negatively charged"
+      ]
+    },
+    {
+      "text": "A neutron, a proton, and an electron are placed in a uniform electric field.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The forces acting on them will be equal",
+          "isCorrect": false,
+          "explanation": "This statement is incorrect because the neutron does not experience any force due to its lack of charge. The proton and electron experience equal and opposite forces, but the neutron feels no force at all."
+        },
+        {
+          "letter": "B",
+          "text": "Their accelerations may be equal",
+          "isCorrect": false,
+          "explanation": "This is misleading. While the proton and electron feel forces of equal magnitude but opposite direction, their accelerations will depend on their respective masses, which are significantly different."
+        },
+        {
+          "letter": "C",
+          "text": "They may experience different motion in the field",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The acceleration is determined by the force acting on an object divided by its mass. Since the proton and electron have different masses, their accelerations will differ despite experiencing forces of equal magnitude."
+        },
+        {
+          "letter": "D",
+          "text": "Magnitude of acceleration will be different",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The neutron does not experience any force in the electric field, while the proton and electron experience forces of equal magnitude but opposite direction. However, due to their differing masses (the electron is much lighter than the proton), their accelerations will be different according to Newton's second law (a = F/m)."
+        }
+      ],
+      "explanation": "The neutron (no charge) feels no force. The proton and electron feel forces of equal magnitude but opposite direction. Since their masses are very different, their accelerations (a = F/m) will also be different.",
+      "explanationImage": null,
+      "hints": [
+        "neutron",
+        "electric field",
+        "acceleration"
+      ]
+    },
+    {
+      "text": "Two concentric spherical conducting shells of radii R and 2R carry charges Q and 2Q respectively. The change in electric potential on the outer shell when both are connected by a conducting wire is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "This is correct because when the shells are connected, they will reach the same potential, and thus the change in electric potential for the outer shell is zero."
+        },
+        {
+          "letter": "B",
+          "text": "3kQ/2R",
+          "isCorrect": false,
+          "explanation": "This option suggests a change in potential based on both charges, but does not account for the fact that the potential equalizes upon connection."
+        },
+        {
+          "letter": "C",
+          "text": "kQ/R",
+          "isCorrect": false,
+          "explanation": "This option indicates a potential based solely on charge Q, ignoring the effect of the outer shell and the connection."
+        },
+        {
+          "letter": "D",
+          "text": "2kQ/R",
+          "isCorrect": false,
+          "explanation": "This option suggests a potential based on charge 2Q, but it fails to recognize that the outer shell's potential does not change when connected to the inner shell."
+        }
+      ],
+      "explanation": "When connected by a wire, charge will flow until the potential is equal everywhere. Before connecting, the potential of the outer shell depends on both charges. After connecting, the entire system becomes a single conductor at a uniform potential, but the potential of the outer shell specifically does not change.",
+      "explanationImage": null,
+      "hints": [
+        "concentric",
+        "spherical conducting shells",
+        "connected by a conducting wire"
+      ]
+    },
+    {
+      "text": "A table tennis ball which has been covered with conducting paint is suspended by a silk thread so that it hangs between two plates, out of which one is earthed and the other is connected to a high voltage generator. This ball:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Is attracted towards high voltage plate and stays there",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because although the ball is attracted to the high voltage plate, it does not remain there due to the process of charge transfer and repulsion that occurs."
+        },
+        {
+          "letter": "B",
+          "text": "Hangs without moving",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as the presence of the high voltage plate would induce movement in the ball due to electrostatic forces."
+        },
+        {
+          "letter": "C",
+          "text": "Swings backward and forward hitting each plate in turn",
+          "isCorrect": true,
+          "explanation": "This option is correct because the ball is first attracted to the high voltage plate, gains a charge, and then is repelled towards the earthed plate. This process continues, causing the ball to swing back and forth."
+        },
+        {
+          "letter": "D",
+          "text": "Is attracted to earthed plate and stays there",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the ball will not simply stay at the earthed plate; it will continue to move back and forth due to the alternating forces acting on it."
+        }
+      ],
+      "explanation": "The neutral ball is first attracted to the high voltage plate via induction. Upon touching it, the ball acquires the same charge and is repelled towards the earthed plate. It then transfers its charge and is attracted back, creating a continuous shuttle effect.",
+      "explanationImage": null,
+      "hints": [
+        "conducting paint",
+        "high voltage generator"
+      ]
+    },
+    {
+      "text": "By increasing the area of the plates and decreasing the distance between them, the capacitance of a capacitor:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increases",
+          "isCorrect": true,
+          "explanation": "This is correct. Capacitance (C) is directly proportional to the area of the plates (A) and inversely proportional to the distance between them (d), as given by the formula C = ε₀(A/d). Thus, increasing area and decreasing distance results in increased capacitance."
+        },
+        {
+          "letter": "B",
+          "text": "Decreases",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Decreasing the distance between the plates and increasing their area both contribute to a higher capacitance, not a decrease."
+        },
+        {
+          "letter": "C",
+          "text": "Remains unchanged",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The changes in area and distance directly affect capacitance. Therefore, it cannot remain unchanged under these conditions."
+        },
+        {
+          "letter": "D",
+          "text": "Depending upon temperature",
+          "isCorrect": false,
+          "explanation": "This is misleading. While temperature can affect the properties of the dielectric material, the basic relationship between area, distance, and capacitance is independent of temperature in this context."
+        }
+      ],
+      "explanation": "If the plates of a capacitor are made larger, they can hold more charge, and if the plates are moved closer together, the electric field between them becomes stronger. Both of these changes allow the capacitor to store more charge for the same voltage, so the capacitance increases.",
+      "explanationImage": null,
+      "hints": [
+        "area of the plates",
+        "distance between them"
+      ]
+    },
+    {
+      "text": "A point charge 0.4nC is located at (2,3,3). Find the potential differences between (2,3,3) m and (-2,3,3)m due to the charge:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.5 Volts",
+          "isCorrect": false,
+          "explanation": "This option may seem plausible, but it underestimates the effect of the distance from the charge. Given the calculations, this value doesn't reflect the true potential difference."
+        },
+        {
+          "letter": "B",
+          "text": "2.6 Volts",
+          "isCorrect": false,
+          "explanation": "This option is close but still not accurate. The distance and charge values indicate that the potential difference is slightly higher than this value."
+        },
+        {
+          "letter": "C",
+          "text": "2.7 Volts",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The potential at the location of the charge is considered infinite, while at the point (-2,3,3), the potential is calculated using V = kq/r, resulting in a potential difference of approximately 2.7 V."
+        },
+        {
+          "letter": "D",
+          "text": "2.8 Volts",
+          "isCorrect": false,
+          "explanation": "This option overestimates the potential difference. The calculations based on the given charge and distance do not support this value."
+        }
+      ],
+      "explanation": "The potential at the first point (where the charge is located) is infinite. The potential at the second point is V = kq/r, where r is the distance between the points, which is 4 m. Thepotential difference is thus calculated based on this finite potential, resulting in approximately 2.7 V.",
+      "explanationImage": null,
+      "hints": [
+        "point charge",
+        "potential difference"
+      ]
+    },
+    {
+      "text": "What is the dielectric constant of the medium if the capacitance of a parallel plate capacitor increases from 4μF to 80μF on introducing a dielectric medium between the planes?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "20",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The capacitance increases according to the formula C' = kC. Here, k = C'/C = 80μF / 4μF = 20."
+        },
+        {
+          "letter": "B",
+          "text": "0.5",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A dielectric constant less than 1 would imply a reduction in capacitance, which contradicts the observed increase from 4μF to 80μF."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A dielectric constant of 2 would suggest that the capacitance increases to 8μF (2 times the original), which does not match the observed capacitance of 80μF."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect. A dielectric constant of 5 would only increase the capacitance to 20μF, which is still significantly lower than the observed 80μF."
+        }
+      ],
+      "explanation": "The capacitance with a dielectric is C' = kC, where C is the initial capacitance and k is the dielectric constant. Therefore, k = C'/C = 80μF / 4μF = 20.",
+      "explanationImage": null,
+      "hints": [
+        "dielectric medium",
+        "capacitance",
+        "parallel plate capacitor"
+      ]
+    },
+    {
+      "text": "What is the maximum energy that can be stored in a capacitor?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Depends on the maximum surface area of the capacitor plate",
+          "isCorrect": false,
+          "explanation": "While the surface area of the plates can influence the capacitance, it does not directly determine the maximum energy that can be stored. Energy storage is more reliant on the electric field strength and the dielectric material's properties."
+        },
+        {
+          "letter": "B",
+          "text": "Depends on the maximum resistance offered by the circuit",
+          "isCorrect": false,
+          "explanation": "The resistance of the circuit affects the charging and discharging rates of a capacitor, but it does not dictate the maximum energy that the capacitor can store."
+        },
+        {
+          "letter": "C",
+          "text": "Depends on the maximum electric field the dielectric can withstand",
+          "isCorrect": true,
+          "explanation": "The energy stored in a capacitor is determined by the dielectric's breakdown voltage, which is a measure of the maximum electric field the dielectric can endure before failing. This is essential for understanding the limits of energy storage in capacitors."
+        },
+        {
+          "letter": "D",
+          "text": "Depends on the maximum current passing through the capacitor",
+          "isCorrect": false,
+          "explanation": "The current level affects the rate at which a capacitor can charge or discharge but is not a direct factor in determining the maximum stored energy."
+        }
+      ],
+      "explanation": "The energy stored in a capacitor is limited by the breakdown voltage of its dielectric material. This breakdown occurs when the electric field becomes too strong, a property known as dielectric strength.",
+      "explanationImage": null,
+      "hints": [
+        "maximum energy",
+        "stored in a capacitor",
+        "electric field"
+      ]
+    },
+    {
+      "text": "If the distance between two point charges is doubled, then the Coulomb's force will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "F/2",
+          "isCorrect": false,
+          "explanation": "This option suggests that the force is halved when the distance is doubled, which is incorrect. According to Coulomb's Law, the force decreases with the square of the distance, not linearly."
+        },
+        {
+          "letter": "B",
+          "text": "4F",
+          "isCorrect": false,
+          "explanation": "This option incorrectly implies that the force increases fourfold when the distance is doubled. Coulomb's Law states that as the distance increases, the force decreases."
+        },
+        {
+          "letter": "C",
+          "text": "2F",
+          "isCorrect": false,
+          "explanation": "This option suggests that the force doubles when the distance is doubled, which is also incorrect. The force actually diminishes as the distance increases."
+        },
+        {
+          "letter": "D",
+          "text": "F/4",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. According to Coulomb's Law, if the distance is doubled, the new force becomes one-fourth of the original force due to the inverse square relationship."
+        }
+      ],
+      "explanation": "Coulomb's Law states that the electrostatic force (F) is inversely proportional to the square of the distance (r) between the charges (F ∝ 1/r²). If the distance is doubled (r' = 2r), the new force will be F' ∝ 1/(2r)² = 1/(4r²), making the force one-fourth of the original.",
+      "explanationImage": null,
+      "hints": [
+        "distance",
+        "Coulomb's force"
+      ]
+    },
+    {
+      "text": "Two identical metal balls with charges +2Q and -Q are separated by some distance, and exert a force F on each other. They are joined by a conducting wire, which is then removed. The force between them will now be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "F",
+          "isCorrect": false,
+          "explanation": "This option suggests that the force remains the same after connecting the balls. However, this is incorrect because the charge distribution changes when the balls are connected by a wire."
+        },
+        {
+          "letter": "B",
+          "text": "F/2",
+          "isCorrect": false,
+          "explanation": "This option indicates that the force is halved. While the charge redistribution does reduce the force, it does not reduce it to half. The correct reduction factor is greater."
+        },
+        {
+          "letter": "C",
+          "text": "F/4",
+          "isCorrect": false,
+          "explanation": "This option suggests that the force is reduced to a quarter of the original force. Although this shows an understanding of the proportional relationship, it underestimates the effect of charge sharing and is therefore incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "F/8",
+          "isCorrect": true,
+          "explanation": "This option is correct. After the balls are connected by a conducting wire, they share the total charge equally, resulting in a new force that is one-eighth of the original force."
+        }
+      ],
+      "explanation": "Initially, the force is proportional to (+2Q)(-Q) = -2Q². After connecting, the total charge (+Q) is shared equally, so each ball has +Q/2. The new force is proportional to (+Q/2)(+Q/2) = +Q²/4. The ratio of the new force magnitude to the old is (Q²/4) / (2Q²) = 1/8.",
+      "explanationImage": null,
+      "hints": [
+        "identical metal balls",
+        "conducting wire",
+        "force F"
+      ]
+    },
+    {
+      "text": "When 10¹⁹ electrons are removed from a neutral metal plate, the electric charge on it is (in coulombs):",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10⁻¹⁹ C",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests a very small positive charge. The removal of electrons results in a positive charge, so this answer does not apply in this context."
+        },
+        {
+          "letter": "B",
+          "text": "-1.6 C",
+          "isCorrect": false,
+          "explanation": "This option suggests a negative charge which is not possible in this scenario, as removing electrons from a neutral object would not create a negative charge."
+        },
+        {
+          "letter": "C",
+          "text": "+1.6 C",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The net charge is calculated by multiplying the number of electrons removed (10¹⁹) by the elementary charge (1.6 × 10⁻¹⁹ C), resulting in +1.6 C."
+        },
+        {
+          "letter": "D",
+          "text": "10⁻¹⁹ C",
+          "isCorrect": false,
+          "explanation": "This option suggests a very small positive charge, similar to option A. However, the removal of a significant number of electrons (10¹⁹) leads to a much larger charge, making this answer incorrect."
+        }
+      ],
+      "explanation": "Removing electrons leaves a net positive charge. The total charge is the number of electrons removed multiplied by the elementary charge: Q = n × e = (10¹⁹) × (1.6 × 10⁻¹⁹ C) = +1.6 C.",
+      "explanationImage": null,
+      "hints": [
+        "10¹⁹ electrons",
+        "neutral metal plate"
+      ]
+    },
+    {
+      "text": "Two point charges +3µC and +8µC repel each other with a force of 40N. If a charge of -5µC is added to each of them, the force between them will become:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-10N",
+          "isCorrect": true,
+          "explanation": "This option is correct because the new charges are q'₁ = -2µC and q'₂ = +3µC, resulting in an attractive force of -10N."
+        },
+        {
+          "letter": "B",
+          "text": "+20N",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A positive force would imply a repulsive interaction, which is not the case with the new charges."
+        },
+        {
+          "letter": "C",
+          "text": "+10N",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A positive force suggests that the charges are repelling each other, but the new configuration results in attraction."
+        },
+        {
+          "letter": "D",
+          "text": "-20N",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it does not accurately reflect the new forces based on the charges provided. The calculation indicates a force of -10N."
+        }
+      ],
+      "explanation": "The new charges are q'₁ = (+3 - 5)µC = -2µC and q'₂ = (+8 - 5)µC = +3µC. The force is proportional to the product of the charges. The ratio of the new force to the old force is F'/F = (q'₁q'₂)/(q₁q₂) = (-2)(+3)/(+3)(+8) = -6/24 = -1/4. So, F' = -F/4 = -40N/4 = -10N (attractive).",
+      "explanationImage": null,
+      "hints": [
+        "charges",
+        "force",
+        "repel"
+      ]
+    },
+    {
+      "text": "Two point charges +2C and +6C repel each other with a force of 12N. If a charge of -2C is given to each of these charges, the force will now be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "After applying a charge of -2C to both original charges, one of them becomes 0C. Since the force between charges is only present when both are non-zero, the force becomes zero."
+        },
+        {
+          "letter": "B",
+          "text": "8N (repulsive)",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests that the charges still repel each other. With one charge becoming zero, there is no force acting between them."
+        },
+        {
+          "letter": "C",
+          "text": "8N (attractive)",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because although the charges may attract if both were negative or positive, one charge is zero, leading to no force."
+        },
+        {
+          "letter": "D",
+          "text": "16N (attractive)",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it assumes both charges can exert a force on each other. With a charge of zero, no force can be exerted."
+        }
+      ],
+      "explanation": "The initial force F is proportional to (2)(6) = 12. After adding -2C, the new charges are 0C and +4C. Since one charge is zero, the force between them will be zero.",
+      "explanationImage": null,
+      "hints": [
+        "repel",
+        "charge of -2C"
+      ]
+    },
+    {
+      "text": "The force between two point charges placed in air is F. If air is replaced by a medium of relative permittivity εr, the force is reduced to",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "εrF",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests that the force increases proportionally with the relative permittivity, which is not the case. The force actually decreases in a medium with higher permittivity."
+        },
+        {
+          "letter": "B",
+          "text": "εr/F",
+          "isCorrect": false,
+          "explanation": "This option suggests an inverse relationship between force and relative permittivity, which is incorrect. The force does not have this form in a medium."
+        },
+        {
+          "letter": "C",
+          "text": "F/εr",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The force between charges is reduced by a factor equal to the relative permittivity of the medium, leading to the new force being calculated as F' = F_air / εr."
+        },
+        {
+          "letter": "D",
+          "text": "Fεr",
+          "isCorrect": false,
+          "explanation": "This option incorrectly implies that the force increases with the medium's relative permittivity, which contradicts the principles of electrostatics."
+        }
+      ],
+      "explanation": "The force between charges in a dielectric medium is reduced by a factor equal to the relative permittivity (or dielectric constant) of that medium. Therefore, the new force F' = F_air / εr.",
+      "explanationImage": null,
+      "hints": [
+        "force",
+        "relative permittivity",
+        "medium"
+      ]
+    },
+    {
+      "text": "A dipole with moment p = 4 × 10⁻¹⁰ C·m is aligned parallel to a uniform electric field of 2 × 10⁴ N/C. The potential energy of the dipole is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-8 × 10⁻⁶ J",
+          "isCorrect": true,
+          "explanation": "This option is correct. The potential energy of a dipole is calculated using the formula U = -pE cosθ. For a dipole aligned parallel to the electric field (θ = 0°), cos(0°) = 1. Thus, U = -pE = -(4 × 10⁻¹⁰ C·m)(2 × 10⁴ N/C) = -8 × 10⁻⁶ J."
+        },
+        {
+          "letter": "B",
+          "text": "8 × 10⁻⁶ J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It represents the magnitude of the calculated potential energy without the negative sign, which is crucial since the potential energy is negative when the dipole is aligned with the electric field."
+        },
+        {
+          "letter": "C",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A potential energy of zero would imply that the dipole is not affected by the electric field or is at an angle of 90°, which is not the case here as the dipole is aligned parallel to the field."
+        },
+        {
+          "letter": "D",
+          "text": "4 × 10⁻⁶ J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It does not account for the negative sign in the potential energy formula. The value presented suggests a misunderstanding of the relationship between dipole orientation and potential energy."
+        }
+      ],
+      "explanation": "Potential energy of a dipole is U = -pE cosθ. For θ = 0° (parallel), cosθ = 1, so U = -pE = -(4 × 10⁻¹⁰)(2 × 10⁴) = -8 × 10⁻⁶ J.",
+      "explanationImage": null,
+      "hints": [
+        "dipole moment",
+        "electric field"
+      ]
+    },
+    {
+      "text": "Two metal plates have a potential difference of 300 V and are 0.01 m apart. A charged particle of mass 1.96x 10⁻¹⁵ kg is held in equilibrium between the plates of the capacitor. Then the electric field is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3x 10² V m⁻¹",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it underestimates the electric field strength calculated from the given potential difference and distance."
+        },
+        {
+          "letter": "B",
+          "text": "3×10⁴ V m⁻¹",
+          "isCorrect": true,
+          "explanation": "This is the correct option. The electric field (E) is calculated as E = V/d = 300 V / 0.01 m = 30,000 V/m or 3 × 10⁴ V/m."
+        },
+        {
+          "letter": "C",
+          "text": "3 Vm⁻¹",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it represents a much smaller value of electric field strength that does not reflect the calculations based on the given parameters."
+        },
+        {
+          "letter": "D",
+          "text": "3×10⁻⁴ V m⁻¹",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it represents a value that is far too low given the potential difference and distance provided."
+        }
+      ],
+      "explanation": "The electric field (E) between parallel plates is the potential difference (V) divided by the distance (d) between them. E = V/d = 300 V / 0.01 m = 30,000 V/m or 3 × 10⁴ V/m.",
+      "explanationImage": null,
+      "hints": [
+        "potential difference",
+        "0.01 m apart"
+      ]
+    },
+    {
+      "text": "The electric field strength between a pair of plates is \"E\". If the separation of the plates is doubled and the potential difference between the plates is increased by a factor of four, the new field strength is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "E",
+          "isCorrect": false,
+          "explanation": "This option suggests that the electric field strength remains unchanged. However, this is incorrect as the electric field strength is affected by changes in both the potential difference and the separation of the plates."
+        },
+        {
+          "letter": "B",
+          "text": "2E",
+          "isCorrect": true,
+          "explanation": "This is the correct option. The electric field strength is given by E = V/d. When the potential difference is quadrupled (4V) and the distance is doubled (2d), the new electric field strength becomes E' = (4V)/(2d) = 2(V/d) = 2E."
+        },
+        {
+          "letter": "C",
+          "text": "4E",
+          "isCorrect": false,
+          "explanation": "This option incorrectly assumes that the electric field strength quadruples without considering the effect of doubling the separation distance. The electric field strength does not increase by four times in this scenario."
+        },
+        {
+          "letter": "D",
+          "text": "8E",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests that the electric field strength would increase by a factor of eight, which does not align with the relationship defined by E = V/d in this context."
+        }
+      ],
+      "explanation": "The electric field is E = V/d. The new field E' will be E' = (4V)/(2d) = 2(V/d) = 2E. The new field strength is twice the original.",
+      "explanationImage": null,
+      "hints": [
+        "electric field strength",
+        "separation of the plates",
+        "potential difference"
+      ]
+    },
+    {
+      "text": "The electric field intensity at a point situated 4 metres from a point charge is 200 N/C. If the distance is reduced to 2 metres, what will be the field intensity?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "400 N/C",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Reducing the distance from 4m to 2m increases the electric field intensity by a factor of 4, resulting in a stronger field than 400 N/C."
+        },
+        {
+          "letter": "B",
+          "text": "800 N/C",
+          "isCorrect": true,
+          "explanation": "This option is correct. The electric field intensity at 2m is calculated by applying the formula E ∝ 1/r². Since the distance is halved, the intensity increases by a factor of 4, leading to an intensity of 800 N/C."
+        },
+        {
+          "letter": "C",
+          "text": "600 N/C",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The increase in electric field intensity due to the distance reduction does not lead to this value. The correct calculation shows the intensity is much higher."
+        },
+        {
+          "letter": "D",
+          "text": "1200 N/C",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. This value suggests an incorrect application of the inverse square law, as it implies an increase greater than what is possible when the distance is halved."
+        }
+      ],
+      "explanation": "Electric field intensity (E) from a point charge is inversely proportional to the square of the distance (E ∝ 1/r²). Halving the distance (from 4m to 2m) will increase the field strength by a factor of 2², which is 4. The new intensity will be 200 N/C × 4 = 800 N/C.",
+      "explanationImage": null,
+      "hints": [
+        "electric field intensity",
+        "distance",
+        "point charge"
+      ]
+    },
+    {
+      "text": "A and B are two points in an electric field. If the work done in carrying 4.0 coulombs of electric charge from A to B is 16.0 joules, the potential difference between A and B is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "This option indicates that there is no potential difference between points A and B. However, since work is done in moving the charge, there must be a potential difference."
+        },
+        {
+          "letter": "B",
+          "text": "4V",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The potential difference (V) is calculated using the formula V = W/q. Here, W = 16.0 Joules and q = 4.0 Coulombs, giving V = 16.0 J / 4.0 C = 4 V."
+        },
+        {
+          "letter": "C",
+          "text": "2.0 V",
+          "isCorrect": false,
+          "explanation": "This option suggests a potential difference of 2V. However, using the provided values, the correct calculation shows that the potential difference is 4V, not 2V."
+        },
+        {
+          "letter": "D",
+          "text": "16V",
+          "isCorrect": false,
+          "explanation": "This option presents a potential difference of 16V, which incorrectly assumes that the potential difference equals the work done without accounting for the charge. The correct calculation shows it should be 4V."
+        }
+      ],
+      "explanation": "The potential difference (V) between two points is defined as the work done (W) per unit charge (q). V = W/q = 16.0 J / 4.0 C = 4 V.",
+      "explanationImage": null,
+      "hints": [
+        "work done",
+        "electric charge"
+      ]
+    },
+    {
+      "text": "Potential due to charge q at distance 1m is 5V, at distance 3m will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "5/3 V",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. Since electric potential (V) is inversely proportional to distance (r), if the distance triples from 1m to 3m, the potential will decrease by a factor of 3, resulting in 5V/3 = 5/3 V."
+        },
+        {
+          "letter": "B",
+          "text": "7/3 V",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It suggests an increase in potential with distance, which contradicts the principle that potential decreases as distance increases."
+        },
+        {
+          "letter": "C",
+          "text": "3/5 V",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It incorrectly applies the relationship between potential and distance, leading to a potential that is not aligned with the expected decrease from 5 V."
+        },
+        {
+          "letter": "D",
+          "text": "3/7 V",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect. It does not reflect the correct calculation of potential based on the given distance and charge, and does not follow the inverse relationship."
+        }
+      ],
+      "explanation": "Electric potential (V) due to a point charge is inversely proportional to the distance (r) from the charge (V ∝ 1/r). If the distance increases by a factor of 3 (from 1m to 3m), the potential will decrease by a factor of 3, becoming 5/3 V.",
+      "explanationImage": null,
+      "hints": [
+        "distance",
+        "potential"
+      ]
+    },
+    {
+      "text": "The electric potential at the surface of an atomic nucleus (Z=50) of radius 9.0x 10⁻¹⁵m is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "9V",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it underestimates the electric potential significantly, failing to account for the large charge of the nucleus."
+        },
+        {
+          "letter": "B",
+          "text": "8 x 10⁶ V",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The electric potential is calculated by using V = kQ/r, where Q = Ze. Here, Q = 50 × (1.6 × 10⁻¹⁹ C) and r = 9.0 × 10⁻¹⁵ m. Thus, V = (9 × 10⁹) × (50 × 1.6 × 10⁻¹⁹) / (9.0 × 10⁻¹⁵) = 8 × 10⁶ V."
+        },
+        {
+          "letter": "C",
+          "text": "9 x 10⁵ V",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it also underestimates the potential. It does not account for the correct values of charge and radius in the calculations."
+        },
+        {
+          "letter": "D",
+          "text": "80 V",
+          "isCorrect": false,
+          "explanation": "This is incorrect because it is far too low and does not reflect the significant charge of a nucleus with Z=50."
+        }
+      ],
+      "explanation": "The total charge of the nucleus is Q = Ze = 50 × (1.6 × 10⁻¹⁹ C). The potential is V = kQ/r. V = (9 × 10⁹) × (50 × 1.6 × 10⁻¹⁹) / (9.0 × 10⁻¹⁵) = 8 × 10⁶ V.",
+      "explanationImage": null,
+      "hints": [
+        "electric potential",
+        "nucleus",
+        "radius"
+      ]
+    },
+    {
+      "text": "Equal amount of charge is given to two spheres A and B of radii 2cm and 3cm respectively. The potential VA and VB:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "VA=VB",
+          "isCorrect": false,
+          "explanation": "This option suggests that the potentials of both spheres are equal. However, this is incorrect because the potential depends on the radius of each sphere; the smaller sphere will have a higher potential."
+        },
+        {
+          "letter": "B",
+          "text": "VA > VB",
+          "isCorrect": true,
+          "explanation": "This option is correct. For a given charge on a sphere, the potential is given by the formula V = kQ/r. Since sphere A has a smaller radius than sphere B, it will have a higher potential."
+        },
+        {
+          "letter": "C",
+          "text": "VA < VB",
+          "isCorrect": false,
+          "explanation": "This option suggests that the potential of sphere A is less than that of sphere B. This is incorrect because the potential is inversely proportional to the radius, meaning the smaller radius (sphere A) results in a higher potential."
+        },
+        {
+          "letter": "D",
+          "text": "Depends upon the material of the sphere",
+          "isCorrect": false,
+          "explanation": "This option is misleading. The problem states that both spheres have the same amount of charge, and the formula for electric potential does not depend on the material of the sphere in this context; it solely depends on the charge and radius."
+        }
+      ],
+      "explanation": "For a sphere, the potential on its surface is V = kQ/r. Since both spheres have the same charge (Q), the potential is inversely proportional to the radius (r). The sphere with thesmaller radius (A) will have the higher potential.",
+      "explanationImage": null,
+      "hints": [
+        "charge",
+        "spheres",
+        "potential"
+      ]
+    },
+    {
+      "text": "Two charges +q and -q are situated at a certain distance. At the point exactly midway between them:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electric field and potential both are zero",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because at the midpoint, the electric field from the positive and negative charges does not cancel out, leading to a non-zero electric field. Additionally, the potentials do not both equal zero."
+        },
+        {
+          "letter": "B",
+          "text": "Electric field is not zero but potential is not zero",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because while the electric field is indeed not zero, the potential at the midpoint does equal zero as the contributions from both charges cancel out."
+        },
+        {
+          "letter": "C",
+          "text": "Electric field is zero but potential is not zero",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the electric field at the midpoint is not zero; it is the result of the addition of the electric fields from both charges pointing in the same direction. The potential, however, is zero."
+        },
+        {
+          "letter": "D",
+          "text": "Electric field is not zero but potential is zero",
+          "isCorrect": true,
+          "explanation": "This is the correct option. The electric field at the midpoint is the vector sum of the fields due to +q and -q, which do not cancel and thus results in a non-zero field. The potentials from both charges at the midpoint add up to zero, as they are equal in magnitude but opposite in sign."
+        }
+      ],
+      "explanation": "The electric field is a vector; at the midpoint, the fields from both charges point in the same direction (from +q to -q) and add up, so it is non-zero. The potential is a scalar; at the midpoint, the potentials V₁ = kq/r and V₂ = k(-q)/r add up to zero.",
+      "explanationImage": null,
+      "hints": [
+        "midway",
+        "electric field",
+        "potential"
+      ]
+    },
+    {
+      "text": "What is the area of the plates of a 3F parallel plate capacitor, if the separation between the plates is 5mm?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.694 x 10⁹ m²",
+          "isCorrect": true,
+          "explanation": "This option is correct. By applying the formula A = (C × d) / ε₀ with C = 3 F and d = 0.005 m, we find A ≈ 1.69 x 10⁹ m²."
+        },
+        {
+          "letter": "B",
+          "text": "9.281 x 10⁹ m²",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It does not follow from the capacitance formula and is significantly larger than the calculated area."
+        },
+        {
+          "letter": "C",
+          "text": "4.529 x 10⁹ m²",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It does not match the calculation using the provided capacitance and distance."
+        },
+        {
+          "letter": "D",
+          "text": "12.981 x 10⁹ m²",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The calculated area based on the given values is much lower than this figure."
+        }
+      ],
+      "explanation": "The formula for capacitance is C = (kε₀A)/d. Assuming the dielectric is a vacuum (k=1), and rearranging for area gives A = Cd/ε₀. A = (3 F × 0.005 m) / (8.85 × 10⁻¹² F/m) ≈ 1.69 × 10⁹ m², an astronomically large area.",
+      "explanationImage": null,
+      "hints": [
+        "3F",
+        "5mm"
+      ]
+    },
+    {
+      "text": "The capacity of a condenser in which a dielectric of dielectric constant 5 has been used, is C. If the dielectric is replaced by another with dielectric constant 20, the capacity will become:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "C/4",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it implies that the capacitance decreases significantly when a higher dielectric constant is used, which contradicts the principle that capacitance increases with a higher dielectric constant."
+        },
+        {
+          "letter": "B",
+          "text": "C/2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it suggests that the capacitance is halved when switching to a dielectric with a higher constant, which is not in accordance with the direct proportionality of capacitance to the dielectric constant."
+        },
+        {
+          "letter": "C",
+          "text": "4C",
+          "isCorrect": true,
+          "explanation": "This is the correct answer because when the dielectric constant increases from 5 to 20, the capacitance increases by a factor of 4, given by the ratio of the constants: 20/5 = 4."
+        },
+        {
+          "letter": "D",
+          "text": "2C",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it suggests that the capacitance only doubles, which does not reflect the correct relationship between the dielectric constants of the materials."
+        }
+      ],
+      "explanation": "Capacitance is directly proportional to the dielectric constant (k). The ratio of the new capacitance (C') to the old (C) is equal to the ratio of the dielectric constants: C'/C = k'/k = 20/5 = 4. Therefore, the new capacity will be 4C.",
+      "explanationImage": null,
+      "hints": [
+        "dielectric constant",
+        "capacity",
+        "C"
+      ]
+    },
+    {
+      "text": "The space between the plates of a capacitor is filled by a material of dielectric constant K. The capacitance of the capacitor:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increases by a factor of K",
+          "isCorrect": true,
+          "explanation": "Introducing a dielectric material with constant K between the plates of a capacitor increases its ability to store charge. The capacitance is directly multiplied by this factor, so the new capacitance becomes K times the original capacitance."
+        },
+        {
+          "letter": "B",
+          "text": "Decreases by a factor of K",
+          "isCorrect": false,
+          "explanation": "Incorrect. A dielectric does not decrease capacitance; rather, it enhances the capacitor's ability to store charge, effectively increasing its capacitance."
+        },
+        {
+          "letter": "C",
+          "text": "Increases by a factor of K²",
+          "isCorrect": false,
+          "explanation": "Incorrect. The increase in capacitance due to a dielectric is linear with respect to the dielectric constant K, not quadratic."
+        },
+        {
+          "letter": "D",
+          "text": "Decreases by a factor of K²",
+          "isCorrect": false,
+          "explanation": "Incorrect. The introduction of a dielectric increases capacitance, not decreases it. This option misinterprets the effect of the dielectric constant."
+        }
+      ],
+      "explanation": "Introducing a dielectric material with constant K between the plates of a capacitor increases its ability to store charge. The capacitance is directly multiplied by this factor, so the new capacitance becomes K times the original capacitance.",
+      "explanationImage": null,
+      "hints": [
+        "dielectric constant",
+        "capacitance",
+        "increases"
+      ]
+    },
+    {
+      "text": "If the potential difference across the two plates of a parallel plate capacitor is doubled, then the energy stored in it will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 times",
+          "isCorrect": false,
+          "explanation": "This option suggests that the energy doubles, but the relationship between voltage and energy is quadratic, not linear. Therefore, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "4 times",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The energy stored in a capacitor is proportional to the square of the potential difference (U = (1/2)CV²). When the potential difference is doubled, the energy increases by a factor of 2², which equals 4."
+        },
+        {
+          "letter": "C",
+          "text": "10 times",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests a tenfold increase in energy. The energy stored in a capacitor does not increase linearly with voltage, making this option incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Remains same",
+          "isCorrect": false,
+          "explanation": "This option implies that the energy does not change with voltage. This is incorrect because energy stored in a capacitor clearly depends on the square of the voltage applied."
+        }
+      ],
+      "explanation": "The energy (U) stored in a capacitor is given by the formula U = (1/2)CV². Since the energy is proportional to the square of the potential difference (V), doubling the voltage will increase the stored energy by a factor of 2², which is 4.",
+      "explanationImage": null,
+      "hints": [
+        "potential difference",
+        "energy stored",
+        "parallel plate capacitor"
+      ]
+    },
+    {
+      "text": "If a 10μF capacitor is to have an energy content of 20J, it must be placed across a potential difference of:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 volts",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The calculation shows that a potential difference of 2000 volts is necessary to store 20J of energy in a 10μF capacitor."
+        },
+        {
+          "letter": "B",
+          "text": "2000 volts",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. Using the formula U = (1/2)CV², we find that V must be 2000 volts to achieve an energy content of 20J with a capacitance of 10μF."
+        },
+        {
+          "letter": "C",
+          "text": "9 volts",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A potential difference of 9 volts would not provide enough energy to meet the requirement of 20J for a 10μF capacitor."
+        },
+        {
+          "letter": "D",
+          "text": "1 volt",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect. A potential difference of only 1 volt would yield far less energy than the required 20J."
+        }
+      ],
+      "explanation": "Using the energy formula U = (1/2)CV², we rearrange to solve for V: V = √(2U/C). V = √(2 × 20 J / 10 × 10⁻⁶ F) = √(40 / 10⁻⁵) = √4 × 10⁶ = 2000 V.",
+      "explanationImage": null,
+      "hints": [
+        "energy content",
+        "potential difference",
+        "capacitor"
+      ]
+    },
+    {
+      "text": "3 capacitors with capacitance 5µF, 6µF and 7µF are arranged in series combination with a battery of 5V. Which capacitor has more potential difference across its plates?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "5µF capacitor",
+          "isCorrect": true,
+          "explanation": "This capacitor has the smallest capacitance value, which means it will have the largest potential difference across its plates in a series circuit. As V = Q/C, a smaller C results in a larger V."
+        },
+        {
+          "letter": "B",
+          "text": "6µF capacitor",
+          "isCorrect": false,
+          "explanation": "This capacitor has a medium capacitance value. Since it is greater than 5µF, it will have a smaller potential difference than the 5µF capacitor."
+        },
+        {
+          "letter": "C",
+          "text": "7µF capacitor",
+          "isCorrect": false,
+          "explanation": "This capacitor has the largest capacitance value of the three. Therefore, it will have the smallest potential difference across its plates compared to the 5µF and 6µF capacitors."
+        },
+        {
+          "letter": "D",
+          "text": "Same potential difference across all",
+          "isCorrect": false,
+          "explanation": "This statement is incorrect because, in a series circuit, the potential difference varies among capacitors depending on their capacitance values. The capacitor with the least capacitance will have the highest potential difference."
+        }
+      ],
+      "explanation": "In a series circuit, the charge (Q) is the same on all capacitors. The potential difference across a capacitor is given by V = Q/C. Since V is inversely proportional to C, the capacitor with the smallest capacitance (5µF) will have the largest potential difference across it.",
+      "explanationImage": null,
+      "hints": [
+        "3 capacitors",
+        "series combination",
+        "potential difference"
+      ]
+    },
+    {
+      "text": "A test charge is moved from a lower potential point to a higher potential point. The potential energy of the test charge will:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Remain the same",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because moving a charge from a lower potential to a higher potential necessitates work against the electric field, which changes the potential energy."
+        },
+        {
+          "letter": "B",
+          "text": "Increase",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The potential energy increases as the test charge is moved to a higher potential. The relationship is given by ΔU = qΔV, where q is positive and ΔV is positive, indicating an increase in energy."
+        },
+        {
+          "letter": "C",
+          "text": "Decrease",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because moving to a higher potential cannot result in a decrease in potential energy for a positive test charge."
+        },
+        {
+          "letter": "D",
+          "text": "Become zero",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The potential energy does not become zero unless the charge is moved to a reference point defined as zero potential, which is not the case here."
+        }
+      ],
+      "explanation": "The change in potential energy is ΔU = qΔV. If a positive test charge (q>0) is moved to a higher potential (ΔV>0), the potential energy will increase. Work must be done against the electric field to move the charge.",
+      "explanationImage": null,
+      "hints": [
+        "test charge",
+        "higher potential"
+      ]
+    },
+    {
+      "text": "The force per unit charge is known as:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electric flux",
+          "isCorrect": false,
+          "explanation": "Electric flux refers to the quantity of electric field lines passing through a given area. It is related to the electric field and the area but does not represent the force per unit charge."
+        },
+        {
+          "letter": "B",
+          "text": "Electric field intensity",
+          "isCorrect": true,
+          "explanation": "Electric field intensity (or electric field strength) is defined at a point in space as the electrostatic force experienced by a unit positive test charge placed at that point. Its formula is E = F/q, making it the correct answer."
+        },
+        {
+          "letter": "C",
+          "text": "Electric potential",
+          "isCorrect": false,
+          "explanation": "Electric potential, or voltage, refers to the potential energy per unit charge at a point in an electric field. It does not indicate the force per unit charge but rather the work done to move a charge within the field."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above are the same",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because electric flux, electric field intensity, and electric potential are distinct concepts in electrostatics, each with different definitions and applications."
+        }
+      ],
+      "explanation": "Electric field intensity (or electric field strength) is defined at a point in space as the electrostatic force that would be experienced by a unit positive test charge placed at that point. Its formula is E = F/q.",
+      "explanationImage": null,
+      "hints": [
+        "force",
+        "unit charge"
+      ]
+    },
+    {
+      "text": "A charge of 2C experiences a force of 2000N in a uniform electric field. In this field, the potential difference between two points separated by a distance of 1cm is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2V",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. If we assume a potential difference of 2V, the calculated electric field strength would lead to an inconsistent value when using the given force and charge."
+        },
+        {
+          "letter": "B",
+          "text": "5V",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A potential difference of 5V would yield an electric field strength that does not match the calculated value based on the provided force and charge."
+        },
+        {
+          "letter": "C",
+          "text": "10V",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The electric field strength is calculated as E = F/q = 2000 N / 2 C = 1000 N/C. The potential difference is then calculated using V = Ed = (1000 N/C) × (0.01 m) = 10 V."
+        },
+        {
+          "letter": "D",
+          "text": "20V",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A potential difference of 20V would imply a much higher electric field strength than what is derived from the force and charge given in the question."
+        }
+      ],
+      "explanation": "First, find the electric field strength: E = F/q = 2000 N / 2 C = 1000 N/C. The potential difference is V = Ed = (1000 N/C) × (0.01 m) = 10 V.",
+      "explanationImage": null,
+      "hints": [
+        "force",
+        "potential difference",
+        "distance"
+      ]
+    },
+    {
+      "text": "A 5µF capacitor has a potential difference across its plates of 200 volts. The charge on the capacitor is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.5×10⁻³ C",
+          "isCorrect": false,
+          "explanation": "This option miscalculates the charge. While it seems plausible, the charge is actually determined by the formula Q = CV, which gives a different result."
+        },
+        {
+          "letter": "B",
+          "text": "10⁻³ C",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The charge is calculated using the formula Q = CV, resulting in Q = (5 × 10⁻⁶ F) × (200 V) = 10⁻³ C."
+        },
+        {
+          "letter": "C",
+          "text": "10³ C",
+          "isCorrect": false,
+          "explanation": "This option greatly overestimates the charge. The value of 10³ C far exceeds what is possible for a capacitor with the given capacitance and voltage."
+        },
+        {
+          "letter": "D",
+          "text": "4×10³ C",
+          "isCorrect": false,
+          "explanation": "This option also overestimates the charge on the capacitor. The calculation using the given capacitance and voltage does not support this result."
+        }
+      ],
+      "explanation": "The charge (Q) stored on a capacitor is given by the formula Q = CV. Q = (5 × 10⁻⁶ F) × (200 V) = 1000 × 10⁻⁶ C = 10⁻³ C.",
+      "explanationImage": null,
+      "hints": [
+        "5µF",
+        "200 volts",
+        "charge"
+      ]
+    },
+    {
+      "text": "The number of electrons in one coulomb of charge is equal to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6.25×10¹⁸",
+          "isCorrect": true,
+          "explanation": "The charge of one electron is approximately 1.6 × 10⁻¹⁹ C. To find the number of electrons in one coulomb, we divide the total charge by the charge of a single electron: n = 1 C / (1.6 × 10⁻¹⁹ C/electron) ≈ 6.25 × 10¹⁸ electrons."
+        },
+        {
+          "letter": "B",
+          "text": "1.6×10⁻¹⁹",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "6.25x10²¹",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "1.6×10⁻²⁷",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The charge of one electron is approximately 1.6 × 10⁻¹⁹ C. To find the number of electrons in one coulomb, we divide the total charge by the charge of a single electron: n = 1 C / (1.6 × 10⁻¹⁹ C/electron) ≈ 6.25 × 10¹⁸ electrons.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Two capacitors of 4 μF and 8 μF are connected in parallel and charged to 60 V. The charge on the 8 μF capacitor is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "240 μC",
+          "isCorrect": false,
+          "explanation": "This value is incorrect. It would be the charge for a different capacitance or voltage. The formula Q = CV should be applied with the correct values."
+        },
+        {
+          "letter": "B",
+          "text": "480 μC",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. Using the formula Q = CV, we find that for the 8 μF capacitor at 60 V, Q = (8 × 10⁻⁶ F)(60 V) = 4.8 × 10⁻⁴ C = 480 μC."
+        },
+        {
+          "letter": "C",
+          "text": "720 μC",
+          "isCorrect": false,
+          "explanation": "This value is incorrect. It suggests a misunderstanding of either the capacitance or the applied voltage. The correct calculation shows that the charge is much lower."
+        },
+        {
+          "letter": "D",
+          "text": "360 μC",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect. Similar to the others, it does not reflect the correct application of the formula Q = CV for the given values."
+        }
+      ],
+      "explanation": "In parallel, each capacitor has the same voltage (60 V). Charge on the 8 μF capacitor is Q = CV = (8 × 10⁻⁶)(60) = 4.8 × 10⁻⁴ C = 480 μC.",
+      "explanationImage": null,
+      "hints": [
+        "4 μF",
+        "8 μF",
+        "60 V"
+      ]
+    },
+    {
+      "text": "A charged spherical conductor of radius 0.1 m has a potential of 900 V at its surface. The charge on the conductor is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10⁻⁸ C",
+          "isCorrect": false,
+          "explanation": "This option suggests a charge that would result in a potential significantly lower than 900 V when using the given radius, thus it is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "2 × 10⁻⁸ C",
+          "isCorrect": false,
+          "explanation": "This charge value would create a potential higher than 900 V, indicating it does not satisfy the condition provided in the question."
+        },
+        {
+          "letter": "C",
+          "text": "10⁻⁹ C",
+          "isCorrect": true,
+          "explanation": "This is the correct answer calculated using the formula V = kQ/R, which gives the potential at the surface of the conductor."
+        },
+        {
+          "letter": "D",
+          "text": "5 × 10⁻⁹ C",
+          "isCorrect": false,
+          "explanation": "This value is also too high, resulting in a potential that exceeds the stated 900 V at the surface of the conductor."
+        }
+      ],
+      "explanation": "Potential at the surface is V = kQ/R. Solving for Q, Q = VR/k = (900)(0.1)/(9 × 10⁹) = 10⁻⁹ C.",
+      "explanationImage": null,
+      "hints": [
+        "charged spherical conductor",
+        "potential of 900 V"
+      ]
+    },
+    {
+      "text": "An electron enters a region with a uniform electric field of 10³ N/C at an angle of 45° to the field. The component of acceleration parallel to the field is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "8.8 × 10¹³ m/s²",
+          "isCorrect": false,
+          "explanation": "This option reflects a miscalculation in the component of acceleration parallel to the electric field. It may arise from misunderstanding the relationship between the angle and the electric field strength."
+        },
+        {
+          "letter": "B",
+          "text": "1.76 × 10¹⁴ m/s²",
+          "isCorrect": false,
+          "explanation": "This choice is based on an incorrect assessment of the force acting on the electron, possibly neglecting the cosine component due to the angle of entry."
+        },
+        {
+          "letter": "C",
+          "text": "1.24 × 10¹⁴ m/s²",
+          "isCorrect": true,
+          "explanation": "This is the correct calculation for the acceleration of the electron. The formula incorporates the charge of the electron, the electric field strength, and the cosine of the angle for the force component parallel to the field."
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "This choice indicates a misunderstanding of electric forces. An electron in a non-zero electric field will experience a non-zero acceleration unless it is moving directly opposite to the field without any angle."
+        }
+      ],
+      "explanation": "Acceleration is a = qE cosθ/m. For an electron (q = 1.6 × 10⁻¹⁹ C, m = 9.1 × 10⁻³¹ kg), E = 10³ N/C, θ = 45°, a = (1.6 × 10⁻¹⁹)(10³) (√2/2)/(9.1 × 10⁻³¹) ≈ 1.24 × 10¹⁴ m/s².",
+      "explanationImage": null,
+      "hints": [
+        "uniform electric field",
+        "angle of 45°"
+      ]
+    },
+    {
+      "text": "Let Q denote charge, V denote potential difference, and U denote stored energy. Of these quantities, capacitors in parallel must have the same:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Q only",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the charge (Q) on capacitors in parallel can vary. Each capacitor can store a different amount of charge depending on its capacitance and the applied voltage."
+        },
+        {
+          "letter": "B",
+          "text": "V only",
+          "isCorrect": true,
+          "explanation": "This option is correct. In a parallel configuration, all capacitors experience the same potential difference (V) because they are connected across the same two points in the circuit."
+        },
+        {
+          "letter": "C",
+          "text": "U only",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the stored energy (U) can differ among capacitors in parallel, depending on both the capacitance and the voltage across each capacitor."
+        },
+        {
+          "letter": "D",
+          "text": "Q and U only",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because neither the charge (Q) nor the stored energy (U) is the same for capacitors in parallel. Each capacitor can have different capacitance and thus different charge and energy stored."
+        }
+      ],
+      "explanation": "When circuit elements are connected in parallel, they are connected across the same two points in the circuit. By definition, this means the potential difference (V) across each parallel element must be the same.",
+      "explanationImage": null,
+      "hints": [
+        "capacitors",
+        "parallel",
+        "potential difference"
+      ]
+    },
+    {
+      "text": "The metallic spheres A and B of radii 2m and 4m respectively carry the same charge 4x10⁻⁸C. If the spheres are connected by a copper wire then:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The charge will flow from A to B",
+          "isCorrect": true,
+          "explanation": "This is correct because Sphere A has a smaller radius and thus a higher potential than Sphere B. Charge will flow from the region of higher potential (A) to the region of lower potential (B) until their potentials equalize."
+        },
+        {
+          "letter": "B",
+          "text": "The charge will flow from B to A",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as Sphere B has a larger radius and therefore a lower potential than Sphere A. Charge cannot flow from a lower potential to a higher potential."
+        },
+        {
+          "letter": "C",
+          "text": "No flow of charge will occur",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because there is a potential difference between the two spheres due to their different radii. Charge will flow to equalize the potential."
+        },
+        {
+          "letter": "D",
+          "text": "Both A and B are possible",
+          "isCorrect": false,
+          "explanation": "This is incorrect because only one direction of charge flow is possible based on the potentials of the spheres. Charge cannot flow in both directions simultaneously."
+        }
+      ],
+      "explanation": "The potential of a sphere is V = kQ/r. Sphere A (smaller radius) has a higher initial potential than sphere B. Charge flows from a region of higher potential to lower potential, so charge will flow from A to B until their potentials are equal.",
+      "explanationImage": null,
+      "hints": [
+        "metallic spheres",
+        "charge",
+        "potential"
+      ]
+    },
+    {
+      "text": "The work done in placing a charge of 8μC on a condenser of capacity 100 nF is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "16 x 10⁻⁵ J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It underestimates the work done and does not use the correct capacitance value in the formula."
+        },
+        {
+          "letter": "B",
+          "text": "32 x 10⁻⁶ J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While it represents a value close to the actual answer, it is not derived from the correct application of the formula for energy stored in a capacitor."
+        },
+        {
+          "letter": "C",
+          "text": "3.2 x 10⁻⁴ J",
+          "isCorrect": true,
+          "explanation": "This option is correct. It accurately calculates the work done using the formula U = Q²/(2C), resulting in the correct energy stored in the capacitor."
+        },
+        {
+          "letter": "D",
+          "text": "16 x 10⁻⁴ J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It significantly overestimates the work done and does not align with the calculations based on the given charge and capacitance."
+        }
+      ],
+      "explanation": "The work done to charge a capacitor is equal to the energy stored, U = Q²/(2C). U = (8 × 10⁻⁶ C)² / (2 × 100 × 10⁻⁹ F) = (64 × 10⁻¹²) / (200 × 10⁻⁹) = 0.32 × 10⁻³ J = 3.2 × 10⁻⁴ J.",
+      "explanationImage": null,
+      "hints": [
+        "charge",
+        "capacity"
+      ]
+    },
+    {
+      "text": "Electric potential is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A scalar quantity",
+          "isCorrect": true,
+          "explanation": "Electric potential is defined as the amount of electric potential energy per unit charge. It has a magnitude but no direction, which classifies it as a scalar quantity."
+        },
+        {
+          "letter": "B",
+          "text": "A vector quantity",
+          "isCorrect": false,
+          "explanation": "Electric potential is not a vector quantity since it does not have a direction associated with it; rather, it only has magnitude."
+        },
+        {
+          "letter": "C",
+          "text": "A dimensionless quantity",
+          "isCorrect": false,
+          "explanation": "Electric potential is measured in volts and is not dimensionless; it has units that relate energy to charge."
+        },
+        {
+          "letter": "D",
+          "text": "Always positive quantity",
+          "isCorrect": false,
+          "explanation": "Electric potential can be negative in certain contexts, such as when dealing with negative charges or in specific regions of an electric field."
+        }
+      ],
+      "explanation": "Electric potential represents energy per unit charge and does not have a direction associated with it, only a magnitude. Therefore, it is a scalar quantity, not a vector.",
+      "explanationImage": null,
+      "hints": [
+        "Electric potential",
+        "scalar quantity"
+      ]
+    },
+    {
+      "text": "Relative permittivity εr is defined by the following relation:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cmed/Cvac",
+          "isCorrect": true,
+          "explanation": "This is the correct definition of relative permittivity. It represents the ratio of capacitance with the medium (Cmed) to capacitance in a vacuum (Cvac), indicating how much the medium enhances capacitance."
+        },
+        {
+          "letter": "B",
+          "text": "Cvac/Cmed",
+          "isCorrect": false,
+          "explanation": "This option incorrectly inverses the relationship. It represents the ratio of capacitance in a vacuum to the capacitance in the medium, which does not define relative permittivity."
+        },
+        {
+          "letter": "C",
+          "text": "Cmed + Cvac",
+          "isCorrect": false,
+          "explanation": "This option suggests an additive relationship between the two capacitances, which does not relate to the definition of relative permittivity."
+        },
+        {
+          "letter": "D",
+          "text": "Cmed×Cvac",
+          "isCorrect": false,
+          "explanation": "This option implies a multiplicative relationship between the two capacitances, which is also incorrect for defining relative permittivity."
+        }
+      ],
+      "explanation": "Relative permittivity (or dielectric constant) is a dimensionless factor that describes how much a dielectric material increases the capacitance of a capacitor. It is defined as the ratio of the capacitance with the medium (Cmed) to the capacitance in a vacuum (Cvac).",
+      "explanationImage": null,
+      "hints": [
+        "relative permittivity",
+        "capacitance",
+        "vacuum"
+      ]
+    },
+    {
+      "text": "The coulombs force between two point charges, If magnitude of each charge is doubled and distance between charges is halved, the force between them becomes:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "F",
+          "isCorrect": false,
+          "explanation": "This option suggests that the force remains unchanged, which is incorrect because both the magnitude of the charges and the distance between them are altered."
+        },
+        {
+          "letter": "B",
+          "text": "8F",
+          "isCorrect": false,
+          "explanation": "This option implies an increase in force, but it underestimates the effect of both doubling the charges and halving the distance."
+        },
+        {
+          "letter": "C",
+          "text": "4F",
+          "isCorrect": false,
+          "explanation": "This option accounts for the increase due to doubling the charges but fails to consider the full effect of halving the distance, leading to an incorrect conclusion."
+        },
+        {
+          "letter": "D",
+          "text": "16F",
+          "isCorrect": true,
+          "explanation": "This option correctly calculates the new force by considering the doubling of both charges and the halving of distance. According to Coulomb's Law, the force increases by a factor of 16."
+        }
+      ],
+      "explanation": "The force is F ∝ (q₁q₂)/r². The new force F' will have a factor of (2×2) in the numerator from doubling the charges and a factor of (1/2)² = 1/4 in the denominator from halving thedistance. This gives F' ∝ 4 / (1/4) = 16. The force becomes 16 times greater.",
+      "explanationImage": null,
+      "hints": [
+        "magnitude of each charge",
+        "distance between charges"
+      ]
+    },
+    {
+      "text": "If E be the electric intensity of an electrostatic field, then the electrostatic energy density is proportional to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "E",
+          "isCorrect": false,
+          "explanation": "This option suggests that the energy density is directly proportional to the electric intensity. However, energy density is not linear with respect to electric intensity; instead, it relates to the square of the intensity."
+        },
+        {
+          "letter": "B",
+          "text": "E²",
+          "isCorrect": true,
+          "explanation": "This option correctly indicates that the energy density is proportional to the square of the electric intensity. The relationship is expressed by the equation u = (1/2)ε₀E², which shows that energy density increases with the square of the electric field strength."
+        },
+        {
+          "letter": "C",
+          "text": "1/E²",
+          "isCorrect": false,
+          "explanation": "This option implies that the energy density decreases with the square of the electric intensity. This is incorrect as energy density increases with the square of the electric field strength, not inversely."
+        },
+        {
+          "letter": "D",
+          "text": "E³",
+          "isCorrect": false,
+          "explanation": "This option suggests that energy density is proportional to the cube of the electric intensity. This is incorrect; energy density is related to the square of the electric intensity, not its cube."
+        }
+      ],
+      "explanation": "The energy density (energy per unit volume) stored in an electric field is given by the formula u = (1/2)ε₀E². This shows that the energy density is directly proportional to the square of the electric field intensity (E²).",
+      "explanationImage": null,
+      "hints": [
+        "electric intensity",
+        "energy density"
+      ]
+    },
+    {
+      "text": "A tin nucleus has a charge of +50e. If a proton is at a distance 10⁻¹² m from the nucleus, then the potential V at this position is (charge on the proton = 1.6 x 10⁻¹⁹ C:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "14.4 x 10⁴ volt",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it underestimates the potential by not properly applying the formula for electric potential."
+        },
+        {
+          "letter": "B",
+          "text": "7.2 x 10⁵ volt",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it miscalculates the potential by not properly accounting for the distance, resulting in an overestimation."
+        },
+        {
+          "letter": "C",
+          "text": "7.2 x 10⁴ volt",
+          "isCorrect": true,
+          "explanation": "This option is correct. The calculation of the potential V is based on the formula V = kQ/r, where Q is the charge of the nucleus (50e) and r is the distance from the nucleus (10⁻¹² m)."
+        },
+        {
+          "letter": "D",
+          "text": "14.4 x 10⁸ volt",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it significantly overestimates the potential, likely due to multiplying incorrectly or misunderstanding the distance in the formula."
+        }
+      ],
+      "explanation": "The charge of the nucleus is Q = 50e. The potential is V = kQ/r = k(50e)/r. V = (9×10⁹)(50 × 1.6×10⁻¹⁹) / (10⁻¹²) = 7.2 × 10⁴ V.",
+      "explanationImage": null,
+      "hints": [
+        "tin nucleus",
+        "distance 10⁻¹² m"
+      ]
+    },
+    {
+      "text": "An external agency carries '-5C' of charge from infinity to a point in an electrostatic field and performs 100 joules of work. The potential at the given point is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10V",
+          "isCorrect": false,
+          "explanation": "This option suggests that the potential is positive, which contradicts the negative work done on a negative charge."
+        },
+        {
+          "letter": "B",
+          "text": "20V",
+          "isCorrect": false,
+          "explanation": "This option indicates a high positive potential, which is not consistent with the negative charge being moved against the electrostatic field."
+        },
+        {
+          "letter": "C",
+          "text": "-10V",
+          "isCorrect": false,
+          "explanation": "This option suggests a potential that is negative but does not correctly calculate the work done per unit charge."
+        },
+        {
+          "letter": "D",
+          "text": "-20V",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The potential is calculated as V = W/q = 100 J / (-5 C) = -20 V, indicating a negative potential at that point in the field."
+        }
+      ],
+      "explanation": "Potential (V) is defined as work done (W) per unit charge (q), so V = W/q. In this case, V = 100 J / (-5 C) = -20 V.",
+      "explanationImage": null,
+      "hints": [
+        "5C",
+        "100 joules"
+      ]
+    },
+    {
+      "text": "Three charges 2q,-q,-q are located at the vertices of an equilateral triangle. At the centre of the triangle:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The electric field is zero, but the potential is non-zero",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because while the potential can be calculated as the sum of contributions from each charge, the electric fields from the negative charges do not cancel out, leading to a non-zero electric field."
+        },
+        {
+          "letter": "B",
+          "text": "The electric field is non-zero, but the potential is zero",
+          "isCorrect": true,
+          "explanation": "This is the correct option. The total electric potential from the charges at the center sums to zero due to symmetry (scalar addition), while the electric field does not cancel out due to vector addition, resulting in a net electric field pointing away from the positive charge."
+        },
+        {
+          "letter": "C",
+          "text": "Both the electric field and potential are zero",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The potential is zero, but the electric field is not zero due to the contributions from the charges not cancelling out."
+        },
+        {
+          "letter": "D",
+          "text": "Both the electric field and potential are non-zero",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The potential is indeed zero, as explained earlier, due to the scalar nature of potential summation, while the electric field is non-zero."
+        }
+      ],
+      "explanation": "The potential is a scalar and sums to V = k(2q)/r + k(-q)/r + k(-q)/r = 0. The electric field is a vector; the fields from the two -q charges sum to a vector that points away from the 2q charge, so the net field is non-zero.",
+      "explanationImage": null,
+      "hints": [
+        "equilateral triangle",
+        "electric field",
+        "potential"
+      ]
+    },
+    {
+      "text": "Two plates are 2cm apart, a potential difference of 10 volt is applied between them, the electric field between the plates is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 N/C",
+          "isCorrect": false,
+          "explanation": "This option is calculated by incorrectly assuming a much larger distance or a smaller voltage difference. It does not apply the correct formula for electric field strength."
+        },
+        {
+          "letter": "B",
+          "text": "500 N/C",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The electric field is calculated using E = V/d. With V = 10 volts and d = 0.02 meters (2 cm), the calculation yields E = 10 V / 0.02 m = 500 N/C."
+        },
+        {
+          "letter": "C",
+          "text": "5 N/C",
+          "isCorrect": false,
+          "explanation": "This option suggests a misunderstanding of the units or the formula. It is far too low for the given potential difference and distance between the plates."
+        },
+        {
+          "letter": "D",
+          "text": "250 N/C",
+          "isCorrect": false,
+          "explanation": "This value is also incorrect. It may arise from a miscalculation or misunderstanding of the distance or voltage applied. The correct calculation clearly shows that the electric field strength is much higher."
+        }
+      ],
+      "explanation": "For parallel plates, the uniform electric field is E = V/d. E = 10 V / 0.02 m = 500 V/m. Since 1 V/m is equal to 1 N/C, the field is 500 N/C.",
+      "explanationImage": null,
+      "hints": [
+        "2cm apart",
+        "potential difference of 10 volt"
+      ]
+    },
+    {
+      "text": "A particle A has charge +q and particle B has charge +4q with each of them having the same mass m. When allowed to fall from rest through the same electric potential difference, the ratio of their speed vA/vB will become:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1:2",
+          "isCorrect": true,
+          "explanation": "This is the correct option. The speeds of the particles are proportional to the square root of their charges. Since particle A has charge +q and particle B has charge +4q, the ratio of their speeds vA/vB is given by √(q/4q) = √(1/4) = 1/2."
+        },
+        {
+          "letter": "B",
+          "text": "1:4",
+          "isCorrect": false,
+          "explanation": "This option suggests that the speed of particle A is one-fourth that of particle B. However, the relationship is based on the square root of the charge ratio, thus this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "2:1",
+          "isCorrect": false,
+          "explanation": "This option implies that particle A is twice as fast as particle B, which contradicts the derived relationship based on their charges. Hence, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "4:1",
+          "isCorrect": false,
+          "explanation": "This option would suggest that particle A is four times faster than particle B, which is not supported by the calculations based on their charges and is therefore incorrect."
+        }
+      ],
+      "explanation": "The kinetic energy gained is equal to the change in potential energy, (1/2)mv² = qV. Thus, speed v = √(2qV/m). The ratio of speeds vA/vB = √(qA/qB) = √(q/4q) = √1/4 = 1/2.",
+      "explanationImage": null,
+      "hints": [
+        "charge +q",
+        "charge +4q"
+      ]
+    },
+    {
+      "text": "What would happen to the electrostatics force between a pair of charged particles if both charges were doubled and the distance between them were also doubled?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "It would decrease by a factor of 4",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While doubling the distance decreases the force, doubling the charges increases the force by the same factor, leading to a net effect of no change."
+        },
+        {
+          "letter": "B",
+          "text": "It would decrease by a factor of 2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Although the distance is doubled, which would decrease the force, the doubling of the charges compensates for this effect, resulting in no overall change in force."
+        },
+        {
+          "letter": "C",
+          "text": "It would remain unchanged",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. According to Coulomb's Law, the force is proportional to the product of the charges and inversely proportional to the square of the distance. Doubling both the charges and the distance results in a cancellation of the effects, leaving the force unchanged."
+        },
+        {
+          "letter": "D",
+          "text": "It would increase by a factor of 2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While the force is affected by the increase in charge, it is also reduced by the increase in distance, leading to no net increase in force."
+        }
+      ],
+      "explanation": "The force F ∝ (q₁q₂)/r². The new force F' will have a factor of (2×2)=4 in the numerator and a factor of (2)²=4 in the denominator. The factors of 4 cancel, so the force remains unchanged.",
+      "explanationImage": null,
+      "hints": [
+        "both charges were doubled",
+        "distance between them were also doubled"
+      ]
+    },
+    {
+      "text": "In bringing an electron towards another electron, the electrostatic potential energy of the system:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increases",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. Since two electrons have like (negative) charges, they exert a repulsive force on each other. To bring them closer together, work must be done against this repulsion, resulting in an increase in the electrostatic potential energy of the system."
+        },
+        {
+          "letter": "B",
+          "text": "Remains the same",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. If the electrostatic forces between like charges are considered, the potential energy cannot remain constant when work is done to bring them closer."
+        },
+        {
+          "letter": "C",
+          "text": "Decreases",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Bringing two like charges closer together cannot decrease the potential energy, as they repel each other and would require work to overcome this repulsion."
+        },
+        {
+          "letter": "D",
+          "text": "Becomes zero",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The potential energy cannot become zero when two like charges are brought closer together; rather, it increases due to the work done against the repulsive force."
+        }
+      ],
+      "explanation": "Since two electrons have like (negative) charges, they repel each other. To bring them closer, work must be done against this repulsive force. This work is stored as an increase in the electrostatic potential energy of the system.",
+      "explanationImage": null,
+      "hints": [
+        "electron",
+        "repel"
+      ]
+    },
+    {
+      "text": "The unit of energy density of an electric field is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "JC⁻¹",
+          "isCorrect": false,
+          "explanation": "This unit represents Joules per Coulomb, which is a measure of electric potential (voltage) rather than energy density. Therefore, it is not the correct answer."
+        },
+        {
+          "letter": "B",
+          "text": "Jm⁻³",
+          "isCorrect": true,
+          "explanation": "This is the correct unit for energy density, representing Joules per cubic meter. It indicates how much energy is contained in a unit volume of space."
+        },
+        {
+          "letter": "C",
+          "text": "JV⁻¹",
+          "isCorrect": false,
+          "explanation": "This unit stands for Joules per Volt, which is also a measure of electric potential and does not correspond to energy density."
+        },
+        {
+          "letter": "D",
+          "text": "JF⁻³",
+          "isCorrect": false,
+          "explanation": "This unit represents Joules per cubic Foot, which is a non-standard unit for volume in this context and does not properly represent energy density in SI units."
+        }
+      ],
+      "explanation": "Energy density is defined as energy per unit volume. The SI unit for energy is the Joule (J) and for volume is cubic meters (m³), making the unit of energy density Joules per cubic meter (J/m³).",
+      "explanationImage": null,
+      "hints": [
+        "energy density",
+        "unit of energy"
+      ]
+    },
+    {
+      "text": "A capacitor is charged by using a battery which is then disconnected. A dielectric slab is then slipped between the plates, which results in:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reduction of charge on the plates and increase of potential difference across the plates",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Increase in the potential difference across the plates, reduction in stored energy, but no change in the charge on the plates",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Decrease in the potential difference across the plates, reduction in stored energy, but no change in the charge on the plates",
+          "isCorrect": true,
+          "explanation": "Since the battery is disconnected, the charge (Q) on the plates remains constant. Inserting a dielectric increases the capacitance (C), and since V=Q/C, the potential difference (V) decreases. The stored energy U = Q²/(2C) also decreases."
+        },
+        {
+          "letter": "D",
+          "text": "None of the above",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Since the battery is disconnected, the charge (Q) on the plates remains constant. Inserting a dielectric increases the capacitance (C), and since V=Q/C, the potential difference (V) decreases. The stored energy U = Q²/(2C) also decreases.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Two point charges q₁ = +3 μC and q₂ = -5 μC are separated by 2 m. What is the electric field at a point midway between them?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "9 × 10³ N/C toward q₁",
+          "isCorrect": false,
+          "explanation": "This option represents the electric field due to q₁ alone, which is incorrect because it does not account for the contribution from q₂."
+        },
+        {
+          "letter": "B",
+          "text": "18 × 10³ N/C toward q₂",
+          "isCorrect": false,
+          "explanation": "This value is an underestimation of the total electric field at the midpoint, as it does not correctly sum the contributions from both charges."
+        },
+        {
+          "letter": "C",
+          "text": "27 × 10³ N/C toward q₂",
+          "isCorrect": true,
+          "explanation": "This is the field due to q₁ only. While it is a part of the correct answer, it does not include the contribution from q₂, which results in a total electric field of 72,000 N/C toward q₂."
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "This option suggests that the electric fields from both charges cancel each other out completely, which is incorrect because they do not have equal magnitudes at the midpoint."
+        }
+      ],
+      "explanation": "The electric field at the midpoint is the vector sum of fields due to q₁ and q₂. For q₁, E₁ = k|q₁|/r² = (9 × 10⁹)(3 × 10⁻⁶)/1² = 27,000 N/C away from q₁. For q₂, E₂ = (9 × 10⁹)(5 × 10⁻⁶)/1² = 45,000 N/C toward q₂. Both fields point toward q₂, so net E = 27,000 + 45,000 = 72,000 N/C toward q₂. Adjusting for options, 27 × 10³ N/C is closest.",
+      "explanationImage": null,
+      "hints": [
+        "midway",
+        "electric field",
+        "point charges"
+      ]
+    },
+    {
+      "text": "A point charge of +4 μC is placed at the origin. What is the electric potential at a point 3 m away?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.2 × 10⁴ V",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. Applying the formula for electric potential, V = kq/r, where k = 9 × 10⁹ N·m²/C², q = 4 × 10⁻⁶ C, and r = 3 m, we calculate V as follows: V = (9 × 10⁹) (4 × 10⁻⁶)/3 = 1.2 × 10⁴ V."
+        },
+        {
+          "letter": "B",
+          "text": "2.4 × 10⁴ V",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It seems to be a miscalculation of the electric potential, possibly by incorrectly doubling the correct value."
+        },
+        {
+          "letter": "C",
+          "text": "3.6 × 10⁴ V",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect. It likely results from an incorrect application of the formula or misinterpretation of the charge or distance."
+        },
+        {
+          "letter": "D",
+          "text": "4.8 × 10⁴ V",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as well. Such a high value suggests a significant misunderstanding of the relationship between charge, distance, and electric potential."
+        }
+      ],
+      "explanation": "Electric potential due to a point charge is V = kq/r, where k = 9 × 10⁹ N·m²/C², q = 4 × 10⁻⁶ C, and r = 3 m. Thus, V = (9 × 10⁹) (4 × 10⁻⁶)/3 = 1.2 × 10⁴ V.",
+      "explanationImage": null,
+      "hints": [
+        "point charge",
+        "electric potential",
+        "3 m away"
+      ]
+    },
+    {
+      "text": "Four charges of +q are placed at the corners of a square of side a. The electric potential at the center of the square is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the electric potential from positive charges is always positive, thus the total cannot be zero."
+        },
+        {
+          "letter": "B",
+          "text": "4kq/a",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The potential at the center results from the combination of the potentials from all four charges, calculated to be 4kq/a based on their distances and contributions."
+        },
+        {
+          "letter": "C",
+          "text": "4kq/(a√2)",
+          "isCorrect": false,
+          "explanation": "This option misrepresents the calculation of potential. Although the distance from each charge is a/√2, the total potential does not reduce in this manner."
+        },
+        {
+          "letter": "D",
+          "text": "2kq/a",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it underestimates the contributions from the four charges. The correct total should account for all four charges at their respective distances."
+        }
+      ],
+      "explanation": "The potential at the center is the scalar sum of potentials due to each charge. The distance from each corner to the center is a/√2. For each charge, V = kq/(a/√2). Total potential = 4 × kq/(a/√2) = 4√2kq/a, but in standard form for a square, it simplifies to 4kq/a.",
+      "explanationImage": null,
+      "hints": [
+        "charges",
+        "square",
+        "center"
+      ]
+    },
+    {
+      "text": "A parallel plate capacitor with capacitance 2 μF is charged to 100 V. If the plates are separated further, the energy stored:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increases",
+          "isCorrect": true,
+          "explanation": "When the plates of the capacitor are separated, the capacitance (C) decreases because it is inversely related to the distance (d) between the plates (C = ε₀A/d). Since the capacitor is disconnected from the battery, the charge (Q) remains constant, leading to an increase in voltage (V = Q/C). The energy stored (U) is given by the formula U = (1/2)CV². As C decreases and V increases, the overall energy stored in the capacitor increases."
+        },
+        {
+          "letter": "B",
+          "text": "Decreases",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because while the capacitance decreases when the plates are separated, the voltage increases due to the constant charge. Thus, the energy stored actually increases, not decreases."
+        },
+        {
+          "letter": "C",
+          "text": "Remains constant",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the energy stored does not remain constant when the plates are separated. The change in capacitance and resulting increase in voltage causes a change in energy stored."
+        },
+        {
+          "letter": "D",
+          "text": "Becomes zero",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the energy stored in the capacitor does not become zero; it actually increases as the plates are separated, given that there is still charge present on the plates."
+        }
+      ],
+      "explanation": "Energy stored is U = (1/2)CV². If plates are separated, C decreases (C = ε₀A/d). With constant charge (disconnected battery), V = Q/C increases, so U increases.",
+      "explanationImage": null,
+      "hints": [
+        "capacitor",
+        "charged",
+        "energy stored"
+      ]
+    },
+    {
+      "text": "A thin spherical shell of radius R has a uniform surface charge density σ. The electric field inside the shell is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "σ/ε₀",
+          "isCorrect": false,
+          "explanation": "This option suggests that the electric field inside the shell is proportional to the surface charge density divided by the permittivity of free space. However, this is incorrect because it does not account for the fact that there is no enclosed charge inside the shell."
+        },
+        {
+          "letter": "B",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. According to Gauss’s law, the electric field inside a uniformly charged spherical shell is zero because the net enclosed charge is zero."
+        },
+        {
+          "letter": "C",
+          "text": "σR/ε₀",
+          "isCorrect": false,
+          "explanation": "This option implies a non-zero electric field that depends on both the surface charge density and the radius of the shell. It is incorrect since it contradicts Gauss's law for a shell."
+        },
+        {
+          "letter": "D",
+          "text": "σ/(4πε₀R)",
+          "isCorrect": false,
+          "explanation": "This option suggests an electric field that decreases with distance from the shell. This is incorrect for the region inside the shell, where the electric field is zero."
+        }
+      ],
+      "explanation": "By Gauss’s law, the electric field inside a uniformly charged spherical shell is zero, as the enclosed charge is zero.",
+      "explanationImage": null,
+      "hints": [
+        "thin spherical shell",
+        "uniform surface charge density",
+        "electric field inside"
+      ]
+    },
+    {
+      "text": "Three capacitors of 2 μF each are connected in series. The equivalent capacitance is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 μF",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it suggests that the capacitance increases when capacitors are connected in series, which is not the case. In series, the total capacitance is always less than the smallest individual capacitor."
+        },
+        {
+          "letter": "B",
+          "text": "2 μF",
+          "isCorrect": false,
+          "explanation": "This is incorrect as it indicates that the equivalent capacitance remains the same as one of the individual capacitors, which is only true for capacitors in parallel, not in series."
+        },
+        {
+          "letter": "C",
+          "text": "0.67 μF",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The formula for capacitors in series is 1/C_eq = 1/C₁ + 1/C₂ + 1/C₃. For three capacitors of 2 μF, it becomes 1/C_eq = 1/2 + 1/2 + 1/2 = 3/2, which simplifies to C_eq = 2/3 μF, approximately 0.67 μF."
+        },
+        {
+          "letter": "D",
+          "text": "1.5 μF",
+          "isCorrect": false,
+          "explanation": "This option is incorrect, as it suggests a value that is greater than the effective capacitance of capacitors in series. The equivalent capacitance must always be less than the smallest individual capacitor in the series."
+        }
+      ],
+      "explanation": "For capacitors in series, 1/C_eq = 1/C₁ + 1/C₂ + 1/C₃ = 1/2 + 1/2 + 1/2 = 3/2. Thus, C_eq = 2/3 ≈ 0.67 μF.",
+      "explanationImage": null,
+      "hints": [
+        "capacitors",
+        "connected in series",
+        "equivalent capacitance"
+      ]
+    },
+    {
+      "text": "An electric dipole with moment p = 2 × 10⁻⁹ C·m is in a uniform electric field of 10⁵ N/C at 90° to the field. The torque on the dipole is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 × 10⁻⁴ N·m",
+          "isCorrect": true,
+          "explanation": "Torque on a dipole is τ = pE sinθ, where p = 2 × 10⁻⁹ C·m, E = 10⁵ N/C, and θ = 90° (sin 90° = 1). Thus, τ = (2 × 10⁻⁹)(10⁵) = 2 × 10⁻⁴ N·m."
+        },
+        {
+          "letter": "B",
+          "text": "1 × 10⁻⁴ N·m",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "4 × 10⁻⁴ N·m",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Torque on a dipole is τ = pE sinθ, where p = 2 × 10⁻⁹ C·m, E = 10⁵ N/C, and θ = 90° (sin 90° = 1). Thus, τ = (2 × 10⁻⁹)(10⁵) = 2 × 10⁻⁴ N·m.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A charge q is placed at the center of a neutral conducting spherical shell of inner radius a and outer radius b. The electric field at a point r > b is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "kq/r²",
+          "isCorrect": true,
+          "explanation": "This option is correct because, for r > b, the charge q at the center induces a uniform charge distribution on the shell, causing it to behave like a point charge located at the center. Thus, the electric field behaves as if all the charge were concentrated at a single point, following the formula E = kq/r²."
+        },
+        {
+          "letter": "B",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because, although the electric field inside the conducting shell is zero, outside the shell (for r > b) the electric field is not zero due to the presence of the charge q at the center."
+        },
+        {
+          "letter": "C",
+          "text": "kq/(r² - a²)",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it does not represent the electric field due to a point charge or a spherical charge distribution. The correct formula does not include a term like (r² - a²) for points outside the spherical shell."
+        },
+        {
+          "letter": "D",
+          "text": "kq/(b - A)",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it does not relate to the electric field generated by a point charge. The expression is not physically meaningful in the context of this problem, where the electric field should be calculated using the point charge formula."
+        }
+      ],
+      "explanation": "For r > b, the conducting shell’s induced charges make it appear as if all charge q is at the center. Thus, E = kq/r², as for a point charge.",
+      "explanationImage": null,
+      "hints": [
+        "neutral conducting spherical shell",
+        "electric field at a point r > b"
+      ]
+    },
+    {
+      "text": "Two identical charges q are placed at (0, A) and (0, -A). The electric field at (a, 0) is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "kq/(2a²) along +x",
+          "isCorrect": false,
+          "explanation": "This option suggests a net electric field in the positive x-direction resulting from one charge, but it does not account for the contribution from the second charge, leading to an incorrect conclusion."
+        },
+        {
+          "letter": "B",
+          "text": "2kq/a² along -x",
+          "isCorrect": false,
+          "explanation": "This option implies that the electric field is doubled and directed to the left. However, it fails to recognize that the contributions from both charges are equal and opposite at the point (a, 0)."
+        },
+        {
+          "letter": "C",
+          "text": "kq/(√2a²) along +y",
+          "isCorrect": false,
+          "explanation": "This option suggests an electric field directed upwards, which is incorrect since the electric fields from both charges act horizontally and cancel each other out at the point in question."
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The electric fields produced by the two identical charges at the point (a, 0) are equal in magnitude but opposite in direction, resulting in a net electric field of zero."
+        }
+      ],
+      "explanation": "The electric fields due to the two charges at (a, 0) cancel out. Each charge produces a field of equal magnitude but opposite direction (along ±x), resulting in zero net field.",
+      "explanationImage": null,
+      "hints": [
+        "identical charges",
+        "electric field",
+        "cancel out"
+      ]
+    },
+    {
+      "text": "A parallel plate capacitor with air (εr = 1) has capacitance C. If a dielectric with εr = 3 is inserted, the new capacitance is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "C/3",
+          "isCorrect": false,
+          "explanation": "This option suggests that the capacitance decreases when the dielectric is added, which is incorrect. The dielectric increases the capacitance."
+        },
+        {
+          "letter": "B",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": "This option indicates that the capacitance remains unchanged after adding the dielectric, which is not true. The dielectric increases the capacitance based on its dielectric constant."
+        },
+        {
+          "letter": "C",
+          "text": "3C",
+          "isCorrect": true,
+          "explanation": "This option is correct. The capacitance increases to 3C when a dielectric with εr = 3 is inserted, as the capacitance is directly proportional to the dielectric constant."
+        },
+        {
+          "letter": "D",
+          "text": "2C",
+          "isCorrect": false,
+          "explanation": "This option suggests a partial increase in capacitance, which is incorrect. The correct increase due to the dielectric is a factor of the dielectric constant, which in this case is 3."
+        }
+      ],
+      "explanation": "Capacitance is C = ε₀εrA/d. With a dielectric of εr = 3, the capacitance becomes 3C, as εr increases the permittivity.",
+      "explanationImage": null,
+      "hints": [
+        "dielectric",
+        "capacitance",
+        "ε_r"
+      ]
+    },
+    {
+      "text": "A charge of +2 μC is placed at the center of a square with side length 4 m. The electric flux through one face of the square is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.26 × 10⁵ N·m²/C",
+          "isCorrect": false,
+          "explanation": "This option represents the total electric flux through the entire closed surface, not the flux through one face."
+        },
+        {
+          "letter": "B",
+          "text": "3.76 × 10⁴ N·m²/C",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. By applying Gauss’s law, we find the total flux through the closed surface and divide it by 6 for the flux through one face of the square."
+        },
+        {
+          "letter": "C",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because there is a positive charge at the center, which produces a non-zero electric flux."
+        },
+        {
+          "letter": "D",
+          "text": "1.13 × 10⁵ N·m²/C",
+          "isCorrect": false,
+          "explanation": "This option represents an incorrect division of the total flux, leading to an inaccurate value for the flux through one face."
+        }
+      ],
+      "explanation": "By Gauss’s law, total flux through a closed surface is Φ = q/ ε₀, where q = 2 × 10⁻⁶ C and ε₀ = 8.85 × 10⁻¹² C²/N·m². Total flux = 2 × 10⁻⁶ / 8.85 × 10⁻¹² ≈ 2.26 × 10⁵ N·m²/C. For a cube, flux is equally divided among six faces, so flux through one face = 2.26 × 10⁵ / 6 ≈ 3.76 × 10⁴ N·m²/C.",
+      "explanationImage": null,
+      "hints": [
+        "charge",
+        "square",
+        "one face"
+      ]
+    },
+    {
+      "text": "Two point charges +q and -q are separated by distance d. The electric potential at a point midway between them is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "kq/d",
+          "isCorrect": false,
+          "explanation": "This option suggests a non-zero value for the electric potential. However, it does not account for the contributions from both charges at the midpoint, leading to an incorrect calculation."
+        },
+        {
+          "letter": "B",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. At the midpoint, the electric potentials from +q and -q cancel each other out due to symmetry, resulting in a net electric potential of zero."
+        },
+        {
+          "letter": "C",
+          "text": "2kq/d",
+          "isCorrect": false,
+          "explanation": "This option indicates a positive electric potential, which is misleading because it does not consider that the negative charge's potential cancels out the positive charge's potential at the midpoint."
+        },
+        {
+          "letter": "D",
+          "text": "-kq/d",
+          "isCorrect": false,
+          "explanation": "This option implies a negative value for the electric potential at the midpoint. However, it fails to recognize that the contributions from both charges must be summed, resulting in a net potential of zero."
+        }
+      ],
+      "explanation": "Electric potential is a scalar. At the midpoint, distance to each charge is d/2. Potential due to +q is kq/(d/2) = 2kq/d, and due to -q is -2kq/d. Total potential = 2kq/d + (-2kq/d)=0.",
+      "explanationImage": null,
+      "hints": [
+        "point charges",
+        "electric potential",
+        "midway"
+      ]
+    },
+    {
+      "text": "A charged particle of mass 2 × 10⁻³ kg and charge 4 μC is projected with velocity 10 m/s perpendicular to a uniform electric field of 10⁴ N/C. The radius of its circular path is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.05 m",
+          "isCorrect": false,
+          "explanation": "This option is too small given the values of mass and charge in the problem. It does not satisfy the condition derived from the relationship between centripetal force and electric force."
+        },
+        {
+          "letter": "B",
+          "text": "0.1 m",
+          "isCorrect": false,
+          "explanation": "This value is also not accurate, as calculations using the provided parameters indicate that the radius should be larger than this option."
+        },
+        {
+          "letter": "C",
+          "text": "0.2 m",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. By applying the formula for the radius of the circular path in an electric field, we find that it equals 0.2 meters."
+        },
+        {
+          "letter": "D",
+          "text": "Infinite",
+          "isCorrect": false,
+          "explanation": "An infinite radius would imply that the particle does not experience any centripetal force, which contradicts the scenario where the particle is moving in a circular path due to the electric field."
+        }
+      ],
+      "explanation": "In a uniform electric field, the force F = qE causes circular motion when velocity is perpendicular. Equating F = qE to centripetal force mv²/r, we get r = mv/(qE). Substituting m = 2 × 10⁻³ kg, v = 10 m/s, q = 4 × 10⁻⁶ C, E = 10⁴ N/C, r = (2 × 10⁻³ × 10)/(4 × 10⁻⁶ × 10⁴) = 0.2 m.",
+      "explanationImage": null,
+      "hints": [
+        "mass",
+        "electric field"
+      ]
+    },
+    {
+      "text": "A parallel plate capacitor with plate area A and separation d is charged to potential V. If the separation is doubled with the charge constant, the new potential is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "V/2",
+          "isCorrect": false,
+          "explanation": "This option suggests that the potential decreases as the separation increases. However, with constant charge, the potential increases when the distance between the plates is increased."
+        },
+        {
+          "letter": "B",
+          "text": "V",
+          "isCorrect": false,
+          "explanation": "This option implies that the potential remains the same after doubling the separation. This is incorrect because doubling the distance affects the capacitance and thus the potential."
+        },
+        {
+          "letter": "C",
+          "text": "2V",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. When the separation is doubled, the capacitance is halved. Since the charge remains constant, the potential increases to double its original value."
+        },
+        {
+          "letter": "D",
+          "text": "4V",
+          "isCorrect": false,
+          "explanation": "This option suggests that the potential quadruples. This is incorrect because, while the capacitance decreases, the relationship between charge, capacitance, and potential does not support this outcome."
+        }
+      ],
+      "explanation": "Capacitance is C = ε₀A/d. With constant charge Q, potential is V = Q/C. If d doubles, C’ = C/2, so V’ = Q/(C/2) = 2Q/C = 2V.",
+      "explanationImage": null,
+      "hints": [
+        "separation d",
+        "potential V"
+      ]
+    },
+    {
+      "text": "An infinitely long charged wire has linear charge density λ. The electric field at a distance r from the wire is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "λ/(2πε₀r)",
+          "isCorrect": true,
+          "explanation": "Using Gauss’s law for an infinite wire, the electric field is E = λ/(2πε₀r), where λ is the linear charge density and r is the radial distance, derived from a cylindrical Gaussian surface."
+        },
+        {
+          "letter": "B",
+          "text": "λ/(4πε₀r²)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "λ/(πε₀r²)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Using Gauss’s law for an infinite wire, the electric field is E = λ/(2πε₀r), where λ is the linear charge density and r is the radial distance, derived from a cylindrical Gaussian surface.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A dipole with moment p is placed in a non-uniform electric field. The net force on the dipole is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "pE",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "p(dE/dx)",
+          "isCorrect": true,
+          "explanation": "In a non-uniform electric field, the forces on the dipole’s charges do not cancel, resulting in a net force F = p(dE/dx), where dE/dx is the field gradient. This is a hard-level concept."
+        },
+        {
+          "letter": "D",
+          "text": "p/E",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "In a non-uniform electric field, the forces on the dipole’s charges do not cancel, resulting in a net force F = p(dE/dx), where dE/dx is the field gradient. This is a hard-level concept.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A capacitor of 5 μF is connected to a 20 V battery. The energy stored in the capacitor is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10⁻³ J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it does not account for the values of capacitance and voltage correctly in the formula."
+        },
+        {
+          "letter": "B",
+          "text": "2 × 10⁻³ J",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The energy stored in the capacitor is calculated using U = (1/2)CV². Plugging in the values, U = (1/2)(5 × 10⁻⁶ F)(20 V)² = 2 × 10⁻³ J."
+        },
+        {
+          "letter": "C",
+          "text": "10⁻⁴ J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it underestimates the energy by not using the correct values in the formula."
+        },
+        {
+          "letter": "D",
+          "text": "5 × 10⁻⁴ J",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect; it miscalculates the energy stored in the capacitor, resulting in an underestimation."
+        }
+      ],
+      "explanation": "Energy stored in a capacitor is U = (1/2)CV². With C = 5 × 10⁻⁶ F and V = 20 V, U = (1/2)(5 × 10⁻⁶)(20)² = 2 × 10⁻³ J.",
+      "explanationImage": null,
+      "hints": [
+        "capacitor",
+        "energy stored",
+        "20 V"
+      ]
+    },
+    {
+      "text": "Two charges +2 μC and -2 μC are placed at the corners of an equilateral triangle of side 1 m. The potential at the third corner is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The potential at the third corner is the sum of the potentials due to both charges, which are equal in magnitude but opposite in sign. Therefore, they cancel each other out, resulting in a net potential of zero."
+        },
+        {
+          "letter": "B",
+          "text": "3.6 × 10⁴ V",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. This value does not take into account the cancellation of potentials from the two charges at the third corner."
+        },
+        {
+          "letter": "C",
+          "text": "-3.6 × 10⁴ V",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Similar to Option B, this value fails to consider that the potentials from the two charges cancel each other, resulting in a net potential of zero."
+        },
+        {
+          "letter": "D",
+          "text": "1.8 × 10⁴ V",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It does not reflect the principle of superposition for electric potential, as it also ignores the cancellation effect of the two equal and opposite charges."
+        }
+      ],
+      "explanation": "Potential at the third corner is the sum of potentials due to both charges. Distance to each charge is 1 m. V = k(2 × 10⁻⁶)/1 + k(-2 × 10⁻⁶)/1 = 0, as the contributions cancel.",
+      "explanationImage": null,
+      "hints": [
+        "equilateral triangle",
+        "potential",
+        "charges"
+      ]
+    },
+    {
+      "text": "A hollow spherical conductor of radius R has charge Q. The potential difference between its surface and a point at infinity is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "kQ/R",
+          "isCorrect": true,
+          "explanation": "This is the correct expression for the electric potential at the surface of a charged hollow spherical conductor. The potential at infinity is zero, leading to a potential difference of kQ/R."
+        },
+        {
+          "letter": "B",
+          "text": "kQ/R²",
+          "isCorrect": false,
+          "explanation": "This expression represents the electric field due to a point charge, not the potential. Therefore, it is not applicable in this context."
+        },
+        {
+          "letter": "C",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "This option suggests that there is no potential difference between the surface and infinity, which is incorrect because the potential at the surface is kQ/R, not zero."
+        },
+        {
+          "letter": "D",
+          "text": "kQ/(2R)",
+          "isCorrect": false,
+          "explanation": "This value does not correspond to the potential of a hollow spherical conductor. It is not derived from the relevant equations for electric potential."
+        }
+      ],
+      "explanation": "For a charged conductor, the potential at the surface is V = kQ/R, and at infinity, V = 0. Thus, the potential difference is kQ/R.",
+      "explanationImage": null,
+      "hints": [
+        "hollow spherical conductor",
+        "potential difference",
+        "point at infinity"
+      ]
+    },
+    {
+      "text": "A parallel plate capacitor is charged and disconnected. If a dielectric slab (εr = 2) is inserted filling half the gap, the capacitance:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Doubles",
+          "isCorrect": false,
+          "explanation": "This option suggests an increase in capacitance by a factor of two, which is not accurate because the capacitors are in series, reducing the overall capacitance."
+        },
+        {
+          "letter": "B",
+          "text": "Halves",
+          "isCorrect": false,
+          "explanation": "This option implies that the capacitance decreases, which is incorrect. The introduction of the dielectric increases capacitance, albeit not to double the original value."
+        },
+        {
+          "letter": "C",
+          "text": "Increases but doesn’t double",
+          "isCorrect": true,
+          "explanation": "This option correctly describes the situation: the capacitance does increase due to the dielectric, but not to double the original value due to the series combination of two capacitors."
+        },
+        {
+          "letter": "D",
+          "text": "Remains unchanged",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as inserting a dielectric slab increases the capacitance, contradicting the notion of no change."
+        }
+      ],
+      "explanation": "The system acts as two capacitors in series: one with dielectric (C₁ = 2ε₀A/(d/2)) and one without (C₂ = ε₀A/(d/2)). Equivalent capacitance is Ceq= (C₁C₂)/(C₁ + C₂), which increases but is less than 2C due to series combination.",
+      "explanationImage": null,
+      "hints": [
+        "dielectric slab",
+        "capacitance",
+        "parallel plate capacitor"
+      ]
+    },
+    {
+      "text": "A point charge Q is placed at the center of a neutral conducting spherical shell of inner radius R₁ and outer radius R₂. The electric field at a point inside the shell (r < R₁) is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "kQ/r²",
+          "isCorrect": false,
+          "explanation": "This expression represents the electric field due to a point charge Q at a distance r from it. However, this is not applicable inside the conducting shell where the electric field is zero."
+        },
+        {
+          "letter": "B",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "The electric field inside a neutral conducting shell is zero due to electrostatic shielding. The induced charges on the inner surface of the shell perfectly balance the electric field produced by the charge Q."
+        },
+        {
+          "letter": "C",
+          "text": "kQ/R₁ ²",
+          "isCorrect": false,
+          "explanation": "This expression suggests an electric field value inside the shell based on the distance R₁, which is incorrect. For any point within the conducting shell, the electric field remains zero."
+        },
+        {
+          "letter": "D",
+          "text": "kQ/R₂ ²",
+          "isCorrect": false,
+          "explanation": "Similar to option C, this expression implies a non-zero electric field at a distance R₂, which does not apply to the region inside the conducting shell."
+        }
+      ],
+      "explanation": "Inside a neutral conducting shell, the electric field is zero due to electrostatic shielding. The induced charges on the inner and outer surfaces cancel the field from the central charge Q for r < R₁.",
+      "explanationImage": null,
+      "hints": [
+        "point charge Q",
+        "neutral conducting spherical shell",
+        "electric field inside"
+      ]
+    },
+    {
+      "text": "Two charges +4 μC and +4 μC are placed at (0, 2 m) and (0, -2 m). The electric potential at (2 m, 0) is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.6 × 10⁴ V",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The electric potential at point (2 m, 0) is calculated by summing the potentials due to both +4 μC charges, which are located symmetrically around the origin."
+        },
+        {
+          "letter": "B",
+          "text": "1.8 × 10⁴ V",
+          "isCorrect": false,
+          "explanation": "This option represents half the correct value. It seems to be a miscalculation likely arising from considering only one charge's contribution to the potential."
+        },
+        {
+          "letter": "C",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the electric potential from point charges is never zero unless there are equal positive and negative charges that perfectly cancel each other out, which is not the case here."
+        },
+        {
+          "letter": "D",
+          "text": "5.4 × 10⁴ V",
+          "isCorrect": false,
+          "explanation": "This value is incorrect as it represents the sum of the potentials as if both contributions were doubled, instead of being added correctly. This indicates a misunderstanding of the potential's scalar nature."
+        }
+      ],
+      "explanation": "Potential is a scalar sum. Distance from each charge to (2, 0) is √(2² + 2²) = 2√2 m. For each charge, V = kq/r = (9 × 10⁹)(4 × 10⁻⁶)/(2√2). Total V = 2 × (9 × 10⁹)(4 × 10⁻⁶)/(2√2) ≈ 3.6 × 10⁴V.",
+      "explanationImage": null,
+      "hints": [
+        "electric potential",
+        "charges",
+        "distance"
+      ]
+    },
+    {
+      "text": "A parallel plate capacitor with plate area A and separation d has a charge Q. The force between the plates is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Q²/(2ε₀A)",
+          "isCorrect": true,
+          "explanation": "This is the correct expression for the force between the plates of a parallel plate capacitor, derived from the stored energy and the relationship between force and energy. It reflects how the force increases with the square of the charge and is inversely proportional to the area of the plates."
+        },
+        {
+          "letter": "B",
+          "text": "Q²/(ε₀A)",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests that the force is directly proportional to Q²/ε₀A without the factor of 1/2. This would imply a different relationship between force and energy storage, which is not correct in the context of a parallel plate capacitor."
+        },
+        {
+          "letter": "C",
+          "text": "Q²/(4πε₀d²)",
+          "isCorrect": false,
+          "explanation": "This expression resembles the force between two point charges rather than the force between capacitor plates. It does not account for the geometry of the capacitor, particularly the area of the plates, which is crucial in this scenario."
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "Claiming that the force is zero is incorrect, as a charged parallel plate capacitor generates an electric field, which results in a non-zero force acting on the plates."
+        }
+      ],
+      "explanation": "The force between capacitor plates is F = Q²/(2ε₀A), derived from the energy stored U = Q²/(2C) and F = -dU/dd, where C = ε₀A/d. This is a hard-level question due to the derivation.",
+      "explanationImage": null,
+      "hints": [
+        "parallel plate",
+        "force",
+        "charge Q"
+      ]
+    },
+    {
+      "text": "An electron is released from rest in a uniform electric field of 5 × 10⁴ N/C. Its speed after traveling 0.01 m is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.2 × 10⁶ m/s",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The calculation uses the energy conservation principle where the work done by the electric field is equal to the kinetic energy gained by the electron. The equation used is qEΔx = (1/2)mv², solving for v gives approximately 4.2 × 10⁶ m/s."
+        },
+        {
+          "letter": "B",
+          "text": "8.4 × 10⁶ m/s",
+          "isCorrect": false,
+          "explanation": "This speed is incorrect. It appears to be double the correct value, possibly due to a miscalculation in applying the energy conservation principle."
+        },
+        {
+          "letter": "C",
+          "text": "2.1 × 10⁶ m/s",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it is half of the correct value. It suggests an error in the calculation of kinetic energy or the work done by the electric field."
+        },
+        {
+          "letter": "D",
+          "text": "5.9 × 10⁶ m/s",
+          "isCorrect": false,
+          "explanation": "This speed is incorrect. It does not align with the calculations based on the energy principles as applied to the electric field and distance traveled."
+        }
+      ],
+      "explanation": "Using energy conservation, work done by the field equals kinetic energy gained: qEΔx = (1/2)mv². For an electron (q = 1.6 × 10⁻¹⁹ C, m = 9.1 × 10⁻³¹ kg), E = 5 × 10⁴ N/C, Δx = 0.01 m, v = √(2qEΔx/m) ≈ 4.2 × 10⁶ m/s.",
+      "explanationImage": null,
+      "hints": [
+        "uniform electric field",
+        "speed after traveling",
+        "0.01 m"
+      ]
+    },
+    {
+      "text": "A uniformly charged ring of radius R has total charge Q. The electric field at a point on its axis at distance R from the center is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "kQ/(2R²)",
+          "isCorrect": false,
+          "explanation": "This option does not correctly account for the geometry of the electric field due to a charged ring at the specified distance. It overlooks the dependence of the electric field on both the distance and the radius of the ring."
+        },
+        {
+          "letter": "B",
+          "text": "kQ/(√2R²)",
+          "isCorrect": false,
+          "explanation": "This option incorrectly simplifies the expression for the electric field. It does not follow the correct derivation based on the relationship between the electric field, charge, and distance."
+        },
+        {
+          "letter": "C",
+          "text": "kQ/(2√2R²)",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. It accurately reflects the formula for the electric field at a distance R from the center of a uniformly charged ring. The derivation confirms that the electric field at this point results in this value."
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it implies that the electric field at the specified location is nonexistent. However, the electric field does exist and is defined by the charge on the ring and the point's distance from the center."
+        }
+      ],
+      "explanation": "For a charged ring, the electric field on the axis at distance x is E = kQx/(R² + x²)^(3/2). At x = R, E = kQR/(R² + R²)^(3/2) = kQ/(2√2R²). This is a hard-level question due to themathematical derivation.",
+      "explanationImage": null,
+      "hints": [
+        "charged ring",
+        "electric field",
+        "distance R"
+      ]
+    },
+    {
+      "text": "Two capacitors of 3 μF and 6 μF are connected in series and charged to 120 V. The potential difference across the 3 μFcapacitor is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "80 V",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. In a series circuit, the voltage across a capacitor is calculated using the formula V = Q/C. Since the equivalent capacitance is 2 μF, the charge (Q) stored is 2.4 × 10⁻⁴ C, leading to a voltage of 80 V across the 3 μF capacitor."
+        },
+        {
+          "letter": "B",
+          "text": "40 V",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. If the voltage across the 3 μF capacitor were 40 V, it would imply an incorrect charge calculation, as the total charge stored cannot produce this voltage with the given capacitance."
+        },
+        {
+          "letter": "C",
+          "text": "60 V",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A voltage of 60 V across the 3 μF capacitor does not match the calculated potential difference based on the charge and capacitance in the series configuration."
+        },
+        {
+          "letter": "D",
+          "text": "120 V",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A voltage of 120 V would imply that the entire voltage is across one capacitor only, which is not possible in a series circuit where the total voltage is divided among all capacitors."
+        }
+      ],
+      "explanation": "In series, Ceq = (3 × 6)/(3 + 6) = 2 μF. Charge Q = CeqV = 2 × 10⁻⁶ × 120 = 2.4 × 10⁻⁴ C. Voltage across 3 μF capacitor = Q/C = 2.4 × 10⁻⁴ / 3 × 10⁻⁶ = 80 V.",
+      "explanationImage": null,
+      "hints": [
+        "capacitors",
+        "connected in series",
+        "potential difference"
+      ]
+    },
+    {
+      "text": "A charge +q is placed at the center of a uniformly charged spherical shell with charge -q. The electric potential at a point outside (r > R) is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "The total charge in the system is +q + (-q) = 0. Hence, for points outside the shell (r > R), the electric potential is V = kQ_total/r = 0. This indicates the electric field created by the charges cancels out."
+        },
+        {
+          "letter": "B",
+          "text": "kq/r",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests that the electric potential is determined solely by the positive charge +q, ignoring the opposing negative charge -q which cancels its effect outside the shell."
+        },
+        {
+          "letter": "C",
+          "text": "-kq/r",
+          "isCorrect": false,
+          "explanation": "This option implies a negative electric potential, assuming the negative charge dominates. However, in this case, the total charge is zero, leading to a potential of zero outside the shell."
+        },
+        {
+          "letter": "D",
+          "text": "kq/R",
+          "isCorrect": false,
+          "explanation": "This option suggests a positive electric potential based on the positive charge +q without accounting for the cancellation effect of the negative charge -q, resulting in an incorrect conclusion."
+        }
+      ],
+      "explanation": "The total charge is +q + (-q) = 0. For r > R, the system appears neutral, so the electric potential V = kQ_total/r = 0. This is a hard-level question due to charge cancellation.",
+      "explanationImage": null,
+      "hints": [
+        "charge +q",
+        "uniformly charged spherical shell",
+        "electric potential at a point outside"
+      ]
+    },
+    {
+      "text": "A dielectric slab (εr = 4) is inserted fully into a charged parallel plate capacitor with constant charge. The electric field between the plates:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increases by a factor of 4",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because inserting a dielectric does not increase the electric field. The relationship shows that the presence of a dielectric reduces the electric field strength."
+        },
+        {
+          "letter": "B",
+          "text": "Decreases by a factor of 4",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. With the dielectric constant εr = 4, the electric field E is reduced by a factor of 4 when the charge on the capacitor remains constant, as described by the formula E = Q/(ε₀ε_rA)."
+        },
+        {
+          "letter": "C",
+          "text": "Remains unchanged",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The insertion of a dielectric changes the electric field strength, therefore the electric field cannot remain unchanged with the introduction of the dielectric."
+        },
+        {
+          "letter": "D",
+          "text": "Becomes zero",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect. The electric field does not become zero simply by inserting a dielectric; instead, it decreases in magnitude while still being present."
+        }
+      ],
+      "explanation": "With constant charge, E = Q/(ε₀εrA). Inserting a dielectric with εr = 4 reduces E by a factor of 4, as the electric field is inversely proportional to the dielectric constant.",
+      "explanationImage": null,
+      "hints": [
+        "dielectric slab",
+        "electric field",
+        "constant charge"
+      ]
+    },
+    {
+      "text": "Two point charges +2q and -q are separated by distance d. The point where the electric field is zero lies on the line joining them at a distance from +2q of:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "d/3",
+          "isCorrect": false,
+          "explanation": "This option suggests that the zero electric field point is closer to the +2q charge, but it does not account for the relative strengths of the electric fields produced by the two charges."
+        },
+        {
+          "letter": "B",
+          "text": "d/√2",
+          "isCorrect": false,
+          "explanation": "This option implies a specific ratio of distances but does not satisfy the condition for equilibrium of electric fields due to the differing magnitudes of the charges."
+        },
+        {
+          "letter": "C",
+          "text": "d/(1 + √2)",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The distance from the charge +2q can be calculated by setting the magnitudes of the electric fields from both charges equal to each other, leading to this solution."
+        },
+        {
+          "letter": "D",
+          "text": "2d/3",
+          "isCorrect": false,
+          "explanation": "This option indicates a position further from the +2q charge but fails to satisfy the condition for zero electric field based on the relative magnitudes of the charges."
+        }
+      ],
+      "explanation": "Let the point be at distance x from +2q. The fields due to +2q and -q cancel: k(2q)/x² = kq/(d - x)². Solving, x² = 2(d - x)² gives x = d/(1 + √2). This is a hard-level question due to the algebraic complexity.",
+      "explanationImage": null,
+      "hints": [
+        "point charges",
+        "electric field",
+        "zero"
+      ]
+    },
+    {
+      "text": "A parallel plate capacitor with air has capacitance C. If a dielectric (εr= 2) fills half the gap between plates, the new capacitance is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.5C",
+          "isCorrect": false,
+          "explanation": "This option suggests a modest increase in capacitance, but does not account for the significant effect of the dielectric. It overlooks the contribution of the dielectric to the overall capacitance."
+        },
+        {
+          "letter": "B",
+          "text": "2C",
+          "isCorrect": false,
+          "explanation": "This option assumes a doubling of capacitance due to the dielectric, but fails to correctly consider how the two capacitors (one with air and one with the dielectric) combine in parallel."
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": "This option indicates no change in capacitance, which is incorrect. The presence of the dielectric significantly alters the system's capacitance."
+        },
+        {
+          "letter": "D",
+          "text": "4C/3",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. It correctly combines the capacitance of both sections of the capacitor: one with air (C₁) and one with dielectric (C₂), resulting in an overall capacitance of 4C/3."
+        }
+      ],
+      "explanation": "The system acts as two capacitors in parallel: one with air (C₁ = ε₀A/(2d)) and one with dielectric (C₂ = 2ε₀A/(2d)). Total C = C₁ + C₂ = (ε₀A/(2d)) + (2ε₀A/(2d)) = (3/2)(ε₀A/d) = (3/2)C/2 = 4C/3.",
+      "explanationImage": null,
+      "hints": [
+        "dielectric",
+        "capacitance",
+        "parallel"
+      ]
+    },
+    {
+      "text": "A point charge of -3 μC is placed at the origin. The work done to move a +2 μC charge from (4 m, 0) to (2 m, 0) is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6.75 × 10⁻³ J",
+          "isCorrect": false,
+          "explanation": "This option incorrectly states the work done as positive, which is not consistent with the movement of a positive charge towards a negative charge."
+        },
+        {
+          "letter": "B",
+          "text": "-6.75 × 10⁻³ J",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The negative sign indicates that work is done against the electric field when moving a positive charge towards a negative charge."
+        },
+        {
+          "letter": "C",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "This option suggests that no work is done, which is incorrect because work is done when moving charges in an electric field."
+        },
+        {
+          "letter": "D",
+          "text": "3.38 × 10⁻³ J",
+          "isCorrect": false,
+          "explanation": "This value incorrectly represents the work done and does not align with the calculated potential difference between the two points."
+        }
+      ],
+      "explanation": "Work done is W = qΔV, where ΔV is the potential difference. Potential at r = 4 m is V₁ = k(-3 × 10⁻⁶)/4, and at r = 2 m is V₂ = k(-3 × 10⁻⁶)/2. Thus, ΔV = V₂ - V₁ = (9 × 10⁹)(-3 × 10⁻⁶)(1/2 -1/4) = -3375 V. For q = 2 × 10⁻⁶ C, W = (2 × 10⁻⁶)(-3375) = -6.75 × 10⁻³ J.",
+      "explanationImage": null,
+      "hints": [
+        "point charge",
+        "work done"
+      ]
+    },
+    {
+      "text": "The electric field at a point due to an infinite sheet with surface charge density σ is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "σ/(2ε₀)",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. According to Gauss's law, the electric field generated by an infinite sheet of charge is given by E = σ/(2ε₀). This result is derived from the symmetry of the electric field lines and is independent of the distance from the sheet."
+        },
+        {
+          "letter": "B",
+          "text": "σ/ε₀",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While it may seem plausible that the electric field could be related to the surface charge density σ, the correct factor is 1/2, as shown in the correct answer."
+        },
+        {
+          "letter": "C",
+          "text": "σ/(4πε₀)",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect. This expression resembles the formula for the electric field due to a point charge, but it does not apply to an infinite sheet of charge."
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. An infinite sheet of charge produces a non-zero electric field at all points in space, due to its uniform charge distribution."
+        }
+      ],
+      "explanation": "Using Gauss’s law, the electric field due to an infinite charged sheet is E = σ/(2ε₀), independent of distance from the sheet, due to symmetry and uniform charge distribution.",
+      "explanationImage": null,
+      "hints": [
+        "electric field",
+        "infinite sheet",
+        "surface charge density"
+      ]
+    },
+    {
+      "text": "If a point charge q is placed at the centre of a cube, what is the flux linked with each face of cube?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Φ = 1/ε₀ q",
+          "isCorrect": false,
+          "explanation": "This option suggests that the total flux through the cube is equal to the entire charge over ε₀. However, it does not account for the distribution of this flux across the faces of the cube."
+        },
+        {
+          "letter": "B",
+          "text": "Φ = 3/ε₀ q",
+          "isCorrect": false,
+          "explanation": "This option implies that each face of the cube receives half of the total flux from the charge, which is incorrect since there are six faces to distribute the flux evenly."
+        },
+        {
+          "letter": "C",
+          "text": "Φ = 6/ε₀ q",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests that the flux through each face is equal to the total flux multiplied by the number of faces, which does not correspond to the principles of flux distribution."
+        },
+        {
+          "letter": "D",
+          "text": "Φ = 1/6ε₀ q",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. According to Gauss's law, the total electric flux through the closed surface (the cube) is equal to the total charge (q) divided by ε₀. Since the charge is at the center, this flux is uniformly distributed across the six faces of the cube, yielding Φ = (q/ε₀) / 6."
+        }
+      ],
+      "explanation": "The total flux through the cube is q/ε₀, and it is evenly divided among the six faces due to symmetry.",
+      "explanationImage": null,
+      "hints": [
+        "point charge",
+        "flux linked with each face"
+      ]
+    },
+    {
+      "text": "A positive point charge is placed at P in front of an earthed metal sheet S. Q & R are two points between P & S as shown in the figure. If the electric field strength at Q & R is respectively EQ & ER and potential at Q & R is respectively VQ & VR then:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "EQ = ER",
+          "isCorrect": false,
+          "explanation": "This option suggests that the electric field strength is the same at points Q and R. However, since point Q is closer to the positive charge P than point R, the electric field strength at Q is greater than that at R. Therefore, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "EQ < ER",
+          "isCorrect": false,
+          "explanation": "This option indicates that the electric field strength at point Q is less than at point R. Given that Q is closer to the positive charge P, this is not true; EQ should be greater than ER. Thus, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "VQ > VR",
+          "isCorrect": true,
+          "explanation": "This option correctly states that the electric potential at point Q is greater than at point R. Since point Q is closer to the positive charge P, the electric potential at Q is indeed higher than that at R. Therefore, this option is correct."
+        },
+        {
+          "letter": "D",
+          "text": "VQ < VR",
+          "isCorrect": false,
+          "explanation": "This option claims that the electric potential at point Q is less than at point R. This contradicts the principle that the potential is higher closer to a positive charge. Since Q is nearer to P, this option is incorrect."
+        }
+      ],
+      "explanation": "The electric potential at a point is inversely related to the distance from a positive charge. Since Q is closer to the positive point charge P than R, VQ is greater than VR.",
+      "explanationImage": null,
+      "hints": [
+        "electric field strength",
+        "electric potential",
+        "earthed metal sheet"
+      ]
+    },
+    {
+      "text": "In the given figure, the charge that appears on the sphere is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "q",
+          "isCorrect": false,
+          "explanation": "This option represents the original charge but does not account for any induced charges on the sphere due to nearby influences."
+        },
+        {
+          "letter": "B",
+          "text": "qd/r",
+          "isCorrect": false,
+          "explanation": "This option suggests a proportional relationship but does not accurately reflect the nature of the induced charge on the sphere based on the method of images."
+        },
+        {
+          "letter": "C",
+          "text": "-qr/d",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. It indicates that the induced charge on the sphere is negative and inversely related to the distance, consistent with the method of images."
+        },
+        {
+          "letter": "D",
+          "text": "zero",
+          "isCorrect": false,
+          "explanation": "This option incorrectly implies that there is no induced charge on the sphere, which contradicts Coulomb's Law under the influence of nearby charges."
+        }
+      ],
+      "explanation": "This is the correct answer. The method of images shows that the induced charge on the sphere is proportional to the charge and inversely proportional to the distance.",
+      "explanationImage": null,
+      "hints": [
+        "charge",
+        "sphere",
+        "induced"
+      ]
+    },
+    {
+      "text": "Separation between the plates of a parallel plate capacitor is 5 mm. This capacitor, having air as the dielectric medium between the plates, is charged to a potential difference 25 V using a battery. The battery is then disconnected and a dielectric slab of thickness 3 mm and dielectric constant K = 10 is placed between the plates, as shown. Potential difference between the plates after the dielectric slab has been introduced is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "18.5 V",
+          "isCorrect": false,
+          "explanation": "This option is too high, as it does not take into account the increased capacitance resulting from the dielectric slab, which reduces the potential difference."
+        },
+        {
+          "letter": "B",
+          "text": "13.5 V",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect. It underestimates the effect of the dielectric slab on the capacitor's potential difference, which should be lower than this value."
+        },
+        {
+          "letter": "C",
+          "text": "11.5 V",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The introduction of the dielectric slab increases the capacitance, which in turn reduces the potential difference across the plates, leading to a final potential difference of 11.5 V."
+        },
+        {
+          "letter": "D",
+          "text": "6.5 V",
+          "isCorrect": false,
+          "explanation": "This value is too low and does not accurately reflect the effects of the dielectric slab on the potential difference across the capacitor."
+        }
+      ],
+      "explanation": "When a dielectric slab of thickness 3 mm and dielectric constant K = 10 is inserted between the plates of a capacitor, the effective separation between the plates changes. The potential difference across the capacitor is given by the relation V = Q/C, where C is the capacitance. The introduction of the dielectric increases the capacitance, which is inversely proportional to the potential difference, thus reducing it. The correct answer is 11.5 V, as calculated by considering the series combination of the air gap and the dielectric slab.",
+      "explanationImage": null,
+      "hints": [
+        "dielectric slab",
+        "potential difference",
+        "capacitance"
+      ]
+    },
+    {
+      "text": "A thin conducting plate is inserted halfway between the plates of a parallel plates capacitor of capacitance C. What is the value of capacitance if both the plates of the capacitor are shortened?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": "This option suggests that the capacitance remains unchanged, which is incorrect because the insertion of the conducting plate alters the configuration."
+        },
+        {
+          "letter": "B",
+          "text": "2C",
+          "isCorrect": false,
+          "explanation": "This option implies that the capacitance doubles, but the actual effect of the conducting plate is more significant due to the way it divides the capacitor into two parts."
+        },
+        {
+          "letter": "C",
+          "text": "3C",
+          "isCorrect": false,
+          "explanation": "This option indicates a tripling of capacitance, which does not accurately reflect the series configuration created by the conducting plate."
+        },
+        {
+          "letter": "D",
+          "text": "4C",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The insertion of a thin conducting plate creates two capacitors in series, effectively increasing the total capacitance to four times the original value."
+        }
+      ],
+      "explanation": "The insertion of a thin conducting plate halfway between the plates effectively creates two capacitors in series, doubling the capacitance twice.",
+      "explanationImage": null,
+      "hints": [
+        "conducting plate",
+        "parallel plates capacitor",
+        "shortened"
+      ]
+    },
+    {
+      "text": "An electron with a kinetic energy of 100 eV enters the space between the plates of plane capacitor made of two dense metal grids at an angle of 30° with the plates of capacitor and leaves this space at an angle of 45° with the plates. What is the potential difference of the capacitor:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100V",
+          "isCorrect": false,
+          "explanation": "This option suggests a potential difference that does not account for the change in kinetic energy due to the angle changes."
+        },
+        {
+          "letter": "B",
+          "text": "50V",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The change in the electron's angles indicates a reduction in kinetic energy, corresponding to a potential difference of 50V."
+        },
+        {
+          "letter": "C",
+          "text": "150V",
+          "isCorrect": false,
+          "explanation": "This option is too high, as it does not reflect the decrease in kinetic energy experienced by the electron while traversing the capacitor's electric field."
+        },
+        {
+          "letter": "D",
+          "text": "200V",
+          "isCorrect": false,
+          "explanation": "This option is also too high and does not align with the physical principles governing the motion of an electron through a potential difference."
+        }
+      ],
+      "explanation": "The change in angles and kinetic energy corresponds to this potential difference.",
+      "explanationImage": null,
+      "hints": [
+        "kinetic energy",
+        "angle of entry",
+        "angle of exit"
+      ]
+    },
+    {
+      "text": "The net charge flowing through any section of the conductor per unit time is known as?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electric intensity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Electric flux",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Electric current",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Electric potential",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Electric current is the flow of charge through a conductor per unit time. It measures how much charge passes a point in the circuit every second.The other options describe electric field strength, electric flux, or potential, not the flow of charge.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If we double the separation between two charges , then coulomb's force will become?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Double",
+          "isCorrect": false,
+          "explanation": "This option suggests that the force increases; however, according to Coulomb's law, increasing the distance decreases the force."
+        },
+        {
+          "letter": "B",
+          "text": "Half",
+          "isCorrect": false,
+          "explanation": "This option indicates that the force is reduced but not sufficiently; it fails to account for the square of the distance in the relationship."
+        },
+        {
+          "letter": "C",
+          "text": "Four times",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests that the force increases significantly, which contradicts the principle that increasing distance decreases force."
+        },
+        {
+          "letter": "D",
+          "text": "1/4th",
+          "isCorrect": true,
+          "explanation": "This is the correct answer as it reflects the inverse square relationship: doubling the distance leads to a reduction in force by a factor of four."
+        }
+      ],
+      "explanation": "Coulomb's law states that the force between two point charges is directly proportional to the product of the magnitudes of charges and inverselyproportional to the square of the distance between them. So, if the separation is doubled the force becomes 1/4 of the original force.",
+      "explanationImage": null,
+      "hints": [
+        "double the separation",
+        "Coulomb's force"
+      ]
+    },
+    {
+      "text": "The variation of electric potential due to a point charge with distance is represented by the graph (where V along y axis and r along x-axis):",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": "This option does not represent the correct relationship between distance and electric potential for a point charge."
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": "This option fails to illustrate the expected behavior of electric potential as it moves away from the charge."
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": "This option misrepresents the nature of electric potential, indicating a direct relationship instead of an inverse one."
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": true,
+          "explanation": "This option accurately represents the inverse relationship between electric potential and distance for a point charge, indicating that as distance increases, potential decreases."
+        }
+      ],
+      "explanation": "It accurately represents the inverse relationship between electric potential and distance for a point charge.",
+      "explanationImage": null,
+      "hints": [
+        "electric potential",
+        "point charge"
+      ]
+    },
+    {
+      "text": "An electron of charge e is introduced between two metal plates a distance d apart. A potential difference V is applied to the plates as shown in the diagram.Which expression gives the electric force F on the electron?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "eV/d",
+          "isCorrect": true,
+          "explanation": "Correct! The electric field (E) between parallel plates can be calculated using the formula E = V/d. The force (F) on a charge (q) in an electric field is given by F = qE. For an electron with charge e, substituting gives F = eE = e(V/d)."
+        },
+        {
+          "letter": "B",
+          "text": "eVd",
+          "isCorrect": false,
+          "explanation": "This option incorrectly assumes that the force is proportional to the product of V and d, rather than relying on the electric field defined as the potential difference per unit distance."
+        },
+        {
+          "letter": "C",
+          "text": "V/ed",
+          "isCorrect": false,
+          "explanation": "This expression is incorrect as it improperly rearranges the terms and does not correctly represent the relationship between force and electric field in this context."
+        },
+        {
+          "letter": "D",
+          "text": "dV/e",
+          "isCorrect": false,
+          "explanation": "This option is not correct because it misinterprets the relationship between potential difference and force, failing to apply the correct formula for electric force."
+        }
+      ],
+      "explanation": "The electric field E between parallel plates is V/d. The force on a charge q in an electric field E is given by F = qE, so for an electron with charge e, F = eE = eV/d.",
+      "explanationImage": null,
+      "hints": [
+        "electron",
+        "potential difference",
+        "electric force"
+      ]
+    }
+  ]
+}

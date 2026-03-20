@@ -1,0 +1,1149 @@
+{
+  "questions": [
+    {
+      "text": "If each particle of fluid is passing through the same point, what would be the flow?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Linear",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Streamline",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Tubular",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Both A and B",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Streamline flow is a type of flow in which fluid moves forming a point shape at the front, this makes all the particles in the fluid to pass through the same point.",
+      "explanationImage": null,
+      "hints": [
+        "same point"
+      ]
+    },
+    {
+      "text": "How much more thumb pressure must a nurse use to administer an injection with a hypodermic needle of inside diameter 0.30 mm compared to one with inside diameter 0.60 mm? Assume that the two needles have the same length and that the volume flow rate is the same in both cases.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Twice as much",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "4 times as much",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "8 times as much",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "16 times as much",
+          "isCorrect": true,
+          "explanation": "The pressure required to achieve the same flow rate through two pipes with different diameters is given by the equation:P = 8Lnv/πr^4where P is the pressure, L is the length of the pipe, n is the viscosity of the fluid, v is the volume flow rate, and r is the radius of the pipe.Assuming the same length, viscosity, and flow rate for both needles, we can see that the pressure required is inversely proportional to the fourth power of the radius. That means the pressure required for the needle with the smaller inside diameter (0.30 mm) will be:P1 = 8Lnv/πr1^4And the pressure required for the needle with the larger inside diameter (0.60 mm) will be:P2 = 8Lnv/πr2^4Taking the ratio of the two pressures, we get:P1/P2 = (r2/r1)^4P1/P2 = (0.60/0.30)^4 = 2^4 = 16So the nurse would need to apply 16 times as much thumb pressure to achieve the same flow rate with the smaller needle."
+        }
+      ],
+      "explanation": "The pressure required to achieve the same flow rate through two pipes with different diameters is given by the equation:P = 8Lnv/πr^4where P is the pressure, L is the length of the pipe, n is the viscosity of the fluid, v is the volume flow rate, and r is the radius of the pipe.Assuming the same length, viscosity, and flow rate for both needles, we can see that the pressure required is inversely proportional to the fourth power of the radius. That means the pressure required for the needle with the smaller inside diameter (0.30 mm) will be:P1 = 8Lnv/πr1^4And the pressure required for the needle with the larger inside diameter (0.60 mm) will be:P2 = 8Lnv/πr2^4Taking the ratio of the two pressures, we get:P1/P2 = (r2/r1)^4P1/P2 = (0.60/0.30)^4 = 2^4 = 16So the nurse would need to apply 16 times as much thumb pressure to achieve the same flow rate with the smaller needle.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A body moving on a fluid will experience:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2016,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Drag force",
+          "isCorrect": true,
+          "explanation": "An object moving through a fluid experiences a retarding force called a drag force. The drag force increases as the speed of the object increases. Even in the simplest cases, the exact value of the drag force is difficult to calculate. However, the case of a sphere moving through a fluid is of great importance. The drag force F on a sphere of radius r moving slowly with speed v through a fluid of viscosity n is given by Stokes' law as under, At high speeds, the force is no longer simply proportional to speed."
+        },
+        {
+          "letter": "B",
+          "text": "Centripetal force",
+          "isCorrect": false,
+          "explanation": "Centripetal force is the force acting on an object in curvilinear motion directed towards the axis of rotation or center of curvature.The centripetal force is: F=Mv2/r"
+        },
+        {
+          "letter": "C",
+          "text": "Centrifugal force",
+          "isCorrect": false,
+          "explanation": "Centrifugal force is a pseudo force in a circular motion that acts along the radius and is directed away from the center of the circle. The force does not exist when measurements are made in an inertial frame of reference. It only comes into play when changing our reference frame from a ground/inertial to a rotating reference frame. The centrifugal force’s unit is Newton. F=-Mv2/r"
+        },
+        {
+          "letter": "D",
+          "text": "Tabular force",
+          "isCorrect": false,
+          "explanation": "There is no such force."
+        }
+      ],
+      "explanation": "In fluid dynamics, drag (sometimes called air resistance, a type of friction, or fluid resistance, another type of friction or fluid friction) is a force acting opposite to the relative motion of any object moving concerning a surrounding fluid.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A maintenance crew is working on a section of a three-lane highway with only one lane open to traffic. This result is much slower traffic flow. The cars on this highway behave like:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The molecules of an incompressible fluid",
+          "isCorrect": false,
+          "explanation": "The cars on the highway behave like the molecules of a compressed fluid as they experience congestion and slower movement due to limited lane availability. In a compressed fluid, molecules are closely packed, leading to reduced mobility, similar to the restricted traffic flow on the congested highway. In contrast, the behavior of molecules in an incompressible fluid does not explain the slower traffic observed in this scenario."
+        },
+        {
+          "letter": "B",
+          "text": "The molecules of a compressed fluid",
+          "isCorrect": true,
+          "explanation": "The cars on the highway behave like the molecules of a compressed fluid as they experience congestion and slower movement due to limited lane availability. In a compressed fluid, molecules are closely packed, leading to reduced mobility, similar to the restricted traffic flow on the congested highway. In contrast, the behavior of molecules in an incompressible fluid does not explain the slower traffic observed in this scenario."
+        },
+        {
+          "letter": "C",
+          "text": "Both (A) and (B)",
+          "isCorrect": false,
+          "explanation": "The cars on the highway behave like the molecules of a compressed fluid as they experience congestion and slower movement due to limited lane availability. In a compressed fluid, molecules are closely packed, leading to reduced mobility, similar to the restricted traffic flow on the congested highway. In contrast, the behavior of molecules in an incompressible fluid does not explain the slower traffic observed in this scenario."
+        },
+        {
+          "letter": "D",
+          "text": "None of the above",
+          "isCorrect": false,
+          "explanation": "The cars on the highway behave like the molecules of a compressed fluid as they experience congestion and slower movement due to limited lane availability. In a compressed fluid, molecules are closely packed, leading to reduced mobility, similar to the restricted traffic flow on the congested highway. In contrast, the behavior of molecules in an incompressible fluid does not explain the slower traffic observed in this scenario."
+        }
+      ],
+      "explanation": "The cars on the highway behave like the molecules of a compressed fluid as they experience congestion and slower movement due to limited lane availability. In a compressed fluid, molecules are closely packed, leading to reduced mobility, similar to the restricted traffic flow on the congested highway. In contrast, the behavior of molecules in an incompressible fluid does not explain the slower traffic observed in this scenario.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The density of blood is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2011,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Less than water",
+          "isCorrect": false,
+          "explanation": "Blood's density is greater due to its components. It contains cells, proteins, and other solutes, making it denser than water."
+        },
+        {
+          "letter": "B",
+          "text": "Nearly equal to water",
+          "isCorrect": true,
+          "explanation": "Density of water is 1000 kg per metre cube, and the density of blood is 1060 kg per metre cube, making them nearly equal."
+        },
+        {
+          "letter": "C",
+          "text": "Greater than water",
+          "isCorrect": false,
+          "explanation": "Blood is denser due to its components, including cells and proteins, making it denser than water."
+        },
+        {
+          "letter": "D",
+          "text": "Three times that of water",
+          "isCorrect": false,
+          "explanation": "Blood's density isn't three times that of water; it's primarily influenced by its cellular and protein content, not a fixed ratio."
+        }
+      ],
+      "explanation": "Density of water is 1000 kg per metre cube, and the density of blood is 1060 kg per metre cube, making them nearly equal.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Water is flowing in a streamline motion through a horizontal tube. The pressure at a point in the tube is P where the velocity of now is v. At another point, where the pressure is P/2, the velocity of flow is: (density of water=ρ)",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2014,
+      "options": [
+        {
+          "letter": "A",
+          "text": "√(v2 + P/ρ)",
+          "isCorrect": true,
+          "explanation": "This is the correct application of Bernoulli's equation, where the decrease in pressure results in an increase in velocity."
+        },
+        {
+          "letter": "B",
+          "text": "√(v2 - P/ρ)",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests that the velocity decreases when the pressure is halved, which contradicts Bernoulli's principle."
+        },
+        {
+          "letter": "C",
+          "text": "√(v2 + 2P/ρ)",
+          "isCorrect": false,
+          "explanation": "This option overestimates the effect of pressure change on velocity, leading to an incorrect result."
+        },
+        {
+          "letter": "D",
+          "text": "√(v2 - 2P/ρ)",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests a larger decrease in velocity, which is not supported by the relationship between pressure and velocity in Bernoulli's equation."
+        }
+      ],
+      "explanation": "In a horizontal flow, Bernoulli’s equation states that the sum of the pressure energy and kinetic energy per unit volume is constant. Therefore, if the pressure drops from P to P/2, the kinetic energy (and thus the velocity) must increase to conserve energy. The correct expression for velocity at the point where pressure is P/2 is derived by setting up the equation: P + 1/2 (ρv2) = P/2 + 1/2 (ρv12)Solving for v1 gives us the correct velocity: v1 = √(v2 + P/ρ).Option A correctly reflects this relationship, while the other options either overestimate or underestimate the velocity change due to pressure drop.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A machine worker placed a cylinder with a diameter of 18 cm between the plates of a hydraulic press. If he applies a 4.25 x 105N force to the cylinder, the stress on the end of the cylinder due to the applied force is A x 107Pa. What is the value of A?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "If A = 1, then the stress on the end of the cylinder would be 1 x 10^7 Pa. However, the correct stress value is 1.67 x 10^7 Pa. Therefore, option A is not the correct answer."
+        },
+        {
+          "letter": "B",
+          "text": "0.5",
+          "isCorrect": false,
+          "explanation": "If A = 0.5, then the stress on the end of the cylinder would be (0.5) x 10^7 Pa. However, the correct stress value is 1.67 x 10^7 Pa. Therefore, option B is not the correct answer."
+        },
+        {
+          "letter": "C",
+          "text": "1.3",
+          "isCorrect": false,
+          "explanation": "If A = 1.3, then the stress on the end of the cylinder would be 1.3 x 10^7 Pa. However, the correct stress value is 1.67 x 10^7 Pa. Therefore, option C is not the correct answer."
+        },
+        {
+          "letter": "D",
+          "text": "1.67",
+          "isCorrect": true,
+          "explanation": "The area of the end of the cylinder is given by:A = (π/4)d2where d is the diameter of the cylinder.Substituting the given values, we get:A = (π/4)(0.18 m)2A = 0.02546 m2The stress on the end of the cylinder is given by:Stress = Force/AreaSubstituting the given values, we get:Stress = (4.25 x 105 N)/0.02546 m2Stress = 1.67 x 107 PaTherefore, the value of A is 1.67, which is option D."
+        }
+      ],
+      "explanation": "The area of the end of the cylinder is given by:A = (π/4)d2where d is the diameter of the cylinder.Substituting the given values, we get:A = (π/4)(0.18 m)2A = 0.02546 m2The stress on the end of the cylinder is given by:Stress = Force/AreaSubstituting the given values, we get:Stress = (4.25 x 105 N)/0.02546 m2Stress = 1.67 x 107 PaTherefore, the value of A is 1.67, which is option D.",
+      "explanationImage": null,
+      "hints": [
+        "diameter of 18 cm",
+        "4.25 x 105N",
+        "stress",
+        "A x 107Pa"
+      ]
+    },
+    {
+      "text": "Ideal fluid is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Incompressible",
+          "isCorrect": false,
+          "explanation": "Incompressible means that the fluid's density does not change with pressure or temperature."
+        },
+        {
+          "letter": "B",
+          "text": "Steady flow",
+          "isCorrect": false,
+          "explanation": "Steady flow means that the fluid's velocity does not change with time at a given point in the fluid."
+        },
+        {
+          "letter": "C",
+          "text": "Non - viscous",
+          "isCorrect": false,
+          "explanation": "Non-viscous means that the fluid has no resistance to shear stress."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": true,
+          "explanation": "An ideal fluid is a fluid that is incompressible, steady flow, and non-viscous. Incompressible means that the fluid's density does not change with pressure or temperature. Steady flow means that the fluid's velocity does not change with time at a given point in the fluid. Non-viscous means that the fluid has no resistance to shear stress. In reality, no fluids are truly ideal. However, many fluids can be approximated as ideal fluids under certain conditions. For example, air can be approximated as an ideal fluid at low pressures and high speeds. The properties of an ideal fluid make it very easy to analyze and model. This is why ideal fluids are often used in fluid dynamics problems. So the correct answer is D."
+        }
+      ],
+      "explanation": "An ideal fluid is a fluid that is incompressible, steady flow, and non-viscous. Incompressible means that the fluid's density does not change with pressure or temperature. Steady flow means that the fluid's velocity does not change with time at a given point in the fluid. Non-viscous means that the fluid has no resistance to shear stress. In reality, no fluids are truly ideal. However, many fluids can be approximated as ideal fluids under certain conditions. For example, air can be approximated as an ideal fluid at low pressures and high speeds. The properties of an ideal fluid make it very easy to analyze and model. This is why ideal fluids are often used in fluid dynamics problems.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Equation of continuity is expressed as:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A1V2 = A2V1",
+          "isCorrect": false,
+          "explanation": "A1V2 = A2V1: This is the equation of continuity for fluid flow. It states that the mass flow rate through a control volume is constant. In other words, the amount of fluid that enters the control volume must equal the amount of fluid that leaves the control volume."
+        },
+        {
+          "letter": "B",
+          "text": "A1V1 = A2V2",
+          "isCorrect": true,
+          "explanation": "The equation of continuity is expressed as A1V1 = A2V2. This equation states that the mass flow rate through a control volume is constant. In other words, the amount of fluid that enters the control volume must equal the amount of fluid that leaves the control volume."
+        },
+        {
+          "letter": "C",
+          "text": "A1H2 = A2H1",
+          "isCorrect": false,
+          "explanation": "A1H2 = A2H1: This is the equation of continuity for heat transfer. It states that the heat flow rate through a control volume is constant. In other words, the amount of heat that enters the control volume must equal the amount of heat that leaves the control volume."
+        },
+        {
+          "letter": "D",
+          "text": "A1H1 = A2H2",
+          "isCorrect": false,
+          "explanation": "A1H1 = A2H2: This is not the equation of continuity for heat transfer. It states that the product of the cross-sectional area and the heat transfer coefficient is constant. This is only true for steady-state heat transfer, which means that the temperature of the fluid does not change."
+        }
+      ],
+      "explanation": "Option A: A1V2 = A2V1: This is the equation of continuity for fluid flow. It states that the mass flow rate through a control volume is constant. In other words, the amount of fluid that enters the control volume must equal the amount of fluid that leaves the control volume. Option B: The equation of continuity is expressed as A1V1 = A2V2. This equation states that the mass flow rate through a control volume is constant. In other words, the amount of fluid that enters the control volume must equal the amount of fluid that leaves the control volume. Option C: A1H2 = A2H1: This is the equation of continuity for heat transfer. It states that the heat flow rate through a control volume is constant. In other words, the amount of heat that enters the control volume must equal the amount of heat that leaves the control volume. Option D: A1H1 = A2H2: This is not the equation of continuity for heat transfer. It states that the product of the cross-sectional area and the heat transfer coefficient is constant. This is only true for steady-state heat transfer, which means that the temperature of the fluid does not change.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "When fluid is incompressible, it means:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "No internal frictional force",
+          "isCorrect": false,
+          "explanation": "This is not a characteristic of an incompressible fluid. All fluids have internal frictional forces, also known as viscosity. Viscosity is a measure of how much a fluid resists flowing."
+        },
+        {
+          "letter": "B",
+          "text": "Independent of coordinates",
+          "isCorrect": false,
+          "explanation": "Independent of coordinates This is not a characteristic of an incompressible fluid. The density of a fluid can vary depending on the coordinates, such as the position in the fluid or the direction of the flow. For example, the density of water will be different at the surface of the Earth than it is at the bottom of the ocean."
+        },
+        {
+          "letter": "C",
+          "text": "Independent of time",
+          "isCorrect": false,
+          "explanation": "Independent of time This is not a characteristic of an incompressible fluid. The density of a fluid can vary depending on the time, such as if the fluid is heated or cooled. For example, the density of water will increase if it is heated."
+        },
+        {
+          "letter": "D",
+          "text": "Its density remains constant",
+          "isCorrect": true,
+          "explanation": "The correct answer is Its density remains constant. This is the characteristic of an incompressible fluid. The density of an incompressible fluid does not change with pressure or temperature. This means that the volume of an incompressible fluid will not change if it is compressed or expanded."
+        },
+        {
+          "letter": "E",
+          "text": "Its density remains variable",
+          "isCorrect": false,
+          "explanation": "Its density remains variable is not a characteristic of an incompressible fluid. An incompressible fluid has a constant density, which means that its density cannot vary."
+        }
+      ],
+      "explanation": "The correct answer is Its density remains constant. This is the characteristic of an incompressible fluid. The density of an incompressible fluid does not change with pressure or temperature. This means that the volume of an incompressible fluid will not change if it is compressed or expanded.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "S.I. Unit of rate of flow of a fluid :",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Meter / sec",
+          "isCorrect": false,
+          "explanation": "Meter / sec is the unit of speed. Speed is the rate at which an object is moving, and it is measured in meters per second. For example, if a car is moving at a speed of 60 miles per hour, then its speed in meters per second is 26.8 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "Meter2 / sec",
+          "isCorrect": false,
+          "explanation": "Meter2 / sec is the unit of area per second. Area is the amount of space that is enclosed by a two-dimensional figure, and it is measured in square meters. For example, if a square has an area of 10 square meters, then its area per second is 10 m2/s."
+        },
+        {
+          "letter": "C",
+          "text": "Meter 3 / sec",
+          "isCorrect": true,
+          "explanation": "Meter3 / sec is the unit of volume per second. Volume is the amount of space that is enclosed by a three-dimensional figure, and it is measured in cubic meters. For example, if a cube has a volume of 10 cubic meters, then its volume per second is 10 m3/s."
+        },
+        {
+          "letter": "D",
+          "text": "Meter 2 / sec2",
+          "isCorrect": false,
+          "explanation": "Meter2 / sec2 is the unit of acceleration. Acceleration is the rate at which an object's velocity is changing, and it is measured in meters per second squared. For example, if an object is accelerating at a rate of 2 m/s2, then its velocity is increasing by 2 meters per second every second."
+        }
+      ],
+      "explanation": "Meter3 / sec is the unit of volume per second. Volume is the amount of space that is enclosed by a three-dimensional figure, and it is measured in cubic meters. For example, if a cube has a volume of 10 cubic meters, then its volume per second is 10 m3/s.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Mass flow per second of the fluid is given by:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "ρAv",
+          "isCorrect": true,
+          "explanation": "ρAv: This option represents the mass flow rate of a fluid. Here, ρ represents the density of the fluid, A represents the cross-sectional area through which the fluid is flowing, and v represents the velocity of the fluid. Multiplying the density, cross-sectional area, and velocity gives you the mass flow per second of the fluid."
+        },
+        {
+          "letter": "B",
+          "text": "Av",
+          "isCorrect": false,
+          "explanation": "Av: This option represents the volumetric flow rate of a fluid. Here, A represents the cross-sectional area through which the fluid is flowing, and v represents the velocity of the fluid. Multiplying the cross-sectional area and velocity gives you the volume flow per second of the fluid."
+        },
+        {
+          "letter": "C",
+          "text": "ρv",
+          "isCorrect": false,
+          "explanation": "ρv: This option represents the momentum flow rate of a fluid. Here, ρ represents the density of the fluid, and v represents the velocity of the fluid. Multiplying the density and velocity gives you the momentum flow per second of the fluid."
+        },
+        {
+          "letter": "D",
+          "text": "Av/ρ",
+          "isCorrect": false,
+          "explanation": "Av/ρ: This option represents the inverse of the density. It does not directly represent a flow rate or a quantity related to fluid flow."
+        }
+      ],
+      "explanation": "𝑀𝑎𝑠𝑠/𝑡𝑖𝑚𝑒 = ρ × 𝑉/𝑇 = ρ × 𝐴 × 𝑑/𝑇 = ρ × 𝐴 × 𝑣Where T is time, V is volume, A is area, v is velocity.Mass flow per second of fluid is given by: pAv",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The dimension of coefficient of viscosity is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": "This is not correct dimension of coefficient of viscosity."
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": "This is not correct dimension of coefficient of viscosity."
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": "This is not correct dimension of coefficient of viscosity."
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": true,
+          "explanation": "η = 𝐹×𝑑 𝐴×𝑣 Where F is the tangential force, d is the distance between two layers skidding over each other, A is the area and v is the velocity. By dimensional analysis, η = 𝑘𝑔.𝑚.𝑠 −2×𝑚 𝑚 2×𝑚𝑠 −1"
+        }
+      ],
+      "explanation": "η = 𝐹×𝑑 𝐴×𝑣 Where F is the tangential force, d is the distance between two layers skidding over each other, A is the area and v is the velocity. By dimensional analysis, η = 𝑘𝑔.𝑚.𝑠 −2×𝑚 𝑚 2×𝑚𝑠 −1",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Two sample of gases ‘1’ and ‘2’ are taken at same temperature and pressure but the ratio of number of their volume is V1:V2 = 2:3. What is the ratio of the number of moles of the gas sample?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3:2",
+          "isCorrect": false,
+          "explanation": "3:2: This ratio implies that the number of moles of gas sample 1 (n1) is three times the number of moles of gas sample 2 (n2)."
+        },
+        {
+          "letter": "B",
+          "text": "√2 :√3",
+          "isCorrect": false,
+          "explanation": "√2 : √3: This ratio implies that the square root of 2 is the ratio of the number of moles of gas sample 1 (n1) to the square root of 3, which is the ratio of the number of moles of gas sample 2 (n2)."
+        },
+        {
+          "letter": "C",
+          "text": "4:9",
+          "isCorrect": false,
+          "explanation": "4:9: This ratio implies that the number of moles of gas sample 1 (n1) is four times the number of moles of gas sample 2 (n2)."
+        },
+        {
+          "letter": "D",
+          "text": "2:3",
+          "isCorrect": true,
+          "explanation": "2:3: This ratio implies that the number of moles of gas sample 1 (n1) is two times the number of moles of gas sample 2 (n2)."
+        }
+      ],
+      "explanation": "To determine the correct ratio, we can use the Avogadro's Law, which states that equal volumes of gases at the same temperature and pressure contain an equal number of molecules.Since the volumes of the gases are given as V1:V2 = 2:3, the ratio of the number of moles (n1:n2) will also be 2:3. This means that the correct option is d) 2:3, which represents the ratio of the number of moles of the gas sample.Hence, the correct option is d) 2:3, which represents the ratio of the number of moles of the gas sample.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Root mean square velocity of a gas having pressure ‘P’ and density ‘ρ’ is given by:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "√(3P/ρ)",
+          "isCorrect": true,
+          "explanation": "√(3P/ρ): This option represents the root mean square (RMS) velocity of a gas and is given by the equation √(3P/ρ). It takes into account the pressure (P) and density (ρ) of the gas."
+        },
+        {
+          "letter": "B",
+          "text": "3Pρ",
+          "isCorrect": false,
+          "explanation": "3Pρ: This option does not represent the correct equation for the root mean square velocity. It is not a valid formula for calculating the RMS velocity of a gas."
+        },
+        {
+          "letter": "C",
+          "text": "3ρ/P",
+          "isCorrect": false,
+          "explanation": "3ρ/P: This option does not represent the correct equation for the root mean square velocity. It is not a valid formula for calculating the RMS velocity of a gas."
+        },
+        {
+          "letter": "D",
+          "text": "√3ρ/P",
+          "isCorrect": false,
+          "explanation": "√3ρ/P: This option represents the correct equation for the root mean square velocity of a gas. The RMS velocity is given by the formula √(3ρ/P), where ρ is the density of the gas and P is the pressure."
+        }
+      ],
+      "explanation": "√3P/ρ: This option represents the correct equation for the root mean square velocity of a gas. The RMS velocity is given by the formula √(3ρ/P), where ρ is the density of the gas and P is the pressure.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If the speed of efflux through a small hole in a large tank is 9.8 m/s. Find the height at the fluid above the hole:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2012,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 m",
+          "isCorrect": false,
+          "explanation": "The speed of efflux through a small hole in a large tank is given by the Torricelli's Law, which is given as:v = √(2gh)where v is the speed of efflux, g is the acceleration due to gravity, h is the height of the fluid above the hole.We are given that the speed of efflux through the hole is 9.8 m/s, which is equal to the acceleration due to gravity, i.e., v = g = 9.8 m/s².Substituting these values in the above equation, we get:9.8 = √(2gh)Squaring both sides of the equation, we get:96.04 = 2ghh = 96.04 / (2g)h = 96.04 / (2 x 9.8)h = 4.9 metersTherefore, the height of the fluid above the hole is 4.9 meters. Option C is the correct answer."
+        },
+        {
+          "letter": "B",
+          "text": "9.8 m",
+          "isCorrect": false,
+          "explanation": "The speed of efflux through a small hole in a large tank is given by the Torricelli's Law, which is given as:v = √(2gh)where v is the speed of efflux, g is the acceleration due to gravity, h is the height of the fluid above the hole.We are given that the speed of efflux through the hole is 9.8 m/s, which is equal to the acceleration due to gravity, i.e., v = g = 9.8 m/s².Substituting these values in the above equation, we get:9.8 = √(2gh)Squaring both sides of the equation, we get:96.04 = 2ghh = 96.04 / (2g)h = 96.04 / (2 x 9.8)h = 4.9 metersTherefore, the height of the fluid above the hole is 4.9 meters. Option C is the correct answer."
+        },
+        {
+          "letter": "C",
+          "text": "4.9 m",
+          "isCorrect": true,
+          "explanation": "The speed of efflux through a small hole in a large tank is given by the Torricelli's Law, which is given as:v = √(2gh)where v is the speed of efflux, g is the acceleration due to gravity, h is the height of the fluid above the hole.We are given that the speed of efflux through the hole is 9.8 m/s, which is equal to the acceleration due to gravity, i.e., v = g = 9.8 m/s².Substituting these values in the above equation, we get:9.8 = √(2gh)Squaring both sides of the equation, we get:96.04 = 2ghh = 96.04 / (2g)h = 96.04 / (2 x 9.8)h = 4.9 metersTherefore, the height of the fluid above the hole is 4.9 meters. Option C is the correct answer."
+        },
+        {
+          "letter": "D",
+          "text": "19.6 m",
+          "isCorrect": false,
+          "explanation": "The speed of efflux through a small hole in a large tank is given by the Torricelli's Law, which is given as:v = √(2gh)where v is the speed of efflux, g is the acceleration due to gravity, h is the height of the fluid above the hole.We are given that the speed of efflux through the hole is 9.8 m/s, which is equal to the acceleration due to gravity, i.e., v = g = 9.8 m/s².Substituting these values in the above equation, we get:9.8 = √(2gh)Squaring both sides of the equation, we get:96.04 = 2ghh = 96.04 / (2g)h = 96.04 / (2 x 9.8)h = 4.9 metersTherefore, the height of the fluid above the hole is 4.9 meters. Option C is the correct answer."
+        }
+      ],
+      "explanation": "The speed of efflux through a small hole in a large tank is given by the Torricelli's Law, which is given as:v = √(2gh)where v is the speed of efflux, g is the acceleration due to gravity, h is the height of the fluid above the hole.We are given that the speed of efflux through the hole is 9.8 m/s, which is equal to the acceleration due to gravity, i.e., v = g = 9.8 m/s².Substituting these values in the above equation, we get:9.8 = √(2gh)Squaring both sides of the equation, we get:96.04 = 2ghh = 96.04 / (2g)h = 96.04 / (2 x 9.8)h = 4.9 metersTherefore, the height of the fluid above the hole is 4.9 meters. Option C is the correct answer.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Flow speed of the fluid through a non-uniform pipe increases from 1 m/sec to 3 m/sec. If change in P.E. is zero, then pressure difference between two points will be: (density of the fluid = 1000 kg/m3).",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2012,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1000 N/m2",
+          "isCorrect": false,
+          "explanation": "According to Bernoulli's equation, the pressure difference between two points in a fluid is related to the change in velocity of the fluid and the density of the fluid.The equation is given as:P1 + (1/2)ρv1² = P2 + (1/2)ρv2²where P1 and P2 are the pressures at two different points in the pipe, v1 and v2 are the velocities at those points, and ρ is the density of the fluid.In this problem, we are given that the change in potential energy is zero, which means that we can neglect the potential energy term in Bernoulli's equation.Also, the density of the fluid is given as 1000 kg/m³.Using Bernoulli's equation, we can write:P1 + (1/2)ρv1² = P2 + (1/2)ρv2²Since the change in potential energy is zero, the pressure difference between the two points is given by:ΔP = P1 - P2 = (1/2)ρ(v2² - v1²)Substituting the given values, we get:ΔP = (1/2) x 1000 x (3² - 1²)ΔP = 4000 N/m²Therefore, the pressure difference between the two points is 4000 N/m². Option D is the correct answer."
+        },
+        {
+          "letter": "B",
+          "text": "9000 N/m2",
+          "isCorrect": false,
+          "explanation": "According to Bernoulli's equation, the pressure difference between two points in a fluid is related to the change in velocity of the fluid and the density of the fluid.The equation is given as:P1 + (1/2)ρv1² = P2 + (1/2)ρv2²where P1 and P2 are the pressures at two different points in the pipe, v1 and v2 are the velocities at those points, and ρ is the density of the fluid.In this problem, we are given that the change in potential energy is zero, which means that we can neglect the potential energy term in Bernoulli's equation.Also, the density of the fluid is given as 1000 kg/m³.Using Bernoulli's equation, we can write:P1 + (1/2)ρv1² = P2 + (1/2)ρv2²Since the change in potential energy is zero, the pressure difference between the two points is given by:ΔP = P1 - P2 = (1/2)ρ(v2² - v1²)Substituting the given values, we get:ΔP = (1/2) x 1000 x (3² - 1²)ΔP = 4000 N/m²Therefore, the pressure difference between the two points is 4000 N/m². Option D is the correct answer."
+        },
+        {
+          "letter": "C",
+          "text": "8000 N/m2",
+          "isCorrect": false,
+          "explanation": "According to Bernoulli's equation, the pressure difference between two points in a fluid is related to the change in velocity of the fluid and the density of the fluid.The equation is given as:P1 + (1/2)ρv1² = P2 + (1/2)ρv2²where P1 and P2 are the pressures at two different points in the pipe, v1 and v2 are the velocities at those points, and ρ is the density of the fluid.In this problem, we are given that the change in potential energy is zero, which means that we can neglect the potential energy term in Bernoulli's equation.Also, the density of the fluid is given as 1000 kg/m³.Using Bernoulli's equation, we can write:P1 + (1/2)ρv1² = P2 + (1/2)ρv2²Since the change in potential energy is zero, the pressure difference between the two points is given by:ΔP = P1 - P2 = (1/2)ρ(v2² - v1²)Substituting the given values, we get:ΔP = (1/2) x 1000 x (3² - 1²)ΔP = 4000 N/m²Therefore, the pressure difference between the two points is 4000 N/m². Option D is the correct answer."
+        },
+        {
+          "letter": "D",
+          "text": "4000 N/m2",
+          "isCorrect": true,
+          "explanation": "According to Bernoulli's equation, the pressure difference between two points in a fluid is related to the change in velocity of the fluid and the density of the fluid.The equation is given as:P1 + (1/2)ρv1² = P2 + (1/2)ρv2²where P1 and P2 are the pressures at two different points in the pipe, v1 and v2 are the velocities at those points, and ρ is the density of the fluid.In this problem, we are given that the change in potential energy is zero, which means that we can neglect the potential energy term in Bernoulli's equation.Also, the density of the fluid is given as 1000 kg/m³.Using Bernoulli's equation, we can write:P1 + (1/2)ρv1² = P2 + (1/2)ρv2²Since the change in potential energy is zero, the pressure difference between the two points is given by:ΔP = P1 - P2 = (1/2)ρ(v2² - v1²)Substituting the given values, we get:ΔP = (1/2) x 1000 x (3² - 1²)ΔP = 4000 N/m²Therefore, the pressure difference between the two points is 4000 N/m². Option D is the correct answer."
+        }
+      ],
+      "explanation": "According to Bernoulli's equation, the pressure difference between two points in a fluid is related to the change in velocity of the fluid and the density of the fluid.The equation is given as:P1 + (1/2)ρv1² = P2 + (1/2)ρv2²where P1 and P2 are the pressures at two different points in the pipe, v1 and v2 are the velocities at those points, and ρ is the density of the fluid.In this problem, we are given that the change in potential energy is zero, which means that we can neglect the potential energy term in Bernoulli's equation.Also, the density of the fluid is given as 1000 kg/m³.Using Bernoulli's equation, we can write:P1 + (1/2)ρv1² = P2 + (1/2)ρv2²Since the change in potential energy is zero, the pressure difference between the two points is given by:ΔP = P1 - P2 = (1/2)ρ(v2² - v1²)Substituting the given values, we get:ΔP = (1/2) x 1000 x (3² - 1²)ΔP = 4000 N/m²Therefore, the pressure difference between the two points is 4000 N/m². Option D is the correct answer.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "An object having spherical shape of radius ‘r’ experiences a retarding force F from a fluid of coefficient of viscosity ‘η’ when moving through the fluid with speed ‘v’. What is the ratio of retarding force to speed?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2011,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6πη r2",
+          "isCorrect": false,
+          "explanation": "Incorrect. The correct formula for the retarding force F is 6πηrv, not 6πηr2."
+        },
+        {
+          "letter": "B",
+          "text": "6πη/r2",
+          "isCorrect": false,
+          "explanation": "Incorrect. The correct formula for the retarding force F is 6πηrv, not 6πηr2."
+        },
+        {
+          "letter": "C",
+          "text": "6πη r",
+          "isCorrect": true,
+          "explanation": "Retarding force=6πη r v. ratio of retarding force to speed (v) would be (6πη r v)/v which equals 6πη r."
+        },
+        {
+          "letter": "D",
+          "text": "6πη/r",
+          "isCorrect": false,
+          "explanation": "Incorrect. The correct formula for the retarding force F is 6πηrv, not 6πηr2."
+        }
+      ],
+      "explanation": "Retarding force=6πη r v. ratio of retarding force to speed (v) would be (6πη r v)/v which equals 6πη r.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "When the drag force is equal to the weight of the droplet, the droplet will fall with:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2011,
+      "options": [
+        {
+          "letter": "A",
+          "text": "High Speed",
+          "isCorrect": false,
+          "explanation": "Incorrect. If drag force equals weight, it's terminal velocity, balancing forces. High speed implies no drag balance."
+        },
+        {
+          "letter": "B",
+          "text": "Low Speed",
+          "isCorrect": false,
+          "explanation": "Incorrect. Terminal velocity achieved when weight = drag. Low speed doesn't account for balance."
+        },
+        {
+          "letter": "C",
+          "text": "Certain acceleration",
+          "isCorrect": false,
+          "explanation": "Incorrect. Terminal velocity reached, acceleration stops. Balanced forces negate constant acceleration."
+        },
+        {
+          "letter": "D",
+          "text": "Constant Speed",
+          "isCorrect": true,
+          "explanation": "When the downward (weight) and upward (drag) forces are equal in a falling body, the body is said to be in terminal velocity, which means that the body falls with a constant speed since there is no resultant force acting on it."
+        }
+      ],
+      "explanation": "When the downward (weight) and upward (drag) forces are equal in a falling body, the body is said to be in terminal velocity, which means that the body falls with a constant speed since there is no resultant force acting on it.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is the best graphical representation between drag force ‘F’ on a spherical object of radius ‘r’ and its speed ‘v’ through a fluid of viscosity ‘η’?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2014,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": true,
+          "explanation": "The equation of stokes law (given below) shows that force and velocity are directly proportional to each other for a sphere with constant radius 'r' moving through a liquid of viscosity n. Hence the graph must be a straight line passing through the originF = 6πιην"
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": "B) shows an inverse relationship between drag force and speed, where the drag force decreases as the speed increases. This contradicts Stokes' Law."
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": "C) shows a constant drag force regardless of the speed of the object. This also contradicts Stokes' Law, which clearly indicates that drag force depends on speed."
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": false,
+          "explanation": "D) shows an infinite drag force at a specific speed and no drag force at other speeds, which is not physically possible according to Stokes' Law for a moving object."
+        }
+      ],
+      "explanation": "The equation of stokes law (given below) shows that force and velocity are directly proportional to each other for a sphere with constant radius 'r' moving through a liquid of viscosity n. Hence the graph must be a straight line passing through the origin F = 6πιην",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the speed of an incompressible non-viscous liquid flowing out from ‘B’ containedin a container as shown in the figure? Where AB = 5 m and g = 10 m/s2.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2014,
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 m/s",
+          "isCorrect": false,
+          "explanation": "v2=u2+2asv2=0+2(5)(10)v2=100v= 10m/s"
+        },
+        {
+          "letter": "B",
+          "text": "10 m/s",
+          "isCorrect": true,
+          "explanation": "v2=u2+2asv2=0+2(5)(10)v2=100v= 10m/sAs it is a numerical, it can have only one possible answer."
+        },
+        {
+          "letter": "C",
+          "text": "2 m/s",
+          "isCorrect": false,
+          "explanation": "v2=u2+2asv2=0+2(5)(10)v2=100v= 10m/s"
+        },
+        {
+          "letter": "D",
+          "text": "50 m/s",
+          "isCorrect": false,
+          "explanation": "v2=u2+2asv2=0+2(5)(10)v2=100v= 10m/s"
+        }
+      ],
+      "explanation": "v2=u2+2as v2=0+2(5)(10) v2=100 v= 10m/s As it is a numerical, it can have only one possible answer.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "For the horizontal pipe, the fluid inside it is flowing horizontally then Bernoulli’s equation can be written as",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2014,
+      "options": [
+        {
+          "letter": "A",
+          "text": "P + ρv = constant",
+          "isCorrect": false,
+          "explanation": "This option incorrectly simplifies the velocity term and omits the kinetic energy component, which should be 1/2ρv2."
+        },
+        {
+          "letter": "B",
+          "text": "2P + ρv2 = constant",
+          "isCorrect": false,
+          "explanation": "This option incorrectly doubles the pressure term and uses an incomplete expression for the kinetic energy term."
+        },
+        {
+          "letter": "C",
+          "text": "P + 1/2ρv2 = constant",
+          "isCorrect": true,
+          "explanation": "This is the correct form of Bernoulli's equation for a horizontal pipe, where the gravitational potential energy term is eliminated."
+        },
+        {
+          "letter": "D",
+          "text": "2P + 2ρv2 = constant",
+          "isCorrect": false,
+          "explanation": "This option incorrectly doubles both the pressure and kinetic energy terms, which is not supported by Bernoulli's equation."
+        }
+      ],
+      "explanation": "In a horizontal pipe, the fluid's height does not change, so the gravitational potential energy term in Bernoulli's equation is zero. Thus, the equation simplifies to P + 1/2ρv2 = constant, where P is the pressure and 1/2ρv2 is the kinetic energy per unit volume. Option A and D incorrectly modify the coefficients, and Option B improperly simplifies the velocity term, leading to inaccurate representations of the equation.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Stokes' Law is given as:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2013,
+      "options": [
+        {
+          "letter": "A",
+          "text": "F = 6πηr2v",
+          "isCorrect": false,
+          "explanation": "This option incorrectly includes an extra radius factor (r2), which does not align with Stokes' Law."
+        },
+        {
+          "letter": "B",
+          "text": "F = 6πηrv",
+          "isCorrect": true,
+          "explanation": "This is the correct formula for Stokes' Law, which states that the drag force is proportional to the viscosity (η), radius (r), and velocity (v) of the sphere."
+        },
+        {
+          "letter": "C",
+          "text": "F = 6πηrv-1",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests an inverse relationship with velocity, which contradicts Stokes' Law."
+        },
+        {
+          "letter": "D",
+          "text": "F = 6π2ηr3v",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it introduces additional powers of π and r that do not appear in Stokes' Law."
+        }
+      ],
+      "explanation": "Stokes' law is a law in physics that states that the force that resists a sphere's fall in a viscous fluid is directly proportional to the velocity of the sphere, the radius of the sphere, and the viscosity of the fluid i.e. 6πηrv",
+      "explanationImage": null,
+      "hints": [
+        "drag force",
+        "viscous fluid",
+        "spherical object"
+      ]
+    },
+    {
+      "text": "The product of cross-sectional area of the pipe and the fluid speed at any point along the pipe:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2013,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Remains constant",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The principle of continuity, based on the conservation of mass, states that for an incompressible fluid flowing in a pipe, the product of the cross-sectional area and the fluid speed remains constant."
+        },
+        {
+          "letter": "B",
+          "text": "Is zero",
+          "isCorrect": false,
+          "explanation": "Incorrect. If the product of the cross-sectional area and the fluid speed were zero, it would imply no flow, which contradicts the scenario described."
+        },
+        {
+          "letter": "C",
+          "text": "Exponentially increases",
+          "isCorrect": false,
+          "explanation": "Incorrect. The continuity equation implies a constant product, not an exponential increase."
+        },
+        {
+          "letter": "D",
+          "text": "Exponentially decreases",
+          "isCorrect": false,
+          "explanation": "Incorrect. The continuity equation results in a constant product, not an exponential decrease."
+        }
+      ],
+      "explanation": "The product of cross-sectional area of the pipe and the velocity of the fluid at any given point along the pipe is constant and is called the continuity equation A1v1 = A2v2According to the continuity equation, the mass flow rate of an incompressible fluid remains constant along a streamline, which implies that the product of the cross-sectional area and the fluid speed remains constant.",
+      "explanationImage": null,
+      "hints": [
+        "cross-sectional area",
+        "fluid speed",
+        "continuity equation"
+      ]
+    },
+    {
+      "text": "A small leak is developed in a large water storage tank. If the height of water above the leakage is 10 m, then find the speed of efflux through the leak:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2013,
+      "options": [
+        {
+          "letter": "A",
+          "text": "14 m/sec",
+          "isCorrect": true,
+          "explanation": "Height = h = 10 m Acceleration due to gravity = g = 9.8 m/s² Speed = v = ? Formula: The speed of efflux through the leak can be determined using Torricelli's law, which states that the speed of efflux of a fluid through an opening is given by the equation: v = √2gh = √2 × 9.8 × 10 v = 14 m/s"
+        },
+        {
+          "letter": "B",
+          "text": "10 m/sec",
+          "isCorrect": false,
+          "explanation": "As per the calculation, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "9.8 m/sec",
+          "isCorrect": false,
+          "explanation": "As per the calculation, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "20 m/sec",
+          "isCorrect": false,
+          "explanation": "As per the calculation, this option is incorrect."
+        }
+      ],
+      "explanation": "Height = h = 10 m Acceleration due to gravity = g = 9.8 m/s² Speed = v = ? Formula: The speed of efflux through the leak can be determined using Torricelli's law, which states that the speed of efflux of a fluid through an opening is given by the equation: v = √2gh = √2 × 9.8 × 10 v = 14 m/s",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Pressure of a gas is directly proportional to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2017,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Average K.E. of its molecules",
+          "isCorrect": false,
+          "explanation": "The pressure of a gas is directly proportional to the average translational kinetic energy (K.E.) of its molecules.This is based on the kinetic molecular theory of gases, which states that:1. Gas molecules are in constant random motion.2. The molecules collide with each other and the container walls.3. The collisions with the walls cause the pressure exerted by the gas.The average translational kinetic energy of the molecules is directly related to the temperature of the gas. As the temperature increases, the molecules move faster and have more kinetic energy.The pressure (P) of a gas is directly proportional to the average translational kinetic energy (K.E.) of its molecules, which can be expressed mathematically as:P ∝ K.E.orP = (2/3) × (K.E.) × (density of the gas)This means that if the average translational kinetic energy of the molecules increases, the pressure of the gas also increases.This relationship is a fundamental principle in the behavior of gases and is a key concept in understanding the properties of gases."
+        },
+        {
+          "letter": "B",
+          "text": "Average vibrational K.E. of its molecules",
+          "isCorrect": false,
+          "explanation": "The pressure of a gas is directly proportional to the average translational kinetic energy (K.E.) of its molecules.This is based on the kinetic molecular theory of gases, which states that:1. Gas molecules are in constant random motion.2. The molecules collide with each other and the container walls.3. The collisions with the walls cause the pressure exerted by the gas.The average translational kinetic energy of the molecules is directly related to the temperature of the gas. As the temperature increases, the molecules move faster and have more kinetic energy.The pressure (P) of a gas is directly proportional to the average translational kinetic energy (K.E.) of its molecules, which can be expressed mathematically as:P ∝ K.E.orP = (2/3) × (K.E.) × (density of the gas)This means that if the average translational kinetic energy of the molecules increases, the pressure of the gas also increases.This relationship is a fundamental principle in the behavior of gases and is a key concept in understanding the properties of gases."
+        },
+        {
+          "letter": "C",
+          "text": "Average translational K.E. of its molecules",
+          "isCorrect": true,
+          "explanation": "The pressure of a gas is directly proportional to the average translational kinetic energy (K.E.) of its molecules.This is based on the kinetic molecular theory of gases, which states that:1. Gas molecules are in constant random motion.2. The molecules collide with each other and the container walls.3. The collisions with the walls cause the pressure exerted by the gas.The average translational kinetic energy of the molecules is directly related to the temperature of the gas. As the temperature increases, the molecules move faster and have more kinetic energy.The pressure (P) of a gas is directly proportional to the average translational kinetic energy (K.E.) of its molecules, which can be expressed mathematically as:P ∝ K.E.orP = (2/3) × (K.E.) × (density of the gas)This means that if the average translational kinetic energy of the molecules increases, the pressure of the gas also increases.This relationship is a fundamental principle in the behavior of gases and is a key concept in understanding the properties of gases."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": false,
+          "explanation": "The pressure of a gas is directly proportional to the average translational kinetic energy (K.E.) of its molecules.This is based on the kinetic molecular theory of gases, which states that:1. Gas molecules are in constant random motion.2. The molecules collide with each other and the container walls.3. The collisions with the walls cause the pressure exerted by the gas.The average translational kinetic energy of the molecules is directly related to the temperature of the gas. As the temperature increases, the molecules move faster and have more kinetic energy.The pressure (P) of a gas is directly proportional to the average translational kinetic energy (K.E.) of its molecules, which can be expressed mathematically as:P ∝ K.E.orP = (2/3) × (K.E.) × (density of the gas)This means that if the average translational kinetic energy of the molecules increases, the pressure of the gas also increases.This relationship is a fundamental principle in the behavior of gases and is a key concept in understanding the properties of gases."
+        }
+      ],
+      "explanation": "The pressure of a gas is directly proportional to the average translational kinetic energy (K.E.) of its molecules.This is based on the kinetic molecular theory of gases, which states that:1. Gas molecules are in constant random motion.2. The molecules collide with each other and the container walls.3. The collisions with the walls cause the pressure exerted by the gas.The average translational kinetic energy of the molecules is directly related to the temperature of the gas. As the temperature increases, the molecules move faster and have more kinetic energy.The pressure (P) of a gas is directly proportional to the average translational kinetic energy (K.E.) of its molecules, which can be expressed mathematically as:P ∝ K.E.orP = (2/3) × (K.E.) × (density of the gas)This means that if the average translational kinetic energy of the molecules increases, the pressure of the gas also increases.This relationship is a fundamental principle in the behavior of gases and is a key concept in understanding the properties of gases.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A thin horizontal plate of area 0.036 m2 is beneath the surface of a liquid of density 930 kg m−3. The force on one side of the plate due to the pressure of the liquid is 290 N. What is the depth of the plate beneath the surface of the liquid?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.88 m",
+          "isCorrect": true,
+          "explanation": "This is the correct depth. Using the formula for pressure, P = hρg, and knowing that pressure can also be expressed as P = F / A, we can solve for h. Substituting the given values: h = F / (Aρg) = 290 / [0.036 (930) (9.81)] = 0.88 m."
+        },
+        {
+          "letter": "B",
+          "text": "1.1 m",
+          "isCorrect": false,
+          "explanation": "This depth is incorrect. It results from miscalculating the formula or substituting incorrect values in the equation."
+        },
+        {
+          "letter": "C",
+          "text": "1.8 m",
+          "isCorrect": false,
+          "explanation": "This depth is too large. It indicates an error in using the formula or misapplying the values given for force, area, or density."
+        },
+        {
+          "letter": "D",
+          "text": "8.7 m",
+          "isCorrect": false,
+          "explanation": "This depth is excessively large, showing a significant miscalculation in the use of the formula or values."
+        }
+      ],
+      "explanation": "Pressure P = hρgwhere h is the depth, ρ is the density of the liquid and g is the acceleration of free fall.But,Pressure P = Force / Area = F / ATherefore,Depth h = P / ρg = F / (Aρg) = 290 / [0.036 (930) (9.81)] = 0.88m",
+      "explanationImage": null,
+      "hints": [
+        "force",
+        "pressure",
+        "depth"
+      ]
+    },
+    {
+      "text": "The speed v of a liquid leaving a tube depends on the change in pressure ΔP and the density ρ of the liquid. The speed is given by the equation. where k is a constant that has no units. What is the value of n?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/2",
+          "isCorrect": true,
+          "explanation": "This is the correct option. The equation for the speed of fluid flow, derived from Bernoulli's principle, is v = k(ΔP/ρ)1/2, indicating that the exponent n is 1/2."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it assumes a direct proportionality, which is not consistent with Bernoulli's equation where the speed is proportional to the square root of the pressure change divided by density."
+        },
+        {
+          "letter": "C",
+          "text": "3/2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it overestimates the relationship between speed and the physical parameters. The speed does not increase at this rate according to Bernoulli's principle."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it suggests a quadratic relationship, which is not supported by the principles of fluid dynamics where speed is proportional to the square root of the pressure change divided by density."
+        }
+      ],
+      "explanation": "Explanation is given in image.",
+      "explanationImage": null,
+      "hints": [
+        "speed",
+        "pressure",
+        "density"
+      ]
+    },
+    {
+      "text": "The viscous drag on small spherical body (moving with slow speed v) is propotional to",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "v",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Square root of v",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "1/square root of v",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "v2",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Formula for viscous drag force is Fs = 6πrηv. Form the given formula it can be seen that keeping r and η constant for a specific object in a fluid, F is proportional to v. Option A is hence the only correct relation. Option B, C & D are wrong relations.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "An object moving through a fluid experiences a retarding force known as drag force. The drag force _ as the speed of the object _",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Remains Constant--- Increases",
+          "isCorrect": false,
+          "explanation": "Incorrect. As the speed of the object increases the drag on it also increase"
+        },
+        {
+          "letter": "B",
+          "text": "Decreases _ Increases",
+          "isCorrect": false,
+          "explanation": "Incorrect. As the speed of the object increases, the drag force generally increases due to a larger surface area interacting with the fluid, causing more resistance."
+        },
+        {
+          "letter": "C",
+          "text": "Increases _ Decreases",
+          "isCorrect": false,
+          "explanation": "Incorrect. The drag force generally increases as the speed of the object decreases because at lower speeds, the object spends more time interacting with the fluid, leading to greater resistance."
+        },
+        {
+          "letter": "D",
+          "text": "Increases_ Increases",
+          "isCorrect": true,
+          "explanation": "As the speed of the object increases, the drag force also increases due to greater fluid interaction, resulting in higher resistance."
+        }
+      ],
+      "explanation": "Drag is a force acting opposite to the relative motion of any object moving with respect to a surrounding fluid.You feel the drag force when you move your hand through the water. You might also feel it if you move your hand during a strong wind. The faster you move your hand, the harder it is to move.Drag force FD is propotional to the square of the speed of the objects. Mathematically,FD = 1/2 C p Av2,Drag force is directly proportional to the square of velocity, so as the speed of the body increases drag force increases.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "When a heavy coin fallsa short distance towards the ground it does not reach terminal velocity. Why is this so?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The coin has not hit the ground",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "The weight of coin is equal to air resistance",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "The weight of coin increases as air resistance increases",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "The weight of coin is more than air resistance",
+          "isCorrect": true,
+          "explanation": "In the case of a heavy coin falling a short distance towards the ground, it does not reach terminal velocity because the weight of the coin is greater than the air resistance it experiences. As the coin falls, the force of gravity acting on it (weight) is larger than the opposing force of air resistance. As a result, the net force on the coin remains non-zero, and it continues to accelerate until it hits the ground."
+        }
+      ],
+      "explanation": "In the case of a heavy coin falling a short distance towards the ground, it does not reach terminal velocity because the weight of the coin is greater than the air resistance it experiences. As the coin falls, the force of gravity acting on it (weight) is larger than the opposing force of air resistance. As a result, the net force on the coin remains non-zero, and it continues to accelerate until it hits the ground.",
+      "explanationImage": null,
+      "hints": []
+    }
+  ]
+}

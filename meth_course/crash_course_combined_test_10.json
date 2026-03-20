@@ -1,0 +1,2364 @@
+{
+  "questions": [
+    {
+      "text": "A semiconductor photodiode is a:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2011,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reverse-biased junction diode",
+          "isCorrect": true,
+          "explanation": "A semiconductor photodiode functions as a reverse-biased junction diode. It is designed to operate in reverse bias to effectively detect incident light. In this mode, the diode has a wide depletion region that facilitates the generation and collection of electron-hole pairs as a photocurrent, directly proportional to the intensity of the light."
+        },
+        {
+          "letter": "B",
+          "text": "Forward-biased junction diode",
+          "isCorrect": false,
+          "explanation": "A forward-biased junction diode allows current to flow easily in the forward direction, which is not suitable for the operation of a photodiode. Photodiodes require reverse bias to enhance their sensitivity to light by expanding the depletion region."
+        },
+        {
+          "letter": "C",
+          "text": "Half wave rectifier",
+          "isCorrect": false,
+          "explanation": "A half wave rectifier is a circuit that converts only the positive half of an AC input signal into DC. It is not designed for light detection, nor does it involve reverse-biased operation typical of a semiconductor photodiode."
+        },
+        {
+          "letter": "D",
+          "text": "Full wave rectifier",
+          "isCorrect": false,
+          "explanation": "A full wave rectifier converts both halves of an AC input signal into DC using a bridge rectifier. It does not function as a light-sensitive component like a photodiode, which operates in reverse bias."
+        },
+        {
+          "letter": "E",
+          "text": "Transistor",
+          "isCorrect": false,
+          "explanation": "A transistor is a semiconductor device used for amplification and switching. It is fundamentally different from a photodiode, which is specifically designed for light detection and operates in reverse bias."
+        }
+      ],
+      "explanation": "A semiconductor photodiode is a reverse-biased junction diode. In reverse bias, the photodiode's depletion region widens, allowing for efficient generation and collection of charge carriers (electron-hole pairs) when exposed to light. This configuration enables the photodiode to operate in the photoconductive mode, providing a fast response to changes in light intensity.The incorrect options do not describe how photodiodes function: Forward bias (Option B) is inappropriate for photodiodes as it limits sensitivity; half wave (Option C) and full wave rectifiers (Option D) are rectification circuits and unrelated to photodetection; and transistors (Option E) serve different functions such as amplification and switching, not light detection.",
+      "explanationImage": null,
+      "hints": [
+        "semiconductor",
+        "photodiode",
+        "reverse bias"
+      ]
+    },
+    {
+      "text": "A full wave rectifier is operating from 50 Hz mains, the fundamental frequency of ripple will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 Hz",
+          "isCorrect": true,
+          "explanation": "In a full-wave rectifier circuit operating from a 50 Hz mains frequency, the ripple frequency refers to the frequency at which the output waveform contains variations due to the rectification process.In a full-wave rectifier, both halves of the input waveform are rectified, resulting in a smoother output compared to a half-wave rectifier.Since each half-cycle of the input waveform produces a ripple in the output waveform, the ripple frequency in a full-wave rectifier is twice the frequency of the input mains frequency.Therefore, in this case, the ripple frequency would be 2×50Hz=100Hz."
+        },
+        {
+          "letter": "B",
+          "text": "25Hz",
+          "isCorrect": false,
+          "explanation": "This option suggests a ripple frequency of 25 Hz.However, in a full-wave rectifier, the ripple frequency is twice the mains frequency.Therefore, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "50Hz",
+          "isCorrect": false,
+          "explanation": "This option suggests a ripple frequency equal to the mains frequency.However, in a full-wave rectifier, the ripple frequency is twice the mains frequency.Therefore, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "200Hz",
+          "isCorrect": false,
+          "explanation": "This option suggests a ripple frequency of 200 Hz.However, in a full-wave rectifier, the ripple frequency is twice the mains frequency.Therefore, this option is incorrect."
+        }
+      ],
+      "explanation": "In a full wave rectifier, we get the output for the positive and negative cycle of input a.c. Hence the frequency of the ripple of the output is twice than that of input a.c. i.e. 100Hz",
+      "explanationImage": null,
+      "hints": [
+        "full wave rectifie",
+        "50 Hz",
+        "fundamental frequency"
+      ]
+    },
+    {
+      "text": "The majority of charge carriers in P-type semiconductors are:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Holes",
+          "isCorrect": true,
+          "explanation": "In P-type semiconductors, the majority charge carriers are \"holes.\"A hole is essentially an empty space in the crystal lattice where an electron could exist but does not.When a dopant with three valence electrons, such as boron or aluminum, is introduced into a semiconductor material like silicon or germanium, it creates \"holes\" in the crystal structure.These holes act as positive charge carriers and contribute to the conductivity of the semiconductor.Therefore, in P-type semiconductors, the majority charge carriers are holes."
+        },
+        {
+          "letter": "B",
+          "text": "Electrons",
+          "isCorrect": false,
+          "explanation": "While there are still some free electrons present in P-type semiconductors, they are not the majority charge carriers.In P-type semiconductors, the holes created by the dopant are the dominant charge carriers.Electrons can also contribute to conductivity in P-type semiconductors, but they are considered minority carriers."
+        },
+        {
+          "letter": "C",
+          "text": "Neutrons",
+          "isCorrect": false,
+          "explanation": "Neutrons are electrically neutral particles found in the nucleus of atoms.They do not contribute to the charge transport in semiconductors.Neutrons play a role in determining the atomic structure and stability of nuclei but are not involved in semiconductor conductivity."
+        },
+        {
+          "letter": "D",
+          "text": "Protons",
+          "isCorrect": false,
+          "explanation": "Protons are positively charged particles found in the nucleus of atoms.They do not contribute to the charge transport in semiconductors.Protons are involved in determining the atomic structure and stability of nuclei but are not involved in semiconductor conductivity."
+        }
+      ],
+      "explanation": "In a p-type semiconductor, holes are the majority charge carriers and electrons are minority charge carriers. So, holes are in larger numbers and electrons in smaller numbers.",
+      "explanationImage": null,
+      "hints": [
+        "majority",
+        "charge carriers",
+        "P-type semiconductors"
+      ]
+    },
+    {
+      "text": "The electron volt is the unit of _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electric current",
+          "isCorrect": false,
+          "explanation": "Electric current has a unit of ampere A, which is not present in the above calculation; hence, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Electric potential",
+          "isCorrect": false,
+          "explanation": "Electric potential has a unit of volts (V, which is not present in the above calculation; hence, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Electric energy",
+          "isCorrect": true,
+          "explanation": "The unit of electric energy is J, which is similar to the above equation. Hence, this option is the correct one."
+        },
+        {
+          "letter": "D",
+          "text": "Electric flux",
+          "isCorrect": false,
+          "explanation": "The unit of electric flux is J/C, which is different from the equation. Hence, the option is incorrect."
+        }
+      ],
+      "explanation": "1 eV = 1.6 x 10-19 C x 1V1 eV = 1.6 x 10-19 J (C.V = J)",
+      "explanationImage": null,
+      "hints": [
+        "electron volt",
+        "unit"
+      ]
+    },
+    {
+      "text": "Full wave bridge rectifier uses:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "One diode",
+          "isCorrect": false,
+          "explanation": "A full wave rectifier cannot be implemented using only one diode. A diode is a semiconductor device that allows current to flow in one direction and blocks it in the opposite direction. For a full wave rectification, which means converting an AC (alternating current) signal into a pulsating DC (direct current) signal, we need to utilize both the positive and negative cycles of the AC signal. A single diode can only rectify either the positive or the negative half-cycle, not both."
+        },
+        {
+          "letter": "B",
+          "text": "Two diodes",
+          "isCorrect": false,
+          "explanation": "A full wave rectifier typically uses two diodes arranged in a bridge configuration called a \"bridge rectifier\" or \"full-wave bridge rectifier.\" This configuration allows both the positive and negative halves of the AC signal to be rectified, resulting in a pulsating DC output."
+        },
+        {
+          "letter": "C",
+          "text": "Three diodes",
+          "isCorrect": false,
+          "explanation": "A configuration with three diodes cannot produce full wave rectification. While it is possible to design various rectifier circuits with three diodes (such as center-tapped rectifiers), these configurations typically provide half-wave rectification rather than full wave."
+        },
+        {
+          "letter": "D",
+          "text": "Four diodes",
+          "isCorrect": true,
+          "explanation": "A full wave rectifier generally uses four diodes arranged in a bridge configuration (bridge rectifier). These four diodes allow both halves of the AC input signal to be rectified, resulting in a smoother pulsating DC output compared to half-wave rectifiers."
+        }
+      ],
+      "explanation": "Full wave bridge rectifier uses four diodes. However, centre tap transformer uses two diodes.",
+      "explanationImage": null,
+      "hints": [
+        "Full wave",
+        "bridge rectifier"
+      ]
+    },
+    {
+      "text": "A half-wave rectifier has diodes:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": true,
+          "explanation": "A half-wave rectifier has one diode.A half-wave rectifier is a circuit used to convert an alternating current (AC) signal into a pulsating direct current (DC) signal. It uses a single diode to achieve this rectification process.Therefore, the correct answer is \"1\" diode, as a half-wave rectifier circuit requires only a single diode to perform the rectification process. The other options (2, 3, and 4) are incorrect because they do not represent the correct number of diodes used in a half-wave rectifier circuit."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A half-wave rectifier typically uses only one diode."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as well. A half-wave rectifier does not require two diodes. It utilizes only one diode to achieve the rectification process."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect. A half-wave rectifier does not involve four diodes. The use of multiple diodes in a rectifier circuit is more commonly associated with full-wave rectifiers."
+        }
+      ],
+      "explanation": "Only one diode is needed in the half-wave rectifier. This diode limits the current flow in one direction, which means that only half of the AC waveform can pass through the diode.",
+      "explanationImage": null,
+      "hints": [
+        "half-wave rectifier",
+        "diodes"
+      ]
+    },
+    {
+      "text": "The number of diodes in a center-tapped full-wave rectifier is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "A center-tapped full-wave rectifier is a rectifier that uses a center-tapped transformer to convert AC into DC. It has the following components: an AC source, a center-tapped transformer, two diodes, and a load resistor."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "A center-tapped full-wave rectifier is a rectifier that uses a center-tapped transformer to convert AC into DC. It has the following components: an AC source, a center-tapped transformer, two diodes, and a load resistor."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "A center-tapped full-wave rectifier is a rectifier that uses a center-tapped transformer to convert AC into DC. It has the following components: an AC source, a center-tapped transformer, two diodes, and a load resistor."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "A center-tapped full-wave rectifier is a rectifier that uses a center-tapped transformer to convert AC into DC. It has the following components: an AC source, a center-tapped transformer, two diodes, and a load resistor."
+        }
+      ],
+      "explanation": "A centre-tapped full-wave rectifier is a rectifier that uses a centre-tapped transformer to convert AC into DC. It has the following components: an AC source, a centre-tapped transformer, two diodes, and a load resistor.",
+      "explanationImage": null,
+      "hints": [
+        "number of diodes",
+        "center-tapped",
+        "full-wave rectifier"
+      ]
+    },
+    {
+      "text": "In half-wave rectification, the output DC voltage is obtained across the load for _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The positive half cycle of input AC",
+          "isCorrect": true,
+          "explanation": "In half-wave rectification:The diode conducts only during one half cycle of the input AC (the positive half if diode is forward-biased).Current flows through the load only in that half cycle.The other half cycle (negative half) is blocked.Therefore, the output DC voltage is obtained across the load for only one half cycle of the input AC (the positive half cycle, if connected in the usual way)."
+        },
+        {
+          "letter": "B",
+          "text": "The negative half cycle of input AC",
+          "isCorrect": false,
+          "explanation": "During the negative half cycle of the input AC voltage, the diode in the rectifier becomes reverse-biased and does not conduct. This prevents current from flowing through the load in the reverse direction, and as a result, no output DC voltage is generated across the load during the negative half cycle."
+        },
+        {
+          "letter": "C",
+          "text": "The positive and negative half cycles of input AC",
+          "isCorrect": false,
+          "explanation": "This statement is not correct. In half-wave rectification, only one half of the input AC cycle (either positive or negative) is rectified to produce the output DC voltage. The other half is not utilized, and no output voltage is generated during that period."
+        },
+        {
+          "letter": "D",
+          "text": "Either positive or negative half cycle of input",
+          "isCorrect": false,
+          "explanation": "In half-wave rectification: The diode conducts only during one half cycle of the input AC (the positive half if diode is forward-biased). Current flows through the load only in that half cycle. The other half cycle (negative half) is blocked."
+        }
+      ],
+      "explanation": "In half-wave rectification, the output DC voltage is obtained across the load for only half of the input AC cycle. Specifically, it only appears during the positive (or sometimes the negative) half-cycle of the AC input, depending on the orientation of the diode",
+      "explanationImage": null,
+      "hints": [
+        "half-wave rectification",
+        "output DC voltage"
+      ]
+    },
+    {
+      "text": "A diode works in _ bias for first cycle of rectification.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Forward",
+          "isCorrect": true,
+          "explanation": "A diode works in forward bias for rectification.Rectification is the process of converting alternating current (AC) to direct current (DC). A diode is a semiconductor device that allows current to flow in one direction only. When a diode is forward biased, the current flows easily through the diode. When a diode is reverse biased, the current does not flow through the diode.In a rectifier circuit, the diode is used to allow current to flow in one direction only. This is done by applying a forward bias to the diode during the positive half-cycle of the AC input signal. The diode will then conduct current, and the output of the rectifier circuit will be a DC signal."
+        },
+        {
+          "letter": "B",
+          "text": "Reverse",
+          "isCorrect": false,
+          "explanation": "Reverse bias. In reverse bias, the current does not flow through the diode. This is not the correct bias for rectification."
+        },
+        {
+          "letter": "C",
+          "text": "Mid",
+          "isCorrect": false,
+          "explanation": "Mid bias. Mid bias is a type of bias that is neither forward bias nor reverse bias. This is not a valid bias for rectification."
+        },
+        {
+          "letter": "D",
+          "text": "Positive",
+          "isCorrect": false,
+          "explanation": "Positive bias. Positive bias is a type of bias that is similar to forward bias. However, positive bias is not the correct bias for rectification."
+        }
+      ],
+      "explanation": "Correct option is A. A diode works in forward bias for rectification. Rectification is the process of converting alternating current (AC) to direct current (DC). A diode is a semiconductor device that allows current to flow in one direction only. When a diode is forward biased, the current flows easily through the diode. When a diode is reverse biased, the current does not flow through the diode. In a rectifier circuit, the diode is used to allow current to flow in one direction only. This is done by applying a forward bias to the diode during the positive half-cycle of the AC input signal. The diode will then conduct current, and the output of the rectifier circuit will be a DC signal.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The maximum efficiency of a half-wave rectifier is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "80.6%",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the theoretical maximum efficiency of a half-wave rectifier is about 40.6%."
+        },
+        {
+          "letter": "B",
+          "text": "40.6%",
+          "isCorrect": true,
+          "explanation": "This option is correct. The maximum efficiency of a half-wave rectifier is about 40.6%, indicating that it is not very efficient at converting AC to DC."
+        },
+        {
+          "letter": "C",
+          "text": "70%",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The maximum efficiency of a half-wave rectifier is only about 40.6%, much lower than 70%."
+        },
+        {
+          "letter": "D",
+          "text": "50%",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Although closer, the maximum efficiency of a half-wave rectifier is still lower, at about 40.6%."
+        }
+      ],
+      "explanation": "The maximum efficiency of a half-wave rectifier is about 40.6%. This is because it only utilizes one half of the AC waveform, leading to significant power loss. In contrast, a full-wave rectifier uses both halves of the waveform and has a maximum efficiency of about 81.2%, which is twice that of a half-wave rectifier. The incorrect options either overestimate the efficiency or are closer but still incorrect.",
+      "explanationImage": null,
+      "hints": [
+        "maximum",
+        "efficiency",
+        "half-wave"
+      ]
+    },
+    {
+      "text": "Which of the following is not a type of rectifier?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Phase wave rectifier",
+          "isCorrect": true,
+          "explanation": "A phase wave rectifier is not a recognized type of rectifier. The commonly known types of rectifiers are full wave rectifier and half wave rectifier. A rectifier is an electronic device used to convert alternating current (AC) into direct current (DC). In a full wave rectifier, both halves of the AC waveform are utilized, while in a half wave rectifier, only one half of the AC waveform is used. The option \"none of them\" implies that none of the given options are types of rectifiers, which is incorrect since full wave and half wave rectifiers are well-known types."
+        },
+        {
+          "letter": "B",
+          "text": "Full wave",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "halfwave",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "none of them",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A phase wave rectifier is not a recognized type of rectifier. The commonly known types of rectifiers are full wave rectifier and half wave rectifier. A rectifier is an electronic device used to convert alternating current (AC) into direct current (DC). In a full wave rectifier, both halves of the AC waveform are utilized, while in a half wave rectifier, only one half of the AC waveform is used. The option \"none of them\" implies that none of the given options are types of rectifiers, which is incorrect since full wave and half wave rectifiers are well-known types.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The process of converting alternating current into direct current is called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Modulation",
+          "isCorrect": false,
+          "explanation": "Modulation is the process of converting data into radio waves by adding information to an electronic or optical carrier signal."
+        },
+        {
+          "letter": "B",
+          "text": "Amplification",
+          "isCorrect": false,
+          "explanation": "amplification is the act, or result of independently increasing some quantity, especially voltage, power or current"
+        },
+        {
+          "letter": "C",
+          "text": "Ossilation",
+          "isCorrect": false,
+          "explanation": "Oscillation is the repetitive or periodic variation, typically in time, of some measure about a central value or between two or more different states."
+        },
+        {
+          "letter": "D",
+          "text": "Rectification",
+          "isCorrect": true,
+          "explanation": "Rectification is the conversion of alternating current (AC) to direct current (DC). A half-wave rectifier is a circuit that allows only one half-cycle of the AC voltage waveform to be applied to the load, resulting in one non-alternating polarity across it."
+        }
+      ],
+      "explanation": "Rectification is the conversion of alternating current (AC) to direct current (DC). A half-wave rectifier is a circuit that allows only one half-cycle of the AC voltage waveform to be applied to the load, resulting in one non-alternating polarity across it.",
+      "explanationImage": null,
+      "hints": [
+        "process",
+        "alternating current",
+        "direct current"
+      ]
+    },
+    {
+      "text": "The ripple factor of a half-wave rectifier is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.21",
+          "isCorrect": true,
+          "explanation": "This is the correct theoretical ripple factor for a half-wave rectifier. It indicates a significant amount of ripple in the output, which is expected for a half-wave rectifier."
+        },
+        {
+          "letter": "B",
+          "text": "0.8",
+          "isCorrect": false,
+          "explanation": "This option suggests a lower ripple factor than the theoretical value for a half-wave rectifier. This might be the case if additional filtering was applied to the output."
+        },
+        {
+          "letter": "C",
+          "text": "0.6",
+          "isCorrect": false,
+          "explanation": "This option suggests an even lower ripple factor. This would indicate a more effective filtering of the output, reducing the AC component further."
+        },
+        {
+          "letter": "D",
+          "text": "0.4",
+          "isCorrect": false,
+          "explanation": "This option suggests the lowest ripple factor among the options. This would indicate very effective filtering of the output, significantly reducing the AC component."
+        }
+      ],
+      "explanation": "Ripple factor determines how well a half-wave rectifier can convert AC voltage to DC voltage. The ripple factor is a measure of the effectiveness of a power supply filter, in this case, a half-wave rectifier. It's a measure of the amount of AC component (ripple) in the output DC signal. The ripple factor is defined as the ratio of the root mean square (rms) value of the ripple voltage to the absolute value of the DC component of the output voltage.For a half-wave rectifier, the ripple factor is theoretically calculated as 1.21 (or 121% if expressed as a percentage). This is because a half-wave rectifier only allows one half of the AC signal to pass through, leading to a significant ripple in the output. Without additional information about the specific rectifier or any filtering applied, the correct answer to this question would be A) 1.21, as this is the theoretical ripple factor for a half-wave rectifier.",
+      "explanationImage": null,
+      "hints": [
+        "ripple factor",
+        "half-wave rectifier"
+      ]
+    },
+    {
+      "text": "Magnetic field strength is measured in:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wbm-1",
+          "isCorrect": false,
+          "explanation": "Wbm-1: This option suggests that magnetic field strength is measured in Wbm-1. The unit \"Wbm-1\" represents webers per meter squared, which is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Wbm-2",
+          "isCorrect": true,
+          "explanation": "Wbm-2: This option suggests that magnetic field strength is measured in Wbm-2. The unit \"Wbm-2\" represents Weber per meter square, which is correct."
+        },
+        {
+          "letter": "C",
+          "text": "Wbm2",
+          "isCorrect": false,
+          "explanation": "Wbm2: This option suggests that magnetic field strength is measured in Wbm2. The unit \"Wbm2\" represents Weber squared per meter, which is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Wb",
+          "isCorrect": false,
+          "explanation": "Wb: This option suggests that magnetic field strength is measured in Wb (weber). However, magnetic field strength is not measured in webers. Weber is the unit of magnetic flux, not magnetic field strength."
+        }
+      ],
+      "explanation": "Wbm-2: This option suggests that magnetic field strength is measured in Wbm-2. The unit \"Wbm-2\" represents webers per meter square, which is correct.",
+      "explanationImage": null,
+      "hints": [
+        "Magnetic field strength",
+        "measured"
+      ]
+    },
+    {
+      "text": "A solenoid is cut into two halves. Magnetic induction due to the same current in each half will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": 2013,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Half of the original",
+          "isCorrect": false,
+          "explanation": "The magnetic induction due to a current-carrying solenoid depends on factors such as the number of turns per unit length, the current flowing through it, and the permeability of the material within the solenoid. When a solenoid is cut into two halves, the number of turns per unit length and the current flowing through each half remain the same. Therefore, the magnetic induction due to the same current in each half will be the same as the original solenoid."
+        },
+        {
+          "letter": "B",
+          "text": "Double of the original",
+          "isCorrect": false,
+          "explanation": "The magnetic induction due to a current-carrying solenoid depends on factors such as the number of turns per unit length, the current flowing through it, and the permeability of the material within the solenoid. When a solenoid is cut into two halves, the number of turns per unit length and the current flowing through each half remain the same. Therefore, the magnetic induction due to the same current in each half will be the same as the original solenoid."
+        },
+        {
+          "letter": "C",
+          "text": "Same as original",
+          "isCorrect": true,
+          "explanation": "The magnetic induction due to a current-carrying solenoid depends on factors such as the number of turns per unit length, the current flowing through it, and the permeability of the material within the solenoid. When a solenoid is cut into two halves, the number of turns per unit length and the current flowing through each half remain the same. Therefore, the magnetic induction due to the same current in each half will be the same as the original solenoid."
+        },
+        {
+          "letter": "D",
+          "text": "Four times of the original",
+          "isCorrect": false,
+          "explanation": "The magnetic induction due to a current-carrying solenoid depends on factors such as the number of turns per unit length, the current flowing through it, and the permeability of the material within the solenoid. When a solenoid is cut into two halves, the number of turns per unit length and the current flowing through each half remain the same. Therefore, the magnetic induction due to the same current in each half will be the same as the original solenoid."
+        }
+      ],
+      "explanation": "Magnetic field due to a solenoid, B=μo n I, where n= l/N. So, if the length and number of turns become half for a solenoid, n remains the same, and thus magnetic field remains the same.",
+      "explanationImage": null,
+      "hints": [
+        "solenoid",
+        "two halves",
+        "Magnetic induction",
+        "same current",
+        "each half"
+      ]
+    },
+    {
+      "text": "A coil of 600 turns is threaded by a flux of 8x10-5 webers if this flux is reduced to 3x10-5 webers in 0.015 seconds. The average induced e.m.f. is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-2.0 volts",
+          "isCorrect": false,
+          "explanation": "As per explanation, this is incorrect.Emf = - N (dФ/dt)where number of turns are denoted by N, dФ is the change in flux and dt is the time interval.Change in flux = Final Flux - Initial FluxChange in flux = (3 × 10⁻⁵) - (8 × 10⁻⁵) WbChange in flux = - (5 × 10⁻⁵) Wbtime interval = 0.015 sectime interval = 15 × 10⁻³ secNumber of turns in coil = 600Putting all the values in formula.Emf = - 600 × (-(5 × 10⁻⁵)/15 × 10⁻³) VoltsEmf = 600 × (5 × 10⁻²/15 ) VoltsEmf = 600 × (10⁻²/3 ) VoltsEmf = 200 × 10⁻² VoltsEmf = 2 Volts"
+        },
+        {
+          "letter": "B",
+          "text": "-3.0 volts",
+          "isCorrect": false,
+          "explanation": "As per explanation, this is incorrect.Emf = - N (dФ/dt)where number of turns are denoted by N, dФ is the change in flux and dt is the time interval.Change in flux = Final Flux - Initial FluxChange in flux = (3 × 10⁻⁵) - (8 × 10⁻⁵) WbChange in flux = - (5 × 10⁻⁵) Wbtime interval = 0.015 sectime interval = 15 × 10⁻³ secNumber of turns in coil = 600Putting all the values in formula.Emf = - 600 × (-(5 × 10⁻⁵)/15 × 10⁻³) VoltsEmf = 600 × (5 × 10⁻²/15 ) VoltsEmf = 600 × (10⁻²/3 ) VoltsEmf = 200 × 10⁻² VoltsEmf = 2 Volts"
+        },
+        {
+          "letter": "C",
+          "text": "+2.0 volts",
+          "isCorrect": true,
+          "explanation": "N=600 1=810-5Wb 2=310-5WbSolution: =1-2=810-5-310-5=510-5Wb t=0.015sInduced Emf==? As, =-N/t =(-600510-5)/0.015 =2VResult: =2V"
+        },
+        {
+          "letter": "D",
+          "text": "+2.5 volts",
+          "isCorrect": false,
+          "explanation": "Emf = - N (dФ/dt)where number of turns are denoted by N, dФ is the change in flux and dt is the time interval.Change in flux = Final Flux - Initial FluxChange in flux = (3 × 10⁻⁵) - (8 × 10⁻⁵) WbChange in flux = - (5 × 10⁻⁵) Wbtime interval = 0.015 sectime interval = 15 × 10⁻³ secNumber of turns in coil = 600Putting all the values in formula.Emf = - 600 × (-(5 × 10⁻⁵)/15 × 10⁻³) VoltsEmf = 600 × (5 × 10⁻²/15 ) VoltsEmf = 600 × (10⁻²/3 ) VoltsEmf = 200 × 10⁻² VoltsEmf = 2 Volts"
+        },
+        {
+          "letter": "E",
+          "text": "+3.0 volts",
+          "isCorrect": false,
+          "explanation": "As per explanation, this is incorrect.Emf = - N (dФ/dt)where number of turns are denoted by N, dФ is the change in flux and dt is the time interval.Change in flux = Final Flux - Initial FluxChange in flux = (3 × 10⁻⁵) - (8 × 10⁻⁵) WbChange in flux = - (5 × 10⁻⁵) Wbtime interval = 0.015 sectime interval = 15 × 10⁻³ secNumber of turns in coil = 600Putting all the values in formula.Emf = - 600 × (-(5 × 10⁻⁵)/15 × 10⁻³) VoltsEmf = 600 × (5 × 10⁻²/15 ) VoltsEmf = 600 × (10⁻²/3 ) VoltsEmf = 200 × 10⁻² VoltsEmf = 2 Volts"
+        }
+      ],
+      "explanation": "Emf = - N (dФ/dt)where number of turns are denoted by N, dФ is the change in flux and dt is the time interval.Change in flux = Final Flux - Initial FluxChange in flux = (3 × 10⁻⁵) - (8 × 10⁻⁵) WbChange in flux = - (5 × 10⁻⁵) Wbtime interval = 0.015 sectime interval = 15 × 10⁻³ secNumber of turns in coil = 600Putting all the values in formula.Emf = - 600 × (-(5 × 10⁻⁵)/15 × 10⁻³) VoltsEmf = 600 × (5 × 10⁻²/15 ) VoltsEmf = 600 × (10⁻²/3 ) VoltsEmf = 200 × 10⁻² VoltsEmf = 2 Volts",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "An electron and a proton enter a magnetic field with equal velocities which one of them experiences more force:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electron",
+          "isCorrect": false,
+          "explanation": "As both proton and electron have the same velocity they will experience the same value of force."
+        },
+        {
+          "letter": "B",
+          "text": "Proton",
+          "isCorrect": false,
+          "explanation": "As both proton and electron have the same velocity they will experience the same value of force."
+        },
+        {
+          "letter": "C",
+          "text": "Both experience same force",
+          "isCorrect": true,
+          "explanation": "As both proton and electron have the same velocity they will experience the same value of force."
+        },
+        {
+          "letter": "D",
+          "text": "Cannot be predicted",
+          "isCorrect": false,
+          "explanation": "As both proton and electron have the same velocity they will experience the same value of force."
+        }
+      ],
+      "explanation": "F=q(V×B) F=qvBsin The formula infers that F∝v As both proton and electron have the same velocity they will experience the same value of force. As both have opposite charges, therefore the force being applied would be the same in magnitude but opposite in direction. In simple words both particles are deflected with the same force but in the direction opposite to each other.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A conductor of length L is moved across a magnetic field. Due to this activity, a potential difference appears across the ends of the conductor. This type of potential difference is termed as:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Self Induction",
+          "isCorrect": false,
+          "explanation": "Self-Induction: Self inductance is the induction of a voltage in a current-carrying wire when the current in the wire itself is changing. In the case of self-inductance, the magnetic field created by a changing current in the circuit itself induces a voltage in the same circuit. Therefore, the voltage is self-induced"
+        },
+        {
+          "letter": "B",
+          "text": "Mutual Induction",
+          "isCorrect": false,
+          "explanation": "Mutual Induction :When two coils are brought in proximity with each other the magnetic field in one of the coils tend to link with the other. This further leads to the generation of voltage in the second coil. This property of a coil which affects or changes the current and voltage in a secondary coil is called mutual inductance."
+        },
+        {
+          "letter": "C",
+          "text": "Motional EMF",
+          "isCorrect": true,
+          "explanation": "Motional EMF : Motional emf is the emf induced by the movement of the conductor through the magnetic field.ORAn emf induced by motion relative to a magnetic field is called a motional emf. This is represented by the equation emf = LvB, where L is length of the object moving at speed v relative to the strength of the magnetic field B."
+        },
+        {
+          "letter": "D",
+          "text": "Electrostatic potential",
+          "isCorrect": false,
+          "explanation": "Electrostatic potential : The electric potential (also called the electric field potential, potential drop, the electrostatic potential) is defined as the amount of work energy needed to move a unit of electric charge from a reference point to the specific point in an electric field."
+        }
+      ],
+      "explanation": "The correct answer is Motional EMF. When a conductor of length L moves across a magnetic field B, a potential difference appears across its ends, which is termed as motional EMF. This is induced by the movement of the conductor through the magnetic field. Self Induction and Mutual Induction involve induction of voltage in coils due to changing currents and proximity to other coils, respectively. Electrostatic potential relates to the work energy needed to move electric charge in an electric field.",
+      "explanationImage": null,
+      "hints": [
+        "conductor",
+        "magnetic field",
+        "potential difference"
+      ]
+    },
+    {
+      "text": "Magnetic flux is a scalar product of _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "B and V",
+          "isCorrect": false,
+          "explanation": "Magnetic flux (Φ) is the scalar product of magnetic field (B) and the area (A) through which the magnetic field passes. It is given by the formula: Φ = B * A. The magnetic flux is a measure of the total number of magnetic field lines passing through a surface."
+        },
+        {
+          "letter": "B",
+          "text": "B and A",
+          "isCorrect": true,
+          "explanation": "Magnetic Flux is the dot / scalar product of magnetic flux density B, and cross-sectional area of coil A. Therefore, Φ= B. A. Hence Option B is correct."
+        },
+        {
+          "letter": "C",
+          "text": "B and I",
+          "isCorrect": false,
+          "explanation": "Magnetic flux is not the scalar product of magnetic field (B) and current (I). Instead, the magnetic flux is related to the number of magnetic field lines that pass through a surface."
+        },
+        {
+          "letter": "D",
+          "text": "None of these options are correct",
+          "isCorrect": false,
+          "explanation": "This option is not correct because option b) \"B and A\" is the correct one. Magnetic flux is the scalar product of magnetic field (B) and the area (A) through which the magnetic field lines pass."
+        }
+      ],
+      "explanation": "Magnetic Flux Φ is the dot / scalar product of magnetic flux density B, and cross-sectional area of coil A. Therefore, Φ = B.A. Hence Option B is correct.",
+      "explanationImage": null,
+      "hints": [
+        "Magnetic flux",
+        "scalar product"
+      ]
+    },
+    {
+      "text": "Which one of the following is not present in the AC generator?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Armature",
+          "isCorrect": false,
+          "explanation": "The part of an AC generator in which the voltage is produced is known as an armature hence this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Magnet",
+          "isCorrect": false,
+          "explanation": "An Ac generator consists of two poles i.e is the north pole and south pole of a magnet so that we can have a uniform magnetic field hence this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Slip rings",
+          "isCorrect": false,
+          "explanation": "An electric generator has two slip rings. Hence this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Commutator",
+          "isCorrect": true,
+          "explanation": "AC generator does not have commutators. DC generators have commutators to make the current flow in one direction only."
+        }
+      ],
+      "explanation": "AC generator does not have commutators. DC generators have commutators to make the current flow in one direction only.",
+      "explanationImage": null,
+      "hints": [
+        "not",
+        "AC generator"
+      ]
+    },
+    {
+      "text": "The SI unit of magnetic induction is _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Weber",
+          "isCorrect": false,
+          "explanation": "Weber is the unit of magnetic flux."
+        },
+        {
+          "letter": "B",
+          "text": "Gauss",
+          "isCorrect": false,
+          "explanation": "Gauss is a unit of magnetic induction but not the SI unit."
+        },
+        {
+          "letter": "C",
+          "text": "Tesla",
+          "isCorrect": true,
+          "explanation": "Tesla is the SI unit of magnetic induction."
+        },
+        {
+          "letter": "D",
+          "text": "Maxwell",
+          "isCorrect": false,
+          "explanation": "Maxwell is a unit of magnetic flux."
+        }
+      ],
+      "explanation": "SI unit of Magnetic field induction or Flux density is Tesla (T) or Weber/m2.",
+      "explanationImage": null,
+      "hints": [
+        "SI unit",
+        "magnetic induction"
+      ]
+    },
+    {
+      "text": "For which angle between area and magnetic field, the flux is maximum?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0 degree",
+          "isCorrect": true,
+          "explanation": "According to the formula,ΦB = BAcosθWe know that cosθ gives its maximum value (1) when θ = 0°.ΦB = BAcos0°ΦB = BA(+1)ΦB = BAHence, option A is the correct option."
+        },
+        {
+          "letter": "B",
+          "text": "90 degree",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Since cos90°= 0 so flux will be zero."
+        },
+        {
+          "letter": "C",
+          "text": "45 degree",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect as per calculation"
+        },
+        {
+          "letter": "D",
+          "text": "60 degree",
+          "isCorrect": false,
+          "explanation": "This option is not the correct answer as it will half of maximum flux since cos 60° = 1/2"
+        }
+      ],
+      "explanation": "According to the formula,ΦB = BAcosθWe know that cosθ gives its maximum value (1) when θ = 0°.ΦB = BAcos0°ΦB = BA(+1)ΦB = BAHence, option A is the correct option.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "An AC generator converts:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mechanical energy to heat energy",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. An AC generator does not convert mechanical energy into heat energy directly. While some heat may be generated due to friction in the generator's moving parts, the primary purpose of the generator is to convert mechanical energy into electrical energy through the process of electromagnetic induction, as explained in option B."
+        },
+        {
+          "letter": "B",
+          "text": "Mechanical energy to electrical energy",
+          "isCorrect": true,
+          "explanation": "An AC (alternating current) generator, also known as an alternator, converts mechanical energy into electrical energy. This process involves rotating a coil of wire (the rotor) within a magnetic field, which induces an alternating current in the wire due to Faraday's law of electromagnetic induction. The mechanical energy required to rotate the rotor is typically provided by a turbine, engine, or other mechanical sources.Therefore, option B) Mechanical energy to electrical energy is the correct choice."
+        },
+        {
+          "letter": "C",
+          "text": "Electrical energy to mechanical energy",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. An AC generator does not convert electrical energy into mechanical energy. Instead, it operates in the opposite direction, converting mechanical energy (from sources such as turbines, engines, etc.) into electrical energy, as explained in option B."
+        },
+        {
+          "letter": "D",
+          "text": "Heat energy to electrical energy",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect. An AC generator does not convert heat energy directly into electrical energy. While some heat may be generated during the operation of the generator due to friction and losses in the system, the primary conversion process involves mechanical energy being converted into electrical energy through electromagnetic induction, as explained in option B."
+        }
+      ],
+      "explanation": "A generator can convert mechanical/kinetic energy to electrical energy. It can produce either AC or DC current. An AC generator creates an alternating current that periodically reverses direction. But in a DC generator, a direct current flows in one direction.",
+      "explanationImage": null,
+      "hints": [
+        "AC generator"
+      ]
+    },
+    {
+      "text": "When the coil is rotated in the magnetic field, the current produced is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Constant",
+          "isCorrect": false,
+          "explanation": "Constant: If a coil is rotated in a magnetic field at a constant speed, a sinusoidal alternating current (AC) is induced in the coil. The magnitude of the current changes sinusoidally over time, but the frequency remains constant."
+        },
+        {
+          "letter": "B",
+          "text": "Decrease",
+          "isCorrect": false,
+          "explanation": "Decrease: As the coil is rotated in a magnetic field, the induced current can decrease if the speed of rotation decreases or if the magnetic field weakens. This decrease in the rate of change of magnetic flux will result in a decrease in the induced current."
+        },
+        {
+          "letter": "C",
+          "text": "Increase",
+          "isCorrect": false,
+          "explanation": "Increase: As the coil is rotated in a magnetic field, the induced current can increase if the speed of rotation increases or if the magnetic field strength increases. This leads to a higher rate of change of magnetic flux, which induces a larger current."
+        },
+        {
+          "letter": "D",
+          "text": "Continuously changing",
+          "isCorrect": true,
+          "explanation": "Continuously changing: This option is correct. When a coil is rotated in a magnetic field, the induced current is continuously changing due to the constantly changing magnetic flux. The direction and magnitude of the induced current depend on the speed and direction of rotation."
+        }
+      ],
+      "explanation": "Direction of current changes as the coil is rotated.",
+      "explanationImage": null,
+      "hints": [
+        "coil",
+        "rotated",
+        "magnetic field",
+        "current"
+      ]
+    },
+    {
+      "text": "Eddy currents flow in:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Open loops",
+          "isCorrect": false,
+          "explanation": "Open loops: Eddy currents do not flow in open loops. Eddy currents are circular currents that circulate within conductive materials when subjected to changing magnetic fields. An open loop does not form a closed path for these circulating currents."
+        },
+        {
+          "letter": "B",
+          "text": "Closed loops",
+          "isCorrect": true,
+          "explanation": "Closed loops: This option is correct. Eddy currents flow in closed loops within conductive materials. When a magnetic field changes in intensity or direction, these circulating currents are induced within the material. They can cause energy loss in transformers, motors, and other electrical devices."
+        },
+        {
+          "letter": "C",
+          "text": "Straight lines",
+          "isCorrect": false,
+          "explanation": "Straight lines: Eddy currents do not flow in straight lines. They are circular currents that form closed loops within conductive materials."
+        },
+        {
+          "letter": "D",
+          "text": "Vertlcal loops",
+          "isCorrect": false,
+          "explanation": "Vertical loops: Eddy currents do not specifically flow in vertical loops. The direction of the loops depends on the orientation of the changing magnetic field and the conductive material."
+        }
+      ],
+      "explanation": "Eddy currents are loops of electrical current induced within conductors by a changing magnetic field in the conductor according to Faraday's law of induction. Eddy currents flow in closed loops within conductors, in planes perpendicular to the magnetic field.",
+      "explanationImage": null,
+      "hints": [
+        "Eddy currents"
+      ]
+    },
+    {
+      "text": "Li is different from its family members due to _.",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "S and p Block Elements",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Small size",
+          "isCorrect": false,
+          "explanation": "Lithium shows peculiar behaviour from its members. It has a small radius."
+        },
+        {
+          "letter": "B",
+          "text": "High charge density",
+          "isCorrect": false,
+          "explanation": "High charge density is one of the anomalous behaviour of Li."
+        },
+        {
+          "letter": "C",
+          "text": "Less electropositivity",
+          "isCorrect": false,
+          "explanation": "The so-called anomalous properties of Li are due to the fact that Li is less electropositive than Na."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": "Li has a small radius and high charge density. It is also unexpectedly less electropositive than sodium. These characteristics of lithium are due to the fact that it only has 3 electrons in 2 shells. Therefore, A, B, and C are correct statements. This means the answer is D."
+        }
+      ],
+      "explanation": "Lithium is unique among alkali metals because it has a very small size, high charge density, and is less electropositive compared to other members of its group. These factors give it properties similar to magnesium (diagonal relationship). Hence, all the options together explain their differences.",
+      "explanationImage": null,
+      "hints": [
+        "Li",
+        "different"
+      ]
+    },
+    {
+      "text": "Which of the following oxide is formed by alkali metals?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "S and p Block Elements",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Basic oxides",
+          "isCorrect": true,
+          "explanation": "Alkali metals form basic oxides. When dissolved in water, they produce hydroxide ions and hydrogen gas giving basic solution. Alkali metals are basic in nature."
+        },
+        {
+          "letter": "B",
+          "text": "Acidic oxides",
+          "isCorrect": false,
+          "explanation": "Acidic oxides are formed by non-metals and form acids in water."
+        },
+        {
+          "letter": "C",
+          "text": "Amphoteric oxides",
+          "isCorrect": false,
+          "explanation": "Amphoteric oxides show both acidic and basic properties example: BeO ZnO etc."
+        },
+        {
+          "letter": "D",
+          "text": "Both B and C",
+          "isCorrect": false,
+          "explanation": "This is incorrect information."
+        }
+      ],
+      "explanation": "Alkali metals are basic. The oxides they form are also basic due to this. They react strongly with water and create hydroxide ions and hydrogen gas, leaving a basic solution.",
+      "explanationImage": null,
+      "hints": [
+        "oxide",
+        "formed by alkali metals?"
+      ]
+    },
+    {
+      "text": "Which one of the following substances conduct electricity by the movement of ions?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Electrochemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Graphite",
+          "isCorrect": false,
+          "explanation": "Graphite conducts electricity via the movement of electrons within its structure, not ions."
+        },
+        {
+          "letter": "B",
+          "text": "Copper",
+          "isCorrect": false,
+          "explanation": "Copper is a metal that conducts electricity through the movement of electrons, not ions."
+        },
+        {
+          "letter": "C",
+          "text": "Molten sodium chloride",
+          "isCorrect": true,
+          "explanation": "Molten sodium chloride conducts electricity through the movement of ions, making it an electrolyte."
+        },
+        {
+          "letter": "D",
+          "text": "Mercury",
+          "isCorrect": false,
+          "explanation": "Mercury is a metal that conducts electricity through electron movement, not ions."
+        }
+      ],
+      "explanation": "The correct answer is molten sodium chloride. When sodium chloride is in its molten state, it dissociates into sodium and chloride ions, which are free to move and conduct electricity. This is characteristic of electrolytes, which conduct electricity via ion movement. Graphite (A) and metals like Copper (B) and Mercury (D) conduct electricity through the movement of electrons, not ions, which is different from the mechanism in electrolytes.",
+      "explanationImage": null,
+      "hints": [
+        "conduct",
+        "electricity"
+      ]
+    },
+    {
+      "text": "lonization energy depends on which of the following factors?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Periodicity in Elements",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Size of atoms",
+          "isCorrect": false,
+          "explanation": "A is incorrect since only the size of atoms is not the factor affecting ionization energy. Though there is an increase in ionization energy as the size of the atoms decreases, this factor alone cannot be used alone to predict the trend of ionization energy."
+        },
+        {
+          "letter": "B",
+          "text": "Nuclear Charge",
+          "isCorrect": false,
+          "explanation": "B is incorrect since the only nuclear charge is not the factor affecting ionization energy. Though there is an increase in ionization energy as the nuclear charge increases, this factor alone cannot be used alone to predict the trend of ionization energy."
+        },
+        {
+          "letter": "C",
+          "text": "Number of shells",
+          "isCorrect": false,
+          "explanation": "C is incorrect since only the number of shells is not the factor affecting ionization energy. Though there is a decrease in ionization energy as the number of shells increases, this factor alone cannot be used alone to predict the trend of ionization energy."
+        },
+        {
+          "letter": "D",
+          "text": "All of these options are correct",
+          "isCorrect": true,
+          "explanation": "Option D is correct since all of the options mention the correct reasons for the ionization energy trend and all three reasons have to be looked at to set up a trend of ionization energy. Option A is insufficient since only the size of atoms is not the factor affecting ionization energy. Though there is an increase in ionization energy as the size of the atoms decreases, this factor alone cannot be used alone to predict the trend of ionization energy. Option B is insufficient since the only nuclear charge is not the factor affecting ionization energy. Though there is an increase in ionization energy as the nuclear charge increases, this factor alone cannot be used alone to predict the trend of ionization energy. Option C is insufficient since only the number of shells is not the factor affecting ionization energy. Though there is a decrease in ionization energy as the number of shells increases, this factor alone cannot be used alone to predict the trend of ionization energy."
+        }
+      ],
+      "explanation": "Option D is correct since all of the options mention the correct reasons for the ionization energy trend and all three reasons have to be looked at to set up a trend of ionization energy. Option A is insufficient since only the size of atoms is not the factor affecting ionization energy. Though there is an increase in ionization energy as the size of the atoms decreases, this factor alone cannot be used alone to predict the trend of ionization energy. Option B is insufficient since the only nuclear charge is not the factor affecting ionization energy. Though there is an increase in ionization energy as the nuclear charge increases, this factor alone cannot be used alone to predict the trend of ionization energy. Option C is insufficient since only the number of shells is not the factor affecting ionization energy. Though there is a decrease in ionization energy as the number of shells increases, this factor alone cannot be used alone to predict the trend of ionization energy.",
+      "explanationImage": null,
+      "hints": [
+        "lonization energy",
+        "factors?"
+      ]
+    },
+    {
+      "text": "The first ionization potential of alkaline earth metal is greater than alkali metals because?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "S and p Block Elements",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "They are more reactive.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because ionization potential of metals doesn't depend upon reactivity."
+        },
+        {
+          "letter": "B",
+          "text": "They have greater atomic radii.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because alkaline earth metals don't have greater atomic radii."
+        },
+        {
+          "letter": "C",
+          "text": "They have smaller atomic sizes.",
+          "isCorrect": true,
+          "explanation": "This option is correct because the first ionization energies of alkaline earth metals are higher than those of the alkali metals. This is because of the increase in the nuclear charge of the alkaline earth metal."
+        },
+        {
+          "letter": "D",
+          "text": "All",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because option C is the correct option thus all cannot be the correct answer."
+        }
+      ],
+      "explanation": "Correct option is C. Alkaline earth metals have smaller atomic sizes as compared to alkali metals so electrons of outermost shells of alkaline earth metals are held tightly. As the nuclear charge increases it requires more energy to remove electrons(Ionization energy) hence ionization energy will be increased. The first ionization energies of alkaline earth metals are higher than those of the alkali metals. This is because of the increase in the nuclear charge of the alkaline earth metal.",
+      "explanationImage": null,
+      "hints": [
+        "first ionization potential",
+        "alkaline",
+        "greater",
+        "alkali"
+      ]
+    },
+    {
+      "text": "Metals are _?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "S and p Block Elements",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reducing agents",
+          "isCorrect": true,
+          "explanation": "A substance that tends to bring about reduction by being oxidized and losing electrons is reducing agentMetals lose electrons when they react and make the other reactant gain electrons (reduction) hence they are \"reducing agents\"."
+        },
+        {
+          "letter": "B",
+          "text": "Oxidizing agents",
+          "isCorrect": false,
+          "explanation": "A substance that tends to bring about oxidation by being reduced and gaining electrons is oxidizing agent"
+        },
+        {
+          "letter": "C",
+          "text": "Both a and b",
+          "isCorrect": false,
+          "explanation": "IncorrectOption B: A substance that tends to bring about oxidation by being reduced and gaining electrons is oxidizing agentNot the case with metals"
+        },
+        {
+          "letter": "D",
+          "text": "Dehydrating agents",
+          "isCorrect": false,
+          "explanation": "A dehydrating agent is a substance that dries or removes water from a material. In chemical reactions where dehydration occurs, the reacting molecule loses a molecule of water."
+        }
+      ],
+      "explanation": "A substance that tends to bring about reduction by being oxidized and losing electrons is reducing agentMetals lose electrons when they react and make the other reactant gain electrons (reduction) hence they are \"reducing agents\".",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Melting points of Group II-A elements are higher than those of Group I-A because:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "S and p Block Elements",
+      "year": 2016,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Atoms of II-A elements have smaller size",
+          "isCorrect": false,
+          "explanation": "From left to right in a period, the number of sizes decreases, but it is not a suitable reason for increase in boiling point because because mettalic character decreases from left to right and we have non-metal on the right-most side"
+        },
+        {
+          "letter": "B",
+          "text": "II-A elements are more reactive",
+          "isCorrect": false,
+          "explanation": "reactivity is not a factor to be considered while talking about melting and boiling points."
+        },
+        {
+          "letter": "C",
+          "text": "Atoms of II-A elements provide two binding electrons",
+          "isCorrect": true,
+          "explanation": "Metallic character as well as melting and boiling increase until period number three because the number of free electrons available for forming a metallic bond increases, so strong metallic bonds are formed As a result, melting Melting/Boiling boiling increases. Group-IIA offers two electrons for bonding while Group-IA offers one electron for bonding so it means IIA forms a stronger metallic bond."
+        },
+        {
+          "letter": "D",
+          "text": "I-A elements have smaller atomic radius",
+          "isCorrect": false,
+          "explanation": "size of IA is greater than IIA"
+        }
+      ],
+      "explanation": "Metallic character as well as melting and boiling increase until period number three because the number of free electrons available for forming a metallic bond increases, so strong metallic bonds are formed As a result, melting Melting/Boiling boiling increases. Group-IIA offers two electrons for bonding while Group-IA offers one electron for bonding so it means IIA forms a stronger metallic bond.",
+      "explanationImage": null,
+      "hints": [
+        "Melting points",
+        "Group I-A",
+        "Group II-A"
+      ]
+    },
+    {
+      "text": "Melting point of Na & Mg decreases down the group due to:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "S and p Block Elements",
+      "year": 2017,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Strong electronegativity",
+          "isCorrect": false,
+          "explanation": "Melting points of metals decrease down the group due to Increment in sizes. Hence, C is the correct option."
+        },
+        {
+          "letter": "B",
+          "text": "Strong attractive forces",
+          "isCorrect": false,
+          "explanation": "Melting points of metals decrease down the group due to Increment in sizes. Hence, C is the correct option."
+        },
+        {
+          "letter": "C",
+          "text": "Increment in size",
+          "isCorrect": true,
+          "explanation": "Generally, the melting point of the metals decreases down the group. This is because as the metal ions get larger the distance between the bonding electrons and the positive nucleus gets larger and reduces the overall attraction between the two."
+        },
+        {
+          "letter": "D",
+          "text": "High Ionization Energy",
+          "isCorrect": false,
+          "explanation": "Melting points of metals decrease down the group due to Increment in sizes. Hence, C is the correct option."
+        }
+      ],
+      "explanation": "Generally the melting point of the metals decreases down the group. This is because as the metal ions get larger the distance between the bonding electrons and the positive nucleus gets larger and reduces the overall attraction between the two.",
+      "explanationImage": null,
+      "hints": [
+        "Melting point of Na & Mg decreases down the group"
+      ]
+    },
+    {
+      "text": "Which of the following has highest atomic size?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "S and p Block Elements",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Be",
+          "isCorrect": false,
+          "explanation": "a) Be (Beryllium):Beryllium has the smallest atomic size among the options. This is because, as you move from left to right across a period of the periodic table, the atomic size generally decreases due to an increase in the effective nuclear charge (protons) pulling the electrons closer to the nucleus."
+        },
+        {
+          "letter": "B",
+          "text": "Mg",
+          "isCorrect": false,
+          "explanation": "b) Mg (Magnesium):Magnesium has a larger atomic size compared to beryllium but is still relatively small due to being in the same period. As you move from left to right in a period, atomic size tends to decrease."
+        },
+        {
+          "letter": "C",
+          "text": "Ca",
+          "isCorrect": false,
+          "explanation": "c) Ca (Calcium):Calcium has a larger atomic size than both beryllium and magnesium. It is located further to the left in the periodic table and is in a higher period, so it has more energy levels (electron shells) which contribute to a larger atomic size."
+        },
+        {
+          "letter": "D",
+          "text": "Ba",
+          "isCorrect": true,
+          "explanation": "d) Ba (Barium):Barium has the largest atomic size among the options. It is located in the same group (column) as calcium and magnesium but is further down the group. Moving down a group on the periodic table generally results in an increase in atomic size due to the addition of more energy levels."
+        }
+      ],
+      "explanation": "Barium has the largest atomic size among the options. It is located in the same group (column) as calcium and magnesium but is further down the group. Moving down a group on the periodic table generally results in an increase in atomic size due to the addition of more energy levels.",
+      "explanationImage": null,
+      "hints": [
+        "highest",
+        "atomic size"
+      ]
+    },
+    {
+      "text": "Sodium reacts with water more vigorously than lithium because it:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "S and p Block Elements",
+      "year": 2010,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Has a higher atomic weight",
+          "isCorrect": false,
+          "explanation": "Sodium does have a higher atomic weight than lithium; however, this is not the reason for its increased reactivity with water. Reactivity in alkali metals is more influenced by electropositive character, not atomic weight. Thus, option A is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Is more electronegative",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because electronegativity decreases down the group in the periodic table. Sodium, being lower in the group than lithium, is less electronegative, not more."
+        },
+        {
+          "letter": "C",
+          "text": "Is more electropositive",
+          "isCorrect": true,
+          "explanation": "This is the correct option. Sodium is more electropositive than lithium, meaning it more readily loses electrons to form positive ions. This property increases down the group, making sodium react more vigorously with water."
+        },
+        {
+          "letter": "D",
+          "text": "Is a metal",
+          "isCorrect": false,
+          "explanation": "While sodium is indeed a metal, this characteristic is shared by all alkali metals, including lithium. Thus, being a metal does not uniquely explain sodium's higher reactivity with water compared to lithium, making option D incorrect."
+        },
+        {
+          "letter": "E",
+          "text": "Has a high melting point",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because sodium actually has a lower melting point than lithium. Melting point is not a factor that affects the reactivity of sodium with water."
+        }
+      ],
+      "explanation": "Sodium reacts more vigorously with water than lithium primarily because sodium is more electropositive. Electropositivity increases as you move down a group in the periodic table, which means sodium, being below lithium, loses electrons more easily. This increased tendency to lose electrons results in a more vigorous reaction with water. Other factors such as atomic weight, electronegativity, and melting point are not the primary reasons for this difference in reactivity. All alkali metals including sodium and lithium are metals, so this characteristic is not a differentiating factor either.",
+      "explanationImage": null,
+      "hints": [
+        "Sodium",
+        "reacts",
+        "vigorously"
+      ]
+    },
+    {
+      "text": "Only two elements are present in:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "S and p Block Elements",
+      "year": 2011,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Period 1",
+          "isCorrect": true,
+          "explanation": "Period 1 contains only 2 elements: hydrogen and helium, due to the limited capacity of the first electron shell."
+        },
+        {
+          "letter": "B",
+          "text": "Period 2",
+          "isCorrect": false,
+          "explanation": "Period 2 contains 8 elements, as it fills both the 2s and 2p orbitals."
+        },
+        {
+          "letter": "C",
+          "text": "Period 3",
+          "isCorrect": false,
+          "explanation": "Period 3 also contains 8 elements, filling the 3s and 3p orbitals."
+        },
+        {
+          "letter": "D",
+          "text": "Period 4",
+          "isCorrect": false,
+          "explanation": "Period 4 contains 18 elements, including transition metals that fill the 3d orbitals."
+        },
+        {
+          "letter": "E",
+          "text": "Period 5",
+          "isCorrect": false,
+          "explanation": "Period 5 contains 18 elements, similar to Period 4, involving the filling of the 4d orbitals."
+        }
+      ],
+      "explanation": "Period 1 of the periodic table consists of only two elements: hydrogen and helium. This is because the first electron shell (the 1s orbital) can hold a maximum of two electrons. In contrast, Periods 2 and 3 each have 8 elements, as they include the filling of s and p orbitals. Periods 4 and 5 have even more elements, 18 each, due to the inclusion of the d orbitals. Hence, the correct answer is Period 1, where only two elements are present.",
+      "explanationImage": null,
+      "hints": [
+        "two",
+        "elements",
+        "present"
+      ]
+    },
+    {
+      "text": "The most dense element is",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "S and p Block Elements",
+      "year": 2013,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Li",
+          "isCorrect": false,
+          "explanation": "Lithium is a light metal with an atomic number of 3. It has a relatively low density, especially in comparison to some heavier elements. Its density is around 0.53 grams per cubic centimeter (g/cm³) at room temperature."
+        },
+        {
+          "letter": "B",
+          "text": "K",
+          "isCorrect": false,
+          "explanation": "Potassium is an alkali metal with an atomic number of 19. It is a relatively light metal with a density of about 0.89 g/cm³ at room temperature."
+        },
+        {
+          "letter": "C",
+          "text": "Ca",
+          "isCorrect": false,
+          "explanation": "Calcium is an alkaline earth metal with an atomic number of 20. It is denser than lithium and potassium. Calcium has a density of approximately 1.54 g/cm³ at room temperature."
+        },
+        {
+          "letter": "D",
+          "text": "Ba",
+          "isCorrect": true,
+          "explanation": "The density (ratio between mass and volume as m/v) decreases from top to bottom in group 1(alkali metals) as the size increases and the nuclear charge decreases. In periods, density increases from left to right as atom size decreases and the nuclear charge increases. The alkaline earth metals are denser than the alkali metals due to their smaller size. The densities of alkaline earth metals do not show any regular trend with increasing atomic numbers. The density of these metal first decreases from Be to Ca and then increases from Ca to Ba. The trend of density amongst alkali metals: Li<K<Na<Rb<Cs The trend of density amongst alkaline earth metals: Ca<Mg<Be<Sr<Ba<Ra Hence, in this case, Ba is the densest element out of all the given options."
+        },
+        {
+          "letter": "E",
+          "text": "Rb",
+          "isCorrect": false,
+          "explanation": "Atomic number: 37 Atomic mass: ~85.47 g/mol Rubidium is another alkali metal, and while it is heavier than lithium and potassium, it is still relatively light compared to some other elements."
+        }
+      ],
+      "explanation": "Down the group, the density of the elements increases, and Group II elements have a higher density than Group I elements because of their higher mass and lesser volumes. Ba is the only group II in all the options above.",
+      "explanationImage": null,
+      "hints": [
+        "dense"
+      ]
+    },
+    {
+      "text": "Potassium, Rubidium, Cesium react with oxygen to form which types of oxides?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "S and p Block Elements",
+      "year": 2020,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Peroxide",
+          "isCorrect": false,
+          "explanation": "Under typical conditions, alkali metals react with oxygen to form normal oxides.Example: 2K + O2 → 2K2O"
+        },
+        {
+          "letter": "B",
+          "text": "Superoxide",
+          "isCorrect": true,
+          "explanation": "Under more extreme conditions (higher temperatures or increased pressure), alkali metals can form superoxides.Example: 2K + O2 → 2KO2"
+        },
+        {
+          "letter": "C",
+          "text": "Suboxide",
+          "isCorrect": false,
+          "explanation": "With a limited supply of oxygen, alkali metals can also form peroxides.Example: 2K + O2 → 2K2O2"
+        },
+        {
+          "letter": "D",
+          "text": "Normal oxide",
+          "isCorrect": false,
+          "explanation": "Suboxides, where the metal is in a lower oxidation state than in the normal oxide, are less common.Example: The suboxide of potassium is K4O9."
+        }
+      ],
+      "explanation": "Li reacts with oxygen to form normal oxide. Na reacts with oxygen to make peroxide. Potassium, Rubidium and Caesium react with oxygen to form Superoxide.",
+      "explanationImage": null,
+      "hints": [
+        "oxygen",
+        "oxides",
+        "types"
+      ]
+    },
+    {
+      "text": "The color of transition metal complexes is due to transition of electrons between:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "D and f Block Elements",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "p to d orbitals",
+          "isCorrect": false,
+          "explanation": "As per the explanation, this option is not correct."
+        },
+        {
+          "letter": "B",
+          "text": "d to d orbitals",
+          "isCorrect": true,
+          "explanation": "When transition metals form complex ions or compounds, the d orbitals split into two energy levels. Electrons from the lower energy level absorb light of wavelength corresponding to the visible region in the EM spectrum and get excited to a higher energy level. The remaining unabsorbed wavelength is reflected and that gives the characteristic colour to the complex. As the energy difference between the high and lower energy levels of electrons varies for different complexes, the colour also varies. As discussed, the splitting occurs in d-orbital and transition of electrons between the two energy levels (d-d transition) is responsible for imparting different colours. Therefore, option B is correct."
+        },
+        {
+          "letter": "C",
+          "text": "p to p orbitals",
+          "isCorrect": false,
+          "explanation": "As per the explanation, this option is not correct."
+        },
+        {
+          "letter": "D",
+          "text": "d to p orbitals",
+          "isCorrect": false,
+          "explanation": "As per the explanation, this option is not correct."
+        }
+      ],
+      "explanation": "The color of transition metal complexes is due to the transition of electrons between different energy levels within the d orbitals of the metal ion. The d orbitals have different energy levels and can accommodate a varying number of electrons. When a transition metal ion forms a complex with ligands (atoms, ions, or molecules that surround the metal ion), the d orbitals split into different energy levels due to the influence of the ligands. This splitting is known as crystal field splitting. The energy difference between these split d orbitals corresponds to the energy of visible light. When white light passes through a colored solution containing transition metal complexes, certain wavelengths of light are absorbed by the electrons in the d orbitals, causing them to transition from a lower energy level to a higher energy level. The absorbed wavelengths are subtracted from the white light, resulting in the complementary color being observed. The specific color observed depends on the energy difference between the split d orbitals, which is influenced by factors such as the nature of the ligands and the oxidation state of the metal ion. Different ligands can induce different degrees of splitting, leading to variations in color. For example, complexes with ligands that create larger energy differences between the d orbitals tend to absorb longer wavelengths (lower energy) of light and appear yellow or red. Conversely, complexes with ligands that create smaller energy differences tend to absorb shorter wavelengths (higher energy) of light and appear blue or green. Overall, the absorption of specific wavelengths of light by transition metal complexes due to electron transitions within the d orbitals is responsible for their characteristic colors. When transition metals form complex ions or compounds, the d orbitals split into two energy levels. Electrons from the lower energy level absorb light of wavelength corresponding to the visible region in the EM spectrum and get excited to a higher energy level. The remaining unabsorbed wavelength is reflected and that gives the characteristic colour to the complex. As the energy difference between the high and lower energy levels of electrons varies for different complexes, the colour also varies. As discussed, the splitting occurs in d-orbital and transition of electrons between the two energy levels (d-d transition) is responsible for imparting different colours. Therefore option B is correct. (Source: PCTB book 2, page 102)",
+      "explanationImage": null,
+      "hints": [
+        "color of transition metal complexes",
+        "transition of electrons"
+      ]
+    },
+    {
+      "text": "Copper is a typical transition metal. Its atomic number is 29. In which oxidation state does it have a partially filled orbital in d-subshell?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "D and f Block Elements",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cu",
+          "isCorrect": false,
+          "explanation": "Electronic configuration of Option A is as follows:Option A, Cu: 1s2 2s2 2p6 3s2 3p6 3d10 4s1, so its d subshell is filled."
+        },
+        {
+          "letter": "B",
+          "text": "Cu+",
+          "isCorrect": false,
+          "explanation": "Electronic configuration of Option B is as follows:Option B, Cu+: 1s2 2s2 2p6 3s2 3p6 3d10, so its d subshell is filled."
+        },
+        {
+          "letter": "C",
+          "text": "Cu-",
+          "isCorrect": false,
+          "explanation": "Electronic configuration of Option C is as follows:Option C, Cu-: 1s2 2s2 2p6 3s2 3p6 3d10 4s2, so its d subshell is filled."
+        },
+        {
+          "letter": "D",
+          "text": "Cu2+",
+          "isCorrect": true,
+          "explanation": "Electronic configuration of Option D is as follows:Option D, Cu2+: 1s2 2s2 2p6 3s2 3p6 3d9, so its d subshell is not filled completely, one orbital is partially filled, so it is the correct answer."
+        }
+      ],
+      "explanation": "Electronic configuration of the options are as follows:Option A, Cu: 1s2 2s2 2p6 3s2 3p6 3d10 4s1, so its d subshell is filledOption B, Cu+: 1s2 2s2 2p6 3s2 3p6 3d10, so its d subshell is filledOption C, Cu-: 1s2 2s2 2p6 3s2 3p6 3d10 4s2, so its d subshell is filled.Option D, Cu2+: 1s2 2s2 2p6 3s2 3p6 3d9, so its d subshell is not filled completely, one orbital is partially filled, so it is the correct answer.",
+      "explanationImage": null,
+      "hints": [
+        "Copper",
+        "partially filled orbital in d-subshell"
+      ]
+    },
+    {
+      "text": "Transition Elements usually show:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "D and f Block Elements",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Para magnetism",
+          "isCorrect": true,
+          "explanation": "It is useful, at the beginning, to identify the physical and chemical properties of transition elements which differ from main group elements (s-block). Properties of transition elements include: have large charge/radius ratio; are hard and have high densities; have high melting and boiling points; form compounds which are often paramagnetic; show variable oxidation states; form coloured ions and compounds; form compounds with profound catalytic activity; form stable complexes."
+        },
+        {
+          "letter": "B",
+          "text": "Diamagnetism",
+          "isCorrect": false,
+          "explanation": "As per the explanation, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Ferromagnetism",
+          "isCorrect": false,
+          "explanation": "As per the explanation, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Both Ferromagnetism and Paramagnetism",
+          "isCorrect": false,
+          "explanation": "As per the explanation, this option is incorrect."
+        }
+      ],
+      "explanation": "It is useful, at the beginning, to identify the physical and chemical properties of transition elements which differ from main group elements (s-block). Properties of transition elements include: have large charge/radius ratio; are hard and have high densities; have high melting and boiling points; form compounds which are often paramagnetic; show variable oxidation states; form coloured ions and compounds; form compounds with profound catalytic activity; form stable complexes.",
+      "explanationImage": null,
+      "hints": [
+        "Transition Elements"
+      ]
+    },
+    {
+      "text": "Which is the correct electronic configuration of Chromium (24Cr)?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "D and f Block Elements",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1s2, 2s2, 3s2, 2p6, 3p6, 4s2, 3d6",
+          "isCorrect": false,
+          "explanation": "This is not the electronic configuration of chromium.Its electronic configuration in ground state is 1s2 2s2 2p6 3s2 3p6 4s1 3d5."
+        },
+        {
+          "letter": "B",
+          "text": "1s2, 2s2, 2p6, 3s2, 3p6, 4s2, 3d4",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect.Its electronic configuration in ground state is 1s2 2s2 2p6 3s2 3p6 4s1 3d5."
+        },
+        {
+          "letter": "C",
+          "text": "1s1, 2s2, 2p6, 3s2, 3p6, 3d6",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect.Its electronic configuration in ground state is 1s2 2s2 2p6 3s2 3p6 4s1 3d5."
+        },
+        {
+          "letter": "D",
+          "text": "1s2, 2s2, 2p6, 3s2, 3p6, 4s1, 3d5",
+          "isCorrect": true,
+          "explanation": "Its electronic configuration in ground state is 1s2 2s2 2p6 3s2 3p6 4s1 3d5."
+        }
+      ],
+      "explanation": "The atomic number of chromium = 24. Cr (Z = 24) = 1s2, 2s2 2p6 3s2 3p6 4s1 3d5",
+      "explanationImage": null,
+      "hints": [
+        "correct",
+        "Chromium",
+        "(",
+        "24",
+        "Cr)"
+      ]
+    },
+    {
+      "text": "EDTA ion is a _ ligand.",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "D and f Block Elements",
+      "year": 2012,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Monodentate",
+          "isCorrect": false,
+          "explanation": "A monodentate ligand donates only one pair of electrons to a central metal atom. EDTA is not monodentate because it can donate more than one pair of electrons."
+        },
+        {
+          "letter": "B",
+          "text": "Bidentate",
+          "isCorrect": false,
+          "explanation": "A bidentate ligand can donate two pairs of electrons to a central metal atom. However, EDTA can donate more than two pairs of electrons, making it more than bidentate."
+        },
+        {
+          "letter": "C",
+          "text": "Tridentate",
+          "isCorrect": false,
+          "explanation": "A tridentate ligand donates three pairs of electrons to a central metal atom. EDTA is capable of donating more than three pairs, so it is not tridentate."
+        },
+        {
+          "letter": "D",
+          "text": "Polydentate",
+          "isCorrect": true,
+          "explanation": "EDTA is a polydentate ligand as it can form multiple bonds with a central metal ion. Specifically, it is a hexadentate ligand, meaning it can donate six pairs of electrons from its donor atoms."
+        },
+        {
+          "letter": "E",
+          "text": "None of the above",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the correct answer is Option D, which states that EDTA is a polydentate ligand."
+        }
+      ],
+      "explanation": "EDTA ion is polydentate. Ethylenediaminetetraacetic acid (EDTA) is an amino polycarboxylic acid with the formula [CH2N(CH2CO2H)2]2. This white, water-soluble solid is widely used to bind to iron and calcium ions. It binds these ions as a hexadentate (\"six-toothed\") chelating agent.",
+      "explanationImage": null,
+      "hints": [
+        "EDTA",
+        "ligand",
+        "donor atoms"
+      ]
+    },
+    {
+      "text": "Which of the following has the maximum number of unpaired d electrons?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "D and f Block Elements",
+      "year": 2016,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mg2+",
+          "isCorrect": false,
+          "explanation": "Mg2+ has the electron configuration 1s2 2s2 2p6. It lacks d electrons entirely, resulting in no unpaired d electrons."
+        },
+        {
+          "letter": "B",
+          "text": "Ti3+",
+          "isCorrect": false,
+          "explanation": "Ti3+ has the electron configuration [Ar] 3d1, meaning it contains only one unpaired d electron."
+        },
+        {
+          "letter": "C",
+          "text": "V3+",
+          "isCorrect": false,
+          "explanation": "V3+ has the electron configuration [Ar] 3d2. It has two unpaired d electrons, following Hund's rule of maximum multiplicity."
+        },
+        {
+          "letter": "D",
+          "text": "Fe2+",
+          "isCorrect": true,
+          "explanation": "Fe2+ has the electron configuration [Ar] 3d6. According to Hund's rule, it has four unpaired d electrons, making it the option with the most unpaired d electrons among the given choices."
+        }
+      ],
+      "explanation": "The correct answer is Fe2+. The electron configuration for Fe2+ is [Ar] 3d6, with the 3d subshell holding six electrons: four of these are unpaired due to Hund's rule, which states that electrons fill degenerate orbitals singly first. Mg2+ lacks d electrons entirely, Ti3+ has only one unpaired d electron ([Ar] 3d1), and V3+ has two unpaired d electrons ([Ar] 3d2).",
+      "explanationImage": null,
+      "hints": [
+        "maximum",
+        "unpaired",
+        "electrons"
+      ]
+    },
+    {
+      "text": "The transition element which doesn't show variable valency?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "D and f Block Elements",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cu",
+          "isCorrect": false,
+          "explanation": "Copper is a transition metal that exhibits variable valency. It commonly shows a valency of +1 or +2, but it can also have other valencies such as +3 and +4 in certain compounds."
+        },
+        {
+          "letter": "B",
+          "text": "Sc",
+          "isCorrect": false,
+          "explanation": "Scandium is a transition metal that typically exhibits a valency of +3. However, it can also show a valency of +2 in some compounds, such as scandium(II) chloride (ScCl2)."
+        },
+        {
+          "letter": "C",
+          "text": "Zn",
+          "isCorrect": true,
+          "explanation": "Zinc is a transition metal that exhibits a fixed valency of +2 in most of its compounds. It does not commonly show variable valency like other transition elements. For example, zinc oxide (ZnO) and zinc sulfate (ZnSO4) both involve zinc with a valency of +2. So, this option is correct."
+        },
+        {
+          "letter": "D",
+          "text": "Cr",
+          "isCorrect": false,
+          "explanation": "Chromium is a transition metal that commonly shows variable valency. It can have valencies ranging from -2 to +6, with the most stable and commonly observed valencies being +2, +3, and +6. For example, in chromium(III) chloride (CrCl3), chromium exhibits a valency of +3."
+        }
+      ],
+      "explanation": "The answer to the question should be option C because Zinc does not show the variable valency as elements of the d-block. After all, the d-orbital is full. Its outer electronic configuration is 3d^10 4s^2 So, they tend to lose only 2 electrons from its outermost shell. Hence, only show a valency of +2 and no variable valency.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The total number of transition elements is:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "D and f Block Elements",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "58",
+          "isCorrect": true,
+          "explanation": "This is a factual recall question. There are 58 transition metals in the periodic table of elements, of which 30 are outer transition elements (d-block) and 28 are inner transition elements (f-block). Therefore, option A is correct."
+        },
+        {
+          "letter": "B",
+          "text": "48",
+          "isCorrect": false,
+          "explanation": "As per the explanation, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "30",
+          "isCorrect": false,
+          "explanation": "As per the explanation, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "25",
+          "isCorrect": false,
+          "explanation": "As per the explanation, this option is incorrect."
+        }
+      ],
+      "explanation": "This is a factual recall question. There are 58 transition metals in the periodic table of elements, of which 30 are outer transition elements (d-block) and 28 are inner transition elements (f-block). Therefore option A is correct. (Source: FTBB book 2 page 64)",
+      "explanationImage": null,
+      "hints": [
+        "total",
+        "transition elements"
+      ]
+    },
+    {
+      "text": "Paramagnetic elements contain:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "D and f Block Elements",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "All paired electrons",
+          "isCorrect": false,
+          "explanation": "Elements with all paired electrons are diamagnetic, not paramagnetic, as they do not have unpaired electrons to create a magnetic moment."
+        },
+        {
+          "letter": "B",
+          "text": "All unpaired electrons",
+          "isCorrect": false,
+          "explanation": "While having unpaired electrons is a characteristic of paramagnetic materials, it is not necessarily true that all electrons are unpaired. Even one unpaired electron can result in paramagnetism."
+        },
+        {
+          "letter": "C",
+          "text": "Few unpaired electrons.",
+          "isCorrect": true,
+          "explanation": "Paramagnetism occurs when an element has one or more unpaired electrons, which causes a net magnetic moment and attraction to a magnetic field."
+        },
+        {
+          "letter": "D",
+          "text": "Unequal electrons and protons",
+          "isCorrect": false,
+          "explanation": "This refers to ions rather than paramagnetic elements. The number of electrons and protons does not determine paramagnetism directly."
+        }
+      ],
+      "explanation": "Paramagnetic elements are those with one or more unpaired electrons. These unpaired electrons create a net magnetic moment, making the element attracted to an external magnetic field. Option C is correct because it acknowledges the presence of unpaired electrons, which is the primary cause of paramagnetism. Option A is incorrect because paired electrons result in diamagnetism, not paramagnetism. Option B is misleading as it implies that all electrons must be unpaired for paramagnetism, which is not true. Even one unpaired electron can result in paramagnetism. Option D is unrelated to paramagnetism; it describes ions, which have an imbalance of electrons and protons, resulting in a charge.",
+      "explanationImage": null,
+      "hints": [
+        "Paramagnetic",
+        "electrons",
+        "magnetic"
+      ]
+    },
+    {
+      "text": "The ligand field effect splits five degenerate d-orbitals into two sets with different energies, the pair of high energy degenerate orbitals is:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "D and f Block Elements",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "dxy, dyz",
+          "isCorrect": false,
+          "explanation": "These orbitals are part of the t2g set, which has lower energy because they align between the axes and encounter less repulsion from the ligands."
+        },
+        {
+          "letter": "B",
+          "text": "dyz, dzx",
+          "isCorrect": false,
+          "explanation": "These are also part of the t2g set, lying between the axes, resulting in reduced repulsion and lower energy compared to the eg set."
+        },
+        {
+          "letter": "C",
+          "text": "dx2-y2, dz2",
+          "isCorrect": true,
+          "explanation": "These orbitals belong to the eg set and lie along the axes, facing maximum repulsion from ligands, which raises their energy to a higher level."
+        },
+        {
+          "letter": "D",
+          "text": "dx2, d",
+          "isCorrect": false,
+          "explanation": "This option is invalid due to incorrect notation: 'dx2' is not a recognized orbital, and 'd' is incomplete."
+        }
+      ],
+      "explanation": "In an octahedral crystal field, the five degenerate d-orbitals split into two distinct groups due to ligand interactions: the t2g set (dxy, dyz, dzx) with lower energy, and the eg set (dx2-y2, dz2) with higher energy. The eg orbitals align along the axes, directly facing the ligands, which results in significant repulsion and increased energy. Therefore, the correct answer is Option D. Options A and B are incorrect because they describe the t2g orbitals, which have lower energy. Option C is incorrect due to improper notation.",
+      "explanationImage": null,
+      "hints": [
+        "five degenerate d-orbitals",
+        "two sets with different energies",
+        "high energy degenerate"
+      ]
+    },
+    {
+      "text": "Which of the following sets is of coinage metals?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "D and f Block Elements",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cu, Ag, Au",
+          "isCorrect": true,
+          "explanation": "The coinage metal comprise, at a minimum, those metallic chemical elements which have historically been used as components in alloys used to mint coins."
+        },
+        {
+          "letter": "B",
+          "text": "Zn, Cd, Hg",
+          "isCorrect": false,
+          "explanation": "As per the reference, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Au, Ag, Zn",
+          "isCorrect": false,
+          "explanation": "As per the reference, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Li, Na, K",
+          "isCorrect": false,
+          "explanation": "As per the reference, this option is incorrect."
+        }
+      ],
+      "explanation": "The coinage metal comprise, at a minimum, those metallic chemical elements which have historically been used as components in alloys used to mint coins.",
+      "explanationImage": null,
+      "hints": [
+        "coinage metals"
+      ]
+    },
+    {
+      "text": "d-block elements are present _ in the periodic table.",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "D and f Block Elements",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Right of the periodic table",
+          "isCorrect": false,
+          "explanation": "As per the explanation, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Left of the periodic table",
+          "isCorrect": false,
+          "explanation": "As per the explanation, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Bottom of periodic table",
+          "isCorrect": false,
+          "explanation": "As per the explanation, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Between s and p block elements",
+          "isCorrect": true,
+          "explanation": "The d-block elements lie in between s- and p-block elements, i.e., these are positioned in the middle of the period table. The d-block elements are also called transition metals as they have valence electrons in d orbitals."
+        }
+      ],
+      "explanation": "The d-block elements lie in between s- and p-block elements, i.e., these are positioned in the middle of the period table. The d-block elements are also called transition metals as they have valence electrons in d orbitals. A diagram of periodic table is available for further clarification",
+      "explanationImage": null,
+      "hints": [
+        "d-block"
+      ]
+    },
+    {
+      "text": "We went to the President as a last _.",
+      "image": null,
+      "subject": "English",
+      "topic": "Combination Mistake",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Recourse",
+          "isCorrect": false,
+          "explanation": "\"Recourse\" is a similar word that means seeking help or protection from someone or something when in difficulty or trouble, but it doesn't fit well in the given sentence."
+        },
+        {
+          "letter": "B",
+          "text": "Resort",
+          "isCorrect": true,
+          "explanation": "A last resort is a final course of action, used only when all else has failed."
+        },
+        {
+          "letter": "C",
+          "text": "Resource",
+          "isCorrect": false,
+          "explanation": "\"Resource\" refers to a source of aid or support that can be drawn upon when needed. While it may be used in the same context as \"last resort\", it does not fit the given sentence."
+        },
+        {
+          "letter": "D",
+          "text": "Resound",
+          "isCorrect": false,
+          "explanation": "\"Resound\" means to echo or reverberate with sound and has no connection to the given sentence."
+        }
+      ],
+      "explanation": "\"Recourse\" is a similar word that means seeking help or protection from someone or something when in difficulty or trouble, but it doesn't fit well in the given sentence. A last resort is a final course of action, used only when all else has failed. \"Resource\" refers to a source of aid or support that can be drawn upon when needed. While it may be used in the same context as \"last resort\", it does not fit the given sentence. \"Resound\" means to echo or reverberate with sound and has no connection to the given sentence.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Choose the correct option for this sentence according to subject verb agreementMrs Rose _ planning to do a course in Biology next week.",
+      "image": null,
+      "subject": "English",
+      "topic": "Subject Verb Agreement",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Are planning",
+          "isCorrect": false,
+          "explanation": "This is the incorrect option because it is present continuous tense which is grammatically correct and conveys a similar meaning However, it changes the subject to plural indicating that there are more people involved in the planning."
+        },
+        {
+          "letter": "B",
+          "text": "Plans",
+          "isCorrect": false,
+          "explanation": "This is the incorrect option because it is simple present tense, which indicates a habitual or regular action. While Mrs Rose may regularly plan to take courses in Biology, this tense does not convey the ongoing nature of the action."
+        },
+        {
+          "letter": "C",
+          "text": "With a plan",
+          "isCorrect": false,
+          "explanation": "This is the incorrect option because this is a phrase not a verb. It cannot fit grammatically in the blank."
+        },
+        {
+          "letter": "D",
+          "text": "Is Planning",
+          "isCorrect": true,
+          "explanation": "This is the correct option because it is a present participle the subject \"Mrs.Rose” is singular so it requires a singular verb"
+        }
+      ],
+      "explanation": "Option D is the correct option because because it is a present participle the subject \"Mrs.Rose” is singular so it requires a singular verb.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Use an appropriate article:There was _ article about pollution in _ paper.",
+      "image": null,
+      "subject": "English",
+      "topic": "Article",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A, An",
+          "isCorrect": false,
+          "explanation": "This is incorrect. There was an article about pollution in the paper.Here's why each article is used:\"An\" before \"article\": The indefinite article \"an\" is used before \"article\" because \"article\" starts with a vowel sound.\"The\" before \"paper\": The definite article \"the\" is used before \"paper\" because it refers to a specific newspaper that both the speaker and the listener are likely familiar with or have discussed previously."
+        },
+        {
+          "letter": "B",
+          "text": "An, The",
+          "isCorrect": true,
+          "explanation": "This is correct. There was an article about pollution in the paper.Here's why each article is used:\"An\" before \"article\": The indefinite article \"an\" is used before \"article\" because \"article\" starts with a vowel sound.\"The\" before \"paper\": The definite article \"the\" is used before \"paper\" because it refers to a specific newspaper that both the speaker and the listener are likely familiar with or have discussed previously."
+        },
+        {
+          "letter": "C",
+          "text": "A, The",
+          "isCorrect": false,
+          "explanation": "\"A, The\" - This option is incorrect because it does not use the correct article before \"pollution.\" As mentioned earlier, \"the\" is required because it refers to specific pollution."
+        },
+        {
+          "letter": "D",
+          "text": "A, A",
+          "isCorrect": false,
+          "explanation": "\"A, A\" - This option is incorrect because it uses the indefinite article \"a\" twice. The first occurrence of \"a\" could be correct if it is followed by a consonant sound, but the second occurrence of \"a\" is incorrect because it should be \"an\" before \"article\" as it begins with a vowel sound."
+        }
+      ],
+      "explanation": "\"There was an article about pollution in the paper.\"Here's why each article is used:\"An\" before \"article\": The indefinite article \"an\" is used before \"article\" because \"article\" starts with a vowel sound.\"The\" before \"paper\": The definite article \"the\" is used before \"paper\" because it refers to a specific newspaper that both the speaker and the listener are likely familiar with or have discussed previously.",
+      "explanationImage": null,
+      "hints": [
+        "article",
+        "paper"
+      ]
+    },
+    {
+      "text": "Which verb is NOT in the present tense?",
+      "image": null,
+      "subject": "English",
+      "topic": "Combination Mistake",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "She listened",
+          "isCorrect": true,
+          "explanation": "The presence of -ed creates a past tense in the sentence."
+        },
+        {
+          "letter": "B",
+          "text": "She talks",
+          "isCorrect": false,
+          "explanation": "\"Talks\" is in the present tense, describing an action that is currently happening."
+        },
+        {
+          "letter": "C",
+          "text": "She waits",
+          "isCorrect": false,
+          "explanation": "\"Waits\" is in the present tense, describing an ongoing action or state."
+        },
+        {
+          "letter": "D",
+          "text": "She eats",
+          "isCorrect": false,
+          "explanation": "\"Eats\" is also in the present tense, describing a habitual or repeated action."
+        }
+      ],
+      "explanation": "The presence of -ed creates a past tense in the sentence.",
+      "explanationImage": null,
+      "hints": [
+        "NOT",
+        "present tense"
+      ]
+    },
+    {
+      "text": "Choose the correct spelling of the word:",
+      "image": null,
+      "subject": "English",
+      "topic": "Vocabulary",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Something",
+          "isCorrect": true,
+          "explanation": "The correct spelling is \"something\" because:It is a combination of \"some\" + \"thing\", meaning an unspecified object, event, or idea."
+        },
+        {
+          "letter": "B",
+          "text": "Somthing",
+          "isCorrect": false,
+          "explanation": "The correct spelling is 'something'."
+        },
+        {
+          "letter": "C",
+          "text": "Sumthing",
+          "isCorrect": false,
+          "explanation": "The correct spelling is 'something'."
+        },
+        {
+          "letter": "D",
+          "text": "Sumthin",
+          "isCorrect": false,
+          "explanation": "The correct spelling is 'something'."
+        }
+      ],
+      "explanation": "The correct spelling is \"something\" because:It is a combination of \"some\" + \"thing\", meaning an unspecified object, event, or idea.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Sameer _ in the park every day.",
+      "image": null,
+      "subject": "English",
+      "topic": "Verb",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Run",
+          "isCorrect": false,
+          "explanation": "This is the base form of the verb, but it does not agree with the subject \"Sameer\" because it is not in the third-person singular form. Therefore, this is not the correct answer."
+        },
+        {
+          "letter": "B",
+          "text": "Runs",
+          "isCorrect": true,
+          "explanation": "3rd person singular present tense of run is runs."
+        },
+        {
+          "letter": "C",
+          "text": "Running",
+          "isCorrect": false,
+          "explanation": "Running - This is the present participle form of the verb. While it is grammatically correct, it does not fit in the sentence structure as it cannot be used as the main verb of the sentence."
+        },
+        {
+          "letter": "D",
+          "text": "Walk",
+          "isCorrect": false,
+          "explanation": "Walk - This is a completely different verb and does not agree with the subject \"Sameer\" in the sentence. Therefore, this is not the correct answer."
+        }
+      ],
+      "explanation": "Runs - 3rd person singular present tense of run is runs.",
+      "explanationImage": null,
+      "hints": [
+        "every day"
+      ]
+    },
+    {
+      "text": "My parents _ near Lahore.",
+      "image": null,
+      "subject": "English",
+      "topic": "Verb",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Living",
+          "isCorrect": false,
+          "explanation": "\"Living near\" is incorrect as it does not agree with the subject-verb agreement."
+        },
+        {
+          "letter": "B",
+          "text": "Are living",
+          "isCorrect": false,
+          "explanation": "\"Are living\" is also incorrect as it uses the present continuous tense, which is not suitable for describing a present state."
+        },
+        {
+          "letter": "C",
+          "text": "Lives",
+          "isCorrect": false,
+          "explanation": "\"Lives\" is incorrect as it is in the third-person singular form, which does not agree with the subject \"my parents,\" which is in the plural form."
+        },
+        {
+          "letter": "D",
+          "text": "Live",
+          "isCorrect": true,
+          "explanation": "Parents is a plural noun so the verb used should be singular."
+        }
+      ],
+      "explanation": "Parents is a plural noun so the verb used should be singular.",
+      "explanationImage": null,
+      "hints": [
+        "parents"
+      ]
+    },
+    {
+      "text": "Use an appropriate article:The book is about _ man who lives on _ small island.",
+      "image": null,
+      "subject": "English",
+      "topic": "Article",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A, An",
+          "isCorrect": false,
+          "explanation": "This is not appropriate due to the rule that \"an\" is used before words that begin with a vowel sound. Since \"man\" begins with a consonant sound, \"a\" would be the correct article to use in this case."
+        },
+        {
+          "letter": "B",
+          "text": "A, A",
+          "isCorrect": true,
+          "explanation": "\"The book is about a man who lives on a small island,\" the articles \"a\" are used before the nouns \"man\" and \"island\" as they both are indefinite."
+        },
+        {
+          "letter": "C",
+          "text": "A, The",
+          "isCorrect": false,
+          "explanation": "It does not fit because \"the\" implies a specific island, but the sentence mentions \"a small island,\" which is not specific."
+        },
+        {
+          "letter": "D",
+          "text": "An, A",
+          "isCorrect": false,
+          "explanation": "It does not fit because \"an\" is used before words that start with a vowel sound, while \"man\" starts with a consonant sound."
+        }
+      ],
+      "explanation": "In the sentence \"The book is about a man who lives on a small island,\" the articles \"a\" are used before the nouns \"man\" and \"island.\"",
+      "explanationImage": null,
+      "hints": [
+        "man",
+        "small island"
+      ]
+    },
+    {
+      "text": "Sam _ in the garden now.",
+      "image": null,
+      "subject": "English",
+      "topic": "Verb",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Digs",
+          "isCorrect": false,
+          "explanation": "The simple present or present indefinite is one of the verb forms associated with the present tense in modern English. It is commonly referred to as a tense, although it also encodes certain information about aspects in addition to the present time. Option A, i.e., digs, shows present tense; therefore, it is ruled out."
+        },
+        {
+          "letter": "B",
+          "text": "Digging",
+          "isCorrect": false,
+          "explanation": "Although digging shows the Present continuous tense, the helping verb \" is\" isn't used here. Therefore, it is also wrong."
+        },
+        {
+          "letter": "C",
+          "text": "Is diging",
+          "isCorrect": false,
+          "explanation": "In option C, the spelling of the word digging is wrong; therefore, this option is ruled out as well."
+        },
+        {
+          "letter": "D",
+          "text": "Is digging",
+          "isCorrect": true,
+          "explanation": "-ing makes the verb in its present continuous form. Therefore it's the right choice here."
+        }
+      ],
+      "explanation": "The given sentence is a present continuous tense as indicated by the word now.The given sentence is a present continuous tense as indicated by the word now. -ing makes the verb in present continuous form.",
+      "explanationImage": null,
+      "hints": [
+        "now"
+      ]
+    },
+    {
+      "text": "If mountains are _ of trees, rains will soon wash the fertile topsoil down the slope to end up as useless silt below.",
+      "image": null,
+      "subject": "English",
+      "topic": "Combination Mistake",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Deforested",
+          "isCorrect": false,
+          "explanation": "Deforested means an area clear of forests or trees. This word does not make sense with the above sentence."
+        },
+        {
+          "letter": "B",
+          "text": "Afforested",
+          "isCorrect": false,
+          "explanation": "Afforestation is the establishment of a forest or stand of trees in an area.This word does not make sense with the above sentence."
+        },
+        {
+          "letter": "C",
+          "text": "Stripped",
+          "isCorrect": true,
+          "explanation": "Stripped means taken away. Among the given options stripped fits here and our sentence will be as follows;If mountains are stripped of trees, rain will soon wash the fertile topsoil down the slope to end up as a useless slit below."
+        },
+        {
+          "letter": "D",
+          "text": "Shortage",
+          "isCorrect": false,
+          "explanation": "Shortage means a deficiency or lack in. This word does not make sense with the above sentence."
+        }
+      ],
+      "explanation": "Stripped means taken away. Among the given options stripped fits here and our sentence will be as follows;If mountains are stripped of trees, rain will soon wash the fertile topsoil down the slope to end up as a useless slit below.",
+      "explanationImage": null,
+      "hints": [
+        "wash the fertile topsoil down"
+      ]
+    }
+  ]
+}

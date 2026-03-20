@@ -1,0 +1,1450 @@
+{
+  "questions": [
+    {
+      "text": "The value of Coulomb's constant 'K' In terms of permittivity of free space Is given as:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "K=1/4πϵ0",
+          "isCorrect": true,
+          "explanation": "This is the standard form derived from Coulomb’s law."
+        },
+        {
+          "letter": "B",
+          "text": "K = 1 / 2ϵ₀",
+          "isCorrect": false,
+          "explanation": "Lacks the essential π and the 4 factor; not mathematically valid."
+        },
+        {
+          "letter": "C",
+          "text": "K = 1 / 2πϵ₀",
+          "isCorrect": false,
+          "explanation": "Still missing the factor 4, and this isn't used in any electrostatics derivation."
+        },
+        {
+          "letter": "D",
+          "text": "K = 1 / 2π²ϵ₀",
+          "isCorrect": false,
+          "explanation": "No electrostatic derivation or law uses this form."
+        }
+      ],
+      "explanation": "This is the standard form derived from Coulomb’s law.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The electric flux through the surface d of a sphere of radius \"p\" due to a point charge a placed at its center depends upon:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The radius of the sphere",
+          "isCorrect": false,
+          "explanation": "According to Gauss’s Law, flux is independent of radius."
+        },
+        {
+          "letter": "B",
+          "text": "The surface area of the sphere",
+          "isCorrect": false,
+          "explanation": "Again, Gauss’s Law states flux only depends on enclosed charge."
+        },
+        {
+          "letter": "C",
+          "text": "The quantity of charge outside of the sphere",
+          "isCorrect": false,
+          "explanation": "External charges don’t affect net flux inside a closed surface."
+        },
+        {
+          "letter": "D",
+          "text": "The quantity of charge inside of the sphere",
+          "isCorrect": true,
+          "explanation": "Flux = Q_enclosed / ϵ₀ — depends only on the charge inside the sphere."
+        }
+      ],
+      "explanation": "Flux = Q_enclosed / ϵ₀ — depends only on the charge inside the sphere.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "An electric field lines provide the Information about:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electric force",
+          "isCorrect": false,
+          "explanation": "Field lines show direction and strength of force on a test charge."
+        },
+        {
+          "letter": "B",
+          "text": "Direction",
+          "isCorrect": false,
+          "explanation": "Field lines are tangent to the electric field vector at any point."
+        },
+        {
+          "letter": "C",
+          "text": "Medium",
+          "isCorrect": false,
+          "explanation": "Density and behavior of field lines may vary with medium."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": true,
+          "explanation": "All above statements are true — so “All of these” is the most complete"
+        }
+      ],
+      "explanation": "All above statements are true — so “All of these” is the most complete.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The electric field is uniform:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Near a positive point charge",
+          "isCorrect": false,
+          "explanation": "The field radiates outward and is not uniform."
+        },
+        {
+          "letter": "B",
+          "text": "Near a negative point charge",
+          "isCorrect": false,
+          "explanation": "Field is radial and non-uniform."
+        },
+        {
+          "letter": "C",
+          "text": "Between two parallel oppositely charged plates",
+          "isCorrect": true,
+          "explanation": "Field lines are parallel and evenly spaced — indicating uniformity."
+        },
+        {
+          "letter": "D",
+          "text": "Near a charged plate",
+          "isCorrect": false,
+          "explanation": "Field near an edge or a single plate is not perfectly uniform."
+        }
+      ],
+      "explanation": "Field lines are parallel and evenly spaced — indicating uniformity.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Capacitor is a device used for:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Storing voltage",
+          "isCorrect": false,
+          "explanation": "Capacitors store energy/charge, not voltage directly."
+        },
+        {
+          "letter": "B",
+          "text": "Storing current",
+          "isCorrect": false,
+          "explanation": "Current is a flow, not stored; capacitors resist changes in it."
+        },
+        {
+          "letter": "C",
+          "text": "Storing electric charge",
+          "isCorrect": true,
+          "explanation": "Capacitors store electric charge on their plates."
+        },
+        {
+          "letter": "D",
+          "text": "Producing charges",
+          "isCorrect": false,
+          "explanation": "Capacitors don’t create charge — they store what is supplied."
+        }
+      ],
+      "explanation": "Capacitors store electric charge on their plates.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Force on a charged particle due to an electrostatic field is called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Force of gravity",
+          "isCorrect": false,
+          "explanation": "Gravity is a separate fundamental force; unrelated to charge."
+        },
+        {
+          "letter": "B",
+          "text": "Electrostatic force",
+          "isCorrect": true,
+          "explanation": "This is the force described by Coulomb’s Law acting between charges."
+        },
+        {
+          "letter": "C",
+          "text": "Magnetic force",
+          "isCorrect": false,
+          "explanation": "Acts on moving charges due to magnetic fields, not static ones."
+        },
+        {
+          "letter": "D",
+          "text": "Nuclear force",
+          "isCorrect": false,
+          "explanation": "Acts inside the nucleus; irrelevant to electrostatics."
+        }
+      ],
+      "explanation": "This is the force described by Coulomb’s Law acting between charges.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is the property of electrostatic field lines?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electrostatic field lines always start on positive charge and end on negative charges",
+          "isCorrect": false,
+          "explanation": "This is a fundamental rule — field lines show the path a positive test charge would take. They begin at positive charges and terminate at negative charges."
+        },
+        {
+          "letter": "B",
+          "text": "The number of lines that originate from, or terminate on a charge is proportional to the magnitude of the charge",
+          "isCorrect": false,
+          "explanation": "A stronger charge will have more field lines. For example, a +2q charge will emit twice as many lines as a +q charge."
+        },
+        {
+          "letter": "C",
+          "text": "The direction of the field at a point is along the tangent to the line of force",
+          "isCorrect": false,
+          "explanation": "The direction of the electric field vector at any point is tangent to the field line at that point. This shows how a test charge would move."
+        },
+        {
+          "letter": "D",
+          "text": "All Choices are correct.",
+          "isCorrect": true,
+          "explanation": "All of the above are correct, so the answer is (d)."
+        }
+      ],
+      "explanation": "All of the above are correct, so the answer is (d).",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "An electron of charge e coulomb passes through a potential difference of V volts. Its energy in 'Joules' will be",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vle",
+          "isCorrect": false,
+          "explanation": "This looks like a typo or formatting issue; not a standard physical expression."
+        },
+        {
+          "letter": "B",
+          "text": "eV",
+          "isCorrect": true,
+          "explanation": "The work done or energy gained by a charge q when it moves through a potential difference V is:For an electron (charge = e), energy = e × V joules."
+        },
+        {
+          "letter": "C",
+          "text": "e/V",
+          "isCorrect": false,
+          "explanation": "This suggests dividing charge by potential, which gives units of capacitance (Farads), not energy."
+        },
+        {
+          "letter": "D",
+          "text": "V",
+          "isCorrect": false,
+          "explanation": "V is the potential, not energy. Energy must be charge × potential."
+        }
+      ],
+      "explanation": "The work done or energy gained by a charge q when it moves through a potential difference V is:For an electron (charge = e), energy = e × V joules.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "An electric dipole is at the center of a hollow sphere of radius total normal electric flux through the sphere is (here Q charge and d is the distance between the two charges of the dipole)",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 / 4πr²",
+          "isCorrect": false,
+          "explanation": "Not relevant; flux isn’t dependent on r² for a dipole."
+        },
+        {
+          "letter": "B",
+          "text": "Q / 4πr²",
+          "isCorrect": false,
+          "explanation": "Only applies for a single point charge, not a dipole."
+        },
+        {
+          "letter": "C",
+          "text": "0.01",
+          "isCorrect": false,
+          "explanation": "Random number; no basis from Gauss’s law."
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "Dipole has net charge = 0, so net flux = 0."
+        }
+      ],
+      "explanation": "Dipole has net charge = 0, so net flux = 0.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A charge is placed at the center of cube, the flux emitted through its one face is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "q / ϵ₀",
+          "isCorrect": false,
+          "explanation": "This is total flux through entire surface, not one face."
+        },
+        {
+          "letter": "B",
+          "text": "q / 2ϵ₀",
+          "isCorrect": false,
+          "explanation": "Also incorrect for a cube with 6 faces."
+        },
+        {
+          "letter": "C",
+          "text": "q / 6ϵ₀",
+          "isCorrect": true,
+          "explanation": "Cube has 6 faces; flux is equally divided"
+        },
+        {
+          "letter": "D",
+          "text": "q / 12ϵ₀",
+          "isCorrect": false,
+          "explanation": "Would apply if area doubled or cube split oddly — not standard."
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Consider a spherical shell of metal at the center of which a positive point charge is kept",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The electric field is zero outside the shell",
+          "isCorrect": false,
+          "explanation": "Outside the shell, the field behaves as if the charge were concentrated at the center, so it’s not zero."
+        },
+        {
+          "letter": "B",
+          "text": "The electric field is zero everywhere",
+          "isCorrect": false,
+          "explanation": "Field is non-zero outside the shell due to the central charge."
+        },
+        {
+          "letter": "C",
+          "text": "The electric field is zero in the region inside the shell",
+          "isCorrect": true,
+          "explanation": "Inside a conducting shell, electric field = 0 due to electrostatic shielding."
+        },
+        {
+          "letter": "D",
+          "text": "The electric field is non-zero in both regions",
+          "isCorrect": false,
+          "explanation": "Field inside is zero."
+        }
+      ],
+      "explanation": "Inside a conducting shell, electric field = 0 due to electrostatic shielding.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The force between two charges 0.06 m apart is 5 N. If each charge is moved towards the other by 0.01 m, then the force between them will become:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "7.2 N",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "11.25 N",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "22.50 N",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "45.00 N",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Tow point charge +3uC and +8uC repel each other with a force of 40 N. If a charge of -5uC Is added to each of them, then the force between them will become",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-10 N",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "+10 N",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "+20 N",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "-20 N",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The volt is equal to",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nm/C",
+          "isCorrect": false,
+          "explanation": "This is the unit of electric field, not potential."
+        },
+        {
+          "letter": "B",
+          "text": "N/C",
+          "isCorrect": false,
+          "explanation": "This unit is also of the electric field."
+        },
+        {
+          "letter": "C",
+          "text": "Joule/Coulomb",
+          "isCorrect": true,
+          "explanation": "1 volt = 1 joule per coulomb of charge."
+        },
+        {
+          "letter": "D",
+          "text": "Nm²/C",
+          "isCorrect": false,
+          "explanation": "No such unit in electrostatics."
+        }
+      ],
+      "explanation": "1 volt = 1 joule per coulomb of charge.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The energy required to charge a capacitor of 5μF by connecting D.C. source of 20 kV is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 kJ",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "5 kJ",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "2 kJ",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "1 kJ",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A medium of dielectric constant 'K' is introduced between the plates of parallel plate condenser. As a result Its capacitance:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increase k time",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Decrease k time",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Decrease k1 times",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Remains unchanged",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "An uncharged conductor \"A\" connected with another charged conductor \"B\" then?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The charge will remain the same but potential decreases",
+          "isCorrect": true,
+          "explanation": "When connected, charges redistribute to equalize potential."
+        },
+        {
+          "letter": "B",
+          "text": "The charge will remain the same but potential increases.",
+          "isCorrect": false,
+          "explanation": "Potentials equalize, charge shifts. So charge of B changes."
+        },
+        {
+          "letter": "C",
+          "text": "The charge and Potential of B will remain same",
+          "isCorrect": false,
+          "explanation": "Potentials equalize, charge shifts. So charge of B changes."
+        },
+        {
+          "letter": "D",
+          "text": "The charge and potential of B will Change",
+          "isCorrect": false,
+          "explanation": "Potentials equalize, charge shifts. So charge of B changes."
+        }
+      ],
+      "explanation": "When connected, charges redistribute to equalize potential.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The nature of capacity of electrostatic capacitor depends on",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Shape",
+          "isCorrect": false,
+          "explanation": "The shape can influence the electric field distribution, but capacitance is not directly calculated from shape alone unless it affects area or distance between plates."
+        },
+        {
+          "letter": "B",
+          "text": "Size",
+          "isCorrect": false,
+          "explanation": "Size” could refer to area or thickness, but capacitance depends on specific dimensions, not general size."
+        },
+        {
+          "letter": "C",
+          "text": "Thickness",
+          "isCorrect": false,
+          "explanation": "The thickness of the conducting plates does not affect capacitance. Only the area and distance between plates matter."
+        },
+        {
+          "letter": "D",
+          "text": "Area",
+          "isCorrect": true,
+          "explanation": "Only the area and distance between plates matter."
+        }
+      ],
+      "explanation": "Only the area and distance between plates matter.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the magnitude of a point charge which produces an electric field of 2 N/C at a distance of 60 cm)? (1/4πϵ∘=9×109Nm2/C2)",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "8×10−11 coulomb",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "2×10−12 coulomb",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "3×10−11 coulomb",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "6×10−10 coulomb",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In a Millikan's oil drop experiment the charge on an oil drop is calculated to be 6.35×10−19 C The number of excess electrons on the drop is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.9",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "4.2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A hollow insulated conduction sphere is given a positive charge of 10uc. What will be the electric field at the center of the sphere if its radius is 2 meters?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "In a hollow conducting sphere, the charge resides on the outer surface, and inside, the electric field is zero due to Gauss's Law."
+        },
+        {
+          "letter": "B",
+          "text": "5μC m2",
+          "isCorrect": false,
+          "explanation": "This looks like a surface charge density but electric field inside a conductor is zero."
+        },
+        {
+          "letter": "C",
+          "text": "20μC m2",
+          "isCorrect": false,
+          "explanation": "Same issue as above; irrelevant to field at the center."
+        },
+        {
+          "letter": "D",
+          "text": "8μC m2",
+          "isCorrect": false,
+          "explanation": "Arbitrary value, not based on any correct formula for field inside."
+        }
+      ],
+      "explanation": "In a hollow conducting sphere, the charge resides on the outer surface, and inside, the electric field is zero due to Gauss's Law.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If a charged spherical conductor of radius 10 cm has a potential V at a point with a distance of 5 cm from its center, then the potential at a distance 15 cm from the center will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/3V",
+          "isCorrect": false,
+          "explanation": "If you calculate using , the correct ratio is 2/3."
+        },
+        {
+          "letter": "B",
+          "text": "2/3V",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "3/2V",
+          "isCorrect": false,
+          "explanation": "That would mean increase in potential, which doesn't happen moving away from a positive charge."
+        },
+        {
+          "letter": "D",
+          "text": "3V",
+          "isCorrect": false,
+          "explanation": "Exaggerated and opposite trend."
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Coulomb's law in free space Is mathematically represented by",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "F = kq₁q₂ / r²",
+          "isCorrect": true,
+          "explanation": "This is the standard form of Coulomb’s Law."
+        },
+        {
+          "letter": "B",
+          "text": "F = q₁q₂ / kr²",
+          "isCorrect": false,
+          "explanation": "The constant k should be in the numerator."
+        },
+        {
+          "letter": "C",
+          "text": "F = kq₁q₂ / r",
+          "isCorrect": false,
+          "explanation": "Should be inversely proportional to r², not r."
+        },
+        {
+          "letter": "D",
+          "text": "F = kq₁ / q₂r²",
+          "isCorrect": false,
+          "explanation": "Incorrect arrangement of terms and units."
+        }
+      ],
+      "explanation": "This is the standard form of Coulomb’s Law.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If the two charges in coulomb's law are double distance between them is also doubled the electric force",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Becomes two-fold",
+          "isCorrect": false,
+          "explanation": "Net effect is cancelation"
+        },
+        {
+          "letter": "B",
+          "text": "Become four-fold",
+          "isCorrect": false,
+          "explanation": "Distance squared negates charge doubling."
+        },
+        {
+          "letter": "C",
+          "text": "Remains the same",
+          "isCorrect": true,
+          "explanation": "Correct. Explained above."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "There is a correct choice"
+        }
+      ],
+      "explanation": "Correct. Explained above.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The Si unit of permittivity is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "N⋅m2/C2",
+          "isCorrect": false,
+          "explanation": "This is the unit of Coulomb’s constant (k), not permittivity."
+        },
+        {
+          "letter": "B",
+          "text": "C2/N⋅m2",
+          "isCorrect": true,
+          "explanation": "This is the unit of permittivity (ε₀)."
+        },
+        {
+          "letter": "C",
+          "text": "N⋅m/C²",
+          "isCorrect": false,
+          "explanation": "Unit doesn't fit dimensional analysis."
+        },
+        {
+          "letter": "D",
+          "text": "N⋅m²/C",
+          "isCorrect": false,
+          "explanation": "Not dimensionally correct."
+        }
+      ],
+      "explanation": "This is the unit of permittivity (ε₀).",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The value of electrical constant of proportionality k=1/4πϵo",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "9 × 10⁹ N⋅m²/C²",
+          "isCorrect": true,
+          "explanation": "Standard value of Coulomb’s constant (k)."
+        },
+        {
+          "letter": "B",
+          "text": "9 × 10⁻⁹",
+          "isCorrect": false,
+          "explanation": "Wrong exponent"
+        },
+        {
+          "letter": "C",
+          "text": "9 × 10¹⁰",
+          "isCorrect": false,
+          "explanation": "Overestimated by 10×."
+        },
+        {
+          "letter": "D",
+          "text": "9.85 × 10¹² N⁻¹C⁻²",
+          "isCorrect": false,
+          "explanation": "Incorrect and invalid units."
+        }
+      ],
+      "explanation": "Standard value of Coulomb’s constant (k).",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The value of permittivity in free space",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "8.85×10^12N−1m−2C2",
+          "isCorrect": false,
+          "explanation": "Wrong sign and exponent."
+        },
+        {
+          "letter": "B",
+          "text": "8.85×10^10N−1m−2C2",
+          "isCorrect": false,
+          "explanation": "Incorrect. Wrong by 100x."
+        },
+        {
+          "letter": "C",
+          "text": "8.85×10^10N−1m−2C−2",
+          "isCorrect": false,
+          "explanation": "Wrong exponent and incorrect sign on power."
+        },
+        {
+          "letter": "D",
+          "text": "8.85×10^−12N−1m−2C−2",
+          "isCorrect": true,
+          "explanation": "This is the known value of ε₀ (permittivity of free space)."
+        }
+      ],
+      "explanation": "This is the known value of ε₀ (permittivity of free space).",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The concept of field theory was put forward by",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Franklin",
+          "isCorrect": false,
+          "explanation": "Known for positive/negative charge naming, not field theory."
+        },
+        {
+          "letter": "B",
+          "text": "Kepler",
+          "isCorrect": false,
+          "explanation": "Astronomy and planetary motion."
+        },
+        {
+          "letter": "C",
+          "text": "Oersted",
+          "isCorrect": false,
+          "explanation": "Discovered magnetic effects of current, not field theory."
+        },
+        {
+          "letter": "D",
+          "text": "Michael Faraday",
+          "isCorrect": true,
+          "explanation": "Proposed the idea of electric and magnetic fields."
+        }
+      ],
+      "explanation": "Proposed the idea of electric and magnetic fields.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Coulomb's force between two point charges depends upon",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Magnitude of charges",
+          "isCorrect": false,
+          "explanation": "True, directly proportional."
+        },
+        {
+          "letter": "B",
+          "text": "Distance",
+          "isCorrect": false,
+          "explanation": "True, force decreases as square of distance."
+        },
+        {
+          "letter": "C",
+          "text": "Medium",
+          "isCorrect": false,
+          "explanation": "True, permittivity of the medium affects the force."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": "All are valid influencing factors."
+        }
+      ],
+      "explanation": "All are valid influencing factors.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The electric field intensity at a point due to a point charge:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Falls off Inversely as the distance",
+          "isCorrect": false,
+          "explanation": "That’s for potential, not field."
+        },
+        {
+          "letter": "B",
+          "text": "Falls off inversely as the square of distance",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Remains unchanged with distance",
+          "isCorrect": false,
+          "explanation": "It decreases with distance."
+        },
+        {
+          "letter": "D",
+          "text": "Increase directly as square of distance",
+          "isCorrect": false,
+          "explanation": "Field decreases, not increases."
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The intensity of an electric field at a point is given by the relation:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "E=f/q0",
+          "isCorrect": true,
+          "explanation": "Electric field is defined as force per unit positive test charge."
+        },
+        {
+          "letter": "B",
+          "text": "E = q₀F",
+          "isCorrect": false,
+          "explanation": "Dimensionally incorrect and reverses relation."
+        },
+        {
+          "letter": "C",
+          "text": "E = Fq₀",
+          "isCorrect": false,
+          "explanation": "Same issue as b."
+        },
+        {
+          "letter": "D",
+          "text": "E = F²q₀",
+          "isCorrect": false,
+          "explanation": "Incorrect and nonsensical physically."
+        }
+      ],
+      "explanation": "Electric field is defined as force per unit positive test charge.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The statement \"the electric force of repulsion of attraction between two point charges is directly proportional to the product of the charges and Inversely proportional to square of the distance between them refer to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Coulomb's law",
+          "isCorrect": true,
+          "explanation": "It directly defines that behavior of force between charges."
+        },
+        {
+          "letter": "B",
+          "text": "Gauss's law",
+          "isCorrect": false,
+          "explanation": "Relates electric flux and charge, not force."
+        },
+        {
+          "letter": "C",
+          "text": "Biot–Savart law",
+          "isCorrect": false,
+          "explanation": "For magnetic fields due to currents."
+        },
+        {
+          "letter": "D",
+          "text": "Ampere's law",
+          "isCorrect": false,
+          "explanation": "Also relates to magnetism, not electrostatic force."
+        }
+      ],
+      "explanation": "It directly defines that behavior of force between charges.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The ratio of the gravitational force Fg to the electrostatic force Fe between two electrons at the same distance apart is approximately:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "9.8",
+          "isCorrect": false,
+          "explanation": "That’s acceleration due to gravity, not a ratio."
+        },
+        {
+          "letter": "B",
+          "text": "25 × 10¹⁹",
+          "isCorrect": false,
+          "explanation": "Too low"
+        },
+        {
+          "letter": "C",
+          "text": "24 × 10⁴²",
+          "isCorrect": true,
+          "explanation": "This is the actual approximate ratio."
+        },
+        {
+          "letter": "D",
+          "text": "24 × 10⁻⁴⁴",
+          "isCorrect": false,
+          "explanation": "Inverted version of the correct value."
+        }
+      ],
+      "explanation": "This is the actual approximate ratio.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The minimum charge on any object can not be less than",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.6×10−19",
+          "isCorrect": true,
+          "explanation": "This is the magnitude of the elementary charge (charge on one electron/proton)."
+        },
+        {
+          "letter": "B",
+          "text": "3.2 × 10²",
+          "isCorrect": false,
+          "explanation": "Too large; unrelated."
+        },
+        {
+          "letter": "C",
+          "text": "1.0C",
+          "isCorrect": false,
+          "explanation": "Huge amount of charge, not the smallest."
+        },
+        {
+          "letter": "D",
+          "text": "4.8 × 10⁻¹⁹",
+          "isCorrect": false,
+          "explanation": "This is 3 × e, not the minimum."
+        }
+      ],
+      "explanation": "This is the magnitude of the elementary charge (charge on one electron/proton).",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Coulomb force when any material medium is placed between two charges",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increases",
+          "isCorrect": false,
+          "explanation": "Medium usually reduces force."
+        },
+        {
+          "letter": "B",
+          "text": "Decreases",
+          "isCorrect": true,
+          "explanation": "Because relative permittivity εᵣ > 1 reduces force."
+        },
+        {
+          "letter": "C",
+          "text": "Remains unchanged",
+          "isCorrect": false,
+          "explanation": "Only true in vacuum."
+        },
+        {
+          "letter": "D",
+          "text": "None of above",
+          "isCorrect": false,
+          "explanation": "Not correct since b is right."
+        }
+      ],
+      "explanation": "Because relative permittivity εᵣ > 1 reduces force.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Tick the correct statement",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The presence of dielectric medium between two point charges always reduces the electrostatic force",
+          "isCorrect": false,
+          "explanation": "True. Dielectrics reduce force."
+        },
+        {
+          "letter": "B",
+          "text": "The tangent to a field line at any point gives the direction of the electric field E at that point",
+          "isCorrect": false,
+          "explanation": "True. Tangent gives direction of E"
+        },
+        {
+          "letter": "C",
+          "text": "The number of electric lines of force passing normally through a unit area proportional to the magnitude of the electric field",
+          "isCorrect": false,
+          "explanation": "True. That's the definition of electric flux density."
+        },
+        {
+          "letter": "D",
+          "text": "The electrostatic field is conservativ",
+          "isCorrect": false,
+          "explanation": "True. Electrostatic field has zero work in closed loop"
+        },
+        {
+          "letter": "E",
+          "text": "All are correct",
+          "isCorrect": true,
+          "explanation": "Correct. All statements are valid."
+        }
+      ],
+      "explanation": "All are correct",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If electric and gravitational force on an electron in a uniform electric field balance each other, then the intensity of electric field will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "E = mg/q",
+          "isCorrect": true,
+          "explanation": "Correct, matches derivation"
+        },
+        {
+          "letter": "B",
+          "text": "E = q/mg",
+          "isCorrect": false,
+          "explanation": "Inverted"
+        },
+        {
+          "letter": "C",
+          "text": "E = mg/q²",
+          "isCorrect": false,
+          "explanation": "Incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "E = qg/m",
+          "isCorrect": false,
+          "explanation": "Wrong relation"
+        }
+      ],
+      "explanation": "Correct, matches derivation.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The force between two charge each of charge 1uC placed 1m apart in air will be",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "9 × 10⁹",
+          "isCorrect": false,
+          "explanation": "That’s the value of k, not force."
+        },
+        {
+          "letter": "B",
+          "text": "9 × 10⁻¹²",
+          "isCorrect": false,
+          "explanation": "Incorrect magnitude."
+        },
+        {
+          "letter": "C",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "False unless one charge is zero."
+        },
+        {
+          "letter": "D",
+          "text": "9 × 10⁻³ N",
+          "isCorrect": true,
+          "explanation": "Correct. Matches calculation"
+        }
+      ],
+      "explanation": "Correct. Matches calculation.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which one of the following has larger value of relative permittivity ϵr at room temperature?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vacuum",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Air",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Glass",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Water",
+          "isCorrect": true,
+          "explanation": "εᵣ for:Vacuum = 1 (baseline)Air ≈ 1.0006Glass ≈ 4–10Water ≈ 80Water – Correct, highest εᵣ among the choices."
+        }
+      ],
+      "explanation": "εᵣ for:Vacuum = 1 (baseline)Air ≈ 1.0006Glass ≈ 4–10Water ≈ 80Water – Correct, highest εᵣ among the choices.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The electric field will be uniform between:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A point charge and a charged plate.",
+          "isCorrect": false,
+          "explanation": "Irregular field, not uniform"
+        },
+        {
+          "letter": "B",
+          "text": "Two parallel plates with opposite charges.",
+          "isCorrect": true,
+          "explanation": "Correct. Between parallel plates, the field is uniform."
+        },
+        {
+          "letter": "C",
+          "text": "Two points in empty space.",
+          "isCorrect": false,
+          "explanation": "Not meaningful; electric field depends on surrounding charge configuration."
+        },
+        {
+          "letter": "D",
+          "text": "A positively charged sphere and a negatively charged cube.",
+          "isCorrect": false,
+          "explanation": "Irregular field lines, non-uniform."
+        }
+      ],
+      "explanation": "Correct. Between parallel plates, the field is uniform.",
+      "explanationImage": null,
+      "hints": []
+    }
+  ]
+}

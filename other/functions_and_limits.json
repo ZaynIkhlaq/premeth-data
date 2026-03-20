@@ -1,0 +1,2926 @@
+{
+  "questions": [
+    {
+      "text": "limx→0 √(49+x) -7 /x = ?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "1/14",
+          "isCorrect": true,
+          "explanation": "The expression has a square root in the numerator, and it's often helpful to eliminate square roots when finding limits. Multiplying the numerator and denominator by the conjugate of the numerator is a way to get rid of the square root. This technique allows you to simplify the expression and often facilitates further algebraic manipulations."
+        },
+        {
+          "letter": "C",
+          "text": "-6",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Infinity",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The expression has a square root in the numerator, and it's often helpful to eliminate square roots when finding limits. Multiplying the numerator and denominator by the conjugate of the numerator is a way to get rid of the square root. This technique allows you to simplify the expression and often facilitates further algebraic manipulations.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The domain of function h(x)= √(x2-4) = ?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Real Numbers",
+          "isCorrect": false,
+          "explanation": "This is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "real no's - {2}",
+          "isCorrect": false,
+          "explanation": "This is not correct. Excluding only the value 2 from the real numbers is not sufficient."
+        },
+        {
+          "letter": "C",
+          "text": "{x/x R^ -2 < x < 2}",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The given set notation suggests that the domain includes all real numbers between -2 and 2, which is not accurate."
+        },
+        {
+          "letter": "D",
+          "text": "R-(-2,2)",
+          "isCorrect": true,
+          "explanation": "Domain is a set of input values for which the function is real (all real values except zero) and defined so we have to find the value of x in this scenario. To determine the domain of the function h(x)= √x2-4, we need to consider the values of x for which the expression under the square root is non-negative or zero.The expression x2-4 must be greater than or equal to 0 :x2-4≥0Factor the quadratic expression:﻿(x+2)(x-2)≥0Now, find the intervals where the expression is non-negative:x<-2 : Both factors are negative, so the expression is positive.-2<x<2 : The factor (x+2) is positive, and the factor (x-2) is negative, so the expression is negative.x>2 : Both factors are positive, so the expression is positive.Considering all intervals, the expression x2-4 is non-negative or zero when x -2 or x≥2. Therefore, the domain of h(x)=x2-4 is (-∞,-2]∪[2,∞)."
+        }
+      ],
+      "explanation": "Domain is a set of input values for which the function is real (all real values except zero) and defined so we have to find the value of x in this scenario. To determine the domain of the function h(x)= √x2-4, we need to consider the values of x for which the expression under the square root is non-negative or zero.The expression x2-4 must be greater than or equal to 0 :x2-4≥0Factor the quadratic expression:﻿(x+2)(x-2)≥0Now, find the intervals where the expression is non-negative:x<-2 : Both factors are negative, so the expression is positive.-2<x<2 : The factor (x+2) is positive, and the factor (x-2) is negative, so the expression is negative.x>2 : Both factors are positive, so the expression is positive.Considering all intervals, the expression x2-4 is non-negative or zero when x -2 or x≥2. Therefore, the domain of h(x)=x2-4 is (-∞,-2]∪[2,∞).",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "lim x->0e^x1/4",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "infinity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "-1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "isCorrect": true,
+          "explanation": "To evaluate the limit limx→0 e(x1/4), let's analyze the behavior of the function as x approaches 0 .As x approaches 0,x1/4 approaches 0 , and e(x1/4) approaches e0, is 1.Therefore, the correct value of the limit is:limx→0 e(x1/4)=1The limit does not equal 0; rather, it equals 1."
+        }
+      ],
+      "explanation": "To evaluate the limit limx→0 e(x1/4), let's analyze the behavior of the function as x approaches 0 .As x approaches 0,x1/4 approaches 0 , and e(x1/4) approaches e0, is 1.Therefore, the correct value of the limit is:limx→0 e(x1/4)=1The limit does not equal 0; rather, it equals 1.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The domain of inverse of function f(x)= 2 + √(x-1) is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "[1, infinity)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "[2, infinity)",
+          "isCorrect": true,
+          "explanation": "The following is the solution to this question."
+        },
+        {
+          "letter": "C",
+          "text": "(1, infinity)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "(2, infinity)",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The following is the solution to this question.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "lim x-> 0 (xp - cp/ x-c)=?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "pxp-1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "pcp-1",
+          "isCorrect": true,
+          "explanation": "lim x-> 0 (xp - cp/ x-c)= pcp-1 is one of the standard limits."
+        }
+      ],
+      "explanation": "lim x-> 0 (xp - cp/ x-c)= pcp-1 is one of the standard limits.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "lim x->3 (4x-8/x+2)",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-6",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "20",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "-20",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "4/5",
+          "isCorrect": true,
+          "explanation": "Replace x with the given limit 3 and solve as (12-8)/(3+2)=4/5"
+        }
+      ],
+      "explanation": "Replace x with the given limit 3 and solve as (12-8)/(3+2)=4/5",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Given f(x) = x2+3 then f(a+b) =?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "a2+b2+2ab+3",
+          "isCorrect": true,
+          "explanation": "Replace x in x2+3 with (a+b) we’ll getf(a+b)=(a+b)2+3.Now, expand and simplify the expression (a+b)2:(a+b)2=a2+2ab+b2.Substitute this back into the original expression:f(a+b)= a2+2ab+b2+3. Or a2+b2+2ab+3Hence option A is correct."
+        },
+        {
+          "letter": "B",
+          "text": "a2+b2-2ab-3",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "a2+b2-3ab",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "x2+3",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Replace x in x2+3 with (a+b) we’ll getf(a+b)=(a+b)2+3.Now, expand and simplify the expression (a+b)2:(a+b)2=a2+2ab+b2.Substitute this back into the original expression:f(a+b)= a2+2ab+b2+3. Or a2+b2+2ab+3Hence option A is correct.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "limx→0 5x4+3x3+9 / 7x4+5x2+17 = ?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "5/7",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "3/5",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "9/17",
+          "isCorrect": true,
+          "explanation": "As the limit is zero replace x with zero in the given equation and solve you’ll get 9/17 hence C is the correct option."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "As the limit is zero replace x with zero in the given equation and solve you’ll get 9/17 hence C is the correct option.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If f(x) = g(x) and g(x) is inverse of f(x), what will be the value of g'(1)?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "e",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "isCorrect": true,
+          "explanation": "COMPOSITION OF FUNCTIONS AND INVERSE OF A FUNCTION:The correct answer is c) 1.When a function f(x) has an inverse function g(x), the derivative of the inverse function g'(x) is equal to the reciprocal of the derivative of the original function f'(x), evaluated at the corresponding point.Mathematically, if f(x) = g(x), then g(x) is the inverse function of f(x), and the derivative of the inverse function g'(x) is given by:g'(x) = 1 / f'(g(x))In this case, we are asked to find the value of g'(1), which means we need to evaluate the derivative of the inverse function g(x) at x = 1.Substituting the given information, we get:g'(1) = 1 / f'(g(1))Since f(x) = g(x), we have g(1) = 1.Therefore, g'(1) = 1 / f'(1) = 1.Hence, the correct answer is c) 1."
+        },
+        {
+          "letter": "D",
+          "text": "ln 1",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "COMPOSITION OF FUNCTIONS AND INVERSE OF A FUNCTION:The correct answer is c) 1.When a function f(x) has an inverse function g(x), the derivative of the inverse function g'(x) is equal to the reciprocal of the derivative of the original function f'(x), evaluated at the corresponding point.Mathematically, if f(x) = g(x), then g(x) is the inverse function of f(x), and the derivative of the inverse function g'(x) is given by:g'(x) = 1 / f'(g(x))In this case, we are asked to find the value of g'(1), which means we need to evaluate the derivative of the inverse function g(x) at x = 1.Substituting the given information, we get:g'(1) = 1 / f'(g(1))Since f(x) = g(x), we have g(1) = 1.Therefore, g'(1) = 1 / f'(1) = 1.Hence, the correct answer is c) 1.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If f(x) = 1/x, find the value of f^-1(1).",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "√2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "1/√2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "isCorrect": true,
+          "explanation": "COMPOSITION OF FUNCTIONS AND INVERSE OF A FUNCTION:The correct answer is c) 1.To find the value of the inverse function f^-1(1), we need to find the value of x for which f(x) = 1.Given: f(x) = 1/xTo find f^-1(1), we need to solve the equation:1/x = 1x = 1Therefore, the value of f^-1(1) is 1.The explanation is as follows:The inverse function f^-1(x) is defined such that f^-1(f(x)) = x.In this case, f(x) = 1/x, so we need to find the value of x for which f(x) = 1.Solving the equation 1/x = 1, we get x = 1.Therefore, the value of f^-1(1) is 1.Hence, the correct answer is c) 1."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "COMPOSITION OF FUNCTIONS AND INVERSE OF A FUNCTION:The correct answer is c) 1.To find the value of the inverse function f^-1(1), we need to find the value of x for which f(x) = 1.Given: f(x) = 1/xTo find f^-1(1), we need to solve the equation:1/x = 1x = 1Therefore, the value of f^-1(1) is 1.The explanation is as follows:The inverse function f^-1(x) is defined such that f^-1(f(x)) = x.In this case, f(x) = 1/x, so we need to find the value of x for which f(x) = 1.Solving the equation 1/x = 1, we get x = 1.Therefore, the value of f^-1(1) is 1.Hence, the correct answer is c) 1.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If f(x) = (x + 1)^2 and g(x) = x - 1, find f(g(4)).",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "16",
+          "isCorrect": true,
+          "explanation": "The correct answer is 16 To find f(g(4)), we need to first find the value of g(4), and then substitute it into the function f(x).Given:f(x) = (x + 1)^2g(x) = x - 1Step 1: Find the value of g(4).g(4) = 4 - 1 = 3Step 2: Substitute g(4) = 3 into the function f(x).f(g(4)) = f(3)f(3) = (3 + 1)^2 = 4^2 = 16"
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is 16 To find f(g(4)), we need to first find the value of g(4), and then substitute it into the function f(x).Given:f(x) = (x + 1)^2g(x) = x - 1Step 1: Find the value of g(4).g(4) = 4 - 1 = 3Step 2: Substitute g(4) = 3 into the function f(x).f(g(4)) = f(3)f(3) = (3 + 1)^2 = 4^2 = 16",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Let the variable Z take in succession the values 6,6 (1/2), 6(2/3), 6(4/5),... then Z →?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "isCorrect": true,
+          "explanation": "It looks like the sequence is an = 6 + (n-1)/n with n = 1 , 2, 3, ...Since the limit of (n-1)/n as n →∞ is 1 , the sequence approaches the value 6 + 1 =7"
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "It looks like the sequence is an = 6 + (n-1)/n with n = 1 , 2, 3, ...Since the limit of (n-1)/n as n →∞ is 1 , the sequence approaches the value 6 + 1 =7",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Given f(x) = 4x+5, g(x) = 3x+7 then f(g(x))=?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "12x+28",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "12x+33",
+          "isCorrect": true,
+          "explanation": "To find f(g(x)), we need to substitute g(x) into f(x).Given that f(x)=4x+5 and g(x)=3x+7, let's substitute f(g(x))=f(3x+7)Now, replace x in f(x)=4x+5 with 3x+7:f(g(x))=4(3x+7)+5Distribute the 4:f(g(x))=12x+28+5Combine like terms:f(g(x))=12x+33So, the correct option is: (B)"
+        },
+        {
+          "letter": "C",
+          "text": "4x-31",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "25x+34",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "To find f(g(x)), we need to substitute g(x) into f(x).Given that f(x)=4x+5 and g(x)=3x+7, let's substitute f(g(x))=f(3x+7)Now, replace x in f(x)=4x+5 with 3x+7:f(g(x))=4(3x+7)+5Distribute the 4:f(g(x))=12x+28+5Combine like terms:f(g(x))=12x+33So, the correct option is: (B)",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "limx→0 x5+3x3+9x2+7x+8 / 2x6+17x4+3x2+5 = ?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "8/5",
+          "isCorrect": true,
+          "explanation": "Replace x with 0 as the limit is 0 in the given equation and solve you’ll get 8/5 so b is the correct option."
+        },
+        {
+          "letter": "C",
+          "text": "1/2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "∞",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Replace x with 0 as the limit is 0 in the given equation and solve you’ll get 8/5 so B is the correct option.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "limz→0 sin pz/mz = ?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "∞",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "1/m",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "p/m",
+          "isCorrect": true,
+          "explanation": "The following is the solution to this question."
+        }
+      ],
+      "explanation": "The following is the solution to this question.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which one is true?limx→∞ex = ∞ (II) limx→∞ ex= 0 (III) limx→∞ ax = a",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "I and II only",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "II and III only",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "I only",
+          "isCorrect": true,
+          "explanation": "According to one of the standard limitsLimx->∞ ex= ∞ is correct (I)Whereas Limx->-∞ ex= 0 instead of (II)"
+        },
+        {
+          "letter": "D",
+          "text": "All",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "According to one of the standard limitsLimx->∞ ex= ∞ is correct (I)Whereas Limx->-∞ ex= 0 instead of (II)",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Let |X| denote the number of elements in X, then |X x Y| =?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "|X + Y|",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "|X - Y|",
+          "isCorrect": true,
+          "explanation": "The notation ∣X∣ typically denotes the cardinality of the set X, which is the number of elements in the set. Given that ∣X∣ represents the number of elements in X. Similarly, ∣Y∣ represents the number of elements in Y, the expression ∣X*Y∣ typically refers to the cardinality of the Cartesian product of X and Y, denoted as X×Y.The Cartesian product X×Y is the set of all possible ordered pairs (x,y) where x is from X and y is from Y. The cardinality of X×Y is given by ∣X×Y∣=∣X∣⋅∣Y∣. So, the correct option is B."
+        },
+        {
+          "letter": "C",
+          "text": "|X x Y|",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The notation ∣X∣ typically denotes the cardinality of the set X, which is the number of elements in the set. Given that ∣X∣ represents the number of elements in X. Similarly, ∣Y∣ represents the number of elements in Y, the expression ∣X*Y∣ typically refers to the cardinality of the Cartesian product of X and Y, denoted as X×Y.The Cartesian product X×Y is the set of all possible ordered pairs (x,y) where x is from X and y is from Y. The cardinality of X×Y is given by ∣X×Y∣=∣X∣⋅∣Y∣. So, the correct option is B.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Let A = {3,5,7,-9}, B = {0,1,-3} and R = {(3,0), (5,1), (7,-3), (-9,0)} then domain of R=?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "{0,1,-3,0}",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "{0,1,-3}",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "{3,5,7,-9}",
+          "isCorrect": true,
+          "explanation": "Domain include the 1st element of the all ordered pairs as in R={(3,0),(5,1),(7,-3),(-9,0)} the domain will be {3,5,7,-9}."
+        },
+        {
+          "letter": "D",
+          "text": "{3,5}",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "E",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Domain include the 1st element of the all ordered pairs as in R={(3,0),(5,1),(7,-3),(-9,0)} the domain will be {3,5,7,-9}.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "limx→0 1-cos2x / x2 =?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "-1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "The following is the solution to this question."
+        }
+      ],
+      "explanation": "The following is the solution to this question.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "limx→3 x4-27 / x2-9 =?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "∞",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "9/2",
+          "isCorrect": true,
+          "explanation": "Put x=3 and solve you’ll get 0/o which is indeterminate so applying l'hopital'sl’hospitals rule and taking the denominator and numerators differentiation separately we get 3x2/2x now put x=3 and you’ll get 9/2."
+        }
+      ],
+      "explanation": "Put x=3 and solve you’ll get 0/o which is indeterminate so applying l'hopital'sl’hospitals rule and taking the denominator and numerators differentiation separately we get 3x2/2x now put x=3 and you’ll get 9/2.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "limθ→0 1-cos pθ / 1-cos qθ =?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "p2/q2",
+          "isCorrect": true,
+          "explanation": "The following is the solution to this question."
+        },
+        {
+          "letter": "B",
+          "text": "q2/p2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "∞",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The following is the solution to this question.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "limx→a f(x) - f(a) / x-a =?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "limh→0 f(a+h) + f(a) / h",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "limh→0 f(a+h) - f(a) / h",
+          "isCorrect": true,
+          "explanation": "The following is the solution to this question."
+        },
+        {
+          "letter": "C",
+          "text": "lna",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "e",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The following is the solution to this question.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Evaluate: lim (√x - √6) / (x - 6) as x→6",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "√6",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "1/2/√6",
+          "isCorrect": true,
+          "explanation": "LIMIT OF A FUNCTION AND THEOREMS ON LIMITS:The correct answer is 1/2√6.To evaluate this limit, we can use the concept of the limit of a rational function.The limit of (√x - √6) / (x - 6) as x→6 can be evaluated as follows:lim (√x - √6) / (x - 6) as x→6= lim [(√x - √6) / (x - 6)] (Rationalizing the numerator)= lim [(√x - √6) * (√x + √6) / (x - 6) * (√x + √6)]= lim [(x - 6) / (x - 6) * (√x + √6)]= lim 1/(√x + √6)= 1/√6 + √6= 1/2√6Therefore, the correct answer is 1/2/√6."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Limit does not exist",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "LIMIT OF A FUNCTION AND THEOREMS ON LIMITS:The correct answer is 1/2√6.To evaluate this limit, we can use the concept of the limit of a rational function.The limit of (√x - √6) / (x - 6) as x→6 can be evaluated as follows:lim (√x - √6) / (x - 6) as x→6= lim [(√x - √6) / (x - 6)] (Rationalizing the numerator)= lim [(√x - √6) * (√x + √6) / (x - 6) * (√x + √6)]= lim [(x - 6) / (x - 6) * (√x + √6)]= lim 1/(√x + √6)= 1/√6 + √6= 1/2√6Therefore, the correct answer is 1/2/√6.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Inverse function of y= x/x+5 is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "x/x+5",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "x/x-5",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "x/1-x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "5x/1-x",
+          "isCorrect": true,
+          "explanation": "To find the inverse function of ​, let's switch x and y and solve for the new y:x=y/y+5​Now, solve for y:x(y+5)=yExpand and rearrange terms:xy+5x=yIsolate y:xy−y=−5xy(x−1)=−5xy= −5x​/ x−1Therefore, the inverse function is:F-1(x)= −5x​/ x−1So, the correct option is D."
+        }
+      ],
+      "explanation": "To find the inverse function of ​, let's switch x and y and solve for the new y:x=y/y+5​Now, solve for y:x(y+5)=yExpand and rearrange terms:xy+5x=yIsolate y:xy−y=−5xy(x−1)=−5xy= −5x​/ x−1Therefore, the inverse function is:F-1(x)= −5x​/ x−1So, the correct option is D.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Evaluate: lim (1 - 1/n)^n as n→∞",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "e",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "e^-1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "e^2",
+          "isCorrect": true,
+          "explanation": "Correct answer is e^-2"
+        },
+        {
+          "letter": "D",
+          "text": "e^-2",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct answer is e^-2",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A function is said to be even when:",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "f(x) = f(-x)",
+          "isCorrect": true,
+          "explanation": "A function f(x) is said to be even if it satisfies the property: f(x) = f(-x)This means that the function values at x and -x are the same. In other words, the graph of an even function is symmetric about the y-axis.The other options do not correctly define an even function.Therefore, the correct answer is a) f(x) = f(-x), which is the defining property of an even function."
+        },
+        {
+          "letter": "B",
+          "text": "f(-x) = f(x)",
+          "isCorrect": false,
+          "explanation": "This defines an odd function, not an even function."
+        },
+        {
+          "letter": "C",
+          "text": "f(-x) = - f(x)",
+          "isCorrect": false,
+          "explanation": "This also defines an odd function, not an even function."
+        },
+        {
+          "letter": "D",
+          "text": "f(-x) * f(x)",
+          "isCorrect": false,
+          "explanation": "This is not a defining property of an even function."
+        }
+      ],
+      "explanation": "A function f(x) is said to be even if it satisfies the property:f(x) = f(-x)This means that the function values at x and -x are the same. In other words, the graph of an even function is symmetric about the y-axis.The other options do not correctly define an even function. Therefore, the correct answer is a) f(x) = f(-x), which is the defining property of an even function.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Evaluate: lim (ln(x))/x as x→0",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": true,
+          "explanation": "The correct answer is 0"
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "-1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is 0",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If f(x) = 2x + 3, g(x) = x^2, find g(f(x)).",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2x^2 + 3",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "(2x + 3)^2",
+          "isCorrect": true,
+          "explanation": "The correct answer is b) (2x + 3)^3g(x) =x3 f(x)=2x+3gof(x)=g(f(x))=g(2x+3)=(2x+3)2"
+        },
+        {
+          "letter": "C",
+          "text": "2x^2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is b) (2x + 3)^3g(x) =x3 f(x)=2x+3gof(x)=g(f(x))=g(2x+3)=(2x+3)2",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "limh→0 cosec (𝝅+h) =?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "-1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "∞",
+          "isCorrect": true,
+          "explanation": "The following is the solution to this question."
+        }
+      ],
+      "explanation": "The following is the solution to this question.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The graph of the function y = logx has an asymptote at _.",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "y=0",
+          "isCorrect": false,
+          "explanation": "This is not an asymptote. The logarithmic function is defined for positive values of x, and as x approaches positive infinity, y also approaches positive infinity."
+        },
+        {
+          "letter": "B",
+          "text": "x=0",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The logarithmic function has a vertical asymptote at x=0 because the function is not defined for non-positive values of x. In the context of a mathematical function, an asymptote is a line that a curve approaches but never quite reaches. Specifically, a vertical asymptote occurs when the graph of a function approaches a vertical line without ever crossing it. For the logarithmic function y=log(x), the domain is restricted to positive real numbers because the logarithm of a non-positive number is undefined. As x approaches 0 from the positive side, the value of log(x) becomes increasingly negative, approaching negative infinity. The graph of y=log(x) approaches the vertical line x=0 but never crosses it. This behavior is characteristic of a vertical asymptote.So, in summary, the vertical asymptote at x=0 for y=log(x) signifies that the function is not defined for x≤0, and as x approaches 0 from the positive side, the function values become increasingly negative, approaching negative infinity."
+        },
+        {
+          "letter": "C",
+          "text": "x=10",
+          "isCorrect": false,
+          "explanation": "This is not an asymptote. The value does not impact the behavior of the logarithmic function as x approaches infinity or 0."
+        },
+        {
+          "letter": "D",
+          "text": "y=10",
+          "isCorrect": false,
+          "explanation": "This is not an asymptote. The logarithmic function y=log(x) does not approach y=10 as x approaches infinity or 0. Instead, it goes to negative infinity as x approaches 0."
+        }
+      ],
+      "explanation": "This is the correct answer. The logarithmic function has a vertical asymptote at x=0 because the function is not defined for non-positive values of x. In the context of a mathematical function, an asymptote is a line that a curve approaches but never quite reaches. Specifically, a vertical asymptote occurs when the graph of a function approaches a vertical line without ever crossing it. For the logarithmic function y=log(x), the domain is restricted to positive real numbers because the logarithm of a non-positive number is undefined. As x approaches 0 from the positive side, the value of log(x) becomes increasingly negative, approaching negative infinity. The graph of y=log(x) approaches the vertical line x=0 but never crosses it. This behavior is characteristic of a vertical asymptote.So, in summary, the vertical asymptote at x=0 for y=log(x) signifies that the function is not defined for x≤0, and as x approaches 0 from the positive side, the function values become increasingly negative, approaching negative infinity.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Domain of the function:1/√x2+3x+2 is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "(-oo,-2)u(-1 oo)",
+          "isCorrect": true,
+          "explanation": "Correct answer is (-oo,-2)u(-1 oo)"
+        },
+        {
+          "letter": "B",
+          "text": "(-1, -2)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "x> -1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "(-oo ,oo)",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct answer is (-oo,-2)u(-1 oo)",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Find f-1(x) of f(x)=x3",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/x2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "3x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "(x2/3)0.5",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Both a and c",
+          "isCorrect": true,
+          "explanation": "Correct answer is Both a and cFollowing of the Solution"
+        }
+      ],
+      "explanation": "Correct answer is Both a and cFollowing of the Solution",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If the domain of a function f(x) = x^4 is [-1, 0, 2, -2], find its range.",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "[1, 0, 4]",
+          "isCorrect": true,
+          "explanation": "Correct Answer is “{1,0,4}”"
+        },
+        {
+          "letter": "B",
+          "text": "[1, 0, -4]",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "[1, 0, 4, -4]",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "[1, 0, -4, 4]",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct Answer is “{1,0,4}”",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Determine if the following function is even or odd: f(x) = (f(x) - f(-x))/2",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Even",
+          "isCorrect": false,
+          "explanation": "The function is not even."
+        },
+        {
+          "letter": "B",
+          "text": "Odd",
+          "isCorrect": true,
+          "explanation": "To determine if the given function f(x) = (f(x) - f(-x))/2 is even or odd, we need to check the following properties:Even function: f(-x) = f(x)Odd function: f(-x) = -f(x)Let's substitute -x into the given function:f(-x) = (f(-x) - f((-)-x))/2= (f(-x) - f(x))/2Comparing this with the original function:f(x) = (f(x) - f(-x))/2We can see that f(-x) = -(f(x) - f(-x))/2= -(f(x))/2 + f(-x)/2= -f(x)/2 + f(x)/2= -f(x)This means the function is an odd function.Therefore, the correct answer is b) Odd."
+        },
+        {
+          "letter": "C",
+          "text": "Either even or odd",
+          "isCorrect": false,
+          "explanation": "The function is definitively odd."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": "Only one of the options is correct."
+        }
+      ],
+      "explanation": "To determine if the given function f(x) = (f(x) - f(-x))/2 is even or odd, we need to check the following properties:Even function: f(-x) = f(x)Odd function: f(-x) = -f(x)Let's substitute -x into the given function:f(-x) = (f(-x) - f((-)-x))/2= (f(-x) - f(x))/2Comparing this with the original function:f(x) = (f(x) - f(-x))/2We can see that f(-x) = -(f(x) - f(-x))/2= -(f(x))/2 + f(-x)/2= -f(x)/2 + f(x)/2= -f(x)This means the function is an odd function.Therefore, the correct answer is b) Odd.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If x is a real number, which of the following function is odd?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-sin(x)",
+          "isCorrect": true,
+          "explanation": "The correct answer is a) -sin(x).To determine which of the given functions is odd, we need to check the property of odd functions:An odd function f(x) satisfies the condition: f(-x) = -f(x)Let's evaluate each function for -x:a) -sin(-x) = -(-sin(x)) = sin(x)This matches the property of an odd function, so -sin(x) is an odd function."
+        },
+        {
+          "letter": "B",
+          "text": "-cosh(x)",
+          "isCorrect": false,
+          "explanation": "This does not match the property of an odd function, so -cosh(x) is not an odd function."
+        },
+        {
+          "letter": "C",
+          "text": "|x|",
+          "isCorrect": false,
+          "explanation": "This does not match the property of an odd function, so |x| is not an odd function."
+        },
+        {
+          "letter": "D",
+          "text": "e^x - 1",
+          "isCorrect": false,
+          "explanation": "This does not match the property of an odd function, so e^x - 1 is not an odd function. Therefore, the correct answer is a) -sin(x)."
+        }
+      ],
+      "explanation": "The correct answer is a) -sin(x).To determine which of the given functions is odd, we need to check the property of odd functions:An odd function f(x) satisfies the condition: f(-x) = -f(x)Let's evaluate each function for -x:a) -sin(-x) = -(-sin(x)) = sin(x)This matches the property of an odd function, so -sin(x) is an odd function.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If f(x) = 2, find the value of f(x + 2).",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "This is not the correct value of f(x + 2) when f(x) = 2."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "isCorrect": false,
+          "explanation": "This is not the correct value of f(x + 2) when f(x) = 2."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "The correct answer is c) 2.Given information:The function f(x) is defined as f(x) = 2.To find the value of f(x + 2), we need to substitute (x + 2) into the function f(x).f(x + 2) = 2This is because the function f(x) is a constant function, which means it always returns the same value, regardless of the input value.Since f(x) = 2 for all x, then f(x + 2) will also be equal to 2.Therefore, the correct answer is c) 2."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "This is not the correct value of f(x + 2) when f(x) = 2."
+        }
+      ],
+      "explanation": "The correct answer is c) 2.Given information:The function f(x) is defined as f(x) = 2.To find the value of f(x + 2), we need to substitute (x + 2) into the function f(x).f(x + 2) = 2This is because the function f(x) is a constant function, which means it always returns the same value, regardless of the input value.Since f(x) = 2 for all x, then f(x + 2) will also be equal to 2.Therefore, the correct answer is c) 2.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Vertical asymptotes of the graph f(x) = x^2 / (x-2) occur at:",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = -2",
+          "isCorrect": true,
+          "explanation": "The given function is f(x) = (x^2 - 4) / (x - 2)(x + 2)To find the vertical asymptotes, we need to look for the values of x where the denominator becomes zero.The denominator is (x - 2)(x + 2), which becomes zero when x = 2 and x = -2.Therefore, the vertical asymptotes occur at x = 2 and x = -2.However, in this case, both the numerator (x^2 - 4) and the denominator (x - 2)(x + 2) become zero at x = 2 and x = -2.When both the numerator and denominator are zero at the same value of x, it results in a \"hole\" in the graph at that point, instead of a vertical asymptote.Therefore, the given rational expression will have a hole at x = 2 and a vertical asymptote at x = -2."
+        },
+        {
+          "letter": "B",
+          "text": "x = 2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "y = 2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Both a and b",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The given function is f(x) = (x^2 - 4) / (x - 2)(x + 2)To find the vertical asymptotes, we need to look for the values of x where the denominator becomes zero.The denominator is (x - 2)(x + 2), which becomes zero when x = 2 and x = -2.Therefore, the vertical asymptotes occur at x = 2 and x = -2.However, in this case, both the numerator (x^2 - 4) and the denominator (x - 2)(x + 2) become zero at x = 2 and x = -2.When both the numerator and denominator are zero at the same value of x, it results in a \"hole\" in the graph at that point, instead of a vertical asymptote.Therefore, the given rational expression will have a hole at x = 2 and a vertical asymptote at x = -2.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Evaluate: lim (sin(6x)/x) as x->0",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "This is not the correct value of the limit."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "isCorrect": true,
+          "explanation": "The correct answer is b) 6.To evaluate the given limit:lim (sin(6x)/x) as x->0We can use the limit properties and the fact that lim (sin(x)/x) = 1 as x->0.lim (sin(6x)/x) = 6 * lim (sin(x)/x)= 6 * 1= 6Therefore, the limit evaluates to 6.Therefore, the correct answer is b) 6."
+        },
+        {
+          "letter": "C",
+          "text": "1/6",
+          "isCorrect": false,
+          "explanation": "This is not the correct value of the limit."
+        },
+        {
+          "letter": "D",
+          "text": "Does not exist",
+          "isCorrect": false,
+          "explanation": "The limit does exist and is equal to 6."
+        }
+      ],
+      "explanation": "The correct answer is b) 6.To evaluate the given limit:lim (sin(6x)/x) as x->0We can use the limit properties and the fact that lim (sin(x)/x) = 1 as x->0.lim (sin(6x)/x) = 6 * lim (sin(x)/x)= 6 * 1= 6Therefore, the limit evaluates to 6.Therefore, the correct answer is b) 6.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If limex-->3 (x2+ax-33/x-3) =14 ,find the value of a",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-8",
+          "isCorrect": true,
+          "explanation": "The given limit expression is:lim ((x^2 + 4x - 33) / (x - 3)) as x approaches 3The question notes that we cannot substitute the value of x = 3 directly into the expression, as this would make the denominator zero and result in an undefined value.To overcome this, the question suggests using an alternate method of taking the derivative of the numerator and denominator separately, and then using the value of x.The derivative of the numerator is:d/dx (x^2 + 4x - 33) = 2x + 4The derivative of the denominator is:d/dx (x - 3) = 1Substituting these derivatives, we get:lim ((2x + 4) / 1) as x approaches 3Simplifying this expression, we get:lim (2x + 4) as x approaches 3= 2(3) + 4= 6 + 4= 10Therefore, the value of the given limit is 10.The question states that we are given the value of this limit to be equal to 14. Using this information, we can solve for the value of 'a' as follows:6 + a = 14a = 8Therefore, the final answer is a) 8."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "-12",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "12",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The given limit expression is:lim ((x^2 + 4x - 33) / (x - 3)) as x approaches 3The question notes that we cannot substitute the value of x = 3 directly into the expression, as this would make the denominator zero and result in an undefined value.To overcome this, the question suggests using an alternate method of taking the derivative of the numerator and denominator separately, and then using the value of x.The derivative of the numerator is:d/dx (x^2 + 4x - 33) = 2x + 4The derivative of the denominator is:d/dx (x - 3) = 1Substituting these derivatives, we get:lim ((2x + 4) / 1) as x approaches 3Simplifying this expression, we get:lim (2x + 4) as x approaches 3= 2(3) + 4= 6 + 4= 10Therefore, the value of the given limit is 10.The question states that we are given the value of this limit to be equal to 14. Using this information, we can solve for the value of 'a' as follows:6 + a = 14a = 8Therefore, the final answer is a) 8.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "lim ((1 - cos(x)) / x) as x->0 is equal to:",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": true,
+          "explanation": "To solve this problem, we need to evaluate the given limit:lim ((1 - cos(x)) / x) as x->0We can use L'Hôpital's rule to evaluate this limit, as the limit is in the form 0/0.Applying L'Hôpital's rule:lim ((1 - cos(x)) / x) = lim (d/dx (1 - cos(x)) / d/dx (x))= lim (sin(x) / 1)= lim sin(x)= 0Therefore, the correct answer is a) 0."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This is not the correct value of the limit."
+        },
+        {
+          "letter": "C",
+          "text": "∞",
+          "isCorrect": false,
+          "explanation": "This is not the correct value of the limit."
+        },
+        {
+          "letter": "D",
+          "text": "Does not exist",
+          "isCorrect": false,
+          "explanation": "The limit does exist and is equal to 0."
+        }
+      ],
+      "explanation": "To solve this problem, we need to evaluate the given limit:lim ((1 - cos(x)) / x) as x->0We can use L'Hôpital's rule to evaluate this limit, as the limit is in the form 0/0.Applying L'Hôpital's rule:lim ((1 - cos(x)) / x) = lim (d/dx (1 - cos(x)) / d/dx (x))= lim (sin(x) / 1)= lim sin(x)= 0Therefore, the correct answer is a) 0.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If f(x) is continuous, find the values of a and b.",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "a = 2, b = 4",
+          "isCorrect": false,
+          "explanation": "This does not satisfy the continuity condition."
+        },
+        {
+          "letter": "B",
+          "text": "a = 0, b = 1",
+          "isCorrect": false,
+          "explanation": "This does not satisfy the continuity condition."
+        },
+        {
+          "letter": "C",
+          "text": "a = 1, b = 3",
+          "isCorrect": true,
+          "explanation": "To solve this problem, we need to find the values of a and b such that the given function f(x) is continuous.The function f(x) is defined as:f(x) = ax^2 + 2x + 1, x ≤ 2f(x) = 2x + b, x > 2For the function to be continuous, the function values must be equal at the point where x = 2.Equating the function values at x = 2:ax^2 + 2x + 1 = 2x + ba(2)^2 + 2(2) + 1 = 2(2) + b4a + 4 + 1 = 4 + b4a + 5 = 4 + bb = 5 - 4aTherefore, the values of a and b that satisfy the continuity condition are:a = 1, b = 3The correct answer is c) a = 1, b = 3."
+        },
+        {
+          "letter": "D",
+          "text": "a = -1, b = 5",
+          "isCorrect": false,
+          "explanation": "This does not satisfy the continuity condition."
+        }
+      ],
+      "explanation": "To solve this problem, we need to find the values of a and b such that the given function f(x) is continuous.The function f(x) is defined as:f(x) = ax^2 + 2x + 1, x ≤ 2f(x) = 2x + b, x > 2For the function to be continuous, the function values must be equal at the point where x = 2.Equating the function values at x = 2:ax^2 + 2x + 1 = 2x + ba(2)^2 + 2(2) + 1 = 2(2) + b4a + 4 + 1 = 4 + b4a + 5 = 4 + bb = 5 - 4aTherefore, the values of a and b that satisfy the continuity condition are:a = 1, b = 3The correct answer is c) a = 1, b = 3.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If f(x) = x^2 + 1, g(x) = 5x + 1, find f(g(x)).",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "25x^2 + 10x + 2",
+          "isCorrect": true,
+          "explanation": "To find f(g(x)), we need to substitute the expression of g(x) into the function f(x).Given:f(x) = x^2 + 1g(x) = 5x + 1Substituting g(x) into f(x):f(g(x)) = (5x + 1)^2 + 1= 25x^2 + 10x + 1 + 1= 25x^2 + 10x + 2Therefore, the correct answer is a) 25x^2 + 10x + 2."
+        },
+        {
+          "letter": "B",
+          "text": "5x^2 + 6",
+          "isCorrect": false,
+          "explanation": "This is not the result of f(g(x))."
+        },
+        {
+          "letter": "C",
+          "text": "5x^4 + x^2 + 5x + 1",
+          "isCorrect": false,
+          "explanation": "This is not the result of f(g(x))."
+        },
+        {
+          "letter": "D",
+          "text": "(x^2 + 1)^2(5x + 1)",
+          "isCorrect": false,
+          "explanation": "This is not the result of f(g(x))."
+        }
+      ],
+      "explanation": "To find f(g(x)), we need to substitute the expression of g(x) into the function f(x).Given:f(x) = x^2 + 1g(x) = 5x + 1Substituting g(x) into f(x):f(g(x)) = (5x + 1)^2 + 1= 25x^2 + 10x + 1 + 1= 25x^2 + 10x + 2Therefore, the correct answer is a) 25x^2 + 10x + 2.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "lim (sin(6x) / x) as x->0 is equal to:",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "This is not the correct value of the limit."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "isCorrect": true,
+          "explanation": "o evaluate the given limit:lim (sin(6x) / x) as x->0We can use the property that lim (sin(kx) / x) = k, where k is a constant.Applying this property:lim (sin(6x) / x) = 6Therefore, the correct answer is b) 6."
+        },
+        {
+          "letter": "C",
+          "text": "1/6",
+          "isCorrect": false,
+          "explanation": "This is not the correct value of the limit."
+        },
+        {
+          "letter": "D",
+          "text": "Does not exist",
+          "isCorrect": false,
+          "explanation": "The limit does exist and is equal to 6."
+        }
+      ],
+      "explanation": "o evaluate the given limit:lim (sin(6x) / x) as x->0We can use the property that lim (sin(kx) / x) = k, where k is a constant.Applying this property:lim (sin(6x) / x) = 6Therefore, the correct answer is b) 6.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "limx→∞ (x/1+x)x =?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "e",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "e-1",
+          "isCorrect": true,
+          "explanation": "The following is the solution to this question."
+        },
+        {
+          "letter": "C",
+          "text": "e2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "1/e2",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The following is the solution to this question.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The graph of the parametric equations x=r2 and y=tWhen -2 ≤ t ≤2 represents _.",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Circle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Parabola",
+          "isCorrect": true,
+          "explanation": "The given parametric equations are x=t2 and y=t, where t varies over the interval −2 ≤ t ≤ 2.Let's eliminate the parameter t to see the relationship between x and y:As x=t2 and y=tNow, we can express t in terms of y from the second equation: t=y.Substitute this into the first equation:x=(y)2 as clear this is a quadratic functionThus represents the equation of a parabola. The graph of this equation is a parabola that opens along the positive y-axis.So, the correct option is:(b) Parabola"
+        },
+        {
+          "letter": "C",
+          "text": "Ellipse",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Straight line",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The given parametric equations are x=t2 and y=t, where t varies over the interval −2 ≤ t ≤ 2.Let's eliminate the parameter t to see the relationship between x and y:As x=t2 and y=tNow, we can express t in terms of y from the second equation: t=y.Substitute this into the first equation:x=(y)2 as clear this is a quadratic functionThus represents the equation of a parabola. The graph of this equation is a parabola that opens along the positive y-axis.So, the correct option is:(b) Parabola",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If A = {1,2,......n}, how many distinct relations can be defined on A?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "n2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "2n",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "2n^2",
+          "isCorrect": true,
+          "explanation": "The number of distinct function is given by 2n^2Let A and B are two sets as n(A)= a and n(B) = bThen number of distinct relations from A to B is = 2 n(A) * n(B) = 2abHence number of distinct relations from A to A is = 2 n(A) * n(A) = 2n^2"
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The number of distinct function is given by 2n^2Let A and B are two sets as n(A)= a and n(B) = bThen number of distinct relations from A to B is = 2 n(A) * n(B) = 2abHence number of distinct relations from A to A is = 2 n(A) * n(A) = 2n^2",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "limx→0 e-1/x2 / 1+e-1/x2 =?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": true,
+          "explanation": "The following is the solution to this question."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "-1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "∞",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The following is the solution to this question.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "limx→0 (1-4x)1/x =?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "e4",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "1/e4",
+          "isCorrect": true,
+          "explanation": "The following is the solution to this question."
+        },
+        {
+          "letter": "C",
+          "text": "e",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "e-4x",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The following is the solution to this question.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "limθ→𝝅/2 tan(θ/2) =?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": true,
+          "explanation": "Let's evaluate the limit:Lim θ→2π ​​tan(θ/2​)As θ approaches π/2​, θ/2​ approaches π/4​. In the interval (0,π/2​), the tangent function has a vertical asymptote at π/2​.tan(θ/2​)Since θ/2​ approaches π/4​. ​, we have:tan(θ/2​)=tan(π/4​)where tan(π/4​)= 1.Therefore,Lim θ→2π ​​tan(θ/2​)=1So, the correct option is:(a) 1"
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "∞",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "-1",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Let's evaluate the limit:Limθ→2π ​​tan(θ/2​)As θ approaches π/2​, θ/2​ approaches π/4​. In the interval (0,π/2​), the tangent function has a vertical asymptote at π/2​.tan(θ/2​)Since θ/2​ approaches π/4​. ​, we have:tan(θ/2​)=tan(π/4​)where tan(π/4​)= 1.Therefore,Lim θ→2π ​​tan(θ/2​)=1So, the correct option is:(a) 1",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The values of b and c for which f(x+1) - f(x) = 8x+3 holds true, where f(x) = bx2+cx+d are:",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "b=2, c= -1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "b=4, c = -1",
+          "isCorrect": true,
+          "explanation": "The following is the solution to this question."
+        },
+        {
+          "letter": "C",
+          "text": "b= -1, c=4",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The following is the solution to this question.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If f(x) = x2 - 1/x2 then f(x) =?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-f(1/x)",
+          "isCorrect": true,
+          "explanation": "The following is the solution to this question."
+        },
+        {
+          "letter": "B",
+          "text": "f(1/x)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "f(x)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "f(x2)",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The following is the solution to this question.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The range of the function f(x) = [x] is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "N",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Z",
+          "isCorrect": true,
+          "explanation": "The function f(x)=⌊x⌋, where ⌊x⌋ denotes the greatest integer less than or equal to x, takes on integer values. The range of f(x) is the set of all possible values that f(x) can attain.For the function f(x)=⌊x⌋, the range consists of all integers because the function assigns the greatest integer less than or equal to x for any given x. Therefore, the range is the set of all integers:Range of f(x)={…,−3,−2,−1,0,1,2,3,…}Or In interval notation, the range can be expressed as (−∞,∞)(−∞,∞).Thus option (B) integer Z is correct."
+        },
+        {
+          "letter": "C",
+          "text": "R",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The function f(x)=⌊x⌋, where ⌊x⌋ denotes the greatest integer less than or equal to x, takes on integer values. The range of f(x) is the set of all possible values that f(x) can attain.For the function f(x)=⌊x⌋, the range consists of all integers because the function assigns the greatest integer less than or equal to x for any given x. Therefore, the range is the set of all integers:Range of f(x)={…,−3,−2,−1,0,1,2,3,…}Or In interval notation, the range can be expressed as (−∞,∞)(−∞,∞).Thus option (B) integer Z is correct.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "limx→0 (1-cos2x)sin5x / x2sin3x =?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10/3",
+          "isCorrect": true,
+          "explanation": "The following is the solution to this question."
+        },
+        {
+          "letter": "B",
+          "text": "3/10",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "6/5",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "5/6",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The following is the solution to this question.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "limx→∞ x2-3x+2 / 2x3+x-3 =?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "1/2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "isCorrect": true,
+          "explanation": "The following is the solution to this question."
+        },
+        {
+          "letter": "D",
+          "text": "Does not exist",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The following is the solution to this question.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "limx→∞ sin x/x =?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": true,
+          "explanation": "To evaluate the limit limx→∞ ​sinx/x​, we can use the Squeeze Theorem.The Squeeze Theorem states that if g(x)≤f(x)≤h(x) for all x in some interval (except possibly at x=c) and limx→c​g(x)= limx→c​ ​h(x)=L, limx→c​f(x)=L.In this case, we can use the fact that −1≤sinx≤ 1 for all x. Dividing each term by x (assuming x is positive), we get -1/x​ ≤ sinx/x ​≤ 1/x​.Now, as x approaches infinity, both −1/x​ and 1/x​ approach zero. Therefore, by the Squeeze Theorem, limx→∞​sinx/x​=0."
+        },
+        {
+          "letter": "B",
+          "text": "undefined",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "∞",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "To evaluate the limit limx→∞ ​sinx/x​, we can use the Squeeze Theorem.The Squeeze Theorem states that if g(x)≤f(x)≤h(x) for all x in some interval (except possibly at x=c) and limx→c​g(x)= limx→c​ ​h(x)=L, limx→c​f(x)=L.In this case, we can use the fact that −1≤sinx≤ 1 for all x. Dividing each term by x (assuming x is positive), we get -1/x​ ≤ sinx/x ​≤ 1/x​.Now, as x approaches infinity, both −1/x​ and 1/x​ approach zero. Therefore, by the Squeeze Theorem, limx→∞​sinx/x​=0.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "limx→∞ (x/x+2)x =?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "e",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "e-1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "1/e2",
+          "isCorrect": true,
+          "explanation": "The following is the solution to this question."
+        },
+        {
+          "letter": "D",
+          "text": "e5",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The following is the solution to this question.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "ex+e-x / ex-e-x =?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "tanhx",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "cothx",
+          "isCorrect": true,
+          "explanation": "According to the definition of hyperbolic cotangent function cothx= ex + e-x / ex - e-x."
+        },
+        {
+          "letter": "C",
+          "text": "coth-1x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "cosechx",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "According to the definition of hyperbolic cotangent function cothx= ex + e-x / ex - e-x.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Cosh-1x = _",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/2 In(1+x)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "1/2 In(1-x)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "1/2 In (x+√x2-1)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "In(x+√x2-1)",
+          "isCorrect": true,
+          "explanation": "The hyperbolic cosine function is defined as: cosh(x)=1/2​(ex+e-x)To find the inverse, y=cosh(x) and interchange x and y x=1/2​(ey+e-y)Now, solve for y:Multiply both sides by 2 to eliminate the fraction: 2x= ey+e-y Multiply both sides by ey to clear the fraction: 2xey=e2y+1Subtract 1 from both sides: 2xey -1 = e2yNow, substitute u=ey: 2xu−1=u2Rearrange into a quadratic equation: u2−2xu+1=0Solve for u using the quadratic formula and Simplify: u = x ± sqrt(x2−1)​Substitute back u=ey: ey=x ± sqrt(x2−1)​Take the natural logarithm (ln) of both sides to solve for y: y= ln [x ± sqrt(x2−1)]Therefore, the inverse of cosh(x) in terms of natural logarithm is given by: cosh-1(x)= ln [x ± sqrt(x2−1)]Note: The ± indicates that there are two branches of the inverse hyperbolic cosine function, corresponding to the positive and negative square roots in the expression."
+        }
+      ],
+      "explanation": "The hyperbolic cosine function is defined as: cosh(x)=1/2​(ex+e-x)To find the inverse, y=cosh(x) and interchange x and y x=1/2​(ey+e-y)Now, solve for y:Multiply both sides by 2 to eliminate the fraction: 2x= ey+e-y Multiply both sides by ey to clear the fraction: 2xey=e2y+1Subtract 1 from both sides: 2xey -1 = e2yNow, substitute u=ey: 2xu−1=u2Rearrange into a quadratic equation: u2−2xu+1=0Solve for u using the quadratic formula and Simplify: u = x ± sqrt(x2−1)​Substitute back u=ey: ey=x ± sqrt(x2−1)​Take the natural logarithm (ln) of both sides to solve for y: y= ln [x ± sqrt(x2−1)]Therefore, the inverse of cosh(x) in terms of natural logarithm is given by: cosh-1(x)= ln [x ± sqrt(x2−1)]Note: The ± indicates that there are two branches of the inverse hyperbolic cosine function, corresponding to the positive and negative square roots in the expression.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is an implicit function?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "y=x-1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "y-1=x2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "x2+y+2=0",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "x2+xy+y2=9",
+          "isCorrect": true,
+          "explanation": "Implicit function, where the dependent variable 'y' and the independent variable 'x' cannot be easily segregated to represent it as a function of the form y = f(x). An example of an implicit function is the equation y2 + xy = 0. Also, a function f(x, y, z) = 0 such that one variable is dependent on the other two variables, is an implicit function. An implicit function has more than one solution for the given function. An expression of an implicit function contains two or more than two variables, written and expressed in the form of an equation f(x, y) = 0 or g(x, y, z) = 0Y=x-1Y=x2+1Y= -x2-2As for option d you’ll get two solutions that’s why it’s an implicit function."
+        }
+      ],
+      "explanation": "Implicit function, where the dependent variable 'y' and the independent variable 'x' cannot be easily segregated to represent it as a function of the form y = f(x). An example of an implicit function is the equation y2 + xy = 0. Also, a function f(x, y, z) = 0 such that one variable is dependent on the other two variables, is an implicit function. An implicit function has more than one solution for the given function. An expression of an implicit function contains two or more than two variables, written and expressed in the form of an equation f(x, y) = 0 or g(x, y, z) = 0Y=x-1Y=x2+1Y= -x2-2As for option d you’ll get two solutions that’s why it’s an implicit function.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If f(x) = 4x4+xy+y2-7 then f(x) is an _ function.",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Even",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Odd",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Both even and odd",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Neither even nor odd",
+          "isCorrect": true,
+          "explanation": "To determine whether the function is even, odd, or neither, we need to examine how the function behaves under the operations of reflection across the y-axis (for even functions) and rotation by 180 degrees about the origin (for odd functions).Even Function: A function f(x) is even if f(x)=f(−x) for all x in the domain.Odd Function: A function f(x) is odd if f(x)=−f(-x) for all x in the domain.Now, let's analyze :Even Part: f(−x)=4(−x)2+(−x)y+y2−7=4x2−xy+y2−7Odd Part: −f(−x)=−[4(−x)2+(−x)y+y2−7]=−4x2+xy−y2+7Now, let's compare the even part f(x)) and the odd part −f(−x)):The terms involving xy do not cancel out when we compare the even and odd parts, so f(x) is neither even nor odd.Therefore, the correct answer is: (d) Neither even nor odd."
+        }
+      ],
+      "explanation": "To determine whether the function is even, odd, or neither, we need to examine how the function behaves under the operations of reflection across the y-axis (for even functions) and rotation by 180 degrees about the origin (for odd functions).Even Function: A function f(x) is even if f(x)=f(−x) for all x in the domain.Odd Function: A function f(x) is odd if f(x)=−f(-x) for all x in the domain.Now, let's analyze :Even Part: f(−x)=4(−x)2+(−x)y+y2−7=4x2−xy+y2−7Odd Part: −f(−x)=−[4(−x)2+(−x)y+y2−7]=−4x2+xy−y2+7Now, let's compare the even part f(x)) and the odd part −f(−x)):The terms involving xy do not cancel out when we compare the even and odd parts, so f(x) is neither even nor odd.Therefore, the correct answer is: (d) Neither even nor odd.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "f(x) = 3x+1/2x-1 then f(f-1(2)) =?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "1/2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "One can find the inverse of function and solve the function but the best way is to keep the properties in mind to save your time. i.e. when you compose a function with its inverse, you get the input value back. That is:f(f−1(x))=xThis is a fundamental property of inverse functions. The composition of a function and its inverse \"undoes\" the original function, resulting in the identity function.Hence 2 is the correct answer."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "One can find the inverse of function and solve the function but the best way is to keep the properties in mind to save your time. i.e. when you compose a function with its inverse, you get the input value back. That is:f(f−1(x))=xThis is a fundamental property of inverse functions. The composition of a function and its inverse \"undoes\" the original function, resulting in the identity function.Hence 2 is the correct answer.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Let p be a +ve rational number if xp is defined thenlimx→∞ a/xp =?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "p",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "isCorrect": true,
+          "explanation": "xp is the denominator of the function. As more and more x approaches infinity, the denominator becomes a larger value, and “a” being divided by an increasingly larger value itself becomes smaller and smaller till it approaches zero. Hence C is the correct answer."
+        },
+        {
+          "letter": "D",
+          "text": "x",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "xp is the denominator of the function. As more and more x approaches infinity, the denominator becomes a larger value, and “a” being divided by an increasingly larger value itself becomes smaller and smaller till it approaches zero. Hence C is the correct answer.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If f(x) ≤ g(x) ≤ h(x) and limx→c f(x) = limx→c h(x) = 2, then limx→c g(x) =?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "<2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": ">2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "=2",
+          "isCorrect": true,
+          "explanation": "One of the fundamental theorem on limits of functions is the squeeze (or sandwich) theorem which states that if f(x)≤g(x)≤h(x) for all numbers, and at some point x=k we have f(k)=h(k), then g(k) must also be equal to them or if limx->c f(x)= k and limx->c h(x)= k then limx->c g(x)=kSo here limx->c f(x)=limx->c h(x)= 2 then limx->c g(x)=2. C is the correct answer."
+        },
+        {
+          "letter": "D",
+          "text": "Nothing can be said",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "One of the fundamental theorem on limits of functions is the squeeze (or sandwich) theorem which states that if f(x)≤g(x)≤h(x) for all numbers, and at some point x=k we have f(k)=h(k), then g(k) must also be equal to them or if limx->c f(x)= k and limx->c h(x)= k then limx->c g(x)=kSo here limx->c f(x)=limx->c h(x)= 2 then limx->c g(x)=2. C is the correct answer.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "For a function if right-hand limit = left-hand limit then which of the following must be true?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Function is continuous",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Function has same domain and range",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Function is defined",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "its limit exists",
+          "isCorrect": true,
+          "explanation": "The right-hand limit of a function is the value the function approaches when the variable approaches its limit from the right. The left-hand limit of a function is the value the function approaches when the variable approaches its limit from the left.Theorem of interest: The limit at an interior point of the domain of a function exists if and only if the left-hand limit and the right-hand limit exist and are equal to each other."
+        }
+      ],
+      "explanation": "The right-hand limit of a function is the value the function approaches when the variable approaches its limit from the right. The left-hand limit of a function is the value the function approaches when the variable approaches its limit from the left.Theorem of interest: The limit at an interior point of the domain of a function exists if and only if the left-hand limit and the right-hand limit exist and are equal to each other.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following cannot be the graph of a function?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": true,
+          "explanation": "For a function there exists a unique output for each input. Multiple inputs can give single output. But single input can’t give multiple outputs.Along the curve input values (x intercepts) give unique output values (y intercepts). Here two different inputs let’s say x=2 and x= -2 give same output let’s say y=3 and it’s correct.This is a straight line for each value of x input there exists a unique output y.This option is incorrect because let’s say at x=2 y=2in I quadrant and y= - 2 in IV quadrant and by function condition single input can’t give multiple outputs.Along the curve input values (x intercepts) give unique output values (y intercepts). Here two different inputs let’s say x=2 and x= -2 give same output let’s say y=3 and it’s correct."
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "For a function there exists a unique output for each input. Multiple inputs can give single output. But single input can’t give multiple outputs.Along the curve input values (x intercepts) give unique output values (y intercepts). Here two different inputs let’s say x=2 and x= -2 give same output let’s say y=3 and it’s correct.This is a straight line for each value of x input there exists a unique output y.This option is incorrect because let’s say at x=2 y=2in I quadrant and y= - 2 in IV quadrant and by function condition single input can’t give multiple outputs.Along the curve input values (x intercepts) give unique output values (y intercepts). Here two different inputs let’s say x=2 and x= -2 give same output let’s say y=3 and it’s correct.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If h(x) = 3x+2 and h(f(x)) = x, then f(2) =?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": true,
+          "explanation": "Given h(x)=3x+2, you want to find f(x) such that h(f(x))=x.Let's substitute f(x) into h(x) and set it equal to x:h(f(x))=3f(x)+2=xNow, solve for f(x):3f(x)=x−23f(x)=x−2/3​Now, to find f(2), substitute x=2 into the expression we found:f(2)=2−2/3​=0/3​=0So, f(2)=0So option A is the correct one."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "-2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Given h(x)=3x+2, you want to find f(x) such that h(f(x))=x.Let's substitute f(x) into h(x) and set it equal to x:h(f(x))=3f(x)+2=xNow, solve for f(x):3f(x)=x−23f(x)=x−2/3​Now, to find f(2), substitute x=2 into the expression we found:f(2)=2−2/3​=0/3​=0So, f(2)=0So option A is the correct one.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The domain of the function f(x) = |x+2| / x+2 is;",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "R - {2}",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "R",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "R - {±2}",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "R - {-2}",
+          "isCorrect": true,
+          "explanation": "To find the domain of the function f(x)=x+2∣x+2∣​, we need to consider the values of x for which the expression is defined. The main concern is the denominator, x+2, which should not equal zero to avoid division by zero.The expression is defined as long as x+2≠0. Therefore, we need to exclude the value x=−2 from the domain.So, the domain of the function is all real numbers except x=−2. So option d R-{-2} is correct."
+        }
+      ],
+      "explanation": "To find the domain of the function f(x)=x+2∣x+2∣​, we need to consider the values of x for which the expression is defined. The main concern is the denominator, x+2, which should not equal zero to avoid division by zero.The expression is defined as long as x+2≠0. Therefore, we need to exclude the value x=−2 from the domain.So, the domain of the function is all real numbers except x=−2. So option d R-{-2} is correct.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "log2[log3[log2x]] =1 then x=?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "43",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "34",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "29",
+          "isCorrect": true,
+          "explanation": "We know that loga (b)=c can be written as ac=b thus using this property we can write log2[log3[log2x]=1so [log3[log2x]=21=2Or [log2x]=32=9X=29 or 512So option C is correct."
+        },
+        {
+          "letter": "D",
+          "text": "22",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "We know that loga (b)=c can be written as ac=b thus using this property we can write log2[log3[log2x]=1so [log3[log2x]=21=2Or [log2x]=32=9X=29 or 512So option C is correct.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The domain of the function g(x) = e√x2-1. In(x-1) is;",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1, ∞)",
+          "isCorrect": true,
+          "explanation": "To determine the domain of the function, we need to consider the values of x for which the expression is defined. The key here is the square root term, which must have a non-negative argument.The expression under the square root, x2−1, must be greater than or equal to zero for the function to be defined. Therefore:x2−1≥0Solving this inequality:(x−1)(x+1)≥0The critical points are x=−1 and x=1. The inequality is satisfied when x≤−1 or x≥1.So, the domain of the function g(x)=ex2−1​⋅(x−1) is x≤−1 or x≥1. In interval notation, this is expressed as (−∞,−1]∪[1,∞)."
+        },
+        {
+          "letter": "B",
+          "text": "[1, ∞)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "R - {1}",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "[1, ∞]",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "To determine the domain of the function, we need to consider the values of x for which the expression is defined. The key here is the square root term, which must have a non-negative argument.The expression under the square root, x2−1, must be greater than or equal to zero for the function to be defined. Therefore:x2−1≥0Solving this inequality:(x−1)(x+1)≥0The critical points are x=−1 and x=1. The inequality is satisfied when x≤−1 or x≥1.So, the domain of the function g(x)=ex2−1​⋅(x−1) is x≤−1 or x≥1. In interval notation, this is expressed as (−∞,−1]∪[1,∞).",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The graph of x2+y2 = 9 is symmetrical about",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "x-axis",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "y-axis",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "origin",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": true,
+          "explanation": "The equation x2+y2=9 represents a circle centered at the origin with a radius of 3. The symmetry of this circle is with respect to both the x-axis and the y-axis.Symmetry about the x-axis: If (x,y) is on the circle, then (x,−y) is also on the circle because x2+(−y)2=x2+y2=9. This means the points on the circle are reflected across the x-axis.Symmetry about the y-axis: If (x,y) is on the circle, then (−x,y) is also on the circle because (−x)2+y2=x2+y2=9. This means the points on the circle are reflected across the y-axis.Therefore, the circle x2+y2=9 is symmetrical about both the x-axis and the y-axis. Additionally, it is also symmetric about the origin since it is symmetric about both the x-axis and the y-axis."
+        }
+      ],
+      "explanation": "The equation x2+y2=9 represents a circle centered at the origin with a radius of 3. The symmetry of this circle is with respect to both the x-axis and the y-axis.Symmetry about the x-axis: If (x,y) is on the circle, then (x,−y) is also on the circle because x2+(−y)2=x2+y2=9. This means the points on the circle are reflected across the x-axis.Symmetry about the y-axis: If (x,y) is on the circle, then (−x,y) is also on the circle because (−x)2+y2=x2+y2=9. This means the points on the circle are reflected across the y-axis.Therefore, the circle x2+y2=9 is symmetrical about both the x-axis and the y-axis. Additionally, it is also symmetric about the origin since it is symmetric about both the x-axis and the y-axis.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The domain of y = √-x is;",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0, ∞)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "(-∞, 1)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "(-∞, 0)",
+          "isCorrect": true,
+          "explanation": "The expression ​ involves the square root of −x. In the real number system, the square root of a negative number is not defined because there is no real number whose square is negative.Therefore, the expression​ is undefined for real values of x because taking the square root of a negative number is not possible in the real number system.As a result, the domain is an empty set, denoted as ∅ or {}. In interval notation, it can be expressed as (−∞,0]. This indicates that the expression is defined only for non-positive values of x i.e. less than or equal to zero."
+        }
+      ],
+      "explanation": "The expression ​ involves the square root of −x. In the real number system, the square root of a negative number is not defined because there is no real number whose square is negative.Therefore, the expression​ is undefined for real values of x because taking the square root of a negative number is not possible in the real number system.As a result, the domain is an empty set, denoted as ∅ or {}. In interval notation, it can be expressed as (−∞,0]. This indicates that the expression is defined only for non-positive values of x i.e. less than or equal to zero.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The range of the function f = {(1,x), (2,y), (3,z)} is _.",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "{1,x,z}",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "{1,y,z}",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "{1,2,3}",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "{x,y,z}",
+          "isCorrect": true,
+          "explanation": "The range is the set of all possible outputs. Here the 2nd element of the order is called range. So {x,y,z} is the range."
+        }
+      ],
+      "explanation": "The range is the set of all possible outputs. Here the 2nd element of the order is called range. So {x,y,z} is the range.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The domain of definition of the function y = 1/ √(16-x2) is _.",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "(-4,4)",
+          "isCorrect": true,
+          "explanation": "The domain of the function is the set of all real numbers greater than or equal to zeroHowever as per the open domain condition, 16-x2 > 0 and by solving we get D = (4,-4)"
+        },
+        {
+          "letter": "B",
+          "text": "[-4,4]",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "R - (-4,4)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "(4,∞)",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The domain of the function is the set of all real numbers greater than or equal to zeroHowever as per the open domain condition, 16-x2 > 0 and by solving we get D = (4,-4)",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If f(x) = x-1/x+1, x ≠ -1 then f-1(x) =?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1+x/x-1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "1+x/1-x",
+          "isCorrect": true,
+          "explanation": "To find the inverse function f−1(x), interchange x and y and solve for y:y=x-1/x+1​Interchange x and y:x=y-1/y+1​Now, solve for y:x(y+1)=y-1Distribute x on the left side:Xy+x=y-1Move y terms to one side and non-y terms to the otherxy−y=-x-1Factor out y:y(x−1)=−x−1Now, solve for y:y= -x−1/x−1​So, the inverse function f−1(x) is given by: -(1+x)/(1-x)."
+        },
+        {
+          "letter": "C",
+          "text": "2/1+x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "1/x-1",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "To find the inverse function f−1(x), interchange x and y and solve for y:y=x-1/x+1​Interchange x and y:x=y-1/y+1​Now, solve for y:x(y+1)=y-1Distribute x on the left side:Xy+x=y-1Move y terms to one side and non-y terms to the otherxy−y=-x-1Factor out y:y(x−1)=−x−1Now, solve for y:y= -x−1/x−1​So, the inverse function f−1(x) is given by: -(1+x)/(1-x).",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If f(x) = 4x-x2, then f(a+1) - f(a-1) is equal to:",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4(2-a)",
+          "isCorrect": true,
+          "explanation": "The following is the solution to this question."
+        },
+        {
+          "letter": "B",
+          "text": "2(4-a)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "4(2+a)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "2(4+a)",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The following is the solution to this question.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The range of the function f(x) = 1+x2/x2 is _.",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "[0,1]",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "(0,1)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "(1,∞)",
+          "isCorrect": true,
+          "explanation": "The following is the solution to this question."
+        },
+        {
+          "letter": "D",
+          "text": "[1,∞]",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The following is the solution to this question.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A function f:R → R is defined by f(x) = { 1, if x ∈ Q , -1, if x ∈ Q'} then f (𝝅) - f (22/7) =?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "-2",
+          "isCorrect": true,
+          "explanation": "The following is the solution to this question."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The following is the solution to this question.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "limx→2 [x] =?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Does not exist",
+          "isCorrect": true,
+          "explanation": "The expression limx→2 ⌊x⌋ is the limit of the floor function ⌊x⌋ as x approaches 2 . The floor function returns the greatest integer less than or equal to the given real number. In this case, ⌊x⌋ is the greatest integer less than or equal to x.As x approaches 2 from the left (denoted as x→2-), the values of ⌊x⌋ will be the integers less than or equal to 2 , which are 1 and 0 .As x approaches 2 from the right (denoted as x→2+), the values of ⌊x⌋ will be the integers less than or equal to 2 , which are 2 and 1 .So, from the left, the limit is 0 , and from the right, the limit is 1.Since the left-hand limit and the right-hand limit do not match (0≠1), the overall limit as x approaches 2 does not exist. Mathematically, we express this as:limx→2 ⌊x⌋ does not exist."
+        }
+      ],
+      "explanation": "The expression limx→2 ⌊x⌋ is the limit of the floor function ⌊x⌋ as x approaches 2 . The floor function returns the greatest integer less than or equal to the given real number. In this case, ⌊x⌋ is the greatest integer less than or equal to x.As x approaches 2 from the left (denoted as x→2-), the values of ⌊x⌋ will be the integers less than or equal to 2 , which are 1 and 0 .As x approaches 2 from the right (denoted as x→2+), the values of ⌊x⌋ will be the integers less than or equal to 2 , which are 2 and 1 .So, from the left, the limit is 0, and from the right, the limit is 1.Since the left-hand limit and the right-hand limit do not match (0≠1), the overall limit as x approaches 2 does not exist. Mathematically, we express this as:limx→2 ⌊x⌋ does not exist.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "limx→0 ex - e-x / sin x =?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "The following is the solution to this question."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "-1",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The following is the solution to this question.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "limx→0 4x - 3x / 3x - 2x =?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "ln(4/3)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "ln(3/2)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "ln(4/3) / ln(3/2)",
+          "isCorrect": true,
+          "explanation": "The following is the solution to this question."
+        },
+        {
+          "letter": "D",
+          "text": "ln(4/3) - ln(3/2)",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The following is the solution to this question.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "limx→𝝅/4 sinx - cosx / x - 𝝅/4 =?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Functions And Limits",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "√2",
+          "isCorrect": true,
+          "explanation": "The following is the solution to this question."
+        },
+        {
+          "letter": "C",
+          "text": "1/√2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "2√2",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The following is the solution to this question.",
+      "explanationImage": null,
+      "hints": []
+    }
+  ]
+}

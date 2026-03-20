@@ -1,0 +1,3400 @@
+{
+  "questions": [
+    {
+      "text": "Which of the following is the foundation of every DBMS?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fields",
+          "isCorrect": false,
+          "explanation": "Fields are incorrect. While fields are fundamental elements within a database table that store specific data points, they are not the underlying foundation of every DBMS. Data types provide the definition for the kind of data that can be stored within a field."
+        },
+        {
+          "letter": "B",
+          "text": "Design view",
+          "isCorrect": false,
+          "explanation": "Design view is incorrect. Design view is a specific way to visually represent and modify the structure of a database table within some DBMS software. It is a user interface feature, not a foundational concept of all DBMS."
+        },
+        {
+          "letter": "C",
+          "text": "Grid of rows and columns",
+          "isCorrect": false,
+          "explanation": "Grid of rows and columns is incorrect. This is a common way to represent data tables within a DBMS, but it's not the core foundation. The underlying structure is based on data types that define how data is stored and manipulated."
+        },
+        {
+          "letter": "D",
+          "text": "Data type",
+          "isCorrect": true,
+          "explanation": "Reasoning for the Correct Answer:Data type is the correct answer. Data types are essential because they define the kind of data that can be stored in a field within a database table. Common data types include numbers, text, dates, and booleans (true/false). By specifying data types, a DBMS can ensure data integrity and perform operations correctly. For instance, a field defined with a numeric data type can only store numbers, not text. This helps to maintain data consistency and accuracy."
+        }
+      ],
+      "explanation": "Reasoning for the Correct Answer:Data type is the correct answer. Data types are essential because they define the kind of data that can be stored in a field within a database table. Common data types include numbers, text, dates, and booleans (true/false). By specifying data types, a DBMS can ensure data integrity and perform operations correctly. For instance, a field defined with a numeric data type can only store numbers, not text. This helps to maintain data consistency and accuracy.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following describes a select query?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Limits the records shown",
+          "isCorrect": false,
+          "explanation": "Select queries can specify conditions that filter the data retrieved from a database. For instance, you can query to show only customers from a specific region or orders placed after a certain date."
+        },
+        {
+          "letter": "B",
+          "text": "Limits the fields shown",
+          "isCorrect": false,
+          "explanation": "Select queries allow you to specify which columns or fields you want to retrieve from a table. This is useful when you only need certain data points and avoids retrieving unnecessary information."
+        },
+        {
+          "letter": "C",
+          "text": "Selects records based on specific criteria",
+          "isCorrect": false,
+          "explanation": "As mentioned above, select queries can filter data based on conditions you define. You can use various operators and logical functions to narrow down the results to the specific data you're interested in."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": true,
+          "explanation": "In essence, select queries are versatile tools that combine these functionalities. They allow you to select specific fields (limiting the fields shown) from a database table, based on certain criteria (limiting the records shown), effectively retrieving the exact data you need."
+        }
+      ],
+      "explanation": "In essence, select queries are versatile tools that combine these functionalities. They allow you to select specific fields (limiting the fields shown) from a database table, based on certain criteria (limiting the records shown), effectively retrieving the exact data you need.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which controls the value of a record and sets it in a specific format",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "input mask",
+          "isCorrect": true,
+          "explanation": "An input mask is a data entry tool that helps users enter data in a specific format. It defines the characters that can be entered into a field, and it can also specify the order in which the characters must be entered. For example, an input mask can be used to ensure that a phone number is entered in a specific format (e.g., (###) ###-####)."
+        },
+        {
+          "letter": "B",
+          "text": "Number format",
+          "isCorrect": false,
+          "explanation": "Number format is used to display numeric data in a particular format (e.g., commas for thousands separators, decimal places). It does not control the value of the data being entered."
+        },
+        {
+          "letter": "C",
+          "text": "Validation rules",
+          "isCorrect": false,
+          "explanation": "Validation rules are used to define criteria that data must meet in order to be entered into a field. They can be used to restrict the data type (e.g., text, number), to limit the range of values that are allowed, or to ensure that certain data is entered. However, they do not define the format of the data itself."
+        },
+        {
+          "letter": "D",
+          "text": "Currency format",
+          "isCorrect": false,
+          "explanation": "Currency format is a specific type of number format that is used to display currency values. Like number format, it does not control the value of the data being entered."
+        }
+      ],
+      "explanation": "An input mask is a data entry tool that helps users enter data in a specific format. It defines the characters that can be entered into a field, and it can also specify the order in which the characters must be entered. For example, an input mask can be used to ensure that a phone number is entered in a specific format (e.g., (###) ###-####).",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which field type can be indexed?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Memo",
+          "isCorrect": false,
+          "explanation": "Memo is incorrect. Memo fields are used to store large text pieces in a database. Because of their unstructured nature, they are not suitable for indexing."
+        },
+        {
+          "letter": "B",
+          "text": "Indexing creates a reference system for efficient data retrieval, and it works best with structured data like numbers or text with a limited set of characters.",
+          "isCorrect": false,
+          "explanation": "Hyperlink is incorrect. Hyperlink fields store URLs (web addresses) and are not typically indexed."
+        },
+        {
+          "letter": "C",
+          "text": "OLE",
+          "isCorrect": false,
+          "explanation": "OLE is incorrect. OLE (Object Linking and Embedding) fields can store various objects within a database, such as images, documents, or spreadsheets. They are not a suitable data type for indexing."
+        },
+        {
+          "letter": "D",
+          "text": "Number",
+          "isCorrect": true,
+          "explanation": "Number is correct. Number fields are used to store numeric data, and they are a well-suited data type for indexing. Indexes can be created on number fields to allow for fast searching and sorting of data based on numerical values. This can significantly improve the performance of database queries that involve filtering or ordering numerical data.In conclusion, number fields are the most appropriate choice for indexing among the given options. Indexing on numbers allows for efficient data retrieval based on numerical values. Memo, hyperlink, and OLE data types are not typically used for indexing due to their unstructured nature or the way they store data"
+        }
+      ],
+      "explanation": "Number is correct. Number fields are used to store numeric data, and they are a well-suited data type for indexing. Indexes can be created on number fields to allow for fast searching and sorting of data based on numerical values. This can significantly improve the performance of database queries that involve filtering or ordering numerical data.In conclusion, number fields are the most appropriate choice for indexing among the given options. Indexing on numbers allows for efficient data retrieval based on numerical values. Memo, hyperlink, and OLE data types are not typically used for indexing due to their unstructured nature or the way they store data",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The relationship between patient and bed is an example of:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "One-to-one",
+          "isCorrect": true,
+          "explanation": "In a one-to-one relationship, a single record in one table corresponds to exactly one record in another table. In the context of a hospital, a patient typically occupies one bed at a time, and a specific bed is assigned to one patient at a time. This exemplifies a one-to-one relationship."
+        },
+        {
+          "letter": "B",
+          "text": "One-to-many",
+          "isCorrect": false,
+          "explanation": "A one-to-many relationship describes a scenario where a single record in one table can be linked to multiple records in another table. For instance, a patient (one record) might have many doctor visits (multiple records), but each doctor visit is associated with only one patient."
+        },
+        {
+          "letter": "C",
+          "text": "Many-to-many",
+          "isCorrect": false,
+          "explanation": "A many-to-many relationship occurs when multiple records in one table can be linked to multiple records in another table. An example in a hospital setting could be medications (many records) prescribed to multiple patients (many records), and a patient can receive multiple medications."
+        },
+        {
+          "letter": "D",
+          "text": "Recursive relationship",
+          "isCorrect": false,
+          "explanation": "A recursive relationship is a special type of relationship where a table can be related to itself. This is not applicable to the relationship between patients and beds, as it doesn't involve a table relating to itself."
+        }
+      ],
+      "explanation": "In a one-to-one relationship, a single record in one table corresponds to exactly one record in another table. In the context of a hospital, a patient typically occupies one bed at a time, and a specific bed is assigned to one patient at a time. This exemplifies a one-to-one relationship.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In RDBMS, attribute is also known as:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rows",
+          "isCorrect": false,
+          "explanation": "are horizontal entries in a table that contain data for a specific instance of an entity. They hold values for each of the table's columns."
+        },
+        {
+          "letter": "B",
+          "text": "Tables",
+          "isCorrect": false,
+          "explanation": "are the fundamental data structures in a relational database. They store data about a particular subject or category, organized into rows and columns."
+        },
+        {
+          "letter": "C",
+          "text": "Data",
+          "isCorrect": false,
+          "explanation": "is a general term that refers to the information stored in a database. It can encompass all of the attributes (columns) and rows within a table."
+        },
+        {
+          "letter": "D",
+          "text": "Columns.",
+          "isCorrect": true,
+          "explanation": "In an RDBMS (Relational Database Management System), an attribute is a specific characteristic or property of an entity within a table. It represents a single piece of data about an entity. Another term for attribute is column.Here's why the other options are incorrect:"
+        }
+      ],
+      "explanation": "In an RDBMS (Relational Database Management System), an attribute is a specific characteristic or property of an entity within a table. It represents a single piece of data about an entity. Another term for attribute is column. Here's why the other options are incorrect:",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following datatypes increases the capacity of characters or numbers up to 255?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Text",
+          "isCorrect": false,
+          "explanation": "data type is typically limited to 255 characters. While some variations may allow slightly more, it is not designed for storing large amounts of text data."
+        },
+        {
+          "letter": "B",
+          "text": "Memo",
+          "isCorrect": true,
+          "explanation": "data type is typically used to store large text strings, often exceeding 255 characters. It is suitable for storing lengthy descriptions, notes, or any text data that may not fit within the limitations of a Text data type. Here's why the other options are incorrect:"
+        },
+        {
+          "letter": "C",
+          "text": "AutoNumber",
+          "isCorrect": false,
+          "explanation": "data type is a numeric field that automatically generates unique sequential numbers as new records are added to a table. It is not designed to store text data."
+        },
+        {
+          "letter": "D",
+          "text": "Hyperlink",
+          "isCorrect": false,
+          "explanation": "data type is used to store URLs (web addresses) and link them to a specific location within a web page or another file. It is not designed for storing large amounts of text data."
+        }
+      ],
+      "explanation": "data type is typically used to store large text strings, often exceeding 255 characters. It is suitable for storing lengthy descriptions, notes, or any text data that may not fit within the limitations of a Text data type. Here's why the other options are incorrect:",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "To find all names start with M from student table, the criteria is:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Like \"M%\"",
+          "isCorrect": true,
+          "explanation": "Like \"M%\" is the correct option because: Like is a keyword used in SQL statements for pattern matching in string fields. \"M\" is the literal character to be matched at the beginning of the string. \"%\" is the wildcard character that matches any number of characters (including zero) following the \"M\".Therefore, \"Like 'M%'\" effectively searches for all names in the student table that start with the letter \"M\""
+        },
+        {
+          "letter": "B",
+          "text": "Like \"M_\"",
+          "isCorrect": false,
+          "explanation": "The underscore is a wildcard character that can match a single character. In this case, \"M\" would only find names that start with \"M\" followed by a single character, such as \"Ma\" or \"Mi\"."
+        },
+        {
+          "letter": "C",
+          "text": "Like \"M#\"",
+          "isCorrect": false,
+          "explanation": "The hash (#) symbol is not a standard wildcard character in SQL. It might have a different meaning depending on the specific database management system being used."
+        },
+        {
+          "letter": "D",
+          "text": "(D) Like \"M\":*",
+          "isCorrect": false,
+          "explanation": "The asterisk (*) wildcard character can match any number of characters (including zero). While it would find names starting with \"M\", it would also find names with any other characters following the \"M\", including empty strings. So, it would return all names in the table, not just those starting with \"M\"."
+        }
+      ],
+      "explanation": "Like \"M%\" is the correct option because: Like is a keyword used in SQL statements for pattern matching in string fields. \"M\" is the literal character to be matched at the beginning of the string. \"%\" is the wildcard character that matches any number of characters (including zero) following the \"M\".Therefore, \"Like 'M%'\" effectively searches for all names in the student table that start with the letter \"M\"",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "To find a four-character name that starts with F, the criteria is specified as:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "F***",
+          "isCorrect": false,
+          "explanation": "is incorrect. While three asterisks might seem like a wildcard that could match any three characters, this is not a standard way to specify wildcards in SQL."
+        },
+        {
+          "letter": "B",
+          "text": "f###",
+          "isCorrect": true,
+          "explanation": "is correct. The lowercase letter 'f' at the beginning specifies that the first character must be an 'f'. The three hash symbols (#) are wildcards, which in SQL typically represent any single character. So, f### would match any four-character name that starts with 'f' followed by any three characters. In conclusion, using a lowercase 'f' followed by three hash symbols (f###) is the most common way to express the criteria for finding four-character names that start with 'f' in SQL"
+        },
+        {
+          "letter": "C",
+          "text": "(C) F*4",
+          "isCorrect": false,
+          "explanation": "is incorrect. The asterisk (*) is often a wildcard symbol, but in this context, the asterisk followed by the number 4 is not a standard way to specify a wildcard for exactly four characters."
+        },
+        {
+          "letter": "D",
+          "text": "(D) F???",
+          "isCorrect": false,
+          "explanation": "is incorrect. Similar to option (A), three question marks do not represent a standard wildcard format in SQL"
+        }
+      ],
+      "explanation": "is correct. The lowercase letter 'f' at the beginning specifies that the first character must be an 'f'. The three hash symbols (#) are wildcards, which in SQL typically represent any single character. So, f### would match any four-character name that starts with 'f' followed by any three characters. In conclusion, using a lowercase 'f' followed by three hash symbols (f###) is the most common way to express the criteria for finding four-character names that start with 'f' in SQL",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is saved when saving a query?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Structure of the query.",
+          "isCorrect": true,
+          "explanation": "When you save a query, you are essentially saving its blueprint or definition. This includes the following:Tables involved in the queryFields or columns to be retrieved from those tablesAny filtering conditions or criteria applied to the dataSorting order for the resultsJoining criteria to connect data from multiple tables (if applicable)Aggregate functions used to calculate summary data (e.g., sum, average, count)Saving the query structure allows you to reuse the same query later without having to rebuild it from scratch. You can simply execute the saved query to retrieve the desired data based on the specifications you defined when you created it."
+        },
+        {
+          "letter": "B",
+          "text": "(Only the field names in the query",
+          "isCorrect": false,
+          "explanation": "is incorrect. While field names are a part of the query structure, saving a query typically includes more than just the field names. It captures the complete definition of the query, including the tables involved, the conditions or filters applied, the sorting order, and any other elements that define how the data is retrieved and presented."
+        },
+        {
+          "letter": "C",
+          "text": "The table underlying the query is incorrect.",
+          "isCorrect": false,
+          "explanation": "While a query typically retrieves data from one or more tables, saving the query itself doesn't directly save the underlying tables. The tables are separate database objects that store the actual data."
+        },
+        {
+          "letter": "D",
+          "text": "Only the name of the query is incorrect.",
+          "isCorrect": false,
+          "explanation": "The name is just a label for the query, but saving a query preserves more than just the name. It captures the entire definition of how data should be retrieved and presented based on the query."
+        }
+      ],
+      "explanation": "When you save a query, you are essentially saving its blueprint or definition. This includes the following:Tables involved in the queryFields or columns to be retrieved from those tablesAny filtering conditions or criteria applied to the dataSorting order for the resultsJoining criteria to connect data from multiple tables (if applicable)Aggregate functions used to calculate summary data (e.g., sum, average, count)Saving the query structure allows you to reuse the same query later without having to rebuild it from scratch. You can simply execute the saved query to retrieve the desired data based on the specifications you defined when you created it.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which data type is used for entering monetary values?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Currency data type",
+          "isCorrect": true,
+          "explanation": "is specifically designed to store monetary values. It typically offers the following features:Stores both integer and decimal parts: This allows for representing cents or other fractional units of the currency.Enforces precision: The data type might allow you to specify the number of decimal places to be stored, ensuring consistent formatting for currency values.Currency symbol support: Some database systems might allow you to associate a currency symbol with the data type, but this is not a universal feature."
+        },
+        {
+          "letter": "B",
+          "text": "Auto Number:",
+          "isCorrect": false,
+          "explanation": "An Auto Number data type is a numeric data type that automatically generates unique numeric values for each new record added to a table. It's not suitable for storing monetary values as it doesn't allow for decimals or negative values."
+        },
+        {
+          "letter": "C",
+          "text": "Number",
+          "isCorrect": false,
+          "explanation": "A Number data type can store numeric values, including integers and decimals. However, it doesn't enforce any specific formatting or precision for monetary values."
+        },
+        {
+          "letter": "D",
+          "text": "Filed Type",
+          "isCorrect": false,
+          "explanation": "is not a standard data type in most database management systems. It's possible that \"Filed Type\" is a typo or a custom data type created within a specific database system."
+        }
+      ],
+      "explanation": "is specifically designed to store monetary values. It typically offers the following features:Stores both integer and decimal parts: This allows for representing cents or other fractional units of the currency.Enforces precision: The data type might allow you to specify the number of decimal places to be stored, ensuring consistent formatting for currency values.Currency symbol support: Some database systems might allow you to associate a currency symbol with the data type, but this is not a universal feature.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A request for extracting information from a database in database terminology is called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Report",
+          "isCorrect": false,
+          "explanation": "A report is a presentation of data that is typically formatted for easy reading and printing. It is often created based on the results of a query."
+        },
+        {
+          "letter": "B",
+          "text": "Form",
+          "isCorrect": false,
+          "explanation": "A form is a user interface element that allows users to input or view data in a database. It can be used to create new records, update existing records, or search for data."
+        },
+        {
+          "letter": "C",
+          "text": "Table",
+          "isCorrect": false,
+          "explanation": "A table is a fundamental data structure in a relational database. It stores data about a particular subject or category, organized into rows and columns. While tables hold the data, queries are used to extract specific information from those tables."
+        },
+        {
+          "letter": "D",
+          "text": "Query.",
+          "isCorrect": true,
+          "explanation": "A query is a statement that retrieves specific data from a database based on a set of criteria. It allows you to filter, sort, and manipulate data to answer questions or generate reports."
+        }
+      ],
+      "explanation": "A query is a statement that retrieves specific data from a database based on a set of criteria. It allows you to filter, sort, and manipulate data to answer questions or generate reports.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which data type can be used to define a field that contains data content such as a chart, picture, or graphic object?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "OLE Object",
+          "isCorrect": true,
+          "explanation": "(Object Linking and Embedding) data type allows you to embed or link data from other sources within a database field. This can include images, charts, spreadsheets, or other documents created in different software applications.It's important to note that OLE Object support might be limited in newer database management systems due to security concerns and the availability of alternative methods for storing and managing multimedia data"
+        },
+        {
+          "letter": "B",
+          "text": "Hyperlink",
+          "isCorrect": false,
+          "explanation": "A Hyperlink data type stores the address (URL) of a linked resource, such as a website or another file. It's not designed to store images or graphic objects directly."
+        },
+        {
+          "letter": "C",
+          "text": "AutoNumber",
+          "isCorrect": false,
+          "explanation": "An AutoNumber data type is a numeric data type that automatically generates unique numeric values for each new record added to a table. It's not suitable for storing images or graphic objects."
+        },
+        {
+          "letter": "D",
+          "text": "Yes/No:",
+          "isCorrect": false,
+          "explanation": "A Yes/No data type is a Boolean data type that can only store two values: Yes or No. It's not designed for storing complex data like images or graphics."
+        }
+      ],
+      "explanation": "(Object Linking and Embedding) data type allows you to embed or link data from other sources within a database field. This can include images, charts, spreadsheets, or other documents created in different software applications.It's important to note that OLE Object support might be limited in newer database management systems due to security concerns and the availability of alternative methods for storing and managing multimedia data",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The graphical query tool in Microsoft Access is known as:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Query Grid.",
+          "isCorrect": true,
+          "explanation": "In Microsoft Access, the query grid is the visual interface used to create and edit database queries. It allows you to select tables and fields, specify filter conditions, and define joins between tables. The query grid displays the tables and fields involved in the query, along with their relationships."
+        },
+        {
+          "letter": "B",
+          "text": "Design Grid",
+          "isCorrect": false,
+          "explanation": "While there is a design view for queries in Access, it is not typically referred to as a \"design grid.\" The design view provides a more technical view of the query structure, including the SQL code behind the query."
+        },
+        {
+          "letter": "C",
+          "text": "Query Form",
+          "isCorrect": false,
+          "explanation": "A query form is a type of form that is based on a query. It allows users to enter data or filter the results of a query based on a user-friendly interface. It's not the tool used to build the query itself."
+        },
+        {
+          "letter": "D",
+          "text": "View Form",
+          "isCorrect": false,
+          "explanation": "There is no standard term \"view form\" in Microsoft Access. It's possible you might be referring to a specific type of form created in Access, but the query grid is the general term for the graphical query builder."
+        }
+      ],
+      "explanation": "In Microsoft Access, the query grid is the visual interface used to create and edit database queries. It allows you to select tables and fields, specify filter conditions, and define joins between tables. The query grid displays the tables and fields involved in the query, along with their relationships.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the default field size of a Text data type in Microsoft Access?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 characters:",
+          "isCorrect": false,
+          "explanation": "While 255 characters is the standard, it's possible to define a smaller field size for Text data types in Access. So, 10 characters wouldn't be entirely wrong, but it's not the default."
+        },
+        {
+          "letter": "B",
+          "text": "50 characters",
+          "isCorrect": false,
+          "explanation": "Similar to option (A), 50 characters could be a custom field size set for a specific Text field, but it's not the default setting."
+        },
+        {
+          "letter": "C",
+          "text": "100 characters",
+          "isCorrect": false,
+          "explanation": "Again, 100 characters is a possibility for a custom field size, but not the default."
+        },
+        {
+          "letter": "D",
+          "text": "255 characters",
+          "isCorrect": true,
+          "explanation": "In Microsoft Access, a Text data type is designed to store textual information. By default, it allows you to enter up to 255 characters in each field. This provides enough space for most text entries, like names, addresses, or short descriptions.However, it's important to remember that you can adjust the field size for Text data types during table design. You can specify a lower value if you know the text entries will always be short and want to optimize storage space. Conversely, you can increase the field size to accommodate longer text entries, but this needs to be done before you start entering data, as increasing the field size later might cause truncation of existing data exceeding the previous limit"
+        }
+      ],
+      "explanation": "In Microsoft Access, a Text data type is designed to store textual information. By default, it allows you to enter up to 255 characters in each field. This provides enough space for most text entries, like names, addresses, or short descriptions.However, it's important to remember that you can adjust the field size for Text data types during table design. You can specify a lower value if you know the text entries will always be short and want to optimize storage space. Conversely, you can increase the field size to accommodate longer text entries, but this needs to be done before you start entering data, as increasing the field size later might cause truncation of existing data exceeding the previous limit",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following types of queries are action queries?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Update queries",
+          "isCorrect": true,
+          "explanation": "are designed to modify existing data in a database table. They can be used to update specific fields (columns) in one or more records (rows) based on certain conditions. For instance, an update query could be used to increase the salary of all employees in a department by 10%."
+        },
+        {
+          "letter": "B",
+          "text": "Crosstab queries",
+          "isCorrect": false,
+          "explanation": "are a type of query that reorganizes data from a relational database table into a summary table with rows and columns for easier analysis. They do not modify the underlying data in the tables."
+        },
+        {
+          "letter": "C",
+          "text": "Parameter queries",
+          "isCorrect": false,
+          "explanation": "allow users to enter input values at runtime, which can be used to filter or modify the results of the query. They don't directly change the data in the tables."
+        },
+        {
+          "letter": "D",
+          "text": "Select queries",
+          "isCorrect": false,
+          "explanation": "are used to retrieve data from one or more tables based on specific criteria. They do not modify the data itself, they only extract data for viewing or further processing."
+        }
+      ],
+      "explanation": "are designed to modify existing data in a database table. They can be used to update specific fields (columns) in one or more records (rows) based on certain conditions. For instance, an update query could be used to increase the salary of all employees in a department by 10%.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the purpose of the ribbon in Microsoft Access?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "To display a list of frequently used objects",
+          "isCorrect": false,
+          "explanation": "While the ribbon may display recently used objects in some areas, its primary function is not to show a static list."
+        },
+        {
+          "letter": "B",
+          "text": "To organize and display commands and features.",
+          "isCorrect": true,
+          "explanation": "The ribbon is a fundamental element of the Microsoft Access interface. It is a graphical toolbar that groups related commands and features together under tabs. This makes it easier for users to find the tools they need to perform various tasks in Access."
+        },
+        {
+          "letter": "C",
+          "text": "To show the current database file",
+          "isCorrect": false,
+          "explanation": "The name of the current database file is typically displayed in the title bar of the Access window, not on the ribbon."
+        },
+        {
+          "letter": "D",
+          "text": "To navigate between different views of a database object",
+          "isCorrect": false,
+          "explanation": "While some buttons on the ribbon can be used for navigation, its primary purpose is to provide access to a wider range of commands and features for working with databases."
+        }
+      ],
+      "explanation": "The ribbon is a fundamental element of the Microsoft Access interface. It is a graphical toolbar that groups related commands and features together under tabs. This makes it easier for users to find the tools they need to perform various tasks in Access.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What feature of a database management system allows you to extract data from multiple related tables and combine them into a single result set?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Joins",
+          "isCorrect": true,
+          "explanation": "are a powerful feature in relational databases that allows you to combine data from multiple tables based on a shared field or condition. This is essential for working with relational databases, where data is often stored in separate tables to avoid redundancy and improve data integrity. Joins enable you to create meaningful relationships between these tables and extract comprehensive data sets for analysis or reporting."
+        },
+        {
+          "letter": "B",
+          "text": "Query",
+          "isCorrect": false,
+          "explanation": "While queries are essential for retrieving data from databases, they can't directly combine data from multiple tables on their own. Joins are a specific type of operation used within queries to achieve this."
+        },
+        {
+          "letter": "C",
+          "text": "Report",
+          "isCorrect": false,
+          "explanation": "Reports are formatted presentations of data retrieved from a database. They can display data from a single table or a query that joins multiple tables. However, joins themselves are not a report feature, but rather a query functionality."
+        },
+        {
+          "letter": "D",
+          "text": "Macro",
+          "isCorrect": false,
+          "explanation": "Macros are sets of instructions that automate tasks in a database application. They might be used to execute queries that involve joins, but joins are a fundamental data retrieval concept, not a specific macro function."
+        }
+      ],
+      "explanation": "are a powerful feature in relational databases that allows you to combine data from multiple tables based on a shared field or condition. This is essential for working with relational databases, where data is often stored in separate tables to avoid redundancy and improve data integrity. Joins enable you to create meaningful relationships between these tables and extract comprehensive data sets for analysis or reporting.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the degree of the relationship in the Entity-Relationship (E-R) diagram?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "would be a unary relationship, which involves only one entity type. There are no unary relationships in the image."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "The degree of a relationship in an E-R diagram refers to the number of participating entity types in the relationship. In the image you sent, there are two entity types connected by a line:BookAuthorThe line connecting these entities represents the relationship between books and authors. Since there are two entity types involved (Book and Author), the degree of the relationship is 2."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "would be ternary or quaternary relationships, respectively. These involve three or four entity types participating in the relationship. The diagram only shows two entity types."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "would be ternary or quaternary relationships, respectively. These involve three or four entity types participating in the relationship. The diagram only shows two entity types."
+        }
+      ],
+      "explanation": "The degree of a relationship in an E-R diagram refers to the number of participating entity types in the relationship. In the image you sent, there are two entity types connected by a line:BookAuthorThe line connecting these entities represents the relationship between books and authors. Since there are two entity types involved (Book and Author), the degree of the relationship is 2.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which query adds a group of records from one or more tables to the end of an existing table?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Update Query",
+          "isCorrect": false,
+          "explanation": "An update query modifies existing records in a table. It does not add new records from other tables."
+        },
+        {
+          "letter": "B",
+          "text": "Append Query.",
+          "isCorrect": true,
+          "explanation": "An Append Query is a type of query in Microsoft Access that is used to copy data from one or more tables and add it to the end of another existing table. This is useful for combining data from different sources into a single table."
+        },
+        {
+          "letter": "C",
+          "text": "Delete Query",
+          "isCorrect": false,
+          "explanation": "A delete query removes records from a table. It does not add or copy data from other tables."
+        },
+        {
+          "letter": "D",
+          "text": "Select Query",
+          "isCorrect": false,
+          "explanation": "A select query retrieves data from a table or tables based on specific criteria. It does not modify or add data to an existing table."
+        }
+      ],
+      "explanation": "An Append Query is a type of query in Microsoft Access that is used to copy data from one or more tables and add it to the end of another existing table. This is useful for combining data from different sources into a single table.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "How many characters can a field name in Microsoft Access be up to?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "31",
+          "isCorrect": false,
+          "explanation": "Field names in Microsoft Access can be longer than 31 characters."
+        },
+        {
+          "letter": "B",
+          "text": "64",
+          "isCorrect": true,
+          "explanation": "The answer is (B) 64."
+        },
+        {
+          "letter": "C",
+          "text": "74",
+          "isCorrect": false,
+          "explanation": "Field names are limited to a maximum of 64 characters."
+        },
+        {
+          "letter": "D",
+          "text": "255",
+          "isCorrect": false,
+          "explanation": "255 is the default text field size in Access, but field names have a separate limit."
+        }
+      ],
+      "explanation": "The answer is (B) 64.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is a valid data type in Microsoft Access?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Memo",
+          "isCorrect": false,
+          "explanation": "is a valid data type in Access used for storing large text pieces."
+        },
+        {
+          "letter": "B",
+          "text": "AutoNumber",
+          "isCorrect": false,
+          "explanation": "is a valid data type that automatically generates unique numeric values for each new record."
+        },
+        {
+          "letter": "C",
+          "text": "DateTime",
+          "isCorrect": false,
+          "explanation": "is a valid data type used for storing date and time information."
+        },
+        {
+          "letter": "D",
+          "text": "All of above",
+          "isCorrect": true,
+          "explanation": "The correct answer is (D) All of above"
+        },
+        {
+          "letter": "E",
+          "text": "Image",
+          "isCorrect": false,
+          "explanation": "While Access can link to or embed images using OLE fields, it doesn't have a native image data type. You can store image data within an Access database using OLE fields, but it's not a fundamental data type like the others listed."
+        }
+      ],
+      "explanation": "The correct answer is (D) All of above",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The number of records in a relation is called",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Degree",
+          "isCorrect": false,
+          "explanation": "of relation is incorrect. The degree of a relation refers to the number of attributes (columns) in a relation."
+        },
+        {
+          "letter": "B",
+          "text": "Cardinality",
+          "isCorrect": true,
+          "explanation": "In conclusion, cardinality is the term that specifically refers to the number of records (tuples) in a relation (table) in a database"
+        },
+        {
+          "letter": "C",
+          "text": "Database objects is incorrect.",
+          "isCorrect": false,
+          "explanation": "Database objects is a general term that encompasses various elements within a database, including relations (tables), indexes, views, and procedures."
+        },
+        {
+          "letter": "D",
+          "text": "Relationship is incorrect",
+          "isCorrect": false,
+          "explanation": "A relationship, in the context of databases, refers to the connection between two or more tables based on a shared column or columns. Cardinality refers to the number of records in a single table."
+        }
+      ],
+      "explanation": "In conclusion, cardinality is the term that specifically refers to the number of records (tuples) in a relation (table) in a database",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which one is the logical data type in MS Access?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "AutoNumber",
+          "isCorrect": false,
+          "explanation": "This data type is used to generate a unique number for each record automatically."
+        },
+        {
+          "letter": "B",
+          "text": "Currency",
+          "isCorrect": false,
+          "explanation": "This data type is used to store monetary values."
+        },
+        {
+          "letter": "C",
+          "text": "OLE Object",
+          "isCorrect": false,
+          "explanation": "This data type is used to store and embed OLE (Object Linking and Embedding) objects in a database."
+        },
+        {
+          "letter": "D",
+          "text": "Yes/No",
+          "isCorrect": true,
+          "explanation": "The Yes/No data type is the logical data type in MS Access. It is used to store Boolean values, which can be either true or false."
+        }
+      ],
+      "explanation": "The Yes/No data type is the logical data type in MS Access. It is used to store Boolean values, which can be either true or false.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following allows access to query and sort records faster?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Data format",
+          "isCorrect": false,
+          "explanation": "Data format and Text format are properties of a column that define the type of data that can be stored in that column. While the data format can affect the efficiency of queries to some extent, it does not have the same impact as indexes."
+        },
+        {
+          "letter": "B",
+          "text": "Default value",
+          "isCorrect": false,
+          "explanation": "is a property of a column that specifies the value that will be automatically inserted into new records if no value is explicitly provided. Default values do not have any impact on the speed of queries or sorting"
+        },
+        {
+          "letter": "C",
+          "text": "Text format",
+          "isCorrect": false,
+          "explanation": "Data format and Text format are properties of a column that define the type of data that can be stored in that column. While the data format can affect the efficiency of queries to some extent, it does not have the same impact as indexes."
+        },
+        {
+          "letter": "D",
+          "text": "Indexes",
+          "isCorrect": true,
+          "explanation": "are special data structures that act like an index in a book. They allow the database to quickly locate specific records without having to search the entire table. This can significantly improve the performance of queries and sorting operations."
+        }
+      ],
+      "explanation": "are special data structures that act like an index in a book. They allow the database to quickly locate specific records without having to search the entire table. This can significantly improve the performance of queries and sorting operations.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which shortcut key is used to replace the character?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ctrl+A",
+          "isCorrect": false,
+          "explanation": "This shortcut is commonly used to open the \"Find\" function in many programs, allowing you to search for specific text within a document or application. It doesn't directly replace characters."
+        },
+        {
+          "letter": "B",
+          "text": "Ctrl+S",
+          "isCorrect": false,
+          "explanation": "This shortcut is typically used to \"Save\" a file in various programs. While it's important for preserving your work, it doesn't replace characters."
+        },
+        {
+          "letter": "C",
+          "text": "Ctrl+H",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. Ctrl+H is the shortcut key used to access the \"Find and Replace\" dialog box in many programs, including Microsoft Word. This function allows you to search for a specific character or text and replace it with another character or text. As you can see, only Ctrl+H offers the functionality to replace characters within a program. The other options serve different purposes in working with documents and applications."
+        },
+        {
+          "letter": "D",
+          "text": "Ctrl+P",
+          "isCorrect": false,
+          "explanation": "This shortcut is commonly used to \"Print\" a file in many programs. It doesn't directly replace characters."
+        }
+      ],
+      "explanation": "This is the correct answer. Ctrl+H is the shortcut key used to access the \"Find and Replace\" dialog box in many programs, including Microsoft Word. This function allows you to search for a specific character or text and replace it with another character or text. As you can see, only Ctrl+H offers the functionality to replace characters within a program. The other options serve different purposes in working with documents and applications.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In MS Access, design view is used to construct:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Form",
+          "isCorrect": false,
+          "explanation": "Forms are created using Form view, which allows you to design a user interface for data entry and display."
+        },
+        {
+          "letter": "B",
+          "text": "Report",
+          "isCorrect": false,
+          "explanation": "Reports are created using Report view, which is used to format and present data for printing or viewing."
+        },
+        {
+          "letter": "C",
+          "text": "Table",
+          "isCorrect": false,
+          "explanation": "Tables are created in Datasheet view, where you define the structure of the table and enter data records."
+        },
+        {
+          "letter": "D",
+          "text": "Query.",
+          "isCorrect": true,
+          "explanation": "Design view is a visual interface in Microsoft Access used to create and modify database queries. It allows you to specify the tables involved in the query, the fields you want to retrieve, and any filtering or sorting criteria."
+        }
+      ],
+      "explanation": "Design view is a visual interface in Microsoft Access used to create and modify database queries. It allows you to specify the tables involved in the query, the fields you want to retrieve, and any filtering or sorting criteria.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What are the contents of the middle box?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Field name and data type",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Field name and field number",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Field number and data type",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Field name, field number, and data type",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In a table, a field's width indicates:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Number of characters it can contain",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Number of inches it takes on the screen",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Number of pixels it takes on the screen",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Number of characters visible to the user",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which data type is the default type?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Memo",
+          "isCorrect": false,
+          "explanation": "A Memo data type is used to store large amounts of text. It is not the default data type because most fields don't need to store a lot of text"
+        },
+        {
+          "letter": "B",
+          "text": "Number",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Text",
+          "isCorrect": false,
+          "explanation": "A Text data type is used to store text data up to 255 characters. It is not the default data type because numbers are more commonly used in databases than text."
+        },
+        {
+          "letter": "D",
+          "text": "Auto Number",
+          "isCorrect": false,
+          "explanation": "An AutoNumber data type is a numeric data type that automatically assigns a unique number to each record. It is not the default data type because it is only used in specific situations where you need a unique identifier for each record."
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which data type can be used to define a field that contains an active web address as its contents?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hyperlink",
+          "isCorrect": true,
+          "explanation": "A hyperlink is a data type that specifically stores a reference to a resource located on the web. It allows users to click on the hyperlink and be directed to the web address."
+        },
+        {
+          "letter": "B",
+          "text": "OLE Object",
+          "isCorrect": false,
+          "explanation": "is a more general data type that can store a variety of objects, including web addresses, but it's not specifically designed for that purpose"
+        },
+        {
+          "letter": "C",
+          "text": "Look up Wizard",
+          "isCorrect": false,
+          "explanation": "is a tool used to create relationships between tables in a database. It's not a data type for storing web addresses"
+        },
+        {
+          "letter": "D",
+          "text": "AutoNumber",
+          "isCorrect": false,
+          "explanation": "is a data type that automatically generates unique numeric values for each record in a table. It's not used for storing web addresses"
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What data type can be used to define a field that contains data content such as a chart, picture, or graphic object?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hyperlink",
+          "isCorrect": false,
+          "explanation": "This data type is used to store a link to a web page or other resource. It would not be appropriate for storing an image or chart directly"
+        },
+        {
+          "letter": "B",
+          "text": "OLE Object",
+          "isCorrect": true,
+          "explanation": "Object Linking and Embedding (OLE) is a technology that allows you to embed objects from other applications into a document or database. This is the most suitable option for storing binary data such as images, charts, or graphs within a field."
+        },
+        {
+          "letter": "C",
+          "text": "Memo",
+          "isCorrect": false,
+          "explanation": "This data type is used for storing large text fields. While it could technically be used to store text describing an image, it wouldn't be the most efficient way to store the image data itself"
+        },
+        {
+          "letter": "D",
+          "text": "Auto Number",
+          "isCorrect": false,
+          "explanation": "This data type is used to automatically generate unique numeric values for each record in a table. It is not suitable for storing images or charts."
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which data types can be used to define a field that is also formatted for data entry and display?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Text and Memo",
+          "isCorrect": false,
+          "explanation": "Text data types allow for alphanumeric characters, while Memo data types are specifically designed for larger amounts of text. Both can be formatted for data entry (e.g., setting a maximum character length) and display (e.g., font size)"
+        },
+        {
+          "letter": "B",
+          "text": "Number and Currency",
+          "isCorrect": false,
+          "explanation": "Numeric data types are used for storing numbers, and Currency is a specific type of number format for monetary values. Both can be formatted for data entry (e.g., setting decimal places) and display (e.g., adding a currency symbol)"
+        },
+        {
+          "letter": "C",
+          "text": "Date/Time",
+          "isCorrect": false,
+          "explanation": "This data type is used for storing dates and times. It can be formatted for data entry (e.g., providing a calendar for selection) and display (e.g., choosing a specific date format)"
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": "Here's a breakdown of why each option is correct and why the others are not explicitly mentioned in the image:"
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the default field size of a text data type field?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "50",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which data type can be used to define a field that consists of a maximum of 255 numbers or letters?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Text",
+          "isCorrect": true,
+          "explanation": "Text data types are typically limited to a maximum length, such as 255 characters, and can store letters, numbers, and symbols"
+        },
+        {
+          "letter": "B",
+          "text": "Memo",
+          "isCorrect": false,
+          "explanation": "Memo data types are designed for storing large amounts of text, typically exceeding 255 characters. They are not ideal for situations where you have a limit on the amount of text that can be entered."
+        },
+        {
+          "letter": "C",
+          "text": "Number",
+          "isCorrect": false,
+          "explanation": "Number data types are meant for storing numerical values that can be used in calculations. While some number data types may have a maximum size that can hold up to 255 characters, they cannot store letters"
+        },
+        {
+          "letter": "D",
+          "text": "Currency",
+          "isCorrect": false,
+          "explanation": "Currency data types are a specific type of number data type designed to store financial data. Like regular number data types, they cannot store letters"
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which data type can be used to define a field that consists of only numbers to be used in calculations?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Text",
+          "isCorrect": false,
+          "explanation": "The text data type is used to store alphanumeric characters, including letters, numbers, and symbols. It is not appropriate for storing numbers that will be used in calculations because it can also store non-numeric characters"
+        },
+        {
+          "letter": "B",
+          "text": "Memo",
+          "isCorrect": false,
+          "explanation": "The memo data type is used to store large amounts of text. It is not appropriate for storing numbers that will be used in calculations because it is designed for textual data"
+        },
+        {
+          "letter": "C",
+          "text": "Number",
+          "isCorrect": true,
+          "explanation": "The number data type is used to store numeric values that can be used in calculations. It is the most appropriate data type for this purpose"
+        },
+        {
+          "letter": "D",
+          "text": "Date/Time",
+          "isCorrect": false,
+          "explanation": "The date/time data type is used to store dates and times. It is not appropriate for storing numbers that will be used in calculations"
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Why is a query created using two tables?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "To save space",
+          "isCorrect": false,
+          "explanation": "This is not the primary reason for creating a query using two tables. While combining data from multiple tables can sometimes reduce the overall number of tables needed in a database, saving space is usually not the main goal"
+        },
+        {
+          "letter": "B",
+          "text": "To use it as a basic for a form",
+          "isCorrect": false,
+          "explanation": "but not the most general reason. Queries are used to retrieve and manipulate data, which can then be used to populate forms. However, queries have other purposes beyond serving as a basis for forms"
+        },
+        {
+          "letter": "C",
+          "text": "To create more complex queries",
+          "isCorrect": true,
+          "explanation": "When you need to access data from multiple related tables, you use queries with joins to combine the data. For example, if you want to find out which customers have placed orders, you would need to join a Customers table and an Orders table"
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": "but not necessarily the only reasons. While creating complex queries and using them for forms are both valid reasons, saving space is not a primary purpose"
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which type of query is used to join two tables?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Select JOIN query",
+          "isCorrect": true,
+          "explanation": "A JOIN query is a type of SQL query that combines data from two or more tables based on a related column"
+        },
+        {
+          "letter": "B",
+          "text": "Find Unmatched",
+          "isCorrect": false,
+          "explanation": "This is not a standard SQL query type. There might be some database-specific functionality that uses this term, but a JOIN query is the general way to find matching data across tables"
+        },
+        {
+          "letter": "C",
+          "text": "Find Duplicates",
+          "isCorrect": false,
+          "explanation": "A Find Duplicates query would typically be used within a single table to identify records with identical values. It is not intended for joining data from multiple tables"
+        },
+        {
+          "letter": "D",
+          "text": "Cross table",
+          "isCorrect": false,
+          "explanation": "A cross table, also known as a pivot table, is used to summarize data by grouping rows and columns based on specified fields. While it can involve data from multiple tables, it doesn't join them in the same way as a JOIN query"
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which query is used to add records from one table to the end of another table?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Delete query",
+          "isCorrect": false,
+          "explanation": "Delete query is used to remove records from a table, not to add them"
+        },
+        {
+          "letter": "B",
+          "text": "Convert query",
+          "isCorrect": false,
+          "explanation": "Convert query is not a standard SQL query type. It's possible that the question intended Update query, which is used to modify existing records in a table, but not to add new ones"
+        },
+        {
+          "letter": "C",
+          "text": "Append query",
+          "isCorrect": true,
+          "explanation": "In conclusion, the Append query is the correct option for adding records from one table to the end of another table"
+        },
+        {
+          "letter": "D",
+          "text": "Make table query",
+          "isCorrect": false,
+          "explanation": "Make table query is not a standard SQL query type either. There might be a misunderstanding of Create table query, which is used to create a new table, but not to add data to an existing table"
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following describes a select query?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Limits the records shown",
+          "isCorrect": true,
+          "explanation": "A core function of a select query is to retrieve specific records from a database table based on certain criteria. By filtering the data, you can limit the number of records returned in the result set"
+        },
+        {
+          "letter": "B",
+          "text": "Limits the fields shown",
+          "isCorrect": false,
+          "explanation": "Select queries allow you to specify which columns (fields) from a table you want to include in the results. This enables you to focus on the relevant data and exclude unnecessary information"
+        },
+        {
+          "letter": "C",
+          "text": "Selects records based on specific criteria",
+          "isCorrect": false,
+          "explanation": "This is another accurate description of a select query. You can use WHERE clauses and other conditional statements to filter the data and retrieve only the records that meet your specific requirements"
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": false,
+          "explanation": "Select queries encompass all three of the above functionalities: limiting records, limiting fields, and selecting records based on criteria. They are designed to extract specific data from a database table based on your defined parameters"
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is NOT an update query?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Append query",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Delete query",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Update query",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Select query",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is NOT an example of an action query?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Delete query",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Convert query",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Append query + Update",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Select query",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which type of query provides a dialog box to type a value for criteria?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parameter Query",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Union Query",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Selected Query",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Make table query",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is NOT used to copy selected records to a new table?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Make-Table",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Append",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Move",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Delete",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is NOT found in tables function in a query?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "IF",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Average",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Sum",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Group by",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following criteria should be used to determine which record is returned?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "< 1/1/1999",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "> 1/1/1999",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "= 1/1/1999",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Group by",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is returned by Access if you type A1 in the text field of a select query?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ahl",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Afzal",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "All of the above",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Allam",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is a valid entry in a text field in a criteria row of a design grid?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Saleem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Saleem",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "\"Saleem\"",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The rule that a record from a table cannot be deleted if it's associated record exits in a related table is called which rule?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Referential Integrity",
+          "isCorrect": true,
+          "explanation": "Referential integrity is a rule that ensures data consistency between two or more tables in a relational database. It prevents you from deleting a record from a parent table if there are still child records referencing it in a related child table. This helps to maintain data accuracy and avoid orphaned records (child records that point to non-existent parent records)"
+        },
+        {
+          "letter": "B",
+          "text": "Entity Relationship",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Update queries",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Crosstab queries",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is returned by Access if you type H*Il in the text field of a select query?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hill Anyaring filu",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Hiell",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "All of these",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following entries in a Design grid will return the record \"Rahnawaz\"?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ander?",
+          "isCorrect": false,
+          "explanation": "This would only return records that start with \"Ander\" and end with any single character. \"Rahnawaz\" does not meet this criteria"
+        },
+        {
+          "letter": "B",
+          "text": "Rab*",
+          "isCorrect": false,
+          "explanation": "This would return records that start with \"Rab\" and have any number of characters following it. This would return \"Rahnawaz\" but also other records that start with \"Rab\" like \"Rabi\" or \"Raban\""
+        },
+        {
+          "letter": "C",
+          "text": "Both rab? and rab* (Small R)",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Neither rab ? nor rab *",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is contained in Query Design view?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A field list",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "A Design grid",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Both (a) and (b)",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Neither a field list nor a Design grid",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is found in the top portion of query design view window?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Design grid",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Expression builder",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Query type list",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Field list box",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is saved when saving a query?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Structure of the query",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Only the fields in the query",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "The table underlying the query",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Only records in query",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which symbol is placed around dates in a criterion?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "[ ]",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "*",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "#",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What will be the output of this wildcard sal [ei] ma?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Saleema",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Salima",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Both (a) and (b)",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Saliima",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following fields would NOT make a suitable primary key?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "An Auto Number Field",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "A Customer's Social Security Number",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "An Invoice Number",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "A Data Field",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following format properties would display the full name of the month?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "MONTH",
+          "isCorrect": false,
+          "explanation": "This format property typically displays the month as a numerical value (1 for January, 2 for February, etc.)."
+        },
+        {
+          "letter": "B",
+          "text": "FULL MONTH",
+          "isCorrect": true,
+          "explanation": "This format property is designed to display the full name of the month (e.g., January, February, March)"
+        },
+        {
+          "letter": "C",
+          "text": "mm",
+          "isCorrect": false,
+          "explanation": "This format property typically displays the month as a two-digit number (01 for January, 02 for February, etc."
+        },
+        {
+          "letter": "D",
+          "text": "mmmm",
+          "isCorrect": false,
+          "explanation": "This format property might display an abbreviated version of the month name (e.g., Jan, Feb, Mar) depending on the specific software or database system being used. It is not guaranteed to display the full month name."
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following types of queries are action queries",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Referential Integrity",
+          "isCorrect": false,
+          "explanation": "is a concept in database design that helps to ensure data consistency. It is not a type of query"
+        },
+        {
+          "letter": "B",
+          "text": "Append Queries",
+          "isCorrect": true,
+          "explanation": "are specifically designed to copy data from one table to another. This makes it the most suitable option for the task of copying data."
+        },
+        {
+          "letter": "C",
+          "text": "Update queries",
+          "isCorrect": false,
+          "explanation": "are used to modify existing data in a table. While they can change data, they don't involve copying data into a new table"
+        },
+        {
+          "letter": "D",
+          "text": "Crosstab queries",
+          "isCorrect": false,
+          "explanation": "are used to summarize data in a table by transforming it into a crosstabulation format. They are used for data presentation, not data manipulation."
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "You want to create a field that lets you add a customer's name by picking it from a dropdown list, which of the following fields would let you do this?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A memo field",
+          "isCorrect": false,
+          "explanation": "is used to store large amounts of text. It would not be suitable for creating a dropdown list of customer names"
+        },
+        {
+          "letter": "B",
+          "text": "A lookup field",
+          "isCorrect": true,
+          "explanation": "is a special type of field that allows you to select data from another table or query. This is exactly what you need to create a dropdown list of customer names"
+        },
+        {
+          "letter": "C",
+          "text": "An OLE field",
+          "isCorrect": false,
+          "explanation": "is used to store OLE objects, such as documents or spreadsheets. It would not be suitable for creating a dropdown list of customer names"
+        },
+        {
+          "letter": "D",
+          "text": "A hyperlink field",
+          "isCorrect": false,
+          "explanation": "is used to store links to other documents or websites. It would not be suitable for creating a dropdown list of customer names"
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the corresponding text for the #1/1/1995 validation rule setting?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enter a date before 1995",
+          "isCorrect": true,
+          "explanation": "The #1/1/1995 validation rule setting specifies that the field should only accept dates before January 1, 1995."
+        },
+        {
+          "letter": "B",
+          "text": "Enter a value less than 1995",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Enter a value greater than 1995",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Value must be less than 95 characters",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which button of a and b could be clicked to start the search process?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Find Next",
+          "isCorrect": false,
+          "explanation": "his button is typically used to locate the next occurrence of the search term based on the current search criteria. Clicking this button would initiate a search process if there's a search term entered in the search field"
+        },
+        {
+          "letter": "B",
+          "text": "Find",
+          "isCorrect": true,
+          "explanation": "This button might initiate a search process depending on the software. In some applications, clicking \"Find\" might start the search using the most recent search criteria, even if it's not explicitly highlighted. In other software, \"Find\" might open a search refinement dialog where you can specify your search terms before the actual search is triggered"
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which key is used to move from field to field in Datasheet view?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tab",
+          "isCorrect": true,
+          "explanation": "The Tab key is the most commonly used keyboard shortcut to move from field to field in Datasheet view of a table in Microsoft Access. Pressing the Tab key moves the cursor to the next field in the current record"
+        },
+        {
+          "letter": "B",
+          "text": "Esc",
+          "isCorrect": false,
+          "explanation": "The Escape key (Esc) is typically used to cancel an operation or close a dialog box. It wouldn't be used to navigate between fields in Datasheet view"
+        },
+        {
+          "letter": "C",
+          "text": "Enter",
+          "isCorrect": false,
+          "explanation": "The Enter key is often used to move to the next record in Datasheet view, not necessarily the next field within the current record"
+        },
+        {
+          "letter": "D",
+          "text": "Spacebar",
+          "isCorrect": false,
+          "explanation": "The Spacebar key might not have a standard function for moving between fields in Datasheet view. It might be used for specific actions depending on the context within the database software"
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following views in MS Access is used to define the structure of a table?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Datasheet view",
+          "isCorrect": false,
+          "explanation": "is used to view and enter data in a table. It shows the data in a grid format with rows and columns"
+        },
+        {
+          "letter": "B",
+          "text": "QBE view",
+          "isCorrect": false,
+          "explanation": "is a graphical way to create queries in Access. It allows you to drag and drop fields and tables to visually define the query conditions"
+        },
+        {
+          "letter": "C",
+          "text": "Relationship view",
+          "isCorrect": false,
+          "explanation": "is used to show the relationships between different tables in a database. It helps you visualize how tables are connected through foreign keys"
+        },
+        {
+          "letter": "D",
+          "text": "Design view",
+          "isCorrect": true,
+          "explanation": "is specifically used to define the structure of a table. In design view, you can see the fields (columns) in the table, their data types, properties like primary keys, and other settings that determine how data is stored and manipulated"
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the term for the characteristics or attributes of an object that determines how the object looks and behaves?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Color",
+          "isCorrect": false,
+          "explanation": "While color can be a property of an object, it's just one specific example of a property. Not all properties are related to color."
+        },
+        {
+          "letter": "B",
+          "text": "Property",
+          "isCorrect": true,
+          "explanation": "A property is a characteristic or attribute of an object that defines its appearance and behavior. In the context of programming languages and databases, properties are often used to represent specific aspects of an object that can be accessed and modified"
+        },
+        {
+          "letter": "C",
+          "text": "Size",
+          "isCorrect": false,
+          "explanation": "Similar to color, size is another specific property that an object can have"
+        },
+        {
+          "letter": "D",
+          "text": "Orientation",
+          "isCorrect": false,
+          "explanation": "Orientation can also be a property of an object, but it's not a general term that encompasses all characteristics and attributes"
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What does the magnifying glass icon in the Datasheet view of Microsoft Access represent?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Find and replace data in the table",
+          "isCorrect": false,
+          "explanation": "This functionality is usually represented by a different icon, often a combination of \"F\" and \"R\" or a document with a pencil icon."
+        },
+        {
+          "letter": "B",
+          "text": "Filter data in the table",
+          "isCorrect": true,
+          "explanation": "The magnifying glass icon in the Datasheet view of Microsoft Access is used to filter data in the table. Clicking on this icon opens a menu where you can specify criteria to filter the records displayed in the datasheet."
+        },
+        {
+          "letter": "C",
+          "text": "Zoom in/out on the datasheet",
+          "isCorrect": false,
+          "explanation": "While some applications use a magnifying glass for zoom, in Access, zooming is typically controlled using the zoom controls in the application window, not within the datasheet itself"
+        },
+        {
+          "letter": "D",
+          "text": "Open the table in Design view",
+          "isCorrect": false,
+          "explanation": "This action is usually represented by a different icon, often resembling a table structure or a blueprint"
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following criterion is NOT written using the proper syntax?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"Haris\"",
+          "isCorrect": false,
+          "explanation": "is enclosed in quotation marks, which is correct syntax for specifying text values in a criterion"
+        },
+        {
+          "letter": "B",
+          "text": "< 500",
+          "isCorrect": false,
+          "explanation": "uses the less than operator (<) to compare a field to the value 500. This is a common way to filter data in a query."
+        },
+        {
+          "letter": "C",
+          "text": "NO VALUE",
+          "isCorrect": true,
+          "explanation": "is not a standard way to specify a criterion in a query. It is not clear what this criterion would be looking for"
+        },
+        {
+          "letter": "D",
+          "text": "Between #1/1/2000# and #12/31/2000#",
+          "isCorrect": false,
+          "explanation": "uses the Between operator to specify a date range. The hash symbols (#) are used to enclose the date values, which is correct syntax for some database systems"
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following can be found in an MS Access database file?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Table",
+          "isCorrect": false,
+          "explanation": "tore the data itself, organized in rows and columns. Each table is made up of fields (columns) that define the type of data each column can hold, and records (rows) that contain the actual data"
+        },
+        {
+          "letter": "B",
+          "text": "Forms",
+          "isCorrect": false,
+          "explanation": "provide a user interface for interacting with the data in tables. They can include buttons, text boxes, and other controls that allow users to enter, edit, or delete data"
+        },
+        {
+          "letter": "C",
+          "text": "Queries",
+          "isCorrect": false,
+          "explanation": "are used to retrieve specific data from one or more tables based on certain criteria. They allow you to filter, sort, and group data to get the information you need"
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following data types in Excel is NOT valid for use in a chart?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Text",
+          "isCorrect": true,
+          "explanation": "Excel charts are designed to visualize numerical data. Text data, which can include letters, symbols, and alphanumeric characters, cannot be directly plotted on a chart"
+        },
+        {
+          "letter": "B",
+          "text": "Currency",
+          "isCorrect": false,
+          "explanation": "Currency data can be used in charts to represent monetary values. Excel can format the currency symbols and decimal places accordingly"
+        },
+        {
+          "letter": "C",
+          "text": "Date",
+          "isCorrect": false,
+          "explanation": "Dates can be used in charts to represent time-series data. Excel can plot dates along the horizontal or vertical axis of a chart."
+        },
+        {
+          "letter": "D",
+          "text": "Not all of the above",
+          "isCorrect": false,
+          "explanation": "While text data cannot be used in charts, currency, dates, and numeric data types are all suitable for creating charts in Excel"
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following menus is used to switch between table views?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Edit menu",
+          "isCorrect": false,
+          "explanation": "The Edit menu typically contains options for editing data within the table, such as copy, paste, delete, and find/replace functions"
+        },
+        {
+          "letter": "B",
+          "text": "File menu",
+          "isCorrect": false,
+          "explanation": "The File menu generally deals with file management operations like opening, saving, closing, and printing database objects"
+        },
+        {
+          "letter": "C",
+          "text": "Tool menu",
+          "isCorrect": false,
+          "explanation": "The functionality of the Tool menu can vary depending on the specific software, but it often contains general-purpose tools and utilities that might not be specific to table views"
+        },
+        {
+          "letter": "D",
+          "text": "View menu",
+          "isCorrect": true,
+          "explanation": "The View menu in relational database management systems like Microsoft Access typically contains options for controlling how data is displayed in tables. This often includes functionalities for switching between different table views, such as Datasheet view, Design view, and Layout view"
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In which view is the data in the table entered?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Design view",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Normal view",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Datasheet view",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Layout view",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What symbol indicates that a record is currently being edited in Microsoft Access?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Asterisk (*)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Plus sign (+)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Pencil icon",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Checkmark",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following methods are used for creating a table in Access?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Creating table in Design View",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Creating table by using wizard",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Creating table by entering data",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following views is used to modify data in tables?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Datasheet View",
+          "isCorrect": true,
+          "explanation": "In relational database management systems like Microsoft Access, Datasheet View is the primary way to view, enter, and modify data in tables. It displays the data in a grid format with rows representing records and columns representing fields. You can edit existing data directly in the cells of the datasheet"
+        },
+        {
+          "letter": "B",
+          "text": "Design View",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Layout View",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "PivotTable View",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which one of the following is a logical data type in MS Access?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "AutoNumber",
+          "isCorrect": false,
+          "explanation": "This is a data type that automatically generates unique numeric values for each new record"
+        },
+        {
+          "letter": "B",
+          "text": "True/False",
+          "isCorrect": true,
+          "explanation": "In Microsoft Access, a logical data type is used to store Boolean values, which can be either True or False"
+        },
+        {
+          "letter": "C",
+          "text": "OLE Object",
+          "isCorrect": false,
+          "explanation": "This data type allows you to embed or link to other data objects from other applications within an Access database"
+        },
+        {
+          "letter": "D",
+          "text": "Memo",
+          "isCorrect": false,
+          "explanation": "This data type is used to store large text fields"
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In a relational database, a single piece of information is called",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Table",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Record",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Entity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Attribute",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The graphical query tool is known as",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Query Grid",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Design Grid",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Query Form",
+          "isCorrect": true,
+          "explanation": "The graphical query tool used to visually design and build database queries is often called a Query Form. While the specific terminology may vary slightly depending on the software, \"Query Form\" is a common term used in relational database management systems like Microsoft Access"
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is the purpose of the Filter by Selection feature in Microsoft Access?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "To filter data based on a specific criterion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "To filter data based on a selection of records",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "To filter data based on a mathematical expression",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "To filter data based on a wild card search",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which object is used to store data in a database?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Macro",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Table",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Form",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Report",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following statements about macros in Microsoft Word is TRUE?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Macros can only be used to automate repetitive tasks",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Macros can only be created by professional programmers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Macros can be used to distribute malicious code",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of the above are true",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the fastest way to adjust the width of a column?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Double-click the right side of the column heading",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Right-click anywhere in the column heading and select \"Column Width\" from the menu",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Select the column and then go to the \"Format\" menu and choose \"Column Width\".",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Drag the border between the column headings.",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What does adding a > in the format box of a text field do?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Requires all characters entered in the field to be in uppercase",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Displays the characters in the field in uppercase",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Requires all characters entered in the field to be numbers.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Displays the characters in the field in a larger font",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "How can you display the relationships in a database?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Select View → Relationships from the menu",
+          "isCorrect": false,
+          "explanation": "This might be a way to access the Relationships view in some database software, but it's not the way to do it in Microsoft Access, which is the context of the image"
+        },
+        {
+          "letter": "B",
+          "text": "Click the Relationships button in the Database window",
+          "isCorrect": false,
+          "explanation": "There might be a button named Relationships in the Database window of some database programs, but it's not the standard way to view relationships in Microsoft Access"
+        },
+        {
+          "letter": "C",
+          "text": "Click the Relationship button on the toolbar",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "How can you add a table to the Relationships window?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Select the table name in the Navigation Pane and drag it to the Relationships window",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Click the \"Show Table\" button on the Relationships toolbar",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Select \"Relationships\" from the Design tab, then click \"Add Tables\"",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Right-click anywhere in the Relationships window and select \"Add Table\"",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is the purpose of the asterisk (*) wildcard character in a search query?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Matches any single character",
+          "isCorrect": true,
+          "explanation": "The asterisk is a wildcard character that can stand in for any single character in a search query. For example, searching for \"fd\" would return results like \"food\", \"fund\", \"fed\", etc."
+        },
+        {
+          "letter": "B",
+          "text": "Matches zero or more characters",
+          "isCorrect": false,
+          "explanation": "While there are wildcard characters that can represent zero or more characters (like %), the asterisk typically represents a single character."
+        },
+        {
+          "letter": "C",
+          "text": "Matches a literal asterisk (*) character",
+          "isCorrect": false,
+          "explanation": "The asterisk usually functions as a wildcard, not a literal character to be matched exactly in the search"
+        },
+        {
+          "letter": "D",
+          "text": "Requires the search term to be found at the beginning of the field",
+          "isCorrect": false,
+          "explanation": "The asterisk is not a positional wildcard and can match characters at any position within the search term"
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "How many table views are available in Microsoft Access?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What does the circled icon in Microsoft Access 2013 represent?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Relationships view",
+          "isCorrect": true,
+          "explanation": "is used to display and manage the relationships between different tables in a relational database. It allows you to visually see how tables are connected through common fields, and to create and edit relationships"
+        },
+        {
+          "letter": "B",
+          "text": "Tables view",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Datasheet view",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Datasheet view",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is the purpose of the asterisk (*) wildcard character in a search query?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Matches any single character",
+          "isCorrect": true,
+          "explanation": "The asterisk is a wildcard character that can stand in for any single character in a search query. For example, searching for \"fd\" would return results like \"food\", \"fund\", \"fed\", etc"
+        },
+        {
+          "letter": "B",
+          "text": "Matches zero or more characters",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Matches a literal asterisk (*) character",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Requires the search term to be found at the beginning of the field",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The design view window is divided into how many parts?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Two",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Three",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Four",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Five",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What does the format specifier (>) convert characters to in Text & memo format?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lowercase",
+          "isCorrect": false,
+          "explanation": "The format specifier (>) does not convert characters to lowercase."
+        },
+        {
+          "letter": "B",
+          "text": "Number of spaces",
+          "isCorrect": false,
+          "explanation": "The format specifier (>) does not convert characters to the number of spaces"
+        },
+        {
+          "letter": "C",
+          "text": "Four",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Uppercase",
+          "isCorrect": false,
+          "explanation": "The format specifier (>) does not convert characters to uppercase."
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "How can data in a database be quickly located by using which command?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Search",
+          "isCorrect": false,
+          "explanation": "This is a general term for finding data, but it is not a specific command used in databases"
+        },
+        {
+          "letter": "B",
+          "text": "Find",
+          "isCorrect": false,
+          "explanation": "This is also a general term for finding data, and it is not a specific command used in databases"
+        },
+        {
+          "letter": "C",
+          "text": "Match",
+          "isCorrect": true,
+          "explanation": "The Match command is used in databases to find rows that exactly match a specified pattern"
+        },
+        {
+          "letter": "D",
+          "text": "Edit",
+          "isCorrect": false,
+          "explanation": "The Edit command is used to modify data in a database, not to find it"
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Data in a datasheet can be quickly localized by using which command?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Search",
+          "isCorrect": true,
+          "explanation": "While datasheets aren't typically databases, the term \"search\" is commonly used to find information within a document. In the context of a datasheet, using the search function within a PDF reader or word processor would be the most appropriate way to quickly find specific data"
+        },
+        {
+          "letter": "B",
+          "text": "Find",
+          "isCorrect": false,
+          "explanation": "This is similar to search and is a general term for finding data"
+        },
+        {
+          "letter": "C",
+          "text": "Match",
+          "isCorrect": false,
+          "explanation": "This is typically used in databases to find rows that exactly match a specified pattern. Datasheets are not databases and so this option wouldn't be appropriate"
+        },
+        {
+          "letter": "D",
+          "text": "Edit",
+          "isCorrect": false,
+          "explanation": "The Edit command is used to modify data in a datasheet, not to find it"
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "You cannot enter data in _ without entering data in the parent form",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parent, child",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Child, parent",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Subform",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which \"Filter by form\" format is used to select all records that end with \"street\"",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "= \"Street",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Like (\"street\")",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Like \"street",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "= =(\"*Street\")",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which one is a powerful and flexible way of selecting, filtering and sorting records?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Table",
+          "isCorrect": false,
+          "explanation": "A table is a fundamental data structure that stores information in rows and columns. While tables can be sorted, they are not inherently powerful or flexible for selecting and filtering data. You would need a query to perform those actions."
+        },
+        {
+          "letter": "B",
+          "text": "Query",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Form",
+          "isCorrect": false,
+          "explanation": "A form is a user interface element that allows users to input and edit data. While forms can be used to filter data based on user input, they are not as powerful or flexible as queries for complex filtering and sorting operations"
+        },
+        {
+          "letter": "D",
+          "text": "Report",
+          "isCorrect": false,
+          "explanation": "A report is a formatted output that presents data from a database. Reports are not used for selecting, filtering or sorting data; they display data based on a query."
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    }
+  ]
+}

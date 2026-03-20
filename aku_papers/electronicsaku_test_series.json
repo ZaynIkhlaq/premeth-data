@@ -1,0 +1,1898 @@
+{
+  "questions": [
+    {
+      "text": "The amplification of the given operational amplifier is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "inverting and triple",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it implies a gain of three, which does not match the correct configuration. An inverting amplifier would not have a gain of three if the correct answer specifies a gain of two."
+        },
+        {
+          "letter": "B",
+          "text": "inverting and double",
+          "isCorrect": true,
+          "explanation": "In an inverting configuration, the input signal is applied to the inverting input terminal (-) of the operational amplifier. The output signal is then inverted and amplified based on the ratio of the feedback resistor to the input resistor. This configuration results in a negative gain. The term \"double\" indicates that the amplification factor is 2. This means that the output signal is twice the magnitude of the input signal, but with opposite polarity. This is the correct option. It correctly identifies the operational amplifier as being configured in the inverting mode and having an amplification factor of two."
+        },
+        {
+          "letter": "C",
+          "text": "non-inverting and triple",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it describes a non-inverting amplifier with a gain of three. The correct answer specifies an inverting configuration with a gain of two, not three."
+        },
+        {
+          "letter": "D",
+          "text": "non-inverting and double",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it describes a non-inverting configuration with a gain of two. The correct configuration is inverting, not non-inverting."
+        }
+      ],
+      "explanation": "In an inverting configuration, the input signal is applied to the inverting input terminal (-) of the operational amplifier. The output signal is then inverted and amplified based on the ratio of the feedback resistor to the input resistor. This configuration results in a negative gain. The term \"double\" indicates that the amplification factor is 2. This means that the output signal is twice the magnitude of the input signal, but with opposite polarity. This is the correct option. It correctly identifies the operational amplifier as being configured in the inverting mode and having an amplification factor of two.",
+      "explanationImage": null,
+      "hints": [
+        "operational amplifier",
+        "amplification"
+      ]
+    },
+    {
+      "text": "Which one is the correct statement about selenium?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Selenium is a good conductor",
+          "isCorrect": false,
+          "explanation": "This statement is incorrect. Selenium is not typically considered a good conductor of electricity. In its pure form, selenium is actually a semiconductor, meaning it has an intermediate conductivity between that of a conductor and an insulator."
+        },
+        {
+          "letter": "B",
+          "text": "Selenium is a good insulator",
+          "isCorrect": false,
+          "explanation": "This statement is also incorrect. While selenium is not a good conductor, it's not considered a good insulator either. Insulators have very high resistance to the flow of electric current, whereas selenium, being a semiconductor, has conductivity higher than that of insulators but lower than conductors."
+        },
+        {
+          "letter": "C",
+          "text": "Selenium is an insulator in the dark and becomes conductor when exposed to light",
+          "isCorrect": true,
+          "explanation": "This statement is partially correct. Selenium exhibits photoconductivity, meaning its conductivity increases when exposed to light. In the dark, selenium behaves as a semiconductor with relatively low conductivity. However, when illuminated by light, the conductivity of selenium increases significantly due to the generation of electron-hole pairs by absorbing photons."
+        },
+        {
+          "letter": "D",
+          "text": "Selenium is an conductor in the dark and becomes insulator when exposed to light",
+          "isCorrect": false,
+          "explanation": "This statement is incorrect. In its pure form, selenium is not considered a conductor in the dark. Instead, it behaves as a semiconductor, exhibiting relatively low conductivity. As mentioned earlier, selenium becomes more conductive when exposed to light due to the photoconductivity effect."
+        }
+      ],
+      "explanation": "As selenium(Se) element number is 34 having 2 ½ spins are vacant. So, it mostly acts as photocells which take the energy from the sun as solar energy as charge. Obviously, we can say it acts as conductor in light conditions and insulator in dark conditions.",
+      "explanationImage": null,
+      "hints": [
+        "correct statement about selenium"
+      ]
+    },
+    {
+      "text": "In a full-wave bridge rectification, the number of diodes used are:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This is incorrect. A single diode cannot perform full-wave rectification."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Two diodes can be used in a center-tapped full-wave rectification, not a bridge rectifier."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Three diodes are insufficient for full-wave bridge rectification."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "isCorrect": true,
+          "explanation": "This is correct. A full-wave bridge rectifier uses four diodes to convert AC to DC, allowing current to flow through the load during both halves of the AC cycle."
+        }
+      ],
+      "explanation": "A full-wave bridge rectifier consists of 4 diodes arranged in a bridge configuration. This arrangement allows the rectifier to convert both halves of an AC waveform into a pulsating DC output. When the positive half-cycle of the AC input is applied, diodes D1 and D2 conduct, allowing current to flow through the load. During the negative half-cycle, diodes D3 and D4 conduct, again directing current through the load in the same direction. This ensures that the load always receives a unidirectional current. Options A, B, and C are incorrect because they do not provide the necessary number of diodes to achieve full-wave rectification in a bridge configuration.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following are component of half wave rectifier?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transformer",
+          "isCorrect": false,
+          "explanation": "Transformer → Used to step up or step down the AC voltage before rectification. It helps in electrical isolation and voltage regulation."
+        },
+        {
+          "letter": "B",
+          "text": "Load resistance",
+          "isCorrect": false,
+          "explanation": "Load resistance → The resistor (or load) connected at the output to which the rectified DC voltage is supplied. It determines the current flow and affects the output voltage."
+        },
+        {
+          "letter": "C",
+          "text": "Power supply",
+          "isCorrect": false,
+          "explanation": "Power supply → The AC voltage source that provides input to the rectifier circuit. Without this, the rectifier cannot function."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": "A half-wave rectifier is a circuit that converts AC (alternating current) to DC (direct current) using a single diode. The essential components of a half-wave rectifier include:Transformer → Used to step up or step down the AC voltage before rectification. It helps in electrical isolation and voltage regulation.Power supply → The AC voltage source that provides input to the rectifier circuit. Without this, the rectifier cannot function.Load resistance → The resistor (or load) connected at the output to which the rectified DC voltage is supplied. It determines the current flow and affects the output voltage.Since all the options are necessary components of a half-wave rectifier, the correct answer is \"All of the above.\""
+        }
+      ],
+      "explanation": "The correct answer is 'All of the above' because a half-wave rectifier circuit is composed of several key components working in unison. The transformer adjusts the input voltage and provides electrical isolation, the power supply is the source of the AC voltage, and load resistance is necessary for determining the output voltage and current flow. While each option mentioned is critical, none can function independently to form a complete half-wave rectifier circuit.",
+      "explanationImage": null,
+      "hints": [
+        "half wave",
+        "component"
+      ]
+    },
+    {
+      "text": "The maximum efficiency of a half-wave rectifier is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "80.6%",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the theoretical maximum efficiency of a half-wave rectifier is about 40.6%."
+        },
+        {
+          "letter": "B",
+          "text": "40.6%",
+          "isCorrect": true,
+          "explanation": "This option is correct. The maximum efficiency of a half-wave rectifier is about 40.6%, indicating that it is not very efficient at converting AC to DC."
+        },
+        {
+          "letter": "C",
+          "text": "70%",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The maximum efficiency of a half-wave rectifier is only about 40.6%, much lower than 70%."
+        },
+        {
+          "letter": "D",
+          "text": "50%",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Although closer, the maximum efficiency of a half-wave rectifier is still lower, at about 40.6%."
+        }
+      ],
+      "explanation": "The maximum efficiency of a half-wave rectifier is about 40.6%. This is because it only utilizes one half of the AC waveform, leading to significant power loss. In contrast, a full-wave rectifier uses both halves of the waveform and has a maximum efficiency of about 81.2%, which is twice that of a half-wave rectifier. The incorrect options either overestimate the efficiency or are closer but still incorrect.",
+      "explanationImage": null,
+      "hints": [
+        "maximum",
+        "efficiency",
+        "half-wave"
+      ]
+    },
+    {
+      "text": "In a bridge type full-wave rectifier, if Vm is the peak voltage across the secondary coil of the transformer, the maximum voltage coming across each reverse biased diode is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vm",
+          "isCorrect": false,
+          "explanation": "this is not a correct option. A full-wave rectifier is defined as a rectifier that converts the complete cycle of alternating current into pulsating direct current (DC). If Vm is the peak voltage across the secondary transformer, the maximum voltage coming across the reverse-biased diode is 2Vm."
+        },
+        {
+          "letter": "B",
+          "text": "Vm/√2",
+          "isCorrect": false,
+          "explanation": "this is not a correct option. A full-wave rectifier is defined as a rectifier that converts the complete cycle of alternating current into pulsating direct current (DC). If Vm is the peak voltage across the secondary transformer, the maximum voltage coming across the reverse-biased diode is 2Vm."
+        },
+        {
+          "letter": "C",
+          "text": "2Vm",
+          "isCorrect": true,
+          "explanation": "A full-wave rectifier is defined as a rectifier that converts the complete cycle of alternating current into pulsating direct current (DC). If Vm is the peak voltage across the secondary transformer, the maximum voltage coming across the reverse-biased diode is 2Vm."
+        },
+        {
+          "letter": "D",
+          "text": "Vm3",
+          "isCorrect": false,
+          "explanation": "this is not a correct option.A full-wave rectifier is defined as a rectifier that converts the complete cycle of alternating current into pulsating direct current (DC). If Vm is the peak voltage across the secondary transformer, the maximum voltage coming across the reverse-biased diode is 2Vm."
+        }
+      ],
+      "explanation": "In a bridge-type full-wave rectifier, the maximum reverse voltage across each diode occurs when the diode is reverse-biased. This voltage is equal to the peak voltage (Vm) across the secondary coil plus the forward voltage across the diode on the opposite side of the bridge, which also equals Vm. Therefore, the total reverse voltage is 2Vm.Option A: Vm is incorrect because it does not account for the additional voltage from the opposite side of the bridge.Option B: Vm/√2 is incorrect because it pertains to the RMS value of the voltage, not the reverse voltage.Option C: 2Vm is correct, as explained above.Option D: Vm3 is irrelevant to the scenario and is not a factor in calculating the reverse voltage.",
+      "explanationImage": null,
+      "hints": [
+        "bridge",
+        "full-wave",
+        "peak voltage"
+      ]
+    },
+    {
+      "text": "Electric conduction is high in:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solid nuclei",
+          "isCorrect": false,
+          "explanation": "Solid nuclei do not contribute to electric conduction as they do not have free electrons or charge carriers necessary for conducting electricity."
+        },
+        {
+          "letter": "B",
+          "text": "Sugar solution",
+          "isCorrect": false,
+          "explanation": "Sugar solutions do not conduct electricity because they lack free ions. Sugar molecules are bonded covalently, preventing them from dissociating into ions that could facilitate conduction."
+        },
+        {
+          "letter": "C",
+          "text": "Solid graphite",
+          "isCorrect": true,
+          "explanation": "In graphite, each carbon atom is only covalently bonded to three other carbon atoms, rather than to four as in diamond. Graphite contains layers of carbon atoms. The layers slide over each other easily because there are only weak forces between them, making graphite slippery. Graphite contains delocalized electrons (free electrons). These electrons can move through the graphite, carrying charge from place to place and allowing graphite to conduct electricity. Graphite conduct electricity well in a direction parallel to the planes of hexagons, but not a tall well in a direction perpendicular to the planes, because in graphite sp2 hybridization and due to the presence of free electron they are good conductor of electricity in a layer but not so good in between two layers."
+        },
+        {
+          "letter": "D",
+          "text": "None of the above",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because solid graphite indeed conducts electricity due to the presence of delocalized electrons."
+        }
+      ],
+      "explanation": "The conduction of electricity depends on the movement of electrons and other charged particles (ions). Metals have free electrons and thus can conduct electricity in a solid state but as the temperature increases, the collision between the electrons also increases, and thus the resistance to the flow of current increases. Liquids can conduct electricity if they are ionic (liquid mercury is metal and hence the conduction is by the same mechanism as for metals). Salt solutions, molten salts, etc, conduct electricity. Gases are insulators and don’t conduct electricity unless the ionization potential is exceeded. Lightning is an example of the breakdown of the insulation of air.",
+      "explanationImage": null,
+      "hints": [
+        "Electric",
+        "conduction",
+        "high"
+      ]
+    },
+    {
+      "text": "A logic gate has four inputs. Its possible input combinations will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "This option incorrectly assumes each input combination results in only one possible state. However, each input can have two states (0 or 1)."
+        },
+        {
+          "letter": "B",
+          "text": "16",
+          "isCorrect": true,
+          "explanation": "If a logic gate has four inputs, each input can be either high (1) or low (0), resulting in two possible states for each input. Therefore, the total number of possible input combinations is calculated as 2^4 = 16."
+        },
+        {
+          "letter": "C",
+          "text": "32",
+          "isCorrect": false,
+          "explanation": "This option reflects an incorrect calculation, assuming a higher number of states per input or a different number of inputs."
+        },
+        {
+          "letter": "D",
+          "text": "64",
+          "isCorrect": false,
+          "explanation": "This option assumes even more states per input than possible or miscalculates the number of inputs."
+        }
+      ],
+      "explanation": "The correct answer is Option B: 16. This is because with four inputs, each having two possible states (0 or 1), the total number of combinations is calculated using the formula 2^n, where n is the number of inputs. Therefore, 2^4 results in 16 possible input combinations. Other options are incorrect due to miscalculations in either the number of states per input or the number of inputs considered.",
+      "explanationImage": null,
+      "hints": [
+        "logic gate",
+        "four inputs"
+      ]
+    },
+    {
+      "text": "Input resistance of an Operational Amplifier is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Very low",
+          "isCorrect": false,
+          "explanation": "This is incorrect as the input resistance of an operational amplifier is designed to be very high, not low. A low input resistance would mean the op-amp draws more current from the source, which is undesirable."
+        },
+        {
+          "letter": "B",
+          "text": "Very high",
+          "isCorrect": true,
+          "explanation": "The input resistance of an operational amplifier (op-amp) typically refers to the impedance seen by the input terminals of the op-amp. The input resistance is a measure of how much the input terminals of the op-amp affect the signal source connected to them. The input resistance of an op-amp is typically very high, often in the order of megaohms (MΩ) to gigaohms (GΩ). This high input resistance is achieved through the use of field-effect transistors (FETs) in the input stage of the op-amp, which have inherently high input impedance. The high input resistance of an op-amp is desirable because it allows the op-amp to draw very little current from the signal source, minimizing loading effects and preserving the integrity of the signal. It also allows for the op-amp to be used in various applications, such as voltage amplification or impedance buffering, without significantly affecting the behavior of the connected circuit. It's important to note that the actual input resistance of an op-amp can vary depending on the specific model or configuration, so it's always recommended to refer to the datasheet or specifications of a particular op-amp for precise values. The input resistance is infinite for an ideal OP-AMP which prevents current from flowing into the OP-AMP itself as it may damage the component. However, since we are not talking about an ideal situation, in real life the resistance is not infinite rather very high thus the answer is B."
+        },
+        {
+          "letter": "C",
+          "text": "Moderate",
+          "isCorrect": false,
+          "explanation": "This is incorrect because a moderate input resistance would not effectively minimize current draw from the source, leading to potential signal distortion. Op-amps are specifically designed to have very high input resistance."
+        },
+        {
+          "letter": "D",
+          "text": "Becomes infinite",
+          "isCorrect": false,
+          "explanation": "While an ideal op-amp has an infinite input resistance, real-world op-amps do not achieve this. Instead, they have a very high but finite input resistance due to practical design limitations."
+        }
+      ],
+      "explanation": "The correct answer is that the input resistance of an operational amplifier is very high. This high input resistance is crucial as it allows the op-amp to draw minimal current from the signal source, thus preserving the signal integrity and avoiding loading effects. While ideal op-amps are modeled with infinite input resistance, real op-amps achieve very high but finite input resistance due to the use of components like FETs in their input stages. Other options suggesting 'very low', 'moderate', or 'infinite' input resistance do not accurately reflect the typical characteristics of practical op-amp designs.",
+      "explanationImage": null,
+      "hints": [
+        "Input",
+        "resistance",
+        "Operational Amplifier"
+      ]
+    },
+    {
+      "text": "When an Operational amplifier is used as Inverting amplifier, then angle between its output and input signal is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 degrees",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. An inverting amplifier does not produce a 30-degree phase shift between input and output. The output is, in fact, inverted with respect to the input, resulting in a phase difference of 180 degrees."
+        },
+        {
+          "letter": "B",
+          "text": "45 degrees",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While 45 degrees might be a common angle in some phase shifts, it is not applicable to an inverting amplifier. The phase difference here is 180 degrees due to the inversion of the signal."
+        },
+        {
+          "letter": "C",
+          "text": "60 degrees",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A 60-degree phase shift does not occur in an inverting amplifier. The output is the inverted version of the input, leading to a phase difference of 180 degrees."
+        },
+        {
+          "letter": "D",
+          "text": "90 degrees",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A 90-degree phase shift would imply a quarter-cycle offset, which is not characteristic of an inverting amplifier. The correct phase difference is 180 degrees."
+        },
+        {
+          "letter": "E",
+          "text": "180 degrees",
+          "isCorrect": true,
+          "explanation": "This is the correct option. In an inverting amplifier configuration, the input signal is applied to the negative input terminal, causing the output signal to be inverted. This inversion results in a 180-degree phase difference between the input and output signals, meaning they are in phase opposition."
+        }
+      ],
+      "explanation": "In an inverting amplifier configuration, the input signal is applied to the negative input terminal of the operational amplifier. The output undergoes a phase inversion relative to the input, creating a 180-degree phase difference. This means that the output is the negative of the input at any given time, representing a complete inversion of polarity. Therefore, the angle between the input and output signals is 180 degrees.The other options are incorrect as they do not represent the characteristic phase inversion that occurs in an inverting amplifier. The angles of 30, 45, 60, and 90 degrees do not apply in this context because the inverting amplifier specifically results in a 180-degree phase shift.",
+      "explanationImage": null,
+      "hints": [
+        "Operational amplifier",
+        "Inverting amplifier"
+      ]
+    },
+    {
+      "text": "Which option in the following best explains the base of a transistor?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The base has no impurity.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The base region of a transistor is doped with impurities, just at a lower concentration compared to the emitter and collector regions."
+        },
+        {
+          "letter": "B",
+          "text": "The base has less concentration of impurity as compared to emitter and collector.",
+          "isCorrect": true,
+          "explanation": "This option is correct. The base region of a transistor is intentionally doped with a lower concentration of impurities than the emitter and collector regions, facilitating efficient current flow and amplification."
+        },
+        {
+          "letter": "C",
+          "text": "The base has more concentration of impurity as compared to the emitter.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The base region is doped with a lower concentration of impurities compared to the emitter region, not more."
+        },
+        {
+          "letter": "D",
+          "text": "The base has more concentration of impurity as compared to the collector.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The base region is doped with a lower concentration of impurities compared to the collector region, not more."
+        }
+      ],
+      "explanation": "In a transistor, the base region is lightly doped compared to the emitter and collector. This low concentration of impurities allows the base to control the flow of charge carriers between the emitter and collector effectively. The emitter is heavily doped to inject a large number of charge carriers, while the collector is moderately doped to collect the carriers. This setup allows the transistor to amplify signals. Options A, C, and D are incorrect because they misrepresent the doping levels of the base compared to the emitter and collector.",
+      "explanationImage": null,
+      "hints": [
+        "base",
+        "transistor"
+      ]
+    },
+    {
+      "text": "Non-inverting amplifier circuits have?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A very high input impedance",
+          "isCorrect": true,
+          "explanation": "Operational amplifiers have high input impedance and low output impedance because of the concept of a voltage divider, which is how voltage is divided in a circuit depending on the amount of impedance present in given parts of a circuit. Operational amplifiers are voltage-gain devices."
+        },
+        {
+          "letter": "B",
+          "text": "A very low input impedance",
+          "isCorrect": false,
+          "explanation": "A very low input impedance is incorrect for non-inverting amplifier circuits. Such amplifiers are specifically designed to have high input impedance to minimize the current drawn from the input source."
+        },
+        {
+          "letter": "C",
+          "text": "A high output impedance",
+          "isCorrect": false,
+          "explanation": "Non-inverting amplifier circuits actually have a low output impedance, which is essential for effectively driving low impedance loads while maintaining signal voltage levels."
+        },
+        {
+          "letter": "D",
+          "text": "None of the above options is correct",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the first option correctly describes a characteristic of non-inverting amplifier circuits."
+        }
+      ],
+      "explanation": "Option A) Operational amplifiers have high input impedance and low output impedance because of the concept of a voltage divider, which is how voltage is divided in a circuit depending on the amount of impedance present in given parts of a circuit. Operational amplifiers are voltage-gain devices. Option B) A very low input impedance is not correct for non-inverting amplifier circuits. Non-inverting amplifiers have a high input impedance, which means that they don't draw much current from the input signal source, and they don't load the source.Option C) A high output impedance is not correct for non-inverting amplifier circuits. Non-inverting amplifiers have a low output impedance, which means that they can drive low-impedance loads without significant loss of signal voltage. Option D) This is an incorrect answer.",
+      "explanationImage": null,
+      "hints": [
+        "Non-inverting",
+        "amplifier",
+        "circuits"
+      ]
+    },
+    {
+      "text": "In full wave rectifier with input frequency 50 Hz the ripple in the output is mainly of frequency:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "25 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A full-wave rectifier does not reduce the frequency of the input signal. Instead, it increases it."
+        },
+        {
+          "letter": "B",
+          "text": "50 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The ripple frequency is not the same as the input frequency in a full-wave rectifier. It is twice the input frequency."
+        },
+        {
+          "letter": "C",
+          "text": "100 Hz",
+          "isCorrect": true,
+          "explanation": "In full wave rectification ripple frequency is twice the input frequency. Whereas, for a half wave rectifier it is equal to the AC supply frequency. For full wave rectification = 2× f = 2 × 50 Hz = 100Hz A half-wave rectifier conducts when the alternating current is positive, which happens during 180° of the A.C cycle, and blocks current during the other 180 degrees. A full-wave rectifier conducts during both 180° periods of an A.C cycle; So you can see, it conducts current for twice the amount of time. The full-wave rectifier has twice the efficiency of a half-wave rectifier is, that it utilizes both half-cycles of the input. In a half-wave rectifier, the time interval between two consecutive peaks of the output voltage waveform is the time period of the input supply waveform. In a full-wave rectifier, the time interval between two consecutive peaks of the output voltage waveform is half of the time period of the input supply waveform."
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The ripple frequency cannot be zero as the rectification process results in a doubled frequency compared to the input in a full-wave rectifier."
+        }
+      ],
+      "explanation": "In full wave rectification ripple frequency is twice the input frequency. Whereas, for a half wave rectifier it is equal to the AC supply frequency. For full wave rectification = 2× f = 2 × 50 Hz = 100Hz A half-wave rectifier conducts when the alternating current is positive, which happens during 180° of the A.C cycle, and blocks current during the other 180 degrees. A full-wave rectifier conducts during both 180° periods of an A.C cycle; So you can see, it conducts current for twice the amount of time. The full-wave rectifier has twice the efficiency of a half-wave rectifier is, that it utilizes both half-cycles of the input. In a half-wave rectifier, the time interval between two consecutive peaks of the output voltage waveform is the time period of the input supply waveform. In a full-wave rectifier, the time interval between two consecutive peaks of the output voltage waveform is half of the time period of the input supply waveform.",
+      "explanationImage": null,
+      "hints": [
+        "full wave rectifier",
+        "input frequency",
+        "ripple"
+      ]
+    },
+    {
+      "text": "In half wave rectification, the output DC voltage is obtained across the load for:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The positive half cycle of input AC",
+          "isCorrect": true,
+          "explanation": "In half-wave rectification:The diode conducts only during one half cycle of the input AC (the positive half if diode is forward-biased).Current flows through the load only in that half cycle.The other half cycle (negative half) is blocked.."
+        },
+        {
+          "letter": "B",
+          "text": "The negative half cycle of input AC",
+          "isCorrect": false,
+          "explanation": "Similarly, if the diode is forward-biased for the negative half cycle, it will conduct during this half. The choice depends on the diode's configuration."
+        },
+        {
+          "letter": "C",
+          "text": "The positive and negative half cycles of input AC",
+          "isCorrect": false,
+          "explanation": "This scenario occurs in full wave rectification, where both half cycles are utilized. It's not applicable to half wave rectification."
+        },
+        {
+          "letter": "D",
+          "text": "Either positive or negative half cycle of input AC",
+          "isCorrect": false,
+          "explanation": "The half-wave rectification: The diode conducts only during one half cycle of the input AC (the positive half if diode is forward-biased). Current flows through the load only in that half cycle. The other half cycle (negative half) is blocked."
+        }
+      ],
+      "explanation": "In half wave rectification, the diode allows current to pass through during only one half of the AC input cycle, either the positive or the negative half, depending on the diode's orientation. This results in a pulsating DC output across the load for that half cycle only. Option D is correct as it encompasses both possibilities. Options A and B are correct under specific configurations but do not cover both scenarios. Option C is incorrect as it describes full wave rectification, where both half cycles are used.",
+      "explanationImage": null,
+      "hints": [
+        "half",
+        "rectification",
+        "load"
+      ]
+    },
+    {
+      "text": "Transistors can be used as",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Half wave rectifier",
+          "isCorrect": false,
+          "explanation": "A half wave rectifier allows current to pass only during one half of the AC cycle, but it does not utilize the switching capability of transistors effectively. It is typically implemented using diodes."
+        },
+        {
+          "letter": "B",
+          "text": "Full wave rectifier",
+          "isCorrect": false,
+          "explanation": "A full wave rectifier converts both halves of the AC waveform into DC. While it can use components like diodes, it does not specifically highlight the function of transistors as switches."
+        },
+        {
+          "letter": "C",
+          "text": "Both",
+          "isCorrect": true,
+          "explanation": "This option suggests that transistors can serve multiple functions, including as components in half wave and full wave rectifiers, by acting as switches in various configurations. Hence, this is the correct answer."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as transistors can indeed function in both rectifier types, making this statement false."
+        }
+      ],
+      "explanation": "Transistors are versatile components in electronics, primarily used as switches and amplifiers. In this context, while they can be integrated into circuits for half wave and full wave rectification, the correct answer emphasizes their dual functionality. Options A and B incorrectly restrict the role of transistors to specific rectifier types without acknowledging their broader applications. Option D is incorrect as it dismisses the valid roles that transistors play in rectification processes.",
+      "explanationImage": null,
+      "hints": [
+        "Transistors",
+        "switch"
+      ]
+    },
+    {
+      "text": "In a centre tap full wave rectifier if Vm is the peak voltage across the secondary of transformer, the maximum voltage across reverse bias is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vm",
+          "isCorrect": false,
+          "explanation": "This option represents the peak voltage across one half of the secondary winding. It does not account for the additional voltage across reverse bias in a center-tap configuration."
+        },
+        {
+          "letter": "B",
+          "text": "Vm/v2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it does not relate to the calculation of Peak Inverse Voltage in a center-tap full wave rectifier."
+        },
+        {
+          "letter": "C",
+          "text": "2Vm",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. In a center-tap full wave rectifier, the Peak Inverse Voltage is twice the peak voltage across the secondary winding of the transformer."
+        },
+        {
+          "letter": "D",
+          "text": "Vm/3",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it does not pertain to the calculation of Peak Inverse Voltage in this context."
+        }
+      ],
+      "explanation": "In a center-tap full wave rectifier, each half of the secondary winding of the transformer contributes to the output during each half cycle. The Peak Inverse Voltage (PIV) is the maximum voltage a diode can withstand in reverse bias, which in this configuration is twice the peak voltage (2Vm) because one diode is reverse biased while the other conducts. This ensures the entire transformer secondary voltage appears across the reverse-biased diode, hence the PIV is 2Vm.Option A (Vm) is incorrect because it does not account for the full voltage across the diodes in reverse bias. Option B (Vm/v2) is incorrect as it is not relevant to the PIV calculation. Option D (Vm/3) is incorrect for the same reason.",
+      "explanationImage": null,
+      "hints": [
+        "centre tap",
+        "full wave",
+        "reverse bias"
+      ]
+    },
+    {
+      "text": "The ripple factor of a full-wave rectifier is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.21",
+          "isCorrect": false,
+          "explanation": "The ripple factor for a full-wave rectifier is 0.482 which can also be written as 48.2%."
+        },
+        {
+          "letter": "B",
+          "text": "0.6",
+          "isCorrect": false,
+          "explanation": "The ripple factor for a full-wave rectifier is 0.482 which can also be written as 48.2%."
+        },
+        {
+          "letter": "C",
+          "text": "0.482",
+          "isCorrect": true,
+          "explanation": "The ripple factor for a full-wave rectifier is 0.482 which can also be written as 48.2%."
+        },
+        {
+          "letter": "D",
+          "text": "0.9",
+          "isCorrect": false,
+          "explanation": "The ripple factor for a full-wave rectifier is 0.482 which can also be written as 48.2%."
+        }
+      ],
+      "explanation": "The ripple factor for a full-wave rectifier is 0.482 which can also be written as 48.2%.",
+      "explanationImage": null,
+      "hints": [
+        "ripple factor",
+        "full-wave rectifier"
+      ]
+    },
+    {
+      "text": "The bridge rectifier is preferred to an ordinary two diode full wave rectifier because:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "It needs much smaller transformer for the same output",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "No center tap required",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Less PIV rating per diode",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": "The bridge rectifier is preferred to an ordinary two-diode full wave rectifier as: ✓ It needs a much smaller transformer for the same output. ✓ no centre tap is required ✓ less PIV rating per diode"
+        }
+      ],
+      "explanation": "Options A, B and C all are individually correct. So, we will choose option D i.e. all options are correct. Option : D The bridge rectifier is preferred to an ordinary two-diode full wave rectifier as: ✓ It needs a much smaller transformer for the same output. ✓ no centre tap is required ✓ less PIV rating per diode",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Consider a peak rectifier fed by a 60-Hz sinusoid having a peak value Vp = 100 V. Let the load resistance R = 10 kCl. Calculate the fraction of the cycle during which the diode is conducting.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.06 %",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "2.06%",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "3.18%",
+          "isCorrect": true,
+          "explanation": "w Δt ~ √(2Vr/Vp) Θ = √(2 X 2/100) Θ = 0.2 rad Θ = 0.2 / 2 100 Θ = 3.18% of the cycle"
+        },
+        {
+          "letter": "D",
+          "text": "4.82%",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "w Δt ~ √(2Vr/Vp) Θ = √(2 X 2/100) Θ = 0.2 rad Θ = 0.2 / 2 100 Θ = 3.18% of the cycle",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The maximum efficiency of a full wave rectifier is _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "80.60%",
+          "isCorrect": true,
+          "explanation": "The maximum efficiency of full wave rectifier is 80.60%.This option suggests a specific efficiency value for a full-wave rectifier.However, the maximum theoretical efficiency of a full-wave rectifier is approximately 81.2%.The efficiency of a full-wave rectifier is determined by the ratio of the DC power output to the AC power input, considering losses in the rectification process."
+        },
+        {
+          "letter": "B",
+          "text": "40.60%",
+          "isCorrect": false,
+          "explanation": "This option suggests a specific efficiency value for a full-wave rectifier.However, 40.6% is the maximum theoretical efficiency of a half-wave rectifier, not a full-wave rectifier.The efficiency of a full-wave rectifier is typically higher than that of a half-wave rectifier due to its ability to utilize both halves of the input AC cycle.Therefore, option B) 40.6% is incorrect as it represents the maximum efficiency of a different type of rectifier."
+        },
+        {
+          "letter": "C",
+          "text": "70%",
+          "isCorrect": false,
+          "explanation": "This option suggests a specific efficiency value for a full-wave rectifier.However, 70% is not the maximum theoretical efficiency of a full-wave rectifier.While it is higher than the efficiency of a half-wave rectifier, the maximum theoretical efficiency of a full-wave rectifier is higher than 70%.Therefore, option C) 70% is incorrect as it does not accurately represent the maximum efficiency of a full-wave rectifier."
+        },
+        {
+          "letter": "D",
+          "text": "50%",
+          "isCorrect": false,
+          "explanation": "This option suggests a specific efficiency value for a full-wave rectifier.However, 50% is not the maximum theoretical efficiency of a full-wave rectifier.The efficiency of a full-wave rectifier is typically higher than 50% due to its ability to utilize both halves of the input AC cycle.Therefore, option D) 50% is incorrect as it does not accurately represent the maximum efficiency of a full-wave rectifier."
+        }
+      ],
+      "explanation": "It is a fact that maximum efficiency of a full wave rectifier is 80.60%.",
+      "explanationImage": null,
+      "hints": [
+        "maximum efficiency",
+        "full wave rectifier"
+      ]
+    },
+    {
+      "text": "A half wave rectifier is equivalent to",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Clamper",
+          "isCorrect": false,
+          "explanation": "A is incorrect since clamping circuits place the negative and positive peaks of the waveform at the desired DC level. In other words. These circuits shift the input signal by an amount defined by the independent voltage source."
+        },
+        {
+          "letter": "B",
+          "text": "Clipper",
+          "isCorrect": true,
+          "explanation": "B is correct since a clipper works to remove either the positive or negative half cycles of the input voltage. Since the diode most commonly allows the positive half cycles to pass through and not the negative, it acts as a positive clipper."
+        },
+        {
+          "letter": "C",
+          "text": "Clamper circuit with negative bias",
+          "isCorrect": false,
+          "explanation": "C is incorrect since a negative clamper circuit is biased with some negative reference voltage, that voltage will be added to the output to raise the clamped level."
+        },
+        {
+          "letter": "D",
+          "text": "Clamper circuit with positive bias",
+          "isCorrect": false,
+          "explanation": "D is incorrect since a positive clamper circuit is one that consists of a diode, a resistor, and a capacitor and that shifts the output signal to the positive portion of the input signal."
+        }
+      ],
+      "explanation": "Option B is correct since a clipper works to remove either the positive or negative half cycles of the input voltage. Since the diode most commonly allows the positive half cycles to pass through and not the negative, it acts as a positive clipper.Option A is incorrect since clamping circuits place the negative and positive peaks of the waveform at the desired DC level. In other words, these circuits shift the input signal by an amount defined by the independent voltage source.Option C is incorrect since a negative clamper circuit is biased with some negative reference voltage, that voltage will be added to the output to raise the clamped level.Option D is incorrect since a positive clamper circuit is one that consists of a diode, a resistor, and a capacitor and that shifts the output signal to the positive portion of the input signal.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "For a half-wave rectifier having diode voltage VD and supply input of V, the diode conducts for π-2θ, where θ is given by",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "tan-1(VD/V)",
+          "isCorrect": false,
+          "explanation": "tan⁻¹(VD/V) is incorrect because it does not accurately represent the portion of the positive half-cycle during which the diode conducts."
+        },
+        {
+          "letter": "B",
+          "text": "sin-1(VD/V)",
+          "isCorrect": true,
+          "explanation": "In a half-wave rectifier, the diode conducts only during the positive half-cycle of the input AC voltage. The diode turns off when the input voltage drops below the diode voltage VD. During conduction, the diode conducts for an angle θ (measured in radians) of the positive half-cycle. The time period of one complete cycle of AC voltage is 2π. Therefore, the diode conducts for π - 2θ of the time period. We know that the ratio of VD (diode voltage) to V (input voltage) is equal to the sine of the angle θ, i.e., VD/V = sin(θ). Solving for θ, we get θ = sin-1 (VD/V)."
+        },
+        {
+          "letter": "C",
+          "text": "cos-1(VD/V)",
+          "isCorrect": false,
+          "explanation": "cos⁻¹(VD/V) is incorrect because it represents the complementary angle to the one we need. It gives the angle at which the diode stops conducting rather than the angle at which it starts conducting."
+        },
+        {
+          "letter": "D",
+          "text": "cos(VD/V)",
+          "isCorrect": false,
+          "explanation": "cot⁻¹(VD/V) is incorrect because it does not provide the correct relationship between the diode voltage (VD) and the supply voltage (V) in the context of a half-wave rectifier."
+        }
+      ],
+      "explanation": "The diode doesn’t conducts when VD ≥VI . Hence θ = sin-1(VD/V).",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Centre tape rectifier circuit consists of _ diodes.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "No, it has 2 diodes not 1."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "A center tap rectifier only requires two diodes because it uses a center-tapped transformer. The center tap is connected to the negative terminal of the DC output, while the positive terminal is connected to the end of the transformer that is not connected to the diode. A three diode rectifier, on the other hand, uses three diodes and does not require a center-tapped transformer."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "A center tap rectifier uses 2 diodes and a center-tapped transformer to convert AC voltage to DC voltage. The center-tapped transformer has a wire in the middle which is connected to the ground. The two diodes are connected to the ends of the transformer and only allow current to flow in one direction, which produces a pulsating DC voltage."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "A center tap rectifier requires only two diodes. A four diode rectifier is known as a bridge rectifier, which is another type of rectifier circuit used to convert AC voltage to DC voltage."
+        }
+      ],
+      "explanation": "A center tap rectifier uses 2 diodes and a center-tapped transformer to convert AC voltage to DC voltage. The center-tapped transformer has a wire in the middle which is connected to the ground. The two diodes are connected to the ends of the transformer and only allow current to flow in one direction, which produces a pulsating DC voltage.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Hollow sphere of radius 3cm is given 3 nC charge, a second charge of -1 nC is also added to the sphere, then the potential at a distance of 1 cm from its centre is equal to",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "900 V",
+          "isCorrect": false,
+          "explanation": "According to the explanation and understanding of the question this is not the correct answer."
+        },
+        {
+          "letter": "B",
+          "text": "1800 V",
+          "isCorrect": false,
+          "explanation": "According to the explanation and understanding of the question this is not the correct answer."
+        },
+        {
+          "letter": "C",
+          "text": "300 V",
+          "isCorrect": false,
+          "explanation": "According to the explanation and understanding of the question this is not the correct answer."
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "In the case of a hollow metal sphere (spherical shell), the electric field inside is zero. It means potential inside is constant. The inner part will remain at zero potential, while the outside of the sphere will experience some potential."
+        }
+      ],
+      "explanation": "In the case of a hollow metal sphere (spherical shell), the electric field inside is zero. It means potential inside is constant. The inner part will remain at zero potential, while the outside of the sphere will experience some potential.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The diode used in the circuit shown in the figure has a constant voltage drop of 0.5 V at all currents and a maximum power rating of 100 milliwatts. What should be the value of the resistor R, connected in series with the diode, for obtaining maximum current?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.5 Ω",
+          "isCorrect": false,
+          "explanation": "This is not correct as per calculations."
+        },
+        {
+          "letter": "B",
+          "text": "5Ω",
+          "isCorrect": true,
+          "explanation": "Maximum current in the circuitI = P/VHere, P = 100 × 10⁻³ watts and V = 0.5 volts, soI = 100 × 10⁻³ / 0.5 = 0.2 amp.The resistance is given byR = voltage drop across resistance / current = 1 / 0.2 = 5 ohm."
+        },
+        {
+          "letter": "C",
+          "text": "6.67 Ω",
+          "isCorrect": false,
+          "explanation": "This is not correct as per calculations."
+        },
+        {
+          "letter": "D",
+          "text": "200 Ω",
+          "isCorrect": false,
+          "explanation": "This is not correct as per calculations."
+        }
+      ],
+      "explanation": "Maximum current in the circuitI = P/VHere, P = 100 × 10⁻³ watts and V = 0.5 volts, soI = 100 × 10⁻³ / 0.5 = 0.2 amp.The resistance is given byR = voltage drop across resistance / current = 1 / 0.2 = 5 ohm.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The following truth table belongs to which one of the following four gate?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "OR",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "NAND",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "XOR",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "NOR",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "This is the following solution:",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The valence band and conduction band of a solid overlap at low temperature, the solid may be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A metal",
+          "isCorrect": true,
+          "explanation": "Metals have overlapping valence and conduction bands, allowing electrons to move freely and conduct electricity even at low temperatures."
+        },
+        {
+          "letter": "B",
+          "text": "A semiconductor",
+          "isCorrect": false,
+          "explanation": "Semiconductors have a small band gap and do not display overlapping bands at low temperatures, preventing them from behaving like metals."
+        },
+        {
+          "letter": "C",
+          "text": "An insulator",
+          "isCorrect": false,
+          "explanation": "Insulators have a large band gap, which prevents electron movement from the valence band to the conduction band, especially at low temperatures, resulting in no overlap."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "Since metals exhibit overlapping bands at low temperatures, this option does not apply."
+        }
+      ],
+      "explanation": "In the band theory of solids, conductors like metals are characterized by an overlap between the valence band and the conduction band. This overlap enables electrons to move freely, allowing metals to conduct electricity at low temperatures without requiring additional energy to excite electrons. In contrast, semiconductors have a small band gap with no overlap, and insulators have a large band gap, preventing electron movement between the bands. Therefore, the correct answer is that the solid is a metal.",
+      "explanationImage": null,
+      "hints": [
+        "valence band",
+        "conduction band",
+        "overlap"
+      ]
+    },
+    {
+      "text": "In the given transistor circuit, the base current is 35 µA. the value of Rb is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 kΩ",
+          "isCorrect": false,
+          "explanation": "If Rb were 100 kΩ, it would result in a different base current value based on the given voltage."
+        },
+        {
+          "letter": "B",
+          "text": "200 kΩ",
+          "isCorrect": true,
+          "explanation": "This is the correct value of Rb that results in the base current being 35 µA given the specified conditions."
+        },
+        {
+          "letter": "C",
+          "text": "300 kΩ",
+          "isCorrect": false,
+          "explanation": "A 300 kΩ resistor would cause a lower base current than specified, given the same voltage."
+        },
+        {
+          "letter": "D",
+          "text": "400 kΩ",
+          "isCorrect": false,
+          "explanation": "A 400 kΩ resistor would result in an even lower base current, which does not match the given base current of 35 µA."
+        }
+      ],
+      "explanation": "To find the correct value of Rb, use Ohm's Law (V = IR), where V is the voltage across Rb, I is the base current (35 µA), and R is the resistance (Rb). Assuming a typical base-emitter voltage drop for silicon transistors is 0.7V and the power supply voltage is known, you can solve for Rb. The correct Rb value that results in a base current of 35 µA is 200 kΩ. Options A, C, and D would yield different base currents inconsistent with the given parameters.",
+      "explanationImage": null,
+      "hints": [
+        "transistor",
+        "base current",
+        "Rb"
+      ]
+    },
+    {
+      "text": "The following diagram performs the logic function of:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "OR gate",
+          "isCorrect": false,
+          "explanation": "We know that a combination of a NOT gate and an AND gate is known as a NAND gate, and since the given symbol contains a NAND gate and not a NOT gate, therefore it is a NAND gate."
+        },
+        {
+          "letter": "B",
+          "text": "XOR gate",
+          "isCorrect": false,
+          "explanation": "We know that a combination of a NOT gate and an AND gate is known as a NAND gate, and since the given symbol contains a NAND gate and not a NOT gate, therefore it is a NAND gate."
+        },
+        {
+          "letter": "C",
+          "text": "AND gate",
+          "isCorrect": false,
+          "explanation": "We know that a combination of a NOT gate and an AND gate is known as a NAND gate, and since the given symbol contains a NAND gate and not a NOT gate, therefore it is a NAND gate."
+        },
+        {
+          "letter": "D",
+          "text": "NAND gate",
+          "isCorrect": true,
+          "explanation": "We know that a combination of a NOT gate and an AND gate is known as a NAND gate, and since the given symbol contains a NAND gate and not a NOT gate, therefore it is a NAND gate."
+        }
+      ],
+      "explanation": "Option d is correct because we know that a combination of a NOT gate and an AND gate is known as a NAND gate, and since the given symbol contains a NAND gate and not a NOT gate, therefore it is a NAND gate.",
+      "explanationImage": null,
+      "hints": [
+        "logic function"
+      ]
+    },
+    {
+      "text": "When P-N junction diode is forward biased then:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The depletion region is reduced and barrier height is increased",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Forward biasing reduces both the depletion region and the barrier height, facilitating current flow."
+        },
+        {
+          "letter": "B",
+          "text": "The depletion region is widened and barrier height is reduced",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Forward biasing reduces the depletion region rather than widening it, and lowers the barrier height."
+        },
+        {
+          "letter": "C",
+          "text": "Both the depletion region and barrier height are reduced",
+          "isCorrect": true,
+          "explanation": "This option is correct. Forward biasing a P-N junction diode reduces both the depletion region and the barrier height, allowing current to flow more easily."
+        },
+        {
+          "letter": "D",
+          "text": "Both the depletion region and barrier height are increased",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Forward biasing decreases both the depletion region and the barrier height, not increases them."
+        }
+      ],
+      "explanation": "When a P-N junction diode is forward-biased, the external voltage reduces the potential barrier, allowing charge carriers to move across the junction. This results in the reduction of the depletion region and the barrier height, facilitating the flow of current. Option C correctly describes these effects. The other options are incorrect because they either incorrectly describe widening/increasing the depletion region or barrier height, which does not occur under forward biasing.",
+      "explanationImage": null,
+      "hints": [
+        "P-N junction diode",
+        "forward biased"
+      ]
+    },
+    {
+      "text": "The circuit shown in the figure contains two diodes each with a forward resistance of 50 Ω and with infinite backward resistance. If the battery voltage is 6 V, the current through the 100 Ω resistance (in ampere) is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "The current is not zero because the diodes are forward biased, allowing current to flow."
+        },
+        {
+          "letter": "B",
+          "text": "0.02",
+          "isCorrect": false,
+          "explanation": "This calculation does not account for the correct total resistance in the circuit."
+        },
+        {
+          "letter": "C",
+          "text": "0.03",
+          "isCorrect": true,
+          "explanation": "This is the correct current through the 100 Ω resistance, considering the forward resistance of the diodes."
+        },
+        {
+          "letter": "D",
+          "text": "0.036",
+          "isCorrect": false,
+          "explanation": "This value is incorrect due to miscalculating the total resistance or voltage drop."
+        }
+      ],
+      "explanation": "The circuit contains two diodes with a forward resistance of 50 Ω each, and these diodes are forward biased, meaning they allow current to flow. The total resistance in the circuit is the sum of the diode resistances and the 100 Ω resistance, giving a total of 200 Ω. Using Ohm's law (V = IR), we find the current (I) by dividing the voltage (6 V) by the total resistance (200 Ω), resulting in a current of 0.03 A. The other options are incorrect because they either assume no current flow or miscalculate the total resistance or voltage drop.",
+      "explanationImage": null,
+      "hints": [
+        "two diodes",
+        "infinite backward resistance"
+      ]
+    },
+    {
+      "text": "The energy of a photon (λ = 589nm) equals the band gap of a semiconducting material. The minimum energy required to create a hole-electron pair is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.2 eV",
+          "isCorrect": false,
+          "explanation": "This value is too high for a photon with a wavelength of 589 nm, as it would correspond to a much shorter wavelength."
+        },
+        {
+          "letter": "B",
+          "text": "2.1 eV",
+          "isCorrect": true,
+          "explanation": "This is the correct value for the energy of a photon with a wavelength of 589 nm, calculated using the formula E = hc/λ."
+        },
+        {
+          "letter": "C",
+          "text": "1.2 eV",
+          "isCorrect": false,
+          "explanation": "This value is too low for a photon with a wavelength of 589 nm, indicating a longer wavelength than given."
+        },
+        {
+          "letter": "D",
+          "text": "0.98 eV",
+          "isCorrect": false,
+          "explanation": "This value is also too low, suggesting a photon with a much longer wavelength than specified."
+        }
+      ],
+      "explanation": "The energy of a photon can be calculated using the formula E = hc/λ, where h is Planck's constant (4.135667696 × 10-15 eV·s), c is the speed of light (3 × 108 m/s), and λ is the wavelength in meters. Converting 589 nm to meters (589 × 10-9 m), the calculation yields approximately 2.1 eV. Thus, the minimum energy required to create a hole-electron pair in the semiconductor is 2.1 eV. Options 4.2 eV, 1.2 eV, and 0.98 eV are incorrect as they do not match the calculated energy from the given wavelength.",
+      "explanationImage": null,
+      "hints": [
+        "energy of a photon",
+        "λ = 589nm"
+      ]
+    },
+    {
+      "text": "The valence of an impurity added to germanium crystal in order to convert it into a P-type semiconductor is :",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": "Elements with a valence of 6 are not suitable for altering the semiconductor type, as they do not fit into the lattice structure of germanium effectively."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "Elements with a valence of 5, such as phosphorus, donate extra electrons to the semiconductor, resulting in an N-type semiconductor, not a P-type."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "Elements with a valence of 4, like silicon and germanium, are used as the base material for the semiconductor itself and do not change the type by doping."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "isCorrect": true,
+          "explanation": "Elements with a valence of 3, such as boron, accept electrons from the crystal lattice, creating 'holes' that contribute to the formation of a P-type semiconductor."
+        }
+      ],
+      "explanation": "To convert a germanium crystal into a P-type semiconductor, an element with a valence of 3, such as boron, is added. This type of impurity accepts electrons, creating holes that facilitate positive charge carrier movement, hence forming a P-type semiconductor. Other options are incorrect: elements with a valence of 5 donate electrons, forming N-type semiconductors, while elements with valences of 4 and 6 do not effectively alter the conduction type of the semiconductor.",
+      "explanationImage": null,
+      "hints": [
+        "valence",
+        "impurity"
+      ]
+    },
+    {
+      "text": "If Np and Ne be the numbers of holes and conduction electrons in an extrinsic semiconductor, then:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "NP>Ne",
+          "isCorrect": false,
+          "explanation": "This condition is true for P-type semiconductors where the introduction of acceptor impurities increases the number of holes (Np) compared to conduction electrons (Ne)."
+        },
+        {
+          "letter": "B",
+          "text": "NP=Ne",
+          "isCorrect": false,
+          "explanation": "In extrinsic semiconductors, this scenario is uncommon as the balance between holes and electrons is altered by the type and level of doping. Such equality is rare and not typical."
+        },
+        {
+          "letter": "C",
+          "text": "NP<Ne",
+          "isCorrect": false,
+          "explanation": "This is typical for N-type semiconductors where donor impurities increase the number of conduction electrons (Ne) compared to holes (Np)."
+        },
+        {
+          "letter": "D",
+          "text": "NP>Ne or NP<Ne depending on the nature of impurity",
+          "isCorrect": true,
+          "explanation": "This option correctly captures both scenarios: P-type semiconductors with more holes and N-type semiconductors with more electrons, depending on the type of doping impurities used."
+        }
+      ],
+      "explanation": "In extrinsic semiconductors, doping introduces impurities that significantly alter the balance of charge carriers. In P-type semiconductors, the addition of acceptor impurities results in NP > Ne as holes become the majority carriers. Conversely, in N-type semiconductors, donor impurities lead to NP < Ne as electrons dominate. Therefore, the correct answer is the option that acknowledges both possibilities: NP>Ne or NP<Ne depending on the nature of impurity. Options stating a fixed relation between NP and Ne ignore the impact of different doping types.",
+      "explanationImage": null,
+      "hints": [
+        "Np",
+        "Ne"
+      ]
+    },
+    {
+      "text": "A semiconducting device connected in series with a cell and a resistor indicates some current in the circuit. If the polarity of the battery is reversed, the current almost reduces to zero. The device may be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A p-type semiconductor",
+          "isCorrect": false,
+          "explanation": "A p-type semiconductor alone does not form a junction that can be reverse biased to significantly reduce current. It needs to pair with an n-type to form a p-n junction."
+        },
+        {
+          "letter": "B",
+          "text": "An n-type semiconductor",
+          "isCorrect": false,
+          "explanation": "An n-type semiconductor alone does not have the property of significantly reducing current under reverse bias. It needs to pair with a p-type to form a p-n junction."
+        },
+        {
+          "letter": "C",
+          "text": "A p-n junction",
+          "isCorrect": true,
+          "explanation": "A p-n junction is a device that allows current to flow easily in one direction (forward bias) and almost completely blocks it in the opposite direction (reverse bias), which matches the behavior described."
+        },
+        {
+          "letter": "D",
+          "text": "An intrinsic semiconductor",
+          "isCorrect": false,
+          "explanation": "An intrinsic semiconductor does not exhibit the diode properties necessary to almost completely block current when the battery polarity is reversed. It lacks the built-in electric field of a p-n junction."
+        }
+      ],
+      "explanation": "The correct answer is a p-n junction. A p-n junction diode allows current to flow freely when forward biased (positive to p-type and negative to n-type) but significantly restricts current flow when reverse biased, which is when the battery polarity is reversed. This behavior aligns perfectly with the description given in the question.Options A and B are incorrect because a p-type or an n-type semiconductor alone does not exhibit the described behavior without forming a junction. Option D, an intrinsic semiconductor, lacks the charge carriers and electric field required to block current flow under reverse bias conditions.",
+      "explanationImage": null,
+      "hints": [
+        "semiconducting",
+        "reversed"
+      ]
+    },
+    {
+      "text": "When N-type of semiconductor is heated :",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Number of electrons increases while that of holes decreases.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. In an N-type semiconductor, heating increases the energy of electrons, making them more mobile, and also generates additional electron-hole pairs, increasing both electrons and holes."
+        },
+        {
+          "letter": "B",
+          "text": "Number of holes increases while that of electrons decreases",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Heating generally increases the number of both electrons and holes in an N-type semiconductor due to increased thermal energy and generation of electron-hole pairs."
+        },
+        {
+          "letter": "C",
+          "text": "Number of electrons and holes remains the same.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because thermal excitation typically leads to an increase in the number of free charge carriers, altering the balance and increasing both electrons and holes."
+        },
+        {
+          "letter": "D",
+          "text": "Number of electrons and holes increases equally",
+          "isCorrect": true,
+          "explanation": "This option is correct. Heating an N-type semiconductor increases thermal energy, creating more electron-hole pairs. As a result, both electrons and holes increase in number equally."
+        }
+      ],
+      "explanation": "When an N-type semiconductor is heated, electrons gain energy and can move more freely, resulting in increased electrical conductivity. Additionally, heating causes the generation of electron-hole pairs, leading to an increase in both electrons and holes equally. Therefore, the correct option is that the number of electrons and holes increases equally. Other options are incorrect because they either ignore the creation of electron-hole pairs or incorrectly state the changes in charge carrier numbers.",
+      "explanationImage": null,
+      "hints": [
+        "N-type",
+        "heated"
+      ]
+    },
+    {
+      "text": "Assertion: In n-type semiconductors electrons are the majority charge carriers and holes are the minority charge carriers.Reason: n-type semiconductor is electrically neutral.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "If both Assertion & Reason are true and the reason is the correct explanation of the assertion",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While both the assertion and the reason are true, the reason does not explain why electrons are the majority carriers in n-type semiconductors; it merely states a general property of semiconductors."
+        },
+        {
+          "letter": "B",
+          "text": "If both Assertion & Reason are true but the reason is not the correct explanation of the assertion",
+          "isCorrect": true,
+          "explanation": "This option is correct. Both statements are true: electrons are indeed the majority charge carriers in n-type semiconductors, and they are electrically neutral. However, the reason does not explain why electrons are the majority carriers; it only states a separate fact about neutrality."
+        },
+        {
+          "letter": "C",
+          "text": "If Assertion is a true statement but Reason is false",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the reason is not false. The statement about n-type semiconductors being electrically neutral is true, even though it does not explain the assertion."
+        },
+        {
+          "letter": "D",
+          "text": "If both Assertion and Reason are false statements",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because both the assertion and the reason are true statements regarding n-type semiconductors."
+        }
+      ],
+      "explanation": "The assertion is true: In n-type semiconductors, electrons are the majority charge carriers and holes are the minority charge carriers. This is due to the doping process that adds extra electrons to the semiconductor material. The reason is also true: n-type semiconductors are electrically neutral because the number of positive charges (protons in the nucleus) balances the number of negative charges (electrons). However, the reason does not explain why electrons are the majority carriers; it is an independent fact about the semiconductor's electrical neutrality. Hence, Option B is the correct answer. Options A, C, and D are incorrect because they misrepresent the truth value or the explanatory power of the reason in relation to the assertion.",
+      "explanationImage": null,
+      "hints": [
+        "n-type semiconductors",
+        "majority charge carriers",
+        "electrically neutral"
+      ]
+    },
+    {
+      "text": "In a diode AM-detector, the output circuit consist of R = 1kΩand C = 10 pF. A carrier signal of 100 kHz is to be detected. Is it good :",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes",
+          "isCorrect": false,
+          "explanation": "The RC time constant should be lower than the period of the carrier signal for effective detection. Here, the time constant might be too low compared to the signal period."
+        },
+        {
+          "letter": "B",
+          "text": "No",
+          "isCorrect": true,
+          "explanation": "The RC time constant is too small to effectively follow the envelope of a 100 kHz carrier signal, potentially causing distortion and ineffective detection."
+        },
+        {
+          "letter": "C",
+          "text": "Information is not sufficient",
+          "isCorrect": false,
+          "explanation": "The problem provides enough information to assess the suitability based on the RC time constant and the carrier frequency."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "A conclusive answer can be determined with the given information; thus, this option is incorrect."
+        }
+      ],
+      "explanation": "To determine if the circuit is suitable for detecting a 100 kHz carrier signal, we must evaluate the RC time constant. The time constant τ is given by τ = R × C = 1kΩ × 10pF = 10 nanoseconds. The period of a 100 kHz signal is 10 microseconds, which is significantly larger than the RC time constant. This discrepancy implies that the RC circuit cannot effectively track the envelope of the carrier, leading to a distorted signal and ineffective detection. Therefore, the answer is No. Option A is incorrect because the time constant is too small. Option C is incorrect because the provided information is sufficient for evaluation. Option D is incorrect as a definite answer is possible.",
+      "explanationImage": null,
+      "hints": [
+        "output circuit",
+        "R = 1kΩ",
+        "100 kHz"
+      ]
+    },
+    {
+      "text": "A common emitter amplifier is designed with NPN transistor (α = 0.99). The input impedance is 1 KΩ and load is 10 KΩ. The voltage gain will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "9.9",
+          "isCorrect": false,
+          "explanation": "This value is too low. Consider the relationship between input and output impedances and the transistor parameter α."
+        },
+        {
+          "letter": "B",
+          "text": "99",
+          "isCorrect": false,
+          "explanation": "This value is closer, but it underestimates the actual voltage gain. Revisit the gain formula."
+        },
+        {
+          "letter": "C",
+          "text": "990",
+          "isCorrect": true,
+          "explanation": "Correct. This option correctly calculates the voltage gain using the given parameters."
+        },
+        {
+          "letter": "D",
+          "text": "9900",
+          "isCorrect": false,
+          "explanation": "This value is too high, indicating a misunderstanding of the gain calculation."
+        }
+      ],
+      "explanation": "The voltage gain (Av) in a common emitter amplifier can be approximated using the formula Av = β * (Rl/Re), where β is the current gain (approximately equal to α/(1-α) in this case), Rl is the load resistance, and Re is the input resistance. Given α = 0.99, we calculate β as 99. Substituting the values, Av = 99 * (10 KΩ / 1 KΩ) = 990. Therefore, the correct answer is 990. The other options either underestimate or overestimate the gain due to incorrect application of the formula or miscalculation.",
+      "explanationImage": null,
+      "hints": [
+        "common emitter amplifier",
+        "NPN transistor",
+        "input impedance",
+        "load",
+        "voltage gain"
+      ]
+    },
+    {
+      "text": "The logic operation performed by the circuit (shown in figure) is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "OR",
+          "isCorrect": false,
+          "explanation": "An OR gate outputs true if at least one input is true."
+        },
+        {
+          "letter": "B",
+          "text": "AND",
+          "isCorrect": false,
+          "explanation": "An AND gate outputs true only if all inputs are true."
+        },
+        {
+          "letter": "C",
+          "text": "NAND",
+          "isCorrect": true,
+          "explanation": "A NAND gate outputs false only if all inputs are true; otherwise, it outputs true."
+        },
+        {
+          "letter": "D",
+          "text": "NOR",
+          "isCorrect": false,
+          "explanation": "A NOR gate outputs true only if all inputs are false."
+        }
+      ],
+      "explanation": "The correct answer is NAND. A NAND gate is a combination of an AND gate followed by a NOT gate. It outputs false only when all its inputs are true; otherwise, it outputs true. The other options are incorrect: the OR gate outputs true if at least one input is true, the AND gate outputs true only if all inputs are true, and the NOR gate outputs true only if all inputs are false.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Choose the correct statement for the energy band structure of a semiconductor:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "At absolute zero temperature, the conduction band of a semiconductor is completely filled and the valence band is totally empty.",
+          "isCorrect": false,
+          "explanation": "This is incorrect because, at absolute zero temperature, the valence band is completely filled with electrons, and the conduction band is completely empty as no electrons have gained enough energy to cross the band gap."
+        },
+        {
+          "letter": "B",
+          "text": "At absolute zero temperature, the conduction band of semiconductor is totally empty and valance band is totally filled",
+          "isCorrect": true,
+          "explanation": "The valence band is fully filled and the conduction band is completely empty at T = 0 K because it is the semiconductor's identity that it becomes an insulator at absolute zero. At absolute zero temperature (0 K):Electrons have no thermal energy to jump from the valence band to the conduction band.The valence band is completely filled with electrons.The conduction band is completely empty because no electrons have gained enough energy to cross the band gap."
+        },
+        {
+          "letter": "C",
+          "text": "At absolute zero temperature, both conduction band and valence band of a semiconductor are totally empty.",
+          "isCorrect": false,
+          "explanation": "This is incorrect as the valence band is actually fully occupied by electrons at absolute zero temperature, not empty."
+        },
+        {
+          "letter": "D",
+          "text": "At absolute zero temperature, both conduction band and valence band of a semiconductor are completely filled.",
+          "isCorrect": false,
+          "explanation": "This is incorrect because, at absolute zero, the conduction band is completely empty while the valence band is filled with electrons."
+        }
+      ],
+      "explanation": "At absolute zero temperature (0 K), a semiconductor behaves like an insulator. The valence band, which is the highest energy band that can be filled, is completely occupied by electrons. Meanwhile, the conduction band, which is the energy band above the valence band, remains completely empty because electrons lack the thermal energy required to jump to it. Therefore, Option B is correct. Options A, C, and D are incorrect because they either suggest that the conduction band is filled or the valence band is empty, which contradicts the behavior of semiconductors at absolute zero.",
+      "explanationImage": null,
+      "hints": [
+        "energy band structure",
+        "absolute zero temperature"
+      ]
+    },
+    {
+      "text": "In the circuit given below, v(t) is the sinusoidal voltage source, voltage drop VAB(t) across the resistance R is, diode D1 and D2 are identical:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Full wave rectified",
+          "isCorrect": false,
+          "explanation": "Direction of current is opposite through R for positive and negative half cycles so output is not rectified. Since R1 and R2 are same. Hence, the peaks during positive half and negative half of the input signal will be same."
+        },
+        {
+          "letter": "B",
+          "text": "No rectification and has the same peak value in the positive and negative half cycles",
+          "isCorrect": true,
+          "explanation": "Direction of current is opposite through R for positive and negative half cycles so output is not rectified. Since R1 and R2 are same. Hence, the peaks during positive half and negative half of the input signal will be same."
+        },
+        {
+          "letter": "C",
+          "text": "No rectification and has different peak values during positive and negative half cycle",
+          "isCorrect": false,
+          "explanation": "No rectification and has different peak values during positive and negative half cycle: This is incorrect for the same reason as above."
+        },
+        {
+          "letter": "D",
+          "text": "Half wave rectified",
+          "isCorrect": false,
+          "explanation": "Half wave rectified: This is incorrect. A half-wave rectifier would only allow one half of the AC waveform to pass through."
+        }
+      ],
+      "explanation": "Direction of current is opposite through R for positive and negative half cycles so output is not rectified. Since R1 and R2 are same. Hence, the peaks during positive half and negative half of the input signal will be same.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "For the given combination of gates, if the logic states of inputs A, B, C are as follows: A = B = C = D and A = B = 1, C = 0 then the logic states of output D are",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0, 0",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "0, 1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "1, 0",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "1, 1",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "This is the following solution:",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "For a transistor, the current amplification factor α = 0.9. This transistor is connected in common emitter configuration. When the base current changes by 0.4 mA, the change in collector current will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "36mA",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it miscalculates the change in collector current."
+        },
+        {
+          "letter": "B",
+          "text": "9mA",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The calculation does not account for the correct relationship between base current change and collector current change."
+        },
+        {
+          "letter": "C",
+          "text": "4mA",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It slightly overestimates the effect of the base current change."
+        },
+        {
+          "letter": "D",
+          "text": "3.6mA",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. It correctly applies the formula ΔI_C = β × ΔI_B, where β = α / (1 - α) for the common emitter configuration."
+        }
+      ],
+      "explanation": "In a common emitter configuration, the relationship between the base current change (ΔI_B) and the collector current change (ΔI_C) is given by ΔI_C = β × ΔI_B. Here, β (beta) is the current gain, which can be calculated from α (alpha) using the formula β = α / (1 - α). Given α = 0.9, we find β = 0.9 / (1 - 0.9) = 9. Therefore, if the base current changes by 0.4 mA, the change in collector current is 9 × 0.4 mA = 3.6 mA. Thus, the correct answer is 3.6 mA. The other options are incorrect as they either miscalculate β or misapply the formula.",
+      "explanationImage": null,
+      "hints": [
+        "current amplification factor α",
+        "common emitter configuration"
+      ]
+    },
+    {
+      "text": "Input waveforms A and B as shown in Fig-I are applied to the combination of gates as shown in Fig-II. Which of the waveforms shown in Fig. (i) to (iv) correctly represents the output waveform ?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fig.(i)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Fig.(ii)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Fig.(iii)",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Fig. (iv)",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "This is the following solution:",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A transistor is connected in a common emitter configuration. The collector supply is 8V and the voltage drop across a resistor of 800Ω in the collector circuit is 0.5 V. If the current gain factor α is 0.96, then the base currents are:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "20µA",
+          "isCorrect": false,
+          "explanation": "This calculation assumes a different β than given in the problem statement, leading to an incorrect base current."
+        },
+        {
+          "letter": "B",
+          "text": "26µA",
+          "isCorrect": true,
+          "explanation": "α = 0.96 β = α / 1 - α ==> 0.96 / 1 - 0.96 = 24 Ic = Vc / Rc Ic = 0.5 / 800 = 6.25 x 10-4 β = Ic / Ib Ib (base current) = 6.25 x 10-4 / 24 Ib = 26 µA"
+        },
+        {
+          "letter": "C",
+          "text": "30µA",
+          "isCorrect": false,
+          "explanation": "This option represents a miscalculation of the base current, potentially due to incorrect handling of the β value."
+        },
+        {
+          "letter": "D",
+          "text": "35µA",
+          "isCorrect": false,
+          "explanation": "This value results from an incorrect β or an error in calculating the collector current."
+        }
+      ],
+      "explanation": "α = 0.96 β = α / 1 - α ==> 0.96 / 1 - 0.96 = 24 Ic = Vc / Rc Ic = 0.5 / 800 = 6.25 x 10-4 β = Ic / Ib Ib (base current) = 6.25 x 10-4 / 24 Ib = 26 µA",
+      "explanationImage": null,
+      "hints": [
+        "common",
+        "collector",
+        "current gain factor α"
+      ]
+    },
+    {
+      "text": "In a silicon transistor, a charge of 8.86 mA in the emitter current produces a charge of 6.254 mA in the collector current. What charge in the base current is necessary to produce an equivalent change in the collector current?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "15.114 mA",
+          "isCorrect": false,
+          "explanation": "This value is incorrect because it assumes a different calculation method not based on the relationship between the currents in a transistor."
+        },
+        {
+          "letter": "B",
+          "text": "10.252 mA",
+          "isCorrect": false,
+          "explanation": "This value is incorrect and suggests an error in calculations, possibly due to misinterpreting the relationship between the currents."
+        },
+        {
+          "letter": "C",
+          "text": "2.606 mA",
+          "isCorrect": true,
+          "explanation": "Δ IE = 8.86 mA Δ IC = 6.254 mA Δ IB + Δ IC = Δ IE Δ IB = Δ IE - Δ IC Δ IB = 8.86 - 6.254 Δ IB = 2.606 mA"
+        },
+        {
+          "letter": "D",
+          "text": "5.12 mA",
+          "isCorrect": false,
+          "explanation": "This value is incorrect and reflects a miscalculation of the difference between the emitter and collector currents."
+        }
+      ],
+      "explanation": "To find the change in base current (Δ IB), we use the relationship between emitter current (IE), collector current (IC), and base current (IB) in a transistor: IE = IC + IB. Given that Δ IE = 8.86 mA and Δ IC = 6.254 mA, substitute these values into the formula: Δ IB = Δ IE - Δ IC = 8.86 mA - 6.254 mA = 2.606 mA. Hence, the correct answer is 2.606 mA. The other options are incorrect due to errors in applying this formula or in simple arithmetic calculations.",
+      "explanationImage": null,
+      "hints": [
+        "silicon",
+        "emitter current",
+        "collector current"
+      ]
+    },
+    {
+      "text": "How many NAND gates are used to form an AND gate?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "Using a single NAND gate cannot form an AND gate. The output of a single NAND gate is the negation of an AND operation, not an AND operation itself."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "Two NAND gates can be used to form an AND gate. The first NAND gate outputs the negation of the AND operation, and the second NAND gate inverts this output to give the AND operation."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "Although three NAND gates can also yield an AND function, it is not the minimum number required for this purpose. Therefore, it is not the most efficient solution."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "Using four NAND gates is unnecessary to form an AND gate. This is an excessive number of gates and does not provide any additional advantage over using two."
+        }
+      ],
+      "explanation": "To construct an AND gate using NAND gates, you need two NAND gates. The first NAND gate takes two inputs and provides an output equivalent to the negation of the AND operation. By feeding this output into both inputs of the second NAND gate, you invert the negation, effectively performing an AND operation. Option A is incorrect because a single NAND gate performs the negation of AND, not AND itself. Option C suggests using three gates, which is inefficient since two are sufficient. Option D is incorrect because using four gates is unnecessary and overly complex.",
+      "explanationImage": null,
+      "hints": [
+        "NAND",
+        "AND",
+        "gates"
+      ]
+    },
+    {
+      "text": "The truth table shown in figure is for:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "XOR",
+          "isCorrect": false,
+          "explanation": "The XOR gate outputs true only when the inputs are different. Check if this matches the truth table."
+        },
+        {
+          "letter": "B",
+          "text": "AND",
+          "isCorrect": false,
+          "explanation": "The AND gate outputs true only when both inputs are true. Compare this with the truth table to see if it matches."
+        },
+        {
+          "letter": "C",
+          "text": "XNOR",
+          "isCorrect": true,
+          "explanation": "The XNOR gate outputs true when the inputs are the same. Verify if this aligns with the truth table."
+        },
+        {
+          "letter": "D",
+          "text": "OR",
+          "isCorrect": false,
+          "explanation": "The OR gate outputs true if at least one input is true. Look at the truth table to determine if this is correct."
+        }
+      ],
+      "explanation": "The XNOR gate, also known as the equivalence gate, outputs true when both inputs are the same. If the truth table has rows where the output is true when both inputs are identical and false when they differ, it corresponds to an XNOR gate. The XOR gate would output true when the inputs differ, so it cannot be correct. The AND gate requires both inputs to be true for a true output, and the OR gate requires at least one true input for a true output, neither of which would match the XNOR truth table described. Therefore, the correct answer is XNOR.",
+      "explanationImage": null,
+      "hints": [
+        "truth table",
+        "figure"
+      ]
+    }
+  ]
+}

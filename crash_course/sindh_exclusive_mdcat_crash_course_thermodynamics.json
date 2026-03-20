@@ -1,0 +1,802 @@
+{
+  "questions": [
+    {
+      "text": "According to the first law of thermodynamics, ΔU = Q + W, where ΔU Is the increase in internal energy of the system, Q is the heat transferred to the system and W is the external work done on the system.Which of the following is NOT a correct expression?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": 2010,
+      "options": [
+        {
+          "letter": "A",
+          "text": "At constant temperature: Q = -W",
+          "isCorrect": false,
+          "explanation": "At constant temperature, the statement \"Q = -W\" is not generally true.Here, \"Q\" represents the heat exchanged with the surroundings, and \"W\" represents the work done by or on the system. The relationship between heat, work, and internal energy is given by the first law of thermodynamics, which states that the change in internal energy of a system is equal to the heat added to the system minus the work done by the system:ΔU = Q + WAt constant temperature, ΔU = 0, so Q = -W"
+        },
+        {
+          "letter": "B",
+          "text": "When no work is done: ΔU = -W",
+          "isCorrect": true,
+          "explanation": "When no work is done on or by the system (W = 0), the change in internal energy (ΔU) is equal to the heat added to or removed from the system (Q).The first law of thermodynamics states that the change in internal energy of a system is equal to the heat added to the system minus the work done by the system:ΔU = Q - WWhen W = 0, the equation simplifies to:ΔU = Q - 0which can be further simplified as:ΔU = QThis means that when no work is done on or by the system, the change in internal energy is solely determined by the heat transfer. In other words, the heat added to or removed from the system directly affects the change in its internal energy."
+        },
+        {
+          "letter": "C",
+          "text": "Work done on the system: ΔU = Q - P Δ V",
+          "isCorrect": false,
+          "explanation": "The correct expression for the work done on the system is:Work done on the system: ΔU = Q - PΔVIn this equation, ΔU represents the change in internal energy of the system, Q represents the heat added to the system, P represents the pressure, and ΔV represents the change in volume of the system.When work is done on the system, energy is transferred to the system, resulting in an increase in the internal energy. Therefore, the work term in the equation is subtracted."
+        },
+        {
+          "letter": "D",
+          "text": "When work is done by the system: ΔU = Q - W",
+          "isCorrect": false,
+          "explanation": "When work is done by the system, the correct expression for the change in internal energy (ΔU) is:ΔU = Q + WIn this equation, ΔU represents the change in internal energy of the system, Q represents the heat added to the system, and W represents the work done by the system.When work is done by the system, it means that the system is transferring energy to its surroundings through mechanical work. This work is considered positive."
+        }
+      ],
+      "explanation": "The equation provided in the question follows the first convention, according to which B is not correct. Option C and D are correct because in physics, work done by system is positive while work done on system is negative. The reverse is for chemistry.",
+      "explanationImage": null,
+      "hints": [
+        "first law of thermodynamics",
+        "ΔU = Q + W",
+        "NOT",
+        "on"
+      ]
+    },
+    {
+      "text": "The quantity of heat required to raise the temperature of one mole of a substance through 1 K is called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": 2010,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Carnot engine",
+          "isCorrect": false,
+          "explanation": "A Carnot engine is a theoretical engine that operates on the Carnot cycle. It estimates the maximum possible efficiency that a heat engine during the conversion process of heat into work and, conversely, working between two reservoirs can possess. Hence incorrect"
+        },
+        {
+          "letter": "B",
+          "text": "Molar specific heat",
+          "isCorrect": true,
+          "explanation": "The Molar specific heat of a solid or liquid of a material is the heat that you provide to raise the temperature of one mole of solid or liquid through 1K or 1° C. We represent it as C. Its unit is J mol-1K-1. Hence this is the correct answer."
+        },
+        {
+          "letter": "C",
+          "text": "Kinetic specific heat",
+          "isCorrect": false,
+          "explanation": "The specific heat capacity is defined as the quantity of heat (J) absorbed per unit mass (kg) of the material when its temperature increases 1 K (or 1 °C). Hence incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "General gas law",
+          "isCorrect": false,
+          "explanation": "The ideal gas law is the equation of state of a hypothetical ideal gas. It is a good approximation of the behavior of many gases under many conditions, although it has several limitations. The equation is; PV = nRT. Hence incorrect"
+        },
+        {
+          "letter": "E",
+          "text": "Boyle's law",
+          "isCorrect": false,
+          "explanation": "A law stating that the pressure of a given mass of an ideal gas is inversely proportional to its volume at a constant temperature. Hence incorrect."
+        }
+      ],
+      "explanation": "Specific heat is the amount of heat needed to raise the temperature of one kilogram of mass by 1 degree. The molar heat capacity is the heat capacity per unit amount (SI unit: mole) of a pure substance, and the specific heat capacity often called simply specific heat, is the heat capacity per unit mass of material. Option B is correct.",
+      "explanationImage": null,
+      "hints": [
+        "heat required",
+        "raise",
+        "1 K"
+      ]
+    },
+    {
+      "text": "How much heat is absorbed by 100 g of water when its temperature decreases from 25oC to 5oC? (Heat capacity is 4.2 J/g K)",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": 2016,
+      "options": [
+        {
+          "letter": "A",
+          "text": "84,000 J",
+          "isCorrect": false,
+          "explanation": "As per the calculation, it is an incorrect option."
+        },
+        {
+          "letter": "B",
+          "text": "-2000/4.2 J",
+          "isCorrect": false,
+          "explanation": "As per the calculation, it is an incorrect option."
+        },
+        {
+          "letter": "C",
+          "text": "2000/4.2 J",
+          "isCorrect": false,
+          "explanation": "As per the calculation, it is an incorrect option."
+        },
+        {
+          "letter": "D",
+          "text": "-8400",
+          "isCorrect": true,
+          "explanation": "To calculate the heat absorbed by a substance, we can use the formula:q = m * C * ΔTWhere:q is the heat absorbed or released,m is the mass of the substance,C is the specific heat capacity of the substance, andΔT is the change in temperature.In this case, we are calculating the heat absorbed by 100 g of water when its temperature decreases from 25°C to 5°C, and the specific heat capacity of water is given as 4.2 J/g·K.ΔT = (Final temperature - Initial temperature) = (278 - 298°C) = -20KNote: The change in temperature is negative because the water is decreasing in temperature.Now we can plug in the values into the formula:q = 100 g * 4.2 J/g·K * (-20K)q = -8400 JThe negative sign indicates that heat is being released or lost by the water. Therefore, 100 g of water releases 84,00 J of heat when its temperature decreases from 25°C to 5°C."
+        }
+      ],
+      "explanation": "To calculate the heat absorbed by a substance, we can use the formula:q = m * C * ΔTWhere:q is the heat absorbed or released,m is the mass of the substance,C is the specific heat capacity of the substance, andΔT is the change in temperature.In this case, we are calculating the heat absorbed by 100 g of water when its temperature decreases from 25°C to 5°C, and the specific heat capacity of water is given as 4.2 J/g·K.ΔT = (Final temperature - Initial temperature) = (278 - 298°C) = -20KNote: The change in temperature is negative because the water is decreasing in temperature.Now we can plug in the values into the formula:q = 100 g * 4.2 J/g·K * (-20K)q = -8400 JThe negative sign indicates that heat is being released or lost by the water. Therefore, 100 g of water releases 84,00 J of heat when its temperature decreases from 25°C to 5°C.",
+      "explanationImage": null,
+      "hints": [
+        "heat",
+        "100 g",
+        "decreases"
+      ]
+    },
+    {
+      "text": "The value of the universal constant \"R\" is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": 2016,
+      "options": [
+        {
+          "letter": "A",
+          "text": "8.314 J mol-3K-3",
+          "isCorrect": false,
+          "explanation": "It is incorrect as the units used are incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "1.38J mole-1 K-3",
+          "isCorrect": false,
+          "explanation": "It is incorrect as the units used are incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "1.38J mole-1 K-1",
+          "isCorrect": false,
+          "explanation": "It is incorrect as the numerical value used is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "8.314 J mole-1 K-1",
+          "isCorrect": true,
+          "explanation": "The values and units of R can be calculated by Avogadro's principle very easily. Its value depends upon the units chosen for pressure, volume, and temperature. Using SI units of pressure, volume, and temperature in the general equation, the value of R is calculated as follows. The SI units of pressure are Nm-2 and of volume are m3. By using Avogadro’s principle1 atm = 760 torr = 101 325 Nm-2 1m3 = 1000 dm3 n = 1 mole T = 273.16 K P = 1 atm = 101325 Nm-2 V = 22.414 dm3 = 0.022414 m3 Putting their values, along with units. R= PV nT = 101325 Nm-2 x 0.022414m3/ 1 mol x 273.16 K R = 8.3143 Nm K-1 mol-1 = 8.3143 J K-1 mol-1(1 Nm = 1J)"
+        }
+      ],
+      "explanation": "Physically, the gas constant is the constant of proportionality that relates the energy scale in physics to the temperature scale, when a mole of particles at the stated temperature is being considered. The value of R is 8.314J K−1mol−1.",
+      "explanationImage": null,
+      "hints": [
+        "value",
+        "constant \"R\""
+      ]
+    },
+    {
+      "text": "The efficiency of the Carnot's Engine working between 150°C and 50°C is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": 2011,
+      "options": [
+        {
+          "letter": "A",
+          "text": "22.3%",
+          "isCorrect": false,
+          "explanation": "Wrong answer.Given:T1=150 = 150+273 = 423KT2=50 = 50+273 = 323KSolution:Efficiency = η% = 1 - T1/T2 x 100%= 1 - 323/423 x 100%η% = 23.6%Result: η% = 23.6%"
+        },
+        {
+          "letter": "B",
+          "text": "20.0%",
+          "isCorrect": false,
+          "explanation": "Wrong answer.Given:T1=150 = 150+273 = 423KT2=50 = 50+273 = 323KSolution:Efficiency = η% = 1 - T1/T2 x 100%= 1 - 323/423 x 100%η% = 23.6%Result: η% = 23.6%"
+        },
+        {
+          "letter": "C",
+          "text": "23.6%",
+          "isCorrect": true,
+          "explanation": "Right answer.Given:T1=150 = 150+273 = 423KT2=50 = 50+273 = 323KSolution:Efficiency = η% = 1 - T1/T2 x 100%= 1 - 323/423 x 100%η% = 23.6%Result: η% = 23.6%"
+        },
+        {
+          "letter": "D",
+          "text": "30.6%",
+          "isCorrect": false,
+          "explanation": "Wrong answer.Given:T1=150 = 150+273 = 423KT2=50 = 50+273 = 323KSolution:Efficiency = η% = 1 - T1/T2 x 100%= 1 - 323/423 x 100%η% = 23.6%Result: η% = 23.6%"
+        },
+        {
+          "letter": "E",
+          "text": "33.6%",
+          "isCorrect": false,
+          "explanation": "Wrong answer.Given:T1=150 = 150+273 = 423KT2=50 = 50+273 = 323KSolution:Efficiency = η% = 1 - T1/T2 x 100%= 1 - 323/423 x 100%η% = 23.6%Result: η% = 23.6%"
+        }
+      ],
+      "explanation": "n% = (1- T2/T1) ×100%T1= 273+150= 423KT2:273+50= 323Kn% = (1- 323/423)×100%n% = 0.236×100% = 23.6%",
+      "explanationImage": null,
+      "hints": [
+        "efficiency",
+        "Carnot's Engine",
+        "150°C and 50°C"
+      ]
+    },
+    {
+      "text": "The bimetallic thermostat is an example of:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electric field",
+          "isCorrect": false,
+          "explanation": "An electric field is a region surrounding charged particles where they exert electrical forces on other charged particles. It is not directly related to the bimetallic thermostat. A bimetallic thermostat functions based on temperature-induced mechanical expansion, rather than the presence of an electric field. Therefore, option (a) is not correct in this context."
+        },
+        {
+          "letter": "B",
+          "text": "Thermal expansion",
+          "isCorrect": true,
+          "explanation": "Bimetal Thermostats use two different kinds of metal to regulate the temperature setting. When one of the metals expands more quickly than the other, it creates a round arc, like a rainbow. As the temperature changes, the metals continue to react differently, operating the thermostat. ○ The basic working principle of a thermometer is thermal expansion. When the thermometric matter gets the heat energy then it expands and this expansion shows the increased temperature reading on the calibrated scale.○ A heat engine is a system that converts heat to mechanical energy, which can then be used to do mechanical work. ○ Isobaric Process is a thermodynamic process that takes place at constant pressure.○ Electric field is defined as the electric force per unit charge.So, options A, C, and D are wrong."
+        },
+        {
+          "letter": "C",
+          "text": "Heat engine",
+          "isCorrect": false,
+          "explanation": "A heat engine is a device that converts thermal energy into mechanical work. While bimetallic thermostats involve the transfer of heat, they do not convert heat energy into mechanical work like a heat engine. Instead, they utilize the principle of thermal expansion for their operation. Therefore, option (c) is not correct."
+        },
+        {
+          "letter": "D",
+          "text": "Isobaric process",
+          "isCorrect": false,
+          "explanation": "An isobaric process is a thermodynamic process that occurs at a constant pressure. In the context of a bimetallic thermostat, the pressure is not the defining factor. Instead, the temperature-induced mechanical expansion of the bimetal strip is the essential principle at work. Thus, option (d) is not correct."
+        }
+      ],
+      "explanation": "Bimetal Thermostats use two different kinds of metal to regulate the temperature setting. When one of the metals expands more quickly than the other, it creates a round arc, like a rainbow. As the temperature changes, the metals continue to react differently, operating the thermostat. ○ The basic working principle of a thermometer is thermal expansion. When the thermometric matter gets the heat energy then it expands and this expansion shows the increased temperature reading on the calibrated scale.○ A heat engine is a system that converts heat to mechanical energy, which can then be used to do mechanical work. ○ Isobaric Process is a thermodynamic process that takes place at constant pressure.○ Electric field is defined as the electric force per unit charge.So, options A, C, and D are wrong .",
+      "explanationImage": null,
+      "hints": [
+        "bimetallic thermostat",
+        "example"
+      ]
+    },
+    {
+      "text": "Which process is shown in the graph between pressure and volume given below?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adiabatic",
+          "isCorrect": false,
+          "explanation": "Adiabatic :In adiabatic process the change in heat is zero (0) means no heat is given in or out of system so the work is done by internal energy and the graph of adiabatic process between pressure and volume is exponential curve."
+        },
+        {
+          "letter": "B",
+          "text": "Isobaric",
+          "isCorrect": false,
+          "explanation": "Isobaric : In isobaric process the pressure remain same and volume increase with rise in temperature and the graph of isobaric between pressure and volume is straight line parellel to volume axis ."
+        },
+        {
+          "letter": "C",
+          "text": "Isochoric",
+          "isCorrect": true,
+          "explanation": "Isochoric :In isochoric process the volume remain same and the pressure increase with rise in temperature and the graph of isochoric between pressure and volume is straight line parellel to pressure axis"
+        },
+        {
+          "letter": "D",
+          "text": "Isothermal",
+          "isCorrect": false,
+          "explanation": "Isothermal : In isothermal process the tenperature remain same and the volume increases or decrease with rise or fall in pressure and the graph of isothermall between pressure and volume is hyperbola"
+        }
+      ],
+      "explanation": "The graph above shows that pressure is increasing while the volume remains constant.The processes in which the volume is constant are said to be isochoric in nature.",
+      "explanationImage": null,
+      "hints": [
+        "process",
+        "pressure and volume"
+      ]
+    },
+    {
+      "text": "The law of heat exchange is used to determine:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Coefficient of linear expansion",
+          "isCorrect": false,
+          "explanation": "Coefficient of linear expansion: The coefficient of linear expansion can be determined by the amount of heat a material absorbs to change its unit length and it has no relation with the law of heat exchange."
+        },
+        {
+          "letter": "B",
+          "text": "Coefficient of volume expansion",
+          "isCorrect": false,
+          "explanation": "Coefficient of volume expansion: Coefficient of volume expansion can be determine by the amount of heat a material absorb to change its unit volume and it has no relation with law of heat exchange"
+        },
+        {
+          "letter": "C",
+          "text": "Ideal gas constant",
+          "isCorrect": false,
+          "explanation": "Ideal gas constant: R is the ideal gas constant and its value 8.314 J/mol.K and it value is constant and has no relation with law of heat exchange because it is a constant of proportionality"
+        },
+        {
+          "letter": "D",
+          "text": "Specific heat of a substance",
+          "isCorrect": true,
+          "explanation": "Specific heat of a substance: The law of heat exchange is used to determine the specific heat because heat gain and lost by the body per unik kelvin is relation to both law of heat exchange and specific heat of a substance."
+        }
+      ],
+      "explanation": "The law of heat exchange is used to determine the specific heat because heat gain and loss by the body per unit kelvin is related to both the law of heat exchange and the specific heat of a substance.",
+      "explanationImage": null,
+      "hints": [
+        "law of heat exchange",
+        "determine"
+      ]
+    },
+    {
+      "text": "All the heat supplied to a system is converted into work in the _ process.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": 2016,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Isochoric",
+          "isCorrect": false,
+          "explanation": "Isochoric: A process that occurs at a constant volume. Heat energy leaves the system and internal energy is reduced. Hence, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Isobaric",
+          "isCorrect": false,
+          "explanation": "Isobaric: A process that occurs at a constant pressure. Positive heat is added to the gas, or equivalently, the environment receives negative heat. This option is also incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Isothermal",
+          "isCorrect": true,
+          "explanation": "Isothermal: A process that occurs at a constant temperature, hence all the heat is converted to work done instead of raising temperatures."
+        },
+        {
+          "letter": "D",
+          "text": "Isentropic",
+          "isCorrect": false,
+          "explanation": "Isentropic: A process that occurs without any change in entropy."
+        }
+      ],
+      "explanation": "In the Isothermal process, the temperature is constant. Internal energy is a state function dependent on temperature. Hence, the internal energy change is zero and thus all the heat energy supplied is converted to work done.",
+      "explanationImage": null,
+      "hints": [
+        "All the heat",
+        "converted",
+        "wor"
+      ]
+    },
+    {
+      "text": "Joule is the unit of ?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Heat",
+          "isCorrect": false,
+          "explanation": "Heat is measured in joules."
+        },
+        {
+          "letter": "B",
+          "text": "Energy",
+          "isCorrect": false,
+          "explanation": "The energy units in which heat changes, usually expressed in SI system are joule (J) and kilojoule (kJ)."
+        },
+        {
+          "letter": "C",
+          "text": "Work",
+          "isCorrect": false,
+          "explanation": "Work is measured in Joules in SI units."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": true,
+          "explanation": "Heat is measured in joules. The energy units in which heat changes, usually expressed in SI system are joule (J) and kilojoule (kJ). Work is measured in Joules in SI units. Joule (J) is the unit of energy, work and heat."
+        }
+      ],
+      "explanation": "Heat is measured in joules. The energy units in which heat changes, usually expressed in SI system are joule (J) and kilojoule (kJ). Work is measured in Joules in SI units. Joule (J) is the unit of energy, work and heat.",
+      "explanationImage": null,
+      "hints": [
+        "Joule",
+        "unit"
+      ]
+    },
+    {
+      "text": "Temperature of the surrounding falls during?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Endothermic reactions",
+          "isCorrect": true,
+          "explanation": "A is correct as in an Endothermic Reaction, the system will absorb heat from the surrounding, hence decreasing its temperature. Whereas in an Exothermic Reaction heat is given off by the system to the surrounding hence the temperature of the surrounding is increased."
+        },
+        {
+          "letter": "B",
+          "text": "Exothermic reactions",
+          "isCorrect": false,
+          "explanation": "Exothermic reactions: Option B is incorrect because exothermic reactions release heat to the surroundings, causing an increase in temperature, not a fall."
+        },
+        {
+          "letter": "C",
+          "text": "Exergonic reactions",
+          "isCorrect": false,
+          "explanation": "Exergonic reactions: Option C is incorrect because exergonic reactions also release energy to the surroundings, resulting in a temperature increase, not a fall."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "This is incorrect as option A is correct."
+        }
+      ],
+      "explanation": "A is correct as in an Endothermic Reaction, the system will absorb heat from the surrounding, hence decreasing its temperature. Whereas in an Exothermic Reaction heat is given off by the system to the surrounding hence the temperature of the surrounding is increased.",
+      "explanationImage": null,
+      "hints": [
+        "surrounding falls",
+        "Temperature"
+      ]
+    },
+    {
+      "text": "For a reaction that can takes place in more than one ways, the enthalpy of that reaction is _?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Same for all the routes of that reaction",
+          "isCorrect": true,
+          "explanation": "Option A is correct since it states the correct definition of Hess’s law which is: If a chemical change takes place by several different routes, the overall energy change is the same, regardless of the route by which the chemical change occurs, provided the initial and final conditions are the same. that regardless of the multiple stages or steps of a reaction, the total enthalpy change for the reaction is the sum of all changes."
+        },
+        {
+          "letter": "B",
+          "text": "Different for different routes of that reaction",
+          "isCorrect": false,
+          "explanation": "B is incorrect since, for different routes for a reaction, the enthalpy change for a particular reaction remains the same. It is independent of the path taken."
+        },
+        {
+          "letter": "C",
+          "text": "Depends up on the reactants present in each route",
+          "isCorrect": false,
+          "explanation": "C is incorrect since Hess's law does not talk about the reactants present."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "D is incorrect since it states none of these which is not the case."
+        }
+      ],
+      "explanation": "Option A is correct since it states the correct definition of Hess’s law which is: If a chemical change takes place by several different routes, the overall energy change is the same, regardless of the route by which the chemical change occurs, provided the initial and final conditions are the same.",
+      "explanationImage": null,
+      "hints": [
+        "reaction",
+        "takes place in more than one ways,",
+        "enthalpy of that reaction is _?"
+      ]
+    },
+    {
+      "text": "If energy of reactants is less than that of products then during the reaction _.",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Heat remains constant",
+          "isCorrect": false,
+          "explanation": "This option suggests that the amount of heat in the system remains the same throughout the reaction. However, in a chemical reaction, the energy content of the reactants is transformed into the energy content of the products. So, the amount of heat in the system will not remain constant during the reaction."
+        },
+        {
+          "letter": "B",
+          "text": "Heat is lost",
+          "isCorrect": false,
+          "explanation": "This option implies that heat is released or lost during the reaction. If the energy of the products is less than the energy of the reactants, the reaction would be exothermic, meaning it releases heat to the surroundings."
+        },
+        {
+          "letter": "C",
+          "text": "Heat is absorbed",
+          "isCorrect": true,
+          "explanation": "In an endothermic reaction, the products are higher in energy than the reactants. Therefore, the change in enthalpy is positive, and heat is absorbed from the surroundings by the reaction."
+        },
+        {
+          "letter": "D",
+          "text": "No heat gain or lose takes place",
+          "isCorrect": false,
+          "explanation": "This option implies that there is no change in the heat content of the system during the reaction. However, as explained earlier, the energy content changes during a chemical reaction, so there will be heat gain or loss."
+        }
+      ],
+      "explanation": "Option C is correct since, in an endothermic reaction, the products are higher in energy than the reactants. Therefore, the change in enthalpy is positive, and heat is absorbed from the surroundings by the reaction.",
+      "explanationImage": null,
+      "hints": [
+        "energy of reactants",
+        "less than",
+        "products"
+      ]
+    },
+    {
+      "text": "Heat is the energy that flows across the:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Surroundings",
+          "isCorrect": false,
+          "explanation": "In the case of heat, the system and its surroundings are separated by a boundary. This boundary can be real or imaginary, but it must prevent the free flow of energy between the system and its surroundings."
+        },
+        {
+          "letter": "B",
+          "text": "Boundaries of the system",
+          "isCorrect": true,
+          "explanation": "Heat is the energy that flows across the boundaries of the system. This means that heat can flow into or out of the system, but it cannot flow within the system. The reason for this is that heat is a form of energy, and energy can only be transferred between systems. In the case of heat, the system and its surroundings are separated by a boundary. This boundary can be real or imaginary, but it must prevent the free flow of energy between the system and its surroundings. If the boundary were not present, then heat would be able to flow freely within the system. This would mean that the temperature of the system would be uniform, which is not possible in reality. Therefore, heat can only flow across the boundaries of the system. This is an important concept in thermodynamics, as it allows us to track the flow of energy into and out of the system."
+        },
+        {
+          "letter": "C",
+          "text": "Only within the system",
+          "isCorrect": false,
+          "explanation": "It cannot flow within the system.The reason for this is that heat is a form of energy, and energy can only be transferred between systems."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": "Only option B is correct."
+        }
+      ],
+      "explanation": "Heat is the energy that flows across the boundaries of the system. This means that heat can flow into or out of the system, but it cannot flow within the systemThe reason for this is that heat is a form of energy, and energy can only be transferred between systems. In the case of heat, the system and its surroundings are separated by a boundary. This boundary can be real or imaginary, but it must prevent the free flow of energy between the system and its surroundings.If the boundary were not present, then heat would be able to flow freely within the system. This would mean that the temperature of the system would be uniform, which is not possible in reality.Therefore, heat can only flow across the boundaries of the system. This is an important concept in thermodynamics, as it allows us to track the flow of energy into and out of the system.",
+      "explanationImage": null,
+      "hints": [
+        "Heat"
+      ]
+    },
+    {
+      "text": "Which of the following is not a state function?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Internal Energy",
+          "isCorrect": false,
+          "explanation": "It is a state function."
+        },
+        {
+          "letter": "B",
+          "text": "Enthalpy",
+          "isCorrect": false,
+          "explanation": "It is a state function."
+        },
+        {
+          "letter": "C",
+          "text": "Work",
+          "isCorrect": true,
+          "explanation": "Option C is correct since work can not be a state function as it is proportional to the distance an object is moved."
+        },
+        {
+          "letter": "D",
+          "text": "None of these options are correct",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        }
+      ],
+      "explanation": "Option C is correct since work can not be a state function as it is proportional to the distance an object is moved.",
+      "explanationImage": null,
+      "hints": [
+        "not a state function?"
+      ]
+    },
+    {
+      "text": "What is the correct equation to find Heat of Neutralization using glass calorimeter?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "q=m s ∆T",
+          "isCorrect": true,
+          "explanation": "Q=ms ∆T is the equation of specific heat. Each term in the equation has a different significance. Q is defined as the amount of heat in unit Joule, m is the mass in unit gram, s is the specific heat expressed in the unit joule per gram degree Celsius and AT is the change in temperature in degrees Celsius.The correct equation is option A."
+        },
+        {
+          "letter": "B",
+          "text": "E=q m ∆T",
+          "isCorrect": false,
+          "explanation": "Option B) E-qmAT is not the correct equations for finding the heat of neutralization using a glass calorimeter."
+        },
+        {
+          "letter": "C",
+          "text": "E=m s ∆T",
+          "isCorrect": false,
+          "explanation": "Option C) E=m s ∆T Tis not the correct equations for finding the heat of neutralization using a glass calorimeter."
+        },
+        {
+          "letter": "D",
+          "text": "E=m c ∆T",
+          "isCorrect": false,
+          "explanation": "Option D) E=m c ∆T Tis not the correct equations for finding the heat of neutralization using a glass calorimeter."
+        }
+      ],
+      "explanation": "Q=ms ∆T is the equation of specific heat. Each term in the equation has a different significance. Q is defined as the amount of heat in unit Joule, m is the mass in unit gram, s is the specific heat expressed in the unit joule per gram degree Celsius and AT is the change in temperature in degrees Celsius.The correct equation is option A.",
+      "explanationImage": null,
+      "hints": [
+        "correct equation",
+        "Heat of Neutralization",
+        "glass calorimeter"
+      ]
+    },
+    {
+      "text": "Heat exchanged between the system and surrounding at constant volume is shown by the relation:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "∆H= qv+ w",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "∆E= (q)v",
+          "isCorrect": true,
+          "explanation": "ΔE= q - ΔW ΔE = q - PΔV Where ΔE = change in internal energy q= heat ΔW = work done P = pressure ΔV = volume The equation becomes , q = ΔE + PΔV Let q(v) be the heat absorbed at constant volume thus ΔV = 0 so PΔV also becomes zero Now the equation becomes; ΔE = q(v)"
+        },
+        {
+          "letter": "C",
+          "text": "∆H=(q)v",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "∆E= (q)v + PV",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        }
+      ],
+      "explanation": "ΔE= q - ΔW ΔE = q - PΔV Where ΔE = change in internal energy q= heat ΔW = work done P = pressure ΔV = volume The equation becomes , q = ΔE + PΔV Let q(v) be the heat absorbed at constant volume thus ΔV = 0 so PΔV also becomes zero Now the equation becomes; ΔE = q(v)",
+      "explanationImage": null,
+      "hints": [
+        "Heat exchanged",
+        "system and surrounding",
+        "constant volume",
+        "shown by the relation:"
+      ]
+    },
+    {
+      "text": "Law of conservation of energy is actually:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Second law of thermodynamics",
+          "isCorrect": false,
+          "explanation": "The First Law of Thermodynamics is a restatement of the Law of Conservation of Energy ,hence this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Third Law of thermodynamics",
+          "isCorrect": false,
+          "explanation": "The First Law of Thermodynamics is a restatement of the Law of Conservation of Energy ,hence this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "First law of thermodynamics",
+          "isCorrect": true,
+          "explanation": "The First Law of Thermodynamics is a restatement of the Law of Conservation of Energy ,hence this option is correct."
+        },
+        {
+          "letter": "D",
+          "text": "Zeroth law of thermodynamics",
+          "isCorrect": false,
+          "explanation": "The First Law of Thermodynamics is a restatement of the Law of Conservation of Energy ,hence this option is incorrect."
+        }
+      ],
+      "explanation": "The First Law of Thermodynamics is a restatement of the Law of Conservation of Energy.",
+      "explanationImage": null,
+      "hints": [
+        "conservation of energy"
+      ]
+    },
+    {
+      "text": "The SI unit for work is _.",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Newtons",
+          "isCorrect": false,
+          "explanation": "Newton is SI unit of Force applied to the body."
+        },
+        {
+          "letter": "B",
+          "text": "Joule",
+          "isCorrect": true,
+          "explanation": "The S.I unit of work is joule, work is also a form in which energy is transferred from one system to another. It is defined as the product of force and distance i.e. W = F x dS It is a fact, and it should be memorized."
+        },
+        {
+          "letter": "C",
+          "text": "Newton/metre",
+          "isCorrect": false,
+          "explanation": "Newton/metre is I unit of Torque."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": "Only option B is correct."
+        }
+      ],
+      "explanation": "The S.I unit of work is joule, work is also a form in which energy is transferred from one system to another. It is defined as the product of force and distance i.e. W = F x dS It is a fact, and it should be memorized.",
+      "explanationImage": null,
+      "hints": [
+        "SI unit for work"
+      ]
+    },
+    {
+      "text": "Which one of the following is not the property of a system?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enthalpy",
+          "isCorrect": false,
+          "explanation": "It's a property because it's a state function. The definition of Enthalpy says that it's the amount of heat required to be given to the system to reach that state without doing any work on it. Sure, the system is allowed to do work on it's surroundings, but you are not allowed to do work it."
+        },
+        {
+          "letter": "B",
+          "text": "Internal energy",
+          "isCorrect": false,
+          "explanation": "The Internal Energy, U, of a system is an extensive thermodynamic property that measures the energy stored in a system as a result of its microscopic structure. The internal energy will include contributions from the thermal, mechanical, electrical, magnetic, chemical, and surface energies of the system."
+        },
+        {
+          "letter": "C",
+          "text": "Thermal energy",
+          "isCorrect": true,
+          "explanation": "Heat is not a thermodynamic property because heat is the energy that is transferred due to a temperature difference, which means that heat is not an energy that is contained within the system, but flowing either from or to the system, particularly if the system is in equilibrium."
+        },
+        {
+          "letter": "D",
+          "text": "Temperature",
+          "isCorrect": false,
+          "explanation": "Temperature is an intensive property of a system, meaning that it does not depend on the system size, the amount or type of material in the system, the same as for the pressure and density."
+        }
+      ],
+      "explanation": "Heat is not a thermodynamic property because heat is the energy that is transferred due to a temperature difference, which means that heat is not an energy that is contained within the system, but flowing either from or to the system, particularly if the system is in equilibrium.",
+      "explanationImage": null,
+      "hints": [
+        "not the property of a system?"
+      ]
+    }
+  ]
+}

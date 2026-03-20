@@ -1,0 +1,3010 @@
+{
+  "questions": [
+    {
+      "text": "Mutual inductance has a practical role in performance of:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "AC generator",
+          "isCorrect": false,
+          "explanation": "In an AC generator, mutual inductance plays a crucial role in inducing an alternating current in the coils of the generator.The changing magnetic field produced by the rotation of the generator's rotor induces an electromotive force (EMF) in the stationary coils through mutual inductance.This induced EMF results in the generation of alternating current, which is then converted to usable electrical energy."
+        },
+        {
+          "letter": "B",
+          "text": "Radio choke",
+          "isCorrect": false,
+          "explanation": "In electronic circuits, particularly in radio frequency (RF) circuits, a choke coil (inductor) is often used to block the flow of alternating current while allowing direct current to pass.Mutual inductance is utilized in the design of these choke coils to achieve the desired impedance characteristics.The mutual inductance between the windings of the choke coil helps in effectively blocking the alternating current signals while allowing the direct current signals to pass through."
+        },
+        {
+          "letter": "C",
+          "text": "DC generator",
+          "isCorrect": false,
+          "explanation": "Unlike AC generators, DC generators rely on commutation to convert mechanical energy into direct current.While mutual inductance plays a role in the operation of the generator's armature, it is not the primary mechanism for generating direct current in a DC generator.In a DC generator, the commutator ensures that the induced current flows in one direction, resulting in a direct current output."
+        },
+        {
+          "letter": "D",
+          "text": "Transformer",
+          "isCorrect": true,
+          "explanation": "Mutual inductance is fundamental to the operation of transformers.In a transformer, two or more coils (windings) are placed in close proximity to each other, but electrically insulated.When an alternating current flows through the primary winding, it creates a changing magnetic field, which, through mutual inductance, induces a voltage in the secondary winding.This induced voltage is proportional to the rate of change of current in the primary winding and the number of turns in the secondary winding, allowing for efficient voltage transformation."
+        }
+      ],
+      "explanation": "A transformer is a device which uses the phenomenon of mutual induction to change the values of alternating voltages and currents.",
+      "explanationImage": null,
+      "hints": [
+        "Mutual inductance",
+        "practical role in performance of"
+      ]
+    },
+    {
+      "text": "Half wave voltage multipliers can provide what degree of voltage multiplication?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Any doubler",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        },
+        {
+          "letter": "B",
+          "text": "Any tripler",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        },
+        {
+          "letter": "C",
+          "text": "Any multiplication",
+          "isCorrect": true,
+          "explanation": "Half-wave voltage multipliers can provide a voltage multiplication of approximately twice the peak voltage of the input AC signal.In a half-wave voltage multiplier circuit, during the positive half-cycle of the input AC signal, the diode conducts and charges the capacitor to the peak voltage of the input signal. During the negative half-cycle, the diode blocks current flow, but the capacitor discharges through the load resistor, providing an output voltage across the load. Since the capacitor only charges during half of the input cycle, the output voltage is typically around double the peak input voltage.It's worth noting that while half-wave voltage multipliers are simple and compact, they have lower efficiency and produce a pulsating DC output, which may require additional filtering for certain applications. Additionally, full-wave voltage multiplier circuits, such as the full-wave bridge rectifier circuit, can provide higher voltage multiplication and smoother output compared to half-wave circuits.Let's say we have an input AC signal with a peak voltage Vpeak​=10 volts.For a half-wave voltage multiplier circuit, the output voltage Vout​ can be approximately twice the peak voltage of the input signal.So,Vout​≈ 2×Vpeak​ =2×10 volts =20 voltsTherefore, the output voltage provided by the half-wave voltage multiplier would be approximately 20 volts.This calculation demonstrates that the voltage multiplication factor for a half-wave voltage multiplier is around 2 times the peak voltage of the input signal."
+        },
+        {
+          "letter": "D",
+          "text": "None of them",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        }
+      ],
+      "explanation": "A voltage multiplier is a specialized rectifier circuit producing an output that is theoretically an integer times the AC peak input, for example, 2, 3, or 4 times the AC peak input. Thus, it is possible to get 200 VDC from a 100 Vpeak AC source using a doubler, and 400 VDC from a quadrupler. Any load in a practical circuit will lower these voltages.",
+      "explanationImage": null,
+      "hints": [
+        "Half wave voltage multipliers",
+        "what degree of voltage multiplication"
+      ]
+    },
+    {
+      "text": "In a half-wave rectifier, the diode conducts during:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "One half of the input cycle",
+          "isCorrect": true,
+          "explanation": "The answer is A since the positioning of the diode would ultimately decide whether the positive half is allowed to flow or the negative half. Since we aren’t aware of the position/direction of the diode, we would go with A."
+        },
+        {
+          "letter": "B",
+          "text": "A portion of the positive half of the input cycle",
+          "isCorrect": false,
+          "explanation": "This option is more accurate. In a half-wave rectifier, the diode conducts for a portion of the positive half-cycle of the input AC signal. During this time, when the input voltage is positive and exceeds the forward voltage drop of the diode, the diode becomes forward-biased and conducts current."
+        },
+        {
+          "letter": "C",
+          "text": "A portion of the negative half of the input cycle",
+          "isCorrect": false,
+          "explanation": "In a half-wave rectifier, the diode does not conduct during the negative half-cycle of the input AC signal. The diode is reverse-biased during this time, meaning it does not allow current to flow through it."
+        },
+        {
+          "letter": "D",
+          "text": "Both halves of the input cycles",
+          "isCorrect": false,
+          "explanation": "This is incorrect for a half-wave rectifier. Unlike full-wave rectifiers, which utilize two diodes to conduct during both halves of the input cycle, a half-wave rectifier only conducts during one half of the input cycle, typically the positive half-cycle."
+        }
+      ],
+      "explanation": "The answer is A since the positioning of the diode would ultimately decide whether the positive half is allowed to flow or the negative half. Since we aren’t aware of the position/direction of the diode, we would go with A.",
+      "explanationImage": null,
+      "hints": [
+        "half-wave rectifier",
+        "diode conducts during"
+      ]
+    },
+    {
+      "text": "In a step up transformer:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vs > Vp while Is > Ip",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        },
+        {
+          "letter": "B",
+          "text": "Vs < Vp while Is > Ip",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        },
+        {
+          "letter": "C",
+          "text": "Vs = Vp while Is > Ip",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        },
+        {
+          "letter": "D",
+          "text": "Vs > Vp while Is < Ip",
+          "isCorrect": true,
+          "explanation": "Vs > Vp: This part of the statement is correct. In a step-up transformer, the voltage across the secondary coil (Vs​) is greater than the voltage across the primary coil (Vp​). This is due to the principle of electromagnetic induction, where a changing magnetic field in the primary coil induces a voltage in the secondary coil. Since the secondary coil typically has more turns than the primary coil in a step-up transformer, the induced voltage in the secondary coil is higher than the applied voltage in the primary coil. Is < Ip: In a step-up transformer, the current in the secondary coil (Is​) is typically less than the current in the primary coil (Ip​). This is because the power in the primary coil (Pp​) is approximately equal to the power in the secondary coil (Ps​) according to the principle of energy conservation. Since the voltage is stepped up in the secondary coil, the current is stepped down to maintain this power balance. Therefore, Is​<Ip​ in a step-up transformer."
+        }
+      ],
+      "explanation": "Step-up transformers increase the voltage and decrease the current.",
+      "explanationImage": null,
+      "hints": [
+        "step up transformer"
+      ]
+    },
+    {
+      "text": "The principle of a capacitor is based on which of the following facts?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2011,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Potential of a conductor is greatly increased with a decrease in the charge in it increase in the charge in it. affecting the charge in it",
+          "isCorrect": false,
+          "explanation": "The principle of the capacitor is based on the fact that the potential of a conductor is greatly reduced and its capacity is increased without affecting the electric charge in it by placing another earth-connected conductor or an oppositely charged conductor in its neighborhood. This arrangement is, therefore, able to store electric charge."
+        },
+        {
+          "letter": "B",
+          "text": "Potential of a conductor is greatly reduced with an increase in the charge in it.",
+          "isCorrect": false,
+          "explanation": "The principle of the capacitor is based on the fact that the potential of a conductor is greatly reduced and its capacity is increased without affecting the electric charge in it by placing another earth-connected conductor or an oppositely charged conductor in its neighborhood. This arrangement is, therefore, able to store electric charge."
+        },
+        {
+          "letter": "C",
+          "text": "Potential of a conductor is greatly increased without affecting the charge in it",
+          "isCorrect": false,
+          "explanation": "The principle of the capacitor is based on the fact that the potential of a conductor is greatly reduced and its capacity is increased without affecting the electric charge in it by placing another earth-connected conductor or an oppositely charged conductor in its neighborhood. This arrangement is, therefore, able to store electric charge."
+        },
+        {
+          "letter": "D",
+          "text": "P.otential of a conductor is greatly reduced without affecting the charge in it",
+          "isCorrect": true,
+          "explanation": "The principle of the capacitor is based on the fact that the potential of a conductor is greatly reduced and its capacity is increased without affecting the electric charge in it by placing another earth-connected conductor or an oppositely charged conductor in its neighborhood. This arrangement is, therefore, able to store electric charge."
+        },
+        {
+          "letter": "E",
+          "text": "Potential of a conductor is greatly increased with an increase in the charge in it",
+          "isCorrect": false,
+          "explanation": "The principle of the capacitor is based on the fact that the potential of a conductor is greatly reduced and its capacity is increased without affecting the electric charge in it by placing another earth-connected conductor or an oppositely charged conductor in its neighborhood. This arrangement is, therefore, able to store electric charge."
+        }
+      ],
+      "explanation": "The principle of the capacitor is based on the fact that the potential of a conductor is greatly reduced and its capacity is increased without affecting the electric charge in it by placing another earth-connected conductor or an oppositely charged conductor in its neighborhood. This arrangement is, therefore, able to store electric charge.",
+      "explanationImage": null,
+      "hints": [
+        "principle of a capacitor",
+        "based on which of the following facts"
+      ]
+    },
+    {
+      "text": "In electronic circuits, a PN junction diode is used to convert alternating current into direct current. This process is called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rectification",
+          "isCorrect": true,
+          "explanation": "Rectification: A rectifier converts alternating current to direct current and this process of converting AC to DC is known as rectification"
+        },
+        {
+          "letter": "B",
+          "text": "Amplification",
+          "isCorrect": false,
+          "explanation": "Amplification: The process of increasing the volume of sound, especially using an amplifier ORThe process of increasing intensity of sound."
+        },
+        {
+          "letter": "C",
+          "text": "Doping",
+          "isCorrect": false,
+          "explanation": "Doping: The process of adding impurity into intrinsic(pure) semiconductor to make it extrinsic semiconductor."
+        },
+        {
+          "letter": "D",
+          "text": "Integrated Circuit",
+          "isCorrect": false,
+          "explanation": "Integrated Circuit: An integrated circuit (IC), sometimes called a chip, microchip or microelectronic circuit, is a semiconductor wafer on which thousands or millions of tiny resistors, capacitors, diodes and transistors are fabricated."
+        }
+      ],
+      "explanation": "Rectification is the conversion of alternating current to direct current. Rectification is performed by a diode that allows current to flow in one direction but not in the opposite direction.",
+      "explanationImage": null,
+      "hints": [
+        "electronic circuits",
+        "PN junction diode",
+        "convert alternating current into direct current",
+        "process is called"
+      ]
+    },
+    {
+      "text": "PIV stands for :",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2020,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Positive inverse voltage",
+          "isCorrect": false,
+          "explanation": "This term doesn't have a standard meaning in electronics terminologies. \"Inverse\" typically refers to the reciprocal or opposite, but \"positive inverse voltage\" is not a recognized term."
+        },
+        {
+          "letter": "B",
+          "text": "Pawn Bh Integrated voltage",
+          "isCorrect": false,
+          "explanation": "This is a nonsensical term and is not related to any standard concept in electronics."
+        },
+        {
+          "letter": "C",
+          "text": "Peak inverse voltage",
+          "isCorrect": true,
+          "explanation": "Peak Inverse Voltage (PIV) is a crucial parameter in the design and analysis of diode circuits, especially in rectifiers. It refers to the maximum reverse voltage that a diode can withstand without breaking down. In a rectifier circuit, during the reverse-bias portion of the AC input cycle, the diode experiences this peak inverse voltage."
+        },
+        {
+          "letter": "D",
+          "text": "Peak integrated voltage",
+          "isCorrect": false,
+          "explanation": "This term doesn't have a standard meaning in electronics. \"Integrated voltage\" could refer to the total integrated voltage over time, but \"peak integrated voltage\" is not commonly used in technical contexts."
+        }
+      ],
+      "explanation": "Peak Inverse Voltage (PIV) or Peak Reverse Voltage (PRV) refer to the maximum voltage a diode or other device can withstand in the reverse-biased direction before breakdown. Also may be called Reverse Breakdown Voltage.",
+      "explanationImage": null,
+      "hints": [
+        "PIV"
+      ]
+    },
+    {
+      "text": "In a full-wave bridge rectification, the number of diodes used are:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2020,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "isCorrect": true,
+          "explanation": "A full-wave bridge rectifier utilizes a configuration of four diodes arranged in a bridge circuit. This arrangement allows for the conversion of alternating current (AC) into direct current (DC) by conducting during both halves of the AC input cycle. The four diodes are configured in such a way that they form a bridge across the load, allowing the current to flow in a single direction through the load regardless of the polarity of the input AC voltage."
+        }
+      ],
+      "explanation": "The full-wave rectifier circuit consists of 4 diodes arranged in a tetrahedral connection. When we have the upper side of the AC supply as positive, the current flows through D1 to the load and returns through D2 at the temporary negative terminal of the AC supply. When the bottom side of the AC supply is positive, due to the constant change in polarity, the current, conventionally, flows through D3 to the load and returns to the supply by passing through D4. It reaches the supply at the now negative terminal of the AC supply which is the upper side of the supply.",
+      "explanationImage": null,
+      "hints": [
+        "full-wave bridge rectification",
+        "number of diodes"
+      ]
+    },
+    {
+      "text": "An A.C emf of E = 100 sin (100 π t) volt is concerned with a choke of negligible resistance. In order to produce current of amplitude 1 A, the inductance of the choke should be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "200 H",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        },
+        {
+          "letter": "B",
+          "text": "2 π H",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        },
+        {
+          "letter": "C",
+          "text": "1 / π H",
+          "isCorrect": true,
+          "explanation": "We know that the amplitude of the current in an AC circuit with an inductor is given by:I = E/XLwhere E is the amplitude of the AC voltage, and XL is the inductive reactance of the inductor, given by:XL = 2πfLwhere f is the frequency of the AC voltage and L is the inductance of the inductor.Here, E = 100 V and the frequency of the AC voltage is 100π Hz. We are given that we need a current of amplitude 1 A, so we can write:1 = E/XLXL = ESubstituting the given values, we get:XL = 100 VXL = 2πfLL = XL/(2πf)L = 100/(2π × 100π)L = 0.159 HTherefore, the inductance of the choke should be approximately 0.159 H. None of the given options match this value exactly, but the closest one is option (c), which is 1/π H."
+        },
+        {
+          "letter": "D",
+          "text": "2 / π H",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        }
+      ],
+      "explanation": "This is the following solution.",
+      "explanationImage": null,
+      "hints": [
+        "A.C emf of E = 100 sin (100 π t) volt",
+        "concerned with a choke of negligible resistance",
+        "produce current of amplitude 1 A",
+        "inductance of the choke"
+      ]
+    },
+    {
+      "text": "In RLC series circuit at resonance, the A.C voltage across Resistance R, Inductance L and capacitance C are 5V, 10V and 10 V respectively. The A.C voltage applied to the circuit will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 V",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        },
+        {
+          "letter": "B",
+          "text": "10 V",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        },
+        {
+          "letter": "C",
+          "text": "5 V",
+          "isCorrect": true,
+          "explanation": "At resonance in an RLC series circuit, the impedance of the circuit is minimum, and the current is maximum. At resonance, the voltage across the inductor (L) and the capacitor (C) are equal in magnitude and cancel out each other. Therefore, the voltage across the resistor (R) is maximum.Given, voltage across R = 5V, voltage across L = 10V, and voltage across C = 10VTherefore, the applied AC voltage will be the phasor sum of the voltages across R, L, and C.Using Pythagoras's theorem, the magnitude of the applied voltage (V) can be calculated as:V = sqrt(52 + (102 - 102)) = sqrt(25) = 5VTherefore, the AC voltage applied to the circuit will be 5V."
+        },
+        {
+          "letter": "D",
+          "text": "25 V",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        }
+      ],
+      "explanation": "Let V1, V2 and V3 be the voltage across Resistance, Inductance and Capacitance. Then Source Voltage (V) may be written as:",
+      "explanationImage": null,
+      "hints": [
+        "RLC series circuit at resonance",
+        "A.C voltage across Resistance R",
+        "Inductance L",
+        "capacitance C",
+        "5V, 10V and 10 V",
+        "A.C voltage applied to the circuit"
+      ]
+    },
+    {
+      "text": "In a half wave rectifier, the diode conducts during:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "One half of the input cycle",
+          "isCorrect": true,
+          "explanation": "In a half-wave rectifier, the diode conducts during only half of the input cycle. Specifically, it conducts when the input voltage is positive (greater than 0) and blocks the current flow when the input voltage is negative (less than or equal to 0). Here's how it works: 1. During the positive half-cycle of the input voltage, the diode is forward-biased, meaning the anode of the diode is at a higher voltage than the cathode. In this condition, the diode conducts and allows the current to flow through it, resulting in an output voltage across the load. 2. However, during the negative half-cycle of the input voltage, the diode becomes reverse-biased. The cathode is now at a higher voltage than the anode, which blocks the current flow through the diode. As a result, no output voltage is present during the negative half-cycle. Therefore, in a half-wave rectifier, the diode conducts during the positive half-cycle of the input voltage and does not conduct during the negative half-cycle. A half wave rectifier only conducts during one half of the input cycle and is said to be forward biased during this cycle."
+        },
+        {
+          "letter": "B",
+          "text": "A portion of the positive half of the input cycle",
+          "isCorrect": false,
+          "explanation": "It conducts during the entire positive cycle, not just a portion of it."
+        },
+        {
+          "letter": "C",
+          "text": "A portion of the negative half of the input cycle",
+          "isCorrect": false,
+          "explanation": "It DOES NOT conduct during the negative cycle."
+        },
+        {
+          "letter": "D",
+          "text": "Both halves of the input cycles",
+          "isCorrect": false,
+          "explanation": "It does not conduct during the negative half cycle."
+        }
+      ],
+      "explanation": "A half wave rectifier only conducts during one half of the input cycle and is said to be forward biased during this cycle.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "An alternating voltage source is connected to a resistor R, and a capacitor C, then which of the following statements about phase angle between voltage V and current I is correct?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "In the resistor, I leads V by 90 degrees - In the capacitor, I leads V by 90 degrees",
+          "isCorrect": false,
+          "explanation": "This statement is incorrect. In a resistor, the current and voltage are in phase, not leading or lagging each other by 90 degrees. In a capacitor, the current leads the voltage by 90 degrees."
+        },
+        {
+          "letter": "B",
+          "text": "In the resistor, I lags V by 90 degrees - In the capacitor, I leads V by 90 degrees",
+          "isCorrect": false,
+          "explanation": "This statement is also incorrect. In a resistor, the current and voltage are in phase, not leading or lagging each other by 90 degrees. In a capacitor, the current leads the voltage by 90 degrees."
+        },
+        {
+          "letter": "C",
+          "text": "In the resistor, I and V are in phase - In the capacitor, I leads V by 90 degrees",
+          "isCorrect": true,
+          "explanation": "In a resistor, the current and voltage are in phase because the current flows in the same direction as the voltage. However, in a capacitor, the current leads the voltage by 90 degrees because the capacitor initially resists the flow of current and stores energy in its electric field. As the voltage across the capacitor increases, the current begins to flow, and it reaches its maximum value when the voltage is at its minimum value. Therefore, the current leads the voltage by 90 degrees in a capacitor."
+        },
+        {
+          "letter": "D",
+          "text": "In the resistor, I and V are in phase - In the capacitor, I lags V by 90 degrees",
+          "isCorrect": false,
+          "explanation": "This statement is incorrect. In a resistor, the current and voltage are in phase, not leading or lagging each other by 90 degrees. In a capacitor, the current leads the voltage by 90 degrees."
+        },
+        {
+          "letter": "E",
+          "text": "In the resistor, I lags V by 90 degrees - In the capacitor, I lags V by 90 degrees",
+          "isCorrect": false,
+          "explanation": "This statement is incorrect. In a resistor, the current and voltage are in phase, not leading or lagging each other by 90 degrees. In a capacitor, the current leads the voltage by 90 degrees."
+        }
+      ],
+      "explanation": "In a resistor, the current and voltage are in phase because the current flows in the same direction as the voltage. However, in a capacitor, the current leads the voltage by 90 degrees because the capacitor initially resists the flow of current and stores energy in its electric field. As the voltage across the capacitor increases, the current begins to flow, and it reaches its maximum value when the voltage is at its minimum value. Therefore, the current leads the voltage by 90 degrees in a capacitor.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A capacitor and an inductor are connected to A.C. supply. If we double the frequency of A.C. supply then the effect on reactance of capacitor XC and reactance of inductor XL will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both XC and XL are doubled",
+          "isCorrect": false,
+          "explanation": "Both XC and XL are doubled - This is incorrect. XC is actually halved, not doubled."
+        },
+        {
+          "letter": "B",
+          "text": "Both XC and XL are halved",
+          "isCorrect": false,
+          "explanation": "Both XC and XL are halved - This is incorrect. XC is halved, but XL is doubled."
+        },
+        {
+          "letter": "C",
+          "text": "XC is doubled and XL reduces to half",
+          "isCorrect": false,
+          "explanation": "XC is doubled and XL reduces to half - This is incorrect. XC is halved, not doubled."
+        },
+        {
+          "letter": "D",
+          "text": "XL is doubled and XC reduces to half",
+          "isCorrect": true,
+          "explanation": "The reactance of a capacitor is given by: Xc = 1/ (2πfC) where f is the frequency of the AC supply, and C is the capacitance of the capacitor. On doubling the frequency of the AC supply, the reactance of the capacitor becomes: X'c = 1/ (2π(2f)C) = Xc/2 Therefore, the reactance of the capacitor is halved when the frequency is doubled. The reactance of an inductor is given by: XL = 2πfL where L is the inductance of the inductor. On doubling the frequency of AC supply, the reactance of the inductor becomes: X'L = 2π(2f)L = 2XL Therefore, the reactance of the inductor is doubled when the frequency is doubled."
+        },
+        {
+          "letter": "E",
+          "text": "Both XC and XL are unchanged",
+          "isCorrect": false,
+          "explanation": "Both XC and XL are unchanged - This is incorrect. Both XC and XL are affected by the change in frequency."
+        }
+      ],
+      "explanation": "The reactance of a capacitor is given by: Xc = 1/ (2πfC) where f is the frequency of the AC supply, and C is the capacitance of the capacitor. On doubling the frequency of the AC supply, the reactance of the capacitor becomes: X'c = 1/ (2π(2f)C) = Xc/2 Therefore, the reactance of the capacitor is halved when the frequency is doubled. The reactance of an inductor is given by: XL = 2πfL where L is the inductance of the inductor. On doubling the frequency of the AC supply, the reactance of the inductor becomes: X'L = 2π(2f)L = 2XL Therefore, the reactance of the inductor is doubled when the frequency is doubled.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The principle of an AC generator is.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lenz's law",
+          "isCorrect": false,
+          "explanation": "Lenz's law states that the induced current always flows in such a direction as to oppose the change which is giving rise to it. Sindh Textbook for Class XII 132"
+        },
+        {
+          "letter": "B",
+          "text": "Faraday's Law",
+          "isCorrect": true,
+          "explanation": "Faraday's laws:An emf is induced in a coil through which the magnetic flux is changing. The emf lasts as longs as the change of flux is in progress and becomes zero as soon as the flux through the coil becomes constant.The magnitude of induced emf depends only upon the number of turns and the time rate of change of flux linked with the circuit. Sindh Textbook for Class XII P131 The principle of the generator is that an emf is induced in the coil due to changing magnetic flux linkage when it is rotated between the poles of a magnet. Sindh Textbook for Class XII P139"
+        },
+        {
+          "letter": "C",
+          "text": "Self-induction",
+          "isCorrect": false,
+          "explanation": "A coil through which a current is flowing has an associated magentic field. If, for any reason, the current changes, then so too does the magnetic flux and an emf is induced in the coil. Since this emf has been induced in the coil by change in the current in the same coil, the process is known as self- induction.Sindh Textbook for Class XII P133"
+        },
+        {
+          "letter": "D",
+          "text": "Ampere's law",
+          "isCorrect": false,
+          "explanation": "Ampere's law state that the sum of the products of the tangential components of magnetic field of induction and the length of an element of a closed curve taken in the magnetic field is unought(permeability of free space) times the current which passes through the area bounded by this curve. Sindh Textbook for Class XII P126"
+        }
+      ],
+      "explanation": "It works on the principle of Faraday’s law of electromagnetic induction. Whenever a coil is rotated in a uniform magnetic field about an axis perpendicular to the field, the magnetic flux linked with the coil changes, and an induced emf is set up across its ends.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In a step up transformer _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vs > Vp while Is > Ip",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Vs < Vp while Is > Ip",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Vs = Vp while Is > Ip",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Vs > Vp while Is < Ip",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Step- up transformers increase the voltage and decrease the current. Hence, answer is D.B represents step-down transformers.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If a half wave rectifier is used to convert 50Hz AC into DC, then the number of pulses present in rectified voltage is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "25",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "50",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "100",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "75",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Rectifiers produce unidirectional and pulsating voltage from A.C. source, the number of pulses per second in the rectified voltage remains same as that of input voltage, i.e., here it is 50 Hz.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The maximum instantaneous value measured from zero value is known as?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "peak value",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "peak to peak value",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "cycle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "period",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Peak value is the maximum value obtained during one cycle so option A is correct.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following remains unchanged in a transformer.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Voltage",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Current",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Power",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Capacitance",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A transformer changes voltages and current but the power remains constant. But we would like to mention that this is only for the case of an ideal transformer, in general there is loss in power in form of heat, sound, vibrations, eddy currents, etc. Only the frequency remains constant.In an ideal transformer, power remains constant as it is not lost to the surroundings",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The number of diodes in bridge rectifier is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "It is a fact that a bridge rectifier has 4 diodes. It is also called a full wave rectifier.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the range of typical band gap in conductors",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100-1000eV",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "0.5-10eV",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "0.01-0.1 eV",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "10000-10000000eV",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Students have to learn this value as it is a fact that the range of a typical band gap in conductors is from 0.01 to 0.1 eV.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Voltage after which in forward bias current start to rise with increase in voltage is called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Breakdown voltage",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Reverse voltage",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Forward voltage",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Knee voltage",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Knee voltage is the forward voltage at which the flow of the current through the PN junction of the diode increases rapidly. The knee voltage is generally observed in Zener Diodes.The forward voltage at which current starts to rise with increase in voltage is called ‘knee voltage’.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A half wave rectifier is operating from 50 Hz mains, fundamental frequency of ripple will be",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 Hz",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "25 Hz",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "200Hz",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "50Hz",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Frequency is unchanged i.e it remains 50 Hz.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The direction of current through the load resistance of a full-wave rectification circuit:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "remains constant",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "inverts for positive cycle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "changes for every cycle",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "inverts for negative cycle",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Rectification changes alternate current to direct current where current remains positive throughout the cycle.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "An alternating voltage V (in volts) is represented by the equation:V = 300 sin(100πt) What is the value of “f” for this voltage?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 Hz",
+          "isCorrect": false,
+          "explanation": "Voltage = Maximum Voltage x sin (2πft) Use this equation, to decipher the value for f"
+        },
+        {
+          "letter": "B",
+          "text": "50 Hz",
+          "isCorrect": true,
+          "explanation": "Voltage = Maximum Voltage x sin (2πft) Therefore, 2f = 100 and frequency = 50 Hz In this equation, the voltage varies sinusoidally with time. The term sin(2πft) represents a sinusoidal waveform that completes one full cycle for every 1/f seconds, where f is the frequency of the AC signal in hertz (Hz). The 2π term is used to convert the frequency to angular frequency, which is measured in radians per second."
+        },
+        {
+          "letter": "C",
+          "text": "25 H",
+          "isCorrect": false,
+          "explanation": "Voltage = Maximum Voltage x sin (2πft) Use this equation, to decipher the value for f"
+        },
+        {
+          "letter": "D",
+          "text": "200 Hz",
+          "isCorrect": false,
+          "explanation": "Voltage = Maximum Voltage x sin (2πft)Use this equation, to decipher the value for f"
+        }
+      ],
+      "explanation": "Voltage = Maximum Voltage x sin (2πft) Therefore, 2f = 100 and frequency = 50 Hz",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following are component of half wave rectifier?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transformer",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Load resistance",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Power supply",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The half-wave rectifier is made up of an AC source, transformer (step-down), diode, and resistor (load). The diode is placed between the transformer and the resistor (load). The AC source supplies Alternating Current to the circuit.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In which rectifier is the ripple factor less?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Full wave",
+          "isCorrect": true,
+          "explanation": "In a bridge rectifier, the ripple factor is generally less compared to other rectifier configurations. The bridge rectifier is a type of full-wave rectifier that uses four diodes arranged in a bridge configuration to convert alternating current (AC) into direct current (DC). It offers several advantages over other rectifier circuits, including higher efficiency and lower ripple voltage. The ripple factor is a measure of the amount of AC \"ripple\" or fluctuation present in the output DC voltage. A lower ripple factor indicates a smoother and more stable output voltage, which is desirable in most applications. The bridge rectifier's ripple factor is lower compared to half-wave rectifiers and center-tapped full-wave rectifiers, making it a popular choice for many DC power supply applications."
+        },
+        {
+          "letter": "B",
+          "text": "Half wave",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Both A and B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "None of them",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Lower the value of the ripple factor higher will be the efficiency of the rectifier. As we know that half-wave rectifier is less efficient as compared to a full-wave rectifier, hence, its ripple factor is greater than that of a full-wave rectifier and its value is 1.21.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Step up transformer have _ turns in secondary coil.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "More",
+          "isCorrect": true,
+          "explanation": "Step-up transformers have more turns in the secondary coil than in the primary coil. A transformer is a device that transfers electrical energy from one circuit to another through electromagnetic induction. It consists of two coils, known as the primary coil and the secondary coil, which are usually wound around a common core. In a step-up transformer, the secondary coil has more turns than the primary coil. When an alternating current (AC) flows through the primary coil, it generates a changing magnetic field in the core. This changing magnetic field induces an electromotive force (EMF) or voltage in the secondary coil. The ratio of the number of turns in the secondary coil (N₂) to the number of turns in the primary coil (N₁) determines the voltage transformation ratio. For a step-up transformer, N₂ > N₁, which means the secondary voltage is higher than the primary voltage. Step-up transformers are commonly used in power transmission and distribution systems to increase the voltage level for long-distance transmission, reducing energy losses, and then stepped down at the destination for practical use."
+        },
+        {
+          "letter": "B",
+          "text": "Less",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Equal",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A Step-Up Transformer is a power distribution transformer in which the secondary currents are higher than its primary voltage. A Step-Up Transformer, therefore \"steps up\" the voltage supplied. For instance, step-up transformer windings are required to use a 220V device in a country that has a 110V electricity supply. This requires 'more turns' in the secondary coil.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A full wave rectifier is operating from 50 Hz mains. Fundamental frequency of ripple will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 Hz",
+          "isCorrect": true,
+          "explanation": "In a full-wave rectifier operating from 50 Hz mains, the fundamental frequency of the ripple will be twice the frequency of the mains, i.e., 100 Hz. A full-wave rectifier is a type of rectifier circuit that converts alternating current (AC) to direct current (DC). It does so by utilizing both halves of the AC input waveform, resulting in a smoother output compared to a half-wave rectifier. In a full-wave rectifier, there are two diodes arranged in a bridge configuration. During the positive half-cycle of the AC input voltage, one diode conducts, and during the negative half-cycle, the other diode conducts. As a result, the output waveform has a frequency that is twice that of the mains frequency. In a 50 Hz mains system, the input AC waveform oscillates at 50 cycles per second (50 Hz). After the full-wave rectification process, the output waveform will have a frequency of 100 cycles per second (100 Hz). This is the fundamental frequency of the ripple in the output DC voltage. Other higher harmonic frequencies may also be present in the output due to the rectification process, but the fundamental frequency of the ripple is twice the mains frequency."
+        },
+        {
+          "letter": "B",
+          "text": "25 Hz",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "50 Hz",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "200 Hz",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "In a full-wave rectifier, during each half cycle, the current flows through two diodes instead of just one. The amplitude of the output voltage is two voltage drops less than the input Vmax amplitude and the ripple frequency is now twice the supply frequency. The fundamental frequency of the ripple voltage is double that of the supply frequency.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The bridge rectifier is preferred to an ordinary two diode full-wave rectifier because?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "It needs a much smaller transformer for the same output.",
+          "isCorrect": false,
+          "explanation": "A bridge rectifier is preferred over an ordinary two diodes full-wave rectifier because:The PIV is less per diode.There is no need for the center tap.The transformer required is smaller with the same output."
+        },
+        {
+          "letter": "B",
+          "text": "No center tap required.",
+          "isCorrect": false,
+          "explanation": "A bridge rectifier is preferred over an ordinary two diodes full-wave rectifier because:The PIV is less per diode.There is no need for the center tap.The transformer required is smaller with the same output."
+        },
+        {
+          "letter": "C",
+          "text": "Less PIV rating per diode.",
+          "isCorrect": false,
+          "explanation": "A bridge rectifier is preferred over an ordinary two diodes full-wave rectifier because:The PIV is less per diode.There is no need for the center tap.The transformer required is smaller with the same output."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above options are correct.",
+          "isCorrect": true,
+          "explanation": "A bridge rectifier is preferred over an ordinary two diodes full-wave rectifier because: The PIV is less per diode. There is no need for the center tap. The transformer required is smaller with the same output."
+        }
+      ],
+      "explanation": "A bridge rectifier is preferred over an ordinary two diode full-wave rectifier because: The PIV is less per diode. There is no need for the centre tap. The transformer required is smaller with the same output.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If a half-wave rectifier is used to convert 50 Hz AC into DC, then the number of pulses present in the rectifier voltage is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "25",
+          "isCorrect": false,
+          "explanation": "25 is not correct because it does not correspond to the frequency of the AC input or the number of pulses in the rectifier output."
+        },
+        {
+          "letter": "B",
+          "text": "50",
+          "isCorrect": true,
+          "explanation": "Half-wave rectifier conducts once during a cycle and a full-wave rectifier conducts twice during a cycle. Therefore, if the input frequency is 50 Hz, then the output frequency for half-wave and full-wave rectifiers are 50 and 100 Hz respectively."
+        },
+        {
+          "letter": "C",
+          "text": "100",
+          "isCorrect": false,
+          "explanation": "100 is not correct because it corresponds to the number of pulses in a full-wave rectifier, where the output voltage has two pulses per cycle of the AC input."
+        },
+        {
+          "letter": "D",
+          "text": "75",
+          "isCorrect": false,
+          "explanation": "75 is not correct because it does not correspond to the frequency of the AC input or the number of pulses in the rectifier output."
+        }
+      ],
+      "explanation": "Option A) 25 is not correct because it does not correspond to the frequency of the AC input or the number of pulses in the rectifier output. Option B) Half-wave rectifier conducts once during a cycle and a full-wave rectifier conducts twice during a cycle. Therefore, if the input frequency is 50 Hz, then the output frequency for half-wave and full-wave rectifiers are 50 and 100 Hz respectively. Option C) 100 is not correct because it corresponds to the number of pulses in a full-wave rectifier, where the output voltage has two pulses per cycle of the AC input. Option D) 75 is not correct because it does not correspond to the frequency of the AC input or the number of pulses in the rectifier output.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The ripple factor of a half-wave rectifier is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.21",
+          "isCorrect": true,
+          "explanation": "As it is a fact, it should be memorized."
+        },
+        {
+          "letter": "B",
+          "text": "0.8",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "0.6",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "0.4",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        }
+      ],
+      "explanation": "Fact. As it is a fact, it should be memorized.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Consider two capacitors with capacitance 2µF and 4µF. With which type of connection will the 4µF capacitor have a greater amount of stored energy than the 2µF capacitor?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Series",
+          "isCorrect": false,
+          "explanation": "Either series or parallel are not correct because in a series connection, the 4uF capacitor will have a smaller amount of stored energy than the 2uF capacitor because it has a smaller capacitance."
+        },
+        {
+          "letter": "B",
+          "text": "Parallel",
+          "isCorrect": true,
+          "explanation": "This is because the capacitance in parallel circuits is greater."
+        },
+        {
+          "letter": "C",
+          "text": "Either series or parallel",
+          "isCorrect": false,
+          "explanation": "Either series or parallel are not correct because in a series connection, the 4uF capacitor will have a smaller amount of stored energy than the 2uF capacitor because it has a smaller capacitance."
+        },
+        {
+          "letter": "D",
+          "text": "Neither series nor parallel",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        }
+      ],
+      "explanation": "Option A) Series and Option C) Either series or parallel are not correct because in a series connection, the 4uF capacitor will have a smaller amount of stored energy than the 2uF capacitor because it has a smaller capacitance.Option B) This is because the capacitance in parallel circuits is greater.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The frequency of the applied AC is 2 kHz. Its time period will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.5 x 10-3 sec",
+          "isCorrect": true,
+          "explanation": "Time period = 1/frequency = 1/2000 = 0.5 X 10-3 secondsHence, option A is the correct option."
+        },
+        {
+          "letter": "B",
+          "text": "0.5 second",
+          "isCorrect": false,
+          "explanation": "As per the calculation, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "5 sec",
+          "isCorrect": false,
+          "explanation": "As per the calculation, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "2 sec",
+          "isCorrect": false,
+          "explanation": "As per the calculation, this option is incorrect."
+        }
+      ],
+      "explanation": "Formula: Frequency = 1/t t = 1/2000 = 0.5 x 10-3 sec",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The rectifier is a device that converts",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "AC to DC",
+          "isCorrect": true,
+          "explanation": "A diode is also known as a rectifier. It converts AC input to DC output. Hence, this option is correct."
+        },
+        {
+          "letter": "B",
+          "text": "DC to AC",
+          "isCorrect": false,
+          "explanation": "The rectifier converts AC to DC, which is the opposite of the given option. Hence, the option is incorrect"
+        },
+        {
+          "letter": "C",
+          "text": "AC to triangular current",
+          "isCorrect": false,
+          "explanation": "The rectifier does not convert AC to triangular current (current that has a triangular waveform). Hence, the option is incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "DC-to-triangular current",
+          "isCorrect": false,
+          "explanation": "The rectifier does not convert AC to triangular current (current that has triangular waveform). Hence, the option is incorrect."
+        }
+      ],
+      "explanation": "A rectifier is a device that converts an oscillating two-directional alternating current (AC) into a single-directional direct current (DC). Rectifiers can take a wide variety of physical forms, from vacuum tube diodes and crystal radio receivers to modern silicon-based designs.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The maximum efficiency of a half-wave rectifier is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "80.6%",
+          "isCorrect": false,
+          "explanation": "As per the explanation, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "40.6%",
+          "isCorrect": true,
+          "explanation": "The maximum efficiency of a half-wave rectifier is about 40.6%."
+        },
+        {
+          "letter": "C",
+          "text": "70%",
+          "isCorrect": false,
+          "explanation": "As per the explanation, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "50%",
+          "isCorrect": false,
+          "explanation": "As per the explanation, this option is incorrect."
+        }
+      ],
+      "explanation": "The maximum efficiency of a half-wave rectifier is about 40.6%, and the maximum efficiency of a full-wave rectifier is twice that.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If the instantaneous current in a circuit is given by I = A sin (wt) ampere, the RMS value of the current is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2A",
+          "isCorrect": false,
+          "explanation": "As per the solution, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "A/√2",
+          "isCorrect": true,
+          "explanation": "According to the given statement, I = A sin (wt) ampereWe know that Instantaneous = Imax sin (wt)By relating both equations, Iinstantaneous = I Imax = AWe also know that Irms = Imax / √2So, Irms = A/√2"
+        },
+        {
+          "letter": "C",
+          "text": "2√2A",
+          "isCorrect": false,
+          "explanation": "As per the solution, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "As per the solution, this option is incorrect."
+        }
+      ],
+      "explanation": "According to the given statement, I = A sin (wt) ampere We know that instantaneous = Imax sin (wt) By relating both equations, Instantaneous = I Imax = A We also know that Irms = Imax / √2 So, Irms = A/√2",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The use of a capacitor filter in a rectifier circuit gives satisfactory performance only when the load:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The current is high",
+          "isCorrect": false,
+          "explanation": "If the current is high, it means that the capacitor has to be discharged quickly to provide enough current. It lowers the efficiency of the circuit. Hence, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "The current is low",
+          "isCorrect": true,
+          "explanation": "If current is slow, it means that the capacitor has to be discharged slowly to provide current to the load resistance, and its efficiency increases. Hence, this option is the correct one."
+        },
+        {
+          "letter": "C",
+          "text": "Voltage is high",
+          "isCorrect": false,
+          "explanation": "If the voltage is high, the capacitor has to withstand a higher voltage, which may cause the capacitor to fail or break down. It leads to unsatisfactory performance; hence, this option is also incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "The voltage is low",
+          "isCorrect": false,
+          "explanation": "If the voltage is low, the capacitor is not able to discharge quickly enough to provide current to the load. As a result, its efficiency decreases; hence, this option is also incorrect."
+        }
+      ],
+      "explanation": "A capacitor filter in a rectifier circuit is used to smooth out the output voltage and reduce the ripple factor.Only when load resistance is large, discharge time is large, and the current passing through it is low",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Identify the factor on which mutual inductance does not depend:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Relative orientation",
+          "isCorrect": false,
+          "explanation": "Relative orientation means the angle between both coils. Mutual inductance depends on relative orientation. Hence, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Relative separation of two coils",
+          "isCorrect": false,
+          "explanation": "Mutual inductance depends on the relative separation between two coils, because as relative separation changes, magnetic flux changes, and so does mutual inductance; hence, this option is also incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Reciprocity",
+          "isCorrect": true,
+          "explanation": "Reciprocity means that the mutual inductance between two coils is the same regardless of whether one is considered the primary or secondary coil. It is a property of mutual inductance, not a factor on which it depends. Hence, this option is correct."
+        },
+        {
+          "letter": "D",
+          "text": "Permeability of the core material",
+          "isCorrect": false,
+          "explanation": "The permeability of the core material determines how easily it is magnetized. Mutual inductance depends on the permeability of the core material; hence, this option is incorrect."
+        }
+      ],
+      "explanation": "The mutual inductance of two coils is the property of their combination. It does not matter which one of them functions as the primary or secondary coil. Hence, mutual inductance does not depend on reciprocity.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the instantaneous power dissipated through a resistor of resistance 10 ohm if it is connected to an AC source of frequency 15 Hz at 1/180 sec if peak value is 20 V?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 W",
+          "isCorrect": true,
+          "explanation": "Using, Vo= V sin(2πft) = 20 x sin (2π x 15 x 1/180) =10 V Using, P = v²/R = 102/ 10 = 10 W."
+        },
+        {
+          "letter": "B",
+          "text": "100 W",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "40 W",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Cannot be determined",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "UsingVo = V sin(2𝜋ft) = 20 x sin (2𝜋 x 15 x 1/180) = 10 VUsingP = v2/ R = 102 / 10 = 10 W",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In a practical transformer mutual induction between primary and secondary coils takes place. In such transformer what can be deduced about the power.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Power output = Power input",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Power output > Power input",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Power output ≥ Power input",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Power output < Power input",
+          "isCorrect": true,
+          "explanation": "The output power in a transformer is always less than the input power because of the different losses in a transformer. The losses may be Iron loss or core loss, hysteresis loss, eddy current loss, copper loss etc."
+        }
+      ],
+      "explanation": "The output power in a transformer is always less than the input power because of the different losses in a transformer. The losses may be Iron loss or core loss, hysteresis loss, eddy current loss, copper loss etc.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In case of half wave rectification the resistance of diode during negative half of A.C is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Very high",
+          "isCorrect": true,
+          "explanation": "A half-wave rectifier converts an AC signal to DC by passing either the negative or positive half-cycle of the waveform and blocking the other. Half-wave rectifiers can be easily constructed using only one diode, but are less efficient than full-wave rectifiers. During negative half of half wave rectifier, the diode is reverse biased i.e the current of few ohms and hence very high resistance."
+        },
+        {
+          "letter": "B",
+          "text": "Very low",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "A few ohms",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Negative",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A half-wave rectifier converts an AC signal to DC by passing either the negative or positive half-cycle of the waveform and blocking the other. Half-wave rectifiers can be easily constructed using only one diode, but are less efficient than full-wave rectifiers. During negative half of half wave rectifier, the diode is reverse biased i.e the current of few ohms and hence very high resistance.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Current that fluctuates periodically with time is ------?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "DC current",
+          "isCorrect": false,
+          "explanation": "DC current does not change its direction with time, which is inconsistent with the given statement. Hence, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "BC current",
+          "isCorrect": false,
+          "explanation": "There is no such current as BC current. Hence, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "AC current",
+          "isCorrect": true,
+          "explanation": "AC current is that current that flows in two directions, and changes its direction over time. Hence, we may say that it fluctuates periodically, with a definite pattern. It perfectly compliments the given statement, and is the correct option."
+        },
+        {
+          "letter": "D",
+          "text": "Magnetic current",
+          "isCorrect": false,
+          "explanation": "No current is identified as magnetic current. Hence, this option is also incorrect."
+        }
+      ],
+      "explanation": "Alternating current is an electric current that periodically reverses direction and changes its magnitude continuously with time in contrast to direct current which flows only in one direction. Hence, option C is correct.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A circuit that adds positive or negative D.C. voltage to an input sine wave is called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Clamper",
+          "isCorrect": true,
+          "explanation": "A clamper is a circuit that adds DC voltage to an input waveform without affecting its shape. The purpose of a clamper is to shift an entire waveform by a fixed amount. It compliments the given statement, hence, is the correct option."
+        },
+        {
+          "letter": "B",
+          "text": "Clipper",
+          "isCorrect": false,
+          "explanation": "A clipper limits the amplitude of a signal of waveform. It is not related to the given statement. Hence, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Diode clamp",
+          "isCorrect": false,
+          "explanation": "A diode clamp is a device used to establish a fixed reference voltage. It is not related to the given statement, hence, the option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Limiter",
+          "isCorrect": false,
+          "explanation": "A limiter circuit is used to restrict the amplitude of a waveform to stop it from exceeding a specific limit. It does not relate to the given statement. Hence, this option is incorrect."
+        }
+      ],
+      "explanation": "A clamper is an electronic circuit that changes the DC level of a signal to the desired level without changing the shape of the applied signal. In other words, the clamper circuit moves the whole signal up or down to set either the positive peak or negative peak of the signal at the desired level. So, only option A is correct.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The output voltage of a rectifier is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Smooth",
+          "isCorrect": false,
+          "explanation": "The output voltage of a rectifier cannot be smooth because of ripple factor; some of the AC voltage still goes into output. Hence, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Pulsating",
+          "isCorrect": true,
+          "explanation": "The output voltage of a rectifier is, indeed, pulsating. The rectifier does not completely eliminate the alternating nature of input. Some of the AC voltage still passes through it and results in pulsating DC voltage. Hence, this option is the correct option."
+        },
+        {
+          "letter": "C",
+          "text": "Perfectly direct",
+          "isCorrect": false,
+          "explanation": "The output voltage of a rectifier cannot be perfectly direct or DC voltage because some of the AC voltage still passes through the rectifier. Hence, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Alternating",
+          "isCorrect": false,
+          "explanation": "The main function of a rectifier is to convert AC voltage to DC voltage. Hence, the output of a rectifier cannot be AC. This option is incorrect."
+        }
+      ],
+      "explanation": "A rectifier is used to convert alternating current to pulsating direct current not smooth direct current. Perfectly direct current will have fixed magnitude and fixed direction of current. This is not true for the output of a rectifier. Hence, option B is correct.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Mutual inductance has a practical role in performance of:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "AC generator",
+          "isCorrect": false,
+          "explanation": "AC generator works on the principle of dynamically induced emf, however, mutual induction is due to statically induced emf. Hence, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Radio choke",
+          "isCorrect": false,
+          "explanation": "Radio choke works on the principle of self induction. It does not involve mutual induction. Hence, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "DC generator",
+          "isCorrect": false,
+          "explanation": "The concept of self-inductance is applied in a DC generator. It has no working that operates on the principle of mutual inductance. Hence, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Transformer",
+          "isCorrect": true,
+          "explanation": "In a transformer, mutual induction occurs when voltage is induced in the secondary coil with the help of change in flux in the primary coil. Hence, we can say that mutual induction has a practical role in the working of a transformer, and this option is the correct option."
+        }
+      ],
+      "explanation": "In a transformer, mutual induction occurs when voltage is induced in the secondary coil with the help of change in flux in the primary coil. Hence, we can say that mutual induction has a practical role in the working of a transformer, and D option is the correct answer.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If an AC voltage of rms value of 10 volts is applied as input of a half-wave rectifier, then the voltage value of the DC output will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 V",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "10.3 V",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "10.7 V",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "9.3 V",
+          "isCorrect": true,
+          "explanation": "This option is correct one."
+        }
+      ],
+      "explanation": "Since we have the voltage at AC input, which is 10 V, we just need to subtract this value by the diode drop, which is 0.7 V;10 – 0.7 = 9.3V",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Half wave voltage multipliers can provide what degree of voltage multiplication?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Any doubler",
+          "isCorrect": false,
+          "explanation": "Yes, a half wave voltage multiplier can double the input voltage, but it is not the only number with which it can be multiplied. Hence, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Any tripler",
+          "isCorrect": false,
+          "explanation": "Yes, a half wave voltage multiplier can triple the input voltage, but it is not only specific for tripling the voltage. Hence, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Any multiplication",
+          "isCorrect": true,
+          "explanation": "A half wave voltage multiplier can produce an output voltage that is ideally an integer multiple of input peak voltage. It can multiply the output voltage with any integer. Hence, this option will be marked as the correct option."
+        },
+        {
+          "letter": "D",
+          "text": "None of them",
+          "isCorrect": false,
+          "explanation": "As option C is correct, this option is incorrect."
+        }
+      ],
+      "explanation": "A half wave voltage multiplier can produce an output voltage that is ideally an integer multiple of input peak voltage. It can multiply the output voltage with any integer. Hence, C will be marked as the correct option.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Transformer is used in rectification to _ the supply voltage.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Step up",
+          "isCorrect": false,
+          "explanation": "In a transformer, when the number of turns in the secondary coil (output coil) is greater than the number of turns in the primary coil (input coil), it is called a step-up transformer. Step-up transformers are used to increase the voltage of the input supply. The output voltage in a step-up transformer is higher than the input voltage, making it useful for applications where higher voltages are required."
+        },
+        {
+          "letter": "B",
+          "text": "Step down",
+          "isCorrect": true,
+          "explanation": "In a transformer, when the number of turns in the secondary coil (output coil) is less than the number of turns in the primary coil (input coil), it is called a step-down transformer. Step-down transformers are used to decrease the voltage of the input supply. The output voltage in a step-down transformer is lower than the input voltage, making it useful for applications where lower voltages are required."
+        },
+        {
+          "letter": "C",
+          "text": "Equalize",
+          "isCorrect": false,
+          "explanation": "There is no concept of equalizing the supply voltage using a transformer. The primary purpose of a transformer is to change the voltage level from one value to another, either higher or lower."
+        },
+        {
+          "letter": "D",
+          "text": "None of these options is correct",
+          "isCorrect": false,
+          "explanation": "As explained above, option \"c\" is not correct. Option \"d\" means that none of the provided options is the correct answer, which is incorrect because the correct answer is option \"b\" (Step down). Step-down transformers are used in rectification to lower the supply voltage to a desired level for various applications."
+        }
+      ],
+      "explanation": "The purpose of the transformer is to step down the AC voltage from the mains supply and feed it to the rectifier.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In a bridge type full-wave rectifier, if Vm is the peak voltage across the secondary coil of the transformer, the maximum voltage coming across each reverse biased diode is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vm",
+          "isCorrect": false,
+          "explanation": "this is not a correct option."
+        },
+        {
+          "letter": "B",
+          "text": "Vm/√2",
+          "isCorrect": false,
+          "explanation": "this is not a correct option."
+        },
+        {
+          "letter": "C",
+          "text": "2Vm",
+          "isCorrect": true,
+          "explanation": "A full-wave rectifier is defined as a rectifier that converts the complete cycle of alternating current into pulsating direct current (DC). If Vm is the peak voltage across the secondary transformer, the maximum voltage coming across the reverse-biased diode is 2Vm."
+        },
+        {
+          "letter": "D",
+          "text": "Vm3",
+          "isCorrect": false,
+          "explanation": "this is not a correct option."
+        }
+      ],
+      "explanation": "A full-wave rectifier is defined as a rectifier that converts the complete cycle of alternating current into pulsating direct current (DC). If Vm is the peak voltage across the secondary transformer, the maximum voltage coming across the reverse-biased diode is 2Vm.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Alternating Current Generators use:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Coiled rings",
+          "isCorrect": false,
+          "explanation": "This option does not correspond to a commonly used component in AC generators. Coiled rings are not a standard feature of AC generators."
+        },
+        {
+          "letter": "B",
+          "text": "Split rings",
+          "isCorrect": false,
+          "explanation": "Split rings are used in a specific type of generator called a \"split-ring commutator\" or \"split-ring slip ring.\" These split rings are a critical component of a direct current (DC) generator, not an AC generator. In DC generators, split rings help to reverse the current direction in the coil, which allows the generator to produce direct current. For AC generators, split rings are not used."
+        },
+        {
+          "letter": "C",
+          "text": "Slip rings",
+          "isCorrect": true,
+          "explanation": "The correct option for AC generators is slip rings. AC generators use slip rings to transfer the generated electrical energy from the rotating coil to the external circuit. Slip rings are metal rings that rotate along with the coil inside the generator. They make continuous contact with brushes, which are connected to the external circuit. This setup allows the AC current to flow from the coil to the external circuit without changing the direction of the current, as the coil rotates."
+        },
+        {
+          "letter": "D",
+          "text": "Solenoid rings",
+          "isCorrect": false,
+          "explanation": "d) Solenoid ringsSolenoid rings are not a standard component used in AC generators. Solenoid rings typically refer to toroidal coils used in various electrical and magnetic applications, but they are not specific to AC generators."
+        }
+      ],
+      "explanation": "Alternating Current Generators consist of an Armature Coil. It has slip rings, which maintains contact between the Armature coil and carbon brush. Slip rings are made from copper.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A diode works in _ bias for rectification.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Forward",
+          "isCorrect": true,
+          "explanation": "A diode works in forward bias for rectification. Rectification is the process of converting alternating current (AC) to direct current (DC). A diode is a semiconductor device that allows current to flow in one direction only. When a diode is forward biased, the current flows easily through the diode. When a diode is reverse biased, the current does not flow through the diode. In a rectifier circuit, the diode is used to allow current to flow in one direction only. This is done by applying a forward bias to the diode during the positive half-cycle of the AC input signal. The diode will then conduct current, and the output of the rectifier circuit will be a DC signal."
+        },
+        {
+          "letter": "B",
+          "text": "Reverse",
+          "isCorrect": false,
+          "explanation": "Reverse bias. In reverse bias, the current does not flow through the diode. This is not the correct bias for rectification."
+        },
+        {
+          "letter": "C",
+          "text": "Mid",
+          "isCorrect": false,
+          "explanation": "Mid bias. Mid bias is a type of bias that is neither forward bias nor reverse bias. This is not a valid bias for rectification."
+        },
+        {
+          "letter": "D",
+          "text": "Positive",
+          "isCorrect": false,
+          "explanation": "Positive bias. Positive bias is a type of bias that is similar to forward bias. However, positive bias is not the correct bias for rectification."
+        }
+      ],
+      "explanation": "Correct option is A. A diode works in forward bias for rectification. Rectification is the process of converting alternating current (AC) to direct current (DC). A diode is a semiconductor device that allows current to flow in one direction only. When a diode is forward biased, the current flows easily through the diode. When a diode is reverse biased, the current does not flow through the diode. In a rectifier circuit, the diode is used to allow current to flow in one direction only. This is done by applying a forward bias to the diode during the positive half-cycle of the AC input signal. The diode will then conduct current, and the output of the rectifier circuit will be a DC signal.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In a step-down transformer, the current in the primary coil is _ than that in the secondary coil.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "More",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Equal",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Less",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "In a step-down transformer, the voltage in the primary coil is higher than in the secondary coil; the final voltage is reduced. Since current and voltage are inversely related, the current in the primary coil will be less as compared to the current in the secondary coil.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The AC generator is similar to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transformer",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While both an AC generator and a transformer are electrical devices that use magnetic fields to transfer energy, they are not similar in function. An AC generator converts mechanical energy into electrical energy, while a transformer changes the voltage and current of an alternating current (AC) electrical signal."
+        },
+        {
+          "letter": "B",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The AC generator is similar to another electrical device."
+        },
+        {
+          "letter": "C",
+          "text": "Inductor",
+          "isCorrect": true,
+          "explanation": "This option is correct. An AC generator is similar to an inductor in that both use magnetic fields to store and transfer energy. However, an AC generator converts mechanical energy into electrical energy, while an inductor stores energy in a magnetic field and releases it when the current flowing through it changes."
+        },
+        {
+          "letter": "D",
+          "text": "Capacitor",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A capacitor is an electrical device that stores energy in an electric field. It is not similar in function to an AC generator, which converts mechanical energy into electrical energy."
+        }
+      ],
+      "explanation": "This option is correct. An AC generator is similar to an inductor in that both use magnetic fields to store and transfer energy. However, an AC generator converts mechanical energy into electrical energy, while an inductor stores energy in a magnetic field and releases it when the current flowing through it changes.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "For an ideal step-up transformer Ps ------- Pp.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Equal to",
+          "isCorrect": true,
+          "explanation": "For an ideal step-up transformer, Ps is equal to Pp as there are no power losses."
+        },
+        {
+          "letter": "B",
+          "text": "Greater than",
+          "isCorrect": false,
+          "explanation": "A transformers is called a \"voltage step-up transformers\" if the secondary voltage Vs is greater than the primary voltage Vp."
+        },
+        {
+          "letter": "C",
+          "text": "Less than",
+          "isCorrect": false,
+          "explanation": "A transformers is called a \"voltage step-down transformers\" if the secondary voltage Vs is less than the primary voltage Vp."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        }
+      ],
+      "explanation": "For an ideal step-up transformer, Ps is equal to Pp as there are no power losses.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "To measure an A.C. voltage by using an A.C potentiometer, it is desirable that the supply for the potentiometer is taken?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "From a source which is not the same as the unknown voltage.",
+          "isCorrect": true,
+          "explanation": "This option is desirable because when measuring an AC voltage using an AC potentiometer, it is important to have a separate source of AC voltage for the potentiometer. This is because the potentiometer needs to compare the unknown AC voltage with a known reference voltage, and using a separate source ensures accuracy in the measurement."
+        },
+        {
+          "letter": "B",
+          "text": "From a battery.",
+          "isCorrect": false,
+          "explanation": "This option is not desirable for measuring an AC voltage using an AC potentiometer. A battery provides a DC voltage, and an AC potentiometer requires an AC source for accurate measurements."
+        },
+        {
+          "letter": "C",
+          "text": "From the same source as the unknown voltage",
+          "isCorrect": false,
+          "explanation": "This option is also desirable because if the potentiometer and the unknown AC voltage come from the same AC source, it eliminates any potential differences in frequency or waveform shape between the two voltages, leading to more accurate measurements."
+        },
+        {
+          "letter": "D",
+          "text": "Any of the above",
+          "isCorrect": false,
+          "explanation": "The correct answer is option (a) - From a source which is not the same as the unknown voltage. It is desirable to use a separate AC source for the potentiometer when measuring an AC voltage to ensure accuracy in the measurement. Option (c) is also acceptable if both the potentiometer and the unknown voltage are connected to the same AC source. However, option (b) of using a battery is not suitable for measuring AC voltage with an AC potentiometer."
+        }
+      ],
+      "explanation": "The correct answer is option (a) - From a source which is not the same as the unknown voltage. It is desirable to use a separate AC source for the potentiometer when measuring an AC voltage to ensure accuracy in the measurement. Option (c) is also acceptable if both the potentiometer and the unknown voltage are connected to the same AC source. However, option (b) of using a battery is not suitable for measuring AC voltage with an AC potentiometer.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If the peak voltage is 9V, calculate the peak to peak voltage.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "9V",
+          "isCorrect": false,
+          "explanation": "a) 9V: This is the peak voltage itself. It represents the maximum positive voltage value in an alternating current (AC) or voltage waveform."
+        },
+        {
+          "letter": "B",
+          "text": "18V",
+          "isCorrect": true,
+          "explanation": "Vp-p=2VpSubstituting the values from the question, we get Vp-p = 2(9)Vp-p = 18V"
+        },
+        {
+          "letter": "C",
+          "text": "4.5V",
+          "isCorrect": false,
+          "explanation": "c) 4.5V: This is half of the peak voltage, which represents the amplitude of the AC or voltage waveform. The peak-to-peak voltage is not equal to the amplitude; it is the difference between the maximum positive and maximum negative voltage values."
+        },
+        {
+          "letter": "D",
+          "text": "0V",
+          "isCorrect": false,
+          "explanation": "d) 0V: This is not the correct answer either. If the peak voltage is 9V, the peak-to-peak voltage cannot be 0V, as it is defined as the difference between the maximum positive and maximum negative voltage values."
+        }
+      ],
+      "explanation": "Vp-p=2VpSubstituting the values from the question, we get Vp-p = 2(9)Vp-p = 18V",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Half-wave rectifier passes only?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lower half cycle",
+          "isCorrect": false,
+          "explanation": "a) Lower half cycle: In a half-wave rectifier, only the lower half of the input AC waveform is allowed to pass through while the upper half is blocked. This means that only the negative half of the AC voltage waveform will be present in the output."
+        },
+        {
+          "letter": "B",
+          "text": "Upper half cycle",
+          "isCorrect": true,
+          "explanation": "Half wave rectifier passes only one half of AC cycle. It can be Lower half cycle as well but generally we take upper half cycleFull wave rectifier passes both the half cycle of AC"
+        },
+        {
+          "letter": "C",
+          "text": "Both cycles",
+          "isCorrect": false,
+          "explanation": "c) Both cycles: This option is not correct for a half-wave rectifier. As mentioned earlier, a half-wave rectifier allows only one half of the input AC waveform to pass through while blocking the other half."
+        },
+        {
+          "letter": "D",
+          "text": "None of them",
+          "isCorrect": false,
+          "explanation": "d) None of them: The answer d) None of them is incorrect . A half-wave rectifier passes only the lower half cycle of the input AC waveform and blocks the upper half cycle."
+        }
+      ],
+      "explanation": "Half wave rectifier passes only one half of AC cycle. It can be Lower half cycle as well but generally we take upper half cycleFull wave rectifier passes both the half cycle of AC",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "220V, 50 Hz AC supply is connected across a resistor of 50 k ohms. The current at time t Seconds, assuming that it is zero at t = O, is?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.4 sin(314t) Ma",
+          "isCorrect": false,
+          "explanation": "this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "4.4 sin(l 57t) mA",
+          "isCorrect": false,
+          "explanation": "this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "6.2 sin(314t) mA",
+          "isCorrect": true,
+          "explanation": "VRMS​=220VVmax​=VRMS​ √2​=220√2​=Imax​=Vmax​​/R= 331 /50 × 10³=6.2mASo, i=Imax​sin(2πft)=6.2sin(314t) mA."
+        },
+        {
+          "letter": "D",
+          "text": "6.2 sin(l 57t) mA",
+          "isCorrect": false,
+          "explanation": "this option is incorrect."
+        }
+      ],
+      "explanation": "Following is the explanation to this question:",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The coupling coefficient of a perfectly coupled coil is?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "a) Zero: The coupling coefficient (k) of a perfectly coupled coil is not zero. In fact, a coupling coefficient of zero would mean that there is no mutual inductance between the two coils, and they are completely decoupled. In a perfectly coupled coil system, the value of the coupling coefficient is greater than zero."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": true,
+          "explanation": "b) 1: The coupling coefficient (k) of a perfectly coupled coil is 1. This means that all of the magnetic flux produced by one coil links with the other coil, and there is maximum mutual inductance between the coils. In a perfectly coupled coil system, the value of the coupling coefficient is exactly 1."
+        },
+        {
+          "letter": "C",
+          "text": "More than 1",
+          "isCorrect": false,
+          "explanation": "c) More than 1: The coupling coefficient is a dimensionless quantity and cannot be greater than 1. The value of the coupling coefficient always lies between 0 and 1, indicating the level of coupling between the coils. So, this option is not correct."
+        },
+        {
+          "letter": "D",
+          "text": "Infinite",
+          "isCorrect": false,
+          "explanation": "d) Infinite: The coupling coefficient of a perfectly coupled coil is not infinite. Infinite coupling would imply that all the magnetic flux from one coil is completely confined to the other coil, which is not practically achievable. The coupling coefficient is a finite value in real-world scenarios."
+        }
+      ],
+      "explanation": "If the coefficient of coupling has value one, then it is called as the perfect coupling that is when the entire flux of one coil links the other.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A full-wave rectifier uses a load resistor of 15000. Assume the diodes have Rf=lOO, Rr=oo. The voltage applied to the diode is 30V with a frequency of5OHz. Calculate the AC power input.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "358.98mW",
+          "isCorrect": false,
+          "explanation": "this option is not correct."
+        },
+        {
+          "letter": "B",
+          "text": "275.2mW",
+          "isCorrect": true,
+          "explanation": "The AC power input =IRMS2(RF+Rr).IRMS=Im/√2=Vm/(Rf+RL)√2=30/(1500+10)*1.414=13.5mASo, AC power INPUT=(13.5*10-3)2*(1500+10)=275.2mW"
+        },
+        {
+          "letter": "C",
+          "text": "45.16 mW",
+          "isCorrect": false,
+          "explanation": "this option is not correct."
+        },
+        {
+          "letter": "D",
+          "text": "456.78 Mw",
+          "isCorrect": false,
+          "explanation": "this option is not correct."
+        }
+      ],
+      "explanation": "The AC power input =IRMS2(RF+Rr).IRMS=Im/√2=Vm/(Rf+RL)√2=30/(1500+10)*1.414=13.5mASo, AC power INPUT=(13.5*10-3)2*(1500+10)=275.2mW",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The energy stored in a parallel plate capacitor is 24 J. What is the potential difference be if the capacitance of the capacitor is 3 µF?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 KV",
+          "isCorrect": true,
+          "explanation": "The expression relating the energy stored in a capacitor with respect to potential difference and capacitance is : E = ½ CV² 24 = ½ (3×10^-6) V² V² = 16 × 10⁶ V = 4 × 10³ V = 4 kV"
+        },
+        {
+          "letter": "B",
+          "text": "16 kV",
+          "isCorrect": false,
+          "explanation": "b) 16 kV (Kilovolts): This option suggests that the potential difference is 16 kilovolts. However, we have already calculated that the potential difference is approximately 4 kV in option (a)."
+        },
+        {
+          "letter": "C",
+          "text": "54 kV",
+          "isCorrect": false,
+          "explanation": "c) 54 kV (Kilovolts): This option suggests that the potential difference is 54 kilovolts. Again, this does not match the calculated value of 4 kV."
+        },
+        {
+          "letter": "D",
+          "text": "8 kV",
+          "isCorrect": false,
+          "explanation": "d) 8 kV (Kilovolts): This option suggests that the potential difference is 8 kilovolts. However, the calculated value is approximately 4 kV as shown in option (a)."
+        }
+      ],
+      "explanation": "The expression relating the energy stored in a capacitor with respect to potential difference and capacitance is : E = ½ CV² 24 = ½ (3×10^-6) V² V² = 16 × 10⁶ V = 4 × 10³ V = 4 kV",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "When Ns > Np then the transformer is _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Step-up",
+          "isCorrect": true,
+          "explanation": "This option is correct."
+        },
+        {
+          "letter": "B",
+          "text": "Step-down",
+          "isCorrect": false,
+          "explanation": "This is the incorrect option."
+        },
+        {
+          "letter": "C",
+          "text": "Primary",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Secondary",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        }
+      ],
+      "explanation": "When Ns > Np, the transformer is a step-up transformer. Here, Ns represents the number of turns in the secondary coil and Np represents the number of turns in the primary coil. In a step-up transformer, the number of turns in the secondary coil is greater than the number of turns in the primary coil. In a step-up transformer, the input voltage is applied across the primary coil, and the output voltage is obtained across the secondary coil. Since the number of turns in the secondary coil is greater than the number of turns in the primary coil, the voltage across the secondary coil is greater than the voltage across the primary coil. This results in a step-up in voltage from the primary to the secondary coil, hence the name \"step-up\" transformer.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Self-inductance varies the number of turns in the coil as _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "N",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "N3",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "N2",
+          "isCorrect": true,
+          "explanation": "Self-inductance is defined as the property of a coil by which a changing current through it induces an electromotive force (EMF) in the same coil. The value of the self-inductance of a coil depends on various factors like the number of turns in the coil, the cross-sectional area of the coil, the length of the coil, and the nature of the material of the core. Mathematically, the self-inductance L of a coil is given by: L = (μ₀ * N² * A) / l Where, μ₀ is the permeability of free space N is the number of turns in the coil A is the cross-sectional area of the coil l is the length of the coil From the above formula, it is clear that the self-inductance is directly proportional to the square of the number of turns in the coil (N²). Therefore, if the number of turns in the coil is doubled, the self-inductance becomes four times greater. Similarly, if the number of turns is halved, the self-inductance becomes one-fourth of its original value."
+        },
+        {
+          "letter": "D",
+          "text": "1/N",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        }
+      ],
+      "explanation": "Self-inductance is defined as the property of a coil by which a changing current through it induces an electromotive force (EMF) in the same coil. The value of the self-inductance of a coil depends on various factors like the number of turns in the coil, the cross-sectional area of the coil, the length of the coil, and the nature of the material of the core. Mathematically, the self-inductance L of a coil is given by: L = (μ₀ N² A) / l Where, μ₀ is the permeability of free space N is the number of turns in the coil A is the cross-sectional area of the coil l is the length of the coil From the above formula, it is clear that the self-inductance is directly proportional to the square of the number of turns in the coil (N²). Therefore, if the number of turns in the coil is doubled, the self-inductance becomes four times greater. Similarly, if the number of turns is halved, the self-inductance becomes one-fourth of its original value.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The frequency of applied A.C. is 2 kHz. Its time period will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.5 x 10-3 second",
+          "isCorrect": true,
+          "explanation": "Frequency is the reciprocal of a time period.The frequency given as 2 kHz is equal to: f = 2kHz = 2 × 10³ HzHence, T = 1/f T = 1/ 2 × 10³ T = 0.5 × 10-³ second"
+        },
+        {
+          "letter": "B",
+          "text": "0.5 second",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "5 second",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "2 second",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Frequency is the reciprocal of a time period.The frequency given as 2 kHz is equal to: f = 2kHz = 2 × 10³ HzHence, T = 1/f T = 1/ 2 × 10³ T = 0.5 × 10-³ second",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If the instantaneous current in a circuit is given by I = A sin (wt) ampere, the rms value of the current is?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2A",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "A/√2",
+          "isCorrect": true,
+          "explanation": "The rms value of the current is A/√2."
+        },
+        {
+          "letter": "C",
+          "text": "2√2A",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "zero",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        }
+      ],
+      "explanation": "The rms value of the current is A/√2. Rest options are wrong.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following rectifier uses a wheatstone bridge to rectify the signal:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Half wave",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Full wave",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Bridge",
+          "isCorrect": true,
+          "explanation": "Bridge rectifier uses wheatstone bridge to rectify signal: Four diodes are used Two diodes remains on (Forward Biased) in each hafe of the input cycle while other two remains off (Reverse Biased) i the same half of the cycle."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above options are correct",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Bridge rectifier uses wheatstone bridge to rectify signal: Four diodes are used Two diodes remains on (Forward Biased) in each hafe of the input cycle while other two remains off (Reverse Biased) i the same half of the cycle.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If the peak voltage is 9V, then calculate the peak to peak voltage.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "9 V",
+          "isCorrect": false,
+          "explanation": "its peak voltage"
+        },
+        {
+          "letter": "B",
+          "text": "18 V",
+          "isCorrect": true,
+          "explanation": "its the addition of two peaks"
+        },
+        {
+          "letter": "C",
+          "text": "4.5 V",
+          "isCorrect": false,
+          "explanation": "its half of the peak"
+        },
+        {
+          "letter": "D",
+          "text": "0 V",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Peak to peak voltage is the double of peak voltage",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If the peak to peak voltage is 10V, calculate the peak voltage.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2V",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "10V",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "4V",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "5V",
+          "isCorrect": true,
+          "explanation": "Value of AC from peak to next peak is 2Vo . So , here 5 V is the peak voltage."
+        }
+      ],
+      "explanation": "Value of AC from peak to next peak is 2Vo . So , here 5 V is the peak voltage.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the duration of one cycle known as:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Period",
+          "isCorrect": true,
+          "explanation": "The duration of one cycle is known as the period. The period is the time it takes for a wave to complete one full cycle, which is typically measured in seconds."
+        },
+        {
+          "letter": "B",
+          "text": "Cycle",
+          "isCorrect": false,
+          "explanation": "The duration of one cycle is not known as \"cycle.\" It is known as the period. The period is the time it takes for a wave to complete one full cycle. It is typically measured in seconds."
+        },
+        {
+          "letter": "C",
+          "text": "Instantaneous value",
+          "isCorrect": false,
+          "explanation": "The duration of one cycle is not known as the instantaneous value. The instantaneous value of a wave is the value of the wave at a particular point in time. It is not related to the duration of one cycle. The duration of one cycle is known as the period, which is the time it takes for a wave to complete one full cycle."
+        },
+        {
+          "letter": "D",
+          "text": "Sin wave",
+          "isCorrect": false,
+          "explanation": "The duration of one cycle is not known as a sine wave. A sine wave is a type of wave that has a specific mathematical form, and it is characterized by its amplitude, frequency, and phase. The duration of one cycle is known as the period, which is the time it takes for a wave to complete one full cycle. The period is related to the frequency of the wave, which is the number of cycles that occur in one second. A sine wave can have any period, depending on its frequency, but the term \"sine wave\" does not refer specifically to the duration of one cycle."
+        }
+      ],
+      "explanation": "The duration of one cycle is known as the period. The period is the time it takes for a wave to complete one full cycle, which is typically measured in seconds.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the duration of one cycle known as?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Period",
+          "isCorrect": true,
+          "explanation": "The time duration required to complete one complete cycle is known as the period."
+        },
+        {
+          "letter": "B",
+          "text": "Cycle",
+          "isCorrect": false,
+          "explanation": "One complete vibration is called a cycle."
+        },
+        {
+          "letter": "C",
+          "text": "Instantaneous value",
+          "isCorrect": false,
+          "explanation": "Instantaneous value is the value taken at a particular instant."
+        },
+        {
+          "letter": "D",
+          "text": "Sine wave",
+          "isCorrect": false,
+          "explanation": "A sine wave refers to a periodic oscillation with a consistent amplitude, represented by a sine function."
+        }
+      ],
+      "explanation": "The time duration required to complete one complete cycle is known as the period.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "To measure an AC voltage by using a potentiometer, it is desirable that the supply for the potentiometer is taken _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "From a source which is not the same as the unknown voltage",
+          "isCorrect": false,
+          "explanation": "In this option, the potentiometer is supplied with a voltage from a source that is different from the unknown voltage that needs to be measured. This approach is often used when the magnitude or frequency of the unknown voltage is not compatible with the potentiometer's standard power supply. It is desirable to take the supply for the potentiometer from the same source as the unknown voltage in order to measure the AC voltage"
+        },
+        {
+          "letter": "B",
+          "text": "From a battery",
+          "isCorrect": false,
+          "explanation": "In this option, the potentiometer is supplied with power from the same source as the unknown voltage that needs to be measured. This approach is commonly used when the potentiometer and the unknown voltage source have compatible specifications, such as voltage levels and frequency. It is desirable to take the supply for the potentiometer from the same source as the unknown voltage in order to measure the AC voltage"
+        },
+        {
+          "letter": "C",
+          "text": "From the same source as the unknown voltage",
+          "isCorrect": true,
+          "explanation": "It is desirable to take the supply for the potentiometer from the same source as the unknown voltage in order to measure the AC voltage. Hence Option C is correct."
+        },
+        {
+          "letter": "D",
+          "text": "Any of the above options are correct",
+          "isCorrect": false,
+          "explanation": "As explained above, it is an incorrect option.Option C is correct."
+        }
+      ],
+      "explanation": "It is desirable to take the supply for the potentiometer from the same source as the unknown voltage in order to measure the AC voltage. Hence Option C is correct.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The instantaneous current in a circuit is given by I = √2 sin(ωt + ∅) ampere what is the rms value of the current?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 A",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "√2 A",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "1 A",
+          "isCorrect": true,
+          "explanation": "This is the correct option, refer to the calculation below."
+        },
+        {
+          "letter": "D",
+          "text": "(1/√2)A",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        }
+      ],
+      "explanation": "1A",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "AC generator cannot generate:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "AC voltage",
+          "isCorrect": false,
+          "explanation": "AC generator can generate AC voltage by inducing alternating current through electromagnetic induction."
+        },
+        {
+          "letter": "B",
+          "text": "High AC voltage",
+          "isCorrect": false,
+          "explanation": "AC generator can produce high AC voltage by increasing the number of turns in the coil or the rotational speed."
+        },
+        {
+          "letter": "C",
+          "text": "DC voltage",
+          "isCorrect": true,
+          "explanation": "AC generator is a mechanical device that converts mechanical energy into AC electrical power. Hence, it cannot produce DC voltage although AC generator can be converted to DC generator."
+        },
+        {
+          "letter": "D",
+          "text": "Low AC voltage",
+          "isCorrect": false,
+          "explanation": "AC generator can generate low AC voltage by reducing the number of turns or rotational speed."
+        }
+      ],
+      "explanation": "AC generator is a mechanical device that converts mechanical energy into AC electrical power. Hence, it cannot produce DC voltage although AC generator can be converted to DC generator.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "AC generators are similar to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transformers",
+          "isCorrect": false,
+          "explanation": "Transformers: AC generators convert mechanical energy into electrical energy, while transformers change the voltage level of AC power. Different functions, not similar."
+        },
+        {
+          "letter": "B",
+          "text": "Inductors",
+          "isCorrect": false,
+          "explanation": "Inductors: AC generators produce AC voltage through electromagnetic induction; inductors store energy in a magnetic field. Different roles and operations."
+        },
+        {
+          "letter": "C",
+          "text": "Capacitors",
+          "isCorrect": false,
+          "explanation": "Capacitors: AC generators generate AC voltage; capacitors store electrical energy temporarily. Separate purposes and behaviors."
+        },
+        {
+          "letter": "D",
+          "text": "Motor",
+          "isCorrect": true,
+          "explanation": "Converting energy from one form to another is the key to understanding the differences between electric motors and generators. An electric motor converts electricity into mechanical energy, providing a power source for machinery. A generator does the opposite of this, converting mechanical energy into electricity. Hence, we can say AC generators are similar to motors."
+        }
+      ],
+      "explanation": "Converting energy from one form to another is the key to understanding the differences between electric motors and generators. An electric motor converts electricity into mechanical energy, providing a power source for machinery. A generator does the opposite of this, converting mechanical energy into electricity. Hence, we can say AC generators are similar to motors.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "AC generator consists of _ poles:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "Incorrect because AC generators have 2 poles."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "Incorrect because AC generators have 2 poles."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "An AC generator consists of two magnet poles i.e north and south pole. As indicated in red and blue colors below."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "Incorrect because AC generators have 2 poles."
+        }
+      ],
+      "explanation": "​​An Ac generator consists of two poles i.e is the north pole and south pole of a magnet so that we can have a uniform magnetic field.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Conversion of alternating current to direct current is called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2014,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Amplification",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Amplification is the process of increasing the amplitude (strength) of an electrical signal, such as voltage or current, without altering its waveform. This process is not related to the conversion of alternating current (AC) to direct current (DC)."
+        },
+        {
+          "letter": "B",
+          "text": "Rectification",
+          "isCorrect": true,
+          "explanation": "This option is correct. Rectification is the process of converting an alternating current (AC) to a direct current (DC) by allowing the current to flow in only one direction. This is achieved using devices called rectifiers, such as diodes."
+        },
+        {
+          "letter": "C",
+          "text": "Modulation",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Modulation is the process of varying one or more properties of a carrier signal, such as amplitude, frequency, or phase, to encode information. Modulation is used in communication systems to transmit information over long distances, but it is not related to the conversion of AC to DC."
+        },
+        {
+          "letter": "D",
+          "text": "Both B & C",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because only rectification (option B) is related to the conversion of AC to DC."
+        }
+      ],
+      "explanation": "A rectifier is an electrical device that converts alternating current (AC), which periodically reverses direction, to direct current (DC). Option B is correct as Rectification is the process of converting alternating current (AC) to direct current (DC). This is typically done using a device called a rectifier, which allows current to flow in only one direction.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The variation in current with time of an alternating current is shown by a sinusoidal wave in the given figure. The root mean square (rms) current for this alternating current is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Io",
+          "isCorrect": false,
+          "explanation": "This option represents the peak current, which is not the same as the rms current. The rms current is always smaller than the peak current in an AC circuit."
+        },
+        {
+          "letter": "B",
+          "text": "√2Io",
+          "isCorrect": false,
+          "explanation": "This option represents the square root of 2 times the peak current, which is not the correct representation of the rms current. The rms current is smaller than the peak current."
+        },
+        {
+          "letter": "C",
+          "text": "Io/√2",
+          "isCorrect": true,
+          "explanation": "In an alternating current (AC) circuit, the current varies sinusoidally with time and can be represented by a sine wave. The root mean square (rms) current is a measure of the effective or equivalent steady direct current (DC) value that would produce the same amount of heat in a given resistor. The rms current (Irms) can be calculated as the peak current (Ipeak) divided by the square root of 2: Irms = Ipeak / √2 This means that the rms current is equal to the peak current divided by the square root of 2. In summary, the correct option is C, I/√2, which represents the root mean square (rms) current for the given sinusoidal alternating current waveform."
+        },
+        {
+          "letter": "D",
+          "text": "2Io",
+          "isCorrect": false,
+          "explanation": "This option represents twice the peak current, which is not the correct representation of the rms current. The rms current is smaller than the peak current."
+        }
+      ],
+      "explanation": "The explanation for this question has been added!",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The frequency of the applied AC is 2 kHz. Its time period will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.5 x 10-3 sec",
+          "isCorrect": true,
+          "explanation": "Time period = 1/frequency = 1/2000 = 0.5 X 10-3 secondsHence, option A is the correct option."
+        },
+        {
+          "letter": "B",
+          "text": "0.5 second",
+          "isCorrect": false,
+          "explanation": "As per the calculation, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "5 sec",
+          "isCorrect": false,
+          "explanation": "As per the calculation, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "2 sec",
+          "isCorrect": false,
+          "explanation": "As per the calculation, this option is incorrect."
+        }
+      ],
+      "explanation": "Formula: Frequency = 1/t t = 1/2000 = 0.5 x 10-3 sec",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The rectifier is a device that converts",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "AC to DC",
+          "isCorrect": true,
+          "explanation": "A diode is also known as a rectifier. It converts AC input to DC output. Hence, this option is correct."
+        },
+        {
+          "letter": "B",
+          "text": "DC to AC",
+          "isCorrect": false,
+          "explanation": "The rectifier converts AC to DC, which is the opposite of the given option. Hence, the option is incorrect"
+        },
+        {
+          "letter": "C",
+          "text": "AC to triangular current",
+          "isCorrect": false,
+          "explanation": "The rectifier does not convert AC to triangular current (current that has a triangular waveform). Hence, the option is incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "DC-to-triangular current",
+          "isCorrect": false,
+          "explanation": "The rectifier does not convert AC to triangular current (current that has triangular waveform). Hence, the option is incorrect."
+        }
+      ],
+      "explanation": "A rectifier is a device that converts an oscillating two-directional alternating current (AC) into a single-directional direct current (DC). Rectifiers can take a wide variety of physical forms, from vacuum tube diodes and crystal radio receivers to modern silicon-based designs.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The maximum efficiency of a half-wave rectifier is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "80.6%",
+          "isCorrect": false,
+          "explanation": "As per the explanation, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "40.6%",
+          "isCorrect": true,
+          "explanation": "The maximum efficiency of a half-wave rectifier is about 40.6%."
+        },
+        {
+          "letter": "C",
+          "text": "70%",
+          "isCorrect": false,
+          "explanation": "As per the explanation, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "50%",
+          "isCorrect": false,
+          "explanation": "As per the explanation, this option is incorrect."
+        }
+      ],
+      "explanation": "The maximum efficiency of a half-wave rectifier is about 40.6%, and the maximum efficiency of a full-wave rectifier is twice that.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Identify the factor on which mutual inductance does not depend:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Relative orientation",
+          "isCorrect": false,
+          "explanation": "Relative orientation means the angle between both coils. Mutual inductance depends on relative orientation. Hence, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Relative separation of two coils",
+          "isCorrect": false,
+          "explanation": "Mutual inductance depends on the relative separation between two coils, because as relative separation changes, magnetic flux changes, and so does mutual inductance; hence, this option is also incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Reciprocity",
+          "isCorrect": true,
+          "explanation": "Reciprocity means that the mutual inductance between two coils is the same regardless of whether one is considered the primary or secondary coil. It is a property of mutual inductance, not a factor on which it depends. Hence, this option is correct."
+        },
+        {
+          "letter": "D",
+          "text": "Permeability of the core material",
+          "isCorrect": false,
+          "explanation": "The permeability of the core material determines how easily it is magnetized. Mutual inductance depends on the permeability of the core material; hence, this option is incorrect."
+        }
+      ],
+      "explanation": "The mutual inductance of two coils is the property of their combination. It does not matter which one of them functions as the primary or secondary coil. Hence, mutual inductance does not depend on reciprocity.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In a full-wave bridge rectification, the number of diodes used are:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Electricity - AKU",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The full-wave rectifier circuit consists of 4 diodes arranged in a tetrahedral connection. When we have the upper side of the AC supply as positive, the current flows through D1 to the load and returns through D2 at the temporary negative terminal of the AC supply. When the bottom side of the AC supply is positive, due to the constant change in polarity, the current, conventionally, flows through D3 to the load and returns to the supply by passing through D4. It reaches the supply at the now negative terminal of the AC supply which is the upper side of the supply.",
+      "explanationImage": null,
+      "hints": []
+    }
+  ]
+}

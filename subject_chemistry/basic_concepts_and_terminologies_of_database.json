@@ -1,0 +1,2020 @@
+{
+  "questions": [
+    {
+      "text": "A person who is responsible for database smooth operation and working?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Programmer",
+          "isCorrect": false,
+          "explanation": "Programmers write the code that interacts with the database, but they are not typically responsible for the overall health and performance of the database itself."
+        },
+        {
+          "letter": "B",
+          "text": "Software tester",
+          "isCorrect": false,
+          "explanation": "Software testers test the functionality of software applications, including those that interact with databases. However, they are not typically responsible for the administration of the database itself."
+        },
+        {
+          "letter": "C",
+          "text": "System Analyst",
+          "isCorrect": false,
+          "explanation": "System Analysts analyze the needs of an organization and design systems to meet those needs. They may work with databases, but they are not typically responsible for the day-to- day administration of the database"
+        },
+        {
+          "letter": "D",
+          "text": "Database Administrator",
+          "isCorrect": true,
+          "explanation": "A Database Administrator (DBA) is a IT professional who is responsible for the design, implementation, maintenance, and security of databases. They ensure that the database is running smoothly, efficiently, and securely."
+        }
+      ],
+      "explanation": "A Database Administrator (DBA) is a IT professional who is responsible for the design, implementation, maintenance, and security of databases. They ensure that the database is running smoothly, efficiently, and securely.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which database object is used to retrieve & present data in a formatted way?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Report",
+          "isCorrect": true,
+          "explanation": "Report is correct. A report is a database object that is specifically designed to format, calculate, summarize, and present data from a database. Reports are often used for printing or sharing data in a user-friendly way. They can include elements like titles, labels, formatting, and calculations to present data in a clear and concise manner."
+        },
+        {
+          "letter": "B",
+          "text": "Query",
+          "isCorrect": false,
+          "explanation": "Query is incorrect. While queries are essential for retrieving data from a database, they do not themselves format or present the data. Queries are used to specify which data to retrieve from one or more tables, based on certain criteria. The results of a query can then be used to populate a report or form."
+        },
+        {
+          "letter": "C",
+          "text": "Table",
+          "isCorrect": false,
+          "explanation": "Table is incorrect. Tables are the fundamental storage structure in a relational database. They store data in rows and columns, with each row representing a record and each column representing a field (attribute) of that record. Tables do not inherently format or present data; they simply store it."
+        },
+        {
+          "letter": "D",
+          "text": "Form",
+          "isCorrect": false,
+          "explanation": "Form is incorrect. Forms are used for data entry and editing in a database. They provide a user interface that allows users to interact with the data in a table. While forms can sometimes display data in a formatted way, their primary function is to facilitate data manipulation rather than presentation.In conclusion, reports are the database object specifically designed to retrieve data and present it in a formatted way. They can leverage the data retrieved by queries and displayed through forms to create user-friendly data presentations"
+        }
+      ],
+      "explanation": "Report is correct. A report is a database object that is specifically designed to format, calculate, summarize, and present data from a database. Reports are often used for printing or sharing data in a user-friendly way. They can include elements like titles, labels, formatting, and calculations to present data in a clear and concise manner.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A factor to consider when choosing a file organization is",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fast Data Retrieval",
+          "isCorrect": false,
+          "explanation": "A well-organized file system should allow you to quickly find the information you need. For instance, organizing files by project can help speed up retrieval when you need to work on a specific project"
+        },
+        {
+          "letter": "B",
+          "text": "Security",
+          "isCorrect": false,
+          "explanation": "File security is important to protect sensitive information. You can use access control lists to restrict who can view, modify, or delete files"
+        },
+        {
+          "letter": "C",
+          "text": "Efficient Storage",
+          "isCorrect": false,
+          "explanation": "Efficient storage is important to avoid wasting disk space. For instance, you can compress files to reduce their size"
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": true,
+          "explanation": "While each of the other options (Fast Data Retrieval, Security, and Efficient Storage) is an important factor to consider when choosing a file organization, they are not the only factors. All three of these factors should be considered together when making a decision"
+        }
+      ],
+      "explanation": "While each of the other options (Fast Data Retrieval, Security, and Efficient Storage) is an important factor to consider when choosing a file organization, they are not the only factors. All three of these factors should be considered together when making a decision",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "An index may be created on",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Database Design Process",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Secondary key",
+          "isCorrect": false,
+          "explanation": "A secondary key is a column, or set of columns, that uniquely identifies rows within a table, but is not the primary key. Indexes on secondary keys can also speed up retrieval of data based on those columns"
+        },
+        {
+          "letter": "B",
+          "text": "Foreign key",
+          "isCorrect": false,
+          "explanation": "A foreign key is a column, or set of columns, in one table that references the primary key of another table. Creating an index on a foreign key can improve the performance of joins between tables"
+        },
+        {
+          "letter": "C",
+          "text": "Primary key",
+          "isCorrect": false,
+          "explanation": "A primary key uniquely identifies a row in a table. Creating an index on the primary key allows for fast retrieval of specific rows"
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": true,
+          "explanation": "An index can be created on any of the following:• Primary key: A primary key uniquely identifies a row in a table. Creating an index on the primary key allows for fast retrieval of specific rows.• Secondary key: A secondary key is a column, or set of columns, that uniquely identifies rows within a table, but is not the primary key. Indexes on secondary keys can also speed up retrieval of data based on those columns.• Foreign key: A foreign key is a column, or set of columns, in one table that references the primary key of another table. Creating an index on a foreign key can improve the performance of joins between tables.In essence, creating an index on any column or set of columns that you frequently query by can improve the performance of your database queries"
+        }
+      ],
+      "explanation": "An index can be created on any of the following:• Primary key: A primary key uniquely identifies a row in a table. Creating an index on the primary key allows for fast retrieval of specific rows.• Secondary key: A secondary key is a column, or set of columns, that uniquely identifies rows within a table, but is not the primary key. Indexes on secondary keys can also speed up retrieval of data based on those columns.• Foreign key: A foreign key is a column, or set of columns, in one table that references the primary key of another table. Creating an index on a foreign key can improve the performance of joins between tables.In essence, creating an index on any column or set of columns that you frequently query by can improve the performance of your database queries",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A primary key that consists of more than one attribute is called",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Composite Primary Key",
+          "isCorrect": true,
+          "explanation": "A composite primary key is a primary key that consists of two or more attributes that uniquely identify a row in a table"
+        },
+        {
+          "letter": "B",
+          "text": "Foreign Key",
+          "isCorrect": false,
+          "explanation": "A foreign key is a column (or set of columns) in one table that references the primary key of another table. It creates a link between the two tables and helps to enforce data integrity"
+        },
+        {
+          "letter": "C",
+          "text": "Multi-value Key",
+          "isCorrect": false,
+          "explanation": "A multi-value key is an attribute that can have multiple values for a single record. This is not allowed for primary keys, as they must uniquely identify each row"
+        },
+        {
+          "letter": "D",
+          "text": "Compound Key",
+          "isCorrect": false,
+          "explanation": "Compound Key, is also sometimes used to refer to a composite primary key, but “composite primary key” is the more precise term"
+        }
+      ],
+      "explanation": "A composite primary key is a primary key that consists of two or more attributes that uniquely identify a row in a table",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which key does hold uniqueness property?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "All of these",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Foreign key",
+          "isCorrect": false,
+          "explanation": "A foreign key is a column or set of columns in one table that references the primary key of another table. It helps establish relationships between tables. Foreign keys also enforce referential integrity, which helps prevent data inconsistencies. By design, foreign keys reference existing data, so they are not unique within their own table"
+        },
+        {
+          "letter": "C",
+          "text": "Primary key",
+          "isCorrect": false,
+          "explanation": "A primary key is a special type of candidate key that is chosen to uniquely identify rows in a table. It follows the following properties:Uniqueness: No two rows in the table can have the same value for the primary key.Minimality: The primary key should not include any unnecessary columns"
+        },
+        {
+          "letter": "D",
+          "text": "Alternate key",
+          "isCorrect": false,
+          "explanation": "An alternate key is another candidate key that is not chosen as the primary key. It can also uniquely identify rows in the table"
+        }
+      ],
+      "explanation": "• Foreign Key: A foreign key is a column or set of columns in one table that references the primary key of another table. It helps establish relationships between tables. Foreign keys also enforce referential integrity, which helps prevent data inconsistencies. By design, foreign keys reference existing data, so they are not unique within their own table.• Primary Key: A primary key is a special type of candidate key that is chosen to uniquely identify rows in a table. It follows the following properties:o Uniqueness: No two rows in the table can have the same value for the primary key.o Minimality: The primary key should not include any unnecessary columns.• Alternate Key : An alternate key is another candidate key that is not chosen as the primary key. It can also uniquely identify rows in the table",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The person who is responsible for the design, implementation, operation, management and maintenance of database is called",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "End user",
+          "isCorrect": false,
+          "explanation": "An end user is someone who interacts with a computer system or application but is not involved in its creation or maintenance"
+        },
+        {
+          "letter": "B",
+          "text": "Data administrator",
+          "isCorrect": false,
+          "explanation": "A data administrator focuses on managing the data itself, such as ensuring data quality and security. They may not be involved in the technical aspects of database design and maintenance"
+        },
+        {
+          "letter": "C",
+          "text": "Application programmer",
+          "isCorrect": false,
+          "explanation": "An application programmer develops software applications. While they may interact with databases, they are not typically responsible for the overall database administration tasks"
+        },
+        {
+          "letter": "D",
+          "text": "Database administrator",
+          "isCorrect": true,
+          "explanation": "A database administrator is a IT professional who is responsible for all aspects of a database system, including design, implementation, operation, management, and maintenance. They ensure that the database is running smoothly, efficiently, and securely"
+        }
+      ],
+      "explanation": "A database administrator is a IT professional who is responsible for all aspects of a database system, including design, implementation, operation, management, and maintenance. They ensure that the database is running smoothly, efficiently, and securely",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is not a basic data distribution strategy",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Database Design Process",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Centralized",
+          "isCorrect": false,
+          "explanation": "In a centralized distribution strategy, all data is stored in a single location. This is a simple approach, but it can be a bottleneck for performance and scalability"
+        },
+        {
+          "letter": "B",
+          "text": "Partitioned",
+          "isCorrect": false,
+          "explanation": "In a partitioned distribution strategy, data is divided into smaller subsets based on a specific criteria, such as customer ID or product category. Each partition is then stored on a separate server or storage device. This approach can improve performance and scalability by allowing queries to be directed to the specific partition that contains the relevant data."
+        },
+        {
+          "letter": "C",
+          "text": "Hybrid",
+          "isCorrect": false,
+          "explanation": "A hybrid distribution strategy combines centralized and partitioned approaches. For instance, some critical data might be stored centrally for high availability, while less critical data might be partitioned for performance reasons"
+        },
+        {
+          "letter": "D",
+          "text": "Duplicated",
+          "isCorrect": true,
+          "explanation": "Duplication is not a basic data distribution strategy because it does not involve distributing data across multiple locations for performance or scalability benefits. While data may be duplicated for backup purposes, this is not considered a core data distribution strategy"
+        }
+      ],
+      "explanation": "Duplication is not a basic data distribution strategy because it does not involve distributing data across multiple locations for performance or scalability benefits. While data may be duplicated for backup purposes, this is not considered a core data distribution strategy",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is also known as the control key?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sort key",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Composite key",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Primary key",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Foreign key",
+          "isCorrect": true,
+          "explanation": "The text in the image appears to be incorrect. A control key is a special key on a computer keyboard that, when pressed in combination with another key, performs a specific action. For instance, the Ctrl+C key combination is used to copy text Foreign keys are a concept in relational databases. A foreign key is a column, or set of columns, in one table that references the primary key of another table. Foreign keys are used to enforce data integrity by ensuring that the data in one table is consistent with the data in another table"
+        }
+      ],
+      "explanation": "The text in the image appears to be incorrect. A control key is a special key on a computer keyboard that, when pressed in combination with another key, performs a specific action. For instance, the Ctrl+C key combination is used to copy text Foreign keys are a concept in relational databases. A foreign key is a column, or set of columns, in one table that references the primary key of another table. Foreign keys are used to enforce data integrity by ensuring that the data in one table is consistent with the data in another table",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following keys is used for strictly data retrieval purposes",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sort Key",
+          "isCorrect": false,
+          "explanation": "A sort key is an attribute or combination of attributes used to order the data in a table. While it can be used to retrieve data in a specific order, its primary function is sorting, not strictly retrieval"
+        },
+        {
+          "letter": "B",
+          "text": "Secondary Key",
+          "isCorrect": false,
+          "explanation": "A secondary key is an alternative unique identifier for a table that can also be used to retrieve data. However, unlike a primary key, it can have duplicate values as long as those duplicates are within different groups identified by the primary key. So, it's not strictly for data retrieval either."
+        },
+        {
+          "letter": "C",
+          "text": "Primary Key",
+          "isCorrect": true,
+          "explanation": "A primary key is a unique identifier for a row in a table. It is used to efficiently retrieve specific data records and enforce data integrity within a table by ensuring no duplicate rows exist. Since its purpose is to identify and retrieve data, it is strictly used for data retrieva"
+        },
+        {
+          "letter": "D",
+          "text": "Control Key",
+          "isCorrect": false,
+          "explanation": "There is no standard term \"control key\" in relational databases. Some database systems might use this term to refer to a key used for data integrity purposes, but it's not a widely used term"
+        }
+      ],
+      "explanation": "A primary key is a unique identifier for a row in a table. It is used to efficiently retrieve specific data records and enforce data integrity within a table by ensuring no duplicate rows exist. Since its purpose is to identify and retrieve data, it is strictly used for data retrieva",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The foreign key is found in",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parent table",
+          "isCorrect": false,
+          "explanation": "The foreign key is not found in the parent table. The parent table holds the primary key that the foreign key references"
+        },
+        {
+          "letter": "B",
+          "text": "Dependent table",
+          "isCorrect": true,
+          "explanation": "In a relational database, a foreign key is a column or set of columns in a table that references the primary key of another table. The table that contains the foreign key is called the referencing table or the dependent table. The table that contains the referenced primary key is called the referenced table or the parent table"
+        },
+        {
+          "letter": "C",
+          "text": "Pivot table",
+          "isCorrect": false,
+          "explanation": "A pivot table is a special table in a spreadsheet program that summarizes and reorganizes data from another table. It does not contain foreign keys"
+        },
+        {
+          "letter": "D",
+          "text": "Index table",
+          "isCorrect": false,
+          "explanation": "An index table is a separate table used to speed up queries on a particular table. It doesn't contain foreign keys either"
+        }
+      ],
+      "explanation": "In a relational database, a foreign key is a column or set of columns in a table that references the primary key of another table. The table that contains the foreign key is called the referencing table or the dependent table. The table that contains the referenced primary key is called the referenced table or the parent table",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which type of key a relation must have?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sort Key",
+          "isCorrect": false,
+          "explanation": "A sort key is a column or set of columns used to order the rows in a table. While a sort key can be helpful for efficient retrieval of data in a specific order, it's not mandatory for a table to have a sort key"
+        },
+        {
+          "letter": "B",
+          "text": "Foreign Key",
+          "isCorrect": false,
+          "explanation": "A foreign key is a column, or set of columns, in one table that references the primary key of another table. Foreign keys are used to link tables together and enforce referential integrity, but a table itself doesn't have to have a foreign key"
+        },
+        {
+          "letter": "C",
+          "text": "Composite Key",
+          "isCorrect": false,
+          "explanation": "A composite key is a primary key that consists of multiple columns. While a primary key can be composite, it can also be a single column. The key point is that a table must have a primary key, regardless of whether it's composite or simple"
+        },
+        {
+          "letter": "D",
+          "text": "Primary Key",
+          "isCorrect": true,
+          "explanation": "Every relation (table) in a relational database must have a primary key. A primary key is a column, or set of columns, that uniquely identifies each row in the table. This means that no two rows in the table can have the same value for the primary key. Primary keys are essential for enforcing data integrity and for efficiently retrieving data from the table"
+        }
+      ],
+      "explanation": "Every relation (table) in a relational database must have a primary key. A primary key is a column, or set of columns, that uniquely identifies each row in the table. This means that no two rows in the table can have the same value for the primary key. Primary keys are essential for enforcing data integrity and for efficiently retrieving data from the table",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A virtual table that is constructed from other tables is called",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "View",
+          "isCorrect": true,
+          "explanation": "A view is a virtual table in a database that is based on a SQL query. It acts like a regular table, allowing users to query and retrieve data from the underlying tables. Views can simplify complex queries, improve data security by hiding sensitive data in the underlying tables, and provide a logical data structure for users"
+        },
+        {
+          "letter": "B",
+          "text": "Table",
+          "isCorrect": false,
+          "explanation": "A table is a fundamental structure in a relational database that stores data in a grid-like format with rows and columns. Views, while appearing like tables, don't store data themselves but instead retrieve it from the underlying tables based on the query they are based on"
+        },
+        {
+          "letter": "C",
+          "text": "Relations",
+          "isCorrect": false,
+          "explanation": "In relational databases, a relation is a mathematical concept that refers to a collection of tables that are linked together by relationships. Views are not considered relations themselves but rather a way to interact with the data stored in relations (tables)."
+        },
+        {
+          "letter": "D",
+          "text": "Tuple",
+          "isCorrect": false,
+          "explanation": "A tuple is a single row of data in a relational database table. Views don't contain the data themselves but instead retrieve data as tuples (rows) from the underlying tables based on the query"
+        }
+      ],
+      "explanation": "A view is a virtual table in a database that is based on a SQL query. It acts like a regular table, allowing users to query and retrieve data from the underlying tables. Views can simplify complex queries, improve data security by hiding sensitive data in the underlying tables, and provide a logical data structure for users",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In Database, a relation is also known as",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Table",
+          "isCorrect": true,
+          "explanation": "A two-dimensional array of data that contains descriptive information about an entity is known as table or relation"
+        },
+        {
+          "letter": "B",
+          "text": "Tupple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Relation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Attribute",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A two-dimensional array of data that contains descriptive information about an entity is known as table or relation",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Create Command is use to create",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Table",
+          "isCorrect": true,
+          "explanation": "It is a basic comcept"
+        },
+        {
+          "letter": "B",
+          "text": "Report",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Query",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Form",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "It is a basic concept.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which is not included in the definition of entity board?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Person",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Object",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Action",
+          "isCorrect": true,
+          "explanation": "An entity is a thing about which information is stored in the database."
+        },
+        {
+          "letter": "D",
+          "text": "Concept",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "An entity is a thing about which information is stored in the database.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The column of a table corresponds to:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Table",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Record",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Field",
+          "isCorrect": true,
+          "explanation": "A set of related characters that represent a unit of data is called a field."
+        },
+        {
+          "letter": "D",
+          "text": "Cell",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A set of related characters that represent a unit of data is called a field.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The attribute is also known as",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Table",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Relation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Row",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Field",
+          "isCorrect": true,
+          "explanation": "The named columns of the relation are called attributes"
+        }
+      ],
+      "explanation": "The named columns of the relation are called attributes",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "All the data will be saved in hard disk in which form",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "ASCII format",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Machine code",
+          "isCorrect": true,
+          "explanation": "It is a baisc concept."
+        },
+        {
+          "letter": "C",
+          "text": "Numeric Code",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "High Level language",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "It is a basic concept.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Insert Command is used to insert",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A new table",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "A new record",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "A view",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "It is a basic concept",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "It is a basic Concept.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "How many primary key can a table have?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "One",
+          "isCorrect": true,
+          "explanation": "The attribute or combination of attributes that uniquely identifies a row or record in a relation is known as the primary key."
+        },
+        {
+          "letter": "B",
+          "text": "At least one but not more than two",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Between 1 and 5",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "No limit",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The attribute or combination of attributes that uniquely identifies a row or record in a relation is known as the primary key.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which one of the following is the set of one or more attributes taken collectively to uniquely identify a record?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Candidate Key",
+          "isCorrect": false,
+          "explanation": "A candidate key is a minimal set of attributes that uniquely identifies a record in a table. It's essentially a super key that doesn't have any redundant attributes. A table can have multiple candidate keys, but only one is chosen as the primary key."
+        },
+        {
+          "letter": "B",
+          "text": "Sub Key",
+          "isCorrect": false,
+          "explanation": "A subkey is a subset of a candidate key. It won't necessarily identify a record uniquely by itself"
+        },
+        {
+          "letter": "C",
+          "text": "Super key",
+          "isCorrect": true,
+          "explanation": "A super key is any set of one or more attributes that can uniquely identify a record in a table. This means it can be a single attribute (like an ID number) or a combination of attributes (like a customer name and address). Candidate keys are a type of super key, but not all super keys are candidate keys"
+        },
+        {
+          "letter": "D",
+          "text": "Foreign key",
+          "isCorrect": false,
+          "explanation": "A foreign key is an attribute (or set of attributes) in one table that references the primary key of another table. It's used to create relationships between tables."
+        }
+      ],
+      "explanation": "A super key is any set of one or more attributes that can uniquely identify a record in a table. This means it can be a single attribute (like an ID number) or a combination of attributes (like a customer name and address). Candidate keys are a type of super key, but not all super keys are candidate keys",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which key doesn't hold uniqueness property?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Candidate Key",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Foreign key",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Primary Key",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Secondary Key",
+          "isCorrect": true,
+          "explanation": "A secondary key is made on a field that you would like to be indexed for faster searches A table can have more than one secondary key. The main purpose of a database is to store and search for data"
+        }
+      ],
+      "explanation": "A secondary key is made on a field that you would like to be indexed for faster searches A table can have more than one secondary key. The main purpose of a database is to store and search for data",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "No. of participating entities in a relationship is known as",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Modality of relation",
+          "isCorrect": false,
+          "explanation": "Modality refers to whether a relationship is mandatory (all entities must participate), optional (some entities may not participate), or unary (a relationship involving a single entity). So, modality is not about the number of participating entities."
+        },
+        {
+          "letter": "B",
+          "text": "Cardinality of relation",
+          "isCorrect": false,
+          "explanation": "Cardinality refers to the number of instances of one entity that can be associated with a single instance of another entity in a relationship. For example, one-to-one, one-to-many, or many-to-many. Cardinality also doesn't directly address the number of participating entities in the relationship itself."
+        },
+        {
+          "letter": "C",
+          "text": "Degree of Relation",
+          "isCorrect": true,
+          "explanation": "The degree of a relation refers to the number of participating entities in a relationship. In a binary relationship, there are two entities involved. In a ternary relationship, there are three, and so on. So, degree is the most fitting answer for the question."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "While the other options don't directly address the number of participating entities, they are all valid concepts in relational databases. So, this option is not entirely accurate."
+        }
+      ],
+      "explanation": "The degree of a relation refers to the number of participating entities in a relationship. In a binary relationship, there are two entities involved. In a ternary relationship, there are three, and so on. So, degree is the most fitting answer for the question.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The super key without any extra attribute is called",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The candidate key",
+          "isCorrect": true,
+          "explanation": "A candidate key is a combination of attributes that can be uniquely used to identify = database record without referring to any other data. Each table may have one or more candidates. One of these candidate keys is selected as the table primary key. The attribute or combination of attributes that uniquely identifies or row or record in relation is known as the primary key."
+        },
+        {
+          "letter": "B",
+          "text": "Primary key",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Foreign key",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Sort key",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A candidate key is a combination of attributes that can be uniquely used to identify = database record without referring to any other data. Each table may have one or more candidates. One of these candidate keys is selected as the table primary key. The attribute or combination of attributes that uniquely identifies or row or record in relation is known as the primary key.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the key called that is used in relationship between tables as value matches a primary key in another key?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Candidate Key",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Secondary Key",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Foreign Key",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Alternator KeyThe answer to the question is (c) Foreign key.Here's a breakdown of the answer choices and why foreign key is the most fitting answer:Candidate key: A candidate key is a minimal set of attributes that uniquely identifies a record in a table. It's essentially a super key that doesn't have any redundant attributes. A table can have multiple candidate keys, but only one is chosen as the primary key.",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Alternator KeyThe answer to the question is (c) Foreign key.Here's a breakdown of the answer choices and why foreign key is the most fitting answer:Candidate key: A candidate key is a minimal set of attributes that uniquely identifies a record in a table. It's essentially a super key that doesn't have any redundant attributes. A table can have multiple candidate keys, but only one is chosen as the primary key.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The fundamental concept of relation database is",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Query",
+          "isCorrect": false,
+          "explanation": "A query is a request for data from a database table or a combination of tables, often used to retrieve, update, or manipulate data."
+        },
+        {
+          "letter": "B",
+          "text": "Table",
+          "isCorrect": true,
+          "explanation": "A two-dimensional array of data that contains descriptive information about an entity is known as table or relation."
+        },
+        {
+          "letter": "C",
+          "text": "Form",
+          "isCorrect": false,
+          "explanation": "A form is a user interface element used to input data into a database or display data from a database in a structured format."
+        },
+        {
+          "letter": "D",
+          "text": "Report",
+          "isCorrect": false,
+          "explanation": "A report is a formatted presentation of data from a database, typically used for analysis or decision-making purposes."
+        }
+      ],
+      "explanation": "A two-dimensional array of data that contains descriptive information about an entity is known as table or relation",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The key strictly used for data retrievel purpose is",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sort Key",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Secondary Key",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Primary Key",
+          "isCorrect": true,
+          "explanation": "The answer to the question is (c) Primary Key.The primary key is a special attribute (or set of attributes) that uniquely identifies each record in a table. It's the most efficient way to retrieve a specific record because you can quickly locate it based on its unique primary key value."
+        },
+        {
+          "letter": "D",
+          "text": "Control Key",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The answer to the question is (c) Primary Key.The primary key is a special attribute (or set of attributes) that uniquely identifies each record in a table. It's the most efficient way to retrieve a specific record because you can quickly locate it based on its unique primary key value.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The record layouts are properly defined in which of the following i.e each field is given a fixed or variable length",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "DBMS",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "FMS",
+          "isCorrect": true,
+          "explanation": "A file management system is a type of software that manages data files in a computer system. It has limited capabilities and is designed to manage individual or group files, such as special office documents and records."
+        },
+        {
+          "letter": "C",
+          "text": "Logical design",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Physical design",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A file management system is a type of software that manages data files in a computer system. It has limited capabilities and is designed to manage individual or group files, such as special office documents and records.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A relation is analogous to a",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "File",
+          "isCorrect": true,
+          "explanation": "A collection of related records as a single unit is called a file."
+        },
+        {
+          "letter": "B",
+          "text": "Field",
+          "isCorrect": false,
+          "explanation": "A field is a single piece of data stored in a record. It represents a specific attribute or characteristic of the entity the record represents, such as a person's name, a product's price, or an order's date"
+        },
+        {
+          "letter": "C",
+          "text": "Record",
+          "isCorrect": false,
+          "explanation": "A record is a collection of related data fields, typically representing a single entity. It is a row in a database table and contains information about a specific instance of an entity, such as a person, product, or order."
+        },
+        {
+          "letter": "D",
+          "text": "Row",
+          "isCorrect": false,
+          "explanation": "A row, also known as a tuple, is a horizontal group of data in a database table. It represents a single record in the table and contains a set of related fields that describe an entity or an instance of a particular entity."
+        }
+      ],
+      "explanation": "A collection of related records as a single unit is called a file.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is the correct association?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Database Design Process",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "File = Column",
+          "isCorrect": false,
+          "explanation": "A file is a collection of data stored on a computer storage device. Columns are attributes or fields within a table in a database"
+        },
+        {
+          "letter": "B",
+          "text": "Field = Row",
+          "isCorrect": false,
+          "explanation": "A field (or attribute) represents a specific characteristic or property of an entity that is stored in a table. A row is a record in the table"
+        },
+        {
+          "letter": "C",
+          "text": "Record = Occurrence",
+          "isCorrect": true,
+          "explanation": "• Record: A record in a database table represents a single instance of an entity. It’s a collection of values that correspond to the fields (or attributes) defined for the table. For instance, in a customer table, a record might represent a particular customer, with all their details such as last name, city, etc.• Occurrence: An occurrence is another term for a record in a database table"
+        },
+        {
+          "letter": "D",
+          "text": "Record = Table",
+          "isCorrect": false,
+          "explanation": "A table is the entire collection of data, including rows and columns. It represents all the records (or occurrences) collectively"
+        }
+      ],
+      "explanation": "• Record: A record in a database table represents a single instance of an entity. It’s a collection of values that correspond to the fields (or attributes) defined for the table. For instance, in a customer table, a record might represent a particular customer, with all their details such as last name, city, etc.• Occurrence: An occurrence is another term for a record in a database table",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A primary key that consists of more than one attribute is called",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Foreign key",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Composite Key",
+          "isCorrect": true,
+          "explanation": "A primary key that consists of two or more attributes is known as a composite key."
+        },
+        {
+          "letter": "C",
+          "text": "Multi Value Key",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Compound Key",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A primary key that consists of two or more attributes is known as a composite key.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which is called the control key?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sort Key",
+          "isCorrect": true,
+          "explanation": "It is the basic terminology."
+        },
+        {
+          "letter": "B",
+          "text": "Composite Key",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Candidate Key",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Primary Key",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "It is the basic terminology.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A row of a relation is called",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Attribute",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Entity",
+          "isCorrect": false,
+          "explanation": "An entity is a real-world object or concept that is represented in a database. It can be a person, place, thing, or event. In a database, an entity is typically represented by a table, where each row in the table represents a single instance of that entity."
+        },
+        {
+          "letter": "C",
+          "text": "Tuple",
+          "isCorrect": true,
+          "explanation": "In the context of databases, a tuple is a single row of data in a table. It represents a single record or instance of an entity and contains a set of attributes, each of which has a value associated with it.Attribute: An attribute is a characteristic or property of an entity. In the context of a database table, an attribute is represented by a column and defines the type of data that can be stored in that column. Each attribute has a name and a domain (the set of possible values it can take)."
+        },
+        {
+          "letter": "D",
+          "text": "Field",
+          "isCorrect": false,
+          "explanation": "A field is a single unit of data in a record or tuple. It corresponds to an attribute in the database table and contains the actual value for that attribute for a specific record. Fields are the smallest units of data in a database and are organized into records or tuples"
+        }
+      ],
+      "explanation": "In the context of databases, a tuple is a single row of data in a table. It represents a single record or instance of an entity and contains a set of attributes, each of which has a value associated with it.Attribute: An attribute is a characteristic or property of an entity. In the context of a database table, an attribute is represented by a column and defines the type of data that can be stored in that column. Each attribute has a name and a domain (the set of possible values it can take).",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A person whonis responsible for the design, implementation, operating, management, and maintainance of data base",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Database administrator",
+          "isCorrect": true,
+          "explanation": "A Database Administrator is responsible for the design, implementation, operation, management and maintenance of databaseq"
+        },
+        {
+          "letter": "B",
+          "text": "Data administrator",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "The end user",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "System analyst",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A Database Administrator is responsible for the design, implementation, operation, management and maintenance of database.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A category of data or information that describes an entity is called",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Attribute",
+          "isCorrect": true,
+          "explanation": "The named columns of the relation are called attributes"
+        },
+        {
+          "letter": "B",
+          "text": "Data Item",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Record",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Tuple",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The named columns of the relation are called attributes.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "It is made upto rows and columns and may display information that is restricted to a part of table",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Index",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Query",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Report",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "View",
+          "isCorrect": true,
+          "explanation": "A database view is a searchable object in a database that is defined by a query. Though a view doesn't store data, some refer to a view as \"virtual tables,\" you can query a view like you can a table. A view can combine data from two or more tables, using joins, and also just contain a subset of information."
+        }
+      ],
+      "explanation": "A database view is a searchable object in a database that is defined by a query. Though a view doesn't store data, some refer to a view as \"virtual tables,\" you can query a view like you can a table. A view can combine data from two or more tables, using joins, and also just contain a subset of information.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Overheads on the DBMS",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Data dictionary",
+          "isCorrect": false,
+          "explanation": "A data dictionary is a centralized repository that stores metadata, such as definitions and descriptions of data elements, data structures, and data relationships within a database or information system. It provides a comprehensive view of the data assets within an organization and is used for data management, data governance, and system development purposes."
+        },
+        {
+          "letter": "B",
+          "text": "Corporate Data",
+          "isCorrect": false,
+          "explanation": "Corporate data refers to the data assets owned and managed by an organization. It includes data related to the organization's operations, customers, products, finances, and other aspects of its business. Managing corporate data effectively is crucial for making informed decisions, improving efficiency, and maintaining regulatory compliance."
+        },
+        {
+          "letter": "C",
+          "text": "Staff Training",
+          "isCorrect": true,
+          "explanation": "Staff training refers to the process of providing employees with the knowledge, skills, and competencies required to perform their jobs effectively. In the context of databases, staff training may include training on how to use database management systems (DBMS), data analysis tools, data entry procedures, and data security best practices. Effective staff training can improve productivity, reduce errors, and enhance the overall performance of an organization.Top of Form"
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "How many types of relationships can be used?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The selected candidate key is called?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primary Key",
+          "isCorrect": true,
+          "explanation": "A candidate key is a minimal set of attributes that can uniquely identify a tuple (or row) in a relation (or table) in a database.In simpler terms, it's a set of one or more columns (attributes) in a table that can uniquely identify each record in the table."
+        },
+        {
+          "letter": "B",
+          "text": "Foreign Key",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Super Key",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Composite Key",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A candidate key is a minimal set of attributes that can uniquely identify a tuple (or row) in a relation (or table) in a database.In simpler terms, it's a set of one or more columns (attributes) in a table that can uniquely identify each record in the table",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following describe the Primary key?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "It must be unique",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "It helps in indexing of large database",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "It makes sorting quicker",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": true,
+          "explanation": "A primary key is a column (or set of columns) in a database table that uniquely identifies each row in the table. This means that no two rows in the table can have the same value for the primary key.B. It helps in indexing of large database: A primary key can be used to create an index on a table, which can improve the performance of queries that filter or sort data based on the primary key. However, this is not the only purpose of a primary key.C. It makes sorting quicker: As mentioned above, a primary key can be used to create an index that can speed up sorting."
+        }
+      ],
+      "explanation": "A primary key is a column (or set of columns) in a database table that uniquely identifies each row in the table. This means that no two rows in the table can have the same value for the primary key.B. It helps in indexing of large database: A primary key can be used to create an index on a table, which can improve the performance of queries that filter or sort data based on the primary key. However, this is not the only purpose of a primary key.C. It makes sorting quicker: As mentioned above, a primary key can be used to create an index that can speed up sorting.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which field listed below is the most appropriate primary key?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A person's last name",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "An employee salary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "A customer's Id",
+          "isCorrect": true,
+          "explanation": "The correct answer is (c) A customer's ID number.A primary key is a field (or set of fields) in a database table that uniquely identifies each row in the table. This means that no two rows in the table can have the same value for the primary key. A customer ID number is typically a unique identifier assigned to each customer, making it a good choice for a primary key."
+        },
+        {
+          "letter": "D",
+          "text": "A sale's person region",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is (c) A customer's ID number.A primary key is a field (or set of fields) in a database table that uniquely identifies each row in the table. This means that no two rows in the table can have the same value for the primary key. A customer ID number is typically a unique identifier assigned to each customer, making it a good choice for a primary key.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is used to create data views?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Data Manager",
+          "isCorrect": false,
+          "explanation": "Data Manager can refer to various software tools used to manage data. Without additional context, it's difficult to say definitively if a Data Manager can be used to create data views."
+        },
+        {
+          "letter": "B",
+          "text": "SQL",
+          "isCorrect": true,
+          "explanation": "SQL (b) is used to create data views. SQL (Structured Query Language) is a programming language designed for managing data in relational databases. It can be used to create, read, update and delete data in a database, as well as to create data views."
+        },
+        {
+          "letter": "C",
+          "text": "Report Generators",
+          "isCorrect": false,
+          "explanation": "Report Generator (c): Report generators are tools used to create reports from data in a database. While they may use data views as a source, they don't typically create them."
+        },
+        {
+          "letter": "D",
+          "text": "Utilities",
+          "isCorrect": false,
+          "explanation": "Sol utilities refers to Software Offering Level utilities, which are specific to Oracle database systems. They are a set of command-line tools used for various administrative tasks, but not typically used to create data views."
+        }
+      ],
+      "explanation": "SQL (b) is used to create data views. SQL (Structured Query Language) is a programming language designed for managing data in relational databases. It can be used to create, read, update and delete data in a database, as well as to create data views.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is also known as alternate key?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Secondary key",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Foreign Key",
+          "isCorrect": true,
+          "explanation": "A foreign key is a column or group of columns in a relational database table that references the primary key of another table. The table that contains the foreign key is called the child table or dependent table. It establishes a link between two tables and helps enforce data integrity by ensuring that the data in the child table refers to valid data in the parent table."
+        },
+        {
+          "letter": "C",
+          "text": "Candidate Key",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Primary Key",
+          "isCorrect": false,
+          "explanation": "The table that contains the primary key referenced by the foreign key is called the parent table or referenced table."
+        }
+      ],
+      "explanation": "A foreign key is a column or group of columns in a relational database table that references the primary key of another table. The table that contains the foreign key is called the child table or dependent table. It establishes a link between two tables and helps enforce data integrity by ensuring that the data in the child table refers to valid data in the parent table.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following are used to create links between the tables to avoid duplication of data in various tables",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Join",
+          "isCorrect": false,
+          "explanation": "Joins are operations used in database queries to combine rows from two or more tables based on a related column between them, enabling the retrieval of related data from multiple tables."
+        },
+        {
+          "letter": "B",
+          "text": "Data Integration",
+          "isCorrect": false,
+          "explanation": "Data integration is the process of combining data from different sources into a unified view, enabling organizations to have a comprehensive and consistent view of their data for analysis and decision-making."
+        },
+        {
+          "letter": "C",
+          "text": "Relationship",
+          "isCorrect": false,
+          "explanation": "In the context of databases, a relationship refers to the association between tables based on common fields, defining how data in one table relates to data in another, often through keys like primary and foreign keys."
+        },
+        {
+          "letter": "D",
+          "text": "Keys",
+          "isCorrect": true,
+          "explanation": "A Key can be a single attribute or a group of attributes, where the combination may act as a key."
+        }
+      ],
+      "explanation": "A Key can be a single attribute or a group of attributes, where the combination may act as a key.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following are not general characteristics of the relation?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Each row is unique",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "The order column is significant",
+          "isCorrect": true,
+          "explanation": "A table is a set of data elements (values) using a model of vertical columns (identifiable by name) and horizontal rows, the cell being the unit where a row and column intersect. A table has a specified number of columns, but can have any number of rows."
+        },
+        {
+          "letter": "C",
+          "text": "The order of rows is insignificant",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Columns are all elemental or atomic",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A table is a set of data elements (values) using a model of vertical columns (identifiable by name) and horizontal rows, the cell being the unit where a row and column intersect. A table has a specified number of columns, but can have any number of rows.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "An index can be used to",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Improve the performance of data base",
+          "isCorrect": true,
+          "explanation": "Indexes in a database management system (DBMS) are data structures that improve the speed of data retrieval operations on a table. They work like the index of a book, allowing the database to quickly find the location of rows that match a certain criteria."
+        },
+        {
+          "letter": "B",
+          "text": "Document the structure of database itself",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Reduce data dependancy for application program",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Indexes in a database management system (DBMS) are data structures that improve the speed of data retrieval operations on a table. They work like the index of a book, allowing the database to quickly find the location of rows that match a certain criteria.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following are the properties of the relation?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Each attribute has a unique name",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "No two rows in a relation are Identical",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "There are no multivalued attributes in a relation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": "Improve the performance of the database: This is the most common reason to create indexes. Indexes act like a special filing system for your database table, allowing the database to quickly locate specific rows of data without having to scan the entire table. This can significantly speed up queries that filter or sort data based on the indexed columns.Document the structure of the database itself: Indexes can help document the structure of a database by revealing which columns are frequently used for filtering and sorting data. This information can be helpful for database administrators and developers who are trying to understand how the database is being used.Reduce data dependency for application program: By improving the performance of queries, indexes can indirectly reduce the data dependency for application programs. This is because applications will wait less time for data to be retrieved from the database."
+        }
+      ],
+      "explanation": "Improve the performance of the database: This is the most common reason to create indexes. Indexes act like a special filing system for your database table, allowing the database to quickly locate specific rows of data without having to scan the entire table. This can significantly speed up queries that filter or sort data based on the indexed columns.Document the structure of the database itself: Indexes can help document the structure of a database by revealing which columns are frequently used for filtering and sorting data. This information can be helpful for database administrators and developers who are trying to understand how the database is being used.Reduce data dependency for application program: By improving the performance of queries, indexes can indirectly reduce the data dependency for application programs. This is because applications will wait less time for data to be retrieved from the database.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In database a key is",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A key that identifies only one record",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "The most important field in a record",
+          "isCorrect": true,
+          "explanation": "A Key can be a single attribute or a group of attributes, where the combination may act as a key."
+        },
+        {
+          "letter": "C",
+          "text": "The first field of tha table",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Redundant field",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A Key can be a single attribute or a group of attributes, where the combination may act as a key.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A domain is atomic if element after domain is considered to be which of the following units?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indivisible",
+          "isCorrect": true,
+          "explanation": "In the context of databases, a domain is considered atomic if its elements are considered indivisible units. This means that the values in the domain cannot be further divided or decomposed into smaller parts for the purpose of data storage or manipulation within the database."
+        },
+        {
+          "letter": "B",
+          "text": "Different",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Divisible",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Constant",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "In the context of databases, a domain is considered atomic if its elements are considered indivisible units. This means that the values in the domain cannot be further divided or decomposed into smaller parts for the purpose of data storage or manipulation within the database.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "An attribute is a relation of a database that serves as the primary key of another relation in the same data base is called a",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Global key",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Link key",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Foreign key",
+          "isCorrect": true,
+          "explanation": "A foreign key is a field in one table that uniquely identifies a row of another table or the same table. In simpler words, the foreign key is defined in a second table, but it refers to the primary key or a unique key in the first table."
+        },
+        {
+          "letter": "D",
+          "text": "Super key",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A foreign key is a field in one table that uniquely identifies a row of another table or the same table. In simpler words, the foreign key is defined in a second table, but it refers to the primary key or a unique key in the first table",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "SQL is used for",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Data definition",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Data Manipulation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Data definition and Manipulation",
+          "isCorrect": true,
+          "explanation": "SQL is a domain-specific language used in programming and designed for managing data held in a relational database management system, or for stream processing in a relational data stream management system."
+        },
+        {
+          "letter": "D",
+          "text": "Searching records",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "SQL is a domain-specific language used in programming and designed for managing data held in a relational database management system, or for stream processing in a relational data stream management system.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "An attribute that uniquely identifies each row in a relationship is called",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Column",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Foreign Field",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Primary Key",
+          "isCorrect": true,
+          "explanation": "It is a basic definition"
+        },
+        {
+          "letter": "D",
+          "text": "Duplicate Key",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "It is a basic definition",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In E-R diagram attributes is represented by which symbol?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parabola",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Parallelogram",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Ellipse",
+          "isCorrect": true,
+          "explanation": "In an Entity-Relationship (ER) diagram, attributes are represented by ellipses or ovals connected to their respective entity. Each attribute is usually depicted with its name inside the ellipse."
+        },
+        {
+          "letter": "D",
+          "text": "Rectangular",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "In an Entity-Relationship (ER) diagram, attributes are represented by ellipses or ovals connected to their respective entity. Each attribute is usually depicted with its name inside the ellipse.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "One field, combination of fields for which more than one record may have the same combination of values is called",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Secondary Key",
+          "isCorrect": true,
+          "explanation": "A secondary key is made on a field that you would like to be indexed for faster searches. A table can have more than one secondary key. The main purpose of a database is to store and search for data."
+        },
+        {
+          "letter": "B",
+          "text": "Index",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Composite",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Linked key",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A secondary key is made on a field that you would like to be indexed for faster searches. A table can have more than one secondary key. The main purpose of a database is to store and search for data.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "An index may be created on",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Primary Key",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Secondary Key",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Foreign Key",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": true,
+          "explanation": "The correct answer is (d) All of these.Here's a breakdown why each option is a valid choice for creating an index in a database:(a) Primary Key: A primary key is a column, or set of columns, that uniquely identifies each row in a table. An index on a primary key can significantly improve the performance of queries that filter or sort data based on the primary key, because the database can quickly locate the specific rows using the index.(b) Secondary Key: A secondary key is a column, or set of columns, that uniquely identifies a set of rows in a table. It's not necessarily required to be unique for every single row. Indexes on secondary keys can also improve the performance of queries that filter or sort data based on those columns.(c) Foreign Key: A foreign key is a column, or set of columns, in one table that references the primary key of another table. Indexes on foreign keys can improve the performance of joins between tables, which are operations that combine data from multiple tables based on a relationship."
+        }
+      ],
+      "explanation": "The correct answer is (d) All of these.Here's a breakdown why each option is a valid choice for creating an index in a database:(a) Primary Key: A primary key is a column, or set of columns, that uniquely identifies each row in a table. An index on a primary key can significantly improve the performance of queries that filter or sort data based on the primary key, because the database can quickly locate the specific rows using the index.(b) Secondary Key: A secondary key is a column, or set of columns, that uniquely identifies a set of rows in a table. It's not necessarily required to be unique for every single row. Indexes on secondary keys can also improve the performance of queries that filter or sort data based on those columns.(c) Foreign Key: A foreign key is a column, or set of columns, in one table that references the primary key of another table. Indexes on foreign keys can improve the performance of joins between tables, which are operations that combine data from multiple tables based on a relationship.",
+      "explanationImage": null,
+      "hints": []
+    }
+  ]
+}

@@ -1,0 +1,3820 @@
+{
+  "questions": [
+    {
+      "text": "Which one of the following is correct?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "V0=1.414 Vrms",
+          "isCorrect": true,
+          "explanation": "This statement is correct. V0 represents the peak value of an alternating voltage, while Vrms represents the root mean square (RMS) value of that voltage. The relationship between the peak value and RMS value in an ideal sinusoidal waveform is V0 = 1.414 Vrms. This is a fundamental relationship in A.C circuit analysis."
+        },
+        {
+          "letter": "B",
+          "text": "V0=10.10Vrms",
+          "isCorrect": false,
+          "explanation": "This statement is not correct. The value of 10.70 for V0 in relation to Vrms is not accurate. The correct relationship, as mentioned in option a), is V0 = 1.414 Vrms."
+        },
+        {
+          "letter": "C",
+          "text": "V0=10.70 Vrms",
+          "isCorrect": false,
+          "explanation": "This statement is not correct. The value of 10.70 for V0 in relation to Vrms is not accurate. The correct relationship, as mentioned in option a), is V0 = 1.414 Vrms."
+        },
+        {
+          "letter": "D",
+          "text": "Both A and B",
+          "isCorrect": false,
+          "explanation": "This statement is not correct. The value of 10.70 for V0 in relation to Vrms is not accurate. The correct relationship, as mentioned in option a), is V0 = 1.414 Vrms."
+        }
+      ],
+      "explanation": "This statement is correct. V0 represents the peak value of an alternating voltage, while Vrms represents the root mean square (RMS) value of that voltage. The relationship between the peak value and RMS value in an ideal sinusoidal waveform is V0 = 1.414 Vrms. This is a fundamental relationship in A.C. circuit analysis.Vrms=0.707V0So V0=1/0.707 Vrms=1.414 Vrms",
+      "explanationImage": null,
+      "hints": [
+        "correct",
+        "following"
+      ]
+    },
+    {
+      "text": "Transformer is used in rectification to _ the supply voltage.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Step up",
+          "isCorrect": false,
+          "explanation": "In a transformer, when the number of turns in the secondary coil (output coil) is greater than the number of turns in the primary coil (input coil), it is called a step-up transformer. Step-up transformers are used to increase the voltage of the input supply. The output voltage in a step-up transformer is higher than the input voltage, making it useful for applications where higher voltages are required."
+        },
+        {
+          "letter": "B",
+          "text": "Step down",
+          "isCorrect": true,
+          "explanation": "In a transformer, when the number of turns in the secondary coil (output coil) is less than the number of turns in the primary coil (input coil), it is called a step-down transformer. Step-down transformers are used to decrease the voltage of the input supply. The output voltage in a step-down transformer is lower than the input voltage, making it useful for applications where lower voltages are required."
+        },
+        {
+          "letter": "C",
+          "text": "Equalize",
+          "isCorrect": false,
+          "explanation": "There is no concept of equalizing the supply voltage using a transformer. The primary purpose of a transformer is to change the voltage level from one value to another, either higher or lower."
+        },
+        {
+          "letter": "D",
+          "text": "None of these options is correct",
+          "isCorrect": false,
+          "explanation": "As explained above, option \"c\" is not correct. Option \"d\" means that none of the provided options is the correct answer, which is incorrect because the correct answer is option \"b\" (Step down). Step-down transformers are used in rectification to lower the supply voltage to a desired level for various applications."
+        }
+      ],
+      "explanation": "The purpose of the transformer is to step down the AC voltage from the mains supply and feed it to the rectifier.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Alternating Current Generators use:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Coiled rings",
+          "isCorrect": false,
+          "explanation": "This option does not correspond to a commonly used component in AC generators. Coiled rings are not a standard feature of AC generators."
+        },
+        {
+          "letter": "B",
+          "text": "Split rings",
+          "isCorrect": false,
+          "explanation": "Split rings are used in a specific type of generator called a \"split-ring commutator\" or \"split-ring slip ring.\" These split rings are a critical component of a direct current (DC) generator, not an AC generator. In DC generators, split rings help to reverse the current direction in the coil, which allows the generator to produce direct current. For AC generators, split rings are not used."
+        },
+        {
+          "letter": "C",
+          "text": "Slip rings",
+          "isCorrect": true,
+          "explanation": "The correct option for AC generators is slip rings. AC generators use slip rings to transfer the generated electrical energy from the rotating coil to the external circuit. Slip rings are metal rings that rotate along with the coil inside the generator. They make continuous contact with brushes, which are connected to the external circuit. This setup allows the AC current to flow from the coil to the external circuit without changing the direction of the current, as the coil rotates."
+        },
+        {
+          "letter": "D",
+          "text": "Solenoid rings",
+          "isCorrect": false,
+          "explanation": "d) Solenoid ringsSolenoid rings are not a standard component used in AC generators. Solenoid rings typically refer to toroidal coils used in various electrical and magnetic applications, but they are not specific to AC generators."
+        }
+      ],
+      "explanation": "Alternating Current Generators consist of an Armature Coil. It has slip rings, which maintains contact between the Armature coil and carbon brush. Slip rings are made from copper.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The energy stored in a parallel plate capacitor is 24 J. What is the potential difference be if the capacitance of the capacitor is 3 µF?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 KV",
+          "isCorrect": true,
+          "explanation": "The expression relating the energy stored in a capacitor with respect to potential difference and capacitance is : E = ½ CV² 24 = ½ (3×10^-6) V² V² = 16 × 10⁶ V = 4 × 10³ V = 4 kV"
+        },
+        {
+          "letter": "B",
+          "text": "16 kV",
+          "isCorrect": false,
+          "explanation": "b) 16 kV (Kilovolts): This option suggests that the potential difference is 16 kilovolts. However, we have already calculated that the potential difference is approximately 4 kV in option (a)."
+        },
+        {
+          "letter": "C",
+          "text": "54 kV",
+          "isCorrect": false,
+          "explanation": "c) 54 kV (Kilovolts): This option suggests that the potential difference is 54 kilovolts. Again, this does not match the calculated value of 4 kV."
+        },
+        {
+          "letter": "D",
+          "text": "8 kV",
+          "isCorrect": false,
+          "explanation": "d) 8 kV (Kilovolts): This option suggests that the potential difference is 8 kilovolts. However, the calculated value is approximately 4 kV as shown in option (a)."
+        }
+      ],
+      "explanation": "The expression relating the energy stored in a capacitor with respect to potential difference and capacitance is : E = ½ CV² 24 = ½ (3×10^-6) V² V² = 16 × 10⁶ V = 4 × 10³ V = 4 kV",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If the instantaneous current in a circuit is given by I = A sin (wt) ampere, the RMS value of the current is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2A",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The formula for RMS value is not just a multiple of A. The RMS value of an AC current is calculated using Irms = Imax / √2, where Imax is the peak value, which is A in this case."
+        },
+        {
+          "letter": "B",
+          "text": "A/√2",
+          "isCorrect": true,
+          "explanation": "According to the given statement, I = A sin (wt) ampereWe know that Instantaneous = Imax sin (wt)By relating both equations, Iinstantaneous = I Imax = AWe also know that Irms = Imax / √2So, Irms = A/√2"
+        },
+        {
+          "letter": "C",
+          "text": "2√2A",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The expression 2√2A does not correspond to the standard formula for RMS value. Instead, the correct formula is Irms = Imax / √2, which results in A/√2."
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. An AC current's RMS value is never zero as long as there is a non-zero peak value. The RMS value is derived from Imax and is calculated using Irms = Imax / √2."
+        }
+      ],
+      "explanation": "The instantaneous current is given by I = A sin (wt). Here, A represents the peak current Imax. The RMS (Root Mean Square) value of an AC current is calculated using the formula Irms = Imax / √2. Therefore, substituting Imax = A, we get Irms = A/√2.Option A (2A) is incorrect as it does not follow the RMS formula. Option C (2√2A) is incorrect for the same reason as it does not align with the RMS calculation. Option D (Zero) is incorrect because a non-zero peak current cannot have an RMS value of zero.",
+      "explanationImage": null,
+      "hints": [
+        "instantaneous current",
+        "I = A sin (wt)",
+        "RMS value"
+      ]
+    },
+    {
+      "text": "The rectifier is a device that converts:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "AC to DC",
+          "isCorrect": true,
+          "explanation": "A diode is also known as a rectifier. It converts AC input to DC output. Hence, this option is correct."
+        },
+        {
+          "letter": "B",
+          "text": "DC to AC",
+          "isCorrect": false,
+          "explanation": "The rectifier converts AC to DC, which is the opposite of the given option. Hence, the option is incorrect"
+        },
+        {
+          "letter": "C",
+          "text": "AC to triangular current",
+          "isCorrect": false,
+          "explanation": "The rectifier does not convert AC to triangular current (current that has a triangular waveform). Hence, the option is incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "DC-to-triangular current",
+          "isCorrect": false,
+          "explanation": "The rectifier does not convert AC to triangular current (current that has triangular waveform). Hence, the option is incorrect."
+        }
+      ],
+      "explanation": "A rectifier is a device that converts an oscillating two-directional alternating current (AC) into a single-directional direct current (DC). Rectifiers can take a wide variety of physical forms, from vacuum tube diodes and crystal radio receivers to modern silicon-based designs.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following remains unchanged in a transformer.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Voltage",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Current",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Power",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Capacitance",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A transformer changes voltages and current but the power remains constant. But we would like to mention that this is only for the case of an ideal transformer, in general there is loss in power in form of heat, sound, vibrations, eddy currents, etc. Only the frequency remains constant.In an ideal transformer, power remains constant as it is not lost to the surroundings",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the range of typical band gap in conductors",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100-1000eV",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "0.5-10eV",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "0.01-0.1 eV",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "10000-10000000eV",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Students have to learn this value as it is a fact that the range of a typical band gap in conductors is from 0.01 to 0.1 eV.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "AC generators are opposite to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transformers",
+          "isCorrect": false,
+          "explanation": "Transformers: AC generators convert mechanical energy into electrical energy, while transformers change the voltage level of AC power. Different functions, not similar."
+        },
+        {
+          "letter": "B",
+          "text": "Inductors",
+          "isCorrect": false,
+          "explanation": "Inductors: AC generators produce AC voltage through electromagnetic induction; inductors store energy in a magnetic field. Different roles and operations."
+        },
+        {
+          "letter": "C",
+          "text": "Capacitors",
+          "isCorrect": false,
+          "explanation": "Capacitors: AC generators generate AC voltage; capacitors store electrical energy temporarily. Separate purposes and behaviors."
+        },
+        {
+          "letter": "D",
+          "text": "Motor",
+          "isCorrect": true,
+          "explanation": "Converting energy from one form to another is the key to understanding the differences between electric motors and generators. An electric motor converts electricity into mechanical energy, providing a power source for machinery. A generator does the opposite of this, converting mechanical energy into electricity."
+        }
+      ],
+      "explanation": "Converting energy from one form to another is the key to understanding the differences between electric motors and generators. An electric motor converts electricity into mechanical energy, providing a power source for machinery. A generator does the opposite of this, converting mechanical energy into electricity. Hence, we can say AC generators are similar to motors.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "An alternating current is represented by the equation. I = 20sin100πt, its frequency is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as per the formula. 100π = 2πf 50 = f"
+        },
+        {
+          "letter": "B",
+          "text": "50 Hz",
+          "isCorrect": true,
+          "explanation": "This option is correct. The equation for the alternating current is given as: I = 20sin(100πt) In this equation, the angular frequency (ω) is represented by 100π, which corresponds to 2πf, where f is the frequency. We can solve for f by rearranging the equation: ω = 2πf 100π = 2πf 50 = f Therefore, the frequency of the alternating current is 50 Hz."
+        },
+        {
+          "letter": "C",
+          "text": "20 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as per the formula. 100π = 2πf 50 = f"
+        },
+        {
+          "letter": "D",
+          "text": "80 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as per the formula. 100π = 2πf 50 = f"
+        }
+      ],
+      "explanation": "The explanation is given below:",
+      "explanationImage": null,
+      "hints": [
+        "I = 20sin100πt"
+      ]
+    },
+    {
+      "text": "The effective value of alternating current is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "√2 times its maximum value",
+          "isCorrect": false,
+          "explanation": "Ieff = Ipeak / √2"
+        },
+        {
+          "letter": "B",
+          "text": "1√2 times its maximum value",
+          "isCorrect": true,
+          "explanation": "The root mean square value of current or voltage is the effective value in the circuit. Ieff = Ipeak / √2 Ieff = Ipeak x 1/√2"
+        },
+        {
+          "letter": "C",
+          "text": "2 times its maximum value",
+          "isCorrect": false,
+          "explanation": "Ieff = Ipeak / √2"
+        },
+        {
+          "letter": "D",
+          "text": "1/2 times its maximum value",
+          "isCorrect": false,
+          "explanation": "Ieff = Ipeak / √2"
+        }
+      ],
+      "explanation": "The explanation is:",
+      "explanationImage": null,
+      "hints": [
+        "effective value"
+      ]
+    },
+    {
+      "text": "A sinusoidal voltage V has an rms value of 100 V. Its maximum value is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 V",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as per the formula. 100 x √2 = Ipeak Ipeak = 141 V"
+        },
+        {
+          "letter": "B",
+          "text": "707 V",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as per the formula. 100 x √2 = Ipeak Ipeak = 141 V"
+        },
+        {
+          "letter": "C",
+          "text": "70.7 V",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as per the formula. 100 x √2 = Ipeak Ipeak = 141 V"
+        },
+        {
+          "letter": "D",
+          "text": "141 V",
+          "isCorrect": true,
+          "explanation": "This option is correct. Irms = Ipeak / √2 100 = Ipeak / √2 100 x √2 = Ipeak Ipeak = 141 V"
+        }
+      ],
+      "explanation": "Explanation is given below:",
+      "explanationImage": null,
+      "hints": [
+        "sinusoidal voltage V",
+        "rms value of 100 V"
+      ]
+    },
+    {
+      "text": "In an A.C circuit with resistor only, the current and voltage have a phase angle of:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "90o",
+          "isCorrect": false,
+          "explanation": "This option is not correct. In an A.C circuit with only a resistor, the current and voltage are in phase, meaning they reach their peak values and change direction at the same time. There is no 90° phase angle between them."
+        },
+        {
+          "letter": "B",
+          "text": "0o",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. In a purely resistive A.C circuit, the current and voltage are in phase with each other, meaning they are synchronized and have no phase difference. They reach their maximum values and change direction simultaneously."
+        },
+        {
+          "letter": "C",
+          "text": "180o",
+          "isCorrect": false,
+          "explanation": "This option is not correct. A 180° phase angle would indicate that the current and voltage are perfectly out of phase, with the current leading or lagging the voltage by half a cycle. In a purely resistive circuit, they are in phase, not 180° out of phase."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "While some A.C circuits exhibit phase differences between current and voltage, in a circuit with only a resistor, the correct answer is 0°. There is indeed a phase angle of 0° between the current and voltage in this case.So, in an A.C circuit with a resistor only, the current and voltage have a phase angle of 0°, which means they are in phase with each other."
+        }
+      ],
+      "explanation": "This is the correct answer. In a purely resistive A.C circuit, the current and voltage are in phase with each other, meaning they are synchronized and have no phase difference. They reach their maximum values and change direction simultaneously.",
+      "explanationImage": null,
+      "hints": [
+        "A.C circuit",
+        "resistor only",
+        "current and voltage have a phase angle"
+      ]
+    },
+    {
+      "text": "In an A.C circuit with capacitor only, the current:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Leads the voltage by 90o or π/2",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. In a circuit with only a capacitor, the current leads the voltage by 90 degrees (π/2 radians) in phase. This phase relationship occurs because the voltage across a capacitor leads to a change in the rate of charge or discharge of the capacitor, causing the current to be out of phase with the voltage."
+        },
+        {
+          "letter": "B",
+          "text": "Lags behind voltage by 90o or π/2",
+          "isCorrect": false,
+          "explanation": "This is not correct. In a pure capacitor circuit, the current leads the voltage by 90°, as explained in option (a). Lags behind means a 90° phase shift in the opposite direction, which is not the case."
+        },
+        {
+          "letter": "C",
+          "text": "In phase with voltage",
+          "isCorrect": false,
+          "explanation": "This option is not correct. In a circuit with only a capacitor, the current and voltage are not in phase. As mentioned, the current leads the voltage by 90°."
+        },
+        {
+          "letter": "D",
+          "text": "None of the above",
+          "isCorrect": false,
+          "explanation": "The correct answer is not \"None of the above.\" The correct answer is option (a), indicating that the current leads the voltage by 90° in a capacitor-only A.C circuit. So, in an A.C circuit with a capacitor only, the current leads the voltage by 90° or π/2 radians in phase."
+        }
+      ],
+      "explanation": "This is the correct answer. In a circuit with only a capacitor, the current leads the voltage by 90 degrees (π/2 radians) in phase. This phase relationship occurs because the voltage across a capacitor leads to a change in the rate of charge or discharge of the capacitor, causing the current to be out of phase with the voltage.",
+      "explanationImage": null,
+      "hints": [
+        "A.C circuit with capacitor only",
+        "current"
+      ]
+    },
+    {
+      "text": "In a step-down transformer, the current in the primary coil is _ than that in the secondary coil.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "More",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Equal",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Less",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "In a step-down transformer, the voltage in the primary coil is higher than in the secondary coil; the final voltage is reduced. Since current and voltage are inversely related, the current in the primary coil will be less as compared to the current in the secondary coil.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "At higher frequency of the alternating current, the capacitive reactance XC:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increases",
+          "isCorrect": false,
+          "explanation": "This option is not correct. Capacitive reactance (Xc) decreases as the frequency of alternating current increases. The relationship between capacitive reactance and frequency is inversely proportional. As the frequency goes up, the capacitive reactance goes dow"
+        },
+        {
+          "letter": "B",
+          "text": "Decreases",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. At higher frequencies, capacitive reactance decreases. The formula for capacitive reactance is Xc = 1 / (2πfC), where f is the frequency and C is the capacitance. As f increases, Xc decreases."
+        },
+        {
+          "letter": "C",
+          "text": "Remains the same",
+          "isCorrect": false,
+          "explanation": "This option is not correct. Capacitive reactance changes with the frequency of the alternating current. It is not constant."
+        },
+        {
+          "letter": "D",
+          "text": "Increases only when the voltage increases",
+          "isCorrect": false,
+          "explanation": "This option is not correct. The frequency of the alternating current is the primary factor affecting capacitive reactance. While voltage may affect the current in the circuit, it does not directly impact capacitive reactance. In summary, as the frequency of the alternating current increases, the capacitive reactance decreases, making option (b) the correct answer."
+        }
+      ],
+      "explanation": "This is the correct answer. At higher frequencies, capacitive reactance decreases. The formula for capacitive reactance is Xc = 1 / (2πfC), where f is the frequency and C is the capacitance. As f increases, Xc decreases.",
+      "explanationImage": null,
+      "hints": [
+        "higher frequency",
+        "alternating current",
+        "capacitive reactance"
+      ]
+    },
+    {
+      "text": "Current that fluctuates periodically with time is ------?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "DC current",
+          "isCorrect": false,
+          "explanation": "DC current does not change its direction with time, which is inconsistent with the given statement. Hence, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "BC current",
+          "isCorrect": false,
+          "explanation": "There is no such current as BC current. Hence, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "AC current",
+          "isCorrect": true,
+          "explanation": "AC current is that current that flows in two directions, and changes its direction over time. Hence, we may say that it fluctuates periodically, with a definite pattern. It perfectly compliments the given statement, and is the correct option."
+        },
+        {
+          "letter": "D",
+          "text": "Magnetic current",
+          "isCorrect": false,
+          "explanation": "No current is identified as magnetic current. Hence, this option is also incorrect."
+        }
+      ],
+      "explanation": "Alternating current is an electric current that periodically reverses direction and changes its magnitude continuously with time in contrast to direct current which flows only in one direction. Hence, option C is correct.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The principle of a capacitor is based on which of the following facts?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2011,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The potential of a conductor increases when the charge on it decreases, but this affects the charge stored in it.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because an increase in potential with a decrease in charge does not align with the function of a capacitor, which aims to reduce potential without affecting the stored charge."
+        },
+        {
+          "letter": "B",
+          "text": "The potential of a conductor is greatly reduced when the charge on it increases.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the potential of a conductor decreases without a change in the charge, which is achieved by the presence of another conductor."
+        },
+        {
+          "letter": "C",
+          "text": "The potential of a conductor increases without affecting the charge stored in it.",
+          "isCorrect": false,
+          "explanation": "This is incorrect as the primary principle of a capacitor involves reducing potential, not increasing it, while maintaining the charge."
+        },
+        {
+          "letter": "D",
+          "text": "The potential of a conductor is greatly reduced without affecting the charge stored in it.",
+          "isCorrect": true,
+          "explanation": "This is the correct option. Capacitors work by reducing the potential of a conductor while maintaining its charge by introducing another conductor, which can be earth-connected or oppositely charged, nearby."
+        },
+        {
+          "letter": "E",
+          "text": "The potential of a conductor increases as the charge on it increases.",
+          "isCorrect": false,
+          "explanation": "This is incorrect as an increase in potential with an increase in charge does not align with how capacitors operate to store charge effectively."
+        }
+      ],
+      "explanation": "The correct answer is that the potential of a conductor is greatly reduced without affecting the charge in it. This is the fundamental principle behind capacitors, which are used to store electric charge by reducing the electric potential of a conductor while maintaining its charge. This is achieved by introducing another conductor, either earth-connected or oppositely charged, in proximity to the first. Other options are incorrect because they either involve increasing potential or affecting the charge, which do not describe how capacitors function.",
+      "explanationImage": null,
+      "hints": [
+        "principle",
+        "capacitor",
+        "potential"
+      ]
+    },
+    {
+      "text": "The number of diodes in bridge rectifier is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "isCorrect": true,
+          "explanation": "It is a fact that a bridge rectifier has 4 diodes. It is also called a full wave rectifier."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "This is an incorrect optionIt is a fact that a bridge rectifier has 4 diodes. It is also called a full wave rectifier."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "This is an incorrect optionIt is a fact that a bridge rectifier has 4 diodes. It is also called a full wave rectifier."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "This is an incorrect option.It is a fact that a bridge rectifier has 4 diodes. It is also called a full wave rectifier."
+        }
+      ],
+      "explanation": "A bridge rectifier consists of 4 diodes arranged in a bridge configuration.Working of a Bridge Rectifier:The four diodes are connected in such a way that they convert AC (alternating current) to DC (direct current).During the positive half-cycle of the AC input, two diodes conduct, allowing current to flow in one direction.During the negative half-cycle, the other two diodes conduct, maintaining the same direction of current flow through the load.Thus, a bridge rectifier requires 4 diodes to function properly.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The variation in current with time of an alternating current is shown by a sinusoidal wave in the given figure. The root mean square (rms) current for this alternating current is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Io",
+          "isCorrect": false,
+          "explanation": "This option indicates the peak current, Io, which is the maximum value of current in a sinusoidal AC waveform. The rms current is defined differently and is always less than the peak current in an AC circuit."
+        },
+        {
+          "letter": "B",
+          "text": "√2Io",
+          "isCorrect": false,
+          "explanation": "This represents the peak current multiplied by the square root of 2, which does not correspond to the rms current. The rms value is actually smaller than the peak value, not larger."
+        },
+        {
+          "letter": "C",
+          "text": "Io/√2",
+          "isCorrect": true,
+          "explanation": "In an alternating current (AC) circuit, the current varies sinusoidally with time and can be represented by a sine wave. The root mean square (rms) current is a measure of the effective or equivalent steady direct current (DC) value that would produce the same amount of heat in a given resistor. The rms current (Irms) can be calculated as the peak current (Ipeak) divided by the square root of 2: Irms = Ipeak / √2 This means that the rms current is equal to the peak current divided by the square root of 2. In summary, the correct option is C, I/√2, which represents the root mean square (rms) current for the given sinusoidal alternating current waveform."
+        },
+        {
+          "letter": "D",
+          "text": "2Io",
+          "isCorrect": false,
+          "explanation": "This option represents twice the peak current, which is incorrect for rms current calculation. The rms current is less than the peak current, not more."
+        }
+      ],
+      "explanation": "The root mean square (rms) current for a sinusoidal alternating current is given by the formula Irms = Io/√2, where Io is the peak current. This formula arises because the rms value is a measure of the effective current that produces the same power in a resistor as a direct current of the same value. Therefore, option C is correct. Option A is incorrect because it gives the peak current, not the rms current. Option B incorrectly suggests that the rms value is larger than the peak current, which is not true. Option D suggests twice the peak current, which is not a standard calculation for rms current in a sinusoidal waveform.",
+      "explanationImage": null,
+      "hints": [
+        "alternating current",
+        "sinusoidal wave"
+      ]
+    },
+    {
+      "text": "The phase at negative peak of AC voltage is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2017,
+      "options": [
+        {
+          "letter": "A",
+          "text": "π/2",
+          "isCorrect": false,
+          "explanation": "π/2 or 90° is the positive peak as indicated, so this option is incorrect"
+        },
+        {
+          "letter": "B",
+          "text": "π",
+          "isCorrect": false,
+          "explanation": "π or 180° is the phase when there is zero emf, hence we rule out this option."
+        },
+        {
+          "letter": "C",
+          "text": "3π/2",
+          "isCorrect": true,
+          "explanation": "The AC voltage is in the form of a sinusoidal wave shown below.270 degree/ 3π/2 rad is the negative peak as indicated. Option C is correct."
+        },
+        {
+          "letter": "D",
+          "text": "2π/3",
+          "isCorrect": false,
+          "explanation": "2π/3 rad, is equivalent to 120°, is the positive phase. Hence this option is incorrect."
+        }
+      ],
+      "explanation": "Given the AC voltage is in the form of a sinusoidal wave starting from 0, the positive peak is at π/2 and thus the negative peak is at 3π/2. The AC voltage is in the form of a sinusoidal wave shown below. 270°/ 3π/2 rad is the negative peak as indicated. Option C is correct.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The relation between an alternative current voltage source and time in international system units is:V = 120 sin (100𝜋t) cos (100𝜋t) volt value of peak velocity and frequency will be respectively:-",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2017,
+      "options": [
+        {
+          "letter": "A",
+          "text": "120 volt and 100 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect.V=120sin(100πt)cos(100πt)VWe know: sin2𝜭=2sin𝜭cos𝜭V= 60sin2(100πt)V =60sin200πtVLet's compare it with standard equation:V=V0sinωtHence peak velocity V0 is= 60V. ω=200πWe know frequency f=ω/2π =200π/2π =100Hz ans"
+        },
+        {
+          "letter": "B",
+          "text": "120/√2 volt and 100 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect.V=120sin(100πt)cos(100πt)VWe know: sin2𝜭=2sin𝜭cos𝜭V= 60sin2(100πt)V =60sin200πtVLet's compare it with standard equation:V=V0sinωtHence peak velocity V0 is= 60V. ω=200πWe know frequency f=ω/2π =200π/2π =100Hz ans"
+        },
+        {
+          "letter": "C",
+          "text": "60 volt and 200 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect.V=120sin(100πt)cos(100πt)VWe know: sin2𝜭=2sin𝜭cos𝜭V= 60sin2(100πt)V =60sin200πtVLet's compare it with standard equation:V=V0sinωtHence peak velocity V0 is= 60V.ω=200πWe know frequency f=ω/2π =200π/2π =100Hz ans"
+        },
+        {
+          "letter": "D",
+          "text": "60 volt and 100 Hz",
+          "isCorrect": true,
+          "explanation": "V=120sin(100πt)cos(100πt)VWe know: sin2𝜭=2sin𝜭cos𝜭V= 60sin2(100πt)V =60sin200πtVLet's compare it with standard equation:V=V0sinωtHence peak velocity V0 is= 60V. ansω=200πWe know frequency f=ω/2π =200π/2π =100Hz ansThe answer C in the key is incorrect, it should be D"
+        }
+      ],
+      "explanation": "Explanation is given below.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Instantaneous emf at instant t is ε20 sin (100πt). The frequency of alternative current is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 Hz",
+          "isCorrect": false,
+          "explanation": "this option is not correct."
+        },
+        {
+          "letter": "B",
+          "text": "200Hz",
+          "isCorrect": false,
+          "explanation": "this option is not correct."
+        },
+        {
+          "letter": "C",
+          "text": "50 Hz",
+          "isCorrect": true,
+          "explanation": "If we compare the given equation with the formula V=Vosin(wt+ϕ),Vo=20, ϕ=0, w=100. The formula for angular velocity w=2πf100 = 2πfF = 100/2πF = 50 Hz"
+        },
+        {
+          "letter": "D",
+          "text": "150Hz",
+          "isCorrect": false,
+          "explanation": "this option is not correct."
+        }
+      ],
+      "explanation": "If we compare the given equation with the formula V=Vosin(wt+ϕ),Vo=20, ϕ=0, w=100. The formula for angular velocity w=2πf100 = 2πfF = 100/2πF = 50 Hz",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "An AC voltage measures V° volts in a circuit. Its peak value is given by:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2000,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vo",
+          "isCorrect": false,
+          "explanation": "a) Vo: This option is not correct. The peak value of an AC voltage is not simply the same as the root mean square (RMS) value of the voltage (V°). It is a different value that represents the maximum positive or negative amplitude of the alternating voltage waveform."
+        },
+        {
+          "letter": "B",
+          "text": "Vo underoot 2",
+          "isCorrect": true,
+          "explanation": "b) Vo/ underoot2: This option is correct. The peak value of an AC voltage is typically given by V° divided by the square root of 2 (approximately 1.414). Mathematically, the peak value (V_peak) is related to the RMS value (V_RMS) by the equation V_peak = V_RMS × √2. Therefore, the peak value of the AC voltage in this context would be V°/√2, which is equivalent to Vo/2."
+        },
+        {
+          "letter": "C",
+          "text": "2/Vo",
+          "isCorrect": false,
+          "explanation": "c) 2/Vo: This option is not correct. The peak value of an AC voltage is not related to the reciprocal of the RMS value of the voltage."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "d) 2: This option is not correct. The value of 2 is not directly related to the peak value of an AC voltage. The peak value is determined by dividing the RMS value by the square root of 2, as explained in option b."
+        }
+      ],
+      "explanation": "b) Vo/2: This option is correct. The peak value of an AC voltage is typically given by V° divided by the square root of 2 (approximately 1.414). Mathematically, the peak value (V_peak) is related to the RMS value (V_RMS) by the equation V_peak = V_RMS × √2. Therefore, the peak value of the AC voltage in this context would be V°/√2, which is equivalent to Vo/2.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A/C current can be produced by:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2006,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Turbine",
+          "isCorrect": false,
+          "explanation": "Incorrect. A turbine is a mechanical device that converts energy from fluid flow into mechanical work, but it does not directly produce electrical current."
+        },
+        {
+          "letter": "B",
+          "text": "Motor",
+          "isCorrect": false,
+          "explanation": "Incorrect. A motor is a device that converts electrical energy into mechanical energy, typically used to drive machinery."
+        },
+        {
+          "letter": "C",
+          "text": "Generator",
+          "isCorrect": true,
+          "explanation": "Correct. A generator converts mechanical energy into electrical energy. It uses a rotating magnetic field to induce an alternating current in the windings of the stator."
+        },
+        {
+          "letter": "D",
+          "text": "Transformer",
+          "isCorrect": false,
+          "explanation": "Incorrect. A transformer transfers electrical energy between circuits through electromagnetic induction and does not produce current by itself."
+        },
+        {
+          "letter": "E",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "Incorrect. There is a device that produces A/C current, namely the generator."
+        }
+      ],
+      "explanation": "The correct answer is a generator. A generator is designed to convert mechanical energy into electrical energy by using a rotating magnetic field to induce an alternating current (A/C) in the stator. This is the principle behind A/C current production in power generation. Other devices, such as turbines and motors, have different functions: turbines convert fluid energy into mechanical work, motors convert electrical energy into mechanical energy, and transformers transfer electrical energy between circuits.",
+      "explanationImage": null,
+      "hints": [
+        "A/C",
+        "current",
+        "produced"
+      ]
+    },
+    {
+      "text": "Conversion of alternating current into direct current is called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2012,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rectification",
+          "isCorrect": true,
+          "explanation": "Rectification is the process of converting alternating current (AC) to direct current (DC), typically using a device called a rectifier, commonly found in power supplies."
+        },
+        {
+          "letter": "B",
+          "text": "Amplification",
+          "isCorrect": false,
+          "explanation": "Amplification involves boosting the power, voltage, or current level of a signal. It does not change AC to DC."
+        },
+        {
+          "letter": "C",
+          "text": "Oscillation",
+          "isCorrect": false,
+          "explanation": "Oscillation refers to the repetitive variation between different states or conditions, often seen in AC signaling, not in conversion to DC."
+        },
+        {
+          "letter": "D",
+          "text": "Regeneration",
+          "isCorrect": false,
+          "explanation": "Regeneration is unrelated to electrical processes in this context. It typically refers to biological recovery or renewal."
+        }
+      ],
+      "explanation": "Rectification is the correct answer because it specifically refers to the conversion of alternating current (AC) into direct current (DC). This process is essential in many electronic devices that require a stable DC supply from an AC source. Amplification is incorrect because it pertains to increasing the strength of a signal, not converting it. Oscillation is incorrect as it describes a repetitive back-and-forth motion, not a conversion process. Regeneration is incorrect because it is not related to electrical circuitry or processes.",
+      "explanationImage": null,
+      "hints": [
+        "conversion",
+        "alternating",
+        "current"
+      ]
+    },
+    {
+      "text": "In alternating current the average value of current in the cycle is;",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2010,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "The average current value in a complete cycle of AC waveform, such as a sine wave, is zero because the positive and negative parts of the waveform cancel each other out."
+        },
+        {
+          "letter": "B",
+          "text": "Constant",
+          "isCorrect": false,
+          "explanation": "The average value of current is not constant in AC because it changes continuously with time."
+        },
+        {
+          "letter": "C",
+          "text": "Positive",
+          "isCorrect": false,
+          "explanation": "The average value of current can be positive or negative depending on the waveform. However, the average current value in a complete cycle is always zero."
+        },
+        {
+          "letter": "D",
+          "text": "Maximum",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect. The maximum value of current is not the same as the average value of current. The maximum value of current is the peak value of the waveform, while the average value of current is the mean value of the waveform over a complete cycle."
+        }
+      ],
+      "explanation": "The average current value in a complete cycle of AC waveform, such as a sine wave, is zero because the positive and negative parts of the waveform cancel each other out.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The mean value of sinusoidal emf over cycle is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2009,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maximum",
+          "isCorrect": false,
+          "explanation": "Maximum: The mean value of a sinusoidal electromotive force (emf) over a cycle is not the maximum value. The mean value represents the average value of the emf over a complete cycle and is generally not equal to the maximum value."
+        },
+        {
+          "letter": "B",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "Zero: The mean value of a sinusoidal emf over a cycle is zero. This is because the positive and negative values of the sinusoidal wave cancel each other out when averaged over a complete cycle."
+        },
+        {
+          "letter": "C",
+          "text": "Maximum and minimum",
+          "isCorrect": false,
+          "explanation": "Maximum and minimum: The mean value is neither the maximum nor the minimum value of the sinusoidal emf. It is zero, as explained above."
+        },
+        {
+          "letter": "D",
+          "text": "No change in emf",
+          "isCorrect": false,
+          "explanation": "No change in emf: The mean value does not indicate whether there is a change in the emf. It represents the average value over a cycle, irrespective of any changes that may occur."
+        }
+      ],
+      "explanation": "Zero: The mean value of a sinusoidal emf over a cycle is zero. This is because the positive and negative values of the sinusoidal wave cancel each other out when averaged over a complete cycle. Therefore, the correct option is \"Zero\" as the mean value of a sinusoidal emf over a cycle is zero.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In power loss in a capacitor in A.C circuit is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2009,
+      "options": [
+        {
+          "letter": "A",
+          "text": "P > V°l°",
+          "isCorrect": false,
+          "explanation": "P > V°l°: This statement implies that power loss in a capacitor is greater than the product of voltage and current, which is not accurate. Power loss in a capacitor in an AC circuit is not greater than the product of voltage and current."
+        },
+        {
+          "letter": "B",
+          "text": "<P>= V°I° sinθl°",
+          "isCorrect": false,
+          "explanation": "<P> = V°I° sinθl°: This statement represents the true power loss in a capacitor in an AC circuit. It is given by the product of voltage, current, sine of the phase angle (θ), and the length of time (l) for which the power is dissipated."
+        },
+        {
+          "letter": "C",
+          "text": "<P>= V°I° Cos θl",
+          "isCorrect": false,
+          "explanation": "<P> = V°I° Cos θl: This statement is incorrect. The correct formula for power loss in a capacitor in an AC circuit involves the sine of the phase angle (θ), not the cosine."
+        },
+        {
+          "letter": "D",
+          "text": "<P>= zero",
+          "isCorrect": true,
+          "explanation": "<P> = zero: This statement implies that the power loss in a capacitor in an AC circuit is zero. In purely inductive or purely capacitive circuit, power loss is zero."
+        }
+      ],
+      "explanation": "In purely inductive or purely capacitive circuit, power loss is zero.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The peak value of alternating current is 5√2 A. The mean square value of current will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "5A",
+          "isCorrect": true,
+          "explanation": "The mean square value (RMS value) of the current is calculated as: RMS value = Peak value / √2 = 5√2 / √2 = 5 A"
+        },
+        {
+          "letter": "B",
+          "text": "2.5A",
+          "isCorrect": false,
+          "explanation": "According to the solution, this option is not correct."
+        },
+        {
+          "letter": "C",
+          "text": "5√2 A",
+          "isCorrect": false,
+          "explanation": "According to the solution, this option is not correct."
+        },
+        {
+          "letter": "D",
+          "text": "52 A",
+          "isCorrect": false,
+          "explanation": "According to the solution, this option is not correct."
+        }
+      ],
+      "explanation": "The mean square value (RMS value) of the current is calculated as:RMS value = Peak value / √2= 5√2 / √2= 5 A Therefore, option a is correct.",
+      "explanationImage": null,
+      "hints": [
+        "peak",
+        "alternating",
+        "current",
+        "square",
+        "mean"
+      ]
+    },
+    {
+      "text": "The current which fluctuates from zero to maximum and maximum to zero is called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Steady current",
+          "isCorrect": false,
+          "explanation": "A steady current remains constant over time and does not fluctuate from zero to maximum or vice versa. It is incorrect in this context."
+        },
+        {
+          "letter": "B",
+          "text": "Direct current",
+          "isCorrect": false,
+          "explanation": "Direct current (DC) flows in one direction without reversing. While it doesn't fluctuate from zero to maximum and back to zero, it can vary in magnitude. It's not the correct answer in this case."
+        },
+        {
+          "letter": "C",
+          "text": "Alternate current",
+          "isCorrect": false,
+          "explanation": "Alternating current (AC) continuously changes direction, but it does not fluctuate from zero to maximum and back to zero; it oscillates between positive and negative values. It's not the correct answer."
+        },
+        {
+          "letter": "D",
+          "text": "Pulsating Direct current",
+          "isCorrect": true,
+          "explanation": "Pulsating direct current (PDC) fluctuates from zero to maximum and back to zero, resembling a pulse or wave. This option is correct because it describes the specific type of current that exhibits the mentioned behavior."
+        }
+      ],
+      "explanation": "Pulsating direct current (PDC) fluctuates from zero to maximum and back to zero, resembling a pulse or wave. This option is correct because it describes the specific type of current that exhibits the mentioned behavior.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "An A.C voltmeter reads 250 volts. The frequency of alternating is 50 Hz, the peak value of voltage is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3525.0 volts",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The calculation for peak voltage involves multiplying the RMS value by √2, not by such a large factor."
+        },
+        {
+          "letter": "B",
+          "text": "35.35 volts",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The peak voltage should be greater than the RMS value, not less."
+        },
+        {
+          "letter": "C",
+          "text": "353.5 volts",
+          "isCorrect": true,
+          "explanation": "This is correct. The peak voltage (Vpeak) can be calculated using the formula Vpeak = VRMS × √2 = 250 × √2 ≈ 353.5 volts."
+        },
+        {
+          "letter": "D",
+          "text": "3.535 volts",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The peak voltage should be much greater than this value, as it results from multiplying the RMS value by √2."
+        }
+      ],
+      "explanation": "The correct answer is 353.5 volts. The A.C. voltmeter reads the RMS (Root Mean Square) value of the voltage, which is 250 volts in this case. To find the peak voltage (Vpeak), we use the formula Vpeak = VRMS × √2. Thus, Vpeak = 250 × √2 ≈ 353.5 volts. This calculation shows why Option C is correct. Options A, B, and D are incorrect as they do not accurately apply this formula, leading to values that do not make sense in the context of RMS and peak relationships.",
+      "explanationImage": null,
+      "hints": [
+        "A.C voltmeter",
+        "250 volts",
+        "50 Hz"
+      ]
+    },
+    {
+      "text": "The coupling coefficient of perfectly coupled coil is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "A coupling coefficient of zero would mean that no magnetic flux from one coil links with the other coil, indicating no coupling at all, which contradicts the condition of perfectly coupled coils."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": true,
+          "explanation": "In a perfectly coupled coil, all the magnetic flux generated by one coil is linked with the other coil. This means that the coupling coefficient (k) between the two coils is equal to 1.A coupling coefficient of 1 indicates that all of the magnetic flux generated by one coil links with the other coil, so the two coils are perfectly coupled. In this case, the induced voltage in one coil is equal to the rate of change of magnetic flux in the other coil, according to Faraday's law of electromagnetic induction. This perfect coupling is ideal for applications such as transformers and inductors, where the goal is to transfer energy efficiently between two coils."
+        },
+        {
+          "letter": "C",
+          "text": "More than 1",
+          "isCorrect": false,
+          "explanation": "A coupling coefficient greater than 1 is not possible, as it would imply more than full transfer of magnetic flux, which is not physically feasible."
+        },
+        {
+          "letter": "D",
+          "text": "Infinite",
+          "isCorrect": false,
+          "explanation": "An infinite coupling coefficient is not possible as it does not reflect the physical reality of magnetic flux linkage between coils."
+        }
+      ],
+      "explanation": "The coupling coefficient (k) is a measure of how efficiently magnetic flux is transferred between two coils. In a perfectly coupled system, all the magnetic flux from one coil is coupled to the other, resulting in a coupling coefficient of 1. This is the ideal scenario for applications like transformers, where efficient energy transfer is desired.Option A: Zero - Incorrect, as a coefficient of zero means no flux linkage, which is the opposite of perfect coupling.Option C: More than 1 - Incorrect because a coefficient greater than 1 is not possible in reality, as it implies an unrealistic scenario of flux linkage.Option D: Infinite - Incorrect, as infinity is not a viable value for coupling coefficient in physical systems.",
+      "explanationImage": null,
+      "hints": [
+        "coupling",
+        "coefficient",
+        "perfectly"
+      ]
+    },
+    {
+      "text": "Identify the factor on which mutual inductance does not depend:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Relative orientation",
+          "isCorrect": false,
+          "explanation": "Relative orientation means the angle between both coils. Mutual inductance depends on relative orientation. Hence, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Relative separation of two coils",
+          "isCorrect": false,
+          "explanation": "Mutual inductance depends on the relative separation between two coils, because as relative separation changes, magnetic flux changes, and so does mutual inductance; hence, this option is also incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Reciprocity",
+          "isCorrect": true,
+          "explanation": "Reciprocity means that the mutual inductance between two coils is the same regardless of whether one is considered the primary or secondary coil. It is a property of mutual inductance, not a factor on which it depends. Hence, this option is correct."
+        },
+        {
+          "letter": "D",
+          "text": "Permeability of the core material",
+          "isCorrect": false,
+          "explanation": "The permeability of the core material determines how easily it is magnetized. Mutual inductance depends on the permeability of the core material; hence, this option is incorrect."
+        }
+      ],
+      "explanation": "Mutual inductance is a property that defines how effectively two coils can induce electromotive force in each other. It fundamentally does not depend on which coil is designated as primary or secondary, known as reciprocity. This characteristic is inherent and does not vary, making reciprocity the correct answer.Other factors like relative orientation, separation, and core material permeability affect the efficiency of magnetic coupling and thus influence mutual inductance. Therefore, these factors do affect mutual inductance, rendering them incorrect choices.",
+      "explanationImage": null,
+      "hints": [
+        "mutual inductance",
+        "does not depend"
+      ]
+    },
+    {
+      "text": "If peak voltage across a full wave rectifier is 20V then Vrms is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "7.07V",
+          "isCorrect": false,
+          "explanation": "7.07V: This option represents the RMS (Root Mean Square) voltage of 7.07V. However, since the given peak voltage is 20V, this option is not correct. The correct RMS voltage should be higher than half of the peak voltage."
+        },
+        {
+          "letter": "B",
+          "text": "14.14V",
+          "isCorrect": true,
+          "explanation": "This option represents the RMS voltage of 14.14V. It is the correct answer based on the given peak voltage of 20V. The RMS voltage is calculated by dividing the peak voltage by the square root of 2.To calculate the RMS (Root Mean Square) voltage across a full-wave rectifier, we can use the following formula:Vrms = Vpeak / √2Given that the peak voltage across the full-wave rectifier is 20V, we can calculate the RMS voltage as follows:Vrms = 20V / √2Vrms ≈ 14.14V"
+        },
+        {
+          "letter": "C",
+          "text": "16.8V",
+          "isCorrect": false,
+          "explanation": "16.8V: This option represents a value higher than the given peak voltage of 20V. It is not correct because the RMS voltage cannot be greater than the peak voltage."
+        },
+        {
+          "letter": "D",
+          "text": "12V",
+          "isCorrect": false,
+          "explanation": "12V: This option represents a value lower than the given peak voltage of 20V. It is not correct because the RMS voltage should be higher than half of the peak voltage."
+        }
+      ],
+      "explanation": "Option A: 7.07V: This option represents the RMS (Root Mean Square) voltage of 7.07V. However, since the given peak voltage is 20V, this option is not correct. The correct RMS voltage should be higher than half of the peak voltage.Option B: This option represents the RMS voltage of 14.14V. It is the correct answer based on the given peak voltage of 20V. The RMS voltage is calculated by dividing the peak voltage by the square root of 2.To calculate the RMS (Root Mean Square) voltage across a full-wave rectifier, we can use the following formula:Vrms = Vpeak / √2Given that the peak voltage across the full-wave rectifier is 20V, we can calculate the RMS voltage as follows:Vrms = 20V / √2Vrms ≈ 14.14VOption C: 16.8V: This option represents a value higher than the given peak voltage of 20V. It is not correct because the RMS voltage cannot be greater than the peak voltage.Option D: 12V: This option represents a value lower than the given peak voltage of 20V. It is not correct because the RMS voltage should be higher than half of the peak voltage.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Organic compounds are classified into:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2023,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both of these",
+          "isCorrect": false,
+          "explanation": "False."
+        },
+        {
+          "letter": "B",
+          "text": "Inorganic compounds and smelly compounds",
+          "isCorrect": false,
+          "explanation": "False.Organic compounds are classified into open and chain alicyclic compounds."
+        },
+        {
+          "letter": "C",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "False."
+        },
+        {
+          "letter": "D",
+          "text": "Open and chain alicyclic compounds",
+          "isCorrect": true,
+          "explanation": "Organic compounds are classified into open and chain alicyclic compounds."
+        }
+      ],
+      "explanation": "Organic compounds are classified into open and chain alicyclic compounds.",
+      "explanationImage": null,
+      "hints": [
+        "Organic compounds"
+      ]
+    },
+    {
+      "text": "Isopentane is an example of _ ?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aromatic compounds",
+          "isCorrect": false,
+          "explanation": "Aromatic compounds are those that are cyclic and have delocalized electrons in the ring. E.g, benzene."
+        },
+        {
+          "letter": "B",
+          "text": "Branched-chain compound",
+          "isCorrect": true,
+          "explanation": "Branched-chain compounds are those compounds that are not present in a straight line. Isopentane is not a ring compound or has a benzene ring hence it can only be a branched-chain compound."
+        },
+        {
+          "letter": "C",
+          "text": "Alicyclic compounds",
+          "isCorrect": false,
+          "explanation": "Alicyclic compounds are three or more atoms of carbon linked together in a ring."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "this is not the correct answer."
+        }
+      ],
+      "explanation": "Alicyclic compounds are 3 or more atoms of carbon are linked together in a ring. Aromatic compounds are those that are cyclic and have delocalized electrons in the ring = benzene. Hence isopentane is not a ring compound or has a benzene ring hence it can only be a branched-chain compound.",
+      "explanationImage": null,
+      "hints": [
+        "Isopentane"
+      ]
+    },
+    {
+      "text": "Isopentane is an example of _ ?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aromatic compounds",
+          "isCorrect": false,
+          "explanation": "Aromatic compound, any of a large class of unsaturated chemical compounds characterized by one or more planar rings of atoms joined by covalent bonds of two different kinds. The unique stability of these compounds is referred to as aromaticity. Benzene is the major representative of this class"
+        },
+        {
+          "letter": "B",
+          "text": "Branched chain compound",
+          "isCorrect": true,
+          "explanation": "A branched chain alkane is an alkane which has alkyl groups bonded to its central carbon chain. Branched alkanes contain only carbon and hydrogen (C and H) atoms, with carbons connected to other carbons by single bonds only, but the molecules contain branches (methyl, ethyl, etc.). Isopentane is a branched alkane with four carbon atoms in the main chain and one branching methyl group."
+        },
+        {
+          "letter": "C",
+          "text": "Alicyclic compounds",
+          "isCorrect": false,
+          "explanation": "Alicyclic compounds are organic compounds that are both aliphatic and cyclic. These are the saturated or unsaturated hydrocarbons containing non-aromatic rings of carbon atoms. Alicyclic compounds may have one or more aliphatic side chains attached. The simplest alicyclic compounds are the monocyclic cycloalkanes: cyclopropane, cyclobutane, cyclopentane, cyclohexane, cycloheptane, cyclooctane."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "this option is not correct."
+        }
+      ],
+      "explanation": "It is a branched-chain 5 carbon alkane.",
+      "explanationImage": null,
+      "hints": [
+        "Isopentane"
+      ]
+    },
+    {
+      "text": "Which of the following is aromatic?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anthracene",
+          "isCorrect": false,
+          "explanation": "Anthracene is a polycyclic aromatic hydrocarbon (PAH) composed of three fused benzene rings. It is a solid, crystalline compound commonly found in coal tar and is used in the production of dyes and in research as a fluorescence probe."
+        },
+        {
+          "letter": "B",
+          "text": "Naphthalene",
+          "isCorrect": false,
+          "explanation": "Naphthalene is also a polycyclic aromatic hydrocarbon (PAH) with two fused benzene rings. It is a white crystalline solid and is commonly used in mothballs and as a precursor in the synthesis of various organic compounds."
+        },
+        {
+          "letter": "C",
+          "text": "Phenol",
+          "isCorrect": false,
+          "explanation": "Phenol, also known as carbolic acid, is an aromatic compound that consists of a benzene ring bonded to a hydroxyl (-OH) group. It is a white crystalline solid with a distinct odor and is used in various industrial applications, including the production of plastics and pharmaceuticals."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": "All of the compounds listed are aromatic. An aromatic compound is a type of organic compound that contains a specific ring structure called an aromatic ring or benzene ring. Aromatic compounds are characterized by having a cyclic, planar, and fully conjugated system of π (pi) electrons, which imparts them with special stability and unique chemical properties."
+        }
+      ],
+      "explanation": "All of these compounds possess aromatic ring structures, making them aromatic compounds. Therefore, the correct answer is \"d) All of the above.\"",
+      "explanationImage": null,
+      "hints": [
+        "aromatic"
+      ]
+    },
+    {
+      "text": "When are the prefixes ortho, meta, and para used?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "In alkynes to identify the position of the triple bond",
+          "isCorrect": false,
+          "explanation": "They are not used to identify the position of the triple bond."
+        },
+        {
+          "letter": "B",
+          "text": "In arenes to identify the position of the first substitution",
+          "isCorrect": false,
+          "explanation": "They are not used to identify the position of the first substitution."
+        },
+        {
+          "letter": "C",
+          "text": "In arenes to identify the position of the second substitution",
+          "isCorrect": true,
+          "explanation": "The terms ortho, meta, and para are prefixes used in organic chemistry to indicate the position of non-hydrogen substituents on a hydrocarbon ring (benzene derivative). The prefixes derive from Greek words meaning correct/straight, following/after, and similar, respectively."
+        },
+        {
+          "letter": "D",
+          "text": "In all hydrocarbons to identify the position of the functional group",
+          "isCorrect": false,
+          "explanation": "They are not used to identify the position of the functional group."
+        }
+      ],
+      "explanation": "The terms ortho, meta, and para are prefixes used in organic chemistry to indicate the position of non-hydrogen substituents on a hydrocarbon ring (benzene derivative). The prefixes derive from Greek words meaning correct/straight, following/after, and similar, respectively.",
+      "explanationImage": null,
+      "hints": [
+        "prefixes"
+      ]
+    },
+    {
+      "text": "Which one of the following is not a organic compound?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Urea",
+          "isCorrect": false,
+          "explanation": "Urea is a organic compound. So , this is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Methane",
+          "isCorrect": false,
+          "explanation": "Methane is a organic compound. So , this is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Carbon dioxide",
+          "isCorrect": true,
+          "explanation": "Organic compounds of carbon are classified as organic when carbon is bound to hydrogen. Organic molecules must contain carbon atoms covalently bonded to hydrogen atoms."
+        },
+        {
+          "letter": "D",
+          "text": "Coal",
+          "isCorrect": false,
+          "explanation": "Coal is a organic compound. So , this is incorrect."
+        }
+      ],
+      "explanation": "Organic compounds of carbon are classified as organic when carbon is bound to hydrogen. Organic molecules must contain carbon atoms covalently bonded to hydrogen atoms.",
+      "explanationImage": null,
+      "hints": [
+        "not a organic compound"
+      ]
+    },
+    {
+      "text": "The break down of molecular ions from natural products give important information about?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Introduction to Fundamental Concepts of Chemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Size",
+          "isCorrect": false,
+          "explanation": "The breakdown of molecular ions does not directly provide information about the size of the natural product. Size is typically determined by other techniques such as mass spectrometry or molecular weight determination."
+        },
+        {
+          "letter": "B",
+          "text": "Position",
+          "isCorrect": false,
+          "explanation": "The position of specific atoms or functional groups within the natural product is not directly revealed through the breakdown of molecular ions. Methods like NMR spectroscopy are used for this purpose."
+        },
+        {
+          "letter": "C",
+          "text": "Shape",
+          "isCorrect": false,
+          "explanation": "The shape of a natural product's structure is not directly deduced from the molecular ion breakdown. Structural information requires more detailed analysis, such as X-ray crystallography or spectroscopic methods."
+        },
+        {
+          "letter": "D",
+          "text": "Structure",
+          "isCorrect": true,
+          "explanation": "D is correct as in “Mass Spectrometry”, large molecules are broken down into smaller unstable ions in the Ionization Chamber. These ions are then separated according to their mass to charge ratio by accelerating them and passing them through an electrical or a magnetic field. They are then detected by a detector. Results are displayed as a Spectra. The data is then correlated with atoms or molecules having known mass."
+        }
+      ],
+      "explanation": "D is correct as in “Mass Spectrometry”, large molecules are broken down into smaller unstable ions in the Ionization Chamber. These ions are then separated according to their mass to charge ratio by accelerating them and passing them through an electrical or a magnetic field. They are then detected by a detector. Results are displayed as a Spectra. The data is then correlated with atoms or molecules having known mass.",
+      "explanationImage": null,
+      "hints": [
+        "break down",
+        "molecular ions",
+        "natural products"
+      ]
+    },
+    {
+      "text": "Organic compounds are _?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inorganic",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Polar",
+          "isCorrect": false,
+          "explanation": "Polar compounds have a net electrical charge, and they dissolve well in water."
+        },
+        {
+          "letter": "C",
+          "text": "Ionic",
+          "isCorrect": false,
+          "explanation": "Ionic compounds are a type of polar compound that are made up of positively and negatively charged ions."
+        },
+        {
+          "letter": "D",
+          "text": "Non-polar",
+          "isCorrect": true,
+          "explanation": "The electronegativity of carbon is 2.55 and of hydrogen is 2.2, the difference between them is 0.33. If the difference of electronegativities is less than 0.5, then the compound/bond is \"non-polar\". Hence, hydrocarbons are \"non-polar\"."
+        }
+      ],
+      "explanation": "The electronegativity of carbon is 2.55 and of hydrogen is 2.2, the difference between them is 0.33. If the difference of electronegativities is less than 0.5, then the compound/bond is \"non-polar\". Hence, hydrocarbons are \"non-polar\".",
+      "explanationImage": null,
+      "hints": [
+        "Organic compounds"
+      ]
+    },
+    {
+      "text": "The main reason for large number of organic compound is:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Isomerism",
+          "isCorrect": false,
+          "explanation": "Isomerism refers to the existence of compounds with the same chemical formula but different structural arrangements. While this contributes to diversity, it is not the primary reason for the sheer number of organic compounds."
+        },
+        {
+          "letter": "B",
+          "text": "Complexity of structure",
+          "isCorrect": false,
+          "explanation": "While some organic compounds can be structurally complex, complexity alone does not account for the vast number of organic compounds."
+        },
+        {
+          "letter": "C",
+          "text": "Catenation",
+          "isCorrect": true,
+          "explanation": "Catenation is the ability of carbon atoms to form long chains and rings by bonding with each other. This unique property is the primary reason for the large number of organic compounds."
+        },
+        {
+          "letter": "D",
+          "text": "Homologous series",
+          "isCorrect": false,
+          "explanation": "A homologous series is a group of organic compounds with similar structures that differ by a constant unit, such as CH2. They contribute to diversity, but do not explain the overall quantity of organic compounds."
+        }
+      ],
+      "explanation": "Catenation is the unique ability of carbon atoms to form strong covalent bonds with other carbon atoms, creating long chains and complex rings. This property is the fundamental reason for the immense diversity and sheer number of organic compounds.",
+      "explanationImage": null,
+      "hints": [
+        "large",
+        "number"
+      ]
+    },
+    {
+      "text": "Which one of them is used as an automobile antifreeze?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ethanol",
+          "isCorrect": false,
+          "explanation": "Ethanol is not used as automobile antifreeze. Ethanol is a type of alcohol that is commonly used as a fuel additive or solvent."
+        },
+        {
+          "letter": "B",
+          "text": "Ethene",
+          "isCorrect": false,
+          "explanation": "Ethene is not used as an automobile antifreeze because it is a gas at room temperature and pressure and does not have the necessary properties for use as an antifreeze."
+        },
+        {
+          "letter": "C",
+          "text": "Ethylene glycol",
+          "isCorrect": true,
+          "explanation": "Ethylene glycol (antifreeze) is used in the cooling of a car radiator during the winter because it has a much lower freezing point than water. Its role in an automobile is to absorb heat from the engine"
+        },
+        {
+          "letter": "D",
+          "text": "Propene",
+          "isCorrect": false,
+          "explanation": "Propene is not used as automobile antifreeze. Propene is a hydrocarbon that is used as a feedstock for the production of plastics and other chemicals."
+        }
+      ],
+      "explanation": "Option A: Ethanol is not used as automobile antifreeze. Ethanol is a type of alcohol that is commonly used as a fuel additive or solvent. Option B: Ethene is not used as an automobile antifreeze because it is a gas at room temperature and pressure and does not have the necessary properties for use as an antifreeze. Option C: Ethylene glycol (antifreeze) is used in the cooling of a car radiator during the winter because it has a much lower freezing point than water. Its role in an automobile is to absorb heat from the engine. Option D: Propene is not used as automobile antifreeze. Propene is a hydrocarbon that is used as a feedstock for the production of plastics and other chemicals.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The compounds which belong to the same functional group form a _.",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Class",
+          "isCorrect": false,
+          "explanation": "In chemistry, \"class\" is a general term used to categorize chemical compounds based on their properties or structures. While it's a broad term, it doesn't specifically refer to compounds that belong to the same functional group."
+        },
+        {
+          "letter": "B",
+          "text": "Group",
+          "isCorrect": false,
+          "explanation": "\"Group\" is a general term that can refer to a collection of elements or compounds that share certain similarities. In this context, it could be understood as a collection of compounds with a common functional group, but it's not a specific term for this concept."
+        },
+        {
+          "letter": "C",
+          "text": "Homologous series",
+          "isCorrect": true,
+          "explanation": "Correct! Compounds that belong to the same functional group and have a similar chemical structure, with the same general formula, are known as a homologous series. They exhibit similar chemical properties and show a gradual change in physical properties as the number of carbon atoms increases."
+        },
+        {
+          "letter": "D",
+          "text": "None of these options is correct",
+          "isCorrect": false,
+          "explanation": "This option is incorrect since the correct answer is option c) \"Homologous series.\""
+        }
+      ],
+      "explanation": "The compounds which belong to the same functional group form a homologous series. A homologous series is a sequence of compounds that share the same functional group and have similar chemical properties.",
+      "explanationImage": null,
+      "hints": [
+        "functional group"
+      ]
+    },
+    {
+      "text": "In a homologous series, adjacent members differ by a _ unit?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "CH3",
+          "isCorrect": false,
+          "explanation": "If the members of a homologous series differ by a CH3 unit, it means that each successive member of the series has one additional methyl group (CH3) compared to the previous member."
+        },
+        {
+          "letter": "B",
+          "text": "CH2",
+          "isCorrect": true,
+          "explanation": "If the members of a homologous series differ by a CH2 unit, it means that each successive member of the series has one additional methylene group (CH2) compared to the previous member."
+        },
+        {
+          "letter": "C",
+          "text": "CH",
+          "isCorrect": false,
+          "explanation": "If the members of a homologous series differ by a CH unit, it means that each successive member of the series has one additional methine group (CH) compared to the previous member."
+        },
+        {
+          "letter": "D",
+          "text": "CH4",
+          "isCorrect": false,
+          "explanation": "If the members of a homologous series differ by a CH4 unit, it means that each successive member of the series has one additional methane molecule (CH4) compared to the previous member."
+        }
+      ],
+      "explanation": "A homologous series is a sequence of compounds with the same functional group and similar chemical properties, in which each member differs from each other by a CH2 group which has a mass of 14 mass units.",
+      "explanationImage": null,
+      "hints": [
+        "homologous series"
+      ]
+    },
+    {
+      "text": "What is the predicted shape, bond angle, and hybridization for CH3+?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trigonal planar, 120°, sp2",
+          "isCorrect": true,
+          "explanation": "This option is correct as CH3+ is a carbocation with a positive charge on carbon, leading to sp2 hybridization. This results in a trigonal planar shape with bond angles of 120°."
+        },
+        {
+          "letter": "B",
+          "text": "Trigonal planar, 120°, sp3",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because sp3 hybridization implies tetrahedral geometry, not trigonal planar. CH3+ is sp2 hybridized."
+        },
+        {
+          "letter": "C",
+          "text": "Trigonal planar, 109.5°, sp2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because while the hybridization is correctly identified as sp2, the bond angle for a trigonal planar shape should be 120°, not 109.5°."
+        },
+        {
+          "letter": "D",
+          "text": "Trigonal pyramidal, 120°, sp2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because a trigonal pyramidal shape arises with sp3 hybridization and lone pairs, neither of which apply to CH3+. The correct shape is trigonal planar."
+        }
+      ],
+      "explanation": "The correct answer is Option A: Trigonal planar, 120°, sp2. A carbocation like CH3+ has sp2 hybridization because the carbon atom is bonded to three hydrogen atoms and has a vacant p orbital. This hybridization results in a trigonal planar geometry with bond angles of 120°. Other options are incorrect because they either state incorrect hybridization, bond angles, or molecular shapes: sp3 hybridization would imply a tetrahedral shape, and incorrect bond angles (109.5°) do not match the trigonal planar shape.",
+      "explanationImage": null,
+      "hints": [
+        "CH3+",
+        "shape"
+      ]
+    },
+    {
+      "text": "Ethyne molecule is formed when two carbon atoms joined together to form a sigma bond by:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2010,
+      "options": [
+        {
+          "letter": "A",
+          "text": "sp-s overlap",
+          "isCorrect": false,
+          "explanation": "sp-s overlap isnt present in ethyne molecule"
+        },
+        {
+          "letter": "B",
+          "text": "sp3-sp3 overlap",
+          "isCorrect": false,
+          "explanation": "sp3-sp3 overlap isnt present in ethyne molecule"
+        },
+        {
+          "letter": "C",
+          "text": "2py-2py overlap",
+          "isCorrect": false,
+          "explanation": "2py-2py forms a pi bond which isnt present in ethyne molecule"
+        },
+        {
+          "letter": "D",
+          "text": "sp-sp overlap",
+          "isCorrect": true,
+          "explanation": "ethyne has sp-sp bonds (fact)"
+        }
+      ],
+      "explanation": "A is incorrect as sp-s overlap isnt present in ethyne molecule.B is incorrect as sp3-sp3 overlap isnt present in ethyne molecule.C is incorrect as 2py-2py forms a pi bond which isnt present in ethyne molecule.D is correct as ethyne has sp-sp bonds (fact)",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Choose the type of hybridization of carbon atoms in cyclopropane and the bond angle C–C–C.",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sp3, 109.5*",
+          "isCorrect": false,
+          "explanation": "In a tetrahedral molecular geometry, a central atom is located at the center with four substituents that are located at the corners of a tetrahedron. The bond angles are cos−1(−1⁄3) = 109.4712206... ° ≈ 109.5° when all four substituents are the same, as in methane (CH 4) as well as its heavier analogs. Methane has a 109.5-degree bond angle and is tetrahedral"
+        },
+        {
+          "letter": "B",
+          "text": "Sp3, 60*",
+          "isCorrect": true,
+          "explanation": "Cyclopropane has carbons with four bonds, hence they are SP3, but with bond distances less than normal alkanes and C-C-C bond angles of 60 degrees and H-C-H angles of 120 degrees. They are a special case as usually SP3 hybridization displays 109.5-degree angles."
+        },
+        {
+          "letter": "C",
+          "text": "Sp2, 120*",
+          "isCorrect": false,
+          "explanation": "Mixing and reacting 1s and 2p orbital of the same atom of nearly the same energies to form three new sp2 hybrid orbitals with equal energies, maximum symmetry, and definite orientation in space is called sp2 hybridization. For example, the formation of an ethylene molecule. It has a 120-degree bond angle"
+        },
+        {
+          "letter": "D",
+          "text": "Sp2, 107*",
+          "isCorrect": false,
+          "explanation": "The NH3 bond angle is 107 degrees because the hydrogen atoms are repelled by the lone pair of electrons on the Nitrogen atom. The central atom in ammonia (NH3), which is nitrogen, is the one that undergoes hybridization to give sp3 hybridized molecules."
+        }
+      ],
+      "explanation": "Cyclopropane has carbons with four bonds, hence they are SP3, but with bond distances less than normal alkanes and C-C-C bond angles of 60 degrees and H-C-H angles of 120 degrees. They are a special case as usually SP3 hybridization displays 109.5-degree angles",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "CH3-CH2-CH2-CH2-COCH3 Is the functional isomer of",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2023,
+      "options": [
+        {
+          "letter": "A",
+          "text": "CH3 CH2 CH2 CH2 CH2 CHO",
+          "isCorrect": true,
+          "explanation": "This is the functional isomer of CH3 CH2 CH2 CH2 COCH3, as explained previously. Both molecules have the same carbon skeleton (six carbons) and the same number of hydrogen and oxygen atoms, but the functional groups differ."
+        },
+        {
+          "letter": "B",
+          "text": "CH3CH2CH(OH)CH2CH3",
+          "isCorrect": false,
+          "explanation": "This is an isomer, but not a functional isomer. It's a structural isomer because it has the same molecular formula but a different arrangement of the atoms. This molecule has a primary alcohol (OH) functional group in the middle of the carbon chain"
+        },
+        {
+          "letter": "C",
+          "text": "CH3CH2CH2CH2CH2COOH",
+          "isCorrect": false,
+          "explanation": "This is another incorrect option. It's also a structural isomer, not a functional isomer. This molecule has a carboxylic acid (COOH) functional group at the end of the carbon chain."
+        },
+        {
+          "letter": "D",
+          "text": "CH3CH=CHCH2CH2COCH3",
+          "isCorrect": false,
+          "explanation": "This is not a functional isomer. This molecule has a different functional group (alkene, C=C) compared to the original molecule (ketone) and a slightly different carbon skeleton due to the double bond. It's a combination of a structural isomer and a functional group difference."
+        }
+      ],
+      "explanation": "This is the functional isomer of CH3 CH2 CH2 CH2 COCH3, as explained previously. Both molecules have the same carbon skeleton (six carbons) and the same number of hydrogen and oxygen atoms, but the functional groups differ.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Organic compounds can be classified even based upon the function groups. Identify the one which is not a functional group?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Introduction to Fundamental Concepts of Chemistry",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Isocyanide",
+          "isCorrect": true,
+          "explanation": "Isocyanide is a compound and not a functional group."
+        },
+        {
+          "letter": "B",
+          "text": "Isocyano",
+          "isCorrect": false,
+          "explanation": "An isocyanide is an organic compound with the functional group –N +≡C −. It is the isomer of the related nitrile (–C≡N), hence the prefix is isocyano."
+        },
+        {
+          "letter": "C",
+          "text": "Carboxyl",
+          "isCorrect": false,
+          "explanation": "Carboxyl groups are a combination of two functional groups attached to a single carbon atom, namely, hydroxyl (single-bonded OH) and carbonyl (double bonded O) groups. The carboxyl (COOH) group is so-named because of the carbonyl group (C=O) and a hydroxyl group."
+        },
+        {
+          "letter": "D",
+          "text": "Carbonyl",
+          "isCorrect": false,
+          "explanation": "A carbonyl group is a chemically organic functional group composed of a carbon atom double-bonded to an oxygen atom --> [C=O] The simplest carbonyl groups are aldehydes and ketones usually attached to another carbon compound."
+        }
+      ],
+      "explanation": "The correct answer is Isocyanide. Isocyanide is a compound and not a functional group. Option B, Isocyano, describes the functional group of an isocyanide. Option C, Carboxyl, and Option D, Carbonyl, are both functional groups commonly found in organic compounds, unlike Isocyanide.",
+      "explanationImage": null,
+      "hints": [
+        "Organic",
+        "functional"
+      ]
+    },
+    {
+      "text": "Dimethyl ether and ethyl alcohol are examples of ……………….isomerism",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Introduction to Fundamental Concepts of Chemistry",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Position",
+          "isCorrect": false,
+          "explanation": "Position isomers are constitutional isomers with the same carbon skeleton and will have the same functional group. They differ from each other in the position of the functional groups on the carbon chain."
+        },
+        {
+          "letter": "B",
+          "text": "Chain",
+          "isCorrect": false,
+          "explanation": "Chain isomerism are the type of isomerism in which moleculer formula is the same but the arrangement of the carbon chain is different."
+        },
+        {
+          "letter": "C",
+          "text": "Functional group",
+          "isCorrect": true,
+          "explanation": "Functional Isomerism is the type of isomerism formed by compounds that have same molecular formula but different functional groups. Dimethyl ether and ethanol are said to be isomers that they are different compounds with different functional groups (the -O- ether group and the -OH- alcohol group)."
+        },
+        {
+          "letter": "D",
+          "text": "Metamers",
+          "isCorrect": false,
+          "explanation": "Metamerism are the isomerism having the same molecular formula but different alkyl groups on two sides of functional groups."
+        }
+      ],
+      "explanation": "Functional group Functional Isomerism is the type of isomerism formed by compounds that have same molecular formula but different functional groups. Dimethyl ether and ethanol are said to be isomers that they are different compounds with different functional groups (the -O- ether group and the -OH- alcohol group). Position isomers are constitutional isomers with the same carbon skeleton and will have the same functional group. They differ from each other in the position of the functional groups on the carbon chain. Chain isomerism are the type of isomerism in which moleculer formula is the same but the arrangement of the carbon chain is different. Metamerism are the isomerism having the same molecular formula but different alkyl groups on two sides of functional groups. Reference:Sindh textbook",
+      "explanationImage": null,
+      "hints": [
+        "Dimethyl ether",
+        "ethyl alcohol"
+      ]
+    },
+    {
+      "text": "In aldol condensation, the nucleophile is _.",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hydroxyl ion",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While hydroxyl ions (OH-) can act as nucleophiles in some reactions, they are not the nucleophile in aldol condensation. In aldol condensation, the nucleophile is derived from one of the carbonyl compounds involved in the reaction."
+        },
+        {
+          "letter": "B",
+          "text": "Carbocation",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Carbocations are electron-deficient species and are generally not nucleophiles. In aldol condensation, the nucleophile is expected to be a species that donates a pair of electrons, which is not the case with a carbocation."
+        },
+        {
+          "letter": "C",
+          "text": "Carbanion",
+          "isCorrect": true,
+          "explanation": "It is evident from the given mechanism that a carbanion is a nucleophile in aldol condensation."
+        },
+        {
+          "letter": "D",
+          "text": "Water",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Water can participate in aldol condensation as a reactant, but it is not the nucleophile in the reaction. Instead, it is the carbonyl-derived carbanion that acts as the nucleophile."
+        }
+      ],
+      "explanation": "The reaction mechanism below shows that the carbanion is the nucleophile of the reaction:",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Aldol consists of which functional group?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Aldehydes and Ketones",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aldehyde",
+          "isCorrect": false,
+          "explanation": "It is incorrect because it represents only one of the functional groups involved in the aldol reaction."
+        },
+        {
+          "letter": "B",
+          "text": "Alcohol",
+          "isCorrect": false,
+          "explanation": "It is incorrect because it represents only one of the functional groups involved in the aldol reaction."
+        },
+        {
+          "letter": "C",
+          "text": "Both A and B",
+          "isCorrect": true,
+          "explanation": "The aldol reaction involves the formation of a beta-hydroxy carbonyl compound through the addition of an enolate ion (generated from an aldehyde or ketone) to another aldehyde or ketone. Therefore, the aldol reaction involves both an aldehyde or a ketone (functional groups A) and the resultant beta-hydroxy carbonyl compound (having an alcohol functional group - functional group B)."
+        },
+        {
+          "letter": "D",
+          "text": "Ketone",
+          "isCorrect": false,
+          "explanation": "It is incorrect because it represents only one of the functional groups involved in the aldol reaction."
+        }
+      ],
+      "explanation": "The aldol reaction involves the formation of a beta-hydroxy carbonyl compound through the addition of an enolate ion (generated from an aldehyde or ketone) to another aldehyde or ketone. Therefore, the aldol reaction involves both an aldehyde or a ketone (functional groups A) and the resultant beta-hydroxy carbonyl compound (having an alcohol functional group - functional group B). Therefore, option c is correct.",
+      "explanationImage": null,
+      "hints": [
+        "Aldol",
+        "functional",
+        "group"
+      ]
+    },
+    {
+      "text": "Common name of the following compound is:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2016,
+      "options": [
+        {
+          "letter": "A",
+          "text": "p-Toluidine",
+          "isCorrect": true,
+          "explanation": "p-Toluidine is the correct name because it refers to a benzene ring with a methyl group and an amino group at the para position relative to each other."
+        },
+        {
+          "letter": "B",
+          "text": "N-methylaniline",
+          "isCorrect": false,
+          "explanation": "N-methylaniline is incorrect because it describes an aniline with a methyl group on the nitrogen, not the para position on the benzene ring."
+        },
+        {
+          "letter": "C",
+          "text": "N, N-dimethylaniline",
+          "isCorrect": false,
+          "explanation": "N, N-dimethylaniline is incorrect as it refers to an aniline where both hydrogen atoms of the amino group are replaced by methyl groups."
+        },
+        {
+          "letter": "D",
+          "text": "N, N-dimethyl p-toluidine",
+          "isCorrect": false,
+          "explanation": "N, N-dimethyl p-toluidine is incorrect as it combines features of N, N-dimethyl with p-toluidine, which is not the structure given in the question."
+        }
+      ],
+      "explanation": "p-toluidine is an aminotoluene in which the amino substituent is para to the methyl group.",
+      "explanationImage": null,
+      "hints": [
+        "compound",
+        "common",
+        "name"
+      ]
+    },
+    {
+      "text": "Atoms pf group of atoms present in an organic compound confers the properties of organic compound to that atom or group of atoms called:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2004,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sulphonating group",
+          "isCorrect": false,
+          "explanation": "a) Sulphonating group: This option is not correct. A sulphonating group typically refers to a group that can introduce a sulfonic acid (SO3H) functional group into a compound. It is not a term commonly used to describe the atoms or groups of atoms that confer properties to organic compounds."
+        },
+        {
+          "letter": "B",
+          "text": "Nitrating group",
+          "isCorrect": false,
+          "explanation": "b) Nitrating group: This option is not correct. A nitrating group typically refers to a group that can introduce a nitro group (NO2) into a compound. It is not a term commonly used to describe the atoms or groups of atoms that confer properties to organic compounds."
+        },
+        {
+          "letter": "C",
+          "text": "Functional group",
+          "isCorrect": true,
+          "explanation": "c) Functional group: This option is correct. The atoms or groups of atoms present in an organic compound that determine its chemical properties and reactivity are called functional groups. Different functional groups contribute to specific chemical reactions and characteristics of organic compounds."
+        },
+        {
+          "letter": "D",
+          "text": "Hydrating group",
+          "isCorrect": false,
+          "explanation": "d) Hydrating group: This option is not correct. \"Hydrating group\" is not a recognized term in organic chemistry for describing the atoms or groups of atoms that confer properties to organic compounds."
+        }
+      ],
+      "explanation": "A functional group is defined as an atom or group of atoms within a molecule that has similar chemical properties whenever it appears in various compounds. Even if other parts of the molecule are quite different, certain functional groups tend to react in certain ways.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The compounds containing R-SH functional group are known as:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alcohols",
+          "isCorrect": false,
+          "explanation": "This option is not correct. The compounds containing the -OH functional group is called alcohols."
+        },
+        {
+          "letter": "B",
+          "text": "Thia-alcohols",
+          "isCorrect": true,
+          "explanation": "The compounds containing the R-SH functional group are known as thio-alcohols."
+        },
+        {
+          "letter": "C",
+          "text": "Thia-ether",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect because the compounds containing the R-S-R' functional group is called thio-ether."
+        },
+        {
+          "letter": "D",
+          "text": "Nitrile",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect because the compounds containing the -CN functional group is called nitrile."
+        }
+      ],
+      "explanation": "The compounds containing the R-SH functional group are known as thio-alcohols.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the functional groups are present in ethyl acetate?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2023,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aldehyde group",
+          "isCorrect": false,
+          "explanation": "The aldehyde group is not present in ethyl acetate. Aldehydes have a carbonyl group (C=O) bonded to at least one hydrogen atom, which is not the case in ethyl acetate. The aldehyde group is not present in ethyl acetate. Aldehydes have a carbonyl group (C=O) bonded to at least one hydrogen atom, which is not the case in ethyl acetate."
+        },
+        {
+          "letter": "B",
+          "text": "Carboxyl group",
+          "isCorrect": false,
+          "explanation": "The carboxyl group is not present in ethyl acetate. Carboxyl groups consist of a carbonyl group (C=O) bonded to a hydroxyl group (-OH), and in ethyl acetate, there is no hydroxyl group."
+        },
+        {
+          "letter": "C",
+          "text": "Ester group",
+          "isCorrect": true,
+          "explanation": "The ester group is present in ethyl acetate."
+        },
+        {
+          "letter": "D",
+          "text": "Ether group",
+          "isCorrect": false,
+          "explanation": "Ether group is not present in ethyl acetate. Ether groups consist of two alkyl or aryl groups bonded to an oxygen atom, and in ethyl acetate, there is only one alkyl group bonded to the oxygen atom."
+        }
+      ],
+      "explanation": "The ester group is present in ethyl acetate. Ester groups consist of a carbonyl group (C=O) bonded to an oxygen atom, which is further bonded to an alkyl or aryl group. In ethyl acetate, the ester group consists of the carbonyl group bonded to an oxygen atom, which is further bonded to an ethyl group.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following has lower vapor pressure?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Glycerol",
+          "isCorrect": true,
+          "explanation": "Glycerol has lowest vapour pressure."
+        },
+        {
+          "letter": "B",
+          "text": "Isopentane",
+          "isCorrect": false,
+          "explanation": "Isopentane has highest vapour pressure."
+        },
+        {
+          "letter": "C",
+          "text": "Ethanol",
+          "isCorrect": false,
+          "explanation": "Vapour pressure of ethanol is gretaer than glycerol."
+        },
+        {
+          "letter": "D",
+          "text": "Both A and C",
+          "isCorrect": false,
+          "explanation": "Glycerol has lowest vapour pressure. Ethanol has greater vapour pressure than glycerol."
+        }
+      ],
+      "explanation": "Correct option is A. Vapor pressure depends upon the molecules that bond well and the forces of attraction of mercury metal atoms are quite strong. So, with the help of this relation we are able to find the lowest vapor pressure. Vapor pressure can be explained as: the pressure exerted by the gaseous form of liquid on the liquid itself when both are in equilibrium or in other words we can say that it is the ability of a compound to bond with itself. Compound molecules that bond well with each other will have low vapor pressure whereas poorly bonded compounds will have high vapor pressure. The temperature at which the vapor pressure at the surface of a liquid becomes equal to the pressure exerted by the surroundings is known as the boiling point of the liquid. There are three common factors which influence the vapor pressure are surface area, intermolecular forces and temperature. At different temperatures different molecules have different vapor pressure. Vapor pressure increases with increase in temperature The forces between the individual metal atoms of mercury are quite strong as compared to the cohesive molecular forces such as hydrogen bonding which is present in the case of alcohols, ethers and water. Other options B C and D are wrong as values of vapor pressure of different substances are given below :",
+      "explanationImage": null,
+      "hints": [
+        "lower vapor"
+      ]
+    },
+    {
+      "text": "Greater the number of moles, _ will be the number of molecules.",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Introduction to Fundamental Concepts of Chemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lesser",
+          "isCorrect": false,
+          "explanation": "Lesser. The number of molecules will not be lesser if the number of moles is greater. In fact, the number of molecules will be greater if the number of moles is greater."
+        },
+        {
+          "letter": "B",
+          "text": "Moderate",
+          "isCorrect": false,
+          "explanation": "Moderate. The number of molecules will not be moderate if the number of moles is greater. The number of molecules will either be greater or equal to the number of moles."
+        },
+        {
+          "letter": "C",
+          "text": "Greater",
+          "isCorrect": true,
+          "explanation": "The greater the number of moles, the greater will be the number of molecules. This is because a mole is a unit of measurement that is equal to the number of atoms or molecules in a sample of a substance. The number of atoms or molecules in a mole is a constant, so the greater the number of moles, the greater the number of atoms or molecules.For example, if you have 1 mole of water, you will have 6.022 x 1023 water molecules. If you have 2 moles of water, you will have 2 x 6.022 x 1023 = 1.2044 x 1024 water molecules."
+        },
+        {
+          "letter": "D",
+          "text": "Equal",
+          "isCorrect": false,
+          "explanation": "Equal. The number of molecules will not be equal to the number of moles if the number of moles is greater. The number of molecules will always be greater than or equal to the number of moles."
+        }
+      ],
+      "explanation": "The greater the number of moles, the greater will be the number of molecules. This is because a mole is a unit of measurement that is equal to the number of atoms or molecules in a sample of a substance. The number of atoms or molecules in a mole is a constant, so the greater the number of moles, the greater the number of atoms or molecules.For example, if you have 1 mole of water, you will have 6.022 x 1023 water molecules. If you have 2 moles of water, you will have 2 x 6.022 x 1023 = 1.2044 x 1024 water molecules.",
+      "explanationImage": null,
+      "hints": [
+        "number of moles",
+        "molecules"
+      ]
+    },
+    {
+      "text": "Which of the following isotopes of carbon is/are used in carbon dating?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6C12",
+          "isCorrect": false,
+          "explanation": "False."
+        },
+        {
+          "letter": "B",
+          "text": "6C13",
+          "isCorrect": false,
+          "explanation": "False."
+        },
+        {
+          "letter": "C",
+          "text": "6C14",
+          "isCorrect": true,
+          "explanation": "Carbon-14 is a radioactive isotope of carbon that is used in carbon dating, also known as radiocarbon dating. The method works by measuring the amount of carbon-14 in a sample of organic material, such as wood, bone, or cloth, and comparing it to the initial amount of carbon-14 in the atmosphere."
+        },
+        {
+          "letter": "D",
+          "text": "6C12 , 6C14",
+          "isCorrect": false,
+          "explanation": "False."
+        }
+      ],
+      "explanation": "Carbon-14 is a radioactive isotope of carbon that is used in carbon dating, also known as radiocarbon dating. The method works by measuring the amount of carbon-14 in a sample of organic material, such as wood, bone, or cloth, and comparing it to the initial amount of carbon-14 in the atmosphere.",
+      "explanationImage": null,
+      "hints": [
+        "isotopes"
+      ]
+    },
+    {
+      "text": "Which of the following is not a mixture of hydrocarbons?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Hydrocarbons",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Candle wax",
+          "isCorrect": false,
+          "explanation": "Candle wax is composed of paraffin, which is a hydrocarbon. Hence, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Kerosine oil",
+          "isCorrect": false,
+          "explanation": "Kerosene oil is also composed of hydrocarbons; hence, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Paraffin oil",
+          "isCorrect": false,
+          "explanation": "Paraffin oil also has paraffin, which is a hydrocarbon. Hence, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Vegetable ghee",
+          "isCorrect": true,
+          "explanation": "Vegetable ghee contains fatty acids and triglycerides. They are not hydrocarbons, since they also contain oxygen. Hence, this option is correct."
+        }
+      ],
+      "explanation": "Vegetable ghee may also contain fatty acids and triglycerides, which are not hydrocarbons since they contain oxygen as well.",
+      "explanationImage": null,
+      "hints": [
+        "not",
+        "mixture of hydrocarbons"
+      ]
+    },
+    {
+      "text": "Molar mass of water is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Measurements",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.018 kg/mol",
+          "isCorrect": true,
+          "explanation": "The following is the solution:The average mass of one H2O molecule is 18.02 amu. The number of atoms is an exact number, the number of mole is an exact number; they do not affect the number of significant figures. The average mass of one mole of H2O is 18.02 grams. This is stated: the molar mass of water is 18.02 g/mol or 0.018kg/mol."
+        },
+        {
+          "letter": "B",
+          "text": "0.108 kg/mol",
+          "isCorrect": false,
+          "explanation": "Incorrect as per the formula"
+        },
+        {
+          "letter": "C",
+          "text": "0.027 kg/mol",
+          "isCorrect": false,
+          "explanation": "Incorrect as per the formula"
+        },
+        {
+          "letter": "D",
+          "text": "0.0635 kg/mol",
+          "isCorrect": false,
+          "explanation": "Incorrect as per the formula"
+        }
+      ],
+      "explanation": "The average mass of one H2O molecule is 18.02 amu. The number of atoms is an exact number, the number of mole is an exact number; they do not affect the number of significant figures. The average mass of one mole of H2O is 18.02 grams. This is stated: the molar mass of water is 18.02 g/mol or 0.018kg/mol.",
+      "explanationImage": null,
+      "hints": [
+        "Molar mass",
+        "water"
+      ]
+    },
+    {
+      "text": "The number of charges present on a cation depends on the number of electrons _ by the atom.",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Bonding",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gain",
+          "isCorrect": false,
+          "explanation": "If electrons are gained, an anion is formed, not a cation. Hence, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Lost",
+          "isCorrect": true,
+          "explanation": "If electrons are lost, a cation is formed. Hence, this option is the correct one."
+        },
+        {
+          "letter": "C",
+          "text": "Accept",
+          "isCorrect": false,
+          "explanation": "If electrons are accepted, an anion is formed, not a cation. Hence, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Produced",
+          "isCorrect": false,
+          "explanation": "Electrons cannot be produced; hence, this option is also incorrect."
+        }
+      ],
+      "explanation": "A cation is positively charged, and hence, it loses electrons.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The reactant which is consumed completely in a reaction is known as a _ reactant.",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Stoichiometry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fractional",
+          "isCorrect": false,
+          "explanation": "\"Fractional\" does not describe a type of reactant in a chemical reaction."
+        },
+        {
+          "letter": "B",
+          "text": "Initial",
+          "isCorrect": false,
+          "explanation": "\"Initial\" refers to the starting amount or concentration of a reactant in a reaction, but it does not describe the reactant that is consumed completely."
+        },
+        {
+          "letter": "C",
+          "text": "Limiting",
+          "isCorrect": true,
+          "explanation": "A limiting reactant is a reactant that is present in the smallest amount in a reaction and therefore limits the amount of product that can be formed. It is called the \"limiting\" reactant because it determines the extent of the reaction."
+        },
+        {
+          "letter": "D",
+          "text": "Minor",
+          "isCorrect": false,
+          "explanation": "\"Minor\" does not describe the reactant that is consumed completely in a reaction. The minor reactant may not be completely consumed and may be present in the final product as an impurity."
+        }
+      ],
+      "explanation": "A limiting reactant is a reactant that is present in the smallest amount in a reaction and therefore limits the amount of product that can be formed. It is called the \"limiting\" reactant because it determines the extent of the reaction.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following process is used to improve the quality of gasoline?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Steam cracking",
+          "isCorrect": false,
+          "explanation": "Reforming is used to improve the quality of gasoline because it converts low-octane naphtha into high-octane reformates. Octane rating is a measure of a fuel's ability to resist knocking, which is an uncontrolled combustion that can damage an engine. High-octane gasoline is less likely to knock than low-octane gasoline, so it is better for performance and fuel economy."
+        },
+        {
+          "letter": "B",
+          "text": "Reforming",
+          "isCorrect": true,
+          "explanation": "Reforming is used to improve the quality of gasoline because it converts low-octane naphtha into high-octane reformates. Octane rating is a measure of a fuel's ability to resist knocking, which is an uncontrolled combustion that can damage an engine. High-octane gasoline is less likely to knock than low-octane gasoline, so it is better for performance and fuel economy."
+        },
+        {
+          "letter": "C",
+          "text": "Catalytic cracking",
+          "isCorrect": false,
+          "explanation": "Reforming is used to improve the quality of gasoline because it converts low-octane naphtha into high-octane reformates. Octane rating is a measure of a fuel's ability to resist knocking, which is an uncontrolled combustion that can damage an engine. High-octane gasoline is less likely to knock than low-octane gasoline, so it is better for performance and fuel economy."
+        },
+        {
+          "letter": "D",
+          "text": "Distillation",
+          "isCorrect": false,
+          "explanation": "Reforming is used to improve the quality of gasoline because it converts low-octane naphtha into high-octane reformates. Octane rating is a measure of a fuel's ability to resist knocking, which is an uncontrolled combustion that can damage an engine. High-octane gasoline is less likely to knock than low-octane gasoline, so it is better for performance and fuel economy."
+        }
+      ],
+      "explanation": "Reforming is used to improve the quality of gasoline because it converts low-octane naphtha into high-octane reformates. Octane rating is a measure of a fuel's ability to resist knocking, which is an uncontrolled combustion that can damage an engine. High-octane gasoline is less likely to knock than low-octane gasoline, so it is better for performance and fuel economy.",
+      "explanationImage": null,
+      "hints": [
+        "process",
+        "improve the quality",
+        "gasoline"
+      ]
+    },
+    {
+      "text": "Conversion of straight-chain hydrocarbons into a branched-chain is called as _.",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reforming",
+          "isCorrect": true,
+          "explanation": "Reforming is a catalytic process in which straight- chain molecules are converted to branched forms. Hence, option A is correct"
+        },
+        {
+          "letter": "B",
+          "text": "Cracking",
+          "isCorrect": false,
+          "explanation": "Cracking is the breaking of long straight-chain hydrocarbons into smaller chains hence, the answer cannot be option B. Isomers are those compounds that have the same molecular formula hence adding branches will change the molecular formula therefore, the answer cannot be option B."
+        },
+        {
+          "letter": "C",
+          "text": "Isomers",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Decomposition",
+          "isCorrect": false,
+          "explanation": "Decomposition is when a compound is burnt to decompose it for example: CaCO3 decomposes to form CO2 + CaCO hence,the answer cannot be option D."
+        }
+      ],
+      "explanation": "Reforming is a catalytic process in which straight- chain molecules are converted to branched forms. Hence, option A is correct",
+      "explanationImage": null,
+      "hints": [
+        "straight-chain hydrocarbons"
+      ]
+    },
+    {
+      "text": "The geometrical isomers in which similar groups on double bond carbon atoms are present on opposite sides are called as _.",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trans-isomers",
+          "isCorrect": true,
+          "explanation": "Only in cis-trans isomers, there is a double bondbetween the carbon atoms having bulky groups on either side. When the two similar groups are opposite to each other, this forms a trans-isomer hence Option A is the correct answer."
+        },
+        {
+          "letter": "B",
+          "text": "Alkanes",
+          "isCorrect": false,
+          "explanation": "In organic chemistry, an alkane, or paraffin, is an acyclic saturated hydrocarbon. In other words, an alkane consists of hydrogen and carbon atoms arranged in a tree structure in which all the carbon–carbon bonds are single. Alkanes have the general chemical formula CₙH₂ₙ₊₂."
+        },
+        {
+          "letter": "C",
+          "text": "Cis-isomers",
+          "isCorrect": false,
+          "explanation": "Cis isomers are molecules with the same connectivity of atoms. They feature same side groups placed on the same side of a double bond. Trans isomers feature molecules with same side groups placed on opposite sides of a double bond."
+        },
+        {
+          "letter": "D",
+          "text": "Positional isomers",
+          "isCorrect": false,
+          "explanation": "Positional isomers are constitutional isomers with the same carbon skeleton and will have the same functional group. They differ from each other in the position of the functional groups on the carbon chain and the phenomenon is known as positional isomerism."
+        }
+      ],
+      "explanation": "Only in cis-trans isomers, there is a double bond between the carbon atoms having bulky groups on either side. When the two similar groups are opposite to each other, this forms a trans-isomer hence Option A is the correct answer.",
+      "explanationImage": null,
+      "hints": [
+        "geometrical isomers"
+      ]
+    },
+    {
+      "text": "Tautomerism involves the transfer of _ ?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electron",
+          "isCorrect": false,
+          "explanation": "This option is wrong because tautomerism doesn't involve the transfer of electrons. It involves the transfer of hydrogen atoms."
+        },
+        {
+          "letter": "B",
+          "text": "Carbon atom",
+          "isCorrect": false,
+          "explanation": "This option is also wrong because tautomerism doesn't involve any transfer of any carbon atom."
+        },
+        {
+          "letter": "C",
+          "text": "Functional group",
+          "isCorrect": false,
+          "explanation": "This option is also wrong because there is no shifting of any functional group in tautomerism. In tautomerism, there is a shifting of hydrogen atoms."
+        },
+        {
+          "letter": "D",
+          "text": "H-atom",
+          "isCorrect": true,
+          "explanation": "Tautomerism, is the existence of two or more chemical compounds that are capable of facile interconversion, in many cases merely exchanging a hydrogen atom between two other atoms, to either of which it forms a covalent bond(fact)."
+        }
+      ],
+      "explanation": "Option A is wrong because tautomerism doesn't involve the transfer of electrons. It involves the transfer of hydrogen atoms. Option B is also wrong because tautomerism doesn't involve any transfer of any carbon atom. Option C is also wrong because there is no shifting of any functional group in tautomerism. In tautomerism, there is a shifting of hydrogen atoms. Option : D Tautomerism, is the existence of two or more chemical compounds that are capable of facile interconversion, in many cases merely exchanging a hydrogen atom between two other atoms, to either of which it forms a covalent bond(fact).",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "1-Chloropropane and 2-Chloropropane are _.",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Position isomers",
+          "isCorrect": true,
+          "explanation": "The type of isomers arises due to difference in position of the same function group on the carbon chain are called position isomerism. •1chloropropane has Cl at the end of carbon chain CH3-CH2-CH2-Cl •2Chloropropane has Cl on Cno.2 CH3-CH(Cl)-CH3"
+        },
+        {
+          "letter": "B",
+          "text": "Chain isomers",
+          "isCorrect": false,
+          "explanation": "he type pf isomerism arises due to difference in the nature of the carbon chain is called chain isomerism.Example •n-pentane and isopentane"
+        },
+        {
+          "letter": "C",
+          "text": "Functional group isomers",
+          "isCorrect": false,
+          "explanation": "The compounds having same molecular formula but different function group are function group isomers EXAMPLE:Alhochols and ethers"
+        },
+        {
+          "letter": "D",
+          "text": "Metamers",
+          "isCorrect": false,
+          "explanation": "The compounds having unequal distribution of carbon atoms on either side are called metamers EXAMPLE:Ethers show metamerism"
+        }
+      ],
+      "explanation": "The type of isomers arises due to difference in position of the same function group on the carbon chain are called position isomerism. •1chloropropane has Cl at the end of carbon chain CH3-CH2-CH2-Cl •2Chloropropane has Cl on Cno.2 CH3-CH(Cl)-CH3",
+      "explanationImage": null,
+      "hints": [
+        "Chloropropane"
+      ]
+    },
+    {
+      "text": "Which of the following isomerism is shown by alkynes?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Positional isomerism",
+          "isCorrect": true,
+          "explanation": "Alkynes can exhibit positional isomerism where the position of the triple bond changes within the carbon chain. For example, in the case of C4H6, you can have 1-butyne and 2-butyne, which are positional isomers."
+        },
+        {
+          "letter": "B",
+          "text": "Geometrical isomerism",
+          "isCorrect": false,
+          "explanation": "This type of isomerism occurs in compounds with restricted rotation around a double bond. Alkynes do not typically exhibit this type of isomerism because they have a linear structure with a triple bond, which doesn't allow for the same kind of rotation as a double bond."
+        },
+        {
+          "letter": "C",
+          "text": "Cis-trans isomerism",
+          "isCorrect": false,
+          "explanation": "This type of isomerism occurs in compounds with different spatial arrangements of substituents around a double bond. Alkynes, due to their linear structure, do not usually show cis-trans isomerism."
+        },
+        {
+          "letter": "D",
+          "text": "Functional group isomerism",
+          "isCorrect": false,
+          "explanation": "This type of isomerism involves compounds with the same molecular formula but different functional groups. Alkynes do not exhibit this type of isomerism because they have a specific functional group, the triple bond."
+        }
+      ],
+      "explanation": "Alkynes can exhibit positional isomerism where the position of the triple bond changes within the carbon chain. For example, in the case of C4H6, you can have 1-butyne and 2-butyne, which are positional isomers.",
+      "explanationImage": null,
+      "hints": [
+        "isomerism",
+        "alkynes"
+      ]
+    },
+    {
+      "text": "Which of the following does not have sp2 hybridized orbital?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acetone",
+          "isCorrect": false,
+          "explanation": "Acetone has a carbonyl group (C=O) and a methyl group (-CH3). The carbon in the carbonyl group is sp2 hybridized, while the carbon in the methyl group is sp3 hybridized."
+        },
+        {
+          "letter": "B",
+          "text": "Acetonitrile",
+          "isCorrect": true,
+          "explanation": "Acetonitrile has a nitrile group (-CN), where the carbon is sp hybridized. The nitrogen is also sp hybridized. Since the carbon in the nitrile group is sp hybridized, it does not have sp2 hybridized orbitals."
+        },
+        {
+          "letter": "C",
+          "text": "Acetic acid",
+          "isCorrect": false,
+          "explanation": "Acetic acid has a carbonyl group (C=O) and a hydroxyl group (-OH). The carbon in the carbonyl group is sp2 hybridized, while the carbon in the hydroxyl group is sp3 hybridized."
+        },
+        {
+          "letter": "D",
+          "text": "Acetamide",
+          "isCorrect": false,
+          "explanation": "Acetamide has an amide group (-CONH2). The carbon in the carbonyl group is sp2 hybridized, while the carbon in the amide group is sp3 hybridized."
+        }
+      ],
+      "explanation": "Acetonitrile has a nitrile group (-CN), where the carbon is sp hybridized. The nitrogen is also sp hybridized. Since the carbon in the nitrile group is sp hybridized, it does not have sp2 hybridized orbitals.",
+      "explanationImage": null,
+      "hints": [
+        "not",
+        "sp",
+        "2",
+        "hybridized"
+      ]
+    },
+    {
+      "text": "Which of the following is correct about the \"octane number\"?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Higher the octane number, higher will be the knocking.",
+          "isCorrect": false,
+          "explanation": "Higher octane numbers in gasoline indicate that the fuel is more resistant to knocking, which is a type of uncontrolled combustion that can occur in spark-ignition engines. Therefore, higher octane numbers actually mean lower knocking."
+        },
+        {
+          "letter": "B",
+          "text": "Higher the octane number, the efficiency of fuel will be lower.",
+          "isCorrect": false,
+          "explanation": "Higher octane numbers in gasoline indicate that the fuel is more resistant to knocking, which is a type of uncontrolled combustion that can occur in spark-ignition engines. Using a fuel with an appropriate octane rating for your engine can improve fuel efficiency and performance."
+        },
+        {
+          "letter": "C",
+          "text": "Higher the octane number, lower the knocking.",
+          "isCorrect": true,
+          "explanation": "Higher octane numbers in gasoline indicate that the fuel is more resistant to knocking, which is a type of uncontrolled combustion that can occur in spark-ignition engines. Knocking can cause engine damage and reduce performance, so it's important to use fuels with the appropriate octane rating for your engine."
+        },
+        {
+          "letter": "D",
+          "text": "Lower the octane number, lower the knocking.",
+          "isCorrect": false,
+          "explanation": "Lower octane numbers in gasoline indicate that the fuel is more prone to knocking, which is a type of uncontrolled combustion that can occur in spark-ignition engines. Therefore, lower octane numbers actually mean higher knocking."
+        }
+      ],
+      "explanation": "Higher octane numbers in gasoline indicate that the fuel is more resistant to knocking, which is a type of uncontrolled combustion that can occur in spark-ignition engines. Knocking can cause engine damage and reduce performance, so it's important to use fuels with the appropriate octane rating for your engine.",
+      "explanationImage": null,
+      "hints": [
+        "octane",
+        "number"
+      ]
+    },
+    {
+      "text": "The organic compounds having all C-C single bonds are called:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alkanes",
+          "isCorrect": true,
+          "explanation": "Organic compounds with all carbon-carbon single bonds are called alkanes. They have the general formula CnH2n+2, where n is the number of carbon atoms in the molecule. Alkanes are saturated hydrocarbons, meaning they contain the maximum number of hydrogen atoms possible for their carbon skeleton."
+        },
+        {
+          "letter": "B",
+          "text": "Alkenes",
+          "isCorrect": false,
+          "explanation": "Alkenes are unsaturated hydrocarbons containing at least one carbon-carbon double bond. Unlike alkanes, they are not saturated with hydrogen atoms because of the presence of the double bond."
+        },
+        {
+          "letter": "C",
+          "text": "Alkynes",
+          "isCorrect": false,
+          "explanation": "Alkynes are unsaturated hydrocarbons containing at least one carbon-carbon triple bond. Like alkenes, they are also unsaturated and contain fewer hydrogen atoms compared to alkanes due to the presence of multiple bonds."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": "Option a is correct so all other options cannot be correct."
+        }
+      ],
+      "explanation": "Organic compounds with all carbon-carbon single bonds are called alkanes. They have the general formula CnH2n+2, where n is the number of carbon atoms in the molecule. Alkanes are saturated hydrocarbons, meaning they contain the maximum number of hydrogen atoms possible for their carbon skeleton.",
+      "explanationImage": null,
+      "hints": [
+        "organic",
+        "single"
+      ]
+    },
+    {
+      "text": "How many hydrogen atoms are attached to tertiary carbon in tertiary butyl alcohol?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "As per the explanation, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "As per the explanation, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "As per the explanation, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "isCorrect": true,
+          "explanation": "A tertiary carbon atom is a carbon atom bound to three other carbon atoms. Here in tertiary-butyl alcohol, no hydrogen atom is attached to tertiary-carbon thus, option 'D' is the right answer."
+        }
+      ],
+      "explanation": "A tertiary carbon atom is a carbon atom bound to three other carbon atoms. Here in tertiary-butyl alcohol , no hydrogen atom is attached to tertiary-carbon thus, option 'D' is the right answer.",
+      "explanationImage": null,
+      "hints": [
+        "hydrogen",
+        "tertiary",
+        "carbon"
+      ]
+    },
+    {
+      "text": "The phenomenon in which compounds have the same molecular formula but different structural formula is called:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reforming",
+          "isCorrect": false,
+          "explanation": "A processing technique by which the molecular structure of a hydrocarbon is rearranged to alter its properties."
+        },
+        {
+          "letter": "B",
+          "text": "Isomerism",
+          "isCorrect": true,
+          "explanation": "Compounds that have the same molecular formula but different chemical structures are called isomers."
+        },
+        {
+          "letter": "C",
+          "text": "Polymorphism",
+          "isCorrect": false,
+          "explanation": "Polymorphism is the ability of a substance to crystallize into different crystalline forms."
+        },
+        {
+          "letter": "D",
+          "text": "Hybridization",
+          "isCorrect": false,
+          "explanation": "Hybridization is the idea that atomic orbitals fuse to form newly hybridized orbitals."
+        }
+      ],
+      "explanation": "Compounds that have the same molecular formula but different chemical structures are called isomers and phenomenon is called isomerism.OPTION A: A processing technique by which the molecular structure of a hydrocarbon is rearranged to alter its properties.OPTION B: Compounds that have the same molecular formula but different chemical structures are called isomers.OPTION C: Polymorphism is the ability of a substance to crystallize into different crystalline forms.OPTION D: Hybridization is the idea that atomic orbitals fuse to form newly hybridized orbitals.",
+      "explanationImage": null,
+      "hints": [
+        "phenomenon"
+      ]
+    },
+    {
+      "text": "Which of the following isomerism is shown by alkynes?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Positional isomerism",
+          "isCorrect": true,
+          "explanation": "Alkynes can exhibit positional isomerism where the position of the triple bond changes within the carbon chain. For example, in the case of C4H6, you can have 1-butyne and 2-butyne, which are positional isomers."
+        },
+        {
+          "letter": "B",
+          "text": "Geometrical isomerism",
+          "isCorrect": false,
+          "explanation": "This type of isomerism occurs in compounds with restricted rotation around a double bond. Alkynes do not typically exhibit this type of isomerism because they have a linear structure with a triple bond, which doesn't allow for the same kind of rotation as a double bond."
+        },
+        {
+          "letter": "C",
+          "text": "Cis-trans isomerism",
+          "isCorrect": false,
+          "explanation": "This type of isomerism occurs in compounds with different spatial arrangements of substituents around a double bond. Alkynes, due to their linear structure, do not usually show cis-trans isomerism."
+        },
+        {
+          "letter": "D",
+          "text": "Functional group isomerism",
+          "isCorrect": false,
+          "explanation": "This type of isomerism involves compounds with the same molecular formula but different functional groups. Alkynes do not exhibit this type of isomerism because they have a specific functional group, the triple bond."
+        }
+      ],
+      "explanation": "Alkynes can exhibit positional isomerism where the position of the triple bond changes within the carbon chain. For example, in the case of C4H6, you can have 1-butyne and 2-butyne, which are positional isomers.",
+      "explanationImage": null,
+      "hints": [
+        "isomerism",
+        "alkynes"
+      ]
+    },
+    {
+      "text": "The isomerism in which compounds have different number of carbon atoms on both sides of the functional group is called as?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tautomerism",
+          "isCorrect": false,
+          "explanation": "Tautomerism is a phenomenon where a single chemical compound tends to exist in two or more interconvertible structures that are different in terms of the relative position of one atomic nucleus, which is generally the hydrogen. Hence, it is an incorrect option."
+        },
+        {
+          "letter": "B",
+          "text": "Metamerism",
+          "isCorrect": true,
+          "explanation": "Metamerism is a type of isomerism that arises due to the unequal distribution of carbon atoms on either side of the functional group. Such compounds belong to the same homologous series. For example, diethyl ether and methyl- propyl ether are metamers."
+        },
+        {
+          "letter": "C",
+          "text": "Geometrical isomerism",
+          "isCorrect": false,
+          "explanation": "Geometric isomers are two or more coordination compounds which contain the same number and types of atoms, and bonds (i.e., the connectivity between atoms is the same), but which have different spatial arrangements of the atoms. Hence, it is an incorrect option."
+        },
+        {
+          "letter": "D",
+          "text": "Position isomerism",
+          "isCorrect": false,
+          "explanation": "Positional isomers are constitutional isomers with the same carbon skeleton and will have the same functional group. They differ from each other in the position of the functional groups on the carbon chain and the phenomenon is known as positional isomerism. Hence, it is an incorrect option."
+        }
+      ],
+      "explanation": "Metamerism is a type of isomerism that arises due to the unequal distribution of carbon atoms on either side of the functional group. Such compounds belong to the same homologous series. For example, diethyl ether and methyl ,-propyl ether are metamers.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The crude petroleum is separated in fraction by:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Industrial Chemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Filtration",
+          "isCorrect": false,
+          "explanation": "Filtration is the process by which solid particles are separated from a liquid or gas. However, crude petroleum is all liquid. Hence, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Fractional distillation",
+          "isCorrect": true,
+          "explanation": "Fractional distillation is the process by which a mixture of liquids is separated from each other on the basis of their boiling points. It is the most suitable method of separating the fractions of crude oil. Hence, this option is the correct option."
+        },
+        {
+          "letter": "C",
+          "text": "Steam distillation",
+          "isCorrect": false,
+          "explanation": "Steam distillation is the process by which volatile compounds are extracted from heat-sensitive materials. It is used for extracting essential oils. However, it does not work for crude oil. Hence, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Fractional sublimation",
+          "isCorrect": false,
+          "explanation": "Fractional sublimation is the process by which a solid substance is converted to vapors, without passing through a liquid state. It is used to separate mixtures of solids, however, crude petroleum is a mixture of liquids. Hence, this option is incorrect."
+        }
+      ],
+      "explanation": "Crude petroleum contains many components with different boiling points. Fractional distillation separates them by heating and condensing at specific temperature ranges. This method efficiently isolates fuels like petrol, kerosene, and diesel.",
+      "explanationImage": null,
+      "hints": [
+        "crude petroleum"
+      ]
+    },
+    {
+      "text": "The IUPAC name for the structure below ends with what suffix?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-ol",
+          "isCorrect": false,
+          "explanation": "False."
+        },
+        {
+          "letter": "B",
+          "text": "-ide",
+          "isCorrect": false,
+          "explanation": "False."
+        },
+        {
+          "letter": "C",
+          "text": "-oic acid",
+          "isCorrect": true,
+          "explanation": "This compound will end with '-oic acid' because the carboxylic acid is present in this compound, as shown below: Since there is a preference i.e. Acid > Esters > Amide > Amine > Aldehyde/Ketone > Alcohol > Alkene > Alkyne > Alkane > Haloalkane The compound has chloride, alkene, and alcohol functional groups, but their abbreviations can be written in between the compound's name."
+        },
+        {
+          "letter": "D",
+          "text": "-yne",
+          "isCorrect": false,
+          "explanation": "False."
+        }
+      ],
+      "explanation": "This compound will end with '-oic acid' because the carboxylic acid is present in this compound, as shown below: Since there is a preference i.e. Acid > Esters > Amide > Amine > Aldehyde/Ketone > Alcohol > Alkene > Alkyne > Alkane > Haloalkane The compound has chloride, alkene, and alcohol functional groups, but their abbreviations can be written in between the compound's name.",
+      "explanationImage": null,
+      "hints": [
+        "The IUPAC name"
+      ]
+    },
+    {
+      "text": "The isomers must have the same:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2013,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Physical properties",
+          "isCorrect": false,
+          "explanation": "Isomers are compounds with different physical and chemical properties but the same molecular formula. So options A and D are eliminated here."
+        },
+        {
+          "letter": "B",
+          "text": "Molecular Formula",
+          "isCorrect": true,
+          "explanation": "Stereoisomers have identical molecular formulas and arrangements of atoms but differ in the orientation of these atoms in space. Only option B is correct."
+        },
+        {
+          "letter": "C",
+          "text": "Structural Formula",
+          "isCorrect": false,
+          "explanation": "Structural isomers have the same molecular formula but a different bonding arrangement among the atoms, and therefore a different structural formula, so option C and E are eliminated."
+        },
+        {
+          "letter": "D",
+          "text": "Chemical properties",
+          "isCorrect": false,
+          "explanation": "Isomers are compounds with different physical and chemical properties but the same molecular formula. So options A and D are eliminated here."
+        },
+        {
+          "letter": "E",
+          "text": "Both Molecular and Structural formula",
+          "isCorrect": false,
+          "explanation": "Structural isomers have the same molecular formula but a different bonding arrangement among the atoms, and therefore a different structural formula, so option C and E are eliminated."
+        }
+      ],
+      "explanation": "Isomers have the same molecular formula but different structures.",
+      "explanationImage": null,
+      "hints": [
+        "isomers"
+      ]
+    },
+    {
+      "text": "How many pi bond(s) are there in ethene?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2017,
+      "options": [
+        {
+          "letter": "A",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "Ethene has 5 sigma bonds and 1 pi bond."
+        },
+        {
+          "letter": "B",
+          "text": "One",
+          "isCorrect": true,
+          "explanation": "Ethene has a double bond between two carbon atoms. One sigma bond and one pi bond. Each carbon has two sigma bonds with two hydrogen atoms as carbon valency is four. So, ethene has 5 sigma bonds and 1 pi bond."
+        },
+        {
+          "letter": "C",
+          "text": "Two",
+          "isCorrect": false,
+          "explanation": "Ethene has 5 sigma bonds and 1 pi bond."
+        },
+        {
+          "letter": "D",
+          "text": "Three",
+          "isCorrect": false,
+          "explanation": "Ethene has 5 sigma bonds and 1 pi bond."
+        }
+      ],
+      "explanation": "Ethene has a double bond between two carbon atoms. One sigma bond and one pi bond. Each carbon has two sigma bonds with two hydrogen atoms as carbon valency is four. So, Ethene has 5 sigma bonds and 1 pi bond.",
+      "explanationImage": null,
+      "hints": [
+        "pi",
+        "bond",
+        "ethene"
+      ]
+    },
+    {
+      "text": "The structural formula of 2,3,4 trimethylpentane is:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Option A",
+          "isCorrect": true,
+          "explanation": "There are methyl groups (CH3) on carbons 2, 3 and 4 in option A only."
+        },
+        {
+          "letter": "B",
+          "text": "Option B",
+          "isCorrect": false,
+          "explanation": "In this option, methyl groups are present on carbon 2 and 4 only."
+        },
+        {
+          "letter": "C",
+          "text": "Option C",
+          "isCorrect": false,
+          "explanation": "In this option, methyl groups are present on carbon 2 and 3 only."
+        },
+        {
+          "letter": "D",
+          "text": "Option D",
+          "isCorrect": false,
+          "explanation": "In this option, methyl groups are present on carbon 2 and 3 only."
+        }
+      ],
+      "explanation": "There are methyl groups (CH3) on carbons 2, 3 and 4 in option A only.",
+      "explanationImage": null,
+      "hints": [
+        "structural",
+        "formula"
+      ]
+    },
+    {
+      "text": "The IUPAC name of the given compound is:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1-Chloro-2-methylpropane",
+          "isCorrect": true,
+          "explanation": "There are 3 carbons in a chain, Cl group is bonded to the 1st carbon and methyl is bonded to the 2nd carbon. Hence, the compound is called 1-chloro-2-methylpropane."
+        },
+        {
+          "letter": "B",
+          "text": "1-Chloro-2-methylbutane",
+          "isCorrect": false,
+          "explanation": "As per the explanation, only option a is correct."
+        },
+        {
+          "letter": "C",
+          "text": "Isobutyl chloride",
+          "isCorrect": false,
+          "explanation": "As per the explanation, only option a is correct."
+        },
+        {
+          "letter": "D",
+          "text": "2-Methyl-3-chloropropane",
+          "isCorrect": false,
+          "explanation": "As per the explanation, only option a is correct."
+        }
+      ],
+      "explanation": "There are 3 carbons in a chain, Cl group is bonded to the 1st carbon and methyl is bonded to the 2nd carbon. Hence, the compound is called 1-chloro-2-methylpropane.",
+      "explanationImage": null,
+      "hints": [
+        "IUPAC",
+        "name"
+      ]
+    },
+    {
+      "text": "In the following structure, which one is an α-carbon atom?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "At carbon 1 no functional group is attached."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "Alpha carbon is a carbon atom bonded to a functional group in an organic compound. Carbon 2 is considered to be alpha because it has a functional group attached."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "At carbon 3 no functional group is attached."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "At carbon 4 no functional group is attached."
+        }
+      ],
+      "explanation": "Alpha carbon is a carbon atom bonded to a functional group in an organic compound.Carbon 2 is considered to be alpha because it has a functional group attached.",
+      "explanationImage": null,
+      "hints": [
+        "",
+        "α",
+        "carbon"
+      ]
+    },
+    {
+      "text": "The compound with an atom, which has unshared pair of electrons is called:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2011,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nucleophile",
+          "isCorrect": true,
+          "explanation": "Nucleophiles contain an unshared pair of electrons, and they look for a positive ‘centre’ to bond with."
+        },
+        {
+          "letter": "B",
+          "text": "Electrophile",
+          "isCorrect": false,
+          "explanation": "An electrophile is an atom or molecule that is electron-deficient and seeks to accept electrons. It does not necessarily have an unshared pair of electrons."
+        },
+        {
+          "letter": "C",
+          "text": "Protophile",
+          "isCorrect": false,
+          "explanation": "This term is not commonly used in chemistry. It is not a recognized term for any specific chemical behavior."
+        },
+        {
+          "letter": "D",
+          "text": "None of the given options",
+          "isCorrect": false,
+          "explanation": "This option is not correct."
+        }
+      ],
+      "explanation": "Nucleophiles contain an unshared pair of electrons, and they look for a positive ‘centre’ to bond with.",
+      "explanationImage": null,
+      "hints": [
+        "unshared",
+        "electrons"
+      ]
+    },
+    {
+      "text": "The number of isomers of pentane is:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Pentane has three structural isomers."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Pentane has three structural isomers."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Pentane has three structural isomers."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "isCorrect": true,
+          "explanation": "Pentane has three structural isomers that are n-pentane, Iso-pentane (methyl butane), and neopentane (dimethylpropane)."
+        }
+      ],
+      "explanation": "Pentane (C5H12) is an organic compound with five carbon atoms. Pentane has three isomers that are n-pentane, Iso-pentane (methyl butane) and neopentane (dimethylpropane). Therefore three isomers can be drawn from pentane.",
+      "explanationImage": null,
+      "hints": [
+        "isomers",
+        "pentane"
+      ]
+    },
+    {
+      "text": "Which of the following is not the major source of organic compound?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Natural gas",
+          "isCorrect": false,
+          "explanation": "Most hydrocarbons are extracted from crude oil and natural gas. Natural gas is mainly methane."
+        },
+        {
+          "letter": "B",
+          "text": "Petroleum",
+          "isCorrect": false,
+          "explanation": "Petroleum is a naturally occurring, flammable liquid found within rock formations in the earth, and is comprised of a mixture of hydrocarbons and other organic compounds.The common organic compounds include alkanes (paraffins), naphthenes, aromatics, and heterocompounds"
+        },
+        {
+          "letter": "C",
+          "text": "Coal",
+          "isCorrect": false,
+          "explanation": "Coal consists carbon-based substances can be used as a source of specialty aromatic chemicals and aliphatic chemicals. Four widespread processes allow for making chemicals from coals: gasification, liquefaction, direct conversion, and co-production of chemicals and fuels along with electricity."
+        },
+        {
+          "letter": "D",
+          "text": "Ammoniacal Liquor",
+          "isCorrect": true,
+          "explanation": "Ammoniacal liquor is an organic compound. It is a concentrated solution of ammonia, ammonium compounds, and sulfur compounds, obtained as a by-product in the destructive distillation of bituminous coal"
+        }
+      ],
+      "explanation": "Ammoniacal liquor is an organic compound. It is a concentrated solution of ammonia, ammonium compounds, and sulfur compounds, obtained as a by-product in the destructive distillation of bituminous coal.",
+      "explanationImage": null,
+      "hints": [
+        "not",
+        "major",
+        "source",
+        "organic"
+      ]
+    },
+    {
+      "text": "C4H11N gives the type of isomerism:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Metamerism",
+          "isCorrect": true,
+          "explanation": "Metamers belong to the same family but differ in the nature of alkyl groups i.e. unequal distribution of carbon atoms on either side of functional group. C4H11N has three metamers."
+        },
+        {
+          "letter": "B",
+          "text": "Optical isomerism",
+          "isCorrect": false,
+          "explanation": "Optical isomerism is a type of stereoisomerism in which the isomers have the same molecular formula and the structural formula but differ in their direction of rotation of plane polarized light. It is limited to cycloalkane and alkene."
+        },
+        {
+          "letter": "C",
+          "text": "Tautomerism",
+          "isCorrect": false,
+          "explanation": "Shifting of proton within molecule is termed as tautomerism. C4H11N doesn't show tautomerism."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as option a is correct."
+        }
+      ],
+      "explanation": "It gives metamerism which is when compounds having the same molecular formula but different alkyl groups on either side of functional groups.",
+      "explanationImage": null,
+      "hints": [
+        "isomerism"
+      ]
+    },
+    {
+      "text": "The number of chiral centres in a molecule 5-bromo 3-chloro hexan-2-ol is/are:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Fundamental Principles of Organic Chemistry",
+      "year": 2017,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "If there is only one chiral center in the molecule, it means there is only one carbon atom with four different substituents attached to it. A chiral center is also known as a stereocenter, and its presence indicates that the molecule is chiral and can have enantiomers (mirror-image isomers)."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": true,
+          "explanation": "A chiral centre is an atom especially in an organic molecule that has four unique atoms or groups attached to it. To 3 carbons three different functional groups are attached. Therefore, 3 chiral centres are present.Note. To other adjacent carbon don't confuse the fact that 2 H are attached irrespective of different functional groups so they can't be considered chiral."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "If there are two chiral centers in the molecule, it means there are two carbon atoms, each with four different substituents attached."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "If there are five chiral centers in the molecule, it means there are five carbon atoms, each with four different substituents attached."
+        }
+      ],
+      "explanation": "A chiral centre is an atom especially in an organic molecule that has four unique atoms or groups attached to it. To 3 carbons three different functional groups are attached. Therefore, 3 chiral centers are present.Note. To other adjacent carbon don't confuse the fact that 2 H are attached irrespective of different functional groups so they can’t be considered chiral.",
+      "explanationImage": null,
+      "hints": [
+        "chiral",
+        "centres"
+      ]
+    },
+    {
+      "text": "He asked me—----- had happened.",
+      "image": null,
+      "subject": "English",
+      "topic": "Narrations",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "that what",
+          "isCorrect": false,
+          "explanation": "that what \"He asked me that what had happened.\"This option is incorrect because \"that what\" is not a proper conjunction for forming indirect questions."
+        },
+        {
+          "letter": "B",
+          "text": "if what",
+          "isCorrect": false,
+          "explanation": "if what \"He asked me if what had happened.\"This option is incorrect because \"if what\" is not a proper conjunction for forming indirect questions."
+        },
+        {
+          "letter": "C",
+          "text": "what",
+          "isCorrect": true,
+          "explanation": "if what \"He asked me if what had happened.\"This option is incorrect because \"if what\" is not a proper conjunction for forming indirect questions."
+        },
+        {
+          "letter": "D",
+          "text": "whether what",
+          "isCorrect": false,
+          "explanation": "whether what \"He asked me whether what had happened.\"This option is incorrect because \"whether what\" is not a proper conjunction for forming indirect questions."
+        }
+      ],
+      "explanation": "He asked me if what had happened.This option is incorrect because \"if what\" is not a proper conjunction for forming indirect questions.",
+      "explanationImage": null,
+      "hints": [
+        "asked"
+      ]
+    },
+    {
+      "text": "He asked me what—----about him",
+      "image": null,
+      "subject": "English",
+      "topic": "Narrations",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "did I say",
+          "isCorrect": false,
+          "explanation": "He asked me what did I say about him.\"This option is incorrect because it uses an unnecessary auxiliary verb \"did\" in the indirect speech."
+        },
+        {
+          "letter": "B",
+          "text": "do I say",
+          "isCorrect": false,
+          "explanation": "He asked me what do I say about him.\"This option is incorrect because it uses the present tense \"do,\" which is not suitable for indirect speech."
+        },
+        {
+          "letter": "C",
+          "text": "I said",
+          "isCorrect": true,
+          "explanation": "He asked me what I said about him.\"This option is correct because it correctly uses past tense without an auxiliary verb, fitting the structure of indirect speech."
+        },
+        {
+          "letter": "D",
+          "text": "did I said",
+          "isCorrect": false,
+          "explanation": "He asked me what did I said about him.\"This option is incorrect because it uses both \"did\" and \"said,\" which is grammatically incorrect"
+        }
+      ],
+      "explanation": "He asked me what I said about him.This option is correct because it correctly uses past tense without an auxiliary verb, fitting the structure of indirect speech.",
+      "explanationImage": null,
+      "hints": [
+        "asked"
+      ]
+    },
+    {
+      "text": "He—----that the Sun is a star.",
+      "image": null,
+      "subject": "English",
+      "topic": "Narrations",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Told to me",
+          "isCorrect": false,
+          "explanation": "\"He told to me that the Sun is a star.\" This option is incorrect because \"told to me\" is not the correct grammatical structure for this context."
+        },
+        {
+          "letter": "B",
+          "text": "Told of me",
+          "isCorrect": false,
+          "explanation": "\"He told of me that the Sun is a star.\" This option is incorrect because \"told of me\" does not make sense in this context."
+        },
+        {
+          "letter": "C",
+          "text": "Told me",
+          "isCorrect": true,
+          "explanation": "\"He told me that the Sun is a star.\" This option is correct because \"told me\" is the proper structure for reporting what someone has said directly."
+        },
+        {
+          "letter": "D",
+          "text": "Told for me",
+          "isCorrect": false,
+          "explanation": "\"He told for me that the Sun is a star.\" This option is incorrect because \"told for me\" is not a correct grammatical structure for this context."
+        }
+      ],
+      "explanation": "\"He told me that the Sun is a star.\" This option is correct because \"told me\" is the proper structure for reporting what someone has said directly.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "He asked me—-------.",
+      "image": null,
+      "subject": "English",
+      "topic": "Narrations",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "where was my mother",
+          "isCorrect": false,
+          "explanation": "\"He asked me where was my mother.\"This option is incorrect because the word order is incorrect for indirect questions. In indirect speech, the subject comes before the verb."
+        },
+        {
+          "letter": "B",
+          "text": "if was my mother",
+          "isCorrect": false,
+          "explanation": "\"He asked me if was my mother.\"This option is incorrect because it is not a proper grammatical structure for forming indirect questions."
+        },
+        {
+          "letter": "C",
+          "text": "where my mother was",
+          "isCorrect": true,
+          "explanation": "\"He asked me where my mother was.\"This option is correct because it follows the correct word order for indirect questions, with the subject before the verb."
+        },
+        {
+          "letter": "D",
+          "text": "my mother was",
+          "isCorrect": false,
+          "explanation": "\"He asked me my mother was.\"This option is incorrect because it does not form a complete question."
+        }
+      ],
+      "explanation": "\"He asked me where my mother was.\"This option is correct because it follows the correct word order for indirect questions, with the subject before the verb.",
+      "explanationImage": null,
+      "hints": [
+        "asked"
+      ]
+    },
+    {
+      "text": "Suggested that she should stay at home if it rained but she—-----give any answer.",
+      "image": null,
+      "subject": "English",
+      "topic": "Narrations",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Does not give",
+          "isCorrect": false,
+          "explanation": "\"I suggested that she should stay at home if it rained but she does not give any answer.\"This option is incorrect because \"does not give\" is present tense, which does not match the past tense context of the suggestion."
+        },
+        {
+          "letter": "B",
+          "text": "Did not give",
+          "isCorrect": true,
+          "explanation": "\"I suggested that she should stay at home if it rained but she did not give any answer.\"This option is correct because \"did not give\" is the past tense form, which correctly matches the past tense suggestion."
+        },
+        {
+          "letter": "C",
+          "text": "Does not gives",
+          "isCorrect": false,
+          "explanation": "\"I suggested that she should stay at home if it rained but she does not gives any answer.\"This option is incorrect because \"does not gives\" is not grammatically correct. The correct form would be \"does not give.\""
+        },
+        {
+          "letter": "D",
+          "text": "Has not given",
+          "isCorrect": false,
+          "explanation": "\"I suggested that she should stay at home if it rained but she has not given any answer.\"This option is incorrect because \"has not given\" implies a present perfect tense, which does not fit the past context of the suggestion."
+        }
+      ],
+      "explanation": "\"I suggested that she should stay at home if it rained but she did not give any answer.\"This option is correct because \"did not give\" is the past tense form, which correctly matches the past tense suggestion.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Change the direct narration into indirect narrationMaria said, “I was dialing your number, and you called.”",
+      "image": null,
+      "subject": "English",
+      "topic": "Narrations",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maria said that she was dialing my number and I called.",
+          "isCorrect": false,
+          "explanation": "The pronoun \"I\" should be replaced with \"you\" to maintain the correct perspective."
+        },
+        {
+          "letter": "B",
+          "text": "Maria told that she had dialed my number and she had called.",
+          "isCorrect": false,
+          "explanation": "The verb tense is incorrect; \"had dialed\" is past perfect, which doesn't match the original sentence's tense."
+        },
+        {
+          "letter": "C",
+          "text": "Maria said that she had been dialing my number and I had called.",
+          "isCorrect": true,
+          "explanation": "Maria said that she had been dialing my number and I had called.The original sentence is in the past continuous tense, indicating an action that was in progress at a specific point in the past. The correct reported speech should maintain the same tense and pronouns."
+        },
+        {
+          "letter": "D",
+          "text": "Maria told that Maria has been dialing my number and I had called.",
+          "isCorrect": false,
+          "explanation": "The subject and verb agreement is incorrect; \"Maria told\" should be followed by \"that she\" instead of \"that Maria\"."
+        }
+      ],
+      "explanation": "Maria said that she had been dialing my number and I had called.The original sentence is in the past continuous tense, indicating an action that was in progress at a specific point in the past. The correct reported speech should maintain the same tense and pronouns.",
+      "explanationImage": null,
+      "hints": [
+        "I",
+        "you"
+      ]
+    },
+    {
+      "text": "Change the Narrations of following sentenceShe said, “When I was enjoying youth, I watched movies”.",
+      "image": null,
+      "subject": "English",
+      "topic": "Narrations",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "She said that when she enjoyed youth she watched movies.",
+          "isCorrect": false,
+          "explanation": "The verb tense is incorrect; \"enjoyed\" should be \"was enjoying\" to match the original sentence's tense."
+        },
+        {
+          "letter": "B",
+          "text": "She said when she was enjoying youth, she watched movies.",
+          "isCorrect": true,
+          "explanation": "The original sentence is a statement about the past, and the correct reported speech maintains the same tense and pronouns."
+        },
+        {
+          "letter": "C",
+          "text": "She said that when I had enjoyed I had watched movies.",
+          "isCorrect": false,
+          "explanation": "The pronouns are incorrect; \"I\" should be \"she\", and \"had enjoyed\" and \"had watched\" are unnecessary."
+        },
+        {
+          "letter": "D",
+          "text": "She inquired that when they were enjoying and watching movies.",
+          "isCorrect": false,
+          "explanation": "The sentence is a incorrect reported speech, and it seems like a question, not a statement."
+        }
+      ],
+      "explanation": "The original sentence is a statement about the past, and the correct reported speech maintains the same tense and pronouns.",
+      "explanationImage": null,
+      "hints": [
+        "I"
+      ]
+    },
+    {
+      "text": "Change into indirect narration It's time we began planning our holidays,' he said.",
+      "image": null,
+      "subject": "English",
+      "topic": "Narrations",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "He said that it is time they began planning their holidays.",
+          "isCorrect": false,
+          "explanation": "The verb tense is incorrect; \"is\" should be \"was\" to match the past tense of \"said\"."
+        },
+        {
+          "letter": "B",
+          "text": "He said that it was time they had begun planning their holidays.",
+          "isCorrect": false,
+          "explanation": "The verb form \"had begun\" is unnecessary and changes the meaning of the original sentence."
+        },
+        {
+          "letter": "C",
+          "text": "He said it is time they begin planning their holidays.",
+          "isCorrect": false,
+          "explanation": "The verb tense is incorrect; \"is\" should be \"was\" to match the past tense of \"said\", and \"begin\" should be \"began\"."
+        },
+        {
+          "letter": "D",
+          "text": "He said that it was time they began planning their holidays.",
+          "isCorrect": true,
+          "explanation": "He said that it was time they began planning their holidays.The original sentence is a statement about the timing of planning holidays, and the correct reported speech uses the past tense \"was\" to match the original sentence's tense."
+        }
+      ],
+      "explanation": "He said that it was time they began planning their holidays.The original sentence is a statement about the timing of planning holidays, and the correct reported speech uses the past tense \"was\" to match the original sentence's tense.",
+      "explanationImage": null,
+      "hints": [
+        "our",
+        "It's"
+      ]
+    },
+    {
+      "text": "Change into indirect narration He said to me, “Let’s go home together.",
+      "image": null,
+      "subject": "English",
+      "topic": "Narrations",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "He urged me to going home together.",
+          "isCorrect": false,
+          "explanation": "The verb \"urged\" is too strong, and the phrase \"to going\" is grammatically incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "He suggested me that we should go home together.",
+          "isCorrect": false,
+          "explanation": "The phrase \"suggested me\" is incorrect; the correct phrase is \"suggested to me\"."
+        },
+        {
+          "letter": "C",
+          "text": "He suggested to me that we should go home together.",
+          "isCorrect": true,
+          "explanation": "The original sentence is a suggestion or invitation, and the correct reported speech uses the verb “suggestion” to convey the idea."
+        },
+        {
+          "letter": "D",
+          "text": "He suggested me to let’s go home with him",
+          "isCorrect": false,
+          "explanation": "The phrase \"let's\" is a contraction of \"let us\", which is not necessary in reported speech, and \"go home with him\" changes the original meaning."
+        }
+      ],
+      "explanation": "The original sentence is a suggestion or invitation, and the correct reported speech uses the verb \"suggested\" to convey the idea.",
+      "explanationImage": null,
+      "hints": [
+        "said",
+        "me,"
+      ]
+    }
+  ]
+}

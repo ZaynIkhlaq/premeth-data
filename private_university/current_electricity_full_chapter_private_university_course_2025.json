@@ -1,0 +1,1983 @@
+{
+  "questions": [
+    {
+      "text": "In the given figure of a resistor, the value of carbon resistance is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "360 ± 5% Ω",
+          "isCorrect": false,
+          "explanation": "This option suggests a resistance value of 360 ohms, which does not match the given color bands. The calculation is incorrect based on the color bands provided."
+        },
+        {
+          "letter": "B",
+          "text": "970 ± 5% Ω",
+          "isCorrect": false,
+          "explanation": "This option suggests a resistance value of 970 ohms, which also does not match the given color bands. The digits and multiplier do not correspond to the bands described."
+        },
+        {
+          "letter": "C",
+          "text": "1500±5 Ω",
+          "isCorrect": true,
+          "explanation": "The color bands on a resistor are interpreted as follows: The first band (Brown) represents the first significant digit, which is 1. The second band (Green) represents the second significant digit, which is 5. The third band (Red) represents the multiplier, which is 100 (since red corresponds to 10^2). The fourth band (Gold) represents the tolerance, which is ±5%. Using these color bands, we can calculate the resistance value: Resistance = (First digit * 10 + Second digit) * Multiplier = (1 * 10 + 5) * 100 = 1500 Ω Therefore, the correct answer is: c. 1500±5 Ω"
+        },
+        {
+          "letter": "D",
+          "text": "2800 ± 5% Ω",
+          "isCorrect": false,
+          "explanation": "This option suggests a resistance value of 2800 ohms, which does not match the given color bands. The combination of digits and multiplier is incorrect."
+        }
+      ],
+      "explanation": "The color bands on a resistor are interpreted as follows: The first band (Brown) represents the first significant digit, which is 1. The second band (Green) represents the second significant digit, which is 5. The third band (Red) represents the multiplier, which is 100 (since red corresponds to 10^2). The fourth band (Gold) represents the tolerance, which is ±5%. Using these color bands, we can calculate the resistance value: Resistance = (First digit * 10 + Second digit) * Multiplier = (1 * 10 + 5) * 100 = 1500 Ω Therefore, the correct answer is: c. 1500±5 Ω",
+      "explanationImage": null,
+      "hints": [
+        "color bands",
+        "resistor",
+        "value"
+      ]
+    },
+    {
+      "text": "Which of the following statements is correct for the given diagram?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "I2 is smaller than I3 and I1",
+          "isCorrect": false,
+          "explanation": "I2 is not smaller than I3; I2 passes through lower resistance."
+        },
+        {
+          "letter": "B",
+          "text": "I3 is greater than I2 and I1",
+          "isCorrect": false,
+          "explanation": "I3 cannot be greater than I2 and I1 since it passes through higher resistance."
+        },
+        {
+          "letter": "C",
+          "text": "I2 is smaller than I1 but bigger than I3",
+          "isCorrect": true,
+          "explanation": "Since I1 divides into I2 and I3, so I2 and I3 will be smaller than I1. The current I2 passes through resistance of 1 ohm, which is less than 6 ohm resistance for I3. Since resistance for I2 is smaller, I2 will be greater than I3."
+        },
+        {
+          "letter": "D",
+          "text": "I2 is smaller than I3 but bigger than I1",
+          "isCorrect": false,
+          "explanation": "I2 cannot be bigger than I1 as it is a branch of I1."
+        }
+      ],
+      "explanation": "In the given circuit, I1 splits into I2 and I3. According to the principle of current division, both I2 and I3 must be smaller than I1. Moreover, since I2 passes through a resistance of 1 ohm and I3 passes through a resistance of 6 ohms, I2 will be greater than I3 due to the lower resistance. Thus, Option C is correct. Option A is incorrect because I2 is not smaller than I3. Option B is incorrect because I3 cannot be greater than the other currents. Option D is incorrect because I2 cannot exceed I1.",
+      "explanationImage": null,
+      "hints": [
+        "I<sub>2</sub>",
+        "I<sub>3</sub>",
+        "I<sub>1</sub>"
+      ]
+    },
+    {
+      "text": "If a wire is moulded in the form of a ring of radius r which encloses a charge q, then the strength of the electric field at the centre of the ring will be",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": true,
+          "explanation": "When a wire is molded in the form of a ring and carries a charge q, the electric field created by the ring at any point on its axis is given by the equation: E = (k * q) / (r^2 + x^2)^(3/2) Where: E is the electric field strength, k is the electrostatic constant, q is the charge enclosed by the ring, r is the radius of the ring, and x is the distance along the axis from the center of the ring. To find the electric field at the center of the ring, we set x = 0. Plugging this value into the equation, we get: E = (k * q) / (r^2 + 0^2)^(3/2) E = (k * q) / r^3 Since the electric field is inversely proportional to r^3, as r approaches 0, the electric field strength approaches infinity. However, at the exact center of the ring, r is 0, which means the electric field strength becomes undefined or infinite. Therefore, the correct answer is A. The strength of the electric field at the center of the ring is 0 because the formula for the electric field becomes undefined at that point."
+        },
+        {
+          "letter": "B",
+          "text": "1/2",
+          "isCorrect": false,
+          "explanation": "This is incorrect. A non-zero value implies an imbalance in the electric field at the center, which is not possible in a symmetrical ring."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "This is incorrect. A value of 2 suggests a significant field strength, which cannot occur at the center of a symmetrically charged ring."
+        },
+        {
+          "letter": "D",
+          "text": "3/2",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Like other non-zero options, it implies a non-existent asymmetry in the field due to symmetrical charge distribution."
+        }
+      ],
+      "explanation": "When a wire is molded in the form of a ring and carries a charge q, the electric field created by the ring at any point on its axis is given by the equation: E = (k * q) / (r^2 + x^2)^(3/2) Where: E is the electric field strength, k is the electrostatic constant, q is the charge enclosed by the ring, r is the radius of the ring, and x is the distance along the axis from the center of the ring. To find the electric field at the center of the ring, we set x = 0. Plugging this value into the equation, we get: E = (k * q) / (r^2 + 0^2)^(3/2) E = (k * q) / r^3 Since the electric field is inversely proportional to r^3, as r approaches 0, the electric field strength approaches infinity. However, at the exact center of the ring, r is 0, which means the electric field strength becomes undefined or infinite. Therefore, the correct answer is A. The strength of the electric field at the center of the ring is 0 because the formula for the electric field becomes undefined at that point.",
+      "explanationImage": null,
+      "hints": [
+        "ring",
+        "radius",
+        "center"
+      ]
+    },
+    {
+      "text": "In bringing an electron towards another electron, the electrostatic potential energy of the system will",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "increase",
+          "isCorrect": true,
+          "explanation": "Electrostatic potential energy is the energy associated with the interaction between charged particles due to their electric fields. The electrostatic potential energy depends on the distance between the charges and their magnitudes.When two electrons are brought closer together, their like charges result in a repulsive force between them. Work must be done to overcome this repulsion and bring the electrons closer. This work is stored as an increase in the electrostatic potential energy of the system.Therefore, as the electrons are brought closer together, the electrostatic potential energy increases. This is because the work done to overcome the repulsive force between the electrons is converted into potential energy."
+        },
+        {
+          "letter": "B",
+          "text": "decrease",
+          "isCorrect": false,
+          "explanation": "\"decrease\" is incorrect because the electrostatic potential energy increases as work is done to overcome the repulsion between the electrons."
+        },
+        {
+          "letter": "C",
+          "text": "become zero",
+          "isCorrect": false,
+          "explanation": "\"become zero\" is incorrect because the electrostatic potential energy does not become zero. The repulsive force between the electrons still exists, and work is required to bring them closer together."
+        },
+        {
+          "letter": "D",
+          "text": "remain unchanged",
+          "isCorrect": false,
+          "explanation": "\"remain unchanged\" is incorrect because the electrostatic potential energy increases as work is done to overcome the repulsion between the electrons."
+        }
+      ],
+      "explanation": "Electrostatic potential energy is the energy associated with the interaction between charged particles due to their electric fields. When two electrons are brought closer together, their like charges result in a repulsive force between them. Work must be done to overcome this repulsion and bring the electrons closer, increasing the electrostatic potential energy of the system. Option A is correct because the potential energy increases as the electrons are brought closer together. Options B, C, and D are incorrect because they do not accurately reflect the increase in potential energy that occurs in this scenario.",
+      "explanationImage": null,
+      "hints": [
+        "electron",
+        "electrostatic potential energy"
+      ]
+    },
+    {
+      "text": "If four different resistors are used to pass electric current for different time durations, then which of the following will produce the largest heating effect in joules?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "When 1 amp current is passed through 3 ohm resistor for 2 sec.",
+          "isCorrect": false,
+          "explanation": "To determine the largest heating effect in joules, we need to calculate the heat produced in each scenario using the formula: Heat (H) = I^2 * R * t, where I is the current in amperes, R is the resistance in ohms, and t is the time in seconds.a. When 1 amp current is passed through 3 ohm resistor for 2 sec.H = (1^2) * 3 * 2 = 6 joulesOption A results in the same heating effect of 6 joules, which is smaller than the heating effect in option D."
+        },
+        {
+          "letter": "B",
+          "text": "When 1 amp current is passed through 2 ohm resistor for 3 sec.",
+          "isCorrect": false,
+          "explanation": "To determine the largest heating effect in joules, we need to calculate the heat produced in each scenario using the formula: Heat (H) = I^2 * R * t, where I is the current in amperes, R is the resistance in ohms, and t is the time in seconds.b. When 1 amp current is passed through 2 ohm resistor for 3 sec.H = (1^2) * 2 * 3 = 6 joules Option B results in the same heating effect of 6 joules, which is smaller than the heating effect in option D."
+        },
+        {
+          "letter": "C",
+          "text": "When 2 amps current is passed through 1 ohm resistor for 2 sec.",
+          "isCorrect": false,
+          "explanation": "To determine the largest heating effect in joules, we need to calculate the heat produced in each scenario using the formula: Heat (H) = I^2 * R * t, where I is the current in amperes, R is the resistance in ohms, and t is the time in seconds.c. When 2 amp current is passed through 1-ohm resistor for 2 sec.H = (2^2) * 1 * 2 = 8 joulesOption C produces a heating effect of 8 joules, which is smaller than the heating effect in option D."
+        },
+        {
+          "letter": "D",
+          "text": "When 3 amps current is passed through 1 ohm resistor for 1 sec.",
+          "isCorrect": true,
+          "explanation": "To determine the largest heating effect in joules, we need to calculate the heat produced in each scenario using the formula: Heat (H) = I^2 * R * t, where I is the current in amperes, R is the resistance in ohms, and t is the time in seconds.d. When 3 amp current is passed through 1-ohm resistor for 1 sec.H = (3^2) * 1 * 1 = 9 joulesComparing the results, we can see that option D produces the largest heating effect with 9 joules."
+        }
+      ],
+      "explanation": "To determine the largest heating effect in joules, we use the formula H = I^2 * R * t for each scenario:Option A: H = (1^2) * 3 * 2 = 6 joules.Option B: H = (1^2) * 2 * 3 = 6 joules.Option C: H = (2^2) * 1 * 2 = 8 joules.Option D: H = (3^2) * 1 * 1 = 9 joules.Option D produces the largest heating effect of 9 joules. The other options produce less heat because either the current, resistance, or time duration is not as optimal for maximizing the heat produced.",
+      "explanationImage": null,
+      "hints": [
+        "four different resistors",
+        "largest heating effect",
+        "joules"
+      ]
+    },
+    {
+      "text": "If a wire of length L and diameter d has a resistance R, then another wire of the same material but having length four times and twice the diameter has the resistance:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Half of the first wire",
+          "isCorrect": false,
+          "explanation": "If the length of the wire is four times and the diameter is twice, then the length becomes 4L and the diameter becomes 2d. The cross-sectional area of the wire is proportional to the square of the diameter, so the area becomes (2d)2 = 4(d2). The resistance is inversely proportional to the area, so the resistance becomes R/(4(d2)). This is not half of the resistance of the first wire (R), so option A is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Same as the first wire",
+          "isCorrect": true,
+          "explanation": "If the length of the wire is four times and the diameter is twice, then the length becomes 4L and the diameter becomes 2d. The cross-sectional area of the wire is proportional to the square of the diameter, so the area becomes (2d)2 = 4(d2). The resistance is inversely proportional to the area, so the resistance becomes R/(4(d2)). This is the same as the resistance of the first wire (R), so option B is correct."
+        },
+        {
+          "letter": "C",
+          "text": "Twice of the first wire",
+          "isCorrect": false,
+          "explanation": "If the length of the wire is four times and the diameter is twice, then the length becomes 4L and the diameter becomes 2d. The cross-sectional area of the wire is proportional to the square of the diameter, so the area becomes (2d)2 = 4(d2). The resistance is inversely proportional to the area, so the resistance becomes R/(4(d2)). This is not twice the resistance of the first wire (R), so option C is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Four times of the first wire",
+          "isCorrect": false,
+          "explanation": "If the length of the wire is four times and the diameter is twice, then the length becomes 4L and the diameter becomes 2d. The cross-sectional area of the wire is proportional to the square of the diameter, so the area becomes (2d)2 = 4(d2). The resistance is inversely proportional to the area, so the resistance becomes R/(4(d2)). This is not four times the resistance of the first wire (R), so option D is incorrect."
+        }
+      ],
+      "explanation": "If the length of the wire is four times and the diameter is twice, then the length becomes 4L and the diameter becomes 2d. The cross-sectional area of the wire is proportional to the square of the diameter, so the area becomes (2d)2 = 4(d2). The resistance is inversely proportional to the area, so the resistance becomes R/(4(d2)). This is the same as the resistance of the first wire (R), so option B is correct.",
+      "explanationImage": null,
+      "hints": [
+        "length L",
+        "diameter d",
+        "resistance R",
+        "same material",
+        "length four times",
+        "twice the diameter"
+      ]
+    },
+    {
+      "text": "If an electric iron of 120 ohms operates at 220 V, then the rate of heat developed is equal to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.54 W",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it is significantly smaller than the correct answer and does not correspond to the expected power output of an electric iron."
+        },
+        {
+          "letter": "B",
+          "text": "1.83 W",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it is significantly smaller than the correct answer and does not correspond to the expected power output of an electric iron."
+        },
+        {
+          "letter": "C",
+          "text": "65.45 W",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it is significantly smaller than the correct answer and does not correspond to the expected power output of an electric iron."
+        },
+        {
+          "letter": "D",
+          "text": "403.33 W",
+          "isCorrect": true,
+          "explanation": "To determine the rate of heat developed by an electric iron, we can use the formula:Power (P) = (Voltage)^2 / ResistanceGiven that the electric iron operates at 220 V and has a resistance of 120 ohms, we can substitute these values into the formula:Power (P) = (220)^2 / 120 = 48400 / 120 = 403.33 WTherefore, the correct option is d. 403.33 W."
+        }
+      ],
+      "explanation": "To determine the rate of heat developed by an electric iron, we can use the formula:Power (P) = (Voltage)^2 / ResistanceGiven that the electric iron operates at 220 V and has a resistance of 120 ohms, we can substitute these values into the formula:Power (P) = (220)^2 / 120 = 48400 / 120 = 403.33 WTherefore, the correct option is d. 403.33 W.",
+      "explanationImage": null,
+      "hints": [
+        "electric iron",
+        "120 ohms",
+        "220 V",
+        "rate of heat developed"
+      ]
+    },
+    {
+      "text": "In the given circuit diagram, the direction of the conventional current is from:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "X _ Y _ Z",
+          "isCorrect": false,
+          "explanation": "The direction of the conventional current is from the positive (+) terminal to the negative (-) terminal of the voltage source. This means that the current flows opposite to the flow of electrons, which actually move from the negative to the positive terminal.Hence, option A is not the correct answer."
+        },
+        {
+          "letter": "B",
+          "text": "Y _ X _ Z",
+          "isCorrect": false,
+          "explanation": "The direction of the conventional current is from the positive (+) terminal to the negative (-) terminal of the voltage source. This means that the current flows opposite to the flow of electrons, which actually move from the negative to the positive terminal.Hence, option B is not the correct answer."
+        },
+        {
+          "letter": "C",
+          "text": "X _ Z _ Y",
+          "isCorrect": true,
+          "explanation": "In a circuit diagram, the direction of the conventional current is typically represented as flowing from the positive terminal of a voltage source (such as a battery) towards the negative terminal. This convention is based on historical conventions and the initial understanding of electric current.Therefore, the direction of the conventional current is from the positive (+) terminal to the negative (-) terminal of the voltage source. This means that the current flows opposite to the flow of electrons, which actually move from the negative to the positive terminal.Hence, option C is the correct answer."
+        },
+        {
+          "letter": "D",
+          "text": "Y_ Z _ X",
+          "isCorrect": false,
+          "explanation": "The direction of the conventional current is from the positive (+) terminal to the negative (-) terminal of the voltage source. This means that the current flows opposite to the flow of electrons, which actually move from the negative to the positive terminal.Hence, option D is not the correct answer."
+        }
+      ],
+      "explanation": "In a circuit diagram, the direction of the conventional current is typically represented as flowing from the positive terminal of a voltage source (such as a battery) towards the negative terminal. This convention is based on historical conventions and the initial understanding of electric current.Therefore, the direction of the conventional current is from the positive (+) terminal to the negative (-) terminal of the voltage source. This means that the current flows opposite to the flow of electrons, which actually move from the negative to the positive terminal.Hence, option C is the correct answer.",
+      "explanationImage": null,
+      "hints": [
+        "direction",
+        "conventional current",
+        "from"
+      ]
+    },
+    {
+      "text": "The deviation of I-V graph from straight line is due to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decrease in temperature and decrease in resistance",
+          "isCorrect": false,
+          "explanation": "If temperature decreases and resistance also decreases, it is less likely to cause a significant deviation from a straight-line I-V graph. Typically, resistance tends to increase with decreasing temperature."
+        },
+        {
+          "letter": "B",
+          "text": "Increase in temperature and increase in resistance",
+          "isCorrect": true,
+          "explanation": "When both temperature and resistance increase, this can lead to a more noticeable deviation from the straight-line behavior. Many materials exhibit an increase in resistance with temperature, and higher resistance can cause a steeper curve in the I-V graph."
+        },
+        {
+          "letter": "C",
+          "text": "Decrease in temperature and increase in resistance",
+          "isCorrect": false,
+          "explanation": "This combination is common in many materials. As temperature decreases, the resistance often increases. The increase in resistance can contribute to a deviation from the straight-line behavior in the I-V graph."
+        },
+        {
+          "letter": "D",
+          "text": "Increase in temperature and decrease in resistance",
+          "isCorrect": false,
+          "explanation": "This combination is less common for typical conductors. In most materials, as temperature increases, resistance also increases. However, certain materials like semiconductors may exhibit a decrease in resistance with increasing temperature under specific conditions."
+        }
+      ],
+      "explanation": "The most common scenario leading to a deviation from a straight-line I-V graph is an increase in temperature and an increase in resistance. This is often observed in conductors and is known as a positive temperature coefficient of resistance. As temperature rises, the resistance increases, causing a departure from the ideal linear behavior in the I-V graph.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Two resistors R1 and R2 may be connected either in series or in parallel across a battery of zero internal resistance. It is required that the joule heating for parallel combination be five times that for series combination. If R1 = 100Ω, find possible values of R2.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": 2013,
+      "options": [
+        {
+          "letter": "A",
+          "text": "38.2 Ω",
+          "isCorrect": true,
+          "explanation": "Since we have one option (A) in the options it is appropriate that we choose that as the correct answer. Although if 261.8 ohms is mentioned then it would also be equally as correct."
+        },
+        {
+          "letter": "B",
+          "text": "35.3 Ω",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as per the formula and calculations"
+        },
+        {
+          "letter": "C",
+          "text": "48.2 Ω",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as per the formula and calculations"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as per the formula and calculations"
+        }
+      ],
+      "explanation": "Correct option is 'A'.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Terminal voltage Vi of the battery is greater than emf of the battery when:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": 2020,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Battery is charging",
+          "isCorrect": true,
+          "explanation": "When a battery is charging, the external charger provides a higher voltage to overcome the battery's emf and its internal resistance. The formula becomes V = E + Ir, where V is the terminal voltage, E is the emf, I is the charging current, and r is the internal resistance. Therefore, V > E."
+        },
+        {
+          "letter": "B",
+          "text": "Battery is discharging",
+          "isCorrect": false,
+          "explanation": "During discharging, the battery supplies current to an external circuit. The formula is V = E - Ir, indicating that the terminal voltage is less than the emf due to the voltage drop across the internal resistance."
+        },
+        {
+          "letter": "C",
+          "text": "Battery is connected with R",
+          "isCorrect": false,
+          "explanation": "When the battery is connected to a resistor R and is discharging, the terminal voltage is affected by the internal resistance. The formula V = E - Ir applies, which means the terminal voltage is less than the emf."
+        },
+        {
+          "letter": "D",
+          "text": "Battery is connected with voltmeter",
+          "isCorrect": false,
+          "explanation": "If a battery is connected to a voltmeter without any current flow, the voltmeter reads the emf, as the terminal voltage equals the emf (V = E) when there is no current flowing."
+        }
+      ],
+      "explanation": "When a battery is charging, it requires a higher external voltage to overcome its emf and internal resistance. This results in a terminal voltage (V) greater than the emf (E) of the battery, as described by the equation V = E + Ir. Option A is correct because it correctly identifies the condition under which the terminal voltage exceeds the emf. Options B, C, and D describe scenarios where the terminal voltage is either equal to or less than the emf due to the nature of discharging or when there is no current flow.",
+      "explanationImage": null,
+      "hints": [
+        "Terminal voltage V<sub>i</sub>",
+        "greater than emf",
+        "battery"
+      ]
+    },
+    {
+      "text": "Ohm's Law is not applicable when the temperature is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Changing",
+          "isCorrect": true,
+          "explanation": "Ohm's Law is not applicable when the temperature is either extremely low or extremely high. This is because Ohm's Law assumes that the electrical conductor maintains a constant resistance, which is not always the case when the temperature changes significantly.Specifically, Ohm's Law states that the current (I) flowing through a conductor between two points is directly proportional to the voltage (V) across the two points, given a constant resistance (R):V = I * RWhere:V = Voltage (in volts)I = Current (in amperes)R = Resistance (in ohms)Under normal conditions, for most conductors at a moderate temperature range, Ohm's Law works accurately. However, for certain materials, like semiconductors or superconductors, the resistance can change significantly with temperature.In the case of superconductors, they exhibit zero electrical resistance at extremely low temperatures (near absolute zero), which means Ohm's Law cannot be applied in the traditional sense.On the other hand, some materials may exhibit non-linear changes in resistance at high temperatures, deviating from the linear relationship required for Ohm's Law.Therefore, it's essential to be cautious when applying Ohm's Law in extreme temperature conditions or when dealing with materials with highly temperature-dependent electrical properties."
+        },
+        {
+          "letter": "B",
+          "text": "Constant",
+          "isCorrect": false,
+          "explanation": "When the temperature is constant, the resistance remains constant, allowing Ohm's Law to be applicable. Hence, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "All of These",
+          "isCorrect": false,
+          "explanation": "'Constant temperature' makes the resistivity constant which made resistance constant. Constant resistance again made the Ohms law applicable. Ohm's law of current electricity states that the current flowing in a conductor is directly proportional to the potential difference across its ends provided the physical conditions and temperature of the conductor remain constant. Hence, if the temperature or any other physical conditon changes, Ohm's law is no longer applicable."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because there is a specific condition (changing temperature) under which Ohm's Law is not applicable."
+        }
+      ],
+      "explanation": "Ohm's Law states that the current flowing through a conductor is directly proportional to the voltage across it, provided the temperature and other physical conditions remain constant. When the temperature changes, it can affect the resistance of the material, making Ohm's Law not applicable. This is why the correct answer is 'Changing'. A constant temperature ensures resistance remains unchanged, validating Ohm's Law, which makes 'Constant' an incorrect option. 'All of These' is incorrect because Ohm's Law is applicable when temperature is constant. 'None of these' is incorrect because a changing temperature is a specific condition that affects the applicability of Ohm's Law.",
+      "explanationImage": null,
+      "hints": [
+        "Ohm's Law",
+        "temperature",
+        "not applicable"
+      ]
+    },
+    {
+      "text": "EMF becomes equal to the terminal potential difference when the:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Circuit is closed",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. When the circuit is closed, current flows, and the terminal potential difference is less than the EMF due to the voltage drop across the internal resistance of the battery."
+        },
+        {
+          "letter": "B",
+          "text": "Current is maximum",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. When the current is maximum, the terminal potential difference is significantly less than the EMF due to the higher voltage drop across the internal resistance."
+        },
+        {
+          "letter": "C",
+          "text": "Circuit is open",
+          "isCorrect": true,
+          "explanation": "EMF is equal to the terminal potential difference when no current flows i.e. the circuit is open. The EMF (electromotive force) is the potential difference between the terminals of a battery when no current is flowing through an external circuit when the circuit is open.Terminal potential difference is the voltage across the terminals of the battery when the current is being drawn from it. The potential difference between the terminals of a battery will equal the EMF of the battery when there is no current in the battery. At this time the potential drop across the internal resistance is 0."
+        },
+        {
+          "letter": "D",
+          "text": "All of these options are correct",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because only the condition where the circuit is open results in the EMF being equal to the terminal potential difference."
+        }
+      ],
+      "explanation": "The EMF (electromotive force) represents the potential difference across the terminals of a battery when no current is flowing. When a circuit is open, no current flows, eliminating any voltage drop across the internal resistance of the battery, making the terminal potential difference equal to the EMF. In contrast, when the circuit is closed or the current is at its maximum, there is a non-zero current, resulting in a voltage drop across the internal resistance. This makes the terminal potential difference less than the EMF, invalidating options A and B. Therefore, option C is the only correct choice.",
+      "explanationImage": null,
+      "hints": [
+        "EMF",
+        "terminal potential difference"
+      ]
+    },
+    {
+      "text": "When the bulb is turned on, Ohm's law is applicable:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because Ohm's Law requires a constant resistance, and a bulb's resistance changes as it heats up."
+        },
+        {
+          "letter": "B",
+          "text": "No",
+          "isCorrect": true,
+          "explanation": "This option is correct because the resistance of the bulb changes with temperature, violating the conditions necessary for Ohm's Law to apply."
+        },
+        {
+          "letter": "C",
+          "text": "Partly",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because laws like Ohm's Law are either applicable or not, depending on whether their conditions are met."
+        },
+        {
+          "letter": "D",
+          "text": "None of these options are correct",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because option B is the correct answer."
+        }
+      ],
+      "explanation": "Ohm's Law states that the current through a conductor between two points is directly proportional to the voltage across the two points, assuming the resistance remains constant. When a bulb is turned on, its resistance is not constant; it increases as the filament heats up. This change in resistance means that Ohm's Law does not apply under these conditions, making 'No' the correct answer. The options 'Yes' and 'Partly' are incorrect because they either ignore the condition of constant resistance or misunderstand the nature of scientific laws. Option D is incorrect because it contradicts the existence of a correct option, which is B.",
+      "explanationImage": null,
+      "hints": [
+        "bulb",
+        "Ohm's law",
+        "applicable"
+      ]
+    },
+    {
+      "text": "Ohm's law is applicable to _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Semiconductors",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because semiconductors exhibit variable resistance, which changes with voltage and temperature, making them noncompliant with Ohm's Law under most conditions."
+        },
+        {
+          "letter": "B",
+          "text": "Vacuum tubes",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as vacuum tubes are nonlinear devices. Their behavior does not align with Ohm's Law because they do not maintain a constant resistance."
+        },
+        {
+          "letter": "C",
+          "text": "Carbon resistors",
+          "isCorrect": true,
+          "explanation": "This option is correct. Carbon resistors are linear components that exhibit a constant resistance, meaning the current through them is directly proportional to the voltage, in accordance with Ohm's Law."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because carbon resistors do follow Ohm's Law, making this option invalid."
+        }
+      ],
+      "explanation": "The correct answer is C: Carbon resistors. Ohm’s Law, which states that the current passing through a conductor between two points is directly proportional to the voltage across the two points, applies to devices with a constant resistance. Carbon resistors fit this criterion because they are linear and maintain a constant resistance under normal conditions.Semiconductors and vacuum tubes, on the other hand, are nonlinear components. Their resistance can vary with changing current or voltage, which means they do not consistently adhere to Ohm's Law, rendering options A and B incorrect.Option D is incorrect because it contradicts the fact that carbon resistors do comply with Ohm's Law.",
+      "explanationImage": null,
+      "hints": [
+        "Ohm's",
+        "law",
+        "applicable"
+      ]
+    },
+    {
+      "text": "_ potential difference is required for establishing steady current?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Minimum",
+          "isCorrect": false,
+          "explanation": "This option is not correct. A minimum potential difference is not always required to establish a steady current. The potential difference required depends on factors such as the resistance of the circuit and the desired current."
+        },
+        {
+          "letter": "B",
+          "text": "Constant",
+          "isCorrect": true,
+          "explanation": "This option is correct. A constant potential difference is required to establish a steady current in a circuit. If the potential difference changes, the current might also change accordingly."
+        },
+        {
+          "letter": "C",
+          "text": "Maximum",
+          "isCorrect": false,
+          "explanation": "This option is not correct. While a maximum potential difference can result in a higher current in a circuit, it is not a requirement for establishing a steady current."
+        },
+        {
+          "letter": "D",
+          "text": "Varying",
+          "isCorrect": false,
+          "explanation": "This option is not correct. A varying (changing) potential difference can lead to a changing current, which is not characteristic of a steady current."
+        }
+      ],
+      "explanation": "The potential difference is the amount of work done in moving a unit positive charge without acceleration from one point to another along any closed path between the two points.So, we need constant potential difference for establishing a steady current.",
+      "explanationImage": null,
+      "hints": [
+        "potential difference",
+        "steady",
+        "current"
+      ]
+    },
+    {
+      "text": "If the length of a potentiometer wire is doubled, the accuracy in determining the null point _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Is increased",
+          "isCorrect": true,
+          "explanation": "A potentiometer is a device used to measure potential difference (voltage) by comparing it with a known voltage. It consists of a uniform resistance wire, a galvanometer, and a sliding contact called the \"jockey.\" The null point is the position on the wire where there is no potential difference between the two ends.When the length of the potentiometer wire is doubled, the overall length of the wire increases. This allows for a finer resolution and more precise measurements. The increased length provides a larger range for the sliding contact to be adjusted, making it easier to find the exact null point. Therefore, the accuracy in determining the null point is increased."
+        },
+        {
+          "letter": "B",
+          "text": "Is decreased",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because increasing the length of the wire actually improves the accuracy, not decreases it. A longer wire allows for finer measurement increments."
+        },
+        {
+          "letter": "C",
+          "text": "Remains constant",
+          "isCorrect": false,
+          "explanation": "This is incorrect because the accuracy in determining the null point improves with the increased length of the potentiometer wire, contrary to the suggestion that it remains constant."
+        },
+        {
+          "letter": "D",
+          "text": "May increase or decrease",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because doubling the length of the wire consistently results in increased accuracy due to finer resolution, rather than it varying unpredictably."
+        }
+      ],
+      "explanation": "Option A is correct: Doubling the length of the potentiometer wire enhances the accuracy in determining the null point. The longer wire provides a greater range for the sliding contact (jockey) to move, allowing for more precise measurement and better resolution. This makes it easier to detect the exact point where the potential difference is zero.Options B, C, and D are incorrect: Increasing the length of the wire does not decrease or leave the accuracy unchanged, nor does it unpredictably change. The increased length consistently improves measurement precision, making these options inaccurate.",
+      "explanationImage": null,
+      "hints": [
+        "length",
+        "potentiometer",
+        "null point"
+      ]
+    },
+    {
+      "text": "An example of a non-ohmic resistor is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diode",
+          "isCorrect": true,
+          "explanation": "If a device behaves in a way that is NOT described by Ohm's law, (i.e. the resistance is not constant, but changes in a way that depends on the voltage across it), the device is said to be non-Ohmic.Graphite, copper, and tungsten are ohmic. Therefore, carbon resistors, copper wire, and tungsten are ohmic."
+        },
+        {
+          "letter": "B",
+          "text": "Tungsten wire",
+          "isCorrect": false,
+          "explanation": "Tungsten wire is considered an ohmic resistor because it generally obeys Ohm's Law, maintaining a constant resistance over a wide range of voltages and currents."
+        },
+        {
+          "letter": "C",
+          "text": "Carbon resistor",
+          "isCorrect": false,
+          "explanation": "A carbon resistor is typically an ohmic device, as it has a constant resistance and follows Ohm's Law under normal operating conditions."
+        },
+        {
+          "letter": "D",
+          "text": "Copper wire",
+          "isCorrect": false,
+          "explanation": "Copper wire is an ohmic conductor, meaning it follows Ohm's Law by maintaining a consistent resistance regardless of the current passing through it."
+        }
+      ],
+      "explanation": "Diodes are examples of non-ohmic resistors because they do not have a constant resistance and their current-voltage relationship is nonlinear, meaning they do not adhere to Ohm's Law. The resistance changes depending on the voltage across them. On the other hand, tungsten wire, carbon resistors, and copper wire are all examples of ohmic materials. They maintain a constant resistance over a range of voltages and currents, thus complying with Ohm's Law.",
+      "explanationImage": null,
+      "hints": [
+        "non-ohmic",
+        "resistor"
+      ]
+    },
+    {
+      "text": "EMF becomes equal to the terminal potential difference when the:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Circuit is closed",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. When the circuit is closed, current flows, and the terminal potential difference is less than the EMF due to the voltage drop across the internal resistance of the battery."
+        },
+        {
+          "letter": "B",
+          "text": "Current is maximum",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. When the current is maximum, the terminal potential difference is significantly less than the EMF due to the higher voltage drop across the internal resistance."
+        },
+        {
+          "letter": "C",
+          "text": "Circuit is open",
+          "isCorrect": true,
+          "explanation": "EMF is equal to the terminal potential difference when no current flows i.e. the circuit is open. The EMF (electromotive force) is the potential difference between the terminals of a battery when no current is flowing through an external circuit when the circuit is open.Terminal potential difference is the voltage across the terminals of the battery when the current is being drawn from it. The potential difference between the terminals of a battery will equal the EMF of the battery when there is no current in the battery. At this time the potential drop across the internal resistance is 0."
+        },
+        {
+          "letter": "D",
+          "text": "All of these options are correct",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because only the condition where the circuit is open results in the EMF being equal to the terminal potential difference."
+        }
+      ],
+      "explanation": "The EMF (electromotive force) represents the potential difference across the terminals of a battery when no current is flowing. When a circuit is open, no current flows, eliminating any voltage drop across the internal resistance of the battery, making the terminal potential difference equal to the EMF. In contrast, when the circuit is closed or the current is at its maximum, there is a non-zero current, resulting in a voltage drop across the internal resistance. This makes the terminal potential difference less than the EMF, invalidating options A and B. Therefore, option C is the only correct choice.",
+      "explanationImage": null,
+      "hints": [
+        "EMF",
+        "terminal potential difference"
+      ]
+    },
+    {
+      "text": "The equivalent resistance of the circuit across points A and B is equal to :",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "22.5 Ω",
+          "isCorrect": false,
+          "explanation": "This value could be a result of incorrect calculations of resistors in parallel or series."
+        },
+        {
+          "letter": "B",
+          "text": "25 Ω",
+          "isCorrect": true,
+          "explanation": "The long vertical wire in the middle makes the top, middle, and bottom junctions the same node (call it O).Any resistor whose two ends are connected to the same node OOO is effectively in parallel with a 0 Ω wire.Using the parallel combination formulaReq=R⋅0/R+0=0Those branches are bypassed (removed).That leaves only a 10 Ω between A and O and a 15 Ω between O and B. These two are a series combination, and by the series formulaRseries=R1+R2RAB​=10+15=25 Ω."
+        },
+        {
+          "letter": "C",
+          "text": "37.5 Ω",
+          "isCorrect": false,
+          "explanation": "This value could be a result of incorrect calculations of resistors in parallel or series."
+        },
+        {
+          "letter": "D",
+          "text": "75 Ω",
+          "isCorrect": false,
+          "explanation": "This could occur if the resistors were incorrectly assumed to be all in series without accounting for parallel connections."
+        }
+      ],
+      "explanation": "To find the equivalent resistance across points A and B, one must correctly identify which resistors are in series and which are in parallel. In this circuit, there is a combination of both series and parallel resistors. Start by resolving the parallel resistors using the formula 1/R_equiv = 1/R1 + 1/R2, and then add any series resistors directly. The correct total equivalent resistance turns out to be 37.5 Ω, as calculated by correctly applying these rules.Other options represent common errors such as ignoring parallel combinations or miscalculating the values of resistors in series.",
+      "explanationImage": null,
+      "hints": [
+        "equivalent",
+        "resistance",
+        "circuit"
+      ]
+    },
+    {
+      "text": "In the given circuit, the galvanometer G will show zero deflection if :",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "R1R2 = R3R4",
+          "isCorrect": false,
+          "explanation": "This equation does not represent the condition for a balanced bridge in this context."
+        },
+        {
+          "letter": "B",
+          "text": "R1R3 = R2R4",
+          "isCorrect": false,
+          "explanation": "This does not match the Wheatstone bridge balance condition and will not ensure zero current through the galvanometer."
+        },
+        {
+          "letter": "C",
+          "text": "R1R4 = R2R3",
+          "isCorrect": true,
+          "explanation": "The given circuit resembles a Wheatstone bridge, which is a configuration used to measure unknown resistances or to create a balanced circuit condition.In a balanced Wheatstone bridge, the galvanometer GG shows zero deflection when the ratio of the two pairs of resistors is equal, i.e.,R1/R2 = R3/R4Multiplying both sides gives:R1R4 = R2R3So, this is the correct condition for zero deflection in the galvanometer."
+        },
+        {
+          "letter": "D",
+          "text": "None of the above",
+          "isCorrect": false,
+          "explanation": "One of the options is indeed correct, making this option incorrect."
+        }
+      ],
+      "explanation": "The given circuit resembles a Wheatstone bridge, which is a configuration used to measure unknown resistances or to create a balanced circuit condition. In a balanced Wheatstone bridge, the galvanometer GG shows zero deflection when the ratio of the two pairs of resistors is equal, i.e.,R1/R2 = R3/R4Multiplying both sides gives:R1R4 = R2R3So, this is the correct condition for zero deflection in the galvanometer.",
+      "explanationImage": null,
+      "hints": [
+        "circuit",
+        "galvanometer",
+        "zero deflection"
+      ]
+    },
+    {
+      "text": "Two heaters A and B are connected in parallel across the supply voltage. Heater A produces 500 kJ in 20 minutes and B produces 1000 kJ in 10 minutes. The resistance of A is 100 Ω . If the same heaters are connected in series across the same voltage, the heat produced in 5 minutes will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "200 kJ",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The correct calculation yields 100 kJ. When connected in series, the total resistance increases, reducing the current and thus the heat produced."
+        },
+        {
+          "letter": "B",
+          "text": "100 kJ",
+          "isCorrect": true,
+          "explanation": "According to the calculation given below, the correct answer is 100kJ. Hence, this option is correct. We use the formula,H = I²RtWe can also put I=V/R in the above equation according to Ohm's law."
+        },
+        {
+          "letter": "C",
+          "text": "50 kJ",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The correct calculation yields 100 kJ. The heat produced is greater than 50 kJ due to both resistances contributing to the total resistance in series."
+        },
+        {
+          "letter": "D",
+          "text": "10 kJ",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The correct calculation yields 100 kJ. Heat production is significantly more than 10 kJ when both heaters are in series."
+        }
+      ],
+      "explanation": "To solve this problem, we start by calculating the power of each heater in parallel. Heater A operates at 500 kJ in 20 minutes, which translates to a power of 500 kJ/1200 seconds = 416.67 W. Heater B operates at 1000 kJ in 10 minutes, translating to a power of 1000 kJ/600 seconds = 1666.67 W.Using P = V²/R, we determine the voltage across each heater. Since heater A's resistance is 100 Ω, its voltage is √(416.67 W * 100 Ω) = 204.12 V.When connected in series, the total resistance is the sum of the resistances of A and B. Assuming the same supply voltage, the current through both heaters is lower, reducing the total power and thus the heat produced. Using the formula H = I²Rt, with the new current and the total series resistance, we find the heat produced is 100 kJ in 5 minutes.Options 200 kJ, 50 kJ, and 10 kJ are incorrect because they miscalculate the effect of the series connection on the total resistance and current.",
+      "explanationImage": null,
+      "hints": [
+        "parallel",
+        "series",
+        "500 kJ in 20 minutes",
+        "1000 kJ in 10 minutes",
+        "100 Ω ."
+      ]
+    },
+    {
+      "text": "It is required to measure the equivalent resistance of a circuit with an ideal battery, ideal voltmeter & ideal ammeter. Which circuit diagram shows voltmeter V and ammeter A correctly positioned to measure the total resistance of the circuit?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Option A",
+          "isCorrect": true,
+          "explanation": "A voltmeter is always connected in parallel, and an ammeter is always connected in series. As only this option shows the correct arrangement, this is the correct answer."
+        },
+        {
+          "letter": "B",
+          "text": "Option B",
+          "isCorrect": false,
+          "explanation": "The voltmeter is in series — Incorrect. Voltmeters must be in parallel, not series. Also, the ammeter is before any resistance, but the voltmeter does not measure the entire drop."
+        },
+        {
+          "letter": "C",
+          "text": "Option C",
+          "isCorrect": false,
+          "explanation": "Ammeter is in parallel — Incorrect. Ammeters must be connected in series to measure total current. Putting an ammeter in parallel with a resistance is dangerous in real life and gives a wrong reading."
+        },
+        {
+          "letter": "D",
+          "text": "Option D",
+          "isCorrect": false,
+          "explanation": "The voltmeter is across only one resistor — Incorrect. It doesn't measure total circuit voltage, just partial drop."
+        }
+      ],
+      "explanation": "A voltmeter is always connected in parallel, and an ammeter is always connected in series. As only option A shows the correct arrangement, this is the correct answer.",
+      "explanationImage": null,
+      "hints": [
+        "equivalent",
+        "equivalent resistance",
+        "voltmeter",
+        "ammeter"
+      ]
+    },
+    {
+      "text": "The figure shows a meter bridge circuit, X = 12 Ω and R = 18 Ω. The jockey J is in the position of balance. If R is made 8Ω, through what distance will the jockey J have to be moved to obtain balance?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 cm",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The balance point shifts more than this distance when R is changed to 8 Ω."
+        },
+        {
+          "letter": "B",
+          "text": "20 cm",
+          "isCorrect": true,
+          "explanation": "X=12ΩInitial R=18 ΩNew R=8 Meter bridge length = 100 cmLet the distance AJ be y1 before shifting and y2 after shifting.Before shifting:12/y1 = 18/100-y₁ => y₁ = 40cmAfter shifting: 12/y2 = 8/100-y₂ => y2 = 60 cmTherefore distance moved = 60–40 = 20 cmHence, this option is correct."
+        },
+        {
+          "letter": "C",
+          "text": "30 cm",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The shift is less than 30 cm. Detailed calculations show the shift is 20 cm."
+        },
+        {
+          "letter": "D",
+          "text": "40 cm",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A shift of 40 cm would imply a more significant change in resistance or a different initial setup."
+        }
+      ],
+      "explanation": "To solve this problem, we use the principle of a meter bridge, which states that at balance, the ratio of resistances is equal to the ratio of the lengths of the wire segments. Initially, when R = 18 Ω, we have:12/y1 = 18/(100-y₁) → y₁ = 40 cm.When R is changed to 8 Ω, the new balance equation is:12/y2 = 8/(100-y₂) → y₂ = 60 cm.Therefore, the jockey J has to be moved a distance of y₂ - y₁ = 60 cm - 40 cm = 20 cm to regain balance. The other options represent incorrect calculations of the balance shift and do not match the conditions specified by the problem statement.",
+      "explanationImage": null,
+      "hints": [
+        "meter bridge",
+        "position of balance"
+      ]
+    },
+    {
+      "text": "The charge flown through a resistance R in time t varies with time according to Q = at – bt2. The total heat produced in R by the time current becomes zero is :",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "a3R/6b",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. Integrate the power with respect to time until the current reaches zero."
+        },
+        {
+          "letter": "B",
+          "text": "a3R/2b",
+          "isCorrect": false,
+          "explanation": "Incorrect. This option results from a miscalculation in the integration limits or factors."
+        },
+        {
+          "letter": "C",
+          "text": "a3R/3b",
+          "isCorrect": false,
+          "explanation": "Incorrect. This option results from an error in the integration of the power function."
+        },
+        {
+          "letter": "D",
+          "text": "a3R/2b",
+          "isCorrect": false,
+          "explanation": "Incorrect. This is a duplicate of Option B and results from a similar error."
+        }
+      ],
+      "explanation": "The charge Q = at - bt2 gives us the current I as the derivative: I = dQ/dt = a - 2bt. The current becomes zero at time t = a/2b. The power dissipated as heat in the resistor is P = I2R. Substitute I = a - 2bt into the power expression, giving P = (a - 2bt)2R. To find the total heat produced, integrate P from t = 0 to t = a/2b. The correct integration yields a total heat of a3R/6b. Options B, C, and D involve errors in setting the integration limits or calculating the integral.",
+      "explanationImage": null,
+      "hints": [
+        "charge",
+        "time",
+        "current"
+      ]
+    },
+    {
+      "text": "If the switch is closed then the current will flow:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "From A to B",
+          "isCorrect": true,
+          "explanation": "Given:Left branch:Top: R1=10 ΩBottom: R2=5 ΩRight branch:Top: R3=5 ΩBottom: R4=10 ΩStep 1: Check the balance condition of the Wheatstone BridgeR1/R2 = 10/5= 2,R3/R4= 5/10 = 0.5⇒2 ≠ 0.5The bridge is not balanced, so current will flow through the galvanometer.Step 2: Use the potential divider ruleAssume total battery voltage = VVVLeft side current:I = 10 V/15Right side current:I = 5 V/15Step 3: Compare potentialsVA​>VB​So, current flows from A to B through the galvanometer."
+        },
+        {
+          "letter": "B",
+          "text": "From B to A",
+          "isCorrect": false,
+          "explanation": "Incorrect. Potential at A is greater than at B (VA > VB), so current cannot flow from B to A."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "incorrect as its not balanced"
+        },
+        {
+          "letter": "D",
+          "text": "Cannot say unless the resistance of the galvanometer is given",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given below."
+        }
+      ],
+      "explanation": "Given:Left branch:Top: R1=10 ΩBottom: R2=5 ΩRight branch:Top: R3=5 ΩBottom: R4=10 ΩStep 1: Check the balance condition of the Wheatstone BridgeR1/R2 = 10/5= 2,R3/R4= 5/10 = 0.5⇒2 ≠ 0.5The bridge is not balanced, so current will flow through the galvanometer.Step 2: Use the potential divider ruleAssume total battery voltage = VVVLeft side current:I = 10 V/15Right side current:I = 5 V/15Step 3: Compare potentialsVA​>VB​So, current flows from A to B through the galvanometer.",
+      "explanationImage": null,
+      "hints": [
+        "closed"
+      ]
+    },
+    {
+      "text": "A charge passing through a resistor is varying with time as shown in the figure. The amount of heat generated in time 't' is best represented (as a function of time) by:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Heat generated is constant over time",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the heat generated is not constant when the current is varying with time."
+        },
+        {
+          "letter": "B",
+          "text": "Heat generated decreases linearly with time",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because as the current varies, the relationship between heat and time is not linear in terms of decrease."
+        },
+        {
+          "letter": "C",
+          "text": "Heat generated increases proportionally with time",
+          "isCorrect": true,
+          "explanation": "This option is correct. The heat generated in a resistor is given by the equation Q = I²RT, where I is the current, R is the resistance, and T is the time. If the current varies, the heat generated would be a function of the square of the current, making it proportional over time."
+        },
+        {
+          "letter": "D",
+          "text": "Heat generated decreases exponentially with time",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the heat generation is not described by an exponential decrease in the context of varying current."
+        }
+      ],
+      "explanation": "The heat generated in a resistor due to a current is governed by the formula Q = I²RT. In this scenario, since the charge and hence the current is varying with time, the heat generated can be represented as a function of time. The correct option, Option C, indicates that the heat generated is proportional to time, aligning with the equation. Option A is incorrect because it assumes a constant heat generation, which does not account for the varying current. Option B is incorrect because it suggests a linear decrease, which does not match the physical principles involved. Option D is incorrect as it assumes an exponential decrease, which is not applicable here.",
+      "explanationImage": null,
+      "hints": [
+        "charge",
+        "time"
+      ]
+    },
+    {
+      "text": "A 50 Ampere-hour battery can supply a current of 50 A for 1 hour, 25 A for 2 hour, and so on. Then the total energy stored in the 12V-50 Ampere-hour battery is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "600 J",
+          "isCorrect": false,
+          "explanation": "This option incorrectly calculates energy using joules rather than watt-hours. The correct unit for this battery's energy calculation should be in watt-hours."
+        },
+        {
+          "letter": "B",
+          "text": "600 Wh",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. It is calculated as Energy = Voltage × Capacity = 12V × 50Ah = 600Wh."
+        },
+        {
+          "letter": "C",
+          "text": "Depends on for how much time it is used",
+          "isCorrect": false,
+          "explanation": "This option is misleading. While the duration affects how long the battery can supply current, the total energy stored is fixed and does not depend on usage time."
+        },
+        {
+          "letter": "D",
+          "text": "3.6× 104 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it represents a different energy calculation. 3.6 × 104 J equals 10 Wh, which is not the total energy for a 50 Ah battery at 12V."
+        }
+      ],
+      "explanation": "The energy stored in a battery can be calculated using the formula: Energy (Wh) = Voltage (V) × Capacity (Ah). In this case, the battery has a voltage of 12V and a capacity of 50Ah. Therefore, the total energy stored is:Energy = 12V × 50Ah = 600Wh.Option A (600 J) is incorrect because it uses joules instead of watt-hours as the unit of energy for this context. Option C is misleading because, although the time affects how long the energy can be drawn, it does not change the total stored energy. Option D (3.6 × 104 J) is also incorrect as it represents a much lower value, equivalent to 10 Wh, which does not reflect the actual energy capacity of the battery. Thus, the correct answer is Option B (600 Wh).",
+      "explanationImage": null,
+      "hints": [
+        "12V",
+        "50 Ampere-hour"
+      ]
+    },
+    {
+      "text": "In the figure shown the thermal power generated in ' y ' is maximum when y = 4 Ω . Then X is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 Ω",
+          "isCorrect": false,
+          "explanation": "If the load resistance is 2 Ω, it does not match the condition for maximum power transfer when the load is 4 Ω."
+        },
+        {
+          "letter": "B",
+          "text": "3 Ω",
+          "isCorrect": true,
+          "explanation": "The source resistance must be equal to the load resistance for maximum power transfer. Hence, if y = 4 Ω for maximum power, X must be 3 Ω in this specific configuration."
+        },
+        {
+          "letter": "C",
+          "text": "1 Ω",
+          "isCorrect": false,
+          "explanation": "A source resistance of 1 Ω would not satisfy the condition for maximum power transfer with a load of 4 Ω."
+        },
+        {
+          "letter": "D",
+          "text": "6 Ω",
+          "isCorrect": false,
+          "explanation": "A source resistance of 6 Ω exceeds the load resistance, which does not satisfy the condition for maximum power transfer."
+        }
+      ],
+      "explanation": "The maximum power transfer theorem states that maximum power is transferred when the load resistance is equal to the source resistance. Given that the thermal power generated in 'y' is maximum when y = 4 Ω, it implies that the source resistance X should be 3 Ω in this configuration for the current to divide equally between X and y. Therefore, the correct answer is Option B: 3 Ω.Other options do not satisfy this condition: 2 Ω, 1 Ω, and 6 Ω would not result in maximum power transfer.",
+      "explanationImage": null,
+      "hints": [
+        "thermal power",
+        "maximum",
+        "y = 4 Ω"
+      ]
+    },
+    {
+      "text": "In the given circuit R1 > R2 . Find which of the following statements is correct.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Potential difference across R1 is higher",
+          "isCorrect": false,
+          "explanation": "We are given a parallel circuit where R1>R2In parallel, both have same potential difference"
+        },
+        {
+          "letter": "B",
+          "text": "Current through R1 is greater than in R2",
+          "isCorrect": false,
+          "explanation": "Higher resistance → less current."
+        },
+        {
+          "letter": "C",
+          "text": "Power consumed in R1 is greater than in R2",
+          "isCorrect": false,
+          "explanation": "R1 > R2. So, P1 < P2"
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": true,
+          "explanation": "In a parallel circuit, all resistors have the same potential difference across them, regardless of their resistance. So, the voltage across R1 and R2​ is equal.The current through each resistor in parallel depends on its resistance. The resistor with less resistance allows more current. Since R1>R2R_1 > R_2R1​>R2​, the current through R1 is less than through R2Similarly, power dissipated in a resistor is inversely proportional to resistance when voltage is constant. So, the resistor with lower resistance (i.e., R2) will consume more power than R1."
+        }
+      ],
+      "explanation": "In a parallel circuit, all resistors have the same potential difference across them, regardless of their resistance. So, the voltage across R1 and R2​ is equal.The current through each resistor in parallel depends on its resistance. The resistor with less resistance allows more current. Since R1>R2R_1 > R_2R1​>R2​, the current through R1 is less than through R2Similarly, power dissipated in a resistor is inversely proportional to resistance when voltage is constant. So, the resistor with lower resistance (i.e., R2) will consume more power than R1.",
+      "explanationImage": null,
+      "hints": [
+        "R<sub>1</sub>",
+        "R<sub>2</sub>",
+        "circuit"
+      ]
+    },
+    {
+      "text": "Find the current through the 30 Ω resistor in the circuit shown.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2/6 Ampere",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The calculation of current using the potential difference across the 30 Ω resistor does not give this value. Re-evaluate the potential difference and apply Ohm's Law correctly."
+        },
+        {
+          "letter": "B",
+          "text": "3/6 Ampere",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The potential difference across the 30 Ω resistor, when calculated accurately, does not result in this current value. Ensure you have used the right potential difference values in your calculations."
+        },
+        {
+          "letter": "C",
+          "text": "4/6 Ampere",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A correct application of Ohm's Law using the potential difference across the resistor will not yield this current value. Double-check the values used in your calculation."
+        },
+        {
+          "letter": "D",
+          "text": "5/6 Ampere",
+          "isCorrect": true,
+          "explanation": "This option is correct. By using the potential difference across the 30 Ω resistor, calculated as 25 volts (since 10–(–15) = 25), and applying Ohm's Law, I = V/R, the current is found to be 25/30 = 5/6 A."
+        }
+      ],
+      "explanation": "To find the current through the 30 Ω resistor, you need to determine the potential difference across it. The given potentials are 10 V and -15 V. Thus, the potential difference is 10 - (-15) = 25 volts. Applying Ohm's Law, I = V/R, where V is the potential difference and R is the resistance (30 Ω), we find the current I = 25/30 = 5/6 A. Therefore, the correct answer is 5/6 Ampere.The other options (2/6, 3/6, and 4/6 Ampere) do not result from the correct calculation using the given potential difference, indicating errors in those potential difference values or arithmetic operations.",
+      "explanationImage": null,
+      "hints": [
+        "current",
+        "30 Ω resistor"
+      ]
+    },
+    {
+      "text": "In the circuit shown the variable resistance X is to be adjusted such that the ideal ammeter reads the same in both the positions of the key, when connected independently to 1 and then to 2. The reading of the ammeter is 2A. If E = 10 V, then x is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 Ω",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. By setting the variable resistance X to 5 Ω, the circuit ensures the same current of 2A in both positions due to the consistent voltage and resistive setup."
+        },
+        {
+          "letter": "B",
+          "text": "20 Ω",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A resistance of 20 Ω would result in a different current reading due to the change in total resistance in the circuit, which cannot maintain the 2A reading."
+        },
+        {
+          "letter": "C",
+          "text": "50 Ω",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. With a resistance of 50 Ω, the circuit would have a significantly higher resistance, resulting in a lower current, not the required 2A."
+        },
+        {
+          "letter": "D",
+          "text": "Cannot be determined",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The problem provides enough information to determine the correct resistance value. Therefore, the answer can indeed be determined."
+        }
+      ],
+      "explanation": "To solve this problem, we use Ohm's Law and the concept of equivalent resistance. We need the same current of 2A through the ammeter in both scenarios, which implies that the total resistance in the circuit must remain the same. Given that E = 10V and I = 2A, we apply the formula E = IR, which gives us R = E/I = 10V/2A = 5 Ω. This is the required resistance that allows the current to remain constant at 2A.Option A is correct because 5 Ω is the resistance needed. Options B and C are incorrect because they suggest resistance values that would change the current in the circuit. Option D is incorrect because the correct resistance can indeed be determined with the given information.",
+      "explanationImage": null,
+      "hints": [
+        "variable resistance",
+        "ideal ammeter",
+        "reading of the ammeter"
+      ]
+    },
+    {
+      "text": "Find the current passing through the 10 Ω resistor in the figure below.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "5/31 A",
+          "isCorrect": true,
+          "explanation": "This is the correct option. Using the total resistance and the applied voltage, the current through the 10 Ω resistor is calculated as 5/31 A."
+        },
+        {
+          "letter": "B",
+          "text": "6/31 A",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A miscalculation or incorrect application of Ohm's Law may have led to this answer."
+        },
+        {
+          "letter": "C",
+          "text": "4/31 A",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Re-evaluate the connections and calculations involving the resistors to avoid such an error."
+        },
+        {
+          "letter": "D",
+          "text": "none of these",
+          "isCorrect": false,
+          "explanation": "This is incorrect because option A is indeed the correct answer based on proper calculation."
+        }
+      ],
+      "explanation": "The current through the 10 Ω resistor is found by applying Ohm's Law, I = V/R, where V is the voltage across the resistor and R is its resistance. First, determine the total resistance of the circuit and the total current supplied. Then, use the voltage drop across the 10 Ω resistor to find the current through it. Option A, 5/31 A, is correct because it accurately reflects this calculation. Options B and C result from potential calculation errors, while option D is incorrect because option A is valid.",
+      "explanationImage": null,
+      "hints": [
+        "current",
+        "10 Ω",
+        "figure"
+      ]
+    },
+    {
+      "text": "Three resistors are arranged as shown. The potential of the point O is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 V",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. Applying KCL at point O allows us to determine that the potential is 3 V."
+        },
+        {
+          "letter": "B",
+          "text": "1 V",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A calculation using KCL suggests that the potential is higher than 1 V."
+        },
+        {
+          "letter": "C",
+          "text": "4 V",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A correct application of KCL results in a potential lower than 4 V."
+        },
+        {
+          "letter": "D",
+          "text": "5 V",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The potential calculated using KCL is less than 5 V, indicating this choice is too high."
+        }
+      ],
+      "explanation": "To find the potential at point O, we apply Kirchhoff's Current Law (KCL), which states that the sum of currents entering a junction equals the sum of currents leaving the junction. Assuming I1, I2, and I3 are the currents through the resistors, KCL gives us: I1 + I2 + I3 = 0. Solving this equation with the given circuit values, we find that the potential at point O is 3 V. Options B (1 V), C (4 V), and D (5 V) are incorrect as they do not satisfy the KCL equation applied to this circuit.",
+      "explanationImage": null,
+      "hints": [
+        "resistors",
+        "potential",
+        "point O"
+      ]
+    },
+    {
+      "text": "An electric heater is designed to operate in a 100 V main with a power output of 1000 W. When it is connected to a 25 V source, the power output is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "40 W",
+          "isCorrect": false,
+          "explanation": "Using the formula P = V²/R, this calculation is incorrect because the resistance was not derived from the initial conditions correctly. See the main explanation for details."
+        },
+        {
+          "letter": "B",
+          "text": "100 W",
+          "isCorrect": false,
+          "explanation": "This calculation is incorrect when using P = V²/R. The resistance was not accurately used based on the initial conditions. See the main explanation for details."
+        },
+        {
+          "letter": "C",
+          "text": "62.5 W",
+          "isCorrect": true,
+          "explanation": "We use the formula,P = V²/R The resistance of the bulb rated 100V, 1000W is:R = V²/P = 100x100/1000R = 10ΩHence, when the bulb is connected to 25 volt source the output power is:P=V²/R = 25×25/10 = 62.5 WattsHence, this option is correct."
+        },
+        {
+          "letter": "D",
+          "text": "250 W",
+          "isCorrect": false,
+          "explanation": "Using the formula P = V²/R, this calculation is incorrect as it does not consider the resistance derived from the initial conditions correctly. See the main explanation for details."
+        }
+      ],
+      "explanation": "To solve this problem, we need to determine the resistance of the heater at its rated conditions. The heater is rated for 100 V and 1000 W. Using the formula for power, P = V²/R, we can find the resistance:R = V²/P = 100×100/1000 = 10Ω.Now, using the same resistance with a new voltage of 25 V, we calculate the new power output:P = V²/R = 25×25/10 = 62.5 W.Therefore, the correct answer is 62.5 W.The other options are incorrect because they either use incorrect resistance or do not apply the formula correctly under the changed voltage conditions.",
+      "explanationImage": null,
+      "hints": [
+        "electric heater",
+        "100 V",
+        "25 V"
+      ]
+    },
+    {
+      "text": "In the meter bridge shown, the resistor R has a negative temperature coefficient of resistance. Neglecting the variation in other resistors, when current is passed for some time in the circuit, the balance point should shift towards:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": true,
+          "explanation": "As current will flow, heat will be produced in the circuit. So, R will decrease. So, the balance point will shift towards the left. Therefore, this option is correct."
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": "As current will flow, heat will be produced in the circuit. So, R will decrease. So, the balance point will shift towards the left and not right. Hence, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "First A then B",
+          "isCorrect": false,
+          "explanation": "It will only move to the A and not to B because as current will flow, heat will be produced in the circuit. So, R will decrease. So, the balance point will shift towards the left. Hence, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "It will remain at C",
+          "isCorrect": false,
+          "explanation": "It can not remain at C as current will flow, heat will be produced in the circuit. So, R will decrease. So, the balance point will shift towards the left. Hence, this option is incorrect."
+        }
+      ],
+      "explanation": "Option A is correct as current will flow, heat will be produced in the circuit. So, R will decrease. So, the balance point will shift towards the left.",
+      "explanationImage": null,
+      "hints": [
+        "Neglecting",
+        "negative"
+      ]
+    },
+    {
+      "text": "If the galvanometer shows null deflection in the given figure then the value of Y is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 Ω",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The calculation does not satisfy the condition for null deflection in the circuit."
+        },
+        {
+          "letter": "B",
+          "text": "200 Ω",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Re-evaluate the circuit and apply the appropriate equations to find the correct resistance."
+        },
+        {
+          "letter": "C",
+          "text": "300 Ω",
+          "isCorrect": true,
+          "explanation": "VA - VB =3V=i1Yi1 = 12/100+800+Y = 12/900+ Yi1Y=3 12Y/900+ Y = 3Y = 300Ω Hence, this option is correct."
+        },
+        {
+          "letter": "D",
+          "text": "400 Ω",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The solution to the equations does not match this value."
+        }
+      ],
+      "explanation": "To solve for Y, use the concept of null deflection which implies that the potential difference across the galvanometer is zero. This means that the potential difference across the resistor Y must equal the potential difference across the rest of the circuit loop. Using Kirchhoff’s loop rule, we calculate: VA - VB = 3V = i1Y, where i1 is the current through the circuit. By setting up the equation i1 = 12/(100 + 800 + Y), and substituting into the equation for null deflection, we solve for Y and find that Y = 300 Ω. Options A, B, and D do not satisfy this equation, hence are incorrect.",
+      "explanationImage": null,
+      "hints": [
+        "galvanometer",
+        "null",
+        "deflection"
+      ]
+    },
+    {
+      "text": "In the circuit shown, the potential drop across the 6 Ω resistor is 12 V. The emf of the ideal battery is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 V",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The potential drop across the 6 Ω resistor is given as 12 V, which means the current through it is 2 A. The total emf must account for the entire circuit."
+        },
+        {
+          "letter": "B",
+          "text": "16 V",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. If the potential drop across the 6 Ω resistor is 12 V, then the current is 2 A. The emf must be larger to account for any other components in the circuit."
+        },
+        {
+          "letter": "C",
+          "text": "24 V",
+          "isCorrect": true,
+          "explanation": "This is the correct option. With a 12 V drop across a 6 Ω resistor, the current is 2 A. If the circuit only has this resistor, the emf is the potential drop (12 V) plus any other drops needed to drive the full circuit current, which would be 24 V in this simplified scenario."
+        },
+        {
+          "letter": "D",
+          "text": "32 V",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The calculations show that the emf needed is 24 V, not 32 V. 32 V would imply additional resistive components not accounted for in the problem statement."
+        }
+      ],
+      "explanation": "To solve this problem, we use Ohm's Law, V = IR. Given that the potential drop across the 6 Ω resistor is 12 V, we can calculate the current through it: I = V/R = 12 V / 6 Ω = 2 A. Assuming this is the only resistor in the circuit, and since the battery is ideal (no internal resistance), the emf of the battery must equal the potential drop required to maintain this current, which is 24 V. Thus, Option C is correct. All other options either underestimate or overestimate the necessary emf based on the given potential drop across the resistor.",
+      "explanationImage": null,
+      "hints": [
+        "potential drop",
+        "6 Ω resistor"
+      ]
+    },
+    {
+      "text": "A plausible reason for the increase in resistivity of most of the conductors with temperature is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The mass of the electron changes with temperature",
+          "isCorrect": false,
+          "explanation": "The mass of the electron is a fundamental constant and does not change with temperature in the context of classical physics. Therefore, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "The charge on each electron changes with temperature",
+          "isCorrect": false,
+          "explanation": "The charge of an electron is a fundamental constant and does not change with temperature in the context of classical physics. Therefore, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "The electron density changes with temperature",
+          "isCorrect": false,
+          "explanation": "Electron density refers to the number of electrons per unit volume. In most conductors, the number of electrons per unit volume remains constant with temperature, especially in solids where the number of free electrons is fixed by the material's atomic structure. Therefore, this option is unlikely to explain the increase in resistivity with temperature."
+        },
+        {
+          "letter": "D",
+          "text": "The time between collisions changes with temperature",
+          "isCorrect": true,
+          "explanation": "This option is plausible. In conductors, the resistivity is often influenced by the scattering of electrons as they move through the material. As temperature increases, the lattice vibrations (thermal motion of atoms) in the conductor also increase, leading to more frequent collisions between electrons and lattice ions. These collisions impede the flow of electrons, resulting in an increase in resistivity with temperature. Therefore, the time between collisions indeed changes with temperature, affecting the resistivity of the conductor."
+        }
+      ],
+      "explanation": "This option is plausible. In conductors, the resistivity is often influenced by the scattering of electrons as they move through the material. As temperature increases, the lattice vibrations (thermal motion of atoms) in the conductor also increase, leading to more frequent collisions between electrons and lattice ions. These collisions impede the flow of electrons, resulting in an increase in resistivity with temperature. Therefore, the time between collisions indeed changes with temperature, affecting the resistivity of the conductor.",
+      "explanationImage": null,
+      "hints": [
+        "increase",
+        "resistivity",
+        "conductors",
+        "temperature"
+      ]
+    },
+    {
+      "text": "The e.m.f of the driver cell in a potentiometer circuit is 10 V. The length of the potentiometer wire is 1 m and its resistance is 9 Ω. A cell of e.m.f 5 V is balanced on the 5/9 m length of the wire. The internal resistance of the driver cell is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 Ω",
+          "isCorrect": true,
+          "explanation": "Here, the potential difference V = 5VE=10V,L=1m, length l=5/9mResistance, R=9Ω,r=?We know that,V=E/(R+r)×r I/L5=10/(9+r)×r/1×5/9r+9=10⇒ Internal resistance r=1Ω"
+        },
+        {
+          "letter": "B",
+          "text": "0.1 Ω",
+          "isCorrect": false,
+          "explanation": "This option suggests that the internal resistance is 0.1 Ω however, the calculations give the internal resistance value as 1 Ω. Hence, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "2 Ω",
+          "isCorrect": false,
+          "explanation": "This option suggests that the internal resistance is 2 Ω however, the calculations give the internal resistance value as 1 Ω. Hence, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "0.5 Ω",
+          "isCorrect": false,
+          "explanation": "This option suggests that the internal resistance is 0.5 Ω however, the calculations give the internal resistance value as 1 Ω. Hence, this option is incorrect."
+        }
+      ],
+      "explanation": "Here, the potential difference V = 5VE=10V,L=1m, length l=5/9mResistance, R=9Ω,r=?We know that,V=E/(R+r)×r I/L5=10/(9+r)×r/1×5/9r+9=10⇒ Internal resistance r=1Ω",
+      "explanationImage": null,
+      "hints": [
+        "e.m.f",
+        "potentiometer",
+        "10 V",
+        "1 m",
+        "9 Ω",
+        "5 V",
+        "5/9 m l",
+        "internal resistance"
+      ]
+    },
+    {
+      "text": "In an arrangement, 3n cells of emf ε and internal resistance r are connected in series. Out of 3n cells, the polarity of n cells is reversed. Current in the circuit is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2ε/r",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The effective emf does not result in twice the emf divided by the resistance."
+        },
+        {
+          "letter": "B",
+          "text": "2ε/3r",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The effective internal resistance should be considered for all cells, not just a fraction."
+        },
+        {
+          "letter": "C",
+          "text": "ε/3r",
+          "isCorrect": true,
+          "explanation": "According to the explanation given below, this option is correct. Eeffective = ε reffective = 3r Hence i = ε/3r This option is correct."
+        },
+        {
+          "letter": "D",
+          "text": "ε/r",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it does not account for the increased resistance due to the total number of cells in series."
+        }
+      ],
+      "explanation": "In this arrangement, you have 3n cells, each with emf ε and internal resistance r, connected in series. When n cells have their polarity reversed, these cells effectively subtract their emf from the total emf of the circuit. So, the effective emf is (3n - n)ε = 2nε - nε = ε. The total internal resistance is the sum of the internal resistances of all 3n cells, which is 3n * r = 3r. Therefore, the current in the circuit is given by Ohm's Law as i = Eeffective / reffective = ε / 3r.Option C correctly reflects this calculation. Options A, B, and D incorrectly calculate the current by either ignoring the reversed cells or incorrectly combining the resistances and emfs.",
+      "explanationImage": null,
+      "hints": [
+        "3n cells",
+        "polarity",
+        "current"
+      ]
+    },
+    {
+      "text": "In the circuit shown in the figure, current through the 5 Ω resistor is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 A",
+          "isCorrect": false,
+          "explanation": "The given circuit is a balanced Wheatstone bridge. So, the current through the 5Ω resistor is zero. Hence, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "2 A",
+          "isCorrect": false,
+          "explanation": "The given circuit is a balanced Wheatstone bridge. So, the current through the 5Ω resistor is zero. Hence, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "The given circuit is a balanced Wheatstone bridge. So, the current through the 5Ω resistor is zero. Hence, this option is correct. RAC​=(8∥4)=8×4/8+4​=32/12​=2.667 Ω.Path C→B→D resistance =5+8=13 Ω.13 Ω in parallel with 16 Ω⇒RCD=13×16/13+16=208/29=7.172 ΩReq​=2.667+7.172=9.839 Ω. Itot=10/9.839=1.0166 AVoltage across C ⁣− ⁣D: V=Itot×RCD=1.0166×7.172=7.289 VCurrent through 5 Ω (same as through C ⁣B ⁣D series): I=7.289/13=0.561 A≈0.56 A"
+        },
+        {
+          "letter": "D",
+          "text": "0.5 A",
+          "isCorrect": false,
+          "explanation": "The given circuit is a balanced Wheatstone bridge. So, the current through the 5Ω resistor is zero. Hence, this option is incorrect."
+        }
+      ],
+      "explanation": "Option C is correct because the given circuit is a balanced Wheatstone bridge. So, the current through the 5Ω resistor is zero.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The potentiometer wire PQ is 100 cm long and its resistance is 2r, where r is the internal resistance of the battery. PC is equal to :",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "25 cm",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A balance point at 25 cm would imply an incorrect understanding of the potential gradient and internal resistance relationship."
+        },
+        {
+          "letter": "B",
+          "text": "75 cm",
+          "isCorrect": true,
+          "explanation": "This option is correct. It is based on the calculations where the balance point of the potentiometer is determined using the potential gradient and the given resistances."
+        },
+        {
+          "letter": "C",
+          "text": "50 cm",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A balance point at 50 cm does not correspond with the given resistance relationships and potential gradient."
+        },
+        {
+          "letter": "D",
+          "text": "40 cm",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A balance point at 40 cm is not consistent with the potential drop needed for balance with the given parameters."
+        }
+      ],
+      "explanation": "The potentiometer works by comparing the EMF of a cell with a potential drop across a known length of wire. Since the wire PQ is 100 cm long, and its resistance is 2r, where r is the internal resistance of the battery, the potential drop is proportional to the length of the wire. The balance point PC is found by equating the potential difference across PC with the EMF of the unknown source. Thus, the balance point is at 75 cm, where the potential difference equals the EMF, taking into account the internal resistance and the total resistance of the wire.",
+      "explanationImage": null,
+      "hints": [
+        "potentiometer",
+        "wire PQ",
+        "PC"
+      ]
+    },
+    {
+      "text": "Some light bulbs are connected in parallel to a 120 V source as shown in the figure. Each bulb dissipates an average power of 60 W. The circuit has a fuse F that burns out when the current in the circuit exceeds or equals 9 A. Determine the largest number of bulbs out of the following that can be used in the circuit without burning out the fuse.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "9",
+          "isCorrect": false,
+          "explanation": "With each bulb drawing 0.5 A, 9 bulbs would draw a total current of 4.5 A. Since this is below the fuse's limit of 9 A, more bulbs can be added. Hence, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "17",
+          "isCorrect": true,
+          "explanation": "Each bulb draws 0.5 A, so 17 bulbs would draw a total current of 8.5 A, which is within the fuse's limit of 9 A. This is the largest number of bulbs that can be used without burning out the fuse. Hence, this option is correct."
+        },
+        {
+          "letter": "C",
+          "text": "36",
+          "isCorrect": false,
+          "explanation": "36 bulbs would draw a total current of 18 A, which exceeds the fuse's limit of 9 A. Therefore, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "34",
+          "isCorrect": false,
+          "explanation": "34 bulbs would draw a total current of 17 A, which exceeds the fuse's limit of 9 A. Therefore, this option is incorrect."
+        }
+      ],
+      "explanation": "In a parallel circuit, each bulb operates independently with the same voltage across it. Each bulb draws a current of 0.5 A (since P = VI → I = P/V = 60/120 = 0.5 A). To find the maximum number of bulbs that can be used without exceeding the fuse limit of 9 A, we divide the total allowable current by the current per bulb: 9 A / 0.5 A = 18 bulbs. However, since adding one more bulb would reach the fuse limit, the largest safe number is 17 bulbs, which results in a total current of 8.5 A, below the fuse's limit. Hence, option B is correct. Options A, C, and D propose numbers of bulbs that either use less or exceed the allowable total current, making them incorrect.",
+      "explanationImage": null,
+      "hints": [
+        "parallel",
+        "fuse"
+      ]
+    },
+    {
+      "text": "An ammeter and a voltmeter are initially connected in series to a battery of zero internal resistance. When switch S1 is closed the reading of the voltmeter becomes half of the initial, whereas the reading of the ammeter becomes double. If now switch S2 is also closed, then the reading of the ammeter becomes:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3/2 times the initial value",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it does not account for the change in the circuit configuration after closing both switches."
+        },
+        {
+          "letter": "B",
+          "text": "3/2 times the value after closing S1",
+          "isCorrect": true,
+          "explanation": "This option is correct as it correctly reflects the impact of closing both switches on the ammeter reading, considering the effective resistance changes."
+        },
+        {
+          "letter": "C",
+          "text": "3/4 times the value after closing S1",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it underestimates the increase in current after closing both switches."
+        },
+        {
+          "letter": "D",
+          "text": "3/4 times the initial value",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it assumes a reduction in current that does not align with the circuit behavior after both switches are closed."
+        }
+      ],
+      "explanation": "Initially, the ammeter and voltmeter are in series with the battery, measuring the total voltage and current. When switch S1 is closed, the voltmeter's reading halves because the voltmeter now measures across a component with half the total resistance, while the ammeter's reading doubles due to the decreased resistance in series. When switch S2 is closed, the circuit configuration changes further, creating a parallel path that further decreases the total resistance. This results in an increased current, making the ammeter read 3/2 times the value after closing S1. The other options fail to account correctly for these changes in circuit configuration and their effects on current and voltage.",
+      "explanationImage": null,
+      "hints": [
+        "ammeter",
+        "voltmeter"
+      ]
+    },
+    {
+      "text": "In the circuit shown in the figure the resistance of the voltmeter is 6 K Ω. The voltmeter reading will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6V",
+          "isCorrect": false,
+          "explanation": "The voltmeter reading would not be 6V, as this assumes no voltage drop across the voltmeter's internal resistance."
+        },
+        {
+          "letter": "B",
+          "text": "5V",
+          "isCorrect": true,
+          "explanation": "This is the correct reading of the voltmeter, considering the internal resistance of 6 K Ω in the circuit."
+        },
+        {
+          "letter": "C",
+          "text": "4V",
+          "isCorrect": false,
+          "explanation": "The reading of 4V is not correct as it undervalues the actual voltage measured due to incorrect assumptions about the circuit's configuration."
+        },
+        {
+          "letter": "D",
+          "text": "3V",
+          "isCorrect": false,
+          "explanation": "The reading of 3V is too low and does not accurately represent the impact of the voltmeter's resistance on the circuit."
+        }
+      ],
+      "explanation": "To determine the correct voltmeter reading, we must consider the voltmeter's internal resistance of 6 K Ω. This resistance affects the circuit by creating a voltage divider that impacts the actual reading. After analyzing the circuit with this resistance in mind, the voltmeter will accurately read 5V. The other options (6V, 4V, and 3V) fail to account for this resistance properly, leading to incorrect readings.",
+      "explanationImage": null,
+      "hints": [
+        "circuit",
+        "voltmeter",
+        "6 K Ω"
+      ]
+    },
+    {
+      "text": "A wire carries a current of 2.0 A. What is the charge that has flowed through its cross–section in 1.0 s. How many electrons does this correspond to?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.0 C, 1.25 × 1019",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The calculation of charge using the formula q = it gives 2.0 C, not 3.0 C. Although the number of electrons is calculated correctly, the charge value is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "2.0 C, 1.25 × 1019",
+          "isCorrect": true,
+          "explanation": "We use the formula, i = q/t∴ q = it = (2.0 a) (1.0s) = 2.0 C q = ne ∴ n = q/e = 2.0/1.6x10−19= 1.25 × 1019 Hence this option is correct."
+        },
+        {
+          "letter": "C",
+          "text": "4.0 C, 1.25 × 1019",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The charge calculated from q = it is 2.0 C, not 4.0 C. The number of electrons is calculated correctly, but the charge value is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "2.0 C, 5.25 × 1019",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While the charge of 2.0 C is correct, the number of electrons calculated from q = ne is incorrect. The correct number of electrons should be 1.25 × 1019, not 5.25 × 1019."
+        }
+      ],
+      "explanation": "The current flowing through a wire is defined as the charge passing through a cross-section of the wire per unit time, given by the formula i = q/t. In this problem, we have i = 2.0 A and t = 1.0 s, so the charge q = it = (2.0 A)(1.0 s) = 2.0 C. To find the number of electrons, we use the formula q = ne, where e is the charge of one electron (approximately 1.6 × 10-19 C). Rearranging for n, we get n = q/e = 2.0 C / 1.6 × 10-19 C = 1.25 × 1019 electrons. Therefore, the correct option is B. Option A is incorrect due to the incorrect charge value, Option C is incorrect due to both incorrect charge and electron count, and Option D is incorrect due to an incorrect electron count.",
+      "explanationImage": null,
+      "hints": [
+        "current",
+        "charge"
+      ]
+    },
+    {
+      "text": "A dry cell delivering 2 A has a terminal voltage of 1.41V. What is the internal resistance of the cell if its open-circuit voltage is 1.59 V?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "5.09Ω",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The calculations do not align with the given values of voltage and current."
+        },
+        {
+          "letter": "B",
+          "text": "6.09Ω",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The calculations do not align with the given values of voltage and current."
+        },
+        {
+          "letter": "C",
+          "text": "7.09Ω",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The calculations do not align with the given values of voltage and current."
+        },
+        {
+          "letter": "D",
+          "text": "0.09Ω",
+          "isCorrect": true,
+          "explanation": "This option is correct. By using the formula for internal resistance, V = E - ir, where V is the terminal voltage, E is the emf, i is the current, and r is the internal resistance, you can solve for r: 1.41 = 1.59 - 2r, which simplifies to r = 0.09Ω."
+        }
+      ],
+      "explanation": "The correct answer is 0.09Ω. The internal resistance of a cell can be calculated using the formula V = E - ir, where V is the terminal voltage, E is the emf (open-circuit voltage), i is the current, and r is the internal resistance. Given V = 1.41 V, E = 1.59 V, and i = 2 A, substituting these values into the formula gives: 1.41 = 1.59 - 2r, which simplifies to r = 0.09Ω.The other options (5.09Ω, 6.09Ω, 7.09Ω) do not satisfy the equation derived from the given values and hence are incorrect.",
+      "explanationImage": null,
+      "hints": [
+        "terminal voltage",
+        "internal resistance"
+      ]
+    },
+    {
+      "text": "The sensitivity of a galvanometer of resistance 406 ohm is increased by 30 times. The shunt used is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "88 Ω",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given below."
+        },
+        {
+          "letter": "B",
+          "text": "14 Ω",
+          "isCorrect": true,
+          "explanation": "The calculation given below shows that answer is 14Ω. Hence, this option is correct."
+        },
+        {
+          "letter": "C",
+          "text": "6 Ω",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given below."
+        },
+        {
+          "letter": "D",
+          "text": "16 Ω.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given below."
+        }
+      ],
+      "explanation": "This is the following solution:",
+      "explanationImage": null,
+      "hints": [
+        "increased"
+      ]
+    },
+    {
+      "text": "When cells are arranged in parallel:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The current capacity decreases",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as the current capacity increases. It does not decrease."
+        },
+        {
+          "letter": "B",
+          "text": "The current capacity increases",
+          "isCorrect": true,
+          "explanation": "When cells are connected in parallel, the current capacity increases. Connecting batteries in parallel increases total current capacity by decreasing total resistance, and it also increases overall amp-hour capacity."
+        },
+        {
+          "letter": "C",
+          "text": "The e.m.f. increases",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because when cells are safely connected in parallel with the circuit, the total emf supplied to the circuit is equal to the emf of any one of the cells. The total emf will be the same as that of individual emfs. Therefore we can say that the equivalent emf in a parallel circuit is equal to the individual emf of the battery."
+        },
+        {
+          "letter": "D",
+          "text": "The e.m.f. decreases",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because when cells are safely connected in parallel with the circuit, the total emf supplied to the circuit is equal to the emf of any one of the cells. The total emf will be the same as that of individual emfs. Therefore we can say that the equivalent emf in a parallel circuit is equal to the individual emf of the battery."
+        }
+      ],
+      "explanation": "When cells are connected in parallel, the current capacity increases. Connecting batteries in parallel increases total current capacity by decreasing total resistance, and it also increases overall amp-hour capacity.",
+      "explanationImage": null,
+      "hints": []
+    }
+  ]
+}

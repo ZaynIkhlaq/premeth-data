@@ -1,0 +1,445 @@
+{
+  "questions": [
+    {
+      "text": "In a class of girls and boys, the average (arithmetic mean) height of the girls is 44.3 inches. What is theaverage height of all of the students in the class?Which two of the following statements together provide sufficient additional information to answer thequestion?(i) The number of girls in the class is 18.(ii) The sum of the heights of all of the students in the class is 1,379.4 inches.(iii) The average height of the boys in the class is 48.5 inches.(iv) The ratio of the number of girls to the number of boys in the class is 3 to 2.(v) The difference between the number of girls and the number of boys in the class is 6.The required additional statements are",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Average (Mean, Median, Mode)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "(i) and (ii)",
+          "isCorrect": true,
+          "explanation": "These statements together provide the number of girls and the total height of all students, allowing you to calculate the average height of all students."
+        },
+        {
+          "letter": "B",
+          "text": "(ii) and (iii)",
+          "isCorrect": false,
+          "explanation": "While these statements provide the total height of all students and the average height of boys, you still need the number of students to calculate the average height of all students."
+        },
+        {
+          "letter": "C",
+          "text": "(iii) and (iv)",
+          "isCorrect": false,
+          "explanation": "These statements provide the average height of boys and the ratio of girls to boys, but not the total number of students or their total height."
+        },
+        {
+          "letter": "D",
+          "text": "(iv) and (v)",
+          "isCorrect": false,
+          "explanation": "These statements provide the ratio and difference in number between girls and boys, but neither the total height of all students nor their average height."
+        }
+      ],
+      "explanation": "To find the average height of all students, you need to know both the total height of all students and the total number of students. Statement (i) gives the number of girls, and statement (ii) provides the total height of all students. With these two pieces of information, you can calculate the number of boys (since you know the number of girls), and therefore the total number of students. Once you have the total number of students and the total height, you can determine the average height of the class.Other options are insufficient because they either lack total height information or the exact number of students needed for the calculation.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Selected Environment Statistics for Seven Provinces (Year 2007)The number of endangered species in the 8th province is X.Quantity A: The median number of endangered species in the eight provincesQuantity B: 15",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Average (Mean, Median, Mode)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quantity A is greater than Quantity B.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as per calculations provided."
+        },
+        {
+          "letter": "B",
+          "text": "Quantity B is greater than Quantity A.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as per calculations provided."
+        },
+        {
+          "letter": "C",
+          "text": "Quantities A and B are equal.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as per calculations provided."
+        },
+        {
+          "letter": "D",
+          "text": "The relationship cannot be determined from the information given.",
+          "isCorrect": true,
+          "explanation": "We are told:The number of endangered species for 7 provinces is known (data not shown).An 8th province has X endangered species.Quantity A = Median of all 8 provincesQuantity B = 15🔍 Key Point:To find the median of 8 values, we need the middle two values in order, then take their average.But since X is unknown, its position in the ordered list can vary—it could shift the middle two values up or down.Depending on the value of X, the median:Could be > 15Could be < 15Could be = 15✅ Final Answer: D. The relationship cannot be determinedBecause without knowing the value of X or the exact data for the other 7 provinces, the median cannot be determined."
+        }
+      ],
+      "explanation": "We are told:The number of endangered species for 7 provinces is known (data not shown).An 8th province has X endangered species.Quantity A = Median of all 8 provincesQuantity B = 15🔍 Key Point:To find the median of 8 values, we need the middle two values in order, then take their average.But since X is unknown, its position in the ordered list can vary—it could shift the middle two values up or down.Depending on the value of X, the median:Could be > 15Could be < 15Could be = 15✅ Final Answer: D. The relationship cannot be determinedBecause without knowing the value of X or the exact data for the other 7 provinces, the median cannot be determined.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Two data sets of 23 integers each are summarized in the histograms shown. For each of the histograms,the first interval represents the frequency of integers greater than or equal to 10, but less than 20. Thesecond interval represents the frequency of integers greater than or equal to 20, but less than 30, and soon. What is the smallest possible difference between the mean of data set A and the mean of data set B?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Sets",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "If every interval has the same number of values in A and B, their means will be exactly equal. However, in the context of different histograms, 0 won't be correct unless the histograms are identical."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": true,
+          "explanation": "If A and B have almost the same frequencies but differ slightly in adjacent intervals, the resulting mean difference will be very small. This makes 1 the smallest possible difference when the histograms are not identical but very close."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "isCorrect": false,
+          "explanation": "Option C is not correct as extreme shifts in value ranges would result in a large, not the smallest, difference between means."
+        },
+        {
+          "letter": "D",
+          "text": "23",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it represents the maximum possible difference in the sum, not in the mean. The question specifically asks for the smallest possible difference between the means of the two data sets."
+        }
+      ],
+      "explanation": "The histograms presented show that Data Set A has higher overall values compared to Data Set B. By assigning the lowest values to A’s intervals and the highest to B’s, the smallest possible difference in means is calculated to be 1. This is achieved when the frequencies are almost equal but differ slightly in adjacent intervals, resulting in a very small mean difference. Therefore, option B is the correct answer. The other options are incorrect as they either consider theoretical equality, extreme shifts in value ranges, or the maximum possible difference in sums rather than focusing on the smallest possible mean difference between the two data sets.",
+      "explanationImage": null,
+      "hints": [
+        "data sets",
+        "mean difference"
+      ]
+    },
+    {
+      "text": "73, 74, 75, 77, 79, 82, 84, 85, 91What is the median of the data shown?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Average (Mean, Median, Mode)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "79",
+          "isCorrect": true,
+          "explanation": "The correct answer is 79. The median of a data set with an odd number of values is the middle value of the set when the values are ordered from least to greatest. Because the given data set consists of nine values that are ordered from least to greatest, the median is the fifth value in the data set. Therefore, the median of the data shown is 79"
+        },
+        {
+          "letter": "B",
+          "text": "m5q9z2",
+          "isCorrect": false,
+          "explanation": "Choice B is correct. Applying the commutative property of multiplication, the expression (m4q4z-1) (mq5 z3) can be rewritten as (m4m)(q4 q5 )(z-1z3) . For positive values of x , (xa)(xb)= x a+b. Therefore, the expression (m4m)(q4 q5 )(z-1 z3 ) can be rewritten as (m4+1)(q 4+5)(z-1+3 ), or m5q9z2."
+        },
+        {
+          "letter": "C",
+          "text": "m6q8z-1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "m20q12z-2",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is 79. The median of a data set with an odd number of values is the middle value of the set when the values are ordered from least to greatest. Because the given data set consists of nine values that are ordered from least to greatest, the median is the fifth value in the data set. Therefore, the median of the data shown is 79",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "700, 1200, 1600, 2000, xIf the mean of the five numbers above is 1600, what is the value of x?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Average (Mean, Median, Mode)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2300",
+          "isCorrect": false,
+          "explanation": "The correct answer is 2500. The mean number of the list is found by dividing the sum of all the numbers in the list by the count of numbers in the list. It’s given that the mean of the five numbers in this list is 1600; therefore, 700 + 1200 + 1600 + 2000 + x / 5 = 1600. Multiplying both sides of this equation by 5 gives 700 + 1200 + 1600 + 2000 + x = 8000. The left-hand side of this equation can be rewritten as 5500 + x = 8000. Subtracting 5500 from both sides of this equation gives x = 2500."
+        },
+        {
+          "letter": "B",
+          "text": "2400",
+          "isCorrect": false,
+          "explanation": "The correct answer is 2500. The mean number of the list is found by dividing the sum of all the numbers in the list by the count of numbers in the list. It’s given that the mean of the five numbers in this list is 1600; therefore, 700 + 1200 + 1600 + 2000 + x / 5 = 1600. Multiplying both sides of this equation by 5 gives 700 + 1200 + 1600 + 2000 + x = 8000. The left-hand side of this equation can be rewritten as 5500 + x = 8000. Subtracting 5500 from both sides of this equation gives x = 2500."
+        },
+        {
+          "letter": "C",
+          "text": "2500",
+          "isCorrect": true,
+          "explanation": "The correct answer is 2500. The mean number of the list is found by dividing the sum of all the numbers in the list by the count of numbers in the list. It’s given that the mean of the five numbers in this list is 1600; therefore, 700 + 1200 + 1600 + 2000 + x / 5 = 1600. Multiplying both sides of this equation by 5 gives 700 + 1200 + 1600 + 2000 + x = 8000. The left-hand side of this equation can be rewritten as 5500 + x = 8000. Subtracting 5500 from both sides of this equation gives x = 2500."
+        },
+        {
+          "letter": "D",
+          "text": "2600",
+          "isCorrect": false,
+          "explanation": "The correct answer is 2500. The mean number of the list is found by dividing the sum of all the numbers in the list by the count of numbers in the list. It’s given that the mean of the five numbers in this list is 1600; therefore, 700 + 1200 + 1600 + 2000 + x / 5 = 1600. Multiplying both sides of this equation by 5 gives 700 + 1200 + 1600 + 2000 + x = 8000. The left-hand side of this equation can be rewritten as 5500 + x = 8000. Subtracting 5500 from both sides of this equation gives x = 2500."
+        }
+      ],
+      "explanation": "The correct answer is 2500. The mean number of the list is found by dividing the sum of all the numbers in the list by the count of numbers in the list. It’s given that the mean of the five numbers in this list is 1600; therefore, 700 + 1200 + 1600 + 2000 + x / 5 = 1600. Multiplying both sides of this equation by 5 gives 700 + 1200 + 1600 + 2000 + x = 8000. The left-hand side of this equation can be rewritten as 5500 + x = 8000. Subtracting 5500 from both sides of this equation gives x = 2500.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Based on the graph below, in how many of the games played did the soccer team score goals equal to the median number of goals for the 29 games?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Average (Mean, Median, Mode)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": "The correct answer is 9. The median number of goals scored is found by ordering the number of goals scored from least to greatest and then determining the middle value in the list. If the number of goals scored in each of the 29 games were listed in order from least to greatest, the median would be the fifteenth number of goals. The graph shows there were 8 games with 1 goal scored and 9 games with 2 goals scored. Therefore, the fifteenth number, or the median number, of goals scored must be 2. According to the graph, the soccer team scored 2 goals in 9 of the games played."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "isCorrect": false,
+          "explanation": "The correct answer is 9. The median number of goals scored is found by ordering the number of goals scored from least to greatest and then determining the middle value in the list. If the number of goals scored in each of the 29 games were listed in order from least to greatest, the median would be the fifteenth number of goals. The graph shows there were 8 games with 1 goal scored and 9 games with 2 goals scored. Therefore, the fifteenth number, or the median number, of goals scored must be 2. According to the graph, the soccer team scored 2 goals in 9 of the games played."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "isCorrect": false,
+          "explanation": "The correct answer is 9. The median number of goals scored is found by ordering the number of goals scored from least to greatest and then determining the middle value in the list. If the number of goals scored in each of the 29 games were listed in order from least to greatest, the median would be the fifteenth number of goals. The graph shows there were 8 games with 1 goal scored and 9 games with 2 goals scored. Therefore, the fifteenth number, or the median number, of goals scored must be 2. According to the graph, the soccer team scored 2 goals in 9 of the games played."
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "isCorrect": true,
+          "explanation": "The correct answer is 9. The median number of goals scored is found by ordering the number of goals scored from least to greatest and then determining the middle value in the list. If the number of goals scored in each of the 29 games were listed in order from least to greatest, the median would be the fifteenth number of goals. The graph shows there were 8 games with 1 goal scored and 9 games with 2 goals scored. Therefore, the fifteenth number, or the median number, of goals scored must be 2. According to the graph, the soccer team scored 2 goals in 9 of the games played."
+        }
+      ],
+      "explanation": "The correct answer is 9. The median number of goals scored is found by ordering the number of goals scored from least to greatest and then determining the middle value in the list. If the number of goals scored in each of the 29 games were listed in order from least to greatest, the median would be the fifteenth number of goals. The graph shows there were 8 games with 1 goal scored and 9 games with 2 goals scored. Therefore, the fifteenth number, or the median number, of goals scored must be 2. According to the graph, the soccer team scored 2 goals in 9 of the games played.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The weights, in pounds, for 15 horses in a stable were reported, and the mean, median, range, and standard deviation for the data were found. The horse with the lowest reported weight was found to actually weigh 10 pounds less than its reported weight. What value remains unchanged if the four values are reported using the corrected weight?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Average (Mean, Median, Mode)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mean",
+          "isCorrect": false,
+          "explanation": "Choice A is incorrect. The mean is calculated by finding the sum of all the weights of the horses and then dividing by the number of horses. Decreasing one of the weights would decrease the sum and therefore decrease the mean."
+        },
+        {
+          "letter": "B",
+          "text": "Median",
+          "isCorrect": true,
+          "explanation": "Choice B is correct. The median weight is found by ordering the horses’ weights from least to greatest and then determining the middle value from this list of weights. Decreasing the value for the horse with the lowest weight doesn’t affect the median since it’s still the lowest value."
+        },
+        {
+          "letter": "C",
+          "text": "Range",
+          "isCorrect": false,
+          "explanation": "Choice C is incorrect. The range is the difference between the highest and lowest weights, so decreasing the lowest weight would increase the range."
+        },
+        {
+          "letter": "D",
+          "text": "Standard deviation",
+          "isCorrect": false,
+          "explanation": "Choice D is incorrect. Standard deviation is calculated based on the mean weight of the horses. Decreasing one of the weights decreases the mean and therefore would affect the standard deviation."
+        }
+      ],
+      "explanation": "Choice B is correct. The median weight is found by ordering the horses’ weights from least to greatest and then determining the middle value from this list of weights. Decreasing the value for the horse with the lowest weight doesn’t affect the median since it’s still the lowest value.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "To determine the mean number of children per household in a community, Tabitha surveyed 20 families at a playground. For the 20 families surveyed, the mean number of children per household was 2.4. Which of the following statements must be true?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Average (Mean, Median, Mode)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The mean number of children per household in the community is 2.4.",
+          "isCorrect": false,
+          "explanation": "Choice A is incorrect because it incorrectly assumes the sampling method is unbiased."
+        },
+        {
+          "letter": "B",
+          "text": "A determination about the mean number of children per household in the community should not be made because the sample size is too small.",
+          "isCorrect": false,
+          "explanation": "Choice B is incorrect because a sample of size 20 could be large enough to make an estimate if the sample had been representative of all the families in the community."
+        },
+        {
+          "letter": "C",
+          "text": "The sampling method is flawed and may produce a biased estimate of the mean number of children per household in the community.",
+          "isCorrect": true,
+          "explanation": "Choice C is correct. In order to use a sample mean to estimate the mean for a population, the sample must be representative of the population (for example, a simple random sample). In this case, Tabitha surveyed 20 families in a playground. Families in the playground are more likely to have children than other households in the community. Therefore, the sample isn’t representative of the population. Hence, the sampling method is flawed and may produce a biased estimate."
+        },
+        {
+          "letter": "D",
+          "text": "The sampling method is not flawed and is likely to produce an unbiased estimate of the mean number of children per household in the community.",
+          "isCorrect": false,
+          "explanation": "Choice D is incorrect because it incorrectly assumes the sampling method is unbiased."
+        }
+      ],
+      "explanation": "Choice C is correct. In order to use a sample mean to estimate the mean for a population, the sample must be representative of the population (for example, a simple random sample). In this case, Tabitha surveyed 20 families in a playground. Families in the playground are more likely to have children than other households in the community. Therefore, the sample isn’t representative of the population. Hence, the sampling method is flawed and may produce a biased estimate.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The table shows the distribution of ages of the 20 students enrolled in a college class. Which of the following gives the correct order of the mean, median, and mode of the ages?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Average (Mean, Median, Mode)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "mode < median < mean",
+          "isCorrect": true,
+          "explanation": "Choice A is correct. The mode is the data value with the highest frequency. So for the data shown, the mode is 18. The median is the middle data value when the data values are sorted from least to greatest. Since there are 20 ages ordered, the median is the average of the two middle values, the 10th and 11th, which for these data are both 19. Therefore, the median is 19. The mean is the sum of the data values divided by the number of the data values. So for these data, the mean is (18 × 6) + (19 × 5) + (20 × 4) + (21 × 2) + (22 × 1) + (23 × 1) + (30 × 1) / 20 = 20. Since the mode is 18, the median is 19, and the mean is 20, mode < median < meanAlternate approach: After determining the mode, 18, and the median, 19, it remains to determine whether the mean is less than 19 or more than 19. Because the mean is a balancing point, there is as much deviation below the mean as above the mean. It is possible to compare the data to 19 to determine the balance of deviation above and below the mean. There is a total deviation of only 6 below 19 (the 6 values of 18); however, the data value 30 alone deviates by 11 above 19. Thus the mean must be greater than 19."
+        },
+        {
+          "letter": "B",
+          "text": "mode < mean < median",
+          "isCorrect": false,
+          "explanation": "Choice B is incorrect because the mean is greater than the median."
+        },
+        {
+          "letter": "C",
+          "text": "median < mode < mean",
+          "isCorrect": false,
+          "explanation": "Choice C is incorrect because the median is greater than the mode."
+        },
+        {
+          "letter": "D",
+          "text": "mean < mode < median",
+          "isCorrect": false,
+          "explanation": "Choice D is incorrect because the mean is greater than the median."
+        }
+      ],
+      "explanation": "Choice A is correct. The mode is the data value with the highest frequency. So for the data shown, the mode is 18. The median is the middle data value when the data values are sorted from least to greatest. Since there are 20 ages ordered, the median is the average of the two middle values, the 10th and 11th, which for these data are both 19. Therefore, the median is 19. The mean is the sum of the data values divided by the number of the data values. So for these data, the mean is (18 × 6) + (19 × 5) + (20 × 4) + (21 × 2) + (22 × 1) + (23 × 1) + (30 × 1) / 20 = 20. Since the mode is 18, the median is 19, and the mean is 20, mode < median < meanAlternate approach: After determining the mode, 18, and the median, 19, it remains to determine whether the mean is less than 19 or more than 19. Because the mean is a balancing point, there is as much deviation below the mean as above the mean. It is possible to compare the data to 19 to determine the balance of deviation above and below the mean. There is a total deviation of only 6 below 19 (the 6 values of 18); however, the data value 30 alone deviates by 11 above 19. Thus the mean must be greater than 19.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "4, 10, 18, 4, 4, 5, 6, 5 What is the median of the data set shown?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Average (Mean, Median, Mode)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "Choice A is incorrect. This value is between the two middle values in the list shown, not the two middle values when the data values are listed in ascending or descending order."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "isCorrect": true,
+          "explanation": "Choice B is correct. If a data set contains an even number of data values, when the data values are listed in ascending or descending order, the median is between the two middle values. The given data set contains 8 values. When listed in ascending order, the data set is 4, 4, 4, 5, 5, 6, 10, 18 and the two middle values are 5 and 5. Since the two middle values are the same, the median must be 5."
+        },
+        {
+          "letter": "C",
+          "text": "7",
+          "isCorrect": false,
+          "explanation": "Choice C is incorrect. This is the mean, not the median, of the data set."
+        },
+        {
+          "letter": "D",
+          "text": "14",
+          "isCorrect": false,
+          "explanation": "Choice D is incorrect. This is the range, not the median, of the data set."
+        }
+      ],
+      "explanation": "Choice B is correct. If a data set contains an even number of data values, when the data values are listed in ascending or descending order, the median is between the two middle values. The given data set contains 8 values. When listed in ascending order, the data set is 4, 4, 4, 5, 5, 6, 10, 18 and the two middle values are 5 and 5. Since the two middle values are the same, the median must be 5.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The table shown summarizes the number of employees at each of the 17 restaurants in a town. Which of the following could be the median number of employees for the restaurants in this town?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Average (Mean, Median, Mode)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "Choice A is incorrect and may result from conceptual or calculation errors."
+        },
+        {
+          "letter": "B",
+          "text": "9",
+          "isCorrect": false,
+          "explanation": "Choice B is incorrect. This is the position of the median in the list, not the value of the median."
+        },
+        {
+          "letter": "C",
+          "text": "15",
+          "isCorrect": false,
+          "explanation": "Choice C is incorrect and may result from conceptual or calculation errors."
+        },
+        {
+          "letter": "D",
+          "text": "21",
+          "isCorrect": true,
+          "explanation": "Choice D is correct. If a data set contains an odd number of data values, the median is represented by the middle data value in the list when the data values are listed in ascending or descending order. Since the numbers of employees are given as ranges of values rather than specific values, it’s only possible to determine the range in which the median falls, rather than the exact median. Since there are 17 restaurants included in the data set and the numbers of employees are listed in ascending order, it follows that the median number of employees will be represented by the ninth restaurant in the list. Since the first 2 restaurants each have 2 to 7 employees, the numbers of employees in the 2 to 7 range would be represented by the first and second restaurants in the list. The next 4 restaurants each have 8 to 13 employees. Therefore, the number of employees in the 8 to 13 range will be represented by the third through sixth restaurants in the list. The next 2 restaurants each have 14 to 19 employees. Therefore, the number of employees in the 14 to 19 range will be represented by the seventh and eighth restaurants in the list. Since the next 7 restaurants each have 20 to 25 employees, the number of employees in the 20 to 25 range will be represented by the ninth through fifteenth restaurants in the list. This means that the ninth restaurant in the list, which has the median number of employees for the restaurants in this town, has several employees in the 20 to 25 range. Of the given choices, the only number of employees in the 20 to 25 range is 21."
+        }
+      ],
+      "explanation": "Choice D is correct. If a data set contains an odd number of data values, the median is represented by the middle data value in the list when the data values are listed in ascending or descending order. Since the numbers of employees are given as ranges of values rather than specific values, it’s only possible to determine the range in which the median falls, rather than the exact median. Since there are 17 restaurants included in the data set and the numbers of employees are listed in ascending order, it follows that the median number of employees will be represented by the ninth restaurant in the list. Since the first 2 restaurants each have 2 to 7 employees, the numbers of employees in the 2 to 7 range would be represented by the first and second restaurants in the list. The next 4 restaurants each have 8 to 13 employees. Therefore, the number of employees in the 8 to 13 range will be represented by the third through sixth restaurants in the list. The next 2 restaurants each have 14 to 19 employees. Therefore, the number of employees in the 14 to 19 range will be represented by the seventh and eighth restaurants in the list. Since the next 7 restaurants each have 20 to 25 employees, the number of employees in the 20 to 25 range will be represented by the ninth through fifteenth restaurants in the list. This means that the ninth restaurant in the list, which has the median number of employees for the restaurants in this town, has several employees in the 20 to 25 range. Of the given choices, the only number of employees in the 20 to 25 range is 21.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "On the first 7 statistics tests of the semester, Jamal scored 61, 76, 79, 80, 80, 84, and 91. The mean, median, and mode of his scores were 79, 80, and 80, respectively. On the 8th statistics test, Jamal scored 90. How do the mean, median, and mode of all 8 of his scores compare to the mean, median, and mode of his first 7 scores?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Average (Mean, Median, Mode)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": "According to the explanation, the figure given is incorrect and cannot be the answer."
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": "According to the explanation, the figure given is incorrect and cannot be the answer."
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": "According to the explanation, the figure given is incorrect and cannot be the answer."
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": false,
+          "explanation": "According to the explanation, the figure given is incorrect and cannot be the answer."
+        },
+        {
+          "letter": "E",
+          "text": "E",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The total 8 test scores arranged in ascending order are:61, 76, 79,80, 80, 84, 90, 91The mode of these is 80 the number that appears the most, same as the mode for the previous 7 scores. Hence mode is equalMedian can term is calculated using the formula (n + 1)/2 where n is the number of terms 8(8+1) / 2 = 4.5th term is the medianTo find the 4.5th term we will find the mean of the 4th and 5th term. So, they are 80 and 80 and their mean will also be 80.Hence, the median is 80 and is equal.For mean, we will divide the sum of the terms by the number of the terms.So, the sum will be 61+76+79+80+80+84+90+91 = 641mean = 641/8 = 80.125 which is greater than the previous mean 79. So, the mean is greater.Hence,Mean = GreaterMedian= EqualMode = Equal",
+      "explanationImage": null,
+      "hints": []
+    }
+  ]
+}

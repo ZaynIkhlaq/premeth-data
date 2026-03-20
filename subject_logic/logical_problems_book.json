@@ -1,0 +1,989 @@
+{
+  "questions": [
+    {
+      "text": "Statements: I. All clocks are watches. II. Some clocks are alarms.Conclusions: I. Some alarms are watches. II. All watches are alarms.",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only conclusion (I) follows",
+          "isCorrect": true,
+          "explanation": "This conclusion is valid because some clocks are alarms, and since all clocks are watches, it follows that those alarms that are clocks must also be watches. Therefore, 'Some alarms are watches' is a logical conclusion."
+        },
+        {
+          "letter": "B",
+          "text": "Only conclusion (II) follows",
+          "isCorrect": false,
+          "explanation": "This conclusion is incorrect. Just because all clocks are watches does not imply that all watches are alarms. There may be watches that are not alarms."
+        },
+        {
+          "letter": "C",
+          "text": "Both conclusions follow",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While conclusion (I) is valid, conclusion (II) is not. Therefore, both conclusions cannot be true simultaneously."
+        },
+        {
+          "letter": "D",
+          "text": "Neither conclusion follows",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because conclusion (I) is a valid inference from the premises. Thus, this option cannot be true."
+        }
+      ],
+      "explanation": "Since some clocks are alarms and all clocks are watches, the alarms that are clocks must also be watches. Therefore, \"Some alarms are watches\" is a valid conclusion. The second conclusion is invalid as not all watches are necessarily clocks.",
+      "explanationImage": null,
+      "hints": [
+        "clocks",
+        "watches",
+        "alarms"
+      ]
+    },
+    {
+      "text": "Statements: I. Some pens are glass. II. All glass are walls.Conclusions: I. Some walls are pens. II. Some walls are glass.",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only conclusion (I) follows",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because although some pens are glass, it does not necessarily imply that some walls are pens. The relationship does not guarantee the truth of Conclusion I."
+        },
+        {
+          "letter": "B",
+          "text": "Only conclusion (II) follows",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because while it is true that some walls are glass, it does not account for the relationship between pens and walls established in the statements. Thus, it does not capture the entirety of the logical relationships."
+        },
+        {
+          "letter": "C",
+          "text": "Both conclusions follow",
+          "isCorrect": true,
+          "explanation": "This is the correct option. Since some pens are glass and all glass are walls, it logically follows that some walls must also be pens (Conclusion I). Additionally, since all glass are walls, it holds true that some walls are glass (Conclusion II). Both conclusions are valid based on the premises provided."
+        },
+        {
+          "letter": "D",
+          "text": "Neither conclusion follows",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because both conclusions logically follow from the given statements. Thus, stating that neither conclusion follows is a misunderstanding of the relationships defined in the statements."
+        }
+      ],
+      "explanation": "Since some pens are glass and all glass are walls, there must be an overlap between pens and walls (Conclusion I). Also, because all glass are walls, it is true that some walls are glass (Conclusion II). Both conclusions are valid.",
+      "explanationImage": null,
+      "hints": [
+        "pens",
+        "glass",
+        "walls"
+      ]
+    },
+    {
+      "text": "Statements: I. No cities are countries. II. No countries are villages.Conclusions: I. Some countries are cities. II. No villages are cities.",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only conclusion (I) follows",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because conclusion (I) contradicts the first statement, which states that no cities are countries."
+        },
+        {
+          "letter": "B",
+          "text": "Only conclusion (II) follows",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because while the statements indicate that countries and villages are separate, there is no information to definitively support the conclusion that no villages are cities."
+        },
+        {
+          "letter": "C",
+          "text": "Both conclusions follow",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as conclusion (I) contradicts the first statement, and conclusion (II) cannot be determined based on the information provided."
+        },
+        {
+          "letter": "D",
+          "text": "Neither conclusion follows",
+          "isCorrect": true,
+          "explanation": "This is the correct option because conclusion (I) contradicts the first statement, and conclusion (II) cannot be concluded from the given statements about the relationships between villages and cities."
+        }
+      ],
+      "explanation": "Conclusion I directly contradicts the first statement. The statements establish that cities and countries are separate, and countries and villages are separate. However, there is no information given about the relationship between cities and villages, so we cannot definitively conclude that no villages are cities.",
+      "explanationImage": null,
+      "hints": [
+        "No cities are countries",
+        "No countries are villages"
+      ]
+    },
+    {
+      "text": "Statements: l. All cups are pencils.II. Some pencils are pens.Conclusions: I. Some pencils are cups. II. No pencils are cups. III. Some cups are pens.",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only conclusion (I) follows",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because while conclusion (I) does follow logically from the statements, it is not the only valid conclusion."
+        },
+        {
+          "letter": "B",
+          "text": "Only conclusion (II) follows",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as conclusion (II) contradicts the first statement, which states that all cups are pencils."
+        },
+        {
+          "letter": "C",
+          "text": "Both I and III follow",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because although conclusion (I) follows, conclusion (III) does not necessarily follow from the given statements."
+        },
+        {
+          "letter": "D",
+          "text": "Neither conclusion follows",
+          "isCorrect": true,
+          "explanation": "This is the correct answer because conclusion (I) does not follow as a true statement since it lacks certainty, and conclusion (III) is also not guaranteed based on the statements provided."
+        }
+      ],
+      "explanation": "Conclusion I follows because all cups are pencils.Conclusion III follows because some pencils are pens, and cups are a subset of pencils—so overlap is guaranteed.",
+      "explanationImage": null,
+      "hints": [
+        "cups",
+        "pencils",
+        "pens"
+      ]
+    },
+    {
+      "text": "Statements: I. All fruits are leaves. II. Some fruits are grapes.Conclusions: I. Some leaves are grapes. II. All grapes are fruits.",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only conclusion (I) follows",
+          "isCorrect": true,
+          "explanation": "This conclusion is valid because since some fruits are grapes and all fruits are leaves, it follows that those grapes, being fruits, must also be classified as leaves. Thus, 'Some leaves are grapes' is a logical deduction."
+        },
+        {
+          "letter": "B",
+          "text": "Only conclusion (II) follows",
+          "isCorrect": false,
+          "explanation": "This conclusion is not valid because while all grapes that are fruits belong to the larger category of fruits, it does not mean that all grapes are fruits. Grapes could exist outside the group of fruits, making this conclusion incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Both conclusions follow",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as only conclusion (I) logically follows from the statements provided. Conclusion (II) does not hold true as explained above."
+        },
+        {
+          "letter": "D",
+          "text": "Neither conclusion follows",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect. Conclusion (I) is valid, so it cannot be stated that neither conclusion follows."
+        }
+      ],
+      "explanation": "Since some fruits are grapes, and all fruits are leaves, it logically follows that the fruits that are grapes must also be leaves. Therefore, \"Some leaves are grapes\" is a valid conclusion. The second statement is not necessarily true as the group of \"grapes\" might be larger than the group of \"fruits\".",
+      "explanationImage": null,
+      "hints": [
+        "fruits",
+        "leaves",
+        "grapes"
+      ]
+    },
+    {
+      "text": "Statements: I. All apples are bananas. II.No banana is a mango. III. Some mangoes are oranges.Conclusions: I. Some oranges can be bananas. II. Some mangoes are apples.",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only conclusion (I) follows",
+          "isCorrect": false,
+          "explanation": "This is incorrect because even though some mangoes are oranges, no information supports that oranges can be bananas."
+        },
+        {
+          "letter": "B",
+          "text": "Only conclusion (II) follows",
+          "isCorrect": false,
+          "explanation": "This is incorrect because since all apples are bananas and no bananas are mangoes, it logically follows that no apples can be mangoes, making conclusion II false."
+        },
+        {
+          "letter": "C",
+          "text": "Both conclusions follow",
+          "isCorrect": false,
+          "explanation": "This is incorrect as neither conclusion is supported by the statements. Conclusion I lacks relationship clarity, and conclusion II is definitively false."
+        },
+        {
+          "letter": "D",
+          "text": "Neither conclusion follows",
+          "isCorrect": true,
+          "explanation": "This is correct. Conclusion II is false because no apples can be mangoes, while conclusion I is uncertain due to the lack of information about oranges and bananas."
+        }
+      ],
+      "explanation": "Since no banana is a mango, and all apples are bananas, it follows that no apple can be a mango (making Conclusion II false). While some mangoes are oranges, we have no information about the relationship between oranges and bananas, so Conclusion I is uncertain.",
+      "explanationImage": null,
+      "hints": [
+        "bananas",
+        "mangoes",
+        "oranges"
+      ]
+    },
+    {
+      "text": "Statements: I. All artists are painters. II. All actors are gentle. III. All gentle are painters.Conclusions: I. No artist is an actor. II. All painters are actors.",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "None follows",
+          "isCorrect": true,
+          "explanation": "This option is correct because the statements do not provide sufficient information to conclude anything about the relationship between artists and actors or between painters and actors. While both artists and actors fall under the broader category of painters, their intersections remain undefined."
+        },
+        {
+          "letter": "B",
+          "text": "Only I follows",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because there is no direct evidence from the statements to support the conclusion that no artist is an actor. The statements do not establish such exclusivity between artists and actors."
+        },
+        {
+          "letter": "C",
+          "text": "Only II follows",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect. The statements do not imply that all painters are actors. The relationships laid out in the statements do not support a direct conclusion about all painters being actors."
+        },
+        {
+          "letter": "D",
+          "text": "Both I and II follow",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as well. Since neither conclusion I nor II is supported by the statements, it follows that both cannot be true."
+        }
+      ],
+      "explanation": "From the statements, both artists and actors fall under the larger category of painters. However, there is no information about the direct relationship between artists and actors; they could be separate groups, overlapping, or one could be a subset of the other. Thus, neither conclusion can be definitively drawn.",
+      "explanationImage": null,
+      "hints": [
+        "artists",
+        "actors",
+        "painters"
+      ]
+    },
+    {
+      "text": "Statements: I. Only a few males are smart. II. All smart are graceful.Conclusions: I. All graceful can be male. II. Some graceful are smart.",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only conclusion (I) follows",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because conclusion (I) cannot be inferred from the statements provided. The statement 'Only a few males are smart' does not imply that all graceful beings can be male."
+        },
+        {
+          "letter": "B",
+          "text": "Only conclusion (II) follows",
+          "isCorrect": false,
+          "explanation": "This option is partially correct because conclusion (II) ('Some graceful are smart') is true based on the statements. However, it does not address conclusion (I), which is why this option is not fully correct."
+        },
+        {
+          "letter": "C",
+          "text": "Both conclusions follow",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because while conclusion (II) is valid, conclusion (I) is not supported by the original statements."
+        },
+        {
+          "letter": "D",
+          "text": "Neither conclusion follows",
+          "isCorrect": true,
+          "explanation": "This is the correct option because conclusion (I) cannot be logically inferred from the statements, and while conclusion (II) is true, the question asks if both conclusions can follow, which they cannot."
+        }
+      ],
+      "explanation": "Statement: “Only a few males are smart” → Means some males are smart, and some males are NOT smart. All smart ⊂ graceful. So: Conclusion II (“Some graceful are smart”) → TRUE",
+      "explanationImage": null,
+      "hints": [
+        "few males",
+        "All smart are graceful"
+      ]
+    },
+    {
+      "text": "Statements: I. Some stars are moons. II.All moons are planets. III. No planet is a universe.Conclusions: I. At least some planets are stars. II. No moon is a universe.",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only conclusion (I) follows",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While conclusion (I) suggests that there is some overlap between planets and stars, it does not follow directly from the statements given. The relationship does not confirm that some planets are necessarily stars."
+        },
+        {
+          "letter": "B",
+          "text": "Only conclusion (II) follows",
+          "isCorrect": false,
+          "explanation": "This option is partially correct but insufficient. Conclusion (II) states that no moon is a universe, which is indeed true based on the statements. However, it ignores the fact that conclusion (I) also follows, making this option incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Both conclusions follow",
+          "isCorrect": true,
+          "explanation": "This is the correct option. Conclusion (I) follows because if some stars are moons and all moons are planets, then there is an overlap between stars and planets. Conclusion (II) is also valid as all moons being planets and no planet being a universe logically leads to the conclusion that no moon can be a universe."
+        },
+        {
+          "letter": "D",
+          "text": "Neither conclusion follows",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Both conclusions are supported by the relationships established in the statements. Thus, asserting that neither conclusion follows contradicts the logical deductions that can be made."
+        }
+      ],
+      "explanation": "Since some stars are moons and all moons are planets, there must be an overlap between stars and planets (Conclusion I). Since all moons are planets and no planet is a universe, it logically follows that no moon can be a universe (Conclusion II). Both are correct.",
+      "explanationImage": null,
+      "hints": [
+        "some stars are moons",
+        "no planet is a universe"
+      ]
+    },
+    {
+      "text": "Statements: I. Some roses are flowers.II. Some flowers are buds. III. All buds are leaves. IV. All leaves are plants.Conclusions: I. Some plants are flowers. II. Some roses are buds. III. All leaves are roses. IV. No roses are buds.",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only I follows",
+          "isCorrect": false,
+          "explanation": "This option claims that only Conclusion I is valid. However, while I is true, it does not consider the potential truth of Conclusions II and IV, which could also hold under certain interpretations."
+        },
+        {
+          "letter": "B",
+          "text": "Only I and II follow",
+          "isCorrect": false,
+          "explanation": "This option suggests that Conclusions I and II are valid. While I is correct, Conclusion II is not definitively supported since we cannot ascertain a direct link between roses and buds from the statements."
+        },
+        {
+          "letter": "C",
+          "text": "I and either II or IV follow",
+          "isCorrect": false,
+          "explanation": "This option correctly identifies that Conclusion I is valid, and acknowledges that either II or IV may be true, but does not clarify that both cannot be true simultaneously."
+        },
+        {
+          "letter": "D",
+          "text": "Only I and either II or IV follow",
+          "isCorrect": true,
+          "explanation": "This option accurately states that Conclusion I is true and allows for the ambiguity in either II or IV being true. This reflects the logical deduction that some flowers being buds does not confirm a direct relationship with roses."
+        }
+      ],
+      "explanation": "• All leaves are plants → any subset of leaves (buds, flowers) are part of plants → Conclusion I is true. • Some flowers are buds, but we cannot definitively link roses to buds → either II or IV may be true, not both. • Conclusion III is false (all leaves are not roses).",
+      "explanationImage": null,
+      "hints": [
+        "roses",
+        "flowers",
+        "buds"
+      ]
+    },
+    {
+      "text": "Pick the odd one out:",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Heart",
+          "isCorrect": false,
+          "explanation": "The heart is a vital organ that pumps blood throughout the body but does not have significant regenerative abilities."
+        },
+        {
+          "letter": "B",
+          "text": "Liver",
+          "isCorrect": true,
+          "explanation": "The liver is unique among these organs because it can regenerate itself after damage, making it functionally different from the others listed."
+        },
+        {
+          "letter": "C",
+          "text": "Kidney",
+          "isCorrect": false,
+          "explanation": "Kidneys are essential for filtering blood and producing urine; they do not significantly regenerate once damaged."
+        },
+        {
+          "letter": "D",
+          "text": "Lungs",
+          "isCorrect": false,
+          "explanation": "Lungs are critical for respiration and do not regenerate notably, similar to the heart and kidneys."
+        }
+      ],
+      "explanation": "• Heart, kidneys, and lungs are organs essential for immediate survival and cannot regenerate significantly. • Liver is vital but can regenerate, making it functionally different.",
+      "explanationImage": null,
+      "hints": [
+        "odd one out",
+        "regenerate",
+        "vital organs"
+      ]
+    },
+    {
+      "text": "A person walks 10 km north, then 6 km east, then 10 km south. How far is he from the starting point?",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 km",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. After walking 10 km north and then 10 km south, the individual returns to the same latitude. The only displacement occurs from walking 6 km east."
+        },
+        {
+          "letter": "B",
+          "text": "4 km",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The calculations do not support a distance of 4 km from the starting point based on the movements described."
+        },
+        {
+          "letter": "C",
+          "text": "8 km",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect. The total displacement, factoring in the movements, does not lead to a distance of 8 km from the starting point."
+        },
+        {
+          "letter": "D",
+          "text": "10 km",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While the person walked a total of 10 km north and south, they returned to the same latitude, and the effective distance from the starting point is dictated by the eastward movement."
+        }
+      ],
+      "explanation": "The person walks 10 km north and then 10 km south, which returns them to their original starting latitude. The only net displacement is the 6 km they walked to the east.",
+      "explanationImage": null,
+      "hints": [
+        "10 km north",
+        "6 km east",
+        "10 km south"
+      ]
+    },
+    {
+      "text": "If 2 pencils cost 8 rupees, how many can you buy with 40 rupees?",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "isCorrect": false,
+          "explanation": "This option suggests that you can buy 8 pencils. To arrive at this answer, one might incorrectly assume that 40 rupees can be divided directly by 5 rupees (the average cost) instead of calculating the cost per pencil correctly."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. By calculating the cost per pencil (4 rupees) and dividing 40 rupees by that amount, we determine that you can buy 10 pencils."
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "isCorrect": false,
+          "explanation": "This option implies that 12 pencils can be bought, which would require a lower cost per pencil than calculated (3.33 rupees). This is incorrect as it does not reflect the actual cost derived from the problem."
+        },
+        {
+          "letter": "D",
+          "text": "14",
+          "isCorrect": false,
+          "explanation": "Choosing 14 pencils suggests an even lower cost per pencil than is possible with the given prices. It does not align with the calculations made from the given data."
+        }
+      ],
+      "explanation": "First, find the cost of one pencil: 8 rupees / 2 pencils = 4 rupees per pencil. Then, divide the total money by the cost per pencil: 40 rupees / 4 rupees/pencil = 10 pencils.",
+      "explanationImage": null,
+      "hints": [
+        "2 pencils",
+        "8 rupees",
+        "40 rupees"
+      ]
+    },
+    {
+      "text": "Find the odd one out:",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apple",
+          "isCorrect": false,
+          "explanation": "An apple is a fruit that grows on trees. It belongs to the same category as banana and mango."
+        },
+        {
+          "letter": "B",
+          "text": "Banana",
+          "isCorrect": false,
+          "explanation": "A banana is also a fruit. It shares this classification with apple and mango, making it similar to those options."
+        },
+        {
+          "letter": "C",
+          "text": "Carrot",
+          "isCorrect": true,
+          "explanation": "A carrot is a root vegetable, which distinguishes it from the rest of the options that are all fruits. This makes it the odd one out."
+        },
+        {
+          "letter": "D",
+          "text": "Mango",
+          "isCorrect": false,
+          "explanation": "A mango is a tropical fruit, similar to apple and banana in that it is classified as a fruit."
+        }
+      ],
+      "explanation": "A carrot is a root vegetable. An apple, banana, and mango are all fruits, making the carrot the odd one out based on botanical classification.",
+      "explanationImage": null,
+      "hints": [
+        "odd one out",
+        "botanical classification"
+      ]
+    },
+    {
+      "text": "Which number should come next in the series: 2, 6, 12, 20,?",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "30",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The pattern involves the difference between consecutive terms increasing by 2 each time. The differences are: 6-2=4, 12-6=6, 20-12=8. Following this pattern, the next difference should be 8+2=10. Therefore, the next number in the series is 20 + 10 = 30."
+        },
+        {
+          "letter": "B",
+          "text": "28",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. If 28 were the next number, the difference from 20 would be 8. This would make the sequence of differences 4, 6, 8, 8, which does not follow the established pattern of increasing by 2."
+        },
+        {
+          "letter": "C",
+          "text": "24",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. If 24 were the next number, the difference from 20 would be 4. This would make the sequence of differences 4, 6, 8, 4, which does not follow a consistent pattern."
+        },
+        {
+          "letter": "D",
+          "text": "26",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. If 26 were the next number, the difference from 20 would be 6. This would make the sequence of differences 4, 6, 8, 6, which does not follow the pattern of differences increasing by 2."
+        }
+      ],
+      "explanation": "The difference between consecutive terms increases by 2 each time. The differences are +4, +6, +8. The next difference will be +10, so 20 + 10 = 30.",
+      "explanationImage": null,
+      "hints": [
+        "number should come next",
+        "in the series"
+      ]
+    },
+    {
+      "text": "John is 3 years older than James. Five years ago, John was twice as old as James. What is James’s current age?",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "If James's current age were 5, John's current age would be 5 + 3 = 8. Five years ago, James would have been 5 - 5 = 0, and John would have been 8 - 5 = 3. Since 3 is not twice 0, this option is incorrect. This choice might result from errors in calculating ages in the past or setting up the final equation."
+        },
+        {
+          "letter": "B",
+          "text": "7",
+          "isCorrect": false,
+          "explanation": "If James's current age were 7, John's current age would be 7 + 3 = 10. Five years ago, James would have been 7 - 5 = 2, and John would have been 10 - 5 = 5. Since 5 is not twice 2, this option is incorrect. This choice often arises from an arithmetic error during equation solving or an incorrect interpretation of the 'twice as old' condition."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. Setting James's current age as J, John's current age is J + 3. Five years ago, James was J - 5 and John was (J + 3) - 5 = J - 2. The condition 'John was twice as old as James' leads to the equation J - 2 = 2(J - 5). Solving this yields J = 8."
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "isCorrect": false,
+          "explanation": "If James's current age were 10, John's current age would be 10 + 3 = 13. Five years ago, James would have been 10 - 5 = 5, and John would have been 13 - 5 = 8. Since 8 is not twice 5, this option is incorrect. This error might occur if the 'five years ago' condition was misapplied, perhaps by adding 5 instead of subtracting, or by miscalculating the ages in the past."
+        }
+      ],
+      "explanation": "Let James’s current age = J John’s current age = J + 3Five years ago:• John = J + 3 − 5 = J − 2• James = J − 5Equation: John = 2 × James → J − 2 = 2 × (J − 5)J − 2 = 2J − 10 → 8 = JJames’s current age = 8",
+      "explanationImage": null,
+      "hints": [
+        "John is 3 years older than James",
+        "Five years ago, John was twice as old as James"
+      ]
+    },
+    {
+      "text": "If MONDAY is coded as NPOEBZ, how is FRIDAY coded?",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "GSJEBZ",
+          "isCorrect": true,
+          "explanation": "This option correctly applies the established coding rule, where each letter is shifted one position forward in the alphabet. F becomes G, R becomes S, I becomes J, D becomes E, A becomes B, and Y becomes Z."
+        },
+        {
+          "letter": "B",
+          "text": "GSJEBX",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because while the first five letters (F, R, I, D, A) are correctly shifted forward by one position, the last letter 'Y' is incorrectly shifted backward to 'X' instead of forward to 'Z'."
+        },
+        {
+          "letter": "C",
+          "text": "GSJCBX",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it contains multiple errors. 'D' is incorrectly shifted backward to 'C' and 'Y' is also incorrectly shifted backward to 'X', deviating significantly from the +1 shift rule."
+        },
+        {
+          "letter": "D",
+          "text": "GSIDBZ",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the letters 'I' and 'D' are not shifted at all, remaining unchanged, which contradicts the consistent +1 shift pattern observed in the example."
+        }
+      ],
+      "explanation": "Each letter in the original word is replaced by the next letter in the alphabet. Following this pattern, F becomes G, R becomes S, I becomes J, D becomes E, A becomes B, and Y becomes Z.",
+      "explanationImage": null,
+      "hints": [
+        "MONDAY is coded as NPOEBZ",
+        "FRIDAY coded"
+      ]
+    },
+    {
+      "text": "Which shape has the most number of sides?",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pentagon",
+          "isCorrect": false,
+          "explanation": "A pentagon is a polygon with 5 sides. While it has multiple sides, it does not have the most sides among the given options."
+        },
+        {
+          "letter": "B",
+          "text": "Hexagon",
+          "isCorrect": false,
+          "explanation": "A hexagon is a polygon with 6 sides. It has more sides than a pentagon but fewer than an octagon or heptagon."
+        },
+        {
+          "letter": "C",
+          "text": "Octagon",
+          "isCorrect": true,
+          "explanation": "An octagon is a polygon with 8 sides. Comparing it to the other options (pentagon: 5, hexagon: 6, heptagon: 7), 8 is the highest number of sides."
+        },
+        {
+          "letter": "D",
+          "text": "Heptagon",
+          "isCorrect": false,
+          "explanation": "A heptagon is a polygon with 7 sides. It has more sides than a pentagon and hexagon, but fewer than an octagon."
+        }
+      ],
+      "explanation": "An octagon has 8 sides, a heptagon has 7, a hexagon has 6, and a pentagon has 5. Therefore, the octagon has the most sides.",
+      "explanationImage": null,
+      "hints": [
+        "most number of sides",
+        "shape"
+      ]
+    },
+    {
+      "text": "Find the missing number in the pattern: 3, 9, 27, ?, 243",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "54",
+          "isCorrect": false,
+          "explanation": "This option might be chosen if one incorrectly assumes an arithmetic progression or miscalculates. However, it does not follow the established multiplicative pattern of the sequence (27 × 2 = 54, which breaks the ×3 rule)."
+        },
+        {
+          "letter": "B",
+          "text": "72",
+          "isCorrect": false,
+          "explanation": "This value does not align with the consistent multiplicative relationship observed between the terms in the given sequence. It is a distractor that does not fit the pattern."
+        },
+        {
+          "letter": "C",
+          "text": "81",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The sequence 3, 9, 27, ?, 243 is a geometric progression where each term is obtained by multiplying the previous term by 3. Following this rule, the missing term is 27 × 3 = 81."
+        },
+        {
+          "letter": "D",
+          "text": "90",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It does not fit the identified pattern of multiplying by a constant factor, nor does it follow any other logical progression derived from the given numbers."
+        }
+      ],
+      "explanation": "This is a geometric progression where each term is the previous term multiplied by 3. The missing term is 27 × 3 = 81.",
+      "explanationImage": null,
+      "hints": [
+        "missing number",
+        "pattern"
+      ]
+    },
+    {
+      "text": "In a family of six, A is the father of B. B is the brother of C. C is the daughter of D. D is the wife of A. How is D related to B?",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aunt",
+          "isCorrect": false,
+          "explanation": "Incorrect. An aunt would typically be the sister of B's father (A) or B's mother (D), or the wife of B's mother's brother. The information provided establishes a direct parental relationship between D and B."
+        },
+        {
+          "letter": "B",
+          "text": "Sister",
+          "isCorrect": false,
+          "explanation": "Incorrect. A sister would be a female sibling of B. D is established as a parent figure in the family, not a sibling."
+        },
+        {
+          "letter": "C",
+          "text": "Mother",
+          "isCorrect": true,
+          "explanation": "Correct. The question states that A is the father of B. It also states that D is the wife of A. Since A is B's father, and D is A's wife, D must be B's mother. The other relationships (B is the brother of C, C is the daughter of D) further confirm this, showing that C is also D's child, and B and C are siblings, both children of A and D."
+        },
+        {
+          "letter": "D",
+          "text": "Cousin",
+          "isCorrect": false,
+          "explanation": "Incorrect. A cousin would be the child of B's aunt or uncle. D is B's direct parent, not a cousin."
+        }
+      ],
+      "explanation": "If A is B's father and D is A's wife, then D is the mother of A's children. Since B is the son of A, D is B's mother.",
+      "explanationImage": null,
+      "hints": [
+        "A is the father of B",
+        "D is the wife of A"
+      ]
+    },
+    {
+      "text": "Which of the following months has exactly 30 days?",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "February",
+          "isCorrect": false,
+          "explanation": "February has 28 days in a common year and 29 days in a leap year. It never has exactly 30 days."
+        },
+        {
+          "letter": "B",
+          "text": "April",
+          "isCorrect": true,
+          "explanation": "April is one of the four months that has exactly 30 days."
+        },
+        {
+          "letter": "C",
+          "text": "January",
+          "isCorrect": false,
+          "explanation": "January is one of the months that has 31 days."
+        },
+        {
+          "letter": "D",
+          "text": "December",
+          "isCorrect": false,
+          "explanation": "December is one of the months that has 31 days."
+        }
+      ],
+      "explanation": "The months with exactly 30 days are April, June, September, and November. February has 28 or 29 days, while January and December have 31.",
+      "explanationImage": null,
+      "hints": [
+        "months",
+        "exactly 30 days"
+      ]
+    },
+    {
+      "text": "Choose the word which doesn’t belong:",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hammer",
+          "isCorrect": false,
+          "explanation": "A hammer is a common hand tool primarily used for striking, driving nails, or prying. It is widely utilized in construction, carpentry, and mechanical repair."
+        },
+        {
+          "letter": "B",
+          "text": "Screwdriver",
+          "isCorrect": false,
+          "explanation": "A screwdriver is a hand tool designed for turning screws, either to tighten or loosen them. It is an essential tool in assembly, repair, and construction work."
+        },
+        {
+          "letter": "C",
+          "text": "Knife",
+          "isCorrect": true,
+          "explanation": "A knife is a tool primarily designed for cutting, slicing, or chopping. While a versatile tool, its main function and typical usage context differ significantly from the other options."
+        },
+        {
+          "letter": "D",
+          "text": "Spanner",
+          "isCorrect": false,
+          "explanation": "A spanner (also known as a wrench) is a hand tool used to provide grip and mechanical advantage in applying torque to turn objects, typically nuts and bolts, or to prevent them from turning. It is crucial in mechanical and construction applications."
+        }
+      ],
+      "explanation": "A hammer, screwdriver, and spanner (wrench) are all common tools used for construction or mechanical repair. A knife is primarily a cutting tool, often associated with cooking.",
+      "explanationImage": null,
+      "hints": [
+        "word",
+        "doesn't belong"
+      ]
+    },
+    {
+      "text": "A clock shows 6:30. What is the angle between the hour and minute hands?",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "15°",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. At 6:30, the minute hand is at 180° from 12, and the hour hand is at 195° from 12. The absolute difference between these angles is 15°."
+        },
+        {
+          "letter": "B",
+          "text": "30°",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A common mistake leading to 30° is incorrectly assuming the hour hand is exactly at the '6' mark, or miscalculating its movement within the half-hour (e.g., if you thought the hour hand moved 30° in 30 minutes instead of 15°)."
+        },
+        {
+          "letter": "C",
+          "text": "45°",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. An angle of 45° would imply a significantly larger separation between the hands than what occurs at 6:30. This typically results from a major calculation error in determining the positions of one or both hands."
+        },
+        {
+          "letter": "D",
+          "text": "90°",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A 90° angle means the hands are perpendicular, which is not the configuration at 6:30. Such an angle is observed at times like 3:00 or 9:00."
+        }
+      ],
+      "explanation": "•Minute hand at 6 → 180°•Hour hand at 6:30 → 6 × 30 + (30/60 × 30) = 180 + 15 = 195°•Angle between them = 195 − 180 = 15°",
+      "explanationImage": null,
+      "hints": [
+        "6:30",
+        "angle between the hour and minute hands"
+      ]
+    },
+    {
+      "text": "If a car travels at 60 km/h, how long will it take to travel 180 km?",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 hours",
+          "isCorrect": false,
+          "explanation": "This answer is incorrect. If the car traveled for 2 hours at 60 km/h, it would cover 120 km (60 km/h × 2 h), which is not the given distance of 180 km."
+        },
+        {
+          "letter": "B",
+          "text": "3 hours",
+          "isCorrect": true,
+          "explanation": "Correct. Time is calculated by dividing the total distance by the average speed. So, Time = 180 km / 60 km/h = 3 hours."
+        },
+        {
+          "letter": "C",
+          "text": "4 hours",
+          "isCorrect": false,
+          "explanation": "This answer is incorrect. If the car traveled for 4 hours at 60 km/h, it would cover 240 km (60 km/h × 4 h), which exceeds the given distance of 180 km."
+        },
+        {
+          "letter": "D",
+          "text": "5 hours",
+          "isCorrect": false,
+          "explanation": "This answer is incorrect. If the car traveled for 5 hours at 60 km/h, it would cover 300 km (60 km/h × 5 h), significantly more than the given distance of 180 km."
+        }
+      ],
+      "explanation": "Time is calculated by dividing distance by speed. Time = 180 km / 60 km/h = 3 hours.",
+      "explanationImage": null,
+      "hints": [
+        "60 km/h",
+        "180 km"
+      ]
+    },
+    {
+      "text": "What comes next in the series: 5, 10, 20, 40,?",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "60",
+          "isCorrect": false,
+          "explanation": "This option would be correct if the pattern was consistently adding 20 to the previous number (40 + 20 = 60). However, the established pattern throughout the series is multiplication by 2, not addition."
+        },
+        {
+          "letter": "B",
+          "text": "70",
+          "isCorrect": false,
+          "explanation": "This option does not follow the consistent pattern of multiplying by 2 observed in the series. There is no clear mathematical operation based on the given terms that would lead to 70 as the next term."
+        },
+        {
+          "letter": "C",
+          "text": "80",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The pattern in the series is a geometric progression where each subsequent number is obtained by multiplying the previous number by 2. Following this pattern: 5 × 2 = 10, 10 × 2 = 20, 20 × 2 = 40. Therefore, the next term in the series is 40 × 2 = 80."
+        },
+        {
+          "letter": "D",
+          "text": "100",
+          "isCorrect": false,
+          "explanation": "This option might arise from an incorrect assumption, such as multiplying by 2.5 (40 × 2.5 = 100) or adding 60 (40 + 60 = 100). However, neither of these aligns with the consistent pattern of multiplying by 2 found in the given series."
+        }
+      ],
+      "explanation": "This is a geometric progression where each number is the previous number multiplied by 2. The next term in the series is 40 × 2 = 80.",
+      "explanationImage": null,
+      "hints": [
+        "series",
+        "next"
+      ]
+    }
+  ]
+}

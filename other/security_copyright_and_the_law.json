@@ -1,0 +1,3358 @@
+{
+  "questions": [
+    {
+      "text": "A digital signature is a mathematical technique which validates the authenticity and integrity of a digital document, message or software. It is the digital equivalent of a handwritten signature or stamped seal, but offers far more inherent security Which of the following is NOT a security feature provided by digital signatures?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Confidentiality",
+          "isCorrect": true,
+          "explanation": "Confidentiality is not directly guaranteed by digital signatures. While digital signatures can help ensure a document hasn't been tampered with, they don't necessarily encrypt the content itself. Separate encryption techniques are typically used to achieve confidentiality, where only authorized users can access the document's contents"
+        },
+        {
+          "letter": "B",
+          "text": "Integrity",
+          "isCorrect": false,
+          "explanation": "This ensures that the document has not been tampered with since it was signed. Any modification to the content will invalidate the signature. Digital signatures use cryptographic hash functions to create a unique fingerprint of the document. Any changes to the document will alter the hash value, making the signature invalid"
+        },
+        {
+          "letter": "C",
+          "text": "Authentication",
+          "isCorrect": false,
+          "explanation": "This verifies the identity of the signer, ensuring the document originated from a trusted source Digital signatures rely on public key cryptography. The signer uses their private key to create the signature, and the recipient uses the corresponding public key to verify it. This ensures only the owner of the private key could have signed the document"
+        },
+        {
+          "letter": "D",
+          "text": "Non-repudiation",
+          "isCorrect": false,
+          "explanation": "This prevents the signer from denying that they signed the document. Once a valid signature is created, it's cryptographically linked to the signer. With a valid digital signature, the signer cannot deny signing the document. The cryptographic process creates a strong link between the document, the signature, and the signer's private key."
+        }
+      ],
+      "explanation": "Confidentiality is not directly guaranteed by digital signatures. While digital signatures can help ensure a document hasn't been tampered with, they don't necessarily encrypt the content itself. Separate encryption techniques are typically used to achieve confidentiality, where only authorized users can access the document's contents",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A person who uses his or her expertise to gain access to other people's computers to get information illegally or do damage is a",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacker",
+          "isCorrect": true,
+          "explanation": "Hacker is a term that can have different meanings depending on the context. In the context of cybersecurity, a hacker is someone who uses their computer skills to gain unauthorized access to a computer system or network. Hackers can use their access for a variety of malicious purposes, such as stealing data, installing malware, or disrupting operations"
+        },
+        {
+          "letter": "B",
+          "text": "Analyst",
+          "isCorrect": false,
+          "explanation": "Analyst is a general term for someone who analyzes information. Computer analysts may use their skills to identify security vulnerabilities, but they don't typically engage in hacking activities"
+        },
+        {
+          "letter": "C",
+          "text": "Spammer",
+          "isCorrect": false,
+          "explanation": "Spammer is someone who sends unsolicited bulk email messages. While spammers can be a nuisance, they are not typically involved in hacking computer systems"
+        },
+        {
+          "letter": "D",
+          "text": "Programmer",
+          "isCorrect": false,
+          "explanation": "Programmer is someone who writes computer programs. Programmers may write code that is used for hacking purposes, but not all programmers are hackers"
+        }
+      ],
+      "explanation": "Hacker is a term that can have different meanings depending on the context. In the context of cybersecurity, a hacker is someone who uses their computer skills to gain unauthorized access to a computer system or network. Hackers can use their access for a variety of malicious purposes, such as stealing data, installing malware, or disrupting operations",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following usually observes each activity on the internet of the victim, gathers all information in the background, and sends it to someone else?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Malware",
+          "isCorrect": false,
+          "explanation": "Malware is a broad term for malicious software that can disrupt a computer system or steal data. Spyware is a type of malware, but not all malware specifically targets internet activity and transmits information"
+        },
+        {
+          "letter": "B",
+          "text": "Spyware",
+          "isCorrect": true,
+          "explanation": "Spyware is a malicious software program that is designed to gather information from a computer or device without the user's knowledge or consent. It can steal a variety of data, including browsing history, email messages, login credentials, and financial information. Spyware can be installed on a computer through a variety of ways, such as clicking on a malicious link, opening an infected attachment, or downloading a file from an untrusted source. Once installed, spyware can run silently in the background and transmit stolen data to a third party."
+        },
+        {
+          "letter": "C",
+          "text": "Adware",
+          "isCorrect": false,
+          "explanation": "Adware is a type of software that displays unwanted advertisements on a user's computer. While some adware might track user browsing habits to target ads, it typically doesn't gather information in the background and send it to someone else in the same way that spyware does"
+        }
+      ],
+      "explanation": "Spyware is a malicious software program that is designed to gather information from a computer or device without the user's knowledge or consent. It can steal a variety of data, including browsing history, email messages, login credentials, and financial information. Spyware can be installed on a computer through a variety of ways, such as clicking on a malicious link, opening an infected attachment, or downloading a file from an untrusted source. Once installed, spyware can run silently in the background and transmit stolen data to a third party.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In system hacking, which of the following is the most crucial activity",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Information gathering",
+          "isCorrect": false,
+          "explanation": "Information gathering is an important part of hacking, but it is only the first step. Hackers need to gather information about a system before they can attack it, but without cracking passwords or exploiting vulnerabilities, they cannot gain access to the system"
+        },
+        {
+          "letter": "B",
+          "text": "Junk mailing",
+          "isCorrect": false,
+          "explanation": "Junk mailing, also known as spamming, is not typically used in system hacking. Spamming is a way of sending unsolicited bulk email messages, and it is more commonly used for spreading malware or phishing attacks."
+        },
+        {
+          "letter": "C",
+          "text": "Cracking passwords",
+          "isCorrect": true,
+          "explanation": "Cracking passwords is the most crucial activity in system hacking because it allows the hacker to gain unauthorized access to a system. Once a hacker has access to a system, they can steal data, install malware, or disrupt operations. There are many different methods for cracking passwords, but some of the most common methods include brute-force attacks, dictionary attacks, and social engineering"
+        },
+        {
+          "letter": "D",
+          "text": "IP spoofing",
+          "isCorrect": false,
+          "explanation": "IP spoofing is a technique where a hacker forges the IP address of another computer. This can be used to hide the hacker's identity or to gain access to a system that restricts access based on IP address. However, IP spoofing is not always necessary for hacking, and it is often more effective to crack passwords or exploit vulnerabilities"
+        }
+      ],
+      "explanation": "Cracking passwords is the most crucial activity in system hacking because it allows the hacker to gain unauthorized access to a system. Once a hacker has access to a system, they can steal data, install malware, or disrupt operations. There are many different methods for cracking passwords, but some of the most common methods include brute-force attacks, dictionary attacks, and social engineering",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Additional copy of your data on some device is called",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Backup of data",
+          "isCorrect": true,
+          "explanation": "Backup of data is a copy of your data that is stored on a separate device or location. This copy can be used to restore your data if the original is lost, damaged, or corrupted. Backups are essential for protecting your important data from loss"
+        },
+        {
+          "letter": "B",
+          "text": "Meta data",
+          "isCorrect": false,
+          "explanation": "Meta data is data about data. It provides information about a file, such as its name, size, creation date, and file type. Metadata doesn't itself constitute a backup of the data"
+        },
+        {
+          "letter": "C",
+          "text": "Transferring of data",
+          "isCorrect": false,
+          "explanation": "Transferring of data is the process of moving data from one location to another. While transferring data can be part of the backup process (e.g., transferring data to a backup drive), it's not the same thing as having a backup"
+        },
+        {
+          "letter": "D",
+          "text": "Reprographic of data",
+          "isCorrect": false,
+          "explanation": "Reprographic of data is not a commonly used term in computing. It appears to be a misspelling of \"reproduction\" which can refer to creating a copy of data. However, \"backup\" is the more specific term in this context."
+        }
+      ],
+      "explanation": "Backup of data is a copy of your data that is stored on a separate device or location. This copy can be used to restore your data if the original is lost, damaged, or corrupted. Backups are essential for protecting your important data from loss",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which act protects the individuals from unauthorized use and disclosure of personal information held in computer systems?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1984 data protection Act",
+          "isCorrect": true,
+          "explanation": "This could be a reference to a specific data protection act implemented in 1984, but it's important to note that the year may not be accurate and would depend on the country"
+        },
+        {
+          "letter": "B",
+          "text": "1980 privacy protection acts",
+          "isCorrect": false,
+          "explanation": "Similar to the above, this could be referencing specific legislation, but the year and the exact wording would depend on the jurisdiction."
+        },
+        {
+          "letter": "C",
+          "text": "1987 computer security acts",
+          "isCorrect": false,
+          "explanation": "Similar to the above, this could be referencing specific legislation, but the year and the exact wording would depend on the jurisdiction. Computer security acts may focus on broader computer security measures and not necessarily target data protection"
+        },
+        {
+          "letter": "D",
+          "text": "Computer misuse act 1990",
+          "isCorrect": false,
+          "explanation": "This might be referencing the Computer Misuse Act 1990 of the United Kingdom, which prohibits unauthorized access to computer material and other offenses. It is one example of a law that can help protect data, but data protection laws are typically more comprehensive"
+        }
+      ],
+      "explanation": "This could be a reference to a specific data protection act implemented in 1984, but it's important to note that the year may not be accurate and would depend on the country",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is software that is available free for a limited time period called?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Freeware",
+          "isCorrect": false,
+          "explanation": "Freeware is software that is free to use and distribute indefinitely. There are no restrictions on how long you can use it"
+        },
+        {
+          "letter": "B",
+          "text": "Groupware",
+          "isCorrect": false,
+          "explanation": "Groupware is a type of software that is designed to be used by multiple people to collaborate on projects. It is not typically used for free trials"
+        },
+        {
+          "letter": "C",
+          "text": "Shareware",
+          "isCorrect": true,
+          "explanation": "Shareware is a type of software that is licensed to be used for free for a trial period, but you must pay to continue using it after the trial period ends. Shareware is a common way for software developers to distribute their products and get users to try them out before they buy them"
+        },
+        {
+          "letter": "D",
+          "text": "Database",
+          "isCorrect": false,
+          "explanation": "Database is a collection of data organized in a specific way for easy access and retrieval. It is not a type of software license"
+        }
+      ],
+      "explanation": "Shareware is a type of software that is licensed to be used for free for a trial period, but you must pay to continue using it after the trial period ends. Shareware is a common way for software developers to distribute their products and get users to try them out before they buy them",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The crime that involves computer and network is called ?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hijacking",
+          "isCorrect": false,
+          "explanation": "Hijacking can refer to taking control of something, such as a vehicle or an airplane. In the context of computers, hijacking can refer to taking control of a computer system or a website. However, cybercrime is a broader term that encompasses all types of illegal activity that involves computers and networks, including hijacking"
+        },
+        {
+          "letter": "B",
+          "text": "Cybercrime",
+          "isCorrect": true,
+          "explanation": "Cybercrime is a general term that refers to any criminal activity that involves a computer or a network. It includes a wide range of crimes, such as hacking, identity theft, fraud, and child pornography. Cybercrime can have a devastating impact on individuals, businesses, and governments"
+        },
+        {
+          "letter": "C",
+          "text": "Scamming",
+          "isCorrect": false,
+          "explanation": "Scamming is a type of fraud where someone deceives another person in order to gain something of value, such as money or personal information. Scamming can be done online or offline, but cybercrime is specifically focused on crimes that involve computers and networks"
+        },
+        {
+          "letter": "D",
+          "text": "Cyberwarface",
+          "isCorrect": false,
+          "explanation": "Cyberwarfare is the use of computer technology to attack a nation or organization. It is a state-sponsored activity that is intended to cause damage or disruption. Cybercrime, on the other hand, can be committed by individuals or groups, and it is not necessarily targeted at a specific nation or organization"
+        }
+      ],
+      "explanation": "Cybercrime is a general term that refers to any criminal activity that involves a computer or a network. It includes a wide range of crimes, such as hacking, identity theft, fraud, and child pornography. Cybercrime can have a devastating impact on individuals, businesses, and governments",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Regarding computer security, you may have keys, badges, token, or plastic cards to give you physical access to the locked-up server room or computer buildings?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "What you have?",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "What you know?",
+          "isCorrect": false,
+          "explanation": "While knowing access codes or passwords might be required to access certain systems or data after gaining physical entry, the question specifically asks about physical access through physical security measures like keys, badges, tokens, or plastic cards"
+        },
+        {
+          "letter": "C",
+          "text": "What do you do?",
+          "isCorrect": false,
+          "explanation": "This option is too vague and doesn't target the specific requirement for physical access control using tools"
+        },
+        {
+          "letter": "D",
+          "text": "What are you?",
+          "isCorrect": false,
+          "explanation": "This option is irrelevant to the context of physical security measures"
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following viruses executes when starting the computer?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Macro",
+          "isCorrect": false,
+          "explanation": "Macro is a type of virus that is written in a macro language, such as the macro language used in Microsoft Word. Macro viruses can infect documents and can be executed when the document is opened. However, they do not typically execute at startup"
+        },
+        {
+          "letter": "B",
+          "text": "File infector",
+          "isCorrect": false,
+          "explanation": "File infector virus attaches itself to executable files (.exe files). When the infected file is run, the virus code is also executed. File infector viruses do not specifically target the boot sectorMacro"
+        },
+        {
+          "letter": "C",
+          "text": "Boot sector",
+          "isCorrect": true,
+          "explanation": "Boot sector virus is a type of malware that infects the boot sector of a hard drive. The boot sector is the first sector on a hard drive that contains the code the computer needs to start up. When a computer is infected with a boot sector virus, the virus code will be executed before the operating system loads, giving the virus a high level of access to the system"
+        },
+        {
+          "letter": "D",
+          "text": "Salami Shaving",
+          "isCorrect": false,
+          "explanation": "Salami shaving is not a virus, but a type of fraud where a small amount of money is repeatedly stolen from financial transactions over a long period of time. It is not relevant to computer startup processes."
+        }
+      ],
+      "explanation": "Boot sector virus is a type of malware that infects the boot sector of a hard drive. The boot sector is the first sector on a hard drive that contains the code the computer needs to start up. When a computer is infected with a boot sector virus, the virus code will be executed before the operating system loads, giving the virus a high level of access to the system",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following can be considered as the elements of cyber security",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Application Security",
+          "isCorrect": false,
+          "explanation": "This focuses on securing applications from vulnerabilities that could be exploited by attackers. It involves secure coding practices, input validation, and regular security testing of applications"
+        },
+        {
+          "letter": "B",
+          "text": "Operational Security",
+          "isCorrect": false,
+          "explanation": "This refers to the processes and practices that ensure the safe and reliable operation of information systems. It includes aspects like data backup, access control, incident response, and physical security measures"
+        },
+        {
+          "letter": "C",
+          "text": "Network Security",
+          "isCorrect": false,
+          "explanation": "This protects the network infrastructure from unauthorized access, intrusion attempts, and denial-of-service attacks. It involves firewalls, intrusion detection systems, network segmentation, and secure network configurations."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": "Cyber security is a comprehensive field that encompasses various elements to protect information systems from unauthorized access, use, disclosure, disruption, modification, or destruction Therefore, a strong cyber security posture requires attention to all three elements: application security, operational security, and network security. Each plays a vital role in safeguarding information systems and data"
+        }
+      ],
+      "explanation": "Cyber security is a comprehensive field that encompasses various elements to protect information systems from unauthorized access, use, disclosure, disruption, modification, or destruction Therefore, a strong cyber security posture requires attention to all three elements: application security, operational security, and network security. Each plays a vital role in safeguarding information systems and data",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The polymorphic virus is",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trojan horse",
+          "isCorrect": false,
+          "explanation": "A trojan horse is a malicious program disguised as legitimate software. It tricks users into installing or running it, allowing it to gain access to a system and potentially steal data, corrupt files, or download other malwar"
+        },
+        {
+          "letter": "B",
+          "text": "Chromosomal",
+          "isCorrect": false,
+          "explanation": "This term is not typically used in the context of viruses. Chromosomes are structures within cells that carry genetic material. It's possible this is a misspelling of another term related to viruses, but without further context, it's difficult to say"
+        },
+        {
+          "letter": "C",
+          "text": "Redlof",
+          "isCorrect": false,
+          "explanation": "Redlof\" is \"folder\" spelled backward. While a virus could potentially target folders, it's not a standard classification term for a virus type"
+        },
+        {
+          "letter": "D",
+          "text": "Logic bomb",
+          "isCorrect": false,
+          "explanation": "A logic bomb is a type of malware that is designed to detonate at a specific time or when certain conditions are met. It can cause damage by deleting files, corrupting data, or disrupting system operations"
+        },
+        {
+          "letter": "E",
+          "text": "more context needed",
+          "isCorrect": true,
+          "explanation": "Polymorphic viruses are a specific type of virus that can change their code structure with each infection. This makes them more difficult to detect by traditional antivirus software. However, the image itself doesn't provide enough information to definitively identify the polymorphic virus as the answer. Without more context or information about the specific virus in question, it's impossible to determine the correct answer"
+        }
+      ],
+      "explanation": "Polymorphic viruses are a specific type of virus that can change their code structure with each infection. This makes them more difficult to detect by traditional antivirus software. However, the image itself doesn't provide enough information to definitively identify the polymorphic virus as the answer. Without more context or information about the specific virus in question, it's impossible to determine the correct answer",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Programs that harm to your computer by damaging programs , deleting files or reformatting the hard drive are called",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Virus",
+          "isCorrect": true,
+          "explanation": "Virus is a malicious software program that can infect your computer and damage programs, delete files, or reformat the hard drive. Viruses can spread from one computer to another through a variety of ways, such as infected email attachments, websites, or USB drives"
+        },
+        {
+          "letter": "B",
+          "text": "Anti-virus",
+          "isCorrect": false,
+          "explanation": "Anti-virus is a software program that is designed to protect your computer from viruses. Anti-virus software can detect and remove viruses from your computer"
+        },
+        {
+          "letter": "C",
+          "text": "Open source",
+          "isCorrect": false,
+          "explanation": "Open source is a type of software that is freely available for anyone to use, modify, and distribute. Open source software is not inherently malicious"
+        },
+        {
+          "letter": "D",
+          "text": "Data base",
+          "isCorrect": false,
+          "explanation": "Database is a collection of data organized in a specific way for easy access and retrieval. Databases are not programs that can harm your computer"
+        }
+      ],
+      "explanation": "Virus is a malicious software program that can infect your computer and damage programs, delete files, or reformat the hard drive. Viruses can spread from one computer to another through a variety of ways, such as infected email attachments, websites, or USB drives",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which type of malware that affects a system's boot partition or the Master Boot Record (MBR) of a hard disk?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trojan horse",
+          "isCorrect": false,
+          "explanation": "A Trojan horse is a type of malware that disguises itself as legitimate software. Once installed, it can steal data, harm the computer, or create a backdoor for attackers. Trojan horses do not typically target the boot sector or MBR"
+        },
+        {
+          "letter": "B",
+          "text": "Worm",
+          "isCorrect": false,
+          "explanation": "A worm is a type of malware that can replicate itself and spread to other computers without any user interaction. Worms can spread through networks, email attachments, or removable media. While some worms can be destructive, they don't specifically target the boot sector or MBR."
+        },
+        {
+          "letter": "C",
+          "text": "Boot sector virus",
+          "isCorrect": true,
+          "explanation": "Boot sector viruses are a specific type of malware that targets the boot sector of a hard disk or the Master Boot Record (MBR). The boot sector is the first sector on a hard disk that contains the code that the computer needs to start up. The MBR is a part of the boot sector that contains information about the partitions on the hard disk. When a computer is infected with a boot sector virus, the virus code can overwrite the legitimate boot code, preventing the computer from starting up normally. Boot sector viruses can be very difficult to remove and can cause significant damage to a computer system"
+        },
+        {
+          "letter": "D",
+          "text": "Spyware",
+          "isCorrect": false,
+          "explanation": "Spyware is a type of malware that collects information about a user's computer activity without their knowledge or consent. Spyware can then transmit this information to a third party. Spyware typically does not affect the boot sector or MBR"
+        }
+      ],
+      "explanation": "Boot sector viruses are a specific type of malware that targets the boot sector of a hard disk or the Master Boot Record (MBR). The boot sector is the first sector on a hard disk that contains the code that the computer needs to start up. The MBR is a part of the boot sector that contains information about the partitions on the hard disk. When a computer is infected with a boot sector virus, the virus code can overwrite the legitimate boot code, preventing the computer from starting up normally. Boot sector viruses can be very difficult to remove and can cause significant damage to a computer system",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which type of software designed to help the user's computer detect viruses and avoid them?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Malware",
+          "isCorrect": false,
+          "explanation": "Malware is a general term for any software that is designed to harm a computer system. This includes viruses, worms, Trojan horses, spyware, and ransomware. Antivirus software is a type of malware protection, but not all malware is a virus"
+        },
+        {
+          "letter": "B",
+          "text": "Adware",
+          "isCorrect": false,
+          "explanation": "Adware is a type of software that displays unwanted advertising on your computer. While adware can be annoying, it is not typically designed to harm your computer in the same way that a virus is"
+        },
+        {
+          "letter": "C",
+          "text": "Antivirus",
+          "isCorrect": true,
+          "explanation": "Antivirus software is specifically designed to help protect your computer from viruses and other malicious software (malware). It can typically:• Scan your computer for viruses and other malware.• Remove viruses and other malware from your computer.• Quarantine suspicious files for further analysis.• Update its virus definitions regularly to stay up-to-date with new threats"
+        },
+        {
+          "letter": "D",
+          "text": "Red code",
+          "isCorrect": false,
+          "explanation": "Red code is a general term for malicious software that can exploit vulnerabilities in computer systems. This can include viruses, worms, Trojan horses, and other types of malware. \"Red code\" is not as specific a term as antivirus"
+        }
+      ],
+      "explanation": "Antivirus software is specifically designed to help protect your computer from viruses and other malicious software (malware). It can typically:• Scan your computer for viruses and other malware.• Remove viruses and other malware from your computer.• Quarantine suspicious files for further analysis.• Update its virus definitions regularly to stay up-to-date with new threats",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Right to use a software on computer is called",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Software Copy right",
+          "isCorrect": false,
+          "explanation": "Software copyright refers to the legal ownership of the intellectual property of the software. It grants the copyright holder exclusive rights to control how the software is used, distributed, and modified. A copyright doesn't directly give you the right to use the software, it restricts how others can use it"
+        },
+        {
+          "letter": "B",
+          "text": "Site license",
+          "isCorrect": true,
+          "explanation": "A site license is a type of license that grants the right to use software to all the members of a particular organization or site. This type of license is often used by businesses and schools to allow all their employees or students to use a particular software program. Site licenses typically allow for multiple installations of the software on different computers within the organization"
+        },
+        {
+          "letter": "C",
+          "text": "Software piracy",
+          "isCorrect": false,
+          "explanation": "Software piracy refers to the illegal copying, distribution, or use of software. It's the opposite of having the right to use the software"
+        },
+        {
+          "letter": "D",
+          "text": "Software activation",
+          "isCorrect": false,
+          "explanation": "Software activation is the process of verifying that a software copy is genuine and has not been illegally copied. Activation typically doesn't grant the right to use the software, it just confirms the legitimacy of the copy you have."
+        }
+      ],
+      "explanation": "A site license is a type of license that grants the right to use software to all the members of a particular organization or site. This type of license is often used by businesses and schools to allow all their employees or students to use a particular software program. Site licenses typically allow for multiple installations of the software on different computers within the organization",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following are main sources of viruses spreading?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Email networks",
+          "isCorrect": false,
+          "explanation": "Email networks: Malicious emails can contain attachments or links that, when opened or clicked, can download and install viruses on a recipient's computer"
+        },
+        {
+          "letter": "B",
+          "text": "Removable storage devices",
+          "isCorrect": false,
+          "explanation": "USB flash drives, external hard drives, and other removable storage devices can be infected with viruses if they are used on a computer that is already infected. The virus can then spread to other computers when the storage device is plugged in"
+        },
+        {
+          "letter": "C",
+          "text": "Pirated software",
+          "isCorrect": false,
+          "explanation": "Pirated software (software obtained illegally) often comes from untrusted sources and may be bundled with malware, including viruses"
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": "All of the listed options can be sources for spreading viruses By understanding these common transmission methods, you can take steps to protect yourself from viruses, such as:• Being cautious about opening email attachments, especially from unknown senders.• Scanning removable storage devices with antivirus software before using them on your computer.• Avoiding downloading and installing pirated software.• Keeping your antivirus software up to date and running regular scans.By following these practices, you can help to reduce the risk of your computer becoming infected with a virus"
+        }
+      ],
+      "explanation": "All of the listed options can be sources for spreading viruses By understanding these common transmission methods, you can take steps to protect yourself from viruses, such as:• Being cautious about opening email attachments, especially from unknown senders.• Scanning removable storage devices with antivirus software before using them on your computer.• Avoiding downloading and installing pirated software.• Keeping your antivirus software up to date and running regular scans.By following these practices, you can help to reduce the risk of your computer becoming infected with a virus",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is NOT an intentional cause of data loss",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Terrorist attack",
+          "isCorrect": false,
+          "explanation": "Terrorist attacks can target critical infrastructure, including data centers, with the intention of causing widespread disruption and data loss"
+        },
+        {
+          "letter": "B",
+          "text": "An angry employee",
+          "isCorrect": false,
+          "explanation": "A disgruntled employee might intentionally delete or corrupt data as an act of revenge"
+        },
+        {
+          "letter": "C",
+          "text": "Technical failure",
+          "isCorrect": true,
+          "explanation": "Technical failures, on the other hand, are unintentional events caused by malfunctioning hardware, software bugs, or power outages. These failures can lead to data loss, but they are not the result of a deliberate act"
+        },
+        {
+          "letter": "D",
+          "text": "Hacker attack",
+          "isCorrect": false,
+          "explanation": "Hackers can launch cyberattacks to steal data, corrupt data, or disrupt computer systems, all with the intention of causing harm."
+        }
+      ],
+      "explanation": "Technical failures, on the other hand, are unintentional events caused by malfunctioning hardware, software bugs, or power outages. These failures can lead to data loss, but they are not the result of a deliberate act",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following refers to stealing one's idea or invention of others and use it for their own benefits",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Software Piracy",
+          "isCorrect": false,
+          "explanation": "Software Piracy is the illegal copying and distribution of copyrighted software. This can involve copying software without a license, downloading software from unauthorized websites, or using software that has been cracked or hacked"
+        },
+        {
+          "letter": "B",
+          "text": "Plagiarism",
+          "isCorrect": false,
+          "explanation": "Plagiarism is the act of taking someone else's work and passing it off as your own. This can include copying someone else's words, ideas, or creative expression without giving them credit. Plagiarism can apply to creative works such as writing, music, or art, as well as to academic work."
+        },
+        {
+          "letter": "C",
+          "text": "Intellectual Property Rights",
+          "isCorrect": false,
+          "explanation": "Intellectual Property Rights (IPR) is a legal concept that gives people ownership of their ideas and creations. IPR includes things like copyrights, patents, trademarks, and trade secrets. These rights give the owner the exclusive right to use, sell, or license their work"
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": "In the context of the question, stealing someone's idea or invention can involve infringing on their intellectual property rights, and it can also be considered plagiarism if the idea or invention is expressed in a creative way. So all of the above options are ways that someone might steal someone else's idea or invention and use it for their own benefit"
+        }
+      ],
+      "explanation": "In the context of the question, stealing someone's idea or invention can involve infringing on their intellectual property rights, and it can also be considered plagiarism if the idea or invention is expressed in a creative way. So all of the above options are ways that someone might steal someone else's idea or invention and use it for their own benefit",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which phrase describes viruses, worms, Trojan horse attack applets and attack scripts",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cyber security",
+          "isCorrect": false,
+          "explanation": "Cyber security is a broad term that refers to the practices and technologies used to protect computer systems from cyberattacks. Malware is a threat that cyber security measures aim to protect against, but it's not the same thing."
+        },
+        {
+          "letter": "B",
+          "text": "Phishing",
+          "isCorrect": false,
+          "explanation": "Phishing is a type of social engineering attack that attempts to trick users into revealing personal information or clicking on malicious links. While phishing attacks can be used to deliver malware, they are a distinct concept"
+        },
+        {
+          "letter": "C",
+          "text": "Malware",
+          "isCorrect": true,
+          "explanation": "Malware is the most encompassing term that describes all malicious software designed to harm a computer system. This includes viruses, worms, Trojan horses, spyware, ransomware, and other malicious programs"
+        },
+        {
+          "letter": "D",
+          "text": "Virus",
+          "isCorrect": false,
+          "explanation": "Virus is a specific type of malware that can replicate itself and spread from one computer to another. While the question mentions viruses, it also includes other types of malware beyond just viruses"
+        }
+      ],
+      "explanation": "Malware is the most encompassing term that describes all malicious software designed to harm a computer system. This includes viruses, worms, Trojan horses, spyware, ransomware, and other malicious programs",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "An individual has the right to see data kept about him is called",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Private issue",
+          "isCorrect": false,
+          "explanation": "This is a more general term and doesn't specifically address data privacy. It could refer to any personal matter"
+        },
+        {
+          "letter": "B",
+          "text": "Data privacy",
+          "isCorrect": true,
+          "explanation": "Data privacy refers to the right of individuals to control their personal data. This includes the right to access, rectify, erase, and restrict the processing of their personal data Therefore, data privacy is the most accurate term that describes the right of an individual to see information held about them."
+        },
+        {
+          "letter": "C",
+          "text": "Copyright",
+          "isCorrect": false,
+          "explanation": "Copyright is a legal concept that protects the ownership of creative works such as literary works, artistic works, films, and music. It's not directly related to data privacy rights"
+        },
+        {
+          "letter": "D",
+          "text": "Data backup",
+          "isCorrect": false,
+          "explanation": "Data backup refers to creating a copy of data for storage and retrieval in case the original data is lost or damaged. While data backups are important for data security, they don't address the individual's right to access or control their data"
+        }
+      ],
+      "explanation": "Data privacy refers to the right of individuals to control their personal data. This includes the right to access, rectify, erase, and restrict the processing of their personal data Therefore, data privacy is the most accurate term that describes the right of an individual to see information held about them.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The security of the computer room where computer systems reside is called",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Logical security",
+          "isCorrect": false,
+          "explanation": "Logical security refers to the measures taken to protect a computer system from unauthorized access, use, disclosure, disruption, modification, or destruction of information. This includes things like passwords, encryption, and firewalls. While physical security is important for protecting computer systems, it is just one part of overall logical security"
+        },
+        {
+          "letter": "B",
+          "text": "Physical security",
+          "isCorrect": true,
+          "explanation": "Physical security refers to the measures taken to protect a computer system from physical access by unauthorized persons. This can include things like:• Locking down the computer room• Using security guards or security cameras• Requiring employees to wear ID badges• Using biometric scanners to control access to the computer room• Maintaining a clean and organized environment to prevent physical damage to equipment"
+        },
+        {
+          "letter": "C",
+          "text": "Back security",
+          "isCorrect": false,
+          "explanation": "Back security is not a standard term in computer security. It might be a misspelling of \"backup security\" which refers to the security measures taken to protect backups of data. Physical security measures can be important for protecting backups, but there are other security measures that are specific to backups themselves"
+        },
+        {
+          "letter": "D",
+          "text": "Computer security",
+          "isCorrect": false,
+          "explanation": "Computer security is a broad term that encompasses all aspects of protecting a computer system, including physical security, logical security, and data security. Physical security is one important aspect of computer security, but it is not the only one"
+        }
+      ],
+      "explanation": "Physical security refers to the measures taken to protect a computer system from physical access by unauthorized persons. This can include things like:• Locking down the computer room• Using security guards or security cameras• Requiring employees to wear ID badges• Using biometric scanners to control access to the computer room• Maintaining a clean and organized environment to prevent physical damage to equipment",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following are the basic building blocks of data security",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Encryption standard",
+          "isCorrect": false,
+          "explanation": "Encryption standards provide a method for scrambling data to make it unreadable to unauthorized users. This is a crucial line of defense for protecting sensitive information, especially when it's being transmitted or stored electronically"
+        },
+        {
+          "letter": "B",
+          "text": "Anti-virus",
+          "isCorrect": false,
+          "explanation": "Antivirus software helps protect against malicious programs like viruses, worms, and Trojan horses that can steal, corrupt, or delete data. Antivirus software can detect and remove these threats, preventing them from harming your data"
+        },
+        {
+          "letter": "C",
+          "text": "Cyber laws",
+          "isCorrect": false,
+          "explanation": "Cyber laws are legal regulations designed to address issues related to computer crime and security. These laws help to deter criminal activity, define what constitutes a cybercrime, and provide a framework for investigating and prosecuting cybercriminals"
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": "While each of these elements plays a separate role, they work together to create a comprehensive data security strategy. Encryption standards safeguard data, antivirus software shields against malicious software, and cyber laws provide a legal framework to deter crime and hold violators accountable"
+        }
+      ],
+      "explanation": "While each of these elements plays a separate role, they work together to create a comprehensive data security strategy. Encryption standards safeguard data, antivirus software shields against malicious software, and cyber laws provide a legal framework to deter crime and hold violators accountable",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The software program or hardware device that filters all data packets coming through the internet, a network, etc. is known as the",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Antivirus",
+          "isCorrect": false,
+          "explanation": "Antivirus software is designed to specifically detect, prevent, and remove viruses from a computer system. While antivirus software is important for protecting against malware, it doesn't necessarily filter all network traffic like a firewall does"
+        },
+        {
+          "letter": "B",
+          "text": "Firewall",
+          "isCorrect": true,
+          "explanation": "A firewall is a security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules. It acts as a barrier between a trusted internal network and untrusted external networks (like the internet). Firewalls can filter data packets based on their source, destination, port number, and protocol, allowing legitimate traffic while blocking potentially malicious traffic"
+        },
+        {
+          "letter": "C",
+          "text": "Cookies",
+          "isCorrect": false,
+          "explanation": "Cookies are small pieces of data that websites store on a user's computer. They are used to remember information about the user, such as their login credentials, preferences, and browsing history. Cookies are not used for network traffic filtering"
+        },
+        {
+          "letter": "D",
+          "text": "Malware",
+          "isCorrect": false,
+          "explanation": "Malware is a broad term for malicious software, including viruses, worms, Trojan horses, spyware, and ransomware. While firewalls can help prevent malware from entering a network, malware itself is not a filtering mechanism"
+        }
+      ],
+      "explanation": "A firewall is a security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules. It acts as a barrier between a trusted internal network and untrusted external networks (like the internet). Firewalls can filter data packets based on their source, destination, port number, and protocol, allowing legitimate traffic while blocking potentially malicious traffic",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A secret word or numbers to be typed on a keyboard before any activity can take place are called",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Biometric data",
+          "isCorrect": false,
+          "explanation": "Biometric data is data that is unique to a specific person, such as fingerprints, facial recognition data, or iris scans. Biometric data can be used for authentication purposes, but it is not the same as a password"
+        },
+        {
+          "letter": "B",
+          "text": "Data encryption",
+          "isCorrect": false,
+          "explanation": "Data encryption is the process of scrambling data so that it can only be read by someone who has the decryption key. While passwords can be used to protect encrypted data, encryption itself is not a secret word or number used for access"
+        },
+        {
+          "letter": "C",
+          "text": "Password",
+          "isCorrect": true,
+          "explanation": "A password is a secret string of characters that is used to authenticate a user and grant them access to a computer system or resource. When you enter a password, the system checks it against a stored value (often in an encrypted form) and grants access only if they match. Passwords are a fundamental security measure used to protect computer systems and data from unauthorized access"
+        },
+        {
+          "letter": "D",
+          "text": "Private word",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A password is a secret string of characters that is used to authenticate a user and grant them access to a computer system or resource. When you enter a password, the system checks it against a stored value (often in an encrypted form) and grants access only if they match. Passwords are a fundamental security measure used to protect computer systems and data from unauthorized access",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In the computer networks, the encryption techniques are primarily used for improving the",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Security",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Performance",
+          "isCorrect": false,
+          "explanation": "Encryption techniques can actually add overhead to data processing and transmission due to the extra steps required to encrypt and decrypt data. This can slow down network performance in some cases"
+        },
+        {
+          "letter": "C",
+          "text": "Reality",
+          "isCorrect": false,
+          "explanation": "Encryption doesn't change the real world or data itself. It focuses on protecting the confidentiality of data"
+        },
+        {
+          "letter": "D",
+          "text": "Connectivity",
+          "isCorrect": false,
+          "explanation": "While encryption can be used to secure communication channels, it's not the primary purpose. Encryption protects data, not necessarily the connection itself"
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following are related to the category of computer viruses",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "My Doom",
+          "isCorrect": false,
+          "explanation": "My Doom was a fast-spreading email worm that caused significant disruption to email servers and computer networks in 2004. It exploited vulnerabilities in Microsoft Outlook and spread through email attachments"
+        },
+        {
+          "letter": "B",
+          "text": "Klez",
+          "isCorrect": false,
+          "explanation": "Klez is a family of mail worms that first appeared in the late 1990s. Klez viruses can infect computers through email attachments and shared network folders. They can steal data, damage files, and spread spam"
+        },
+        {
+          "letter": "C",
+          "text": "ILOVEYOU",
+          "isCorrect": false,
+          "explanation": "The ILOVEYOU virus was a particularly damaging email worm that spread in 2000. It disguised itself as a love letter and tricked users into opening an infected attachment. The attachment then exploited a vulnerability in Microsoft Outlook to infect the user's computer. The ILOVEYOU virus could steal data, overwrite files, and download other malicious software onto the infected computer"
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which one of the following is a type of antivirus program",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Quick Heal",
+          "isCorrect": false,
+          "explanation": "Quick Heal is an Indian multinational cybersecurity company that develops antivirus, endpoint security, internet security, and data security products for home users and businesses"
+        },
+        {
+          "letter": "B",
+          "text": "McAfee",
+          "isCorrect": false,
+          "explanation": "McAfee is an American multinational computer security software company headquartered in Santa Clara, California, founded in 1987. It develops antivirus software and endpoint security products"
+        },
+        {
+          "letter": "C",
+          "text": "Kaspersky",
+          "isCorrect": false,
+          "explanation": "Kaspersky is a Russian multinational cybersecurity and antivirus provider headquartered in Moscow, Russia. It was founded in 1997 by Eugene Kaspersky, Natalya Kaspersky, and Alexey Pertsev. Kaspersky offers a wide range of security products for consumers and businesses, including antivirus, internet security, endpoint security, and mobile security"
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": "Quick Heal, McAfee, and Kaspersky are all popular antivirus programs that are used to protect computers from viruses, malware, and other security threats. Antivirus programs work by scanning your computer for malicious software and then removing it or quarantining it. They can also help to prevent malware from infecting your computer in the first place"
+        }
+      ],
+      "explanation": "Quick Heal, McAfee, and Kaspersky are all popular antivirus programs that are used to protect computers from viruses, malware, and other security threats. Antivirus programs work by scanning your computer for malicious software and then removing it or quarantining it. They can also help to prevent malware from infecting your computer in the first place",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the best way to transfer viruses from one computer to another?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exchange of data",
+          "isCorrect": true,
+          "explanation": "The best way to transfer viruses from one computer to another is through the exchange of data. This can happen in a number of ways, such as:Transferring files via USB drive, external hard drive, or other removable media.Downloading infected files from the internet.Opening infected email attachments.Clicking on malicious links in emails or on websites."
+        },
+        {
+          "letter": "B",
+          "text": "Exchange of display screen",
+          "isCorrect": false,
+          "explanation": "Viruses cannot be transferred through the exchange of a display screen."
+        },
+        {
+          "letter": "C",
+          "text": "Dust in room",
+          "isCorrect": false,
+          "explanation": "Dust in a room does not contain viruses."
+        },
+        {
+          "letter": "D",
+          "text": "High temperature",
+          "isCorrect": false,
+          "explanation": "While high temperature can damage a computer, it will not transfer viruses."
+        }
+      ],
+      "explanation": "The best way to transfer viruses from one computer to another is through the exchange of data. This can happen in a number of ways, such as:Transferring files via USB drive, external hard drive, or other removable media.Downloading infected files from the internet.Opening infected email attachments.Clicking on malicious links in emails or on websites.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What software is used to detect and remove viruses from a computer?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pirated software",
+          "isCorrect": false,
+          "explanation": "Pirated software is illegally copied software. It is not designed to protect your computer from viruses and may actually contain malware itself."
+        },
+        {
+          "letter": "B",
+          "text": "Antivirus",
+          "isCorrect": true,
+          "explanation": "B is the correct option."
+        },
+        {
+          "letter": "C",
+          "text": "Trojan horse",
+          "isCorrect": false,
+          "explanation": "A Trojan horse is a type of malware that disguises itself as legitimate software. Once installed, it can steal your data, damage your computer, or download other malware."
+        },
+        {
+          "letter": "D",
+          "text": "Virus",
+          "isCorrect": false,
+          "explanation": "A virus is a type of malware that can replicate itself and spread to other computers. While antivirus software can detect and remove viruses, it is not itself a virus."
+        }
+      ],
+      "explanation": "B is the correct option.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is not an antivirus program?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Redlof",
+          "isCorrect": false,
+          "explanation": "(a) Redlof, (b) Norton, and (c) McAfee are all antivirus programs. Antivirus programs are designed to protect your computer from viruses, malware, and other harmful software."
+        },
+        {
+          "letter": "B",
+          "text": "Norton",
+          "isCorrect": false,
+          "explanation": "(a) Redlof, (b) Norton, and (c) McAfee are all antivirus programs. Antivirus programs are designed to protect your computer from viruses, malware, and other harmful software."
+        },
+        {
+          "letter": "C",
+          "text": "McAfee",
+          "isCorrect": false,
+          "explanation": "(a) Redlof, (b) Norton, and (c) McAfee are all antivirus programs. Antivirus programs are designed to protect your computer from viruses, malware, and other harmful software."
+        },
+        {
+          "letter": "D",
+          "text": "Virus",
+          "isCorrect": true,
+          "explanation": "A virus is a type of malicious software that can infect your computer and replicate itself. It is not an antivirus program. Antivirus programs are designed to detect and remove viruses from your computer.In short:Antivirus programs protect your computer from viruses.Viruses are a type of malware that can harm your computer."
+        }
+      ],
+      "explanation": "A virus is a type of malicious software that can infect your computer and replicate itself. It is not an antivirus program. Antivirus programs are designed to detect and remove viruses from your computer.In short:Antivirus programs protect your computer from viruses.Viruses are a type of malware that can harm your computer.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The right to use software on computers is called",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Software copyright",
+          "isCorrect": false,
+          "explanation": "Software copyright protects the creator's intellectual property rights to the software. It gives the copyright holder the exclusive right to distribute, modify, and sell the software. A software license grants the user permission to use the software under specific terms."
+        },
+        {
+          "letter": "B",
+          "text": "Site license",
+          "isCorrect": true,
+          "explanation": "The correct answer is: (B) Site license. While software copyright establishes ownership of the software, a site license grants the right to use the software to a specific number of users or computers at a particular location."
+        },
+        {
+          "letter": "C",
+          "text": "Software piracy",
+          "isCorrect": false,
+          "explanation": "Software piracy is the illegal copying and distribution of software."
+        },
+        {
+          "letter": "D",
+          "text": "Software key",
+          "isCorrect": false,
+          "explanation": "The software key is a code used to activate or unlock features in a software program."
+        }
+      ],
+      "explanation": "The correct answer is: (B) Site license. While software copyright establishes ownership of the software, a site license grants the right to use the software to a specific number of users or computers at a particular location.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A virus replicate itself is called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bug",
+          "isCorrect": false,
+          "explanation": "A bug is a general term for a software error. While a bug can cause a program to malfunction, it does not replicate itself like a virus or worm."
+        },
+        {
+          "letter": "B",
+          "text": "Worm",
+          "isCorrect": true,
+          "explanation": "The correct option is B."
+        },
+        {
+          "letter": "C",
+          "text": "Vaccine",
+          "isCorrect": false,
+          "explanation": "A vaccine is a biological preparation that helps the body develop immunity to a specific disease. Vaccines do not target or remove viruses from computers."
+        },
+        {
+          "letter": "D",
+          "text": "Bomb",
+          "isCorrect": false,
+          "explanation": "A bomb is an explosive device that is designed to cause destruction. While some viruses can be destructive, a virus replicating itself is not the same as a bomb."
+        }
+      ],
+      "explanation": "The correct option is B.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The example of an antivirus is:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "McAfee",
+          "isCorrect": true,
+          "explanation": "Antivirus programs are designed to protect your computer from viruses and other malware. McAfee is a company that develops antivirus software. Trojan horses, worms, and logic bombs are all types of malware that can harm your computer. They are not antivirus programs."
+        },
+        {
+          "letter": "B",
+          "text": "Trojan horse",
+          "isCorrect": false,
+          "explanation": "A Trojan horse is a type of malware that disguises itself as legitimate software. Once installed, it can steal data, install other malware, or damage your computer. Trojan horses are not antivirus programs."
+        },
+        {
+          "letter": "C",
+          "text": "Worm",
+          "isCorrect": false,
+          "explanation": "A worm is a type of malware that can replicate itself without any user interaction. Worms can spread quickly through networks and can cause a variety of problems, such as consuming system resources or slowing down your computer. Worms are not antivirus programs."
+        },
+        {
+          "letter": "D",
+          "text": "Logic bomb",
+          "isCorrect": false,
+          "explanation": "A logic bomb is a type of malware that is designed to detonate at a specific time or under certain conditions. Logic bombs are not antivirus programs."
+        }
+      ],
+      "explanation": "Antivirus programs are designed to protect your computer from viruses and other malware. McAfee is a company that develops antivirus software. Trojan horses, worms, and logic bombs are all types of malware that can harm your computer. They are not antivirus programs.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is not a virus?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trojan horse",
+          "isCorrect": false,
+          "explanation": "A Trojan horse is a type of malware that disguises itself as a legitimate program to trick users into installing it on their computers. Once installed, a Trojan horse can steal data, install other malware, or damage the computer."
+        },
+        {
+          "letter": "B",
+          "text": "Logic bomb",
+          "isCorrect": false,
+          "explanation": "A logic bomb is a type of malware that is designed to detonate at a specific time or under certain conditions. For example, a logic bomb might be programmed to erase all the data on a computer on a specific date."
+        },
+        {
+          "letter": "C",
+          "text": "McAfee",
+          "isCorrect": true,
+          "explanation": "McAfee is an antivirus software program designed to detect and protect computers from viruses and other malware."
+        },
+        {
+          "letter": "D",
+          "text": "Redlof",
+          "isCorrect": false,
+          "explanation": "Redlof is a type of malware that is designed to reverse the order of the letters in a file. This can make the file unreadable and damage the data."
+        }
+      ],
+      "explanation": "Trojan horse, Logic bomb, and Redlof are all types of viruses or malicious software. McAfee is an antivirus software program designed to detect and protect computers from viruses and other malware.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Trojan horse is a type of:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Antivirus",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Virus",
+          "isCorrect": true,
+          "explanation": "A Trojan horse virus, or Trojan, is a type of malware that disguises itself as a legitimate program to trick users into downloading it. Trojans can be spread through emails, free-to-download files, and spammed emails. Once activated, Trojans can: Capture keystrokes, Take screenshots, Record video and audio from webcams and microphones, and Install other types of malware."
+        },
+        {
+          "letter": "C",
+          "text": "Software",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Hardware",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A Trojan horse virus, or Trojan, is a type of malware that disguises itself as a legitimate program to trick users into downloading it. Trojans can be spread through emails, free-to-download files, and spammed emails. Once activated, Trojans can: Capture keystrokes, Take screenshots, Record video and audio from webcams and microphones, and Install other types of malware.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "McAfee is a/an:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Virus",
+          "isCorrect": false,
+          "explanation": "A virus is a malicious software program that can replicate itself and spread to other computers. McAfee is a software program designed to protect computers from viruses, not a virus itself."
+        },
+        {
+          "letter": "B",
+          "text": "Antivirus",
+          "isCorrect": true,
+          "explanation": "B is the correct option."
+        },
+        {
+          "letter": "C",
+          "text": "Hacker",
+          "isCorrect": false,
+          "explanation": "A hacker is a person who gains unauthorized access to a computer system or network. McAfee is a software program, not a person."
+        },
+        {
+          "letter": "D",
+          "text": "Worm",
+          "isCorrect": false,
+          "explanation": "A worm is a type of malware that can replicate itself and spread to other computers over a network. While McAfee can protect against worms, it is not itself a worm."
+        }
+      ],
+      "explanation": "B is the correct option.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which is not a biometric technique?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Badge",
+          "isCorrect": true,
+          "explanation": "A badge is a physical object that can be issued to a person for identification purposes. It is not a biometric technique because it does not rely on any unique biological characteristics of the person. Anyone can wear a badge, regardless of their biological makeup. Biometric techniques, on the other hand, rely on unique characteristics that are specific to each individual."
+        },
+        {
+          "letter": "B",
+          "text": "Face",
+          "isCorrect": false,
+          "explanation": "This biometric technique uses facial features to identify a person."
+        },
+        {
+          "letter": "C",
+          "text": "Palm print",
+          "isCorrect": false,
+          "explanation": "This biometric technique uses the unique patterns of lines on a person's palm for identification."
+        },
+        {
+          "letter": "D",
+          "text": "Retina",
+          "isCorrect": false,
+          "explanation": "This biometric technique uses the unique patterns of blood vessels in a person's retina for identification."
+        }
+      ],
+      "explanation": "A badge is a physical object that can be issued to a person for identification purposes. It is not a biometric technique because it does not rely on any unique biological characteristics of the person. Anyone can wear a badge, regardless of their biological makeup. Biometric techniques, on the other hand, rely on unique characteristics that are specific to each individual.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Another name for free software:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Encrypted software",
+          "isCorrect": false,
+          "explanation": "Encrypted software refers to software that is scrambled to protect it from unauthorized access. Encryption does not necessarily mean the software is free."
+        },
+        {
+          "letter": "B",
+          "text": "Copy-protected software",
+          "isCorrect": false,
+          "explanation": "Copy-protected software refers to software that has measures in place to prevent it from being copied illegally. Copy protection does not necessarily mean the software is not free."
+        },
+        {
+          "letter": "C",
+          "text": "Public domain software",
+          "isCorrect": false,
+          "explanation": "Public domain software is software that is not protected by copyright and can be freely used, modified, and distributed by anyone."
+        },
+        {
+          "letter": "D",
+          "text": "Freeware",
+          "isCorrect": false,
+          "explanation": "Freeware is software that is provided for free but may have restrictions on how it can be used, modified, or distributed. For example, some freeware programs may only be for personal use or may not allow you to modify the source code."
+        },
+        {
+          "letter": "E",
+          "text": "Both C and D",
+          "isCorrect": true,
+          "explanation": "The correct answer is (C) Public domain software or (D) Freeware."
+        }
+      ],
+      "explanation": "The correct answer is (C) Public domain software or (D) Freeware.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is the most devastating loss to a company?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Loss of hardware",
+          "isCorrect": false,
+          "explanation": "While hardware loss can be disruptive and expensive, most hardware can be replaced or repaired."
+        },
+        {
+          "letter": "B",
+          "text": "Loss of data",
+          "isCorrect": true,
+          "explanation": "Data is the most critical asset for many companies. It can include everything from customer information and financial records to intellectual property and product designs. Losing data can be devastating for a company because it can:Disrupt operations: If a company loses critical data, it may not be able to function properly.Damage reputation: A data loss can damage a company's reputation, especially if customer information is involved.Result in legal consequences: Companies may face legal consequences if they lose data due to negligence.In conclusion, while all of the above options can be inconvenient and costly, loss of data is generally considered the most devastating loss to a company."
+        },
+        {
+          "letter": "C",
+          "text": "Loss of RAM",
+          "isCorrect": false,
+          "explanation": "Similar to hardware loss, RAM can be replaced in most cases."
+        },
+        {
+          "letter": "D",
+          "text": "Loss of printouts",
+          "isCorrect": false,
+          "explanation": "While important documents might be lost in a printout loss, companies can usually recreate these documents or have backups stored electronically."
+        }
+      ],
+      "explanation": "Data is the most critical asset for many companies. It can include everything from customer information and financial records to intellectual property and product designs. Losing data can be devastating for a company because it can:Disrupt operations: If a company loses critical data, it may not be able to function properly.Damage reputation: A data loss can damage a company's reputation, especially if customer information is involved.Result in legal consequences: Companies may face legal consequences if they lose data due to negligence.In conclusion, while all of the above options can be inconvenient and costly, loss of data is generally considered the most devastating loss to a company.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Making illegal copies of copyrighted software is called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Backup",
+          "isCorrect": false,
+          "explanation": "A backup is a copy of data that is created in case the original data is lost or damaged. Backups are legal and necessary for protecting your data."
+        },
+        {
+          "letter": "B",
+          "text": "Software piracy",
+          "isCorrect": true,
+          "explanation": "Software piracy is the illegal copying and distribution of copyrighted software. Backups, freeware, and shareware are all legal ways to obtain software."
+        },
+        {
+          "letter": "C",
+          "text": "Freeware",
+          "isCorrect": false,
+          "explanation": "Freeware is software that is provided to users for free. There are no restrictions on how you can use freeware, as long as you comply with the license agreement."
+        },
+        {
+          "letter": "D",
+          "text": "Shareware",
+          "isCorrect": false,
+          "explanation": "Shareware is software that is distributed for free, but with limited functionality. Users are encouraged to pay for the full version of the software to unlock all of the features. Shareware is legal, as long as you comply with the license agreement."
+        }
+      ],
+      "explanation": "Software piracy is the illegal copying and distribution of copyrighted software. Backups, freeware, and shareware are all legal ways to obtain software.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Who is responsible for the security of online data?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "User",
+          "isCorrect": false,
+          "explanation": "Users play a crucial role in protecting their online data by practicing safe browsing habits, using strong passwords, and being cautious about what information they share online."
+        },
+        {
+          "letter": "B",
+          "text": "LAN administrator",
+          "isCorrect": false,
+          "explanation": "For organizations with a local area network (LAN), LAN administrators are responsible for implementing security measures to protect the network from unauthorized access. This includes managing firewalls and access controls."
+        },
+        {
+          "letter": "C",
+          "text": "Internet service provider (ISP)",
+          "isCorrect": false,
+          "explanation": "ISPs have a responsibility to secure their infrastructure and prevent cyberattacks. They may also offer security services to their customers."
+        },
+        {
+          "letter": "D",
+          "text": "Organization obtaining the data",
+          "isCorrect": true,
+          "explanation": "Organizations that collect and store user data have a legal and ethical obligation to implement security measures to protect that data. This includes measures to prevent unauthorized access, data breaches, and other security incidents."
+        }
+      ],
+      "explanation": "Organizations that collect and store user data have a legal and ethical obligation to implement security measures to protect that data. This includes measures to prevent unauthorized access, data breaches, and other security incidents.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The virus that deletes MS Office files and disk partition information is called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Boot Sector",
+          "isCorrect": false,
+          "explanation": "Boot Sector viruses infect the boot sector of a hard drive, which is the code that the computer uses to start up. They can prevent the computer from booting up or damaging the files on the hard drive."
+        },
+        {
+          "letter": "B",
+          "text": "Chernobyl",
+          "isCorrect": true,
+          "explanation": "Chernobyl is a type of virus that is known to delete MS Office files and disk partition information. It is a destructive virus that can cause significant damage to a computer system."
+        },
+        {
+          "letter": "C",
+          "text": "Logic bomb",
+          "isCorrect": false,
+          "explanation": "Logic bombs are not viruses, but rather a type of malware that is designed to detonate at a specific time or under certain conditions. For example, a logic bomb might be programmed to erase all the data on a computer on a specific date."
+        },
+        {
+          "letter": "D",
+          "text": "Trojan horse",
+          "isCorrect": false,
+          "explanation": "Trojan horses are also not viruses, but rather a type of malware that disguises itself as a legitimate program to trick users into installing it on their computers. Once installed, a Trojan horse can steal data, install other malware, or damage the computer."
+        }
+      ],
+      "explanation": "Chernobyl is a type of virus that is known to delete MS Office files and disk partition information. It is a destructive virus that can cause significant damage to a computer system.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Format C is an example of:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Anti-virus",
+          "isCorrect": false,
+          "explanation": "Antivirus software is designed to detect and remove malicious software, including Trojan horses. So, Trojan horses are a type of malware, not antivirus software itself."
+        },
+        {
+          "letter": "B",
+          "text": "Logic bomb",
+          "isCorrect": false,
+          "explanation": "A logic bomb is a type of malware that is designed to detonate at a specific time or under certain conditions. Trojan horses, on the other hand, are not triggered by specific events."
+        },
+        {
+          "letter": "C",
+          "text": "Trojan horse",
+          "isCorrect": true,
+          "explanation": "C is the correct option."
+        },
+        {
+          "letter": "D",
+          "text": "Red loaf",
+          "isCorrect": false,
+          "explanation": "This is not a commonly used term in computer security. It is likely a misspelling or irrelevant term to the question."
+        }
+      ],
+      "explanation": "Explanation will be added soon.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A program that detects viruses is called a:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Virus",
+          "isCorrect": false,
+          "explanation": "A virus is a type of malicious software that can infect your computer and replicate itself. It is not a program that detects viruses."
+        },
+        {
+          "letter": "B",
+          "text": "Groupware",
+          "isCorrect": false,
+          "explanation": "Groupware is a type of software that is designed to facilitate collaboration between multiple users. It is not a program that detects viruses."
+        },
+        {
+          "letter": "C",
+          "text": "Anti-virus",
+          "isCorrect": true,
+          "explanation": "Antivirus programs are designed to protect your computer from viruses and other malware."
+        },
+        {
+          "letter": "D",
+          "text": "Shareware",
+          "isCorrect": false,
+          "explanation": "Shareware is a type of software that is distributed for free, but with limited functionality. Users are encouraged to pay for the full version of the software to unlock all of the features. Shareware is not a program that detects viruses."
+        }
+      ],
+      "explanation": "Antivirus programs are designed to protect your computer from viruses and other malware.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Another name of antivirus is?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vaccine",
+          "isCorrect": true,
+          "explanation": "Vaccine is a biological preparation that protects a computer from viruses. Vaccines work by exposing the computer to a weakened or inactive form of the virus, which helps the computer develop immunity to the virus."
+        },
+        {
+          "letter": "B",
+          "text": "Worm",
+          "isCorrect": false,
+          "explanation": "Worm is a self-replicating computer program that spreads from one computer to another. Worms can be used to spread viruses and other malware."
+        },
+        {
+          "letter": "C",
+          "text": "Trojan horse",
+          "isCorrect": false,
+          "explanation": "Trojan horse is a type of malware that disguises itself as a legitimate program to trick users into installing it on their computers. Once installed, a Trojan horse can steal data, install other malware, or damage the computer."
+        },
+        {
+          "letter": "D",
+          "text": "Hacker",
+          "isCorrect": false,
+          "explanation": "Hacker is a person who gains unauthorized access to a computer system or network. Hackers can use computers to spread viruses and other malware."
+        }
+      ],
+      "explanation": "Vaccine is a biological preparation that protects a computer from viruses. Vaccines work by exposing the computer to a weakened or inactive form of the virus, which helps the computer develop immunity to the virus. In short, viruses can be spread through a variety of ways, including worms, Trojan horses, and hackers. Vaccines can help protect computers from viruses.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The protection of computer and data is called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electronic policy",
+          "isCorrect": false,
+          "explanation": "Electronic policy is a document that outlines the acceptable use of electronic devices and resources. It may cover topics such as email and internet usage, data security, and software installation. While electronic policies can be part of computer security, they are not the same thing."
+        },
+        {
+          "letter": "B",
+          "text": "Monitoring",
+          "isCorrect": false,
+          "explanation": "Monitoring is the act of tracking and overseeing computer activity. It can be used for a variety of purposes, including security, productivity, and troubleshooting. Monitoring is one tool that can be used to implement computer security, but it is not the same thing."
+        },
+        {
+          "letter": "C",
+          "text": "Adult control",
+          "isCorrect": false,
+          "explanation": "Adult control is a type of software that restricts users from accessing certain websites or content. It is typically used by parents to protect children from inappropriate content. Adult control is a specific type of computer security measure, but it is not the same thing as computer security in general."
+        },
+        {
+          "letter": "D",
+          "text": "Computer security",
+          "isCorrect": true,
+          "explanation": "Computer security is a broad term that encompasses the processes and practices to protect computers, networks, programs, and data from unauthorized access, use, disclosure, disruption, modification, or destruction."
+        }
+      ],
+      "explanation": "Computer security is a broad term that encompasses the processes and practices to protect computers, networks, programs, and data from unauthorized access, use, disclosure, disruption, modification, or destruction.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Types of software that can be freely distributed without violating copyright laws are called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Shareware",
+          "isCorrect": false,
+          "explanation": "Shareware can be distributed freely, but there are usually restrictions on how it can be used. For example, you may only be able to use it for a trial period or non-commercial purposes. While shareware can be freely distributed for a trial period or non-commercial purposes, it is still copyrighted software."
+        },
+        {
+          "letter": "B",
+          "text": "Public domain",
+          "isCorrect": false,
+          "explanation": "Public domain Software in the public domain has no copyright restrictions. You can freely distribute and modify this software without any legal repercussions."
+        },
+        {
+          "letter": "C",
+          "text": "Copy domain",
+          "isCorrect": false,
+          "explanation": "There is no legal term \"copy domain\" in software distribution. Public domain refers to creative materials that are not protected by copyright."
+        },
+        {
+          "letter": "D",
+          "text": "Both (A) and (B)",
+          "isCorrect": true,
+          "explanation": "Public domain Software in the public domain has no copyright restrictions. You can freely distribute and modify this software without any legal repercussions. Shareware can be distributed freely, but there are usually restrictions on how it can be used. For example, you may only be able to use it for a trial period or for non-commercial purposes. While shareware can be freely distributed for a trial period or non-commercial purposes, it is still copyrighted software."
+        }
+      ],
+      "explanation": "Public domain Software in the public domain has no copyright restrictions. You can freely distribute and modify this software without any legal repercussions. Shareware can be distributed freely, but there are usually restrictions on how it can be used. For example, you may only be able to use it for a trial period or for non-commercial purposes. While shareware can be freely distributed for a trial period or non-commercial purposes, it is still copyrighted software.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which is not a cause of the virus?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "E-mail",
+          "isCorrect": false,
+          "explanation": "Viruses can be spread through email attachments or by clicking on malicious links in emails."
+        },
+        {
+          "letter": "B",
+          "text": "Network",
+          "isCorrect": false,
+          "explanation": "Viruses can be spread over networks by infecting files that are shared on network drives or by exploiting vulnerabilities in network protocols."
+        },
+        {
+          "letter": "C",
+          "text": "Un-Pirated software",
+          "isCorrect": true,
+          "explanation": "Unpirated software refers to software that has been obtained through legal means, such as purchasing a license from the software developer. Unpirated software itself is not a cause of viruses. Using un-pirated software can help to protect your computer from viruses, as pirated software may often come bundled with malware."
+        },
+        {
+          "letter": "D",
+          "text": "Logic bomb",
+          "isCorrect": false,
+          "explanation": "A logic bomb is a type of malware that is designed to detonate at a specific time or under certain conditions. While not as common as viruses, logic bombs can also be a cause of viruses."
+        }
+      ],
+      "explanation": "Unpirated software refers to software that has been obtained through legal means, such as purchasing a license from the software developer. Unpirated software itself is not a cause of viruses. Using un-pirated software can help to protect your computer from viruses, as pirated software may often come bundled with malware.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Additional copy of your data is called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Backup of data",
+          "isCorrect": true,
+          "explanation": "A backup of data is an extra copy that is stored in a separate location. This means that if the original data is lost, damaged, or corrupted, you can restore it from the backup. Backups are essential for protecting your data from a variety of threats, such as hardware failures, software errors, and natural disasters."
+        },
+        {
+          "letter": "B",
+          "text": "Taking of data",
+          "isCorrect": false,
+          "explanation": "Taking of data doesn't specify creating an additional copy."
+        },
+        {
+          "letter": "C",
+          "text": "Moving the data",
+          "isCorrect": false,
+          "explanation": "Moving the data implies the data is being moved from one location to another, but it doesn't necessarily create a copy."
+        },
+        {
+          "letter": "D",
+          "text": "Forwarding the data",
+          "isCorrect": false,
+          "explanation": "Forwarding the data suggests sending the data to someone else, but it doesn't create a copy for backup purposes."
+        }
+      ],
+      "explanation": "A backup of data is an extra copy that is stored in a separate location. This means that if the original data is lost, damaged, or corrupted, you can restore it from the backup. Backups are essential for protecting your data from a variety of threats, such as hardware failures, software errors, and natural disasters.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The right of a person to keep his personal information away from unauthorized access is called?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Piracy",
+          "isCorrect": false,
+          "explanation": "Piracy refers to the illegal copying and distribution of copyrighted material. While privacy is important for protecting personal information, it is not directly related to copyright infringement."
+        },
+        {
+          "letter": "B",
+          "text": "Privacy",
+          "isCorrect": true,
+          "explanation": "Privacy is the correct option."
+        },
+        {
+          "letter": "C",
+          "text": "Personal issue",
+          "isCorrect": false,
+          "explanation": "Personal issue is a broad term that can refer to any private matter. Privacy, however, has a more specific legal meaning related to the control of personal information."
+        },
+        {
+          "letter": "D",
+          "text": "Assets",
+          "isCorrect": false,
+          "explanation": "Assets are valuable possessions or resources. While personal information can be a valuable asset, privacy is not the same as ownership of property."
+        }
+      ],
+      "explanation": "Privacy is the correct option.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which one is a secret word that is used to prevent unauthorized access?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Biometrics",
+          "isCorrect": false,
+          "explanation": "Biometrics are physical or behavioral characteristics that can be used to identify a person. Examples of biometrics include fingerprints, facial recognition, and iris scans. While biometrics can be used for authentication purposes, they are not typically considered to be secret words."
+        },
+        {
+          "letter": "B",
+          "text": "Password",
+          "isCorrect": true,
+          "explanation": "A password is a secret word or phrase that is used to verify the identity of a user. Passwords are a common way to prevent unauthorized access to computer systems and other resources."
+        },
+        {
+          "letter": "C",
+          "text": "Copyright",
+          "isCorrect": false,
+          "explanation": "Copyright is a legal protection for original works of authorship, such as literary works, musical works, and software. Copyrights are not used to prevent unauthorized access."
+        },
+        {
+          "letter": "D",
+          "text": "Backup",
+          "isCorrect": false,
+          "explanation": "A backup is a copy of data that is created in case the original data is lost or damaged. Backups are not used to prevent unauthorized access."
+        }
+      ],
+      "explanation": "A password is a secret word or phrase that is used to verify the identity of a user. Passwords are a common way to prevent unauthorized access to computer systems and other resources.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A person who gains illegal access to a computer system is called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacker",
+          "isCorrect": true,
+          "explanation": "A hacker is someone who gains unauthorized access to a computer system. Hackers can use their skills for a variety of purposes, such as stealing data, installing malware, or disrupting operations."
+        },
+        {
+          "letter": "B",
+          "text": "Worm",
+          "isCorrect": false,
+          "explanation": "A worm is a type of malware that can replicate itself without any user interaction. Worms can spread quickly through networks and can cause a variety of problems, such as consuming system resources or slowing down your computer. While worms can be used by hackers to gain access to computer systems, they are not the same thing as hackers."
+        },
+        {
+          "letter": "C",
+          "text": "Pirate",
+          "isCorrect": false,
+          "explanation": "A pirate is someone who illegally copies and distributes copyrighted material, such as software, music, or movies. While hacking can sometimes be used to steal copyrighted material, piracy is not the same thing as hacking."
+        },
+        {
+          "letter": "D",
+          "text": "User",
+          "isCorrect": false,
+          "explanation": "A user is someone who uses a computer system. Hackers are not authorized users of the systems they access."
+        }
+      ],
+      "explanation": "A hacker is someone who gains unauthorized access to a computer system. Hackers can use their skills for a variety of purposes, such as stealing data, installing malware, or disrupting operations.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the software that is available free of cost for a limited time called?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Freeware",
+          "isCorrect": false,
+          "explanation": "Freeware is software that is available for free and has no restrictions on how long you can use it."
+        },
+        {
+          "letter": "B",
+          "text": "Groupware",
+          "isCorrect": false,
+          "explanation": "Groupware is a type of software that is designed to facilitate collaboration between multiple users. While some groupware may be available for free, it is not the term used for software with a limited free trial."
+        },
+        {
+          "letter": "C",
+          "text": "Shareware",
+          "isCorrect": true,
+          "explanation": "C is the correct option."
+        },
+        {
+          "letter": "D",
+          "text": "Database",
+          "isCorrect": false,
+          "explanation": "A database is a collection of data organized in a specific way for easy access and retrieval. Databases are not software applications and wouldn't be free or paid for a limited time."
+        }
+      ],
+      "explanation": "C is the correct option.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What are the different types of security?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Physical security",
+          "isCorrect": false,
+          "explanation": "Physical security refers to the measures that are taken to protect a physical location and the assets that are stored there. This can include things like security guards, fences, locks, and cameras."
+        },
+        {
+          "letter": "B",
+          "text": "Logical security",
+          "isCorrect": false,
+          "explanation": "Logical security refers to the measures that are taken to protect computer systems and data from unauthorized access, use, disclosure, disruption, modification, or destruction. This can include things like passwords, encryption, firewalls, and intrusion detection systems."
+        },
+        {
+          "letter": "C",
+          "text": "Protection",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Both (A) and (B)",
+          "isCorrect": true,
+          "explanation": "Physical security protects physical things and locations while logical security protects information and computer systems. Both physical and logical security are important for maintaining overall security."
+        }
+      ],
+      "explanation": "Physical security protects physical things and locations while logical security protects information and computer systems. Both physical and logical security are important for maintaining overall security.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A virus is usually hidden in:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The operating system",
+          "isCorrect": true,
+          "explanation": "Viruses can infect many parts of a computer system, but they often hide within the operating system files to spread and replicate themselves effectively."
+        },
+        {
+          "letter": "B",
+          "text": "The documents",
+          "isCorrect": false,
+          "explanation": "While viruses can infect documents, they don't necessarily hide there. Viruses can infect the system files of the operating system to replicate and spread themselves when the system is booted up or a program is run."
+        },
+        {
+          "letter": "C",
+          "text": "The disk drive",
+          "isCorrect": false,
+          "explanation": "The disk drive is a hardware component that stores data. While a virus can be stored on the disk drive, it doesn't necessarily hide there. A virus can hide within the system files of the operating system on the disk drive."
+        },
+        {
+          "letter": "D",
+          "text": "The data drive",
+          "isCorrect": false,
+          "explanation": "Similar to the disk drive, a data drive is a hardware component that stores data. Viruses can reside on the data drive, but they don't necessarily hide there."
+        }
+      ],
+      "explanation": "Viruses can infect many parts of a computer system, but they often hide within the operating system files to spread and replicate themselves effectively.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The virus can attach itself to files which have the extension:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": ".exe",
+          "isCorrect": false,
+          "explanation": ".exe stands for \"executable file\" and is a common extension for programs that can be run on a computer. Viruses can attach themselves to .exe files to spread when the program is executed."
+        },
+        {
+          "letter": "B",
+          "text": ".com",
+          "isCorrect": false,
+          "explanation": ".com is another extension for executable files, historically used for MS-DOS programs. Viruses can also infect .com files."
+        },
+        {
+          "letter": "C",
+          "text": ".dll",
+          "isCorrect": false,
+          "explanation": ".dll stands for \"Dynamic Link Library\" and is a type of file that contains code that can be used by multiple programs. Viruses can inject themselves into .dll files to gain access to other programs."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": "All the listed options are susceptible to viruses attaching themselves."
+        }
+      ],
+      "explanation": "All the listed options are susceptible to viruses attaching themselves.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which virus is set to go off at a certain time and date?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Logic bomb",
+          "isCorrect": true,
+          "explanation": "The logic bomb is a type of malware that is designed to detonate at a specific time or under certain conditions. For example, a logic bomb might be programmed to erase all the data on a computer on a specific date."
+        },
+        {
+          "letter": "B",
+          "text": "Trojan horse",
+          "isCorrect": false,
+          "explanation": "Trojan horse is a type of malware that disguises itself as a legitimate program to trick users into installing it on their computers. Once installed, a Trojan horse can steal data, install other malware, or damage the computer."
+        },
+        {
+          "letter": "C",
+          "text": "Redlof",
+          "isCorrect": false,
+          "explanation": "Redlof is a type of malware that is designed to reverse the order of the letters in a file. This can make the file unreadable and damage the data."
+        },
+        {
+          "letter": "D",
+          "text": "None of the above",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Trojan Horse and Redlof are not time-based viruses. Logic bombs are designed to go off at a specific time or date, while Trojan horses and Redlofs are not.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The right to use the software on the computer is:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "License",
+          "isCorrect": true,
+          "explanation": "A software license is a legal agreement that grants the user the right to use the software under specific terms and conditions. The license agreement may specify how many computers the software can be installed on, whether it can be used for commercial purposes, and what rights the user has to copy or modify the software."
+        },
+        {
+          "letter": "B",
+          "text": "Permission",
+          "isCorrect": false,
+          "explanation": "Permission can be granted by a person, but a software license is a legal agreement between the software developer and the user."
+        },
+        {
+          "letter": "C",
+          "text": "Law",
+          "isCorrect": false,
+          "explanation": "Copyright law protects the intellectual property of software developers, but it doesn't grant the right to use the software. A license agreement outlines the terms of use for the software."
+        },
+        {
+          "letter": "D",
+          "text": "Software copyright",
+          "isCorrect": false,
+          "explanation": "Software copyright protects the software from being copied or distributed illegally, but it doesn't grant the right to use the software. A license agreement is required to use copyrighted software legally."
+        }
+      ],
+      "explanation": "A software license is a legal agreement that grants the user the right to use the software under specific terms and conditions. The license agreement may specify how many computers the software can be installed on, whether it can be used for commercial purposes, and what rights the user has to copy or modify the software.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Folder.htt is the part of:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "MS-Office",
+          "isCorrect": false,
+          "explanation": "Folder .htt files are not typically associated with MS-Office applications. While MS-Office can create various file types, Folder.htt files are a specific type of file used by MS-DOS."
+        },
+        {
+          "letter": "B",
+          "text": "MS-Windows",
+          "isCorrect": false,
+          "explanation": "While MS-Windows uses hidden files for various purposes, Folder.htt files are not a core component of modern Windows operating systems. They are a legacy file type from MS-DOS."
+        },
+        {
+          "letter": "C",
+          "text": "Both A and B",
+          "isCorrect": false,
+          "explanation": "As explained above, Folder.htt files are not commonly used in either MS-Office or modern Windows."
+        },
+        {
+          "letter": "D",
+          "text": "MS-DOS",
+          "isCorrect": true,
+          "explanation": "Folder.htt files are configuration files used by MS-DOS. They store attributes and settings for folders, such as whether a folder should be hidden or viewable. MS-DOS was an operating system predating modern Windows and is no longer widely used. However, some legacy systems may still use it."
+        }
+      ],
+      "explanation": "Folder.htt files are configuration files used by MS-DOS. They store attributes and settings for folders, such as whether a folder should be hidden or viewable. MS-DOS was an operating system predating modern Windows and is no longer widely used. However, some legacy systems may still use it.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The Polymorphic Virus is:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trojan horse",
+          "isCorrect": true,
+          "explanation": "Trojan horse is a type of malware that disguises itself as a legitimate program to trick users into installing it on their computers. Once installed, a Trojan horse can steal data, install other malware, or damage the computer. This aligns with the characteristics of a Polymorphic Virus, which is a type of malware that can change its code each time it infects a new computer, making it difficult to detect by antivirus software."
+        },
+        {
+          "letter": "B",
+          "text": "Chernobyl",
+          "isCorrect": false,
+          "explanation": "Chernobyl is a specific type of virus that is known to delete MS Office files and disk partition information."
+        },
+        {
+          "letter": "C",
+          "text": "Redlof",
+          "isCorrect": false,
+          "explanation": "Redlof is a type of malware that is designed to reverse the order of the letters in a file."
+        },
+        {
+          "letter": "D",
+          "text": "Logic bomb",
+          "isCorrect": false,
+          "explanation": "The logic bomb is a type of malware that is designed to detonate at a specific time or under certain conditions."
+        }
+      ],
+      "explanation": "Trojan horse is a type of malware that disguises itself as a legitimate program to trick users into installing it on their computers. Once installed, a Trojan horse can steal data, install other malware, or damage the computer. This aligns with the characteristics of a Polymorphic Virus, which is a type of malware that can change its code each time it infects a new computer, making it difficult to detect by antivirus software.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Information is:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Is a marketable commodity",
+          "isCorrect": false,
+          "explanation": "Information can be a marketable commodity, but not in the same way as a physical product. Information can be bought and sold, but it can also be easily copied and shared. This makes it different from traditional commodities."
+        },
+        {
+          "letter": "B",
+          "text": "Can be stolen",
+          "isCorrect": true,
+          "explanation": "Information can be stolen in the sense that it can be copied or accessed by someone without the authorization of the owner. This can be done electronically or through physical means, such as stealing a document.In conclusion, while information can be bought and sold, the concept of stealing information is more relevant to the context of the question."
+        }
+      ],
+      "explanation": "Information can be stolen in the sense that it can be copied or accessed by someone without the authorization of the owner. This can be done electronically or through physical means, such as stealing a document.In conclusion, while information can be bought and sold, the concept of stealing information is more relevant to the context of the question.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Software copyright is for a person who:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Purchases it",
+          "isCorrect": true,
+          "explanation": "Software copyright protects the original work of the developer. Purchasing a software license grants the buyer the right to use the software according to the terms of the license, but it doesn't transfer ownership of the copyright."
+        },
+        {
+          "letter": "B",
+          "text": "Develops it",
+          "isCorrect": false,
+          "explanation": "The copyright belongs to the person or entity that creates the software."
+        },
+        {
+          "letter": "C",
+          "text": "Sells it",
+          "isCorrect": false,
+          "explanation": "Selling a software license gives the buyer the right to use the software, but it doesn't transfer ownership of the copyright."
+        },
+        {
+          "letter": "D",
+          "text": "Stores it",
+          "isCorrect": false,
+          "explanation": "Storing software doesn't give ownership of the copyright."
+        }
+      ],
+      "explanation": "Software copyright protects the original work of the developer. Purchasing a software license grants the buyer the right to use the software according to the terms of the license, but it doesn't transfer ownership of the copyright.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is not accidental data loss?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacker",
+          "isCorrect": true,
+          "explanation": "A hacker refers to someone who gains unauthorized access to a computer system or network. Data loss due to a hacker is intentional, whereas the other options are unintentional or accidental. In essence, accidental data loss refers to data loss that happens unintentionally due to unforeseen circumstances. Intentional data loss, caused by a hacker or malicious software, is not considered accidental."
+        },
+        {
+          "letter": "B",
+          "text": "Hardware failure",
+          "isCorrect": false,
+          "explanation": "Hardware failure refers to a physical malfunction of a computer component, such as a hard drive failure. This can lead to data loss if the data is not backed up."
+        },
+        {
+          "letter": "C",
+          "text": "Software error",
+          "isCorrect": false,
+          "explanation": "Software error is a bug in a software program that can cause data loss. For example, a software error might cause a file to be corrupted or deleted."
+        },
+        {
+          "letter": "D",
+          "text": "Power failure",
+          "isCorrect": false,
+          "explanation": "Power failure is a sudden loss of electrical power that can cause data loss if the computer is not properly shut down. This can corrupt files or damage the hard drive."
+        }
+      ],
+      "explanation": "A hacker refers to someone who gains unauthorized access to a computer system or network. Data loss due to a hacker is intentional, whereas the other options are unintentional or accidental. In essence, accidental data loss refers to data loss that happens unintentionally due to unforeseen circumstances. Intentional data loss, caused by a hacker or malicious software, is not considered accidental.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The executable file has extension:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": ".xls",
+          "isCorrect": false,
+          "explanation": "This extension is commonly used for Microsoft Excel spreadsheets."
+        },
+        {
+          "letter": "B",
+          "text": ".doc",
+          "isCorrect": false,
+          "explanation": "This extension is commonly used for Microsoft Word documents."
+        },
+        {
+          "letter": "C",
+          "text": ".ext",
+          "isCorrect": false,
+          "explanation": "The term \".ext\" refers to the file extension in general, not a specific program. A file extension is a suffix added to the filename that indicates the type of file and the program that can open it. There are many different file extensions, and new ones are created all the time."
+        },
+        {
+          "letter": "D",
+          "text": ".exe",
+          "isCorrect": true,
+          "explanation": "This extension is commonly used for executable files that can be run on a computer."
+        }
+      ],
+      "explanation": ".exe extension is commonly used for executable files that can be run on a computer.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Most computer crimes are committed by:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hackers",
+          "isCorrect": true,
+          "explanation": "The term \"hacker\" in this context refers to someone who gains unauthorized access to a computer system or network. Hackers can be motivated by a variety of reasons, including financial gain, revenge, or simply the challenge. The ease of access to hacking tools and the anonymity offered by the internet have contributed to the rise of computer crime committed by hackers. It's important to note that \"hacker\" can also refer to someone with an expert level of knowledge in computer programming and who enjoys tinkering with systems to understand them better. In this context, hacking is not synonymous with cybercrime."
+        },
+        {
+          "letter": "B",
+          "text": "Highly trained computer consultants",
+          "isCorrect": false,
+          "explanation": "While some consultants may turn to cybercrime, it is not the most common way computer crimes are committed. Highly trained consultants are more likely to be sought after for ethical security purposes."
+        },
+        {
+          "letter": "C",
+          "text": "Companies",
+          "isCorrect": false,
+          "explanation": "While companies can be involved in cybercrime, such as corporate espionage, it is not the most prevalent category."
+        },
+        {
+          "letter": "D",
+          "text": "International spies",
+          "isCorrect": false,
+          "explanation": "International spies may use cybercrime techniques for espionage, but it is not the most common way computer crimes are committed."
+        }
+      ],
+      "explanation": "The term \"hacker\" in this context refers to someone who gains unauthorized access to a computer system or network. Hackers can be motivated by a variety of reasons, including financial gain, revenge, or simply the challenge. The ease of access to hacking tools and the anonymity offered by the internet have contributed to the rise of computer crime committed by hackers. It's important to note that \"hacker\" can also refer to someone with an expert level of knowledge in computer programming and who enjoys tinkering with systems to understand them better. In this context, hacking is not synonymous with cybercrime.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Data Protection Act 1984 was passed by:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "USA",
+          "isCorrect": false,
+          "explanation": "The Data Protection Act 1984 was a UK law. The United States has its data protection laws."
+        },
+        {
+          "letter": "B",
+          "text": "UNO",
+          "isCorrect": false,
+          "explanation": "The United Nations (UN) is an international organization and does not have the power to pass laws for individual countries."
+        },
+        {
+          "letter": "C",
+          "text": "British parliament",
+          "isCorrect": true,
+          "explanation": "The Data Protection Act 1984 was a law passed in the United Kingdom to regulate the processing of personal data. It was the first national law of its kind in the world."
+        },
+        {
+          "letter": "D",
+          "text": "Russia",
+          "isCorrect": false,
+          "explanation": "The Data Protection Act 1984 was a UK law. Russia has its data protection laws."
+        }
+      ],
+      "explanation": "The Data Protection Act 1984 was a law passed in the United Kingdom to regulate the processing of personal data. It was the first national law of its kind in the world.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The data protection technique that aims at recovery to a system is:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Password protection",
+          "isCorrect": false,
+          "explanation": "Password protection is a security measure that helps to prevent unauthorized access to data. While it can help to protect your data from being stolen or deleted, it cannot be used to recover data that has already been lost."
+        },
+        {
+          "letter": "B",
+          "text": "Antivirus software",
+          "isCorrect": false,
+          "explanation": "Antivirus software is a program that helps to protect your computer from viruses and other malware. Antivirus software can help to prevent data loss by stopping viruses from infecting your computer and deleting your files. However, it cannot be used to recover data that has already been lost."
+        },
+        {
+          "letter": "C",
+          "text": "Data backup",
+          "isCorrect": true,
+          "explanation": "Data backup is the process of creating a copy of your data and storing it in a separate location. This copy can be used to restore your data if the original data is lost, damaged, or corrupted. Data backups are essential for protecting your data from a variety of threats, such as hardware failures, software errors, natural disasters, and even ransomware attacks."
+        },
+        {
+          "letter": "D",
+          "text": "UPS",
+          "isCorrect": false,
+          "explanation": "UPS (Uninterruptible Power Supply) is a device that provides backup power to a computer in the event of a power outage. A UPS can help to prevent data loss by ensuring that your computer has enough power to shut down properly during a power outage. However, it cannot be used to recover data that has already been lost."
+        }
+      ],
+      "explanation": "Data backup is the process of creating a copy of your data and storing it in a separate location. This copy can be used to restore your data if the original data is lost, damaged, or corrupted. Data backups are essential for protecting your data from a variety of threats, such as hardware failures, software errors, natural disasters, and even ransomware attacks.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the most common computer crime reported to the United States Department of Justice according to the Federal Bureau of Investigation’s Internet Crime Complaint Center (IC3) 2022 Annual Report?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Identity Theft",
+          "isCorrect": false,
+          "explanation": "Identity theft is a serious crime, but according to the image, phishing is the most commonly reported."
+        },
+        {
+          "letter": "B",
+          "text": "Phishing",
+          "isCorrect": true,
+          "explanation": "According to the IC3 2022 Annual Report: Phishing scams are the most commonly reported type of cybercrime according to the FBI’s Internet Crime Complaint Center (IC3). Phishing is a type of social engineering attack where criminals attempt to trick individuals into revealing personal information, such as passwords or credit card numbers, by posing as legitimate businesses or individuals."
+        },
+        {
+          "letter": "C",
+          "text": "Data Breaches",
+          "isCorrect": false,
+          "explanation": "Data breaches are a major concern, but the question asks specifically about reported crimes, and data breaches may not always be reported to the IC3."
+        },
+        {
+          "letter": "D",
+          "text": "Child Sexual Abuse Material",
+          "isCorrect": false,
+          "explanation": "Child sexual abuse material is a horrific crime, but the question is about the most common computer crime reported, and phishing is more prevalent."
+        }
+      ],
+      "explanation": "According to the IC3 2022 Annual Report: Phishing scams are the most commonly reported type of cybercrime according to the FBI’s Internet Crime Complaint Center (IC3). Phishing is a type of social engineering attack where criminals attempt to trick individuals into revealing personal information, such as passwords or credit card numbers, by posing as legitimate businesses or individuals.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the best way to protect your personal computer?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Locks and labels",
+          "isCorrect": false,
+          "explanation": "Physical security measures like locks and labels can help to prevent unauthorized physical access to your computer. However, they are not enough to protect your computer from all threats."
+        },
+        {
+          "letter": "B",
+          "text": "Company insider who has authorized access",
+          "isCorrect": false,
+          "explanation": "Company insider who has authorized access: While it's important to grant authorized access to those who need it, some insiders might misuse their access. You can't rely solely on them for complete protection."
+        },
+        {
+          "letter": "C",
+          "text": "Software updates",
+          "isCorrect": false,
+          "explanation": "Keeping your software up to date is essential for protecting your computer from security vulnerabilities. Hackers are constantly discovering new ways to exploit these vulnerabilities, so it's important to install updates as soon as they become available."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": "The best way to protect your personal computer is to use a combination of security measures, including:Physical security measures: Like locks and labels to prevent unauthorized physical access.Software updates: Installing software updates to patch security vulnerabilities.Strong passwords: Using strong passwords and keeping them confidential.Antivirus software: Using antivirus software to protect your computer from malware.Firewalls: Using firewalls to block unauthorized traffic from entering your computer.Being cautious online: Be cautious about the websites you visit and the emails you open.By using a combination of these security measures, you can help keep your personal computer safe from a variety of threats."
+        }
+      ],
+      "explanation": "The best way to protect your personal computer is to use a combination of security measures, including:Physical security measures: Like locks and labels to prevent unauthorized physical access.Software updates: Installing software updates to patch security vulnerabilities.Strong passwords: Using strong passwords and keeping them confidential.Antivirus software: Using antivirus software to protect your computer from malware.Firewalls: Using firewalls to block unauthorized traffic from entering your computer.Being cautious online: Be cautious about the websites you visit and the emails you open.By using a combination of these security measures, you can help keep your personal computer safe from a variety of threats.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is NOT a scripting language?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Python",
+          "isCorrect": false,
+          "explanation": "Python is a popular general-purpose scripting language that can be used for a variety of tasks, including web development, data analysis, and scientific computing."
+        },
+        {
+          "letter": "B",
+          "text": "Visual Basic Script (VBScript)",
+          "isCorrect": false,
+          "explanation": "VBScript is a scripting language that is often used to automate tasks in Windows environments."
+        },
+        {
+          "letter": "C",
+          "text": "JavaScript",
+          "isCorrect": false,
+          "explanation": "JavaScript is a scripting language that is used to add interactivity to web pages."
+        },
+        {
+          "letter": "D",
+          "text": "HTML",
+          "isCorrect": true,
+          "explanation": "HTML is a markup language that is used to structure the content of web pages. It is not a scripting language, although it can be used to embed scripts written in other languages, such as JavaScript."
+        }
+      ],
+      "explanation": "HTML is a markup language that is used to structure the content of web pages. It is not a scripting language, although it can be used to embed scripts written in other languages, such as JavaScript.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is NOT a cause of data loss?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Accidental deletion",
+          "isCorrect": false,
+          "explanation": "Accidentally deleting files is a common cause of data loss."
+        },
+        {
+          "letter": "B",
+          "text": "Hardware failure",
+          "isCorrect": false,
+          "explanation": "Hardware failure, such as a hard drive crash, can lead to data loss."
+        },
+        {
+          "letter": "C",
+          "text": "Software corruption",
+          "isCorrect": false,
+          "explanation": "Software corruption can damage files and make them inaccessible."
+        },
+        {
+          "letter": "D",
+          "text": "Upgrading your computer",
+          "isCorrect": true,
+          "explanation": "Upgrading your computer typically involves transferring data from the old system to the new one. While data loss can occur during the transfer process if not done correctly, upgrading itself is not a cause of data loss."
+        }
+      ],
+      "explanation": "Upgrading your computer typically involves transferring data from the old system to the new one. While data loss can occur during the transfer process if not done correctly, upgrading itself is not a cause of data loss.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the year the Data Protection and communication act was passed?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1980",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "1984",
+          "isCorrect": true,
+          "explanation": "The correct answer is: (b) 1984"
+        },
+        {
+          "letter": "C",
+          "text": "1994",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "1884",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is: (b) 1984",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A person who gains illegal access to a computer system is called a:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacker",
+          "isCorrect": true,
+          "explanation": "A hacker is someone who gains unauthorized access to a computer system. Hackers can use their skills for a variety of purposes, such as stealing data, installing malware, or disrupting operations."
+        },
+        {
+          "letter": "B",
+          "text": "Software",
+          "isCorrect": false,
+          "explanation": "Software is a general term for computer programs. Hackers may use software tools to gain access to computer systems, but software itself is not a hacker."
+        },
+        {
+          "letter": "C",
+          "text": "Worm",
+          "isCorrect": false,
+          "explanation": "A worm is a type of malware that can replicate itself without any user interaction. Worms can spread quickly through networks and can cause a variety of problems, but they are not the same as hackers. Hackers are people who exploit vulnerabilities in computer systems to gain unauthorized access."
+        },
+        {
+          "letter": "D",
+          "text": "Zipper",
+          "isCorrect": false,
+          "explanation": "A zipper is a hardware fastener used to close and open garments or bags. It is not a term used in computer security."
+        }
+      ],
+      "explanation": "A hacker is someone who gains unauthorized access to a computer system. Hackers can use their skills for a variety of purposes, such as stealing data, installing malware, or disrupting operations.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The science of studying individual body characteristics is called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Password",
+          "isCorrect": false,
+          "explanation": "A password is a secret word or phrase used for user authentication. While passwords can be based on physical characteristics (e.g., fingerprint), they are not the science of studying those characteristics itself."
+        },
+        {
+          "letter": "B",
+          "text": "Jurimetrics",
+          "isCorrect": false,
+          "explanation": "Jurimetrics is the application of statistical and other quantitative methods to legal problems. It's not directly related to studying body characteristics."
+        },
+        {
+          "letter": "C",
+          "text": "Biometrics",
+          "isCorrect": true,
+          "explanation": "Biometrics is the scientific study of unique biological characteristics that can be used for personal identification and authentication purposes. Examples of biometric characteristics include fingerprints, facial recognition, iris scans, and voice patterns."
+        },
+        {
+          "letter": "D",
+          "text": "Trimetric",
+          "isCorrect": false,
+          "explanation": "This term is not commonly used in the context of body characteristics or computer science."
+        },
+        {
+          "letter": "E",
+          "text": "Systematic",
+          "isCorrect": false,
+          "explanation": "Systematic can mean methodical or planned, but it's not a specific field of science related to body characteristics."
+        }
+      ],
+      "explanation": "Biometrics is the scientific study of unique biological characteristics that can be used for personal identification and authentication purposes. Examples of biometric characteristics include fingerprints, facial recognition, iris scans, and voice patterns.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The process of encoding data for security purposes is called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Password",
+          "isCorrect": false,
+          "explanation": "Password is a secret word or phrase used for user authentication. While passwords are used for security purposes, they are not the process of encoding data."
+        },
+        {
+          "letter": "B",
+          "text": "Coding",
+          "isCorrect": false,
+          "explanation": "Coding is the process of writing instructions in a specific programming language. Coding itself doesn't necessarily imply security."
+        },
+        {
+          "letter": "C",
+          "text": "Encryption",
+          "isCorrect": true,
+          "explanation": "Encryption is a process of transforming data into a scrambled format that cannot be understood by unauthorized users. It uses algorithms and a secret key to make the data unreadable. To decrypt the data back to its original form, the authorized user needs the same key."
+        },
+        {
+          "letter": "D",
+          "text": "Pin code",
+          "isCorrect": false,
+          "explanation": "Pin code is a short numeric password used for accessing systems like ATMs. Pin codes are a type of authentication method, but not the encryption process itself."
+        }
+      ],
+      "explanation": "Encryption is a process of transforming data into a scrambled format that cannot be understood by unauthorized users. It uses algorithms and a secret key to make the data unreadable. To decrypt the data back to its original form, the authorized user needs the same key.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the best way to protect computer and data security?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Monitoring",
+          "isCorrect": false,
+          "explanation": "Computer monitoring software can track user activity and detect suspicious behavior. This can help to prevent security breaches and identify potential threats."
+        },
+        {
+          "letter": "B",
+          "text": "Electronic Policy",
+          "isCorrect": false,
+          "explanation": "An electronic policy is a set of rules and procedures that govern how users can access and use computer systems and data. Having a clear electronic policy can help to raise awareness of security risks and ensure that everyone is following the same security practices."
+        },
+        {
+          "letter": "C",
+          "text": "Both A and B",
+          "isCorrect": true,
+          "explanation": "Both monitoring and electronic policies are important for protecting computer and data security. By using a combination of these measures, organizations can help to reduce the risk of security breaches and keep their data safe.Here are some additional security measures that can be used to protect computer and data security:Strong passwords and multi-factor authentication: Using strong passwords and multi-factor authentication can help to prevent unauthorized access to computer systems and data.Firewalls and intrusion detection systems: Firewalls and intrusion detection systems can help to block unauthorized traffic and detect suspicious activity.Backups: Regularly backing up your data can help to ensure that you can recover your data in the event of a security breach or other disaster.Employee training: Training employees on security best practices can help to raise awareness of security risks and ensure that everyone is following the same security procedures."
+        }
+      ],
+      "explanation": "Both monitoring and electronic policies are important for protecting computer and data security. By using a combination of these measures, organizations can help to reduce the risk of security breaches and keep their data safe.Here are some additional security measures that can be used to protect computer and data security:Strong passwords and multi-factor authentication: Using strong passwords and multi-factor authentication can help to prevent unauthorized access to computer systems and data.Firewalls and intrusion detection systems: Firewalls and intrusion detection systems can help to block unauthorized traffic and detect suspicious activity.Backups: Regularly backing up your data can help to ensure that you can recover your data in the event of a security breach or other disaster.Employee training: Training employees on security best practices can help to raise awareness of security risks and ensure that everyone is following the same security procedures.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the term for a malicious program that disrupts the normal operation of a computer system by repeatedly executing itself?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trojan Horse",
+          "isCorrect": false,
+          "explanation": "A Trojan horse is a type of malware that disguises itself as legitimate software. Once installed, it can steal data, damage your computer, or download other malware. Trojan horses do not replicate themselves like worms."
+        },
+        {
+          "letter": "B",
+          "text": "Worm",
+          "isCorrect": true,
+          "explanation": "A worm is a type of malware that can replicate itself and spread to other computers over a network. Unlike a virus, a worm does not need to be attached to a host program. Worms can exploit vulnerabilities in software to spread rapidly and consume system resources, disrupting normal operations."
+        },
+        {
+          "letter": "C",
+          "text": "Virus",
+          "isCorrect": false,
+          "explanation": "A virus is a type of malware that can replicate itself and spread to other computers. However, viruses typically require user action, such as opening an infected attachment, to spread. Worms can spread automatically."
+        },
+        {
+          "letter": "D",
+          "text": "Spyware",
+          "isCorrect": false,
+          "explanation": "Spyware is a type of malware that collects information about your computer activity without your knowledge or consent. Spyware does not disrupt the normal operation of a computer system in the same way as a worm."
+        }
+      ],
+      "explanation": "A worm is a type of malware that can replicate itself and spread to other computers over a network. Unlike a virus, a worm does not need to be attached to a host program. Worms can exploit vulnerabilities in software to spread rapidly and consume system resources, disrupting normal operations.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The file to which a virus is attached is called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hacker",
+          "isCorrect": false,
+          "explanation": "A hacker is a person who gains unauthorized access to a computer system. While hackers can spread viruses, they are not the infected files themselves."
+        },
+        {
+          "letter": "B",
+          "text": "Corrupted file",
+          "isCorrect": false,
+          "explanation": "A corrupted file can be damaged due to various reasons and may not function properly. A virus can cause a file to become corrupted, but not all corrupted files are infected with viruses."
+        },
+        {
+          "letter": "C",
+          "text": "Infected file",
+          "isCorrect": true,
+          "explanation": "A virus typically attaches itself to a seemingly legitimate file, such as a program, document, or image. This infected file can then be spread to other computers when users open, download, or copy the file.(Virus and Antivirus issues)"
+        },
+        {
+          "letter": "D",
+          "text": "Quarantine file",
+          "isCorrect": false,
+          "explanation": "A quarantined file is a file that has been identified as potentially malicious and is isolated by antivirus software to prevent it from infecting the system. While an infected file might be placed in quarantine, not all quarantined files are infected."
+        }
+      ],
+      "explanation": "A virus typically attaches itself to a seemingly legitimate file, such as a program, document, or image. This infected file can then be spread to other computers when users open, download, or copy the file.(Virus and Antivirus issues)",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Copying backup data back is called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Return",
+          "isCorrect": false,
+          "explanation": "Returning data implies giving it back to someone, which isn't the case with backup data recovery. You're retrieving your own data from a backup."
+        },
+        {
+          "letter": "B",
+          "text": "Backup Copy",
+          "isCorrect": false,
+          "explanation": "Backup copy refers to the copy of the data you create for safekeeping purposes. Recovery involves using that backup to restore the original data."
+        },
+        {
+          "letter": "C",
+          "text": "Recovery",
+          "isCorrect": true,
+          "explanation": "Copying backup data back is called recovery."
+        },
+        {
+          "letter": "D",
+          "text": "Backward",
+          "isCorrect": false,
+          "explanation": "Backward doesn't have a specific meaning in data recovery context."
+        }
+      ],
+      "explanation": "Copying backup data back is called recovery.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The best way to secure a computer room?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Logical security only",
+          "isCorrect": false,
+          "explanation": "Logical security protects the computer systems and data from unauthorized access, use, disclosure, disruption, modification, or destruction. This can include things like passwords, encryption, firewalls, intrusion detection systems, and data backup systems. Logical security measures help to protect the data even if someone can gain physical access to the computer room. Logical security only wouldn't prevent physical access to the equipment or data."
+        },
+        {
+          "letter": "B",
+          "text": "Physical security only",
+          "isCorrect": false,
+          "explanation": "Physical security protects the physical location of the computer room and the equipment inside it. This can include things like security guards, fences, locks, cameras, access control systems, and fire suppression systems. Physical security measures help to prevent unauthorized access to the computer room and the data stored there. Physical security only wouldn't protect the data and computer systems if someone bypassed the physical security measures and gained access."
+        },
+        {
+          "letter": "C",
+          "text": "Both physical and logical security",
+          "isCorrect": true,
+          "explanation": "Physical security protects the physical aspects of the computer room and Logical security protects the data and computer systems. For optimal security, a layered approach that combines both physical and logical security measures is recommended."
+        },
+        {
+          "letter": "D",
+          "text": "None of the above",
+          "isCorrect": false,
+          "explanation": "None of the above is incorrect. Both physical and logical security measures are important for securing a computer room."
+        }
+      ],
+      "explanation": "Physical security protects the physical aspects of the computer room and Logical security protects the data and computer systems. For optimal security, a layered approach that combines both physical and logical security measures is recommended.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Authorized user can be identified by:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Name",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Password",
+          "isCorrect": true,
+          "explanation": "The correct answer is Password.The authorization process for a system typically identifies users by a unique identifier, such username, before granting access. Once identified, the user is authenticated, usually by entering a password, using a biometric scan, or using a multi-factor authentication method. After successful authentication, the system determines the user's permissions or roles."
+        },
+        {
+          "letter": "C",
+          "text": "Class",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is Password.The authorization process for a system typically identifies users by a unique identifier, such username, before granting access. Once identified, the user is authenticated, usually by entering a password, using a biometric scan, or using a multi-factor authentication method. After successful authentication, the system determines the user's permissions or roles.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is an example of a good password?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Name of a partner or spouse",
+          "isCorrect": false,
+          "explanation": "This is a bad password because it is personal information that someone could easily guess."
+        },
+        {
+          "letter": "B",
+          "text": "Name of a child or pet",
+          "isCorrect": false,
+          "explanation": "This is another bad password for the same reason as A."
+        },
+        {
+          "letter": "C",
+          "text": "Word related to a job or hobby",
+          "isCorrect": false,
+          "explanation": "This is a bad password because it can be guessed by someone who knows you well."
+        },
+        {
+          "letter": "D",
+          "text": "Combination of numbers, alphabets and special characters",
+          "isCorrect": true,
+          "explanation": "A strong password should be at least 12 characters long.It should include a mix of uppercase and lowercase letters, numbers, and symbols.It should not be a word found in the dictionary or a common phrase.It should not be based on any personal information.By following these guidelines, you can create a strong password that is difficult to crack"
+        }
+      ],
+      "explanation": "A strong password should be at least 12 characters long.It should include a mix of uppercase and lowercase letters, numbers, and symbols.It should not be a word found in the dictionary or a common phrase.It should not be based on any personal information.By following these guidelines, you can create a strong password that is difficult to crack",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A program that interfaces with the normal routine of the computer's clock is called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Virus",
+          "isCorrect": true,
+          "explanation": "A computer virus is a malicious program that can replicate itself and spread to other computers. Viruses can damage files, steal data, and disrupt computer operations."
+        },
+        {
+          "letter": "B",
+          "text": "Antivirus",
+          "isCorrect": false,
+          "explanation": "Antivirus software is designed to protect computers from viruses. It does not interface with the normal routine of the computer's clock."
+        },
+        {
+          "letter": "C",
+          "text": "Shareware",
+          "isCorrect": false,
+          "explanation": "Shareware is a type of software that allows users to try it for free for a limited time. It does not interface with the normal routine of the computer's clock."
+        },
+        {
+          "letter": "D",
+          "text": "Freeware",
+          "isCorrect": false,
+          "explanation": "Freeware is a type of software that is free to use indefinitely. It does not interface with the normal routine of the computer's clock."
+        }
+      ],
+      "explanation": "A computer virus is a malicious program that can replicate itself and spread to other computers. Viruses can damage files, steal data, and disrupt computer operations.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following devices is commonly used for backup of data optically?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Floppy Disk",
+          "isCorrect": false,
+          "explanation": "Floppy disks can be used for backup, but they have very low storage capacity and are no longer commonly used."
+        },
+        {
+          "letter": "B",
+          "text": "Hard-disk",
+          "isCorrect": false,
+          "explanation": "Hard disks are used for primary storage of data on a computer and are not ideal for backups because they are susceptible to physical damage."
+        },
+        {
+          "letter": "C",
+          "text": "CD-ROM",
+          "isCorrect": true,
+          "explanation": "CD-ROMs are a relatively inexpensive and durable way to store data.They can hold a significant amount of data compared to floppy disks (up to 700MB for a CD-ROM).They are read-only discs, which means that once data is written to a CD-ROM, it cannot be overwritten. This can be a disadvantage if you need to update your backups regularly, but it also helps to prevent accidental data loss.However, CD-ROMs also have some drawbacks as a backup solution:They are slower than other storage options, such as external hard drives.They can be scratched or damaged, which can make the data unreadable.Their storage capacity is not as high as some other backup options, such as external hard drives or cloud storage."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": "While CD-ROMs are commonly used for optical backups, other options like floppy disks and hard drives are not ideal for this purpose."
+        }
+      ],
+      "explanation": "CD-ROMs are a relatively inexpensive and durable way to store data.They can hold a significant amount of data compared to floppy disks (up to 700MB for a CD-ROM).They are read-only discs, which means that once data is written to a CD-ROM, it cannot be overwritten. This can be a disadvantage if you need to update your backups regularly, but it also helps to prevent accidental data loss.However, CD-ROMs also have some drawbacks as a backup solution:They are slower than other storage options, such as external hard drives.They can be scratched or damaged, which can make the data unreadable.Their storage capacity is not as high as some other backup options, such as external hard drives or cloud storage.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the full name of FAST?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Federation Against Software Theft",
+          "isCorrect": true,
+          "explanation": "The answer is (A) Federation Against Software Theft."
+        },
+        {
+          "letter": "B",
+          "text": "Federation Against Security Theft",
+          "isCorrect": false,
+          "explanation": "The text in the image doesn't say security theft."
+        },
+        {
+          "letter": "C",
+          "text": "Federation Against System Theft",
+          "isCorrect": false,
+          "explanation": "The text in the image doesn't say system theft."
+        },
+        {
+          "letter": "D",
+          "text": "Federation Against Copyright Theft",
+          "isCorrect": false,
+          "explanation": "While copyright is related to intellectual property, the text in the image specifically mentions software theft."
+        }
+      ],
+      "explanation": "The answer is (A) Federation Against Software Theft.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A cracked pirated CD/DVD can infect the computer.",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes",
+          "isCorrect": true,
+          "explanation": "There are several reasons why using pirated software cracks is risky:Malware: As mentioned above, pirated software cracks often come from untrusted sources and may contain malware. This malware could be designed to steal your personal information, damage your files, or even take control of your computer.Security vulnerabilities: Pirated software may not be properly patched, which can leave your computer vulnerable to security attacks.Legal trouble: Using pirated software is illegal and could result in fines or even jail time.What to do if you have used a pirated software crackIf you have used a pirated software crack, it is important to take steps to protect your computer. Here are a few things you can do:Scan your computer for malware: Use a reputable antivirus program to scan your computer for malware.Change your passwords: Change your passwords for all of your online accounts, in case your computer is infected with malware that could steal your passwords.Consider reinstalling your operating system: If you think your computer may be infected with malware, you may want to consider reinstalling your operating system. This will erase all of the data on your hard drive, so be sure to back up your important files before you do this.In conclusion, using pirated software cracks is a major security risk. It is best to avoid using pirated software altogether and instead use legal software that is properly maintained and patched."
+        },
+        {
+          "letter": "B",
+          "text": "No",
+          "isCorrect": false,
+          "explanation": "Pirated software cracks often come from untrusted sources and may contain malware. Downloading and running software from untrusted sources is a major risk of infection."
+        },
+        {
+          "letter": "C",
+          "text": "May be / May be not",
+          "isCorrect": false,
+          "explanation": "While not all pirated software cracks contain malware, it is a very high risk. It is best to avoid using pirated software altogether."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "Pirated software cracks are a significant security risk."
+        }
+      ],
+      "explanation": "There are several reasons why using pirated software cracks is risky:Malware: As mentioned above, pirated software cracks often come from untrusted sources and may contain malware. This malware could be designed to steal your personal information, damage your files, or even take control of your computer.Security vulnerabilities: Pirated software may not be properly patched, which can leave your computer vulnerable to security attacks.Legal trouble: Using pirated software is illegal and could result in fines or even jail time.What to do if you have used a pirated software crackIf you have used a pirated software crack, it is important to take steps to protect your computer. Here are a few things you can do:Scan your computer for malware: Use a reputable antivirus program to scan your computer for malware.Change your passwords: Change your passwords for all of your online accounts, in case your computer is infected with malware that could steal your passwords.Consider reinstalling your operating system: If you think your computer may be infected with malware, you may want to consider reinstalling your operating system. This will erase all of the data on your hard drive, so be sure to back up your important files before you do this.In conclusion, using pirated software cracks is a major security risk. It is best to avoid using pirated software altogether and instead use legal software that is properly maintained and patched.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In order to give access to the authorized person, how many different approaches are used?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "There could be more than two approaches used in a typical system."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "Similar to option (A), there could be more than three approaches used."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "Similar to option (A), there could be more or less than four approaches used."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "While some systems might use five factors, it's not a universal number."
+        },
+        {
+          "letter": "E",
+          "text": "None of these",
+          "isCorrect": true,
+          "explanation": "The image doesn't provide any details on the specific access control system in question. There are many different approaches used to grant access to authorized users, and the number can vary depending on the specific system and security requirements. Here are some common examples of access control methods:Something you know: This could be a password, PIN, or other secret code.Something you have: This could be a physical key, keycard, or security token.Something you are: This could be biometric authentication, such as fingerprint scanning or facial recognition.A combination of two or more of the above factors: Multi-factor authentication (MFA) is a common security practice that requires users to provide two or more pieces of evidence to verify their identity.Since the image doesn't specify the system or its requirements, it's impossible to say for sure how many approaches are used."
+        }
+      ],
+      "explanation": "The image doesn't provide any details on the specific access control system in question. There are many different approaches used to grant access to authorized users, and the number can vary depending on the specific system and security requirements. Here are some common examples of access control methods:Something you know: This could be a password, PIN, or other secret code.Something you have: This could be a physical key, keycard, or security token.Something you are: This could be biometric authentication, such as fingerprint scanning or facial recognition.A combination of two or more of the above factors: Multi-factor authentication (MFA) is a common security practice that requires users to provide two or more pieces of evidence to verify their identity.Since the image doesn't specify the system or its requirements, it's impossible to say for sure how many approaches are used.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A virus is a set of instructions that cannot destroy the:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hardware",
+          "isCorrect": false,
+          "explanation": "While not the most common, some viruses can damage hardware. For instance, a virus might overwrite firmware or corrupt settings that control hardware components."
+        },
+        {
+          "letter": "B",
+          "text": "Data",
+          "isCorrect": false,
+          "explanation": "Viruses can corrupt or delete data on a device."
+        },
+        {
+          "letter": "C",
+          "text": "Software",
+          "isCorrect": false,
+          "explanation": "Viruses can modify or interfere with software, causing programs to malfunction or crash."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": true,
+          "explanation": "A virus can corrupt or delete data.It can damage software by modifying code or interfering with program execution.In some cases, a virus can damage hardware by overloading it or causing it to overheat.Therefore, the most accurate answer is (d), as a virus can potentially destroy all of these components."
+        }
+      ],
+      "explanation": "A virus can corrupt or delete data.It can damage software by modifying code or interfering with program execution.In some cases, a virus can damage hardware by overloading it or causing it to overheat.Therefore, the most accurate answer is (d), as a virus can potentially destroy all of these components.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The virus is attached to which type of files?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": ".exe",
+          "isCorrect": false,
+          "explanation": "Executable files are programs that can be run on a computer. Viruses can often attach themselves to .exe files so that they are executed when the user opens the infected file."
+        },
+        {
+          "letter": "B",
+          "text": ".com",
+          "isCorrect": false,
+          "explanation": "Similar to .exe files, .com files are also executable files that can be used to run programs on a computer. Viruses can exploit these files in the same way they do with .exe files."
+        },
+        {
+          "letter": "C",
+          "text": ".dll",
+          "isCorrect": false,
+          "explanation": "DLL files contain code that can be used by multiple programs. Viruses can inject themselves into DLL files so that they are loaded into memory whenever a program that uses the infected DLL is run."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": true,
+          "explanation": "Viruses can attach themselves to a variety of file types, including .exe (executable files), .com (command files), and .dll (Dynamic Link Library files). Some users might mistakenly believe that viruses only target specific file types, such as .exe files. However, malicious software writers are constantly developing new techniques to spread viruses, and they can exploit a variety of file types. Therefore, it's important to be cautious of all file types, especially those downloaded from untrusted sources."
+        }
+      ],
+      "explanation": "Viruses can attach themselves to a variety of file types, including .exe (executable files), .com (command files), and .dll (Dynamic Link Library files). Some users might mistakenly believe that viruses only target specific file types, such as .exe files. However, malicious software writers are constantly developing new techniques to spread viruses, and they can exploit a variety of file types. Therefore, it's important to be cautious of all file types, especially those downloaded from untrusted sources.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which type of virus affects the Windows Active Desktop feature?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Trojan virus",
+          "isCorrect": false,
+          "explanation": "Trojan viruses typically focus on stealing data or installing other malware. While they could potentially interfere with system features, there's no specific link to Active Desktop."
+        },
+        {
+          "letter": "B",
+          "text": "Redlof virus",
+          "isCorrect": false,
+          "explanation": "Redlof is a type of worm that spreads through networks. There's no specific connection between Redlof and Windows Active Desktop."
+        },
+        {
+          "letter": "C",
+          "text": "Logic bomb virus",
+          "isCorrect": false,
+          "explanation": "Logic bombs are designed to detonate at a specific time or under certain conditions. They aren't inherently linked to targeting specific features like Active Desktop."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "E",
+          "text": "None of these",
+          "isCorrect": true,
+          "explanation": "The answer cannot be definitively determined from the information provided in the image or common knowledge about viruses. There isn't enough evidence to pinpoint a specific type of virus that targets the Windows Active Desktop feature. While viruses can tamper with system files and functionalities, Windows Active Desktop itself has been discontinued since Windows XP and isn't a commonly targeted feature by modern viruses."
+        }
+      ],
+      "explanation": "The answer cannot be definitively determined from the information provided in the image or common knowledge about viruses. There isn't enough evidence to pinpoint a specific type of virus that targets the Windows Active Desktop feature. While viruses can tamper with system files and functionalities, Windows Active Desktop itself has been discontinued since Windows XP and isn't a commonly targeted feature by modern viruses.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which guidelines are useful for the authorized user?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Users must be asked to change their passwords periodically.",
+          "isCorrect": true,
+          "explanation": "Having users change passwords periodically is a good security practice. Using strong passwords is one of the most important things you can do to protect your computer system. A strong password is at least 8 characters long and includes a mix of uppercase and lowercase letters, numbers, and symbols. You should also avoid using the same password for multiple accounts.Here are some tips for creating strong passwords:Use a passphrase instead of a password. A passphrase is a longer string of words that is easier to remember than a random password. For example, a strong passphrase could be \"I love to eat chocolate cake!\"Don't use personal information in your passwords. This includes your name, birthday, address, phone number, or any other information that could be easily guessed by someone who knows you.Don't use dictionary words. Hackers often use programs that try to guess passwords by trying all the words in the dictionary.Use a different password for each of your online accounts. If one of your accounts is hacked, the hacker will not be able to access your other accounts if you use different passwords for each one.By following these tips, you can help to create strong passwords that will help to keep your computer system safe."
+        },
+        {
+          "letter": "B",
+          "text": "Users can keep their passwords simple and easy to remember",
+          "isCorrect": false,
+          "explanation": "This is a bad practice as simple passwords are easier to crack."
+        },
+        {
+          "letter": "C",
+          "text": "Users can keep a single alphabets password",
+          "isCorrect": false,
+          "explanation": "This is also a bad practice for the same reason as above."
+        },
+        {
+          "letter": "D",
+          "text": "Both A and B",
+          "isCorrect": false,
+          "explanation": "Having users change passwords periodically is a good security practice, but keeping them simple and easy to remember is not."
+        }
+      ],
+      "explanation": "Having users change passwords periodically is a good security practice. Using strong passwords is one of the most important things you can do to protect your computer system. A strong password is at least 8 characters long and includes a mix of uppercase and lowercase letters, numbers, and symbols. You should also avoid using the same password for multiple accounts.Here are some tips for creating strong passwords:Use a passphrase instead of a password. A passphrase is a longer string of words that is easier to remember than a random password. For example, a strong passphrase could be \"I love to eat chocolate cake!\"Don't use personal information in your passwords. This includes your name, birthday, address, phone number, or any other information that could be easily guessed by someone who knows you.Don't use dictionary words. Hackers often use programs that try to guess passwords by trying all the words in the dictionary.Use a different password for each of your online accounts. If one of your accounts is hacked, the hacker will not be able to access your other accounts if you use different passwords for each one.By following these tips, you can help to create strong passwords that will help to keep your computer system safe.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In the context of computer privacy, what does the right to access data refer to?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Security, Copyright and the Law",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The right to delete your personal data",
+          "isCorrect": false,
+          "explanation": "This is also known as the \"right to erasure\" and allows individuals to request that organizations delete their personal data under certain circumstances."
+        },
+        {
+          "letter": "B",
+          "text": "The right to know what data is being collected about you",
+          "isCorrect": false,
+          "explanation": "This is often referred to as \"data awareness\" and grants individuals the right to be informed about the data collected about them, the purpose of such collection, and the entities with whom it's shared."
+        },
+        {
+          "letter": "C",
+          "text": "The right to restrict processing of your data",
+          "isCorrect": false,
+          "explanation": "This allows individuals to restrict how their data is used by organizations. For instance, they might request that their data not be used for marketing purposes."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": "The right to access data encompasses all of the above options in the context of computer privacy. It grants individuals control over their personal information collected by organizations.Why some might choose the wrong options:Users might be unaware of the comprehensive nature of the right to access data. They might believe it only applies to specific aspects like deletion or knowledge of data collection, but it encompasses all the options mentioned above.Therefore, understanding the right to access data empowers individuals to control their privacy in the digital world."
+        }
+      ],
+      "explanation": "The right to access data encompasses all of the above options in the context of computer privacy. It grants individuals control over their personal information collected by organizations.Why some might choose the wrong options:Users might be unaware of the comprehensive nature of the right to access data. They might believe it only applies to specific aspects like deletion or knowledge of data collection, but it encompasses all the options mentioned above.Therefore, understanding the right to access data empowers individuals to control their privacy in the digital world.",
+      "explanationImage": null,
+      "hints": []
+    }
+  ]
+}

@@ -1,0 +1,949 @@
+{
+  "questions": [
+    {
+      "text": "State whether a ∈ C, if {a} ⊂ A: i: A ⊆ B ii: B ⊆ C",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Sets",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Statement (i) is sufficient",
+          "isCorrect": false,
+          "explanation": "Statement (i) alone is not sufficient. It only tells us that {a} is a subset of A, but doesn't provide information about B or C."
+        },
+        {
+          "letter": "B",
+          "text": "Statement (ii) is sufficient",
+          "isCorrect": false,
+          "explanation": "Statement (ii) alone is also not sufficient. Knowing B ⊆ C doesn't help us determine if a is in C because we don't know if a is in B."
+        },
+        {
+          "letter": "C",
+          "text": "Statements (i) and (ii) are each sufficient on their own",
+          "isCorrect": false,
+          "explanation": "Neither statement is sufficient on its own. We need both statements to draw a conclusion about a and C."
+        },
+        {
+          "letter": "D",
+          "text": "Statements (i) and (ii) together are sufficient",
+          "isCorrect": true,
+          "explanation": "Correct. Combining (i) and (ii), we deduce that since {a} ⊂ A, A ⊆ B, and B ⊆ C, then a must be in C."
+        }
+      ],
+      "explanation": "Option D is correct. The chain of relationships {a} ⊂ A, A ⊆ B, and B ⊆ C allows us to conclude that a ∈ C. Statements (i) and (ii) must be combined to establish this link. Options A, B, and C are incorrect because they do not utilize the full chain of subset relationships.",
+      "explanationImage": null,
+      "hints": [
+        "{a} ⊂ A",
+        "A ⊆ B",
+        "B ⊆ C"
+      ]
+    },
+    {
+      "text": "How many people are standing in the queue at the counter?I. If four more people join the queue, the number in the queue will be more than 15II. More than 10 people are standing in the queueIII. There are more men than women in the queueIV. If three people give up and leave the queue, the number remaining will be less than 10V. Less than 20 people are standing in the queue Which two statements are sufficient to answer the question?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Sets",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "I & III",
+          "isCorrect": false,
+          "explanation": "If 4 more join, number becomes more than 15. More men than women. First tells us: x > 11. Second tells us nothing about the number. Not sufficient."
+        },
+        {
+          "letter": "B",
+          "text": "II & III",
+          "isCorrect": false,
+          "explanation": "More than 10 people. More men than women. First: x > 10. Second: irrelevant. Not sufficient."
+        },
+        {
+          "letter": "C",
+          "text": "II & V",
+          "isCorrect": false,
+          "explanation": "More than 10. Less than 20. So x is between 10 and 20. Multiple possibilities. Not sufficient."
+        },
+        {
+          "letter": "D",
+          "text": "I & IV",
+          "isCorrect": true,
+          "explanation": "If 4 more join, number becomes more than 15 → x > 11. If 3 leave, number becomes less than 10 → x < 13. So now we know: x > 11, x < 13. Only possible number is x = 12. Sufficient."
+        }
+      ],
+      "explanation": "Option D provides the sufficient information to find out the number of people standing in a queue. If 4 more people join, the number of people in the queue would be greater than 15, considering the number of people in the queue=x gives an idea that 11 ≤ x ≤ 15. Whereas IV states that if three people leave the queue, the value of c would be less than 10, i.e., 12 ≥ x ≥ 10. This narrows down the possible values to x = 11 or x = 12 as both statements resonate with these two numbers and together give sufficient information. All the other options do not give sufficient information together as they do not relate to each other.",
+      "explanationImage": null,
+      "hints": [
+        "More than 10 people",
+        "If three people give up and leave the queue, the number remaining will be less than 10"
+      ]
+    },
+    {
+      "text": "The maximum value of a data set consisting of 25 positive integers is 84. A new data set consisting of 26 positive integers is created by including 96 in the original data set. Which of the following measures must be 12 greater for the new data set than for the original data set?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Sets",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The mean",
+          "isCorrect": false,
+          "explanation": "The mean is incorrect. The question only provides information about the maximum value, so the mean cannot be determined based on this information alone."
+        },
+        {
+          "letter": "B",
+          "text": "The median",
+          "isCorrect": false,
+          "explanation": "The median is incorrect. The question only provides information about the maximum value, so the median cannot be determined based on this information alone."
+        },
+        {
+          "letter": "C",
+          "text": "The range",
+          "isCorrect": true,
+          "explanation": "Choice C is correct. The range of the new data set must be 12 greater than the range of the original data set. By considering the minimum value of the original set and the additional integer 96, we can calculate that the range increases by 12."
+        },
+        {
+          "letter": "D",
+          "text": "The standard deviation",
+          "isCorrect": false,
+          "explanation": "The standard deviation is incorrect. The question only provides information about the maximum value, so the standard deviation cannot be determined based on this information alone."
+        }
+      ],
+      "explanation": "Choice C is correct. Let m be the minimum value of the original data set. The range of a data set is the difference between the maximum value and the minimum value. The range of the original data set is therefore 84 − m. The new data set consists of the original set and the positive integer 96. Thus, the new data set has the same minimum m and a maximum of 96. Therefore, the range of the new data set is 96 − m. The difference in the two ranges can be found by subtracting the ranges: (96 − m) − (84 − m). Using the distributive property, this can be rewritten as 96 − m − 84 + m, which is equal to 12. Therefore, the range of the new data set must be 12 greater than the range of the original data set.",
+      "explanationImage": null,
+      "hints": [
+        "data set",
+        "positive integers"
+      ]
+    },
+    {
+      "text": "Two data sets of 23 integers each are summarized in the histograms shown. For each of the histograms,the first interval represents the frequency of integers greater than or equal to 10, but less than 20. Thesecond interval represents the frequency of integers greater than or equal to 20, but less than 30, and soon. What is the smallest possible difference between the mean of data set A and the mean of data set B?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Sets",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "If every interval has the same number of values in A and B, their means will be exactly equal. However, in the context of different histograms, 0 won't be correct unless the histograms are identical."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": true,
+          "explanation": "If A and B have almost the same frequencies but differ slightly in adjacent intervals, the resulting mean difference will be very small. This makes 1 the smallest possible difference when the histograms are not identical but very close."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "isCorrect": false,
+          "explanation": "Option C is not correct as extreme shifts in value ranges would result in a large, not the smallest, difference between means."
+        },
+        {
+          "letter": "D",
+          "text": "23",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it represents the maximum possible difference in the sum, not in the mean. The question specifically asks for the smallest possible difference between the means of the two data sets."
+        }
+      ],
+      "explanation": "The histograms presented show that Data Set A has higher overall values compared to Data Set B. By assigning the lowest values to A’s intervals and the highest to B’s, the smallest possible difference in means is calculated to be 1. This is achieved when the frequencies are almost equal but differ slightly in adjacent intervals, resulting in a very small mean difference. Therefore, option B is the correct answer. The other options are incorrect as they either consider theoretical equality, extreme shifts in value ranges, or the maximum possible difference in sums rather than focusing on the smallest possible mean difference between the two data sets.",
+      "explanationImage": null,
+      "hints": [
+        "data sets",
+        "mean difference"
+      ]
+    },
+    {
+      "text": "The symbol ∩ represents:",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Sets",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Union",
+          "isCorrect": false,
+          "explanation": "*Symbol*: ∪ (A ∪ B represents the set of elements in A or B or both)"
+        },
+        {
+          "letter": "B",
+          "text": "Intersection",
+          "isCorrect": true,
+          "explanation": "Definition*: The intersection of two sets A and B, denoted as A ∩ B, is the set of elements that are common to both A and B."
+        },
+        {
+          "letter": "C",
+          "text": "Complement",
+          "isCorrect": false,
+          "explanation": "*Symbol*: A' or A^c (represents the set of elements not in A)"
+        },
+        {
+          "letter": "D",
+          "text": "Difference",
+          "isCorrect": false,
+          "explanation": "Symbol*: \\ or - (A \\ B or A - B = All elements that are in A but not in B)"
+        }
+      ],
+      "explanation": "The correct answer is Option B: Intersection. The symbol ∩ represents the intersection of two sets, showing the elements that are common to both sets A and B. The other options are incorrect because they represent different set operations: Union (Option A), Complement (Option C), and Difference (Option D).",
+      "explanationImage": null,
+      "hints": [
+        "symbol",
+        "intersection"
+      ]
+    },
+    {
+      "text": "The number of elements in set A = {2, 4, 6, 8} is:",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Sets",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "The set {2, 4, 6, 8} clearly contains 4 elements, not 2."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "isCorrect": true,
+          "explanation": "Correct! The set {2, 4, 6, 8} contains 4 elements."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": "Set A has 4 elements, not 6."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "isCorrect": false,
+          "explanation": "Set A has 4 elements, not 8."
+        }
+      ],
+      "explanation": "The correct answer is Option B: 4. The set {2, 4, 6, 8} clearly contains 4 elements. Option A, C, and D are incorrect as they miscount the number of elements in the set.",
+      "explanationImage": null,
+      "hints": [
+        "number of elements",
+        "set"
+      ]
+    },
+    {
+      "text": "If A = {1, 2, 3} and B = {3, 4, 5}, then A ∪ B = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Sets",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "{3}",
+          "isCorrect": false,
+          "explanation": "This option represents the intersection of sets A and B, not the union."
+        },
+        {
+          "letter": "B",
+          "text": "{1, 2, 3, 4, 5}",
+          "isCorrect": true,
+          "explanation": "The union of sets A and B includes all unique elements from both sets, resulting in {1, 2, 3, 4, 5}."
+        },
+        {
+          "letter": "C",
+          "text": "{1, 2, 4, 5}",
+          "isCorrect": false,
+          "explanation": "This set misses the element 3, which is present in both sets A and B."
+        },
+        {
+          "letter": "D",
+          "text": "{1, 2, 3, 4}",
+          "isCorrect": false,
+          "explanation": "This set lacks the element 5, which is part of set B."
+        }
+      ],
+      "explanation": "The correct answer is option B, {1, 2, 3, 4, 5}. When finding the union of sets A and B, we combine all unique elements from both sets, resulting in {1, 2, 3, 4, 5}. Option A is incorrect as it represents the intersection, while options C and D are incorrect as they are missing elements present in either set.",
+      "explanationImage": null,
+      "hints": [
+        "union",
+        "elements"
+      ]
+    },
+    {
+      "text": "The set of even natural numbers is:",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Sets",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Finite",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the set of even natural numbers continues indefinitely, making it infinite."
+        },
+        {
+          "letter": "B",
+          "text": "Null",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as the set of even natural numbers is not empty; it contains multiple elements."
+        },
+        {
+          "letter": "C",
+          "text": "Infinite",
+          "isCorrect": true,
+          "explanation": "The even natural numbers are: {2, 4, 6, 8, 10, 12, ...}This set never ends — it goes on forever.Therefore, it is an infinite set."
+        },
+        {
+          "letter": "D",
+          "text": "Empty",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the set of even natural numbers is not empty; it contains elements."
+        }
+      ],
+      "explanation": "The set of even natural numbers consists of numbers like 2, 4, 6, 8, 10, and so on, with no end in sight.This continuous pattern of adding 2 to the previous number leads to an infinite set.Options A, B, and D are incorrect because the set is not finite, null, or empty; it is indeed infinite.",
+      "explanationImage": null,
+      "hints": [
+        "even natural numbers",
+        "never ends"
+      ]
+    },
+    {
+      "text": "The empty set is represented by:",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Sets",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ø",
+          "isCorrect": false,
+          "explanation": "Ø (phi) is a common symbol used to represent the empty set."
+        },
+        {
+          "letter": "B",
+          "text": "{}",
+          "isCorrect": false,
+          "explanation": "{} (empty brackets) also represent the empty set."
+        },
+        {
+          "letter": "C",
+          "text": "Both A and B",
+          "isCorrect": true,
+          "explanation": "Both Ø and {} are used to denote the empty set.The correct answer is indeed C, Both A and B!"
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The empty set can be represented by either the symbol Ø (phi) or by using empty brackets {}.Both Option A and Option B correctly represent the empty set, making Option C the correct choice.Option D, 'None,' is incorrect as there are indeed specific representations for the empty set.",
+      "explanationImage": null,
+      "hints": [
+        "empty set",
+        "representation",
+        "{}",
+        "Ø"
+      ]
+    },
+    {
+      "text": "A set which contains all possible elements is called:",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Sets",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Subset",
+          "isCorrect": false,
+          "explanation": "A subset is a set that contains some, but not necessarily all, elements of another set."
+        },
+        {
+          "letter": "B",
+          "text": "Universal set",
+          "isCorrect": true,
+          "explanation": "A universal set is a set that contains all elements under consideration. It serves as a reference set for all other sets in a particular context."
+        },
+        {
+          "letter": "C",
+          "text": "Empty set",
+          "isCorrect": false,
+          "explanation": "An empty set, or null set, contains no elements."
+        },
+        {
+          "letter": "D",
+          "text": "Power set",
+          "isCorrect": false,
+          "explanation": "A power set is the set of all subsets of a given set."
+        }
+      ],
+      "explanation": "The correct answer is 'Universal set.' A universal set contains all possible elements under consideration, serving as a reference set for all other sets in a particular context. This set encompasses all elements relevant to the discussion. The other options are incorrect because a subset contains some elements, an empty set contains no elements, and a power set is the set of all subsets of a given set.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If A = {1,2,3} and B = {4,5}, then A ∩ B = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Sets",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "{1,2,3,4,5}",
+          "isCorrect": false,
+          "explanation": "This option includes all elements from both sets, which is incorrect. The intersection only contains common elements."
+        },
+        {
+          "letter": "B",
+          "text": "{}",
+          "isCorrect": true,
+          "explanation": "The correct answer! Since there are no common elements between sets A and B, the intersection is the empty set."
+        },
+        {
+          "letter": "C",
+          "text": "{1,2}",
+          "isCorrect": false,
+          "explanation": "This option includes elements from set A only, which is incorrect. The intersection should have elements common to both sets."
+        },
+        {
+          "letter": "D",
+          "text": "{3}",
+          "isCorrect": false,
+          "explanation": "This option includes an element from set A only, which is incorrect. The intersection should have elements common to both sets."
+        }
+      ],
+      "explanation": "If sets A and B are A = {1, 2, 3} and B = {4, 5}, then the intersection A ∩ B is the empty set {} because there are no common elements between the two sets. Option A includes all elements, which is incorrect. Option C and Option D include elements from set A only, which is also incorrect. Therefore, Option B is the correct answer.",
+      "explanationImage": null,
+      "hints": [
+        "A",
+        "B"
+      ]
+    },
+    {
+      "text": "﻿Which of the following is a subset of {1,2,3}?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Sets",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "{1,3}",
+          "isCorrect": true,
+          "explanation": "This set contains all elements (1 and 3) that are present in the original set {1, 2, 3}, making it a subset."
+        },
+        {
+          "letter": "B",
+          "text": "{4}",
+          "isCorrect": false,
+          "explanation": "This is not a subset as it does not contain any element from the set {1, 2, 3}."
+        },
+        {
+          "letter": "C",
+          "text": "{1,4}",
+          "isCorrect": false,
+          "explanation": "Although 1 is in the original set, 4 is not, so this set is not a subset of {1, 2, 3}."
+        },
+        {
+          "letter": "D",
+          "text": "{3,5}",
+          "isCorrect": false,
+          "explanation": "While 3 is present in {1, 2, 3}, 5 is not, making this set not a subset of the original set."
+        }
+      ],
+      "explanation": "Option A {1,3} is the correct subset since it contains all elements present in {1, 2, 3}. Option B contains a single element which is not present in the original set, Option C has an element not present in the original set, and Option D has an element not found in the original set, making them incorrect subsets.",
+      "explanationImage": null,
+      "hints": [
+        "subset",
+        "{1,2,3}"
+      ]
+    },
+    {
+      "text": "The number of subsets of a set with 3 elements is:",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Sets",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "Incorrect. The correct number of subsets for a set with 3 elements is 8, not 4."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": "Incorrect. The number of subsets for a set with 3 elements is not 6."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "isCorrect": true,
+          "explanation": "Correct! The number of subsets of a set with 3 elements is 8, calculated using the formula 2^n."
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "isCorrect": false,
+          "explanation": "Incorrect. The number of subsets for a set with 3 elements is 8, not 9. 9 subsets would imply more than 3 elements."
+        }
+      ],
+      "explanation": "When dealing with sets, the number of subsets can be found using the formula 2^n, where n is the number of elements in the set. In this case, with 3 elements, the number of subsets is 2^3 = 8. Therefore, the correct answer is Option C, 8. Options A and B are incorrect as they do not align with the formula for calculating subsets. Option D is also incorrect as it exceeds the maximum number of subsets possible for a set with 3 elements.",
+      "explanationImage": null,
+      "hints": [
+        "subsets",
+        "number of elements"
+      ]
+    },
+    {
+      "text": "Set A = {x | x is an odd number less than 10}. Then A = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Sets",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "{1, 3, 5, 7, 9}",
+          "isCorrect": true,
+          "explanation": "The set A includes all odd numbers less than 10, which are 1, 3, 5, 7, and 9.So, A = {1, 3, 5, 7, 9}."
+        },
+        {
+          "letter": "B",
+          "text": "{1, 2, 3, 5, 7}",
+          "isCorrect": false,
+          "explanation": "This set includes both odd and even numbers, which does not match the criteria specified in the question."
+        },
+        {
+          "letter": "C",
+          "text": "{2, 4, 6, 8}",
+          "isCorrect": false,
+          "explanation": "These numbers are even and less than 10, so they do not belong to the set of odd numbers less than 10."
+        },
+        {
+          "letter": "D",
+          "text": "{1, 3, 5}",
+          "isCorrect": false,
+          "explanation": "This set is missing the numbers 7 and 9, which are odd numbers less than 10 and should be included in the set."
+        }
+      ],
+      "explanation": "The correct answer is Option A: {1, 3, 5, 7, 9}. Set A is defined as the set of odd numbers less than 10, which includes the elements 1, 3, 5, 7, and 9. Option B includes an even number (2), Options C and D include numbers that are not less than 10. Therefore, Option A is the only set that correctly represents the elements of Set A based on the given criteria.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is not a well-defined set?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Sets",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Set of days in a week",
+          "isCorrect": false,
+          "explanation": "Set of days in a week*: Clearly defined (Monday to Sunday)."
+        },
+        {
+          "letter": "B",
+          "text": "Set of good players",
+          "isCorrect": true,
+          "explanation": "Well-Defined Set1. A set is well-defined if its elements can be clearly determined."
+        },
+        {
+          "letter": "C",
+          "text": "Set of vowels",
+          "isCorrect": false,
+          "explanation": "Set of vowels*: Clearly defined (A, E, I, O, U)."
+        },
+        {
+          "letter": "D",
+          "text": "Set of prime numbers",
+          "isCorrect": false,
+          "explanation": "Set of prime numbers*: Clearly defined (numbers with exactly two distinct positive divisors)"
+        }
+      ],
+      "explanation": "The correct answer is 'Set of good players.' This is not a well-defined set because the criteria for being a 'good player' is subjective and can vary from person to person. On the other hand, the other options such as the set of days in a week, vowels, and prime numbers have clear and objective definitions, making them well-defined sets.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If A = {2,4,6}, then the power set P(A) has how many elements?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Sets",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The power set of a set with 3 elements will have more than 4 elements."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The power set of a set with 3 elements will have more than 6 elements."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "isCorrect": true,
+          "explanation": "To calculate the number of elements in the power set P(A), we use the formula 2^n, where n is the number of elements in set A. In this case, A = {2, 4, 6} which has 3 elements. Therefore, the number of elements in P(A) = 2^3 = 8. The power set includes all possible subsets of set A."
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The power set of a set with 3 elements will have 2^3 = 8 elements, not 9."
+        }
+      ],
+      "explanation": "The correct answer is Option C: 8. The power set of set A = {2, 4, 6} will have 8 elements. This is because the power set includes all possible subsets of the original set, which can be calculated using the formula 2^n, where n is the number of elements in the original set. The other options are incorrect because they do not adhere to the formula for calculating the number of elements in a power set.",
+      "explanationImage": null,
+      "hints": [
+        "power set",
+        "number of elements"
+      ]
+    },
+    {
+      "text": "The intersection of a set with an empty set is",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Sets",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The set itself",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. When intersected with an empty set, the result is always the empty set."
+        },
+        {
+          "letter": "B",
+          "text": "The empty set",
+          "isCorrect": true,
+          "explanation": "This option is correct. The intersection of any set with an empty set always results in the empty set due to having no common elements."
+        },
+        {
+          "letter": "C",
+          "text": "Universal set",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The intersection with an empty set does not result in the universal set."
+        },
+        {
+          "letter": "D",
+          "text": "Infinite",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The intersection with an empty set does not result in an infinite set, but rather the empty set."
+        }
+      ],
+      "explanation": "The correct answer is Option B: The empty set. When any set is intersected with an empty set, the resulting intersection will always be the empty set because there are no common elements between the two sets. This property holds true for all sets, making the empty set the intersection in this case. The other options are incorrect because they do not align with the concept of intersections involving empty sets.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If U = {1,2,3,4,5,6} and A = {2,4,6}, then A' = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Sets",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "{1,2,3,4,5,6}",
+          "isCorrect": false,
+          "explanation": "This option includes all elements of the universal set U, which is not the correct complement of set A."
+        },
+        {
+          "letter": "B",
+          "text": "{1,3,5}",
+          "isCorrect": true,
+          "explanation": "To find the complement of A, we subtract the elements of A from the universal set U. Therefore, A' = {1, 3, 5}. This option is correct."
+        },
+        {
+          "letter": "C",
+          "text": "{2,4,6}",
+          "isCorrect": false,
+          "explanation": "This option includes the same elements as set A, which is incorrect for the complement of set A."
+        },
+        {
+          "letter": "D",
+          "text": "{}",
+          "isCorrect": false,
+          "explanation": "This option represents an empty set, which is not the correct complement of set A."
+        }
+      ],
+      "explanation": "The correct answer is option B, {1, 3, 5}. To find the complement of set A, we subtract the elements of A = {2, 4, 6} from the universal set U = {1, 2, 3, 4, 5, 6}. This results in A' = {1, 3, 5}. Options A, C, and D are incorrect because they do not represent the correct complement of set A.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "if A = B, then:",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Sets",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A ⊆ B and B ⊆ A",
+          "isCorrect": true,
+          "explanation": "When A = B, it implies that every element of A is in B, and every element of B is in A. Therefore, A is a subset of B (A ⊆ B) and B is a subset of A (B ⊆ A)."
+        },
+        {
+          "letter": "B",
+          "text": "A ⊂ B",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because when A = B, it means A is not strictly a subset of B but is equal to B."
+        },
+        {
+          "letter": "C",
+          "text": "B ⊂ A",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because when A = B, it means B is not strictly a subset of A but is equal to A."
+        },
+        {
+          "letter": "D",
+          "text": "A ∩ B = {}",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because when A = B, the intersection of A and B is the same as the sets themselves, not an empty set."
+        }
+      ],
+      "explanation": "When A = B, it means that both sets contain the exact same elements. Therefore, A is a subset of B (A ⊆ B) and B is a subset of A (B ⊆ A) because every element in A is also in B, and vice versa. Options B, C, and D are incorrect because they do not accurately represent the relationship between sets when they are equal.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Set containing no element is called:",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Sets",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Null set",
+          "isCorrect": true,
+          "explanation": "The set containing no elements is called a null set or empty set, denoted by {}. This is the correct answer."
+        },
+        {
+          "letter": "B",
+          "text": "Singleton set",
+          "isCorrect": false,
+          "explanation": "A singleton set contains only one element, while a null set has no elements. This is not the correct answer for this question."
+        },
+        {
+          "letter": "C",
+          "text": "Subset",
+          "isCorrect": false,
+          "explanation": "A subset is a set that contains some or all elements of another set, not a set with no elements. This is not the correct answer for this question."
+        },
+        {
+          "letter": "D",
+          "text": "Power set",
+          "isCorrect": false,
+          "explanation": "A power set is the set of all subsets of a given set. It is not the same as a set containing no elements. This is not the correct answer for this question."
+        }
+      ],
+      "explanation": "The correct answer is A, Null set. A null set is a set that contains no elements. It is represented by {}. In contrast, a singleton set contains exactly one element, a subset contains some or all elements of another set, and a power set is the set of all subsets of a given set. These options are incorrect for this question as they do not represent a set with no elements.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If A = {1, 2, 3} and B = {3, 4, 5}, then A ∩ B = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Sets",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "{1,2}",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the intersection of A and B includes elements that are present in both sets."
+        },
+        {
+          "letter": "B",
+          "text": "{3}",
+          "isCorrect": true,
+          "explanation": "The correct option is B. Let's find the intersection:Given Sets1. A = {1, 2, 3}2. B = {3, 4, 5}Intersection1. A ∩ B = elements common to both A and B2. A ∩ B = {3}"
+        },
+        {
+          "letter": "C",
+          "text": "{}",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the intersection of A and B is not an empty set as they share common elements."
+        },
+        {
+          "letter": "D",
+          "text": "{4,5}",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the elements 4 and 5 are only present in set B, not in the intersection of A and B."
+        }
+      ],
+      "explanation": "The correct answer is Option B: {3}. When finding the intersection of sets A and B, we look for elements that are common to both sets. In this case, the only common element between A and B is 3. Options A, C, and D are incorrect because they do not represent the intersection accurately based on the given sets.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the cardinality of set A = {2, 4, 6, 8}?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Sets",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "The cardinality of set A is not 3 as there are actually 4 elements in the set {2, 4, 6, 8}."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "isCorrect": true,
+          "explanation": "To find the cardinality of set A, count the elements: Set A 1. A = {2, 4, 6, 8} Cardinality 1. Number of elements in A = 4. Therefore, the correct answer is B, 4."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "The cardinality of set A is not 5 as there are actually 4 elements in the set {2, 4, 6, 8}."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": "The cardinality of set A is not 6 as there are actually 4 elements in the set {2, 4, 6, 8}."
+        }
+      ],
+      "explanation": "The cardinality of a set is the number of elements in that set. In this case, set A = {2, 4, 6, 8} has 4 elements, so the correct answer is 4. Option A, C, and D are incorrect as they do not accurately reflect the number of elements in set A.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The complement of the universal set is:",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Sets",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Itself",
+          "isCorrect": false,
+          "explanation": "This option suggests that the complement of the universal set is the universal set itself, which is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "{}",
+          "isCorrect": true,
+          "explanation": "The complement of the universal set is an empty set because all elements are already included in the universal set."
+        },
+        {
+          "letter": "C",
+          "text": "All other sets",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests that the complement includes all other sets, which is not the case."
+        },
+        {
+          "letter": "D",
+          "text": "Any subset",
+          "isCorrect": false,
+          "explanation": "This option implies that any subset can be the complement of the universal set, which is not accurate."
+        }
+      ],
+      "explanation": "The correct answer is Option B: {}The complement of the universal set U is the set of elements not in U, which in this case is an empty set because all elements are already in the universal set.Options A, C, and D are incorrect as they do not correctly identify the concept of the complement of the universal set.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In a group of 40 students, 25 like English, 20 like Math, and 10 like both. How many like only English?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Sets",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "15",
+          "isCorrect": true,
+          "explanation": "To find the number of students who like only English, subtract the number of students who like both English and Math from the total number of students who like English. Therefore, 25 - 10 = 15 students like only English."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "isCorrect": false,
+          "explanation": "This option does not correctly determine the number of students who like only English. The correct calculation is 25 - 10 = 15 students like only English."
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "isCorrect": false,
+          "explanation": "This option does not correctly determine the number of students who like only English. The correct calculation is 25 - 10 = 15 students like only English."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "This option does not correctly determine the number of students who like only English. The correct calculation is 25 - 10 = 15 students like only English."
+        }
+      ],
+      "explanation": "To find the number of students who like only English, we subtract the number of students who like both English and Math (10) from the total number of students who like English (25). Therefore, 25 - 10 = 15 students like only English. The other options provide incorrect calculations and do not accurately determine the number of students who like only English.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If A ∪ B has 40 elements, A has 30 and B has 25, what is A ∩ B?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Sets",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "isCorrect": false,
+          "explanation": "Although the calculation may initially indicate this as the answer, further evaluation reveals it does not satisfy the given equation."
+        },
+        {
+          "letter": "B",
+          "text": "15",
+          "isCorrect": true,
+          "explanation": "By correctly applying the formula and solving the equation, it matches the given values and is the correct answer."
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "isCorrect": false,
+          "explanation": "This option does not align with the equation provided and would result in an incorrect sum."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "Choosing this option would not satisfy the equation, leading to an incorrect total."
+        }
+      ],
+      "explanation": "The correct answer is 15. To find n(A ∩ B), apply the inclusion-exclusion principle: n(A ∪ B) = n(A) + n(B) - n(A ∩ B). Using the given values, 40 = 30 + 25 - n(A ∩ B). Simplifying this equation, n(A ∩ B) = 55 - 40 = 15. Option B, with n(A ∩ B) = 15, correctly satisfies the equation. The other options do not align with the inclusion-exclusion principle equation, making them incorrect choices.",
+      "explanationImage": null,
+      "hints": [
+        "A ∪ B",
+        "elements"
+      ]
+    }
+  ]
+}

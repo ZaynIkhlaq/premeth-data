@@ -1,0 +1,806 @@
+{
+  "questions": [
+    {
+      "text": "A signal of -80 mV is applied to the inverting terminal of the amplifier while the non-inverting terminal is grounded. The gain of the amplifier is 25 using Rin(R1) equal to 3 ohms and Rf(R2) equal to 75 Ohms. What would be the value of the output signal?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "200 mV",
+          "isCorrect": false,
+          "explanation": "This option suggests that the output signal would be 200mV.However, based on the given gain of the amplifier (25) and the input signal (-80mV), the output signal will be greater than 200mV.Therefore, option A) 200mV is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "-3 V",
+          "isCorrect": false,
+          "explanation": "This option suggests that the output signal would be -3V.However, based on the given gain of the amplifier (25) and the input signal (-80mV), the output signal will be a positive voltage.Therefore, option B) -3V is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "2 V",
+          "isCorrect": true,
+          "explanation": "Since Gain= 25Vout= Vin Gain=-80 mV × 25 = -2000 mv = -2V=2Vsince a positive-going voltage at the inverting terminal gives a negative-going output voltage, hence the answer is positive 2V."
+        },
+        {
+          "letter": "D",
+          "text": "3 V",
+          "isCorrect": false,
+          "explanation": "This option suggests that the output signal would be 3V.However, based on the given gain of the amplifier (25) and the input signal (-80mV), the output signal will be less than 3V.Therefore, option D) 3V is incorrect."
+        }
+      ],
+      "explanation": "Since Gain = 25Vout = Vin * Gain = -80mv * 25 = -2000 mv = -2V = 2V**** since a positive-going voltage at the inverting terminal gives a negative-going output voltage, hence the answer is positive 2V.",
+      "explanationImage": null,
+      "hints": [
+        "80 mV",
+        "inverting terminal",
+        "non-inverting terminal",
+        "grounded",
+        "gain",
+        "25",
+        "output signal"
+      ]
+    },
+    {
+      "text": "If frequency of incident light is increased beyond threshold frequency, keeping light intensity constant, then:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stopping potential increases",
+          "isCorrect": true,
+          "explanation": "If the frequency of incident light is increased beyond the threshold frequency, while keeping the light intensity constant, the photoelectric effect will still occur, but the kinetic energy of the emitted electrons will increase.The photoelectric effect is the phenomenon where electrons are emitted from a material when it is exposed to light of sufficient energy. Each material has a specific threshold frequency, also known as the cutoff frequency, below which no electrons are emitted regardless of the intensity of the light. When the frequency of the incident light exceeds the threshold frequency, electrons are ejected from the material. The energy of the emitted electrons depends on the frequency of the incident light. According to the equation E = hf, where E is the energy of a photon, h is Planck's constant, and f is the frequency of the light, the energy of the emitted electrons is directly proportional to the frequency of the incident light.Therefore, if the frequency of the incident light is increased beyond the threshold frequency, the energy of the photons increases, leading to higher kinetic energy of the emitted electrons. The number of emitted electrons remains proportional to the intensity of the incident light, as long as the intensity is above the threshold intensity.In summary, increasing the frequency of incident light beyond the threshold frequency, while keeping the light intensity constant, results in higher kinetic energy for the emitted electrons in the photoelectric effect."
+        },
+        {
+          "letter": "B",
+          "text": "Stopping potential decreases",
+          "isCorrect": false,
+          "explanation": "These are incorrect as the stopping potential increases only."
+        },
+        {
+          "letter": "C",
+          "text": "Stopping potential remains constant",
+          "isCorrect": false,
+          "explanation": "These are incorrect as the stopping potential increases only."
+        },
+        {
+          "letter": "D",
+          "text": "Stopping potential becomes infinite",
+          "isCorrect": false,
+          "explanation": "These are incorrect as the stopping potential increases only."
+        }
+      ],
+      "explanation": "The stopping potential is the voltage required to completely stop photoelectrons. The energy of the electrons are directly related with the magnitude of the stopping potential. The greater the frequency of the incident photon, the higher the energy of the electron and the higher will be the stopping potential.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The energy of an X-ray quantum of wavelength 1.0 x 10-10 m is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": 2012,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.99 x 10-15 J",
+          "isCorrect": true,
+          "explanation": "This is the correct answer calculated using the formula E = hf."
+        },
+        {
+          "letter": "B",
+          "text": "3 x 108 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it does not correspond to the calculated energy value."
+        },
+        {
+          "letter": "C",
+          "text": "6.6 x 10-34 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it does not correspond to the calculated energy value."
+        },
+        {
+          "letter": "D",
+          "text": "19.89 x 10-26 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it does not correspond to the calculated energy value."
+        },
+        {
+          "letter": "E",
+          "text": "1.99 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it does not correspond to the calculated energy value."
+        }
+      ],
+      "explanation": "->v=fλ3 x 108=f x (1.0 X 10-10)f=3 x 108/1.0 X 10-10=3 x 1018->E=hfE=(6.62607004 × 10-34 )*(3 x 1018)=1.99 x 10-15",
+      "explanationImage": null,
+      "hints": [
+        "wavelength",
+        "energy formula",
+        "Planck's constant"
+      ]
+    },
+    {
+      "text": "Gamma-ray (𝝲) can produce ionization in which of the following way/s?I. It may lose all its energy in a single encounter with the electron of an atom (Photoelectric effect).II. It may lose only a part of its energy in an encounter (Compton effect).III. Very few very high energy 𝝲 ray photons may impinge directly on heavy nuclei, be stopped and annihilated giving rise to electron-positron pairs (The materialization of energy).",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": 2013,
+      "options": [
+        {
+          "letter": "A",
+          "text": "I only",
+          "isCorrect": false,
+          "explanation": "Gamma ray photons can interact with matter in all of the ways described above. All three statements mentioned are correct."
+        },
+        {
+          "letter": "B",
+          "text": "II only",
+          "isCorrect": false,
+          "explanation": "Gamma ray photons can interact with matter in all of the ways described above. All three statements mentioned are correct."
+        },
+        {
+          "letter": "C",
+          "text": "III only",
+          "isCorrect": false,
+          "explanation": "Gamma ray photons can interact with matter in all of the ways described above. All three statements mentioned are correct."
+        },
+        {
+          "letter": "D",
+          "text": "I and III only",
+          "isCorrect": false,
+          "explanation": "Gamma ray photons can interact with matter in all of the ways described above. All three statements mentioned are correct."
+        },
+        {
+          "letter": "E",
+          "text": "I, II and III",
+          "isCorrect": true,
+          "explanation": "Gamma rays (𝝲) can produce ionization in the following ways:I. Photoelectric Effect: In this process, a gamma-ray photon interacts with an electron bound to an atom. The gamma-ray transfers all its energy to the electron, causing the electron to be ejected from the atom. This results in the ionization of the atom. The ejected electron is called a photoelectron.II. Compton Effect (Compton Scattering): In this process, a gamma-ray photon collides with an electron in an atom. The gamma-ray transfers only a part of its energy to the electron, changing the direction and energy of both the gamma-ray and the electron. The gamma ray continues its path with reduced energy, and the electron is ejected from the atom, causing ionization.III. Materialization of Energy (Pair Production): For very high-energy gamma-ray photons, when they approach the vicinity of a heavy nucleus, they can spontaneously convert their energy into an electron and a positron (an antimatter counterpart of an electron). The gamma-ray photon ceases to exist, and the newly formed electron-positron pair carries the energy of the original gamma-ray. This process is known as pair production and results in the ionization of the material surrounding the heavy nucleus.So, all three processes (Photoelectric effect, Compton effect, and Pair Production) can lead to ionization by gamma rays. The likelihood of each process occurring depends on the energy of the gamma-ray and the properties of the interacting material."
+        }
+      ],
+      "explanation": "Gamma ray photons can interact with matter in all of the ways described above. All three statements mentioned above are correct.Gamma rays (𝝲) can produce ionization in the following ways:I. Photoelectric Effect: In this process, a gamma-ray photon interacts with an electron bound to an atom. The gamma-ray transfers all its energy to the electron, causing the electron to be ejected from the atom. This results in the ionization of the atom. The ejected electron is called a photoelectron.II. Compton Effect (Compton Scattering): In this process, a gamma-ray photon collides with an electron in an atom. The gamma-ray transfers only a part of its energy to the electron, changing the direction and energy of both the gamma-ray and the electron. The gamma ray continues its path with reduced energy, and the electron is ejected from the atom, causing ionization.III. Materialization of Energy (Pair Production): For very high-energy gamma-ray photons, when they approach the vicinity of a heavy nucleus, they can spontaneously convert their energy into an electron and a positron (an antimatter counterpart of an electron). The gamma-ray photon ceases to exist, and the newly formed electron-positron pair carries the energy of the original gamma-ray. This process is known as pair production and results in the ionization of the material surrounding the heavy nucleus.So, all three processes (Photoelectric effect, Compton effect, and Pair Production) can lead to ionization by gamma rays. The likelihood of each process occurring depends on the energy of the gamma-ray and the properties of the interacting material.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Candela is the luminous intensity, in the perpendicular direction of a surface _ square meter of a black body at the temperature of freezing platinum under a pressure of 101325 newtons per square meter.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": 2013,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/300000",
+          "isCorrect": false,
+          "explanation": "The candela is the luminous intensity, in the perpendicular direction, of a surface of 1/600000 square meters of a blackbody at the temperature of freezing platinum under a pressure of 101325 newtons per square meter."
+        },
+        {
+          "letter": "B",
+          "text": "1/600000",
+          "isCorrect": true,
+          "explanation": "The candela (symbol: cd) is the SI base unit of luminous intensity; that is, power emitted by a light source in a particular direction, weighted by the luminosity function. A common candle emits light with a luminous intensity of roughly 1 cd.The definition is this SI unit is given as \"The candela is the luminous intensity, in the perpendicular direction, of a surface of 1/600000 square meter of a blackbody at the temperature of freezing platinum under a pressure of 101325 newtons per square meter.\"Hence all options other than B are incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "1/900000",
+          "isCorrect": false,
+          "explanation": "The candela is the luminous intensity, in the perpendicular direction, of a surface of 1/600000 square meters of a blackbody at the temperature of freezing platinum under a pressure of 101325 newtons per square meter."
+        },
+        {
+          "letter": "D",
+          "text": "1/1200000",
+          "isCorrect": false,
+          "explanation": "The candela is the luminous intensity, in the perpendicular direction, of a surface of 1/600000 square meters of a blackbody at the temperature of freezing platinum under a pressure of 101325 newtons per square meter."
+        },
+        {
+          "letter": "E",
+          "text": "1/1500000",
+          "isCorrect": false,
+          "explanation": "The candela is the luminous intensity, in the perpendicular direction, of a surface of 1/600000 square meters of a blackbody at the temperature of freezing platinum under a pressure of 101325 newtons per square meter."
+        }
+      ],
+      "explanation": "The candela is the luminous intensity, in the perpendicular direction, of a surface of 1/600000 square meters of a blackbody at the temperature of freezing platinum under a pressure of 101325 newtons per square meter.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The series limit for the Balmer series of hydrogen spectrum occurs at 3664 A°. Calculate Ionization energy of hydrogen atom.",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Dawn of Modern Physics",
+      "year": 2013,
+      "options": [
+        {
+          "letter": "A",
+          "text": "21.7 x 10-19 J",
+          "isCorrect": false,
+          "explanation": "The Balmer emission lines correspond to transitions down to the level for which n=2. Given series is the Balmer series, so n1=2 and n2=∞ λ=3664A° Change in ionisation energy= Einfinity−E2= −E2 -E2 =-hc/λ -E2=6.626×10-34 ×3×10⁸/(3664x10-10) -E2 =−5.42×10−19 J"
+        },
+        {
+          "letter": "B",
+          "text": "6.626 x 10-34 J",
+          "isCorrect": false,
+          "explanation": "The Balmer emission lines correspond to transitions down to the level for which n=2. Given series is the Balmer series, so n1=2 and n2=∞ λ=3664A° Change in ionisation energy= Einfinity−E2= −E2 -E2 =-hc/λ -E2=6.626×10-34 ×3×10⁸/(3664x10-10) -E2 =−5.42×10−19 J"
+        },
+        {
+          "letter": "C",
+          "text": "5.425 x 10-19 J",
+          "isCorrect": true,
+          "explanation": "The Balmer emission lines correspond to transitions down to the level for which n=2. Given series is the Balmer series, so n1=2 and n2=∞ λ=3664A° Change in ionisation energy= Einfinity−E2= −E2 -E2 =-hc/λ -E2=6.626×10-34 ×3×10⁸/(3664x10-10) -E2 =−5.42×10−19 J so option C is the only correct option."
+        },
+        {
+          "letter": "D",
+          "text": "3664 x 10-10 J",
+          "isCorrect": false,
+          "explanation": "The Balmer emission lines correspond to transitions down to the level for which n=2. Given series is the Balmer series, so n1=2 and n2=∞ λ=3664A° Change in ionisation energy= Einfinity−E2= −E2 -E2 =-hc/λ -E2=6.626×10-34 ×3×10⁸/(3664x10-10) -E2 =−5.42×10−19 J"
+        },
+        {
+          "letter": "E",
+          "text": "3 x 108 J",
+          "isCorrect": false,
+          "explanation": "The Balmer emission lines correspond to transitions down to the level for which n=2. Given series is the Balmer series, so n1=2 and n2=∞ λ=3664A° Change in ionisation energy= Einfinity−E2= −E2 -E2 =-hc/λ -E2=6.626×10-34 ×3×10⁸/(3664x10-10) -E2 =−5.42×10−19 J"
+        }
+      ],
+      "explanation": "The Balmer emission lines correspond to transitions down to the level for which n=2. Given series is the Balmer series, so n1=2 and n2=∞ λ=3664A° Change in ionisation energy= Einfinity−E2= −E2 -E2 =-hc/λ -E2=6.626×10-34 ×3×10⁸/(3664x10-10) -E2 =−5.42×10−19 J so option C is the only correct option.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The phenomena in which certain metals emit electrons when exposed to high-frequency light is known as?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": 2014,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Photoelectric Effect",
+          "isCorrect": true,
+          "explanation": "The photoelectric effect is the emission of electrons when electromagnetic radiation, such as light, hits a material.The Compton effect is the decrease in energy (increase in wavelength) of an X-ray or gamma-ray photon when it interacts with matterThe principle of relativity states that there is no physical way to differentiate between a body moving at a constant speed and an immobile bodyAccording to Coulomb's law, the force of attraction or repulsion between two charged bodies is directly proportional to the product of their charges and inversely proportional to the square of the distance between them.Hence the correct option is PHOTOELECTRIC EFFECT."
+        },
+        {
+          "letter": "B",
+          "text": "Compton’s Effect",
+          "isCorrect": false,
+          "explanation": "Compton's effect, also known as Compton scattering, is a phenomenon in which X-ray or gamma-ray photons undergo a scattering interaction with electrons. This effect demonstrates that photons can behave as particles and exhibit characteristics of both particles and waves. It is not directly related to the emission of electrons by metals due to high-frequency light."
+        },
+        {
+          "letter": "C",
+          "text": "Henry's Effect",
+          "isCorrect": false,
+          "explanation": "There is no widely recognized scientific phenomenon known as \"Henry's Effect.\" It does not pertain to the emission of electrons by metals due to high-frequency light."
+        },
+        {
+          "letter": "D",
+          "text": "Principle of Relativity",
+          "isCorrect": false,
+          "explanation": "The principle of relativity is a fundamental concept in physics introduced by Albert Einstein. It states that the laws of physics are the same in all inertial reference frames. It does not directly relate to the emission of electrons by metals due to high-frequency light."
+        },
+        {
+          "letter": "E",
+          "text": "Coulomb's Law",
+          "isCorrect": false,
+          "explanation": "Coulomb's Law describes the electrostatic interaction between charged particles. It states that the force between two charged particles is directly proportional to the product of their charges and inversely proportional to the square of the distance between them. While Coulomb's Law is an important principle in electromagnetism, it does not explain the emission of electrons by metals due to high-frequency light."
+        }
+      ],
+      "explanation": "When a metal surface is exposed to a monochromatic electromagnetic wave of sufficiently short wavelength (or equivalently, above a threshold frequency), the incident radiation is absorbed and the exposed surface emits electrons. This phenomenon is known as the photoelectric effect.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What will be the energy in Joules, when an electron acquires a speed of 10 m/s?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": 2016,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.61 x 10-19 J",
+          "isCorrect": false,
+          "explanation": "This value is calculated incorrectly by using an incorrect mass of the electron or speed in the formula for kinetic energy."
+        },
+        {
+          "letter": "B",
+          "text": "4.55 x 10-29 J",
+          "isCorrect": true,
+          "explanation": "The correct calculation using the formula KE = 1/2 mv2 with m = 9.11 x 10-31 kg and v = 10 m/s results in this energy."
+        },
+        {
+          "letter": "C",
+          "text": "5.13 x 10-19 J",
+          "isCorrect": false,
+          "explanation": "This value results from an incorrect application of the kinetic energy formula, possibly due to errors in multiplication or unit conversion."
+        },
+        {
+          "letter": "D",
+          "text": "6.13 x 10-19 J",
+          "isCorrect": false,
+          "explanation": "This value does not correspond to the correct formula application for kinetic energy of an electron at the given speed."
+        },
+        {
+          "letter": "E",
+          "text": "8.71 x 10-19 J",
+          "isCorrect": false,
+          "explanation": "This option reflects a significant overestimation of energy, likely due to calculation errors in either mass or speed."
+        }
+      ],
+      "explanation": "KE = 1/2mv2KE = ½(9.11 x 10-31)(10)2KE = 4.55 x 10-29 J",
+      "explanationImage": null,
+      "hints": [
+        "energy",
+        "electron",
+        "speed"
+      ]
+    },
+    {
+      "text": "Minimum frequency below which no electrons are emitted from the metal surface is called _ frequency.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": 2016,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Minimum",
+          "isCorrect": false,
+          "explanation": "Option A is incorrect because 'minimum frequency' is a vague term and does not specifically refer to the frequency needed to cause photoelectric emission."
+        },
+        {
+          "letter": "B",
+          "text": "Angular",
+          "isCorrect": false,
+          "explanation": "Option B is incorrect because 'angular frequency' relates to rotational systems and is not used in the context of photoelectric emission in metals."
+        },
+        {
+          "letter": "C",
+          "text": "Maximum",
+          "isCorrect": false,
+          "explanation": "Option C is incorrect because 'maximum frequency' would imply an upper limit, which is not relevant to the emission of electrons from a metal surface."
+        },
+        {
+          "letter": "D",
+          "text": "Threshold",
+          "isCorrect": true,
+          "explanation": "Option D is correct because 'threshold frequency' refers to the minimum frequency of light required to eject electrons from a metal surface, a key concept in the photoelectric effect."
+        }
+      ],
+      "explanation": "The correct answer is the 'threshold frequency', which is the minimum frequency of electromagnetic radiation necessary to dislodge electrons from the surface of a metal. This concept is fundamental to the photoelectric effect, where no electrons are emitted if the incident light's frequency is below this threshold, regardless of its intensity. The other options, 'minimum', 'angular', and 'maximum', either lack specificity or pertain to different contexts within physics.",
+      "explanationImage": null,
+      "hints": [
+        "minimum",
+        "frequency",
+        "emitted"
+      ]
+    },
+    {
+      "text": "Electromagnetic wave theory was proposed by:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Huygen",
+          "isCorrect": false,
+          "explanation": "Huygens is known for his wave theory of light, but it did not involve electromagnetic waves."
+        },
+        {
+          "letter": "B",
+          "text": "Fraunhofer",
+          "isCorrect": false,
+          "explanation": "Fraunhofer is recognized for his work with the spectrum of light and dark lines, called Fraunhofer lines, not for electromagnetic wave theory."
+        },
+        {
+          "letter": "C",
+          "text": "Fresnel",
+          "isCorrect": false,
+          "explanation": "Fresnel contributed to wave optics with his understanding of light as a transverse wave, but not electromagnetic wave theory."
+        },
+        {
+          "letter": "D",
+          "text": "Coulomb",
+          "isCorrect": false,
+          "explanation": "Coulomb is famous for his law regarding electrostatic force between charges, not electromagnetic wave theory."
+        },
+        {
+          "letter": "E",
+          "text": "Maxwell",
+          "isCorrect": true,
+          "explanation": "James Clerk Maxwell proposed that light is an electromagnetic wave, unifying electricity, magnetism, and optics."
+        }
+      ],
+      "explanation": "James Clerk Maxwell is credited with formulating the electromagnetic wave theory in 1864. He proposed that light is a form of electromagnetic radiation, which was a groundbreaking unification of previously separate fields: electricity, magnetism, and optics. His set of equations, known as Maxwell's equations, describe how electric and magnetic fields interact and propagate as waves through space.Other options are incorrect as they contributed to different aspects of physics: Huygens with wave theory of light, Fraunhofer with spectral lines in light, Fresnel with wave optics, and Coulomb with electrostatics.",
+      "explanationImage": null,
+      "hints": [
+        "proposed",
+        "electromagnetic",
+        "theory"
+      ]
+    },
+    {
+      "text": "Physics is an experimental science which depends heavily on:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": 2016,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The objective observations",
+          "isCorrect": false,
+          "explanation": "Objective observations are essential in physics as they provide the basis for forming hypotheses and theories. However, without quantitative measurements, these observations alone are not sufficient to fully comprehend physical phenomena."
+        },
+        {
+          "letter": "B",
+          "text": "Measurement of natural phenomena",
+          "isCorrect": false,
+          "explanation": "Measurement is a crucial component of physics, allowing scientists to quantify observations, test hypotheses, and validate theoretical models. However, it must be combined with objective observations to be fully effective."
+        },
+        {
+          "letter": "C",
+          "text": "Study of chemical solutions only",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it pertains more to chemistry than to physics. Physics covers a wide array of topics beyond chemical solutions, such as mechanics, electromagnetism, and quantum physics."
+        },
+        {
+          "letter": "D",
+          "text": "Both A and B",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. Physics relies on both objective observations and the measurement of natural phenomena. Together, they form the critical foundation for developing theories and understanding the physical universe."
+        }
+      ],
+      "explanation": "Physics depends on objective observations and measurement of natural phenomena.Not on studying chemical solutions,which is actually chemistry.",
+      "explanationImage": null,
+      "hints": [
+        "experimental",
+        "science",
+        "depends"
+      ]
+    },
+    {
+      "text": "According to Einstein, bodies and light rays follow a:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rectilinear path",
+          "isCorrect": false,
+          "explanation": "This refers to motion in a straight line. While bodies and light rays can indeed follow rectilinear paths, this description is somewhat limited in the context of Einstein's theories of relativity, which deal with the curvature of spacetime."
+        },
+        {
+          "letter": "B",
+          "text": "Circular path",
+          "isCorrect": false,
+          "explanation": "Bodies and light rays can follow circular paths under certain conditions, such as in circular motion or orbiting around massive objects like stars or black holes. However, this is not a fundamental principle proposed by Einstein in his theories of relativity."
+        },
+        {
+          "letter": "C",
+          "text": "Geodesics",
+          "isCorrect": true,
+          "explanation": "This is the correct option. According to Einstein's general theory of relativity, bodies and light rays follow paths called geodesics in curved spacetime. Geodesics are the equivalent of straight lines in the curved spacetime geometry predicted by general relativity. Massive objects curve spacetime, and bodies, including light rays, follow the paths dictated by this curvature."
+        },
+        {
+          "letter": "D",
+          "text": "Parabolic",
+          "isCorrect": false,
+          "explanation": "While bodies and light rays can indeed follow parabolic paths under certain conditions, such as in projectile motion under gravity, this description does not capture the fundamental principle proposed by Einstein regarding the curvature of spacetime."
+        }
+      ],
+      "explanation": "Geodesics: This is the correct option. According to Einstein's general theory of relativity, bodies and light rays follow paths called geodesics in curved spacetime. Geodesics are the equivalent of straight lines in the curved spacetime geometry predicted by general relativity. Massive objects curve spacetime, and bodies, including light rays, follow the paths dictated by this curvature.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "As the temperature of the black body is raised, the black body radiations become richer in:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Intermediate wavelengths",
+          "isCorrect": false,
+          "explanation": "According to Wien's Law, as the temperature of the blackbody increases, the wavelength of emitted radiations decreases.Hence the answer is CThe intensity (or flux) at all wavelengths increases as the temperature of the blackbody increases. The total energy being radiated (the area under the curve) increases rapidly as the temperature increases (Stefan–Boltzmann Law)."
+        },
+        {
+          "letter": "B",
+          "text": "Longer wavelengths",
+          "isCorrect": false,
+          "explanation": "According to Wien's Law, as the temperature of the blackbody increases, the wavelength of emitted radiations decreases.Hence the answer is CThe intensity (or flux) at all wavelengths increases as the temperature of the blackbody increases. The total energy being radiated (the area under the curve) increases rapidly as the temperature increases (Stefan–Boltzmann Law)."
+        },
+        {
+          "letter": "C",
+          "text": "Shorter wavelengths",
+          "isCorrect": true,
+          "explanation": "As the temperature of a black body is raised, the black body radiation becomes richer in shorter wavelengths. This phenomenon is described by Wien's displacement law, which states that the wavelength at which the maximum intensity of radiation occurs is inversely proportional to the temperature of the black body. As the temperature increases, the maximum intensity shifts towards shorter wavelengths. This means that at higher temperatures, there is a greater abundance of shorter wavelengths in the black body radiation."
+        },
+        {
+          "letter": "D",
+          "text": "Low frequencies",
+          "isCorrect": false,
+          "explanation": "According to Wien's Law, as the temperature of the blackbody increases, the wavelength of emitted radiations decreases.Hence the answer is CThe intensity (or flux) at all wavelengths increases as the temperature of the blackbody increases. The total energy being radiated (the area under the curve) increases rapidly as the temperature increases (Stefan–Boltzmann Law)."
+        }
+      ],
+      "explanation": "According to Wien's Law, as the temperature of the blackbody increases, the wavelength of emitted radiations decreases.Hence the answer is CThe intensity (or flux) at all wavelengths increases as the temperature of the blackbody increases. The total energy being radiated (the area under the curve) increases rapidly as the temperature increases (Stefan–Boltzmann Law).",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "When an observer moves with velocity of light, relative to a timing device at rest, he would notice:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Absolute time",
+          "isCorrect": false,
+          "explanation": "According to special relativity, we observe that, with regards to the timing device at rest, the observer, in motion, would experience a different flow of time which cannot be measured until and unless we have the timing device, at the same speed as the observer. The differences in motion unable time to be measured accurately hence the measured time would be referred to as 'Improper Time'.'Absolute time', on the other hand, exists independently of any perceiver and progresses at a consistent pace throughout the universe. It can only be understood, mathematically."
+        },
+        {
+          "letter": "B",
+          "text": "Improper time",
+          "isCorrect": true,
+          "explanation": "In special relativity, time dilation refers to the phenomenon where the passage of time is measured differently for two observers moving relative to each other. According to the theory, an observer in motion relative to a clock that is at rest will measure the clock as ticking slower than if the observer were at rest relative to the clock.The observer in motion experiences time at a slower rate than the observer at rest. This effect becomes significant when the relative velocity of the observer and the clock approaches the speed of light, at which point time dilation becomes infinite. This means that an observer moving at the speed of light would perceive no passage of time at all.The proper time is the time interval measured by a clock that is at rest relative to the events being measured. It is the time interval measured by an observer who is in the same reference frame as the clock. The improper time is the time interval measured by a clock that is moving relative to the events being measured. It is the time interval measured by an observer who is in a different reference frame than the clock.In the given question, the observer moving with the velocity of light would measure the time interval differently than the observer at rest. Therefore, the observer moving with the velocity of light would measure the improper time."
+        },
+        {
+          "letter": "C",
+          "text": "Infinite time",
+          "isCorrect": false,
+          "explanation": "According to special relativity, we observe that, with regards to the timing device at rest, the observer, in motion, would experience a different flow of time which cannot be measured until and unless we have the timing device, at the same speed as the observer. The differences in motion unable time to be measured accurately hence the measured time would be referred to as 'Improper Time'.'Infinite time' has no limits or boundaries in time, space, extent, or magnitude. However, since we use light as the reference for time in this case, it doesn't necessarily means that time stops, when a person moves at the speed of light. Time would still be passing, with respect to a different, much faster reference."
+        },
+        {
+          "letter": "D",
+          "text": "Proper time",
+          "isCorrect": false,
+          "explanation": "According to special relativity, we observe that, with regards to the timing device at rest, the observer, in motion, would experience a different flow of time which cannot be measured until and unless we have the timing device, at the same speed as the observer. The differences in motion unable time to be measured accurately hence the measured time would be referred to as 'Improper Time'. 'Proper time' is the time, measured by a clock, that has the same motion as the observer, however, this is not the case here since the measuring device is at rest whereas the object/subject moves with the speed of light."
+        }
+      ],
+      "explanation": "According to special relativity, we observe that, with regards to the timing device at rest, the observer, in motion, would experience a different flow of time which cannot be measured until and unless we have the timing device, at the same speed as the observer. The differences in motion unable time to be measured accurately hence the measured time would be referred to as 'Improper Time'.'Absolute time', on the other hand, exists independently of any perceiver and progresses at a consistent pace throughout the universe. It can only be understood, mathematically.'Infinite time' has no limits or boundaries in time, space, extent, or magnitude. However, since we use light as the reference for time in this case, it doesn't necessarily means that time stops, when a person moves at the speed of light. Time would still be passing, with respect to a different, much faster reference.Lastly, 'Proper time' is the time, measured by a clock, that has the same motion as the observer, however, this is not the case here since the measuring device is at rest whereas the object/subject moves with the speed of light.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In the Compton Scattering experiment the X-ray wavelength change Δλ is _. Here h is Planck constant, m rest mass of electron and θ is angle after scattering.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Δλ = h/m0c (1 + cosθ)",
+          "isCorrect": false,
+          "explanation": "This formula incorrectly adds the cosine term, which does not match the Compton scattering equation."
+        },
+        {
+          "letter": "B",
+          "text": "Δλ = h/m0c (1 + cos2θ)",
+          "isCorrect": false,
+          "explanation": "This formula incorrectly squares the cosine term, which is not part of the correct Compton scattering equation."
+        },
+        {
+          "letter": "C",
+          "text": "Δλ = h/m0c (1 - cosθ)",
+          "isCorrect": true,
+          "explanation": "This is the correct formula for Compton scattering, where the change in wavelength is related to the cosine of the scattering angle."
+        },
+        {
+          "letter": "D",
+          "text": "Δλ = h/m0c2 (1 + cosθ)",
+          "isCorrect": false,
+          "explanation": "This formula incorrectly uses \\( c^2 \\) in the denominator, which is not part of the correct Compton scattering equation."
+        }
+      ],
+      "explanation": "The correct answer is Option C: Δλ = h/m0c (1 - cosθ). This formula represents the Compton scattering equation, where Δλ is the change in wavelength of the X-ray, h is Planck's constant, m is the rest mass of the electron, c is the speed of light, and θ is the scattering angle.Option A is incorrect because it incorrectly adds the cosine term instead of subtracting it. Option B is incorrect because it squares the cosine term, which is not part of the Compton formula. Option D is incorrect as it erroneously includes \\( c^2 \\) in the denominator, which does not belong in the equation.",
+      "explanationImage": null,
+      "hints": [
+        "Compton Scattering",
+        "wavelength change",
+        "angle after scattering"
+      ]
+    },
+    {
+      "text": "In order to produce pair production the minimum energy of photon required is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.02 KeV",
+          "isCorrect": false,
+          "explanation": "This energy level is too low for pair production. The energy must be sufficient to create an electron-positron pair, which is significantly higher than 1.02 KeV."
+        },
+        {
+          "letter": "B",
+          "text": "1.02 MeV",
+          "isCorrect": true,
+          "explanation": "This is the correct energy threshold for pair production. It corresponds to twice the rest mass energy of an electron, which is necessary to create an electron and a positron."
+        },
+        {
+          "letter": "C",
+          "text": "10.2 KeV",
+          "isCorrect": false,
+          "explanation": "Similar to 1.02 KeV, this energy is also insufficient. Pair production requires energy on the order of MeV, not KeV."
+        },
+        {
+          "letter": "D",
+          "text": "1.00 MeV",
+          "isCorrect": false,
+          "explanation": "Although close, this energy is slightly below the required threshold of 1.02 MeV needed for pair production."
+        }
+      ],
+      "explanation": "Pair production is a process where a photon is converted into an electron-positron pair. For this to occur, the photon must have a minimum energy equal to twice the rest mass energy of an electron, which is approximately 1.02 MeV. This is because the rest mass energy of an electron (or positron) is about 0.511 MeV, and two such particles are created. Therefore, 1.02 MeV is the minimum necessary energy for pair production. The options 1.02 KeV and 10.2 KeV are far too low, as they are measured in KeV (kilo-electron volts) rather than MeV (mega-electron volts). Option 1.00 MeV is close but does not meet the required threshold.",
+      "explanationImage": null,
+      "hints": [
+        "minimum energy",
+        "photon",
+        "pair production"
+      ]
+    },
+    {
+      "text": "The Bohr’s postulate for stationary orbits of Hydrogen atoms _. Here m is the mass of the electron, v velocity, r orbital, and h is Planck's constant.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "mr=nhv/2ℼ",
+          "isCorrect": false,
+          "explanation": "This formula incorrectly includes velocity v in the numerator and is not consistent with Bohr's postulate."
+        },
+        {
+          "letter": "B",
+          "text": "mvr=nh/2ℼ",
+          "isCorrect": true,
+          "explanation": "This is the correct formula based on Bohr's postulate that the electron's angular momentum is quantized as an integral multiple of h/2π."
+        },
+        {
+          "letter": "C",
+          "text": "mvr=nh/2ℼr",
+          "isCorrect": false,
+          "explanation": "This formula incorrectly divides by r, which is not present in the standard quantization condition."
+        },
+        {
+          "letter": "D",
+          "text": "mv=nhr/2ℼ",
+          "isCorrect": false,
+          "explanation": "This formula incorrectly multiplies by r and rearranges terms in a non-standard way."
+        }
+      ],
+      "explanation": "Bohr's postulate regarding stationary orbits states that the angular momentum (L) of an electron is quantized and can be expressed as L = mvr = nh/2π, where n is a positive integer. This means that the electron can only occupy certain orbits where its angular momentum is an integral multiple of h/2π.The correct option, Option B, accurately represents this quantization with mvr = nh/2π.Option A, C, and D incorrectly represent the formula with additional terms or incorrect arrangements, not aligning with the quantization condition as described by Bohr.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "An electron moving with velocity v has momentum 3 x 10 -26 Kg.m/s. The de Broglie wavelength associated with it is _. Value of h = 6.63 x 10-34 is.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "24.1 nm",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The calculation mistake is due to a miscalculation in the division step of the de Broglie formula."
+        },
+        {
+          "letter": "B",
+          "text": "22.14 m",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The units are wrong. The de Broglie wavelength for an electron with given momentum should be in nanometers."
+        },
+        {
+          "letter": "C",
+          "text": "22.1 nm",
+          "isCorrect": true,
+          "explanation": "Correct. By applying the de Broglie wavelength formula, λ = h/p, and inserting the given values, you get λ = 6.63 × 10-34 / 3 × 10-26 = 22.1 nm."
+        },
+        {
+          "letter": "D",
+          "text": "22.1 mm",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The unit is incorrect. The correct unit should be nanometers for the given scale of momentum."
+        }
+      ],
+      "explanation": "The de Broglie wavelength formula is λ = h/p, where h is Planck's constant and p is the momentum of the electron. Given the momentum p = 3 × 10-26 Kg.m/s and h = 6.63 × 10-34 J.s, substitute these values into the formula to find λ:λ = 6.63 × 10-34 / 3 × 10-26 = 22.1 nm.Option A is incorrect due to a calculation error. Option B is incorrect because it suggests a much larger and incorrect unit (meters). Option D is incorrect due to the wrong unit (millimeters). Thus, Option C is the correct answer with the correct units and calculation.",
+      "explanationImage": null,
+      "hints": [
+        "electron",
+        "momentum",
+        "de Broglie wavelength"
+      ]
+    },
+    {
+      "text": "The charge of a photon is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": true,
+          "explanation": "This is a fact. A photon is massless, has no electric charge, and is a stable particle."
+        },
+        {
+          "letter": "B",
+          "text": "Positive",
+          "isCorrect": false,
+          "explanation": "This is a fact. A photon is massless, has no electric charge, and is a stable particle."
+        },
+        {
+          "letter": "C",
+          "text": "Negative",
+          "isCorrect": false,
+          "explanation": "This is a fact. A photon is massless, has no electric charge, and is a stable particle."
+        },
+        {
+          "letter": "D",
+          "text": "Positive/negative",
+          "isCorrect": false,
+          "explanation": "This is a fact. A photon is massless, has no electric charge, and is a stable particle."
+        }
+      ],
+      "explanation": "This is a fact. A photon is massless, has no electric charge, and is a stable particle.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The de Broglie wavelength of an electron travelling with a speed of 1.0 x 107m/s is equal to, (h=6.6 x 10-34 Js and me= 9.1 x 10-31 kg)",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "7.3 x 1011 m",
+          "isCorrect": false,
+          "explanation": "De broglie wavelength of any particle: λ = h/p and p = mv ∴λ = h/mvλ = 6.6* 10-34 / (9.1*10-31*1.0*107)λ= 7.2527473e-11m"
+        },
+        {
+          "letter": "B",
+          "text": "7.3 x 108 m",
+          "isCorrect": false,
+          "explanation": "De broglie wavelength of any particle: λ = h/p and p = mv ∴λ = h/mvλ = 6.6* 10-34 / (9.1*10-31*1.0*107)λ= 7.2527473e-11m"
+        },
+        {
+          "letter": "C",
+          "text": "7.3 x 10-11 m",
+          "isCorrect": true,
+          "explanation": "De broglie wavelength of any particle: X=h/p and p = mv =>λ = h/mvλ = 6.6* 10-34 / (9.1*10-31*1.0*107) λ= 7.2527473×10 -11m."
+        },
+        {
+          "letter": "D",
+          "text": "7.3 x 10-13 m",
+          "isCorrect": false,
+          "explanation": "De broglie wavelength of any particle: λ = h/p and p = mv ∴λ = h/mvλ = 6.6* 10-34 / (9.1*10-31*1.0*107)λ= 7.2527473e-11m"
+        }
+      ],
+      "explanation": "De broglie wavelength of any particle: λ = h/p and p = mv ∴λ = h/mvλ = 6.6* 10-34 / (9.1*10-31*1.0*107)λ= 7.2527473e-11m",
+      "explanationImage": null,
+      "hints": []
+    }
+  ]
+}

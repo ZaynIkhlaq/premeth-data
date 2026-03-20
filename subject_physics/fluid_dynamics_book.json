@@ -1,0 +1,2452 @@
+{
+  "questions": [
+    {
+      "text": "A two-meter-high tank is full of water. A hole is made in the middle of the tank. The speed of efflux is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.9ms-1",
+          "isCorrect": false,
+          "explanation": "This speed is too high for the given height of the water. It does not align with calculations based on Torricelli’s theorem."
+        },
+        {
+          "letter": "B",
+          "text": "9.8ms-1",
+          "isCorrect": false,
+          "explanation": "This value corresponds to the acceleration due to gravity rather than the speed of efflux from the tank, making it an inappropriate choice."
+        },
+        {
+          "letter": "C",
+          "text": "4.42ms-1",
+          "isCorrect": true,
+          "explanation": "At the tank mid-height h = 1.00 m, Torricelli’s theorem gives v = √(2gh). Using g ≈ 9.8 m/s², v = √(2×9.8×1) = √19.6 ≈ 4.43 m/s. This matches option C. and is the ideal efflux speed neglecting viscosity and losses."
+        },
+        {
+          "letter": "D",
+          "text": "3.75ms-1",
+          "isCorrect": false,
+          "explanation": "This speed is lower than what is calculated using Torricelli’s theorem for the given height of water and is not a valid answer."
+        }
+      ],
+      "explanation": "At the tank mid-height h = 1.00 m, Torricelli’s theorem gives v = √(2gh). Using g ≈ 9.8 m/s², v = √(2×9.8×1) = √19.6 ≈ 4.43 m/s. This matches option C. and is the ideal efflux speed neglecting viscosity and losses.",
+      "explanationImage": null,
+      "hints": [
+        "two-meter-high",
+        "middle"
+      ]
+    },
+    {
+      "text": "Water flows from a 6.0cm diameter pipe into an 8.0cm diameter pipe. The speed in the 6.0cm pipe is 5.0m/s. The speed in the 8cm pipe is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.8m/s",
+          "isCorrect": true,
+          "explanation": "Continuity requires A₁v₁= A₂v₂ , so v₂= (A₁/A₂ ) = v₁ (d₁²/d₂²). With d₁ =6, d₂=8: v₂= 5×(6²/8²)=5×(36/64)=5×0.5625=2.8125 m/s ≈ 2.8 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "3.7m/s",
+          "isCorrect": false,
+          "explanation": "This answer is incorrect. It does not satisfy the continuity equation, which dictates that the velocity decreases as the pipe diameter increases."
+        },
+        {
+          "letter": "C",
+          "text": "6.6m/s",
+          "isCorrect": false,
+          "explanation": "This answer is incorrect. The fluid speed should decrease when moving from a smaller diameter to a larger one, contradicting the continuity principle."
+        },
+        {
+          "letter": "D",
+          "text": "8.8m/s",
+          "isCorrect": false,
+          "explanation": "This answer is incorrect. A higher speed in the larger diameter pipe is not possible according to the continuity equation, which shows that speed must decrease with an increase in diameter."
+        }
+      ],
+      "explanation": "Continuity requires A1v1= A2v2 , so v2= (A1 /A2 ) = v1 (d12/d2²). With d1 =6, d2=8: v₂= 5×(6²/8²)=5×(36/64)=5×0.5625=2.8125 m/s ≈ 2.8 m/s.",
+      "explanationImage": null,
+      "hints": [
+        "6.0cm diameter pipe",
+        "8.0cm diameter pipe"
+      ]
+    },
+    {
+      "text": "A metal sphere of radius r is dropped into a tank of water. As it sinks at speed v, it experiences a drag force F given by F=krv, where k is a constant. What are the SI base units of k?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "kgm2 s-1",
+          "isCorrect": false,
+          "explanation": "This option suggests that the units of k involve mass and area, but it does not correctly account for the relationship with velocity and radius in the drag force equation."
+        },
+        {
+          "letter": "B",
+          "text": "kgm2 s-2",
+          "isCorrect": false,
+          "explanation": "This option implies that k has units related to energy (force times distance) divided by time squared. This interpretation does not align with the dimensional analysis required for the drag force equation."
+        },
+        {
+          "letter": "C",
+          "text": "kgm-1 s-1",
+          "isCorrect": true,
+          "explanation": "From F = k r v, rearrange k = F/(r v). F has units N = kg·m·s⁻², r is m and v is m·s⁻¹, so k units = (kg·m·s⁻²)/(m·m·s⁻¹) = kg·m⁻¹·s⁻¹."
+        },
+        {
+          "letter": "D",
+          "text": "kgms-2",
+          "isCorrect": false,
+          "explanation": "This option suggests that k has units of mass times acceleration, which corresponds to force. However, this does not reflect the necessary dimensional analysis for the drag force equation."
+        }
+      ],
+      "explanation": "From F = k r v, rearrange k = F/(r v). F has units N = kg·m·s⁻², r is m and v is m·s⁻¹, so k units = (kg·m·s⁻²)/(m·m·s⁻¹) = kg·m⁻¹·s⁻¹.",
+      "explanationImage": null,
+      "hints": [
+        "drag force",
+        "F = krv"
+      ]
+    },
+    {
+      "text": "Eight drops of water each radius 2mm are falling through the air at a terminal velocity of 8cm/s. If they coalesce to form a single drop, the terminal velocity of the combined drop will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "8cm/s",
+          "isCorrect": false,
+          "explanation": "This option assumes that the terminal velocity remains unchanged when the drops combine, which is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "16cm/s",
+          "isCorrect": false,
+          "explanation": "This option suggests a doubling of the terminal velocity, which does not account for the correct scaling with radius."
+        },
+        {
+          "letter": "C",
+          "text": "24cm/s",
+          "isCorrect": false,
+          "explanation": "This option reflects an incorrect calculation of terminal velocity based on an incorrect understanding of the relationship between radius and velocity."
+        },
+        {
+          "letter": "D",
+          "text": "32cm/s",
+          "isCorrect": true,
+          "explanation": "Volume scales ∝ r³, combining 8 equal drops doubles the radius (since 8×r³ → (2r)³). Terminal velocity under Stokes- like scaling ∝ r², so Vₙₑw = (2²) V = 4×8 cm/s = 32 cm/s."
+        }
+      ],
+      "explanation": "Volume scales ∝ r³, combining 8 equal drops doubles the radius (since 8×r³ → (2r)³). Terminal velocity under Stokes- like scaling ∝ r², so Vₙₑw = (2²) V = 4×8 cm/s = 32 cm/s.",
+      "explanationImage": null,
+      "hints": [
+        "terminal velocity",
+        "coalesce"
+      ]
+    },
+    {
+      "text": "A larger water tank open at the top has a small hole in the bottom when the water level is 30m above the bottom of the tank, the speed of the water leaking from the hole is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.5m/s",
+          "isCorrect": false,
+          "explanation": "This option underestimates the speed of the water leaking from the hole. The calculation based on height and gravitational acceleration suggests a much higher velocity."
+        },
+        {
+          "letter": "B",
+          "text": "24m/s",
+          "isCorrect": true,
+          "explanation": "Torricelli’s theorem: v = √(2 g h). With g ≈ 10 m/s² and h = 30 m, v = √(2×10×30) = √600 ≈ 24.49 m/s. Area is irrelevant for efflux speed."
+        },
+        {
+          "letter": "C",
+          "text": "4.44m/s",
+          "isCorrect": false,
+          "explanation": "This option also underestimates the speed of the water. It does not align with the calculations provided by Torricelli’s theorem based on the given height."
+        },
+        {
+          "letter": "D",
+          "text": "Cannot be calculated unless the area of the hole is given",
+          "isCorrect": false,
+          "explanation": "This statement is incorrect. The speed of water flowing out of a hole can be determined solely from the height of the water above it, not the area of the hole."
+        }
+      ],
+      "explanation": "Torricelli’s theorem: v = √(2 g h). With g ≈ 10 m/s² and h = 30 m, v = √(2×10×30) = √600 ≈ 24.49 m/s. Area is irrelevant for efflux speed.",
+      "explanationImage": null,
+      "hints": [
+        "water tank",
+        "small hole",
+        "30m above"
+      ]
+    },
+    {
+      "text": "One end of the cylindrical pipe has a radius of 1.5cm. If water streams (density=1.0x10³kg/m3 ) steadily out of it at 7.0m/s, the volume rate is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.95×10⁻³ m³/s",
+          "isCorrect": true,
+          "explanation": "Volumetric flow Q = A v = π r² v. With r = 0.015 m: A = π(0.015) ² ≈ 7.07×10⁻⁴ m². Q = 7.07×10⁻⁴×7 ≈ 4.95×10⁻³ m³/s ≈ 4.9×10⁻³ m³/s."
+        },
+        {
+          "letter": "B",
+          "text": "4.9 m3/s",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it does not account for the size of the pipe and the speed at which water is flowing. The volumetric flow rate must be significantly smaller given the dimensions provided."
+        },
+        {
+          "letter": "C",
+          "text": "7.0 m³/s",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it suggests that the volumetric flow rate is equal to the velocity of the water. However, the flow rate must account for the cross-sectional area of the pipe, which reduces the flow rate significantly."
+        },
+        {
+          "letter": "D",
+          "text": "49 m³/s",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it represents an unrealistically high flow rate given the small radius of the pipe. Such a large volume flow rate would require a much larger pipe or higher velocity."
+        }
+      ],
+      "explanation": "Volumetric flow Q = A v = π r² v. With r = 0.015 m: A = π(0.015) ² ≈ 7.07×10⁻⁴ m². Q = 7.07×10⁻⁴×7 ≈ 4.95×10⁻³ m³/s ≈ 4.9×10⁻³ m³/s.",
+      "explanationImage": null,
+      "hints": [
+        "cylindrical pipe",
+        "volume rate"
+      ]
+    },
+    {
+      "text": "An incompressible liquid flows along the pipe with the area of cross-section A₁ and A₂ with velocities V₁ and V₂ respectively. The ratio of the speeds V₁/V₂ is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A₁/A₂",
+          "isCorrect": false,
+          "explanation": "This option suggests that the speed ratio is directly proportional to the area ratio, which is incorrect for incompressible flow."
+        },
+        {
+          "letter": "B",
+          "text": "A₂/A₁",
+          "isCorrect": true,
+          "explanation": "Continuity for incompressible flow gives A₁v₁= A₂v₂ ⇒ v₁ /v₂ = A₂ /A₁. Thus, the speeds are inversely proportional to the cross-sectional areas,"
+        },
+        {
+          "letter": "C",
+          "text": "√A₁/A₂",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests that the speed ratio involves the square root of the area ratio, which does not apply in this context."
+        },
+        {
+          "letter": "D",
+          "text": "√A₂/A₁",
+          "isCorrect": false,
+          "explanation": "This option also incorrectly implies a square root relationship, which is not supported by the principles of fluid dynamics for incompressible flow."
+        }
+      ],
+      "explanation": "Continuity for incompressible flow gives A₁V₁ = A₂V₂ ⇒ V₂/V₁= A₁ /A₂ . Thus the speeds are inversely proportional to thecross-sectional areas.",
+      "explanationImage": null,
+      "hints": [
+        "incompressible liquid",
+        "cross-section",
+        "velocities"
+      ]
+    },
+    {
+      "text": "Equal masses of water and a liquid of density 2 are mixed together, then the mixture has a density of",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2/3",
+          "isCorrect": false,
+          "explanation": "This option suggests a density lower than the average of the two liquids, which is not possible given the higher density of the second liquid. Therefore, it is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "4/3",
+          "isCorrect": true,
+          "explanation": "Let’s take two equal masses, each of mass m, but with different densities: ρ₁ = 1 and ρ₂ = 2Total Mass = m + m = 2mVolume of first mass (V₁) = m / ρ₁ = m / 1 = mVolume of second mass (V₂) = m / ρ₂ = m / 2Total Volume = V₁ + V₂ = m + m/2 = (3/2)mCombined Density (ρ) = Total Mass / Total Volume⇒ ρ = 2m / (3/2)m = 4/3mFinal Answer: The combined density is 4/3."
+        },
+        {
+          "letter": "C",
+          "text": "3/2",
+          "isCorrect": false,
+          "explanation": "This option suggests a density higher than the average density of the two liquids. It does not account for the volume contributions correctly, making it incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "This option indicates a density far above what is possible given the densities of the two liquids. It overlooks the calculations necessary to find the mixture's density, rendering it incorrect."
+        }
+      ],
+      "explanation": "Take equal masses m of densities 1 and 2. Total mass = 2m; total volume = m/1 + m/2 = 1.5 m ⇒ density = (2m)/(1.5 m) = 4/3.",
+      "explanationImage": null,
+      "hints": [
+        "equal masses",
+        "density"
+      ]
+    },
+    {
+      "text": "The pressure at the bottom of a tank containing a liquid does not depend on?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acceleration due to gravity",
+          "isCorrect": false,
+          "explanation": "The pressure at the bottom of the tank increases with the acceleration due to gravity, as it is a key factor in calculating hydrostatic pressure."
+        },
+        {
+          "letter": "B",
+          "text": "Height of the liquid column",
+          "isCorrect": false,
+          "explanation": "The height of the liquid column directly affects the pressure at the bottom of the tank, as greater heights lead to higher pressure."
+        },
+        {
+          "letter": "C",
+          "text": "Area of the bottom surface",
+          "isCorrect": true,
+          "explanation": "Hydrostatic pressure p = ρ g h is independent of the area of the container’s base. It depends on fluid density, gravity and depth."
+        },
+        {
+          "letter": "D",
+          "text": "Nature of the liquid",
+          "isCorrect": false,
+          "explanation": "The density and properties of the liquid do affect pressure, as different liquids exert different pressures at the same height due to their varying densities."
+        }
+      ],
+      "explanation": "Hydrostatic pressure p = ρ g h is independent of the area of the container’s base. It depends on fluid density, gravity and depth.",
+      "explanationImage": null,
+      "hints": [
+        "pressure",
+        "bottom",
+        "tank"
+      ]
+    },
+    {
+      "text": "An iceberg of density 900 Kg/m3 is floating in water of density 1000 Kg/m3. The percentage of the volume of the iceberg outside the water is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "20%",
+          "isCorrect": false,
+          "explanation": "This option suggests that a larger portion of the iceberg is above water than is actually the case, which would imply a lower density ratio. It's incorrect as calculations show 10% above water."
+        },
+        {
+          "letter": "B",
+          "text": "35%",
+          "isCorrect": false,
+          "explanation": "This option also overestimates the volume of the iceberg above the water. The density ratio indicates that only 10% is above the water's surface."
+        },
+        {
+          "letter": "C",
+          "text": "10%",
+          "isCorrect": true,
+          "explanation": "Fraction of ice submerged in water = ρᵢcₑ / ρwₐₜₑᵣ= 900 / 1000 = 0.9This means 90% of the ice's volume is submerged in water.So, the remaining 10% stays above the water surface (100% − 90% = 10%)."
+        },
+        {
+          "letter": "D",
+          "text": "25%",
+          "isCorrect": false,
+          "explanation": "This option underestimates the volume above water. The calculations show that only 10% of the iceberg is actually above the water level."
+        }
+      ],
+      "explanation": "Fraction submerged =ρᵢcₑ / ρwₐₜₑᵣ = 900/1000 = 0.9 ⇒ 90% submerged. So 10% of the volume is above water: (100% − 90%) = 10%.",
+      "explanationImage": null,
+      "hints": [
+        "iceberg",
+        "density",
+        "water"
+      ]
+    },
+    {
+      "text": "When will liquid flow in a pipe be most smooth (streamline)?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "High thickness & high density in small pipe",
+          "isCorrect": false,
+          "explanation": "This option suggests a scenario with high viscosity and density, which typically leads to turbulent flow rather than streamlined flow. The combination of high density and thickness can increase the Reynolds number, promoting chaotic movement."
+        },
+        {
+          "letter": "B",
+          "text": "High thickness & low density in small pipe",
+          "isCorrect": true,
+          "explanation": "Laminar flow occurs at low Reynolds number, Re= ρvD/μ. High viscosity (large μ) and small pipe diameter D reduce Re; lower fluid density ρ also helps. Thus, high viscosity + low density in a small pipe promotes streamlined (laminar) flow."
+        },
+        {
+          "letter": "C",
+          "text": "Low thickness & low density in large pipe",
+          "isCorrect": false,
+          "explanation": "This option indicates a low-viscosity fluid in a large pipe, which can lead to turbulent flow due to insufficient resistance to flow. The large diameter increases the Reynolds number, leading to non-laminar conditions."
+        },
+        {
+          "letter": "D",
+          "text": "Low thickness & high density in large pipe",
+          "isCorrect": false,
+          "explanation": "This scenario presents low viscosity with high density in a large pipe. While high density may tend to promote laminar flow under certain circumstances, the low viscosity combined with the large diameter will generally result in a turbulent flow as the Reynolds number remains high."
+        }
+      ],
+      "explanation": "Laminar flow occurs at low Reynolds number, Re= ρvD/μ. High viscosity (large μ) and small pipe diameter D reduce Re; lower fluid density ρ also helps. Thus, high viscosity + low density in a small pipe promotes streamlined (laminar) flow.",
+      "explanationImage": null,
+      "hints": [
+        "liquid flow",
+        "smooth",
+        "pipe"
+      ]
+    },
+    {
+      "text": "Two pipes: one is 2 cm wide, the other is 4 cm. In the 2 cm pipe, the water speed is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 times faster",
+          "isCorrect": true,
+          "explanation": "If diameter is halved, cross-sectional area scales with diameter², so area reduces by factor 4; continuity requires velocity increase by factor 4 in the narrower pipe."
+        },
+        {
+          "letter": "B",
+          "text": "1/4 times slower",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. If the velocity were 1/4 times slower, it would imply that the water flow rate decreases, which contradicts the principle of continuity that requires the velocity to increase as the area decreases."
+        },
+        {
+          "letter": "C",
+          "text": "2 times faster",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While the velocity does increase, it does so by 4 times, not 2 times, due to the quadratic relationship between diameter and cross-sectional area."
+        },
+        {
+          "letter": "D",
+          "text": "Half as fast",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A decrease in diameter leads to an increase in velocity, not a decrease. Saying it is half as fast contradicts the principle of fluid continuity."
+        }
+      ],
+      "explanation": "If the diameter is halved, the cross-sectional area scales with diameter², so the area reduces by a factor of 4; continuity requires the velocity increase by a factor of 4 in the narrower pipe.",
+      "explanationImage": null,
+      "hints": [
+        "2 cm",
+        "4 cm",
+        "water speed"
+      ]
+    },
+    {
+      "text": "Water flows steadily through a pipe of uniform cross-section from point A to B with same speed in these positions:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Horizontal pipe",
+          "isCorrect": false,
+          "explanation": "In a horizontal pipe, the flow speed can remain constant if the cross-sectional area is uniform. However, this does not cover all scenarios."
+        },
+        {
+          "letter": "B",
+          "text": "Vertical with A on top",
+          "isCorrect": false,
+          "explanation": "While flow direction is vertical, if the cross-sectional area is the same, the speed can still be consistent. However, this option is limited to one orientation only."
+        },
+        {
+          "letter": "C",
+          "text": "Vertical with B on top",
+          "isCorrect": false,
+          "explanation": "Similar to the previous option, this orientation does not change the fact that speed can remain constant if the conditions are equal; however, it is still limited to one orientation."
+        },
+        {
+          "letter": "D",
+          "text": "All cases",
+          "isCorrect": true,
+          "explanation": "If cross-sectional area and flow conditions remain identical, the local flow speed can be the same regardless of orientation. In steady incompressible flow with identical geometry,"
+        }
+      ],
+      "explanation": "If cross-sectional area and flow conditions remain identical, the local flow speed can be the same regardless of orientation. In steady incompressible flow with identical geometry,",
+      "explanationImage": null,
+      "hints": [
+        "same speed",
+        "water flows"
+      ]
+    },
+    {
+      "text": "Water flows at 5.18 m/s in a pipe with area 4.20 cm². The pipe goes down and gets wider to 7.60 cm². What’s the new speed?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.0 m/s",
+          "isCorrect": false,
+          "explanation": "This option suggests a speed that is too high given the increase in area, violating the continuity equation. It does not account for the reduction in velocity expected when fluid flows into a wider section of the pipe."
+        },
+        {
+          "letter": "B",
+          "text": "3.82 m/s",
+          "isCorrect": false,
+          "explanation": "This option is an incorrect application of the continuity equation. Although it is lower than the initial speed, it does not reflect the proper calculation based on the area ratios."
+        },
+        {
+          "letter": "C",
+          "text": "5.7 m/s",
+          "isCorrect": false,
+          "explanation": "This option indicates a speed greater than the initial speed, which is impossible when the fluid moves into a larger cross-sectional area, as per the principle of conservation of mass."
+        },
+        {
+          "letter": "D",
+          "text": "2.86 m/s",
+          "isCorrect": true,
+          "explanation": "v₂= v₁ (A₁/A₂). Convert areas: A₁= 4.20 cm², A₂ =7.60 cm² ⇒ v₂ = 5.18×(4.20/7.60) = 5.18×0.5526 ≈ 2.86 m/s."
+        }
+      ],
+      "explanation": "V2= v1 (A1 /A2). Convert areas: A1=4.20 cm², A2=7.60 cm² ⇒ v2 = 5.18×(4.20/7.60) = 5.18×0.5526 ≈ 2.86 m/s.",
+      "explanationImage": null,
+      "hints": [
+        "5.18 m/s",
+        "4.20 cm²",
+        "7.60 cm²"
+      ]
+    },
+    {
+      "text": "Kerosene oil moves at 5 m/s. What’s the velocity head? (g = 10 m/s²)",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.25 m",
+          "isCorrect": true,
+          "explanation": "Velocity head = v²/(2g). With v = 5 m/s and g = 10 m/s²: v²/(2g) = 25/(20) = 1.25 m."
+        },
+        {
+          "letter": "B",
+          "text": "12.5 m",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A velocity head of 12.5 m would imply a much higher velocity or lower gravitational acceleration than provided in the question."
+        },
+        {
+          "letter": "C",
+          "text": "0.125 m",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A velocity head of 0.125 m suggests a misunderstanding of the formula, as it would require a much smaller velocity or a significantly larger gravitational acceleration."
+        },
+        {
+          "letter": "D",
+          "text": "125 m",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect. A velocity head of 125 m is unrealistically high based on the given velocity and gravity, indicating a miscalculation."
+        }
+      ],
+      "explanation": "Velocity head = v²/(2g). With v = 5 m/s and g = 10 m/s²: v²/(2g) = 25/(20) = 1.25 m.",
+      "explanationImage": null,
+      "hints": [
+        "velocity head",
+        "5 m/s."
+      ]
+    },
+    {
+      "text": "Tap pressure drops from 3.5×10⁵ to 3.0×10⁵ N/m². What’s water speed?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 m/s",
+          "isCorrect": false,
+          "explanation": "This option represents an excessively high speed for the given pressure drop. It does not align with the principles of fluid dynamics, specifically Bernoulli's equation."
+        },
+        {
+          "letter": "B",
+          "text": "10 m/s",
+          "isCorrect": true,
+          "explanation": "Using Bernoulli (pressure drop → kinetic energy): ΔP = ½ ρ v². With ΔP = 0.5×10⁵ Pa and ρ ≈ 1000 kg/m³: v = √(2ΔP/ρ) = √(2×5×10⁴/1000) = √100 = 10 m/s. Hence option B is correct."
+        },
+        {
+          "letter": "C",
+          "text": "1 m/s",
+          "isCorrect": false,
+          "explanation": "This value is too low given the pressure drop. The kinetic energy associated with the pressure drop suggests a higher speed."
+        },
+        {
+          "letter": "D",
+          "text": "10√10 m/s",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it overcomplicates the calculation. The derived speed from the pressure drop is much simpler and results in 10 m/s."
+        }
+      ],
+      "explanation": "Using Bernoulli (pressure drop → kinetic energy): ΔP = ½ ρ v².With ΔP = 0.5×10⁵ Pa and ρ ≈ 1000 kg/m³: v = √(2ΔP/ρ) = √(2×5×10⁴/1000) = √100 = 10 m/s. Hence, option B is correct.",
+      "explanationImage": null,
+      "hints": [
+        "tap pressure",
+        "water speed"
+      ]
+    },
+    {
+      "text": "Water tank bottom pressure = 3 atm. What is flow speed from hole at bottom?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 m/s",
+          "isCorrect": true,
+          "explanation": "Gauge pressure causing flow is (3 atm − 1 atm) = 2 atm ≈ 2×1.013×10⁵ PA. v = √(2P/ρ) ≈ √(2×2.026×10⁵/1000) ≈ √405 ≈ 20.1 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "10 m/s",
+          "isCorrect": false,
+          "explanation": "This option underestimates the flow speed. The calculation based on the gauge pressure would yield a higher value than this."
+        },
+        {
+          "letter": "C",
+          "text": "30 m/s",
+          "isCorrect": false,
+          "explanation": "This option overestimates the flow speed, as the pressure difference results in a speed lower than this value based on Bernoulli's equation."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because there is a calculable flow speed based on the given pressure, which is approximately 20 m/s."
+        }
+      ],
+      "explanation": "Gauge pressure causing flow is (3 atm − 1 atm) = 2 atm ≈ 2×1.013×10⁵ PA. v = √(2P/ρ) ≈ √(2×2.026×10⁵/1000) ≈ √405 ≈ 20.1 m/s.",
+      "explanationImage": null,
+      "hints": [
+        "Water tank",
+        "bottom pressure",
+        "flow speed"
+      ]
+    },
+    {
+      "text": "Water from height h flows in time t. If height = 4h, time will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "t",
+          "isCorrect": false,
+          "explanation": "This option suggests that the time remains the same regardless of the height. This is incorrect as time is dependent on the height of the water according to Torricelli's law."
+        },
+        {
+          "letter": "B",
+          "text": "4t",
+          "isCorrect": false,
+          "explanation": "This option implies that the time quadruples when the height increases to 4h. This is incorrect because the relationship is not linear; time decreases with increasing height."
+        },
+        {
+          "letter": "C",
+          "text": "2t",
+          "isCorrect": true,
+          "explanation": "For a tank draining through a small hole, Torricelli gives outflow speed v∝√h. Solving the tank-draining differential equation shows the emptying time T∝√h. So if the initial height becomes 4h, the emptying time becomes √4h /h= 2 times the original"
+        },
+        {
+          "letter": "D",
+          "text": "t/4",
+          "isCorrect": false,
+          "explanation": "This option suggests that the time is reduced to a quarter of the original time, which is incorrect. Increasing height does not reduce time; it increases it based on the square root relationship."
+        }
+      ],
+      "explanation": "For a tank draining through a small hole, Torricelli gives outflow speed v∝√h. Solving the tank-draining differential equation shows the emptying time T∝√h. So if the initial height becomes 4h, the emptying time becomes √4h /h= 2 times the original.",
+      "explanationImage": null,
+      "hints": [
+        "height",
+        "time"
+      ]
+    },
+    {
+      "text": "Water flows into tank at 70 cm³/sec through 1 cm² hole. Max water height is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.5 cm",
+          "isCorrect": true,
+          "explanation": "At steady max height outflow = inflow. Outflow rate via Torricelli: Q = A √(2 g h). Solving h = (Q/(A))²/(2 g). With Q=70 cm³/s and A=1 cm² ⇒ v = 70 cm/s ⇒ h = v²/(2g) ≈ (70²)/(2×981) ≈ 4900/1962 ≈ 2.5 cm."
+        },
+        {
+          "letter": "B",
+          "text": "5 cm",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A height of 5 cm would imply a greater outflow than the inflow rate of 70 cm³/sec, which contradicts the steady state condition."
+        },
+        {
+          "letter": "C",
+          "text": "10 cm",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A height of 10 cm would lead to an even higher outflow rate than the inflow, which cannot be sustained at steady state given the specified inflow."
+        },
+        {
+          "letter": "D",
+          "text": "0.25 cm",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as well. A height of 0.25 cm is too low considering the inflow rate, and would not allow for the calculated outflow rate to be achieved."
+        }
+      ],
+      "explanation": "At steady max height outflow = inflow. Outflow rate via Torricelli: Q = A √(2 g h). Solving h (Q/(A))²/(2 g). With Q=70 cm³/s and A=1 cm² ⇒ v = 70 cm/s ⇒ h = v²/(2g) ≈ (70²)/(2×981) ≈ 4900/1962 ≈ 2.5 cm.",
+      "explanationImage": null,
+      "hints": [
+        "water flows",
+        "tank",
+        "max water height"
+      ]
+    },
+    {
+      "text": "A square plate of side 0.1 m moves steadily at a velocity of0.1 m/s through a thin layer of water of viscosity 0.01 poise. Theplate moves parallel to a large fixed plate, and the water forms auniform film between them. If a force of 0.002 N is required tomove the plate, what is the thickness (gap) of the water layerbetween the two plates?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.1 m",
+          "isCorrect": false,
+          "explanation": "This option is too large for the gap between the plates. The dimensions and forces involved suggest a much smaller gap."
+        },
+        {
+          "letter": "B",
+          "text": "0.05 m",
+          "isCorrect": false,
+          "explanation": "This option is still too large and does not reflect the relationship between the applied force and the fluid's viscosity in this scenario."
+        },
+        {
+          "letter": "C",
+          "text": "0.005 m",
+          "isCorrect": false,
+          "explanation": "This option is a reasonable estimate but still significantly larger than the calculated value. The small gap indicates a higher shear rate due to the low viscosity."
+        },
+        {
+          "letter": "D",
+          "text": "0.0005 m",
+          "isCorrect": true,
+          "explanation": "For Couette flow F = η A v / d. Convert η = 0.01 poise = 0.001 Pa·s. A = 0.1×0.1 = 0.01 m², so d = η A v / F = (0.001×0.01×0.1)/0.002 = 5×10⁻⁴ m = 0.0005 m."
+        }
+      ],
+      "explanation": "For Couette flow F = η A v / d. Convert η = 0.01 poise = 0.001 Pa·s. A = 0.1×0.1 = 0.01 m², so d = η A v / F = (0.001×0.01×0.1)/0.002 = 5×10⁻⁴ m = 0.0005 m.",
+      "explanationImage": null,
+      "hints": [
+        "0.1 m square plate",
+        "viscosity = 0.01 poise"
+      ]
+    },
+    {
+      "text": "Spherical balls of radius 'r' are falling in a viscous fluid of viscosity 'η' with a velocity 'v'. The retarding viscous force acting on the spherical ball is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inversely proportional to 'r' but directly proportional to velocity 'v'",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the retarding viscous force increases with radius 'r', not decreases. Stokes' law indicates a direct relationship with radius."
+        },
+        {
+          "letter": "B",
+          "text": "Directly proportional to both radius 'r' and velocity 'v'",
+          "isCorrect": true,
+          "explanation": "Stokes’ law for low Reynolds number gives drag F = 6 π η r V, which is directly proportional to radius r and to velocity V. Therefore, option B is correct."
+        },
+        {
+          "letter": "C",
+          "text": "Inversely proportional to both radius 'r' and velocity 'v'",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the drag force increases with both radius and velocity, not decreases. Therefore, it contradicts the principles of fluid dynamics."
+        },
+        {
+          "letter": "D",
+          "text": "Directly proportional to 'r' but inversely proportional to 'v'",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because while the force is indeed directly proportional to radius 'r', it is also directly proportional to velocity 'V', not inversely. Hence, this option misrepresents the relationship."
+        }
+      ],
+      "explanation": "Stokes’ law for low Reynolds number gives drag F = 6 π η r V, which is directly proportional to radius r and to velocity V.",
+      "explanationImage": null,
+      "hints": [
+        "spherical balls",
+        "viscous fluid",
+        "retarding viscous force"
+      ]
+    },
+    {
+      "text": "Water flows through a horizontal pipe at 2 m/s with a pressure of 120 kPa. If the pipe’s diameter doubles, what is the new pressure? (ρ = 1000 kg/m³)",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "112.5 kPa",
+          "isCorrect": false,
+          "explanation": "This option underestimates the effect of the velocity change on the pressure. It does not apply Bernoulli’s equation correctly."
+        },
+        {
+          "letter": "B",
+          "text": "121.8 kPa",
+          "isCorrect": true,
+          "explanation": "A₁v₁ = A₂v₂, (D₁/D₂)² = 1/4, so v₂ = v₁ / 4 = 2 / 4 = 0.5 m/s. Bernoulli’s: P₁ + ½ρv₁² = P₂ + ½ρv₂². 120000 + ½ × 1000 × 2² = P₂ + ½ × 1000 × 0.5². 120000 + 2000 = P₂ + 125, P₂ = 122000 - 125 = 121875 Pa = 121.8kPa."
+        },
+        {
+          "letter": "C",
+          "text": "122.5 kPa",
+          "isCorrect": false,
+          "explanation": "This option is slightly higher than the correct answer and does not accurately reflect the calculations based on the velocity reduction."
+        },
+        {
+          "letter": "D",
+          "text": "127.5 kPa",
+          "isCorrect": false,
+          "explanation": "This option significantly overestimates the new pressure, failing to account for the substantial decrease in velocity due to the increase in diameter."
+        }
+      ],
+      "explanation": "A₁v₁ = A₂v₂, (D₁/D₂)² = 1/4, so v₂ = v₁ / 4 = 2 / 4 = 0.5 m/s. Bernoulli’s: P₁ + ½ρv₁² = P₂ + ½ρv₂². 120000 + ½ × 1000 × 2² = P₂ + ½ × 1000 × 0.5². 120000 + 2000 = P₂ + 125, P₂ = 122000 - 125 = 121875 Pa = 121.8kPa.",
+      "explanationImage": null,
+      "hints": [
+        "horizontal pipe",
+        "diameter doubles"
+      ]
+    },
+    {
+      "text": "In a turbulent flow, the velocity of the liquid molecules in contact with the walls of the tube is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "The no-slip condition requires that fluid relative velocity at the solid boundary equals the wall velocity. For a stationary wall, the velocity of fluid at the wall is zero even in turbulent flow. This is because the no-slip boundary condition applies to viscous fluids: the fluid velocity at the wall equals the wall velocity even in turbulence. If the wall is stationary, the instantaneous fluid velocity at the wall is zero. (Turbulence causes fluctuating velocities away from the wall, but the instantaneous velocity at the wall still equals the wall velocity)."
+        },
+        {
+          "letter": "B",
+          "text": "Maximum",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. In turbulent flow, while the velocity of the fluid can vary significantly away from the wall, the velocity at the wall itself remains zero due to the no-slip condition."
+        },
+        {
+          "letter": "C",
+          "text": "Equal to critical velocity",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Critical velocity is a concept used to describe the transition between laminar and turbulent flow, but it does not apply to the velocity of fluid molecules at the wall, which is always zero for a stationary boundary."
+        },
+        {
+          "letter": "D",
+          "text": "May have any value",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The velocity of the fluid molecules at the wall cannot take on any value; it must be zero when the wall is stationary, as dictated by the no-slip condition."
+        }
+      ],
+      "explanation": "The no-slip condition requires that the fluid relative velocity at the solid boundary equals the wall velocity. For a stationary wall, the velocity of fluid at the wall is zero even in turbulent flow. This is because the no-slip boundary condition applies to viscous fluids: the fluid velocity at the wall equals the wall velocity even in turbulence. If the wall is stationary, the instantaneous fluid velocity at the wall is zero. (Turbulence causes fluctuating velocities away from the wall, but the instantaneous velocity at the wall still equals the wall velocity).",
+      "explanationImage": null,
+      "hints": [
+        "turbulent flow",
+        "velocity of the liquid molecules",
+        "walls of the tube"
+      ]
+    },
+    {
+      "text": "Water is flowing through a tube of non-uniform cross- section. Ratio of the radius at entry and exit end of the pipe is 3:2. Then the ratio of velocities at entry and exit of liquid is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4:9",
+          "isCorrect": true,
+          "explanation": "v∝ 1/A and A ∝ r². With r1:r2 = 3:2 ⇒ A1:A2= 9:4 ⇒ v1:v2 = A2: A1 = 4:9."
+        },
+        {
+          "letter": "B",
+          "text": "9:4",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While the areas are in the ratio of 9:4, the velocities must be in the inverse ratio due to the conservation of mass in fluid dynamics."
+        },
+        {
+          "letter": "C",
+          "text": "8:27",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. This ratio does not derive from the relationship between the areas or velocities based on the given radius ratio."
+        },
+        {
+          "letter": "D",
+          "text": "1:1",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A ratio of 1:1 suggests that the velocities at entry and exit are equal, which contradicts the given radius ratio."
+        }
+      ],
+      "explanation": "v ∝ 1/A and A ∝ r². With r1:r2 = 3:2 ⇒ A1:A2 = 9:4 ⇒ v1:v1 = A2: A1= 4:9.",
+      "explanationImage": null,
+      "hints": [
+        "radius",
+        "entry",
+        "exit"
+      ]
+    },
+    {
+      "text": "Water is flowing through a horizontal pipe of non-uniform cross-section. At the extreme narrow portion of the pipe, the water will have:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maximum speed and least pressure",
+          "isCorrect": true,
+          "explanation": "By continuity, narrow section → higher speed; Bernoulli’s principle then implies higher kinetic energy corresponds to lower static pressure. Thus speed is max and pressure is minimum at the constriction."
+        },
+        {
+          "letter": "B",
+          "text": "Maximum pressure and least speed",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. If the speed is least in the narrow portion, it contradicts the principle of continuity, which states that fluid speed must increase in narrower sections."
+        },
+        {
+          "letter": "C",
+          "text": "Both pressure and speed maximum",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. In a narrow section, the speed cannot be maximum while pressure is also maximum due to the relationship described by Bernoulli's principle."
+        },
+        {
+          "letter": "D",
+          "text": "Both pressure and speed least",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While pressure is least in the narrow section, speed is actually maximum, not least, according to the continuity equation and Bernoulli’s principle."
+        }
+      ],
+      "explanation": "By continuity, narrow section → higher speed; Bernoulli’s principle then implies higher kinetic energy corresponds to lower static pressure. Thus speed is max and pressure is minimum at the constriction.",
+      "explanationImage": null,
+      "hints": [
+        "horizontal pipe",
+        "narrow portion",
+        "water flow"
+      ]
+    },
+    {
+      "text": "In a streamline flow:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The speed of a particle always remains the same along its streamline",
+          "isCorrect": false,
+          "explanation": "This statement is misleading. While a particle's speed might remain constant along a streamline, it can vary at different points along the streamline. Thus, it's not universally true."
+        },
+        {
+          "letter": "B",
+          "text": "The velocity of a particle always remains constant throughout the flow",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because in fluid dynamics, the velocity of a particle can change as it moves through different points in the flow field, especially in non-uniform flow conditions."
+        },
+        {
+          "letter": "C",
+          "text": "The kinetic energies of all the particles arriving at a given point are the same",
+          "isCorrect": true,
+          "explanation": "In steady flow the velocity field at each point is fixed in time; thus any particle passing through a particular point experiences the same instantaneous speed there — so particles arriving at a given point share the same kinetic energy. It is not true that a particle’s speed always remains constant along its streamline."
+        },
+        {
+          "letter": "D",
+          "text": "The moments of all the particles arriving at a given point are the same",
+          "isCorrect": false,
+          "explanation": "This statement is incorrect as the moment (which refers to the angular momentum) of the particles can vary based on their speed and position relative to the point of reference."
+        }
+      ],
+      "explanation": "In steady flow the velocity field at each point is fixed in time; thus any particle passing through a particular point experiences the same instantaneous speed there — so particles arriving at a given point share the same kinetic energy. It is not true that a particle’s speed always remains constant along its streamline.",
+      "explanationImage": null,
+      "hints": [
+        "streamline flow",
+        "kinetic energies",
+        "constant"
+      ]
+    },
+    {
+      "text": "An application of Bernoulli's equation for fluid flow is found in:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dynamic lift of an airplane",
+          "isCorrect": true,
+          "explanation": "Bernoulli’s principle relates pressure and velocity and explains pressure differences over an airplane wing that produce lift; viscosity meters and capillarity involve other principles."
+        },
+        {
+          "letter": "B",
+          "text": "Viscosity meter",
+          "isCorrect": false,
+          "explanation": "A viscosity meter measures fluid resistance to flow, which is not directly related to Bernoulli's equation as it deals with viscous forces rather than pressure and velocity relationships."
+        },
+        {
+          "letter": "C",
+          "text": "Capillary rise",
+          "isCorrect": false,
+          "explanation": "Capillary rise involves adhesion and cohesion forces in fluids, which are explained by different principles (like surface tension) rather than Bernoulli's equation."
+        },
+        {
+          "letter": "D",
+          "text": "Hydraulic press",
+          "isCorrect": false,
+          "explanation": "A hydraulic press operates based on Pascal's principle, which states that pressure applied to an enclosed fluid is transmitted undiminished, and does not directly involve Bernoulli’s equation."
+        }
+      ],
+      "explanation": "Bernoulli’s principle relates pressure and velocity and explains pressure differences over an airplane wing that produce lift; viscosity meters and capillarity involve other principles.",
+      "explanationImage": null,
+      "hints": [
+        "Bernoulli's equation",
+        "fluid flow"
+      ]
+    },
+    {
+      "text": "According to Bernoulli's equation P/ρg​+h+v2/2g​ =. The terms P/ρg,h,v2/2g​and are called respectively:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gravitational head, pressure head, and velocity head",
+          "isCorrect": false,
+          "explanation": "This option incorrectly identifies the order and names of the heads. It misplaces the gravitational head and the pressure head."
+        },
+        {
+          "letter": "B",
+          "text": "Gravity, gravitational head, and velocity head",
+          "isCorrect": false,
+          "explanation": "This option incorrectly includes 'gravity' as a term in Bernoulli's equation rather than identifying the pressure head. It misrepresents the components of the equation."
+        },
+        {
+          "letter": "C",
+          "text": "Pressure head, gravitational head, and velocity head",
+          "isCorrect": true,
+          "explanation": "In Bernoulli form, P/(ρ g) is the pressure head, h is the gravitational (elevation) head, and v²/(2g) is the velocity head. Thus, the correct sequence is (pressure head, gravitational head, velocity head."
+        },
+        {
+          "letter": "D",
+          "text": "Gravity pressure and velocity head",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it combines 'gravity' with 'pressure' in a misleading way and omits the correct identification of the heads in the equation."
+        }
+      ],
+      "explanation": "In Bernoulli form P/(ρ g) is the pressure head, h is the gravitational (elevation) head, and v²/(2g) is the velocity head. Thus the correct sequence is (pressure head, gravitational head, velocity head.",
+      "explanationImage": null,
+      "hints": [
+        "P/ρg",
+        "h",
+        "1/2v²/g"
+      ]
+    },
+    {
+      "text": "As the temperature of water increases, its viscosity:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Remains unchanged",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because viscosity is affected by temperature changes in liquids, including water."
+        },
+        {
+          "letter": "B",
+          "text": "Decreases",
+          "isCorrect": true,
+          "explanation": "For liquids like water, increasing temperature reduces intermolecular cohesion, reducing forces between molecules, lowering viscosity."
+        },
+        {
+          "letter": "C",
+          "text": "Increases",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as increasing temperature does not lead to an increase in viscosity for water; in fact, it has the opposite effect."
+        },
+        {
+          "letter": "D",
+          "text": "Increases or decreases depending on the external pressure",
+          "isCorrect": false,
+          "explanation": "This option is misleading. While pressure can influence viscosity in some fluids, the primary relationship for water is that viscosity decreases with increasing temperature regardless of pressure."
+        }
+      ],
+      "explanation": "For liquids like water, increasing temperature reduces intermolecular cohesion, lowering viscosity.",
+      "explanationImage": null,
+      "hints": [
+        "temperature",
+        "viscosity"
+      ]
+    },
+    {
+      "text": "The coefficient of viscosity for hot air is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Greater than the coefficient of viscosity for cold air",
+          "isCorrect": true,
+          "explanation": "For gases, viscosity increases with temperature because molecular momentum transfer rises with thermal speed; hence hot air has a larger viscosity than cold air."
+        },
+        {
+          "letter": "B",
+          "text": "Smaller than the coefficient of viscosity for cold air",
+          "isCorrect": false,
+          "explanation": "This is incorrect. As temperature rises, viscosity in gases increases, making the coefficient for hot air larger than that for cold air."
+        },
+        {
+          "letter": "C",
+          "text": "Same as the coefficient of viscosity for cold air",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The coefficient of viscosity for hot air is not the same as for cold air; it is actually greater due to the increased thermal motion of the molecules in hot air."
+        },
+        {
+          "letter": "D",
+          "text": "Increases or decreases depending on the external pressure",
+          "isCorrect": false,
+          "explanation": "This is misleading. While viscosity can be affected by external conditions, the primary influence of temperature on viscosity for gases is clear: hot air has a higher viscosity than cold air regardless of pressure."
+        }
+      ],
+      "explanation": "For gases, viscosity increases with temperature because molecular momentum transfer rises with thermal speed; hence hot air has a larger viscosity than cold air.",
+      "explanationImage": null,
+      "hints": [
+        "coefficient of viscosity",
+        "hot air",
+        "cold air"
+      ]
+    },
+    {
+      "text": "A good lubricant should have",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "High viscosity",
+          "isCorrect": true,
+          "explanation": "High viscosity maintains a durable fluid film between moving surfaces under load, preventing metal contact and reducing wear. Therefore a high-viscosity lubricant is desirable in many applications."
+        },
+        {
+          "letter": "B",
+          "text": "Low viscosity",
+          "isCorrect": false,
+          "explanation": "Low viscosity lubricants are thinner and may not provide adequate film strength under high loads, leading to increased wear and potential failure of machinery components."
+        },
+        {
+          "letter": "C",
+          "text": "Moderate viscosity",
+          "isCorrect": false,
+          "explanation": "While moderate viscosity lubricants can work in certain applications, they may not provide the necessary protection under heavy loads, making them less desirable compared to high viscosity options."
+        },
+        {
+          "letter": "D",
+          "text": "High density",
+          "isCorrect": false,
+          "explanation": "High density does not directly correlate with lubricant performance in terms of film strength or wear reduction. It is viscosity that plays a critical role in lubrication effectiveness."
+        }
+      ],
+      "explanation": "High viscosity maintains a durable fluid film between moving surfaces under load, preventing metal contact and reducing wear. Therefore a high-viscosity lubricant is desirable in many applications.",
+      "explanationImage": null,
+      "hints": [
+        "lubricant",
+        "viscosity"
+      ]
+    },
+    {
+      "text": "We have three beakers A, B and C containing glycerin, water and kerosene respectively. They are stirred vigorously and placed on a table. The liquid which comes to rest at the earliest is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Glycerin",
+          "isCorrect": true,
+          "explanation": "Glycerin has the highest viscosity among the three, so it dissipates flow energy fastest and returns to rest quickest. Thus glycerin is the correct answer."
+        },
+        {
+          "letter": "B",
+          "text": "Water",
+          "isCorrect": false,
+          "explanation": "Water has a moderate viscosity compared to glycerin and kerosene, which means it will settle after being stirred, but not as quickly as glycerin."
+        },
+        {
+          "letter": "C",
+          "text": "Kerosene",
+          "isCorrect": false,
+          "explanation": "Kerosene has a lower viscosity than glycerin and will take longer to come to rest after being stirred, making it the slowest of the three."
+        },
+        {
+          "letter": "D",
+          "text": "All of them at the same time",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the liquids have different viscosities, causing them to settle at different rates."
+        }
+      ],
+      "explanation": "Glycerin has the highest viscosity among the three, so it dissipates flow energy fastest and returns to rest quickest. Thus, glycerin is the correct option.",
+      "explanationImage": null,
+      "hints": [
+        "viscosity",
+        "comes to rest"
+      ]
+    },
+    {
+      "text": "Water is flowing in a pipe of diameter 4 cm with a velocity 3 m/s. The water then enters into a tube of diameter 2 cm. The velocity of water in the other pipe is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 m/s",
+          "isCorrect": false,
+          "explanation": "This option suggests that the velocity remains the same, which is incorrect because the area changes."
+        },
+        {
+          "letter": "B",
+          "text": "6 m/s",
+          "isCorrect": false,
+          "explanation": "This option indicates a doubling of velocity, which does not account for the significant change in cross-sectional area."
+        },
+        {
+          "letter": "C",
+          "text": "12 m/s",
+          "isCorrect": true,
+          "explanation": "Halving diameter reduces area by factor 4, so velocity increases by factor 4: v2 = 3×4 = 12 m/s."
+        },
+        {
+          "letter": "D",
+          "text": "8 m/s",
+          "isCorrect": false,
+          "explanation": "This option does not accurately reflect the relationship between area and velocity; it suggests a velocity increase that is not consistent with the area change."
+        }
+      ],
+      "explanation": "Halving diameter reduces area by factor 4, so velocity increases by factor 4: v2 = 3×4 = 12 m/s.",
+      "explanationImage": null,
+      "hints": [
+        "diameter",
+        "velocity",
+        "pipe"
+      ]
+    },
+    {
+      "text": "When water falls vertically from a tap, the cross-sectionalarea of the water stream gradually:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Area decreases",
+          "isCorrect": true,
+          "explanation": "As water falls, it accelerates under gravity increasing velocity; by continuity (A v = constant) the cross-sectional area of the stream decreases."
+        },
+        {
+          "letter": "B",
+          "text": "Area increases",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. An increase in the area would imply that the velocity decreases, which contradicts the observation that the water accelerates as it falls."
+        },
+        {
+          "letter": "C",
+          "text": "Velocity remains same",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The velocity of the water actually increases as it falls due to gravitational acceleration, thus it does not remain the same."
+        },
+        {
+          "letter": "D",
+          "text": "Area remains same",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. If the area were to remain the same, the velocity of the water would not change, which contradicts the observed acceleration of the water as it falls."
+        }
+      ],
+      "explanation": "As water falls, it accelerates under gravity increasing velocity; by continuity (A v = constant) the cross-sectional area of the stream decreases.",
+      "explanationImage": null,
+      "hints": [
+        "water",
+        "tap",
+        "streamline"
+      ]
+    },
+    {
+      "text": "If the viscosity of a fluid increases, the velocity boundarylayer formed over a surface becomes:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "More",
+          "isCorrect": true,
+          "explanation": "Higher viscosity enhances momentum diffusion from the wall into the flow, producing a thicker boundary layer compared with lower-viscosity fluids."
+        },
+        {
+          "letter": "B",
+          "text": "Less",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because lower viscosity would actually result in a thinner boundary layer since there is less internal friction slowing down the flow near the wall."
+        },
+        {
+          "letter": "C",
+          "text": "No effect",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as viscosity directly impacts the flow characteristics and consequently affects the thickness of the boundary layer."
+        },
+        {
+          "letter": "D",
+          "text": "Unpredictable",
+          "isCorrect": false,
+          "explanation": "This option is misleading because the effect of viscosity on the boundary layer is predictable: higher viscosity leads to a thicker boundary layer."
+        }
+      ],
+      "explanation": "Higher viscosity enhances momentum diffusion from the wall into the flow, producing a thicker boundary layer compared with lower-viscosity fluids.",
+      "explanationImage": null,
+      "hints": [
+        "viscosity",
+        "boundary layer"
+      ]
+    },
+    {
+      "text": "A water hose of internal diameter 20 mm at the outlet discharges 30 kg of water in 60s. What will be the water speed at the outlet? (Flow is steady and density of water is 1000 kg/m³)",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "25.6 m/s",
+          "isCorrect": false,
+          "explanation": "This option significantly overestimates the speed. It likely results from incorrect calculations of volumetric flow rate or area."
+        },
+        {
+          "letter": "B",
+          "text": "3.45 m/s",
+          "isCorrect": false,
+          "explanation": "This option also overestimates the speed. It may arise from misunderstanding the relationship between mass flow rate and volumetric flow rate."
+        },
+        {
+          "letter": "C",
+          "text": "1.23 m/s",
+          "isCorrect": false,
+          "explanation": "This option is still too high and does not correctly apply the formula for calculating speed from volumetric flow rate."
+        },
+        {
+          "letter": "D",
+          "text": "1.592 m/s",
+          "isCorrect": true,
+          "explanation": "Correct calculation: mass flow = 30 kg/60 s = 0.5 kg/s ⇒ volumetric Q = 0.5/1000 = 5×10⁻⁴ m³/s. Area A = π(0.01)² ≈ 3.14×10⁻⁴ m² ⇒ v = Q/A ≈ 0.0005/0.000314 ≈ 1.592 m/s."
+        }
+      ],
+      "explanation": "Correct calculation: mass flow = 30 kg/60 s = 0.5 kg/s ⇒ volumetric Q = 0.5/1000 = 5×10⁻⁴ m³/s. Area A = π(0.01)² ≈ 3.14×10⁻⁴ m² ⇒ v = Q/A ≈ 0.0005/0.000314 ≈ 1.592 m/s.",
+      "explanationImage": null,
+      "hints": [
+        "internal diameter",
+        "discharges 30 kg",
+        "density of water"
+      ]
+    },
+    {
+      "text": "Bernoulli's equation is in accordance with",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Law of conservation of mass",
+          "isCorrect": false,
+          "explanation": "This law states that mass cannot be created or destroyed in an isolated system. While it is fundamental in fluid dynamics, it does not directly relate to Bernoulli's equation, which focuses on energy conservation."
+        },
+        {
+          "letter": "B",
+          "text": "Law of conservation of energy",
+          "isCorrect": true,
+          "explanation": "Bernoulli’s equation is derived from energy conservation for a fluid element, equating pressure energy, potential energy and kinetic energy per unit weight along a streamline, so option B is correct."
+        },
+        {
+          "letter": "C",
+          "text": "Law of conservation of power",
+          "isCorrect": false,
+          "explanation": "The law of conservation of power is not a standard term in physics. Power is the rate of doing work or the rate of energy transfer, and it is not the focus of Bernoulli's equation."
+        },
+        {
+          "letter": "D",
+          "text": "Law of conservation of volume",
+          "isCorrect": false,
+          "explanation": "This concept is not a recognized principle in classical mechanics or fluid dynamics. Volume conservation does not apply in the context of Bernoulli's equation, which is concerned with energy rather than volume."
+        }
+      ],
+      "explanation": "Bernoulli’s equation is derived from energy conservation for a fluid element, equating pressure energy, potential energy and kinetic energy per unit weight along a streamline, so option B is correct.",
+      "explanationImage": null,
+      "hints": [
+        "Bernoulli's equation",
+        "conservation of energy"
+      ]
+    },
+    {
+      "text": "The unit of ρgh is same as that of",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Volume",
+          "isCorrect": false,
+          "explanation": "Volume is measured in cubic meters (m³) and does not relate to the calculation of pressure."
+        },
+        {
+          "letter": "B",
+          "text": "Area",
+          "isCorrect": false,
+          "explanation": "Area is measured in square meters (m²) and is not applicable in the context of pressure calculation."
+        },
+        {
+          "letter": "C",
+          "text": "Pressure",
+          "isCorrect": true,
+          "explanation": "ρgh has units (kg/m³)(m/s²)(m) = kg/(m·s²) = N/m², which is Pascal, the unit of pressure."
+        },
+        {
+          "letter": "D",
+          "text": "Velocity",
+          "isCorrect": false,
+          "explanation": "Velocity is measured in meters per second (m/s) and does not pertain to the calculation of pressure."
+        }
+      ],
+      "explanation": "ρgh has units (kg/m³)(m/s²)(m) = kg/(m·s²) = N/m², which is Pascal, the unit of pressure.",
+      "explanationImage": null,
+      "hints": [
+        "ρ",
+        "gh"
+      ]
+    },
+    {
+      "text": "When the drag force on the object becomes equal to its real weight then the:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Object will become stationary",
+          "isCorrect": false,
+          "explanation": "This option suggests that the object stops moving altogether, which is incorrect. When drag equals weight, the object does not stop moving; instead, it reaches a constant speed."
+        },
+        {
+          "letter": "B",
+          "text": "Object will fall freely",
+          "isCorrect": false,
+          "explanation": "This implies that the object is accelerating due to gravity without any drag force acting on it, which is not the case when drag equals the object's weight."
+        },
+        {
+          "letter": "C",
+          "text": "Object will fall with terminal velocity",
+          "isCorrect": true,
+          "explanation": "When drag force equals to its weight, net force is zero so acceleration ceases and the object falls at constant terminal velocity."
+        },
+        {
+          "letter": "D",
+          "text": "Object will fall with critical velocity",
+          "isCorrect": false,
+          "explanation": "Critical velocity is not a term used to describe the condition where the drag force equals weight. Instead, it refers to a specific speed where a transition occurs, not applicable in this context."
+        }
+      ],
+      "explanation": "When drag force equals weight, net force is zero so acceleration ceases and the object falls at constant terminal velocity.",
+      "explanationImage": null,
+      "hints": [
+        "drag force",
+        "real weight",
+        "terminal velocity"
+      ]
+    },
+    {
+      "text": "Eight spherical rain drops of same mass and radius are falling with terminal velocity 6 cm/s. If they combine to form one big drop, what is its terminal speed?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.5 cm/s",
+          "isCorrect": false,
+          "explanation": "This option incorrectly assumes that the terminal velocity is less than the original drops. Terminal velocity increases when the radius increases."
+        },
+        {
+          "letter": "B",
+          "text": "6 cm/s",
+          "isCorrect": false,
+          "explanation": "This option suggests that the terminal velocity remains unchanged. However, when drops combine, their size increases, leading to a higher terminal velocity."
+        },
+        {
+          "letter": "C",
+          "text": "24 cm/s",
+          "isCorrect": true,
+          "explanation": "Combining 8 equal drops doubles the radius (since volume ∝ r³). Terminal velocity scales ∝ r², so new velocity = 4×6 = 24 cm/s."
+        },
+        {
+          "letter": "D",
+          "text": "32 cm/s",
+          "isCorrect": false,
+          "explanation": "This option incorrectly assumes an even greater increase in terminal velocity than what occurs due to the change in radius."
+        }
+      ],
+      "explanation": "Combining 8 equal drops doubles the radius (since volume ∝ r³). Terminal velocity scales ∝ r², so new velocity = 4×6 = 24 cm/s.",
+      "explanationImage": null,
+      "hints": [
+        "spherical rain drops",
+        "terminal velocity",
+        "combine to form one big drop"
+      ]
+    },
+    {
+      "text": "The terminal velocity of a sphere of lead of radius 'r' falling through a viscous liquid varies with radius 'r' that:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "vₜ/r = constant",
+          "isCorrect": false,
+          "explanation": "This statement suggests that terminal velocity divided by radius remains constant, which does not reflect the dependence of terminal velocity on the radius squared as per Stokes' law."
+        },
+        {
+          "letter": "B",
+          "text": "vₜr= constant",
+          "isCorrect": false,
+          "explanation": "This implies that the product of terminal velocity and radius is constant. However, this does not accurately represent the relationship derived from Stokes' law."
+        },
+        {
+          "letter": "C",
+          "text": "vₜ = constant",
+          "isCorrect": false,
+          "explanation": "This suggests that terminal velocity does not change, which contradicts the understanding that it varies with the radius of the sphere and the properties of the fluid."
+        },
+        {
+          "letter": "D",
+          "text": "vₜ/r2= constant",
+          "isCorrect": true,
+          "explanation": "From Stokes’ law vt= (2/9)(ρ −ρ ) g r² / η, so vt ∝ r². Therefore vt/r² is constant for given fluid and material properties."
+        }
+      ],
+      "explanation": "From Stokes’ law vt= (2/9)(ρ −ρ ) g r² / η, so vt∝ r². Therefore vt/r² is constant for given fluid and material properties.",
+      "explanationImage": null,
+      "hints": [
+        "terminal velocity",
+        "radius",
+        "viscous liquid"
+      ]
+    },
+    {
+      "text": "Two hail stones of radi in the ratio of 1:3 fall from a great height through the atmosphere then there terminal velocity are in the ratio of:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1:2",
+          "isCorrect": false,
+          "explanation": "This option suggests that the terminal velocities are directly proportional to the radius. However, this does not take into account the correct relationship for spheres falling through a fluid."
+        },
+        {
+          "letter": "B",
+          "text": "4:1",
+          "isCorrect": false,
+          "explanation": "This option implies that the terminal velocity of the larger hailstone is four times that of the smaller one. This ratio does not reflect the correct dependency on the radius."
+        },
+        {
+          "letter": "C",
+          "text": "1 : √3",
+          "isCorrect": true,
+          "explanation": "For similar-density spheres under Stokes-like conditions, Vt ∝ r²; however if regime gives Vt ∝ √r (inertial-balance approximations) some questions use Vt ∝ √r. It assumes Vt ∝ √r, giving Vt ratio 1:√3."
+        },
+        {
+          "letter": "D",
+          "text": "2:1",
+          "isCorrect": false,
+          "explanation": "This option suggests a linear relationship between the terminal velocities and the radii of the hailstones, which is incorrect for the scenario described."
+        }
+      ],
+      "explanation": "For similar-density spheres under Stokes-like conditions, Vt ∝ r²; however if regime gives Vt ∝ √r (inertial-balance approximations) some questions use Vt ∝ √r. It assumes Vt ∝ √r, giving Vt ratio 1:√3.",
+      "explanationImage": null,
+      "hints": [
+        "hail stones",
+        "terminal velocity",
+        "ratio"
+      ]
+    },
+    {
+      "text": "When the speed of fluid is low, the flow is said to be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Laminar flow",
+          "isCorrect": false,
+          "explanation": "Laminar flow refers to smooth, orderly fluid motion where layers of fluid slide past one another with minimal mixing. This type of flow occurs at low speeds."
+        },
+        {
+          "letter": "B",
+          "text": "Turbulent flow",
+          "isCorrect": false,
+          "explanation": "Turbulent flow is characterized by chaotic and irregular fluid motion, which typically occurs at high speeds. Thus, it is not the correct answer for low-speed conditions."
+        },
+        {
+          "letter": "C",
+          "text": "Streamline flow",
+          "isCorrect": false,
+          "explanation": "Streamline flow describes the condition of fluid motion where the flow lines are smooth and continuous. This is synonymous with laminar flow but not the only term used for it."
+        },
+        {
+          "letter": "D",
+          "text": "Both A & C",
+          "isCorrect": true,
+          "explanation": "Low-speed, low-Reynolds-number flows are laminar and are often described as streamline flow; both terms apply."
+        }
+      ],
+      "explanation": "Low-speed, low-Reynolds-number flows are laminar and are often described as streamline flow; both terms apply.",
+      "explanationImage": null,
+      "hints": [
+        "speed",
+        "flow"
+      ]
+    },
+    {
+      "text": "The flow of fluid at low velocity (or low Reynolds Number) issaid to be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Laminar flow",
+          "isCorrect": true,
+          "explanation": "Laminar flow refers to a smooth, orderly flow of fluid where layers move parallel to each other with minimal disruption, typically occurring at low velocities."
+        },
+        {
+          "letter": "B",
+          "text": "Turbulent flow",
+          "isCorrect": false,
+          "explanation": "Turbulent flow is characterized by chaotic and irregular fluid motion, where layers mix and create eddies. This type of flow typically occurs at high velocities and higher pressures, making it the opposite of laminar flow."
+        },
+        {
+          "letter": "C",
+          "text": "Streamline flow",
+          "isCorrect": false,
+          "explanation": "Streamline flow is a term that can sometimes be used interchangeably with laminar flow, but it generally refers to the visual representation of fluid flow lines. It does not specifically denote low pressure conditions and can apply to various flow scenarios."
+        },
+        {
+          "letter": "D",
+          "text": "Both A and C",
+          "isCorrect": false,
+          "explanation": "This option suggests that both laminar flow and streamline flow are correct. While laminar flow is indeed correct, streamline flow is a broader concept that does not exclusively indicate low pressure, making this option incorrect."
+        }
+      ],
+      "explanation": "Laminar flow refers to a smooth, orderly flow of fluid where layers move parallel to each other with minimal disruption, typically occurring at low velocities.",
+      "explanationImage": null,
+      "hints": [
+        "low pressure",
+        "flow of fluid"
+      ]
+    },
+    {
+      "text": "The acceleration of a body when falling through viscousmedium is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "This option suggests that there is no acceleration, which is incorrect. In a viscous medium, a falling body experiences forces that affect its acceleration."
+        },
+        {
+          "letter": "B",
+          "text": "g",
+          "isCorrect": false,
+          "explanation": "This option implies that the body's acceleration equals gravitational acceleration, neglecting the effects of drag in a viscous medium. Hence, it is not the correct answer."
+        },
+        {
+          "letter": "C",
+          "text": "6πηrV - mg",
+          "isCorrect": false,
+          "explanation": "This expression represents a force, not acceleration, as it does not divide by mass (m). Thus, it cannot be the correct answer."
+        },
+        {
+          "letter": "D",
+          "text": "a = g - 6πηrV/m",
+          "isCorrect": true,
+          "explanation": "Net force = drag − weight = 6π η r V − m g; acceleration a = F = (6π η r V)/m − g. Thus option D expresses the net acceleration sign convention as given."
+        }
+      ],
+      "explanation": "Net force = drag − weight = 6π η r V − m g; acceleration a = F = (6π η r V)/m − g. Thus option D expresses the net acceleration sign convention as given.",
+      "explanationImage": null,
+      "hints": [
+        "acceleration",
+        "viscous medium"
+      ]
+    },
+    {
+      "text": "If a fluid drops or object moves downwards with constantspeed through a fluid, it's acceleration is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "g",
+          "isCorrect": false,
+          "explanation": "This option suggests that the body's acceleration is equal to gravitational acceleration. However, if the body is moving at a constant speed, this is not the case."
+        },
+        {
+          "letter": "B",
+          "text": "a > g",
+          "isCorrect": false,
+          "explanation": "This implies that the acceleration is greater than gravitational acceleration, which is incorrect because constant speed means there is no acceleration."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "isCorrect": true,
+          "explanation": "Constant speed implies zero acceleration (no change of velocity)."
+        },
+        {
+          "letter": "D",
+          "text": "constant",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests that acceleration remains constant. However, a body moving at constant speed has zero acceleration, not a constant non-zero value."
+        }
+      ],
+      "explanation": "Constant speed implies zero acceleration (no change of velocity).",
+      "explanationImage": null,
+      "hints": [
+        "constant",
+        "speed"
+      ]
+    },
+    {
+      "text": "The terminal velocity of eight droplets having same mass and size is Vt, when they are mixed together to form a single drop, their combined terminal velocity is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4Vt",
+          "isCorrect": true,
+          "explanation": "Combining 8 identical droplets doubles the radius (volume scales by 8 ⇒ rnew = 2 r). Since Vt ∝ r², Vnew = (2²) Vt = 4 Vt."
+        },
+        {
+          "letter": "B",
+          "text": "2Vt",
+          "isCorrect": false,
+          "explanation": "This option assumes a linear relationship between droplet merging and terminal velocity, which is incorrect. The terminal velocity actually scales with the square of the radius, not linearly."
+        },
+        {
+          "letter": "C",
+          "text": "8Vt",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests that the terminal velocity increases directly with the number of droplets. Instead, it should be based on the change in radius when merging."
+        },
+        {
+          "letter": "D",
+          "text": "Vt",
+          "isCorrect": false,
+          "explanation": "This option implies that the terminal velocity remains unchanged, which is not true. The merging of droplets increases the size and thus the terminal velocity."
+        }
+      ],
+      "explanation": "Combining 8 identical droplets doubles the radius (volume scales by 8 ⇒ r new = 2 r). Since Vt ∝ r², V new = (2²) Vt = 4 Vt.",
+      "explanationImage": null,
+      "hints": [
+        "terminal velocity",
+        "combined drop"
+      ]
+    },
+    {
+      "text": "Equation of continuity is based on the",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Law of conservation of mass",
+          "isCorrect": true,
+          "explanation": "Continuity (A₁v₁ = A₂v₂ ) ensures mass is conserved in steady incompressible flow: mass entering equals mass leaving."
+        },
+        {
+          "letter": "B",
+          "text": "Law of conservation of energy",
+          "isCorrect": false,
+          "explanation": "This law pertains to the conservation of energy in physical systems but does not directly relate to the flow of mass in fluids. While energy conservation is crucial in fluid dynamics, it is not the basis for the equation of continuity."
+        },
+        {
+          "letter": "C",
+          "text": "Law of conservation of charge",
+          "isCorrect": false,
+          "explanation": "This law applies to electrical systems and describes the conservation of electric charge. It is not relevant to the equation of continuity in fluid dynamics."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "This option implies that none of the presented laws apply, which is incorrect since the law of conservation of mass is indeed the foundational principle for the equation of continuity."
+        }
+      ],
+      "explanation": "Continuity (A₁v₁ = A₂v₂) ensures mass is conserved in steady incompressible flow: mass entering equals mass leaving.",
+      "explanationImage": null,
+      "hints": [
+        "Equation of continuity",
+        "conservation of mass"
+      ]
+    },
+    {
+      "text": "The nature of viscosity is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gravitational force",
+          "isCorrect": false,
+          "explanation": "Gravitational force is unrelated to viscosity, as it pertains to the attraction between masses and does not account for the resistance to flow caused by intermolecular forces."
+        },
+        {
+          "letter": "B",
+          "text": "Electromagnetic interactions",
+          "isCorrect": true,
+          "explanation": "Viscosity arises because adjacent layers of a fluid exchange momentum through intermolecular electromagnetic forces. These microscopic interactions resist relative motion, producing the internal friction known as viscosity. Cohesive forces are related to surface tension, not viscosity."
+        },
+        {
+          "letter": "C",
+          "text": "Cohesive force",
+          "isCorrect": false,
+          "explanation": "Cohesive forces are a type of intermolecular force that contributes to viscosity, but they do not fully encompass the electromagnetic interactions responsible for viscosity's effects."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "This option implies that viscosity is not related to any forces, which is incorrect since viscosity is fundamentally linked to intermolecular forces."
+        }
+      ],
+      "explanation": "Viscosity arises because adjacent layers of a fluid exchange momentum through intermolecular electromagnetic forces. These microscopic interactions resist relative motion, producing the internal friction known as viscosity. Cohesive forces are related to surface tension, not viscosity.",
+      "explanationImage": null,
+      "hints": [
+        "viscosity"
+      ]
+    },
+    {
+      "text": "Two spherical bodies of (iron) and steel having same masses their ratio of radii are 1:4, what will the ratio of their terminal velocities:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1:4",
+          "isCorrect": false,
+          "explanation": "This option suggests that the terminal velocity of the iron sphere is one-fourth that of the steel sphere. However, this does not take into account how the radius and mass interact to influence terminal velocity."
+        },
+        {
+          "letter": "B",
+          "text": "4:1",
+          "isCorrect": true,
+          "explanation": "For equal masses but different densities, radius affects terminal velocity through complex dependence; under typical assumptions Vt scales with r² for same fluid and similar density."
+        },
+        {
+          "letter": "C",
+          "text": "2:1",
+          "isCorrect": false,
+          "explanation": "This option suggests that the terminal velocity of the iron sphere is half that of the steel sphere. However, it does not accurately reflect the relationship defined by the radius ratio of 1:4."
+        },
+        {
+          "letter": "D",
+          "text": "1:2",
+          "isCorrect": false,
+          "explanation": "This option implies that the terminal velocity of the iron sphere is half that of the steel sphere, which is incorrect considering the provided radius ratio of 1:4."
+        }
+      ],
+      "explanation": "For equal masses but different densities, radius affects terminal velocity through complex dependence; under typical assumptions Vt scales with r² for same fluid and similar density.",
+      "explanationImage": null,
+      "hints": [
+        "spherical bodies",
+        "ratio of radii",
+        "terminal velocities"
+      ]
+    },
+    {
+      "text": "A big rain drop having terminal velocity of 32 m/sec is divided into eight equal rain drops terminal velocity of each small drop will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 m/s",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the terminal velocity of the larger drop does not remain the same after division. The velocity decreases as the radius of the drops decreases."
+        },
+        {
+          "letter": "B",
+          "text": "16 m/s",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While the terminal velocity decreases, it does not reduce to half. The relationship between radius and terminal velocity is quadratic, leading to a smaller velocity than 16 m/s."
+        },
+        {
+          "letter": "C",
+          "text": "8 m/s",
+          "isCorrect": true,
+          "explanation": "Splitting into 8 reduces each small drop’s radius to r/2 (since volume ∝ r³). If Vt ∝ r², then new V = Voriginal × (1/2)² = V/4 = 32/4 = 8 m/s."
+        },
+        {
+          "letter": "D",
+          "text": "64 m/s",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it suggests an increase in terminal velocity. Dividing a drop does not result in a larger velocity; rather, it leads to a decrease due to the reduced size."
+        }
+      ],
+      "explanation": "Splitting into 8 reduces each small drop’s radius to r/2 (since volume ∝ r³). If Vt ∝ r², then new V = Voriginal × (1/2)² = V/4 = 32/4 = 8 m/s.",
+      "explanationImage": null,
+      "hints": [
+        "terminal velocity",
+        "divided into eight equal drops"
+      ]
+    },
+    {
+      "text": "An ideal fluid flowing in two different pipes with speed with ratio of speed 4:1, the ratio of their radii:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4:1",
+          "isCorrect": false,
+          "explanation": "This option suggests that the ratio of the radii is the same as the ratio of the speeds. This is incorrect as it fails to apply the continuity equation properly."
+        },
+        {
+          "letter": "B",
+          "text": "1:4",
+          "isCorrect": false,
+          "explanation": "This option implies that the radius of the second pipe is four times larger than the first, which contradicts the relationship derived from the speed ratio."
+        },
+        {
+          "letter": "C",
+          "text": "1:2",
+          "isCorrect": false,
+          "explanation": "This option suggests a simple halving of the radius which does not align with the speed ratio of 4:1 according to the continuity equation."
+        },
+        {
+          "letter": "D",
+          "text": "2:1",
+          "isCorrect": true,
+          "explanation": "Continuity: v1v2 = (A2/A1) = (r2²/r1²). If v1:v2 = 4:1 ⇒ (r2/r1)² = 4 ⇒ r2/r1 = 2 ⇒ r1:r2 = 1:2"
+        }
+      ],
+      "explanation": "Continuity: v1/v2 = (A2/A1) = (r2²/r2²). If v1:v2 = 4:1 ⇒ (r2/r1)² = 4 ⇒ r2/r1 = 2 ⇒ r1:r2 = 1:2",
+      "explanationImage": null,
+      "hints": [
+        "ideal fluid",
+        "ratio of radii"
+      ]
+    },
+    {
+      "text": "When the drag force is equal to the weight of the droplet, the droplet will fall with:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "High Speed",
+          "isCorrect": false,
+          "explanation": "The question is about motion condition, not magnitude. The droplet may or may not be fast : what matters is that it stops accelerating so this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Low Speed",
+          "isCorrect": false,
+          "explanation": "The question is about motion condition, not magnitude. The droplet may or may not be fast : what matters is that it stops accelerating so this option is also incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Certain acceleration",
+          "isCorrect": false,
+          "explanation": "Acceleration occurs only when forces are unbalanced. Here, drag force = weight, so net force = 0, meaning acceleration is zero, not “certain”."
+        },
+        {
+          "letter": "D",
+          "text": "Constant Speed",
+          "isCorrect": true,
+          "explanation": "When the drag force equals the weight of the droplet, the net force becomes zero. With no net force, there is no acceleration, and the droplet falls with a constant (terminal) speed."
+        }
+      ],
+      "explanation": "When the drag force equals the weight of the droplet, the net force becomes zero. With no net force, there is no acceleration, and the droplet falls with a constant (terminal) speed.",
+      "explanationImage": null,
+      "hints": [
+        "drag force",
+        "droplet"
+      ]
+    },
+    {
+      "text": "What is the speed of an incompressible non-viscous liquid flowing out from ‘B’ contained in a container as shown in the figure? Where AB = 5 m and g = 10 m/s₂",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "5m/s",
+          "isCorrect": false,
+          "explanation": "This option suggests a lower exit speed, which is incorrect as it does not take into account the full height of the liquid column and gravitational acceleration."
+        },
+        {
+          "letter": "B",
+          "text": "10m/s",
+          "isCorrect": true,
+          "explanation": "v2=u2+ 2as→v2=0+2(5)(10)→v2=100→v= 10m/s. As it is a numerical, it can have only one possible answer."
+        },
+        {
+          "letter": "C",
+          "text": "2m/s",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it underestimates the speed based on the height of the liquid column and gravitational acceleration."
+        },
+        {
+          "letter": "D",
+          "text": "50m/s",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect; it greatly overestimates the speed without proper justification from the equation of motion."
+        }
+      ],
+      "explanation": "v2=u2+2as→v2 =0+2(5)(10)→v2=100→v= 10 m/s. As it is a numerical, it can have only one possible answer.",
+      "explanationImage": null,
+      "hints": [
+        "incompressible",
+        "non-viscous",
+        "g = 10 m/s²"
+      ]
+    },
+    {
+      "text": "Which of the following is the best graphical representation between drag force ‘F’ on a spherical object of radius ‘r’ and its speed ‘v’ through a fluid of viscosity ‘η’?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": true,
+          "explanation": "The equation of stokes law (F = 6πrην) shows that force and velocity are directly proportional to each other for a sphere with constant radius 'r' moving through a liquid of viscosity n. Hence the graph must be a straight line passing through the origin."
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It does not represent the direct proportionality between drag force and speed as described by Stokes' law."
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It fails to illustrate the linear relationship that exists between drag force and speed in a viscous fluid."
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It does not reflect the fundamental principles of fluid dynamics related to drag force on a spherical object."
+        }
+      ],
+      "explanation": "The equation of stokes law (F = 6πrην) shows that force and velocity are directly proportional to each other for a sphere with constant radius 'r' moving through a liquid of viscosity n. Hence the graph must be a straight line passing through the origin.",
+      "explanationImage": null,
+      "hints": [
+        "drag force",
+        "spherical object",
+        "speed"
+      ]
+    },
+    {
+      "text": "The diagram shows a pipe of uniform cross section in which water is flowing. The directions of flow and the volume flow rates in cm³/s are shown for various portions of the pipe. The direction of flow and the volume flow rate in the portion marked A are:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "↓ and 3 cm³/s",
+          "isCorrect": false,
+          "explanation": "This option suggests a downward flow with a low flow rate. However, if the flow rate in other sections of the pipe is higher, this option does not satisfy the continuity equation."
+        },
+        {
+          "letter": "B",
+          "text": "↑ and 7 cm³/s",
+          "isCorrect": false,
+          "explanation": "This option indicates an upward flow, which contradicts the direction indicated in the question. Additionally, the flow rate is lower than expected based on the information provided."
+        },
+        {
+          "letter": "C",
+          "text": "↑ and 11 cm³/s",
+          "isCorrect": false,
+          "explanation": "This option also suggests an upward flow. Moreover, the flow rate is inconsistent with the flow rates in the other sections, failing to satisfy the continuity principle."
+        },
+        {
+          "letter": "D",
+          "text": "↓ and 15 cm³/s",
+          "isCorrect": true,
+          "explanation": "volume rate flow in = volume flow rate out"
+        }
+      ],
+      "explanation": "applying conservation of volume at the junction (total flow in= total flow out). Flows into the junction: 6 (from left) + 3(top left downward) + 5 (top right downward) + 4 (frombottom right upward into junction) = 18 cm³/s into thejunction. Flows out of the junction: 3 (to the right) + flowthrough A. So flow through A = 18 − 3 = 15 cm³/s, and it mustbe leaving the junction (i.e. downwards) to balance the others.",
+      "explanationImage": null,
+      "hints": [
+        "uniform cross section",
+        "volume flow rates"
+      ]
+    },
+    {
+      "text": "Which figure shows correct representation of water level in capillaries attached with a pipe in which water is flowing",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": true,
+          "explanation": "Where the diameter of a pipe is narrow, pressure will be low, and the water level will decrease."
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": "This option does not accurately represent the relationship between pipe diameter and water level, as it fails to show the expected decrease in water level in a narrow section."
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": "This option also fails to depict the correct behavior of water levels in capillaries connected to a pipe, ignoring the principle of pressure variation with diameter changes."
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": false,
+          "explanation": "This option misrepresents the fluid dynamics involved, as it does not show the expected decrease in water level in a narrower pipe section."
+        }
+      ],
+      "explanation": "Where the diameter of a pipe is narrow, pressure will be low, and the water level will decrease. So option A is correct.",
+      "explanationImage": null,
+      "hints": [
+        "water level",
+        "capillaries",
+        "pipe"
+      ]
+    },
+    {
+      "text": "The speed of efflux of a liquid streaming out of an orifice ‘O’ in a tank depends on:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Can’t be predicted",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the speed of efflux can be predicted using Torricelli's law, which relates it to the height of the liquid above the orifice."
+        },
+        {
+          "letter": "B",
+          "text": "h2",
+          "isCorrect": false,
+          "explanation": "This option is misleading. While h2 represents a liquid height, it does not directly correlate to the speed of efflux without considering the height difference from the orifice."
+        },
+        {
+          "letter": "C",
+          "text": "h1",
+          "isCorrect": false,
+          "explanation": "This option is not correct, as h1 alone does not determine the speed of the liquid exiting the orifice. The relevant factor is the difference in height."
+        },
+        {
+          "letter": "D",
+          "text": "h2-h1",
+          "isCorrect": true,
+          "explanation": "v=√2g(h1-h2 ; where h1-h2 is the height above the orifice which is directly proportional to v."
+        }
+      ],
+      "explanation": "v=√2g(h1-h2 ; where h1-h2 is the height above the orifice which is directly proportional to v.",
+      "explanationImage": null,
+      "hints": [
+        "efflux",
+        "height",
+        "orifice"
+      ]
+    },
+    {
+      "text": "Pressure of a gas is directly proportional to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Average K.E. of its molecules",
+          "isCorrect": false,
+          "explanation": "In gases, total kinetic energy includes translational, rotational, and vibrational energies. But not all of these exist significantly in ordinary gases, especially vibration."
+        },
+        {
+          "letter": "B",
+          "text": "Average vibrational K.E. of its molecules",
+          "isCorrect": false,
+          "explanation": "Gas molecules are not closely packed, so they don’t vibrate about fixed positions like solids."
+        },
+        {
+          "letter": "C",
+          "text": "Average translational K.E. of its molecules",
+          "isCorrect": true,
+          "explanation": "According to the kinetic theory of gases, gas pressure arises from collisions of molecules with the walls, which depend on their translational motion. Hence, the pressure of a gas is directly proportional to the average translational kinetic energy of its molecules."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": false,
+          "explanation": "This would be correct only if all types of kinetic energy affected pressure, but they don’t. Only translational motion matters, so “all” is clearly wrong."
+        }
+      ],
+      "explanation": "According to the kinetic theory of gases, gas pressure arises from collisions of molecules with the walls, which depend on their translational motion. Hence, the pressure of a gas is directly proportional to the average translational kinetic energy of its molecules.",
+      "explanationImage": null,
+      "hints": [
+        "Pressure",
+        "directly proportional"
+      ]
+    },
+    {
+      "text": "Two light balls are suspended as shown in the figure. When a stream of air passes between them, the pressure between them:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increases",
+          "isCorrect": false,
+          "explanation": "This option suggests that the pressure between the balls increases as air flows between them, which contradicts Bernoulli's principle."
+        },
+        {
+          "letter": "B",
+          "text": "Decreases",
+          "isCorrect": true,
+          "explanation": "When the speed is high pressure will be low."
+        },
+        {
+          "letter": "C",
+          "text": "Remains same",
+          "isCorrect": false,
+          "explanation": "This option implies that the pressure does not change, which is incorrect as the airflow creates a pressure differential according to Bernoulli's principle."
+        },
+        {
+          "letter": "D",
+          "text": "Data is insufficient",
+          "isCorrect": false,
+          "explanation": "This option suggests a lack of information, but the principles of fluid dynamics, specifically Bernoulli's equation, provide sufficient data to determine the pressure change."
+        }
+      ],
+      "explanation": "When the speed is high pressure will be low.",
+      "explanationImage": null,
+      "hints": [
+        "stream of air",
+        "pressure",
+        "between them"
+      ]
+    },
+    {
+      "text": "A liquid flows through a tube of non-uniform area of cross- section, the ratio of velocities of liquid A to B is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "a1/a2",
+          "isCorrect": false,
+          "explanation": "This option suggests that the velocity ratio is inversely proportional to the area ratio. However, according to the principle of continuity, this is not correct."
+        },
+        {
+          "letter": "B",
+          "text": "a2/a1",
+          "isCorrect": true,
+          "explanation": "Using the continuity equation for incompressible flow:A₁v₁ = A₂v₂ Rewriting for the velocity ratio:v₁ / v₂ = A₂ / A₁Thus, the correct choice is option B."
+        },
+        {
+          "letter": "C",
+          "text": "√a2/√a1",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests that the velocity ratio involves the square root of the areas, which does not apply in this context."
+        },
+        {
+          "letter": "D",
+          "text": "√a1/√a2",
+          "isCorrect": false,
+          "explanation": "Similar to the previous option, this also incorrectly uses the square root of the areas, which does not relate to the principle of continuity for flow rates."
+        }
+      ],
+      "explanation": "Using the continuity equation for incompressible flow:A₁v₁ = A₂v₂Rewriting for the velocity ratio:v₁ / v₂ = A₂ / A₁​​Thus, the correct choice is option B.",
+      "explanationImage": null,
+      "hints": [
+        "liquid",
+        "tube",
+        "velocity"
+      ]
+    },
+    {
+      "text": "An ideal fluid flows from a tube of uniform cross-section shown in the figure. The liquid has velocities va and vb and pressure Pa and Pb at point A and B respectively. The quantity which will remain unaffected are:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Fluid Dynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "vₐ = vᵦ",
+          "isCorrect": false,
+          "explanation": "This option suggests that the velocities at points A and B are equal. However, in an ideal fluid flowing through a tube of uniform cross-section, if the cross-sectional area is constant, the velocities can be equal, but this is not necessarily true without further context."
+        },
+        {
+          "letter": "B",
+          "text": "Pₐ = Pᵦ",
+          "isCorrect": false,
+          "explanation": "This option states that the pressures at points A and B are equal. While pressure can change in a fluid flow, in a uniform cross-section, the pressures are not necessarily equal unless specified by additional constraints."
+        },
+        {
+          "letter": "C",
+          "text": "Vₐ > Vᵦ",
+          "isCorrect": false,
+          "explanation": "This option claims that the velocity at point A is greater than the velocity at point B. In a tube with uniform cross-section, this would not hold true unless the flow conditions indicate a change in cross-sectional area, which is not the case here."
+        },
+        {
+          "letter": "D",
+          "text": "Both ‘a’ and ‘b’",
+          "isCorrect": true,
+          "explanation": "Both velocity and pressure will remain same for the same cross-sectional area of pipe."
+        }
+      ],
+      "explanation": "Both velocity and pressure will remain same for the same cross-sectional area of pipe.",
+      "explanationImage": null,
+      "hints": [
+        "uniform cross-section",
+        "velocities va and vb",
+        "pressure Pa and Pb"
+      ]
+    }
+  ]
+}

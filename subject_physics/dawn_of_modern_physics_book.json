@@ -1,0 +1,795 @@
+{
+  "questions": [
+    {
+      "text": "The work function of a metal is 1 eV. Light of wavelength 3000 Å is incident on this metal surface. The velocity of the emitted photoelectrons will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 m/sec",
+          "isCorrect": false,
+          "explanation": "This option significantly underestimates the kinetic energy of the emitted electrons, suggesting a misunderstanding of the photoelectric effect's calculations."
+        },
+        {
+          "letter": "B",
+          "text": "1x10³ m/sec",
+          "isCorrect": false,
+          "explanation": "This option still does not account for the sufficient energy provided by the incident light to overcome the work function, leading to an inaccurate estimate of the photoelectron velocity."
+        },
+        {
+          "letter": "C",
+          "text": "1x10⁴ m/sec",
+          "isCorrect": false,
+          "explanation": "While closer, this option still fails to accurately capture the kinetic energy available to the emitted electrons after overcoming the work function."
+        },
+        {
+          "letter": "D",
+          "text": "1x10⁶ m/sec",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The calculations show that the energy from the incident photons exceeds the work function, resulting in a high velocity for the emitted photoelectrons."
+        }
+      ],
+      "explanation": "Photon energy E = hc/λ = (6.626 × 10⁻³⁴ × 3 × 10⁸)/(3 × 10⁻⁷) ≈ 6.626 × 10⁻¹⁹ J. Work function Φ = 1 eV = 1.602 × 10⁻¹⁹ J. Kinetic energy = E - Φ = 5.024 × 10⁻¹⁹ J. Velocity v = √(2KE/m) = √[(2 × 5.024 × 10⁻¹⁹)/(9.109 × 10⁻³¹)] ≈ 1.05 × 10⁶ m/s.",
+      "explanationImage": null,
+      "hints": [
+        "work function",
+        "wavelength",
+        "photoelectrons"
+      ]
+    },
+    {
+      "text": "A material whose K absorption edge is 0.15 Å is irradiated with 0.1 Å X-rays. The maximum kinetic energy of the photoelectrons emitted from the K-shell is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "41 keV",
+          "isCorrect": true,
+          "explanation": "This option is correct. The maximum kinetic energy is calculated by subtracting the binding energy corresponding to the K absorption edge from the energy of the incident X-ray photons."
+        },
+        {
+          "letter": "B",
+          "text": "51 keV",
+          "isCorrect": false,
+          "explanation": "This value is incorrect. It suggests a misunderstanding in calculating the energy difference between the photon energy and the binding energy of the K-shell."
+        },
+        {
+          "letter": "C",
+          "text": "61 keV",
+          "isCorrect": false,
+          "explanation": "This option is not correct, as it implies a kinetic energy that is higher than what can be obtained from the difference between the photon energy and the binding energy."
+        },
+        {
+          "letter": "D",
+          "text": "71 keV",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it exceeds the maximum kinetic energy possible given the initial conditions of the problem."
+        }
+      ],
+      "explanation": "Photon energy for 0.1 Å X-rays = 124 keV , while K-edge energy (0.15 Å) = 82. 7 keV .Photoelectron kinetic energy = incident photon energy - binding energy =124 - 82.7 = 41 keV.Hence , the maximum kinetic energy is 41 keV .",
+      "explanationImage": null,
+      "hints": [
+        "K absorption edge",
+        "0.1 Å X-rays"
+      ]
+    },
+    {
+      "text": "If the rate of emission of energy from a star is 2.7 × 10³⁶ J/sec, the rate of loss of mass in the star will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 × 10¹⁸ kg/sec",
+          "isCorrect": false,
+          "explanation": "This option underestimates the mass loss based on the given energy emission rate. It does not correctly apply the formula E = mc²."
+        },
+        {
+          "letter": "B",
+          "text": "3 × 10¹⁹ kg/sec",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. It calculates the mass loss by using E = mc², where m = E/c² = (2.7 × 10³⁶)/(9 × 10¹⁶)."
+        },
+        {
+          "letter": "C",
+          "text": "3 × 10²⁰ kg/sec",
+          "isCorrect": false,
+          "explanation": "This option overestimates the mass loss. It does not correctly apply the energy to mass conversion formula."
+        },
+        {
+          "letter": "D",
+          "text": "3 × 10²¹ kg/sec",
+          "isCorrect": false,
+          "explanation": "This option significantly overestimates the mass loss. Proper calculations show a much lower value based on the emission rate provided."
+        }
+      ],
+      "explanation": "Using E = mc², mass loss m = E/c² = (2.7 × 10³⁶)/(9 × 10¹⁶) = 3 × 10¹⁹ kg/sec.",
+      "explanationImage": null,
+      "hints": [
+        "rate of emission",
+        "loss of mass"
+      ]
+    },
+    {
+      "text": "When photons of energy hv are incident on a photosensitive material of work function hv₀, then:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The kinetic energy of all emitted electrons is hv₀",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it suggests that the emitted electrons have kinetic energy equal to the work function, which is not true. The work function represents the minimum energy required to release an electron from the material, not the kinetic energy of the emitted electrons."
+        },
+        {
+          "letter": "B",
+          "text": "The kinetic energy of all emitted electrons is h(v-v₀)",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it implies that all emitted electrons have the same kinetic energy, which does not account for the range of energies among emitted electrons. While the equation is correct for the maximum kinetic energy, it does not apply to all emitted electrons."
+        },
+        {
+          "letter": "C",
+          "text": "The kinetic energy of the fastest electron is h(v-v₀)",
+          "isCorrect": true,
+          "explanation": "This option is correct. According to the photoelectric effect, the maximum kinetic energy of the fastest emitted electron is given by the difference between the photon energy and the work function, which is h(v - v₀)."
+        },
+        {
+          "letter": "D",
+          "text": "The kinetic energy of all emitted electrons is hv",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it suggests that all emitted electrons possess the total energy of the incident photons. However, the work function must be subtracted from the photon energy to find the kinetic energy of the emitted electrons."
+        }
+      ],
+      "explanation": "Photon energy is hv, work function is hv₀. Maximum kinetic energy of emitted electrons is h(v - v₀).",
+      "explanationImage": null,
+      "hints": [
+        "photons of energy hv",
+        "work function hv₀",
+        "kinetic energy of emitted electrons"
+      ]
+    },
+    {
+      "text": "The surface of a metal is illuminated with light of 400 nm. The kinetic energy of the ejected photoelectrons was found to be 1.68 eV. The work function of the metal is: (hc = 1240 eV.nm)",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.09 eV",
+          "isCorrect": false,
+          "explanation": "This value suggests a work function that is higher than the photon energy, which is incorrect as the work function must be less than the energy of the incoming photon."
+        },
+        {
+          "letter": "B",
+          "text": "1.41 eV",
+          "isCorrect": true,
+          "explanation": "This is the correct calculation: Photon energy E = hc/λ = 1240/400 = 3.1 eV. The kinetic energy KE = 1.68 eV. Thus, the work function Φ = E - KE = 3.1 - 1.68 = 1.42 eV, which rounds to approximately 1.41 eV."
+        },
+        {
+          "letter": "C",
+          "text": "1.51 eV",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it does not accurately reflect the relationship between the photon energy and the kinetic energy of the ejected electrons."
+        },
+        {
+          "letter": "D",
+          "text": "1.68 eV",
+          "isCorrect": false,
+          "explanation": "This option represents the kinetic energy of the ejected electrons, not the work function, hence it is incorrect."
+        }
+      ],
+      "explanation": "Photon energy E = hc/λ = 1240/400 = 3.1 eV. Kinetic energy KE = 1.68 eV. Work function Φ = E - KE = 3.1 - 1.68 = 1.42 eV ≈ 1.41 eV.",
+      "explanationImage": null,
+      "hints": [
+        "400 nm",
+        "1.68 eV"
+      ]
+    },
+    {
+      "text": "A cesium photocell, with a steady potential difference of 60V across it, is illuminated by a bright point source of light 50cm away. When the same light is placed 1m away, the photoelectrons emitted from the cell:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Are one quarter as numerous",
+          "isCorrect": true,
+          "explanation": "This option is correct because the intensity of light decreases with the square of the distance. When the light source is moved from 50 cm to 1 m away, the intensity reduces to one-quarter of its original value, leading to one-quarter the number of emitted photoelectrons."
+        },
+        {
+          "letter": "B",
+          "text": "Are half as numerous",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the intensity decrease is not linear with distance. Doubling the distance results in a reduction by a factor of four, not two."
+        },
+        {
+          "letter": "C",
+          "text": "Each carry one quarter of their previous momentum",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as the momentum of photoelectrons is influenced by the energy of the incident photons, not directly by the number of emitted electrons or their distance from the light source."
+        },
+        {
+          "letter": "D",
+          "text": "Each carry one quarter of their previous energy",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because while intensity affects the number of emitted photoelectrons, the energy of each photoelectron is determined by the energy of individual photons, which does not change based on distance in this context."
+        }
+      ],
+      "explanation": "Intensity decreases with distance squared, I' = I/(2)² = I/4. Photoelectron number is proportional to intensity, reducing to one-quarter.",
+      "explanationImage": null,
+      "hints": [
+        "cesium photocell",
+        "distance of 1m"
+      ]
+    },
+    {
+      "text": "In an experiment, a tungsten cathode with a threshold wavelength of 2300 Å is irradiated by ultraviolet light of wavelength 1800 Å. The maximum energy of emitted photoelectrons will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.2 eV",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The calculated maximum kinetic energy of the emitted photoelectrons is significantly higher than 1.2 eV based on the given wavelengths."
+        },
+        {
+          "letter": "B",
+          "text": "1.5 eV",
+          "isCorrect": true,
+          "explanation": "This is the correct option. The maximum kinetic energy of the emitted photoelectrons is derived from the photon energy minus the threshold energy, yielding approximately 1.5 eV."
+        },
+        {
+          "letter": "C",
+          "text": "1.6 eV",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The value 1.6 eV does not correspond to the calculated maximum kinetic energy based on the photon energy and threshold energy."
+        },
+        {
+          "letter": "D",
+          "text": "1.8 eV",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The calculated maximum kinetic energy is lower than 1.8 eV, making this option not valid based on the given parameters."
+        }
+      ],
+      "explanation": "Threshold energy Φ = hc/λ₀ = 1240/2300 ≈ 5.39 eV. Photon energy E = hc/λ = 1240/1800 ≈ 6.89 eV. Maximum KE = E - Φ = 6.89 - 5.39 ≈ 1.5 eV.",
+      "explanationImage": null,
+      "hints": [
+        "tungsten cathode",
+        "threshold wavelength",
+        "maximum energy"
+      ]
+    },
+    {
+      "text": "The frequency of incident light falling on a photosensitive plate is doubled, then the maximum kinetic energy of the emitted photoelectrons will become:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 times the earlier value",
+          "isCorrect": false,
+          "explanation": "This option suggests that doubling the frequency will simply double the maximum kinetic energy. However, this does not account for the work function of the material."
+        },
+        {
+          "letter": "B",
+          "text": "More than 2 times the earlier value",
+          "isCorrect": true,
+          "explanation": "Correct! When the frequency is doubled, the kinetic energy increases more than twofold due to the additional energy provided by the work function term."
+        },
+        {
+          "letter": "C",
+          "text": "Less than 2 times the earlier value",
+          "isCorrect": false,
+          "explanation": "This option implies that the kinetic energy will increase but not significantly, which underestimates the effect of doubling the frequency."
+        },
+        {
+          "letter": "D",
+          "text": "Unchanged",
+          "isCorrect": false,
+          "explanation": "This option indicates that the kinetic energy remains constant regardless of the change in frequency, which contradicts the principles of the photoelectric effect."
+        }
+      ],
+      "explanation": "Initial KE = h(v - v₀). Doubled frequency: KE₁ = h(2v - v₀) = 2h(v - v₀) + hv₀ = 2KE + hv₀, which is more than doubled due to the hv₀ term.",
+      "explanationImage": null,
+      "hints": [
+        "frequency",
+        "maximum kinetic energy"
+      ]
+    },
+    {
+      "text": "Stopping potentials of 24, 100, 110, 115 kV are measured for photoelectrons emitted from a certain element when irradiated with monochromatic X-rays. The element is used as a target in an X-ray tube. The energy of the K line is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "54 keV",
+          "isCorrect": false,
+          "explanation": "This option does not satisfy the energy difference calculated from the given stopping potentials. Therefore, it is not the correct answer."
+        },
+        {
+          "letter": "B",
+          "text": "76 keV",
+          "isCorrect": true,
+          "explanation": "This is the correct answer, as it is derived from the stopping potentials measured. The energy difference corresponds to the K line energy based on the observed photoelectric effect."
+        },
+        {
+          "letter": "C",
+          "text": "88 keV",
+          "isCorrect": false,
+          "explanation": "This value exceeds the calculated stopping potentials and does not align with the energy transitions observed in this experiment."
+        },
+        {
+          "letter": "D",
+          "text": "32 keV",
+          "isCorrect": false,
+          "explanation": "This option is significantly lower than the expected energy difference from the stopping potentials and therefore cannot be correct."
+        }
+      ],
+      "explanation": "The K line energy corresponds to the difference in stopping potentials, calculated as 76 keV based on the energy transitions.",
+      "explanationImage": null,
+      "hints": [
+        "stopping potentials",
+        "photoelectrons",
+        "K line energy"
+      ]
+    },
+    {
+      "text": "1.5 mW of 400 nm light is directed at a photoelectric cell. If 0.1% of the incident photons produce photoelectrons, the current in the cell is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.48 μA",
+          "isCorrect": true,
+          "explanation": "This option correctly calculates the current based on the energy of the photons, the number of photons striking the cell, and the percentage that generates photoelectrons."
+        },
+        {
+          "letter": "B",
+          "text": "0.42 mA",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it significantly overestimates the current by miscalculating either the number of photons or the current generated from the photoelectrons."
+        },
+        {
+          "letter": "C",
+          "text": "0.48 mA",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it also overestimates the current, similar to Option B, likely by not applying the correct conversion from the number of photoelectrons to current."
+        },
+        {
+          "letter": "D",
+          "text": "0.42 μA",
+          "isCorrect": false,
+          "explanation": "This option is incorrect and underestimates the current, possibly due to an error in calculating the fraction of photons producing electrons."
+        }
+      ],
+      "explanation": "Photon energy E = hc/λ = 1240/400 ≈ 3.1 eV = 4.96 × 10⁻¹⁹ J. Number of photons n = P/E = (1.5 × 10⁻³)/(4.96 × 10⁻¹⁹) ≈ 3.02 × 10¹⁵. Photoelectrons = 0.001n. Current = nq = (0.001 × 3.02 × 10¹⁵) × (1.6 × 10⁻¹⁹) ≈ 0.48 μA.",
+      "explanationImage": null,
+      "hints": [
+        "400 nm light",
+        "0.1% of the incident photons",
+        "current in the cell"
+      ]
+    },
+    {
+      "text": "All electrons ejected from a surface by incident light of wavelength 200 nm can be stopped before traveling 1 m in a uniform electric field of 4 N/C. The work function of the surface is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 eV",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A work function of 4 eV would imply that the kinetic energy of the emitted electrons is zero when they are fully stopped by the electric field, which does not align with the calculated stopping potential."
+        },
+        {
+          "letter": "B",
+          "text": "6.2 eV",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A work function of 6.2 eV would suggest that no kinetic energy is available to the electrons, which contradicts the scenario where they are ejected and then stopped by the electric field."
+        },
+        {
+          "letter": "C",
+          "text": "2 eV",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A work function of 2 eV would suggest that the electrons have too much kinetic energy to be stopped by the given electric field, meaning they would travel beyond 1 m."
+        },
+        {
+          "letter": "D",
+          "text": "2.2 eV",
+          "isCorrect": true,
+          "explanation": "This is the correct option. The stopping potential energy calculated is approximately 4 eV, and the energy of the incident photons is 6.2 eV. Therefore, the work function is Φ = E - KE = 6.2 eV - 4 eV = 2.2 eV."
+        }
+      ],
+      "explanation": "Stopping potential energy = qEd = 1.6 × 10⁻¹⁹ × 4 × 1 ≈ 4 eV. Photon energy E = hc/λ = 1240/200 = 6.2 eV. Work function Φ = E - KE = 6.2 - 4 ≈ 2.2 eV.",
+      "explanationImage": null,
+      "hints": [
+        "wavelength 200 nm",
+        "electric field of 4 N/C"
+      ]
+    },
+    {
+      "text": "The work function of a substance is 4 eV. The approximate longest wavelength of light that can cause photo-emission is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "309 nm",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The threshold wavelength can be calculated using the formula λ = hc/Φ, where h is Planck's constant, c is the speed of light, and Φ is the work function. Substituting in the values gives λ ≈ 310 nm, which rounds to 309 nm."
+        },
+        {
+          "letter": "B",
+          "text": "209 nm",
+          "isCorrect": false,
+          "explanation": "This option corresponds to a wavelength shorter than the threshold wavelength needed to overcome the work function of 4 eV. Therefore, it is not a valid choice for causing photo-emission."
+        },
+        {
+          "letter": "C",
+          "text": "109 nm",
+          "isCorrect": false,
+          "explanation": "This option represents an even shorter wavelength that would require more energy than the work function of the substance. Thus, it also cannot be used to cause photo-emission."
+        },
+        {
+          "letter": "D",
+          "text": "9 nm",
+          "isCorrect": false,
+          "explanation": "This wavelength is significantly shorter than necessary for photo-emission and corresponds to a much higher energy photon than the work function allows. Therefore, this option is incorrect."
+        }
+      ],
+      "explanation": "Threshold wavelength λ = hc/Φ = 1240/4 ≈ 310 nm ≈ 309 nm.",
+      "explanationImage": null,
+      "hints": [
+        "work function",
+        "photo-emission"
+      ]
+    },
+    {
+      "text": "A modern 200-watt sodium street lamp emits yellow light of wavelength 0.6 µm. Assuming it is 25% efficient in converting electrical energy to light, the number of photons emitted per second is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6.2 × 10²⁰",
+          "isCorrect": false,
+          "explanation": "This option overestimates the number of photons by not correctly calculating the effective power and photon energy."
+        },
+        {
+          "letter": "B",
+          "text": "3 × 10¹⁹",
+          "isCorrect": false,
+          "explanation": "This option underestimates the number of photons by not accounting for the correct values of effective power and photon energy."
+        },
+        {
+          "letter": "C",
+          "text": "1.5 × 10²⁰",
+          "isCorrect": true,
+          "explanation": "This is the correct calculation. It accurately derives the number of photons emitted per second using the effective power of 50 W and the energy of each photon calculated at approximately 3.3 × 10⁻¹⁹ J."
+        },
+        {
+          "letter": "D",
+          "text": "6 × 10¹⁸",
+          "isCorrect": false,
+          "explanation": "This option greatly underestimates the number of photons emitted, failing to use the correct calculations for effective power and photon energy."
+        }
+      ],
+      "explanation": "Photon energy E = hc/λ = (6.6 × 10⁻³⁴ × 3 × 10⁸)/(0.6 × 10⁻⁶) ≈ 3.3 × 10⁻¹⁹ J. Effective power = 0.25 × 200 = 50 W. Number of photons N = P/E = 50/(3.3 × 10⁻¹⁹) ≈ 1.5 × 10²⁰.",
+      "explanationImage": null,
+      "hints": [
+        "200-watt",
+        "25% efficient",
+        "0.6 µm"
+      ]
+    },
+    {
+      "text": "The human eye can barely detect yellow light (6000 Å) that delivers 1.7 × 10⁻¹⁸ watt to the retina. Nearly how many photons per second does the retina receive?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "50",
+          "isCorrect": false,
+          "explanation": "This option underestimates the number of photons since the energy delivered is significantly higher than what corresponds to just 50 photons."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "This option is too low for the number of photons required for the human eye to detect yellow light at this power level."
+        },
+        {
+          "letter": "C",
+          "text": "500",
+          "isCorrect": false,
+          "explanation": "While this number is higher, it still does not account for the actual energy levels involved, as millions of photons are needed for detection."
+        },
+        {
+          "letter": "D",
+          "text": "More than 5 million",
+          "isCorrect": true,
+          "explanation": "This is the correct answer, as calculations show that the retina receives millions of photons to detect the given power of yellow light."
+        }
+      ],
+      "explanation": "Energy of one photon at 6000 Å =3.3 ✕ 10^(-19)J.power delivered =1.7 ✕10^ (-18) J/s, so photon per second =1.7✕ 10^(-18) /1.3 ✕ 10^(-19)=5 Thus, the retina receives about 5 photons per second .",
+      "explanationImage": null,
+      "hints": [
+        "yellow light",
+        "1.7 × 10⁻¹⁸ watt",
+        "photons per second"
+      ]
+    },
+    {
+      "text": "A metallic surface ejects photoelectrons when hit by green light but none when hit by yellow light. Will electrons be ejected if the same surface is hit by red light?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Yes",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the energy of red light is lower than that of yellow light, which has already been shown to be insufficient to eject photoelectrons."
+        },
+        {
+          "letter": "B",
+          "text": "Yes, if the red beam is sufficiently intense",
+          "isCorrect": false,
+          "explanation": "This option is misleading. While intensity can affect the number of emitted electrons if they are already being emitted, it cannot compensate for insufficient energy to overcome the work function."
+        },
+        {
+          "letter": "C",
+          "text": "Yes, if the red beam is allowed to fall for sufficient duration",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The duration does not affect the energy of the photons; thus, if the energy of red light is below the work function, photoemission will not occur, regardless of time."
+        },
+        {
+          "letter": "D",
+          "text": "No",
+          "isCorrect": true,
+          "explanation": "This option is correct. Red light has less energy than yellow light, which is already insufficient to eject photoelectrons from the metallic surface. Therefore, red light cannot cause photoemission either."
+        }
+      ],
+      "explanation": "Red light has less energy than yellow light, which itself is below the work function. So red light cannot cause photoemission.",
+      "explanationImage": null,
+      "hints": [
+        "metallic surface",
+        "ejects photoelectrons",
+        "yellow light"
+      ]
+    },
+    {
+      "text": "The graph between the frequency of incident light and the stopping potential is a:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parabola",
+          "isCorrect": false,
+          "explanation": "A parabolic graph indicates a quadratic relationship, which does not apply to the linear correlation of stopping potential and frequency."
+        },
+        {
+          "letter": "B",
+          "text": "Straight line",
+          "isCorrect": true,
+          "explanation": "The graph is a straight line because the stopping potential (Vs) is directly proportional to the frequency of the incident light above the threshold frequency, demonstrating a linear relationship."
+        },
+        {
+          "letter": "C",
+          "text": "Hyperbola",
+          "isCorrect": false,
+          "explanation": "A hyperbolic graph suggests an inverse relationship, which is not the case for the stopping potential and frequency in the photoelectric effect."
+        },
+        {
+          "letter": "D",
+          "text": "Circle",
+          "isCorrect": false,
+          "explanation": "A circular graph would imply a periodic relationship, which is not relevant to the relationship between stopping potential and frequency."
+        }
+      ],
+      "explanation": "Stopping potential Vs which is linearly proportional to the frequency above the threshold. So the graph is a straight line.",
+      "explanationImage": null,
+      "hints": [
+        "frequency",
+        "stopping potential"
+      ]
+    },
+    {
+      "text": "Light of frequency 1.5 times the threshold frequency is incident on a photosensitive material. If the frequency is halved and intensity doubled, the photoelectric current becomes:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 times the original current",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Doubling the intensity does not compensate for the frequency being below the threshold frequency, which is essential for photoelectron emission."
+        },
+        {
+          "letter": "B",
+          "text": "2 times the original current",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While doubling the intensity might seem to increase current, the frequency must be above the threshold to emit any photoelectrons."
+        },
+        {
+          "letter": "C",
+          "text": "Half the original current",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The frequency reduction below the threshold means no photoelectrons are emitted, rendering current unchanged and effectively at zero."
+        },
+        {
+          "letter": "D",
+          "text": "Zero times the original current",
+          "isCorrect": true,
+          "explanation": "This option is correct. The original frequency is 1.5 times the threshold frequency (v0), and halving it results in 0.75v0, which is below the threshold frequency. Therefore, no photoelectrons are emitted, resulting in zero current regardless of intensity."
+        }
+      ],
+      "explanation": "Original frequency = 1.5v₀. Halving gives 0.75v₀, which is below the threshold frequency v₀, so no photoelectrons are emitted, regardless of intensity.",
+      "explanationImage": null,
+      "hints": [
+        "frequency",
+        "threshold frequency",
+        "photoelectric current"
+      ]
+    },
+    {
+      "text": "What is the force exerted by a photon of intensity 1.4 kW/m² if it falls on a perfect absorber of radius 2 meters?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.35 × 10⁻⁴ N",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The force is calculated using the formula Force = I × A/c, where A is the area of the absorber."
+        },
+        {
+          "letter": "B",
+          "text": "108 N",
+          "isCorrect": false,
+          "explanation": "This value is incorrectly derived and does not take into account the necessary calculations involving intensity and area."
+        },
+        {
+          "letter": "C",
+          "text": "8.35 × 10⁴ N",
+          "isCorrect": false,
+          "explanation": "This option is far too high and fails to consider the proper relationship between intensity and force as dictated by physical laws."
+        },
+        {
+          "letter": "D",
+          "text": "8.8 × 10⁻⁸ N",
+          "isCorrect": false,
+          "explanation": "This value is significantly lower than expected and does not correctly apply the formula for calculating force from intensity."
+        }
+      ],
+      "explanation": "Force = I × A/c. Area A = πr² = π × 4 ≈ 12.56 m². Force = (1.4 × 10³ × 12.56)/(3 × 10⁸) ≈ 2.35 × 10⁻⁴ N.",
+      "explanationImage": null,
+      "hints": [
+        "intensity",
+        "perfect absorber",
+        "radius"
+      ]
+    },
+    {
+      "text": "The rest mass of a photon is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "hv/c²",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests that a photon's mass is related to its energy divided by the square of the speed of light, which doesn't apply to photons."
+        },
+        {
+          "letter": "B",
+          "text": "hv/c",
+          "isCorrect": false,
+          "explanation": "This option implies that the mass of a photon is proportional to its energy divided by the speed of light. However, this is not how mass is defined for massless particles."
+        },
+        {
+          "letter": "C",
+          "text": "hv",
+          "isCorrect": false,
+          "explanation": "This option suggests that the mass of a photon is equivalent to its energy, which is a misunderstanding since photons are massless particles."
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "This is the correct answer as photons are massless particles that travel at the speed of light, consistent with the principles of special relativity."
+        }
+      ],
+      "explanation": "Photons travel at the speed of light and have zero rest mass, as per special relativity.",
+      "explanationImage": null,
+      "hints": [
+        "rest mass",
+        "photon",
+        "speed of light"
+      ]
+    },
+    {
+      "text": "Which of the following graphs correctly represents the variation of particle momentum with associated de broglie wavelength?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": "This graph incorrectly suggests a direct proportionality between momentum and wavelength, which contradicts the de Broglie relation."
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": "This graph depicts a constant wavelength regardless of momentum, failing to represent the inverse relationship as described by the de Broglie equation."
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": "This graph shows an undefined relationship between momentum and wavelength, which does not align with the principles of quantum mechanics."
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": true,
+          "explanation": "This graph correctly illustrates the inverse relationship between particle momentum and de Broglie wavelength, as derived from the equation λ = h/p. As momentum increases, wavelength decreases."
+        }
+      ],
+      "explanation": "The inversely proportional graph correctly represents the variation of particle momentum with associated de Broglie wavelength. The de Broglie wavelength of a particle is given by the following equation: λ = h/p where: λ is the de Broglie wavelength h is Planck's constant p is the momentum of the particle This means that the wavelength is inversely proportional to the momentum. In other words, as the momentum of the particle increases, the wavelength decreases. The graph of momentum versus wavelength is therefore an inverse graph. Here is an example of an inverse graph of momentum versus wavelength: Momentum (p) is inversely proportional to Wavelength (λ) 10 p | 1/10 λ 20 p | 1/20 λ 30 p | 1/30 λ As you can see, as the momentum of the particle increases, the wavelength decreases. The inverse relationship between momentum and wavelength is a fundamental property of quantum mechanics. It is responsible for the wave-particle duality of matter, which is the property of matter to exhibit both wave-like and particle-like properties.",
+      "explanationImage": null,
+      "hints": [
+        "particle momentum",
+        "de Broglie wavelength"
+      ]
+    }
+  ]
+}

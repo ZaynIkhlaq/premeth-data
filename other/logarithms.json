@@ -1,0 +1,3680 @@
+{
+  "questions": [
+    {
+      "text": "Log10 1000 = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.3",
+          "isCorrect": false,
+          "explanation": "0.3 is incorrect because if log10 1000 were 0.3, then 10^0.3 would equal 1000, but 10^0.3 is approximately 2."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": true,
+          "explanation": "3 is correct because 10^3 equals 1000, confirming that log10 1000 = 3."
+        },
+        {
+          "letter": "C",
+          "text": "1/3",
+          "isCorrect": false,
+          "explanation": "1/3 is incorrect because if log10 1000 were 1/3, then 10^(1/3) would equal 1000, but 10^(1/3) is approximately 2.15."
+        },
+        {
+          "letter": "D",
+          "text": "3.3",
+          "isCorrect": false,
+          "explanation": "3.3 is incorrect because if log10 1000 were 3.3, then 10^3.3 would equal 1000, but 10^3.3 is approximately 1995.26."
+        }
+      ],
+      "explanation": "The definition of a logarithm states that if loga b = x, then a^x = b. In this question, log10 1000 = x means that 10^x = 1000. Since 1000 can be rewritten as 10^3, it follows that x must be 3, making Option B the correct answer. The other options are incorrect: 10^0.3 is approximately 2, not 1000; 10^(1/3) is approximately 2.15, not 1000; and 10^3.3 is approximately 1995.26, not 1000.",
+      "explanationImage": null,
+      "hints": [
+        "Log<sub>10</sub>",
+        "1000",
+        "="
+      ]
+    },
+    {
+      "text": "If (300)(400)= 12 x (10)^nThen n=?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "isCorrect": false,
+          "explanation": "This value is too high. When dividing 120,000 by 12, the power of 10 obtained is less than this."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "This value is too low. Dividing 120,000 by 12 results in a higher power of 10."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "isCorrect": true,
+          "explanation": "Correct. Dividing 120,000 by 12 gives 10,000, which is equal to 104."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "isCorrect": false,
+          "explanation": "This value is too high. The division of 120,000 by 12 results in a lower power of 10."
+        }
+      ],
+      "explanation": "To solve the equation (300)(400) = 12 x 10n, first calculate the left side: 300 x 400 = 120,000. This can be expressed as 1.2 x 105. Now, divide 120,000 by 12 to isolate 10n on the right side: 120,000 / 12 = 10,000. Recognize that 10,000 is 10 raised to the power of 4, i.e., 104. Thus, n = 4. Other options are incorrect because they do not match the power of 10 resulting from the division.",
+      "explanationImage": null,
+      "hints": [
+        "300",
+        "400",
+        "10^n"
+      ]
+    },
+    {
+      "text": "What is the value of log₅(1/125)?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because 5 raised to the power of -2 equals 1/25, not 1/125."
+        },
+        {
+          "letter": "B",
+          "text": "-3",
+          "isCorrect": true,
+          "explanation": "This is correct because 5 raised to the power of -3 equals 1/125, which matches the given expression."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it implies that 5³ equals 1/125, but in reality, 5³ equals 125."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it suggests that 5 raised to the power of 5 equals 1/125, whereas 5⁵ actually equals 3125."
+        }
+      ],
+      "explanation": "The question asks for log₅(1/125), which means we need to determine the exponent that makes 5 raised to that power equal 1/125. Knowing that 125 is 5³, we understand that 1/125 can be expressed as 5-3. Therefore, log₅(1/125) = -3.Option A (-2) is incorrect because 5-2 equals 1/25, not 1/125. Option C (3) is incorrect because 5³ equals 125, not 1/125. Option D (5) is incorrect because 5⁵ equals 3125, not 1/125.",
+      "explanationImage": null,
+      "hints": [
+        "log₅",
+        "1/125"
+      ]
+    },
+    {
+      "text": "If logₐ(b) = 3, then what is logₐ(b²)?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "isCorrect": true,
+          "explanation": "Correct! By using the power rule for logarithms, logₐ(b²) is 2 * logₐ(b). Since logₐ(b) = 3, it becomes 2 * 3 = 6."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "Incorrect. This answer ignores the power rule, which requires multiplying logₐ(b) by the exponent 2."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "isCorrect": false,
+          "explanation": "Incorrect. This confuses the multiplication rule of exponents with the power rule of logarithms; it should be 2 * logₐ(b), not 3²."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "Incorrect. This option does not consider the value of logₐ(b) = 3 and fails to apply the power rule correctly."
+        }
+      ],
+      "explanation": "The power rule of logarithms states that logₐ(b^n) = n * logₐ(b). Here, with n = 2, logₐ(b²) becomes 2 * logₐ(b). Given logₐ(b) = 3, substituting gives 2 * 3 = 6. Thus, the correct answer is 6. Other options are incorrect as they either neglect the power rule or misapply it, leading to incorrect results.",
+      "explanationImage": null,
+      "hints": [
+        "logₐ(b)",
+        "b²"
+      ]
+    },
+    {
+      "text": "Which of the following equals 1?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "log₅(5)",
+          "isCorrect": true,
+          "explanation": "This is correct because of the property logb(b) = 1, where the logarithm's base and its argument are the same."
+        },
+        {
+          "letter": "B",
+          "text": "log₁₀(1)",
+          "isCorrect": false,
+          "explanation": "This is incorrect because logb(1) = 0 for any base b, as the logarithm of 1 is always 0."
+        },
+        {
+          "letter": "C",
+          "text": "log₅(25)",
+          "isCorrect": false,
+          "explanation": "This is incorrect because log5(25) = 2. Here, 25 is 5 squared, so it's log5(5²) = 2."
+        },
+        {
+          "letter": "D",
+          "text": "log₅(1/5)",
+          "isCorrect": false,
+          "explanation": "This is incorrect because log5(1/5) = -1. The value 1/5 is the same as 5 to the power of -1, i.e., log5(5-1) = -1."
+        }
+      ],
+      "explanation": "The correct answer is Option A: log₅(5). This follows from the fundamental property of logarithms which states that if the base and the argument are the same, the logarithm equals 1 (logb(b) = 1). Option B is incorrect because the logarithm of 1 in any base is always 0, i.e., log10(1) = 0. Option C is incorrect since log5(25) = 2, as 25 can be expressed as 5 squared (5²). Finally, Option D is incorrect because log5(1/5) = -1, as 1/5 can be rewritten as 5 to the power of -1 (5-1).",
+      "explanationImage": null,
+      "hints": [
+        "equals",
+        "1"
+      ]
+    },
+    {
+      "text": "If log₁₀(x) = 2, then x = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100",
+          "isCorrect": true,
+          "explanation": "Correct! Since log₁₀(x) = 2, it means 10 squared equals x, giving x = 100."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "isCorrect": false,
+          "explanation": "Incorrect. This would mean log₁₀(x) = 1, not 2, since 10 to the power of 1 is 10."
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "isCorrect": false,
+          "explanation": "Incorrect. 10 raised to the power of 2 equals 100, not 20."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "Incorrect. This would imply log₁₀(2), which is not equal to 2."
+        }
+      ],
+      "explanation": "The equation log₁₀(x) = 2 translates to 10 raised to the power of 2 equals x. Therefore, x = 10^2 = 100, making Option A correct. Option B is incorrect because it suggests 10^1 = 10, not 10^2. Option C is incorrect because 20 is not the result of 10^2. Option D is incorrect as it implies log₁₀(2), which does not equal 2.",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀(x)",
+        "2"
+      ]
+    },
+    {
+      "text": "log₂(1) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "Incorrect. This implies 2 raised to the power of 2 equals 1, but 2² equals 4."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "Incorrect. This implies 2 raised to the power of 1 equals 1, but 2¹ equals 2."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "isCorrect": true,
+          "explanation": "Correct! Any non-zero number raised to the power of 0 is 1, including 2."
+        },
+        {
+          "letter": "D",
+          "text": "Undefined",
+          "isCorrect": false,
+          "explanation": "Incorrect. Log₂(1) is well-defined as 0, because 2 raised to the power of 0 equals 1."
+        }
+      ],
+      "explanation": "The expression log₂(1) asks for the exponent to which the base 2 must be raised to result in 1. According to logarithmic rules, any number raised to the power of 0 is 1. Therefore, log₂(1) = 0. Option A is incorrect because 2² equals 4, not 1. Option B is incorrect because 2¹ equals 2, not 1. Option D is incorrect because the logarithm of 1 is defined for any positive base, including 2, resulting in an answer of 0.",
+      "explanationImage": null,
+      "hints": [
+        "log₂",
+        "1"
+      ]
+    },
+    {
+      "text": "If logₐ(b) = 2 and logₐ(c) = 3, then logₐ(bc³) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "This answer results from incorrectly adding logₐ(b) and logₐ(c) without properly applying the power rule to logₐ(c³)."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": "This answer may occur if you sum logₐ(b) and logₐ(c) as 2 + 3 without considering the power of 3 applied to c."
+        },
+        {
+          "letter": "C",
+          "text": "11",
+          "isCorrect": true,
+          "explanation": "Correct! Apply the properties of logarithms: logₐ(bc³) = logₐ(b) + logₐ(c³) = logₐ(b) + 3*logₐ(c). With given values, it becomes 2 + 3*3 = 2 + 9 = 11."
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "isCorrect": false,
+          "explanation": "This answer could result from adding 2 and 3 and then incorrectly multiplying the sum by 3, not in line with logarithmic properties."
+        }
+      ],
+      "explanation": "To solve for logₐ(bc³), apply the properties of logarithms. First, express logₐ(bc³) as logₐ(b) + logₐ(c³). Use the power rule to simplify logₐ(c³) to 3*logₐ(c). Given that logₐ(b) = 2 and logₐ(c) = 3, substitute the values to get logₐ(b) + 3*logₐ(c) = 2 + 3*3 = 2 + 9 = 11, making 11 the correct answer.Options 5, 6, and 9 are incorrect due to improper application of logarithmic rules, failing to account for both the product and power rules accurately.",
+      "explanationImage": null,
+      "hints": [
+        "logₐ(b)",
+        "logₐ(c)",
+        "bc³"
+      ]
+    },
+    {
+      "text": "log₇(49) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "The value 3 is incorrect because 7 raised to the power of 3 is 343, not 49."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "Correct! 7 raised to the power of 2 equals 49, which means log₇(49) = 2."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "The value 1 is incorrect because 7 raised to the power of 1 is 7, not 49."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "The value 0 is incorrect because any number raised to the power of 0 is 1, not 49."
+        }
+      ],
+      "explanation": "The question asks for the value of log₇(49). This means we are looking for the exponent to which the base 7 must be raised to obtain 49. Since 7 squared (72) equals 49, the correct answer is 2.Option A: 3 is incorrect because 73 equals 343, not 49.Option C: 1 is incorrect because 71 equals 7, not 49.Option D: 0 is incorrect because 70 equals 1, not 49.",
+      "explanationImage": null,
+      "hints": [
+        "log₇",
+        "49"
+      ]
+    },
+    {
+      "text": "log₂(2x) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "log₂(2) + log₂(x)",
+          "isCorrect": true,
+          "explanation": "This is correct because the product property of logarithms states that logₐ(bc) = logₐ(b) + logₐ(c). Therefore, log₂(2x) can be split into log₂(2) + log₂(x)."
+        },
+        {
+          "letter": "B",
+          "text": "log₂(x)",
+          "isCorrect": false,
+          "explanation": "This is incorrect because it neglects the factor of 2 in the expression 2x. The complete application of the product property is required."
+        },
+        {
+          "letter": "C",
+          "text": "x + log₂(2)",
+          "isCorrect": false,
+          "explanation": "This is incorrect because it incorrectly handles the variables involved in the logarithmic expression. The correct property should be applied to separate the terms correctly."
+        },
+        {
+          "letter": "D",
+          "text": "log₂(2x)",
+          "isCorrect": false,
+          "explanation": "This is incorrect because it leaves the expression in its original form without applying any logarithmic properties to simplify it."
+        }
+      ],
+      "explanation": "The correct answer is Option A: log₂(2) + log₂(x). This is derived from the product property of logarithms, which states that logₐ(bc) = logₐ(b) + logₐ(c). Applying this to the given expression, log₂(2x) can be expanded to log₂(2) + log₂(x). Option B is incorrect because it omits log₂(2), failing to account for the entire expression. Option C is incorrect because it misapplies the logarithm properties, resulting in an incorrect format. Option D is incorrect because it simply restates the original expression without utilizing any logarithmic properties for simplification.",
+      "explanationImage": null,
+      "hints": [
+        "log₂",
+        "2x"
+      ]
+    },
+    {
+      "text": "log₁₀(x³) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 log₁₀(x)",
+          "isCorrect": true,
+          "explanation": "This is correct because the power rule of logarithms allows you to bring the exponent in front of the logarithm. Therefore, log₁₀(x³) simplifies to 3 log₁₀(x)."
+        },
+        {
+          "letter": "B",
+          "text": "x³",
+          "isCorrect": false,
+          "explanation": "This is incorrect because it represents the original expression inside the logarithm without applying any logarithmic properties to simplify it."
+        },
+        {
+          "letter": "C",
+          "text": "x log₁₀(3)",
+          "isCorrect": false,
+          "explanation": "This is incorrect because it misunderstands the application of the logarithmic rule, incorrectly placing the variable outside the logarithm and the number 3 as the argument of the logarithm."
+        },
+        {
+          "letter": "D",
+          "text": "log₁₀(3x)",
+          "isCorrect": false,
+          "explanation": "This is incorrect because it suggests incorrect multiplication inside the logarithm, which is not a valid application of the power rule."
+        }
+      ],
+      "explanation": "The correct answer is 3 log₁₀(x). This result is obtained by applying the power rule of logarithms, which states that logᵦ(xʸ) = y logᵦ(x). In this problem, x is raised to the power of 3, so we bring down the exponent 3 as a coefficient in front of the logarithm, resulting in 3 log₁₀(x). Option B is incorrect because it merely restates the expression without any simplification. Option C misinterprets the rule by applying the logarithm to the base instead of the exponent. Option D suggests an incorrect operation inside the logarithm, which doesn't adhere to the power rule.",
+      "explanationImage": null,
+      "hints": [
+        "logarithm",
+        "power"
+      ]
+    },
+    {
+      "text": "log₁₀(25) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "If log₁₀(25) were 2, it would mean that 10 squared (10^2) equals 25, but 10^2 is actually 100."
+        },
+        {
+          "letter": "B",
+          "text": "1.4",
+          "isCorrect": false,
+          "explanation": "If log₁₀(25) were 1.4, it would mean that 10 raised to the power of 1.4 equals 25. However, 10^1.4 is approximately 25.12, which is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "1.698",
+          "isCorrect": false,
+          "explanation": "If log₁₀(25) were 1.698, it would mean that 10 raised to the power of 1.698 equals 25. However, 10^1.698 is approximately 50.12, which is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "1.39",
+          "isCorrect": true,
+          "explanation": "log₁₀(25) is approximately 1.39, which means 10 raised to the power of 1.39 is close to 25. This is the correct approximation."
+        }
+      ],
+      "explanation": "The problem asks for the value of log₁₀(25), which is the power to which 10 must be raised to equal 25. Using a calculator or logarithmic table, we find that log₁₀(25) is approximately 1.39. This means 10^1.39 is approximately equal to 25.Option A (2) suggests that 10^2 equals 25, but 10^2 is 100, not 25.Option B (1.4) implies 10^1.4 equals 25, but 10^1.4 is approximately 25.12, which is close but not exactly correct.Option C (1.698) suggests 10^1.698 equals 25, but 10^1.698 is approximately 50.12, which is incorrect.Therefore, Option D (1.39) is the best approximation for log₁₀(25).",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀",
+        "25"
+      ]
+    },
+    {
+      "text": "log₉(3) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.5",
+          "isCorrect": true,
+          "explanation": "Correct! By applying the change of base formula: log₉(3) = log₃(3) / log₃(9), which simplifies to 1/2."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "Incorrect. This would imply that 9^1 = 3, but actually 9^1 equals 9, not 3."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "Incorrect. This would imply that 9^2 = 3, but 9^2 equals 81, not 3."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "Incorrect. This would imply that 9^3 = 3, but 9^3 equals 729, not 3."
+        }
+      ],
+      "explanation": "To solve log₉(3), apply the change of base formula: log₉(3) = log₃(3) / log₃(9). Here, log₃(3) = 1 because 3^1 = 3, and log₃(9) = 2 because 3^2 = 9. Thus, log₉(3) = 1/2 = 0.5, making Option A correct. Options B, C, and D are incorrect as they assume powers of 9 that do not equate to 3, violating the logarithmic equation 9^x = 3.",
+      "explanationImage": null,
+      "hints": [
+        "log₉",
+        "3"
+      ]
+    },
+    {
+      "text": "log₂(x²) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 log₂(x)",
+          "isCorrect": true,
+          "explanation": "This is the correct application of the logarithmic power rule, which states that logₐ(bⁿ) = n logₐ(b). Here, the exponent 2 is brought in front of the logarithm."
+        },
+        {
+          "letter": "B",
+          "text": "log₂(x)",
+          "isCorrect": false,
+          "explanation": "This option incorrectly ignores the power of 2 in x². The expression should reflect the exponent by applying the power rule, resulting in 2 log₂(x) instead."
+        },
+        {
+          "letter": "C",
+          "text": "x log₂(2)",
+          "isCorrect": false,
+          "explanation": "This option incorrectly associates the variable x with the logarithm's base. The power rule should be applied to the exponent inside the logarithm, not the base."
+        },
+        {
+          "letter": "D",
+          "text": "log₂(x)²",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests squaring the result of log₂(x). The power rule applies to move the exponent outside the logarithm, not to square the logarithm itself."
+        }
+      ],
+      "explanation": "To simplify log₂(x²), apply the logarithmic power rule: logₐ(bⁿ) = n logₐ(b). In this expression, n is 2, a is 2, and b is x. Therefore, log₂(x²) = 2 log₂(x). Option A correctly applies this rule. Option B fails to incorporate the power, resulting in an incorrect simplification. Option C incorrectly involves the base of the logarithm, which should remain unchanged. Option D mistakenly suggests squaring the logarithm, which is not the correct application of the power rule.",
+      "explanationImage": null,
+      "hints": [
+        "log₂",
+        "x²"
+      ]
+    },
+    {
+      "text": "log₁₀(π²) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "log₁₀(π)",
+          "isCorrect": false,
+          "explanation": "This option ignores the exponent 2 in π², resulting in an incomplete application of the power rule."
+        },
+        {
+          "letter": "B",
+          "text": "2 log₁₀(π)",
+          "isCorrect": true,
+          "explanation": "This option correctly applies the power rule: log₁₀(π²) = 2 * log₁₀(π)."
+        },
+        {
+          "letter": "C",
+          "text": "log₁₀(2π)",
+          "isCorrect": false,
+          "explanation": "This option mistakenly suggests multiplying π by 2 inside the logarithm, which is incorrect when applying the power rule to π²."
+        },
+        {
+          "letter": "D",
+          "text": "(log₁₀(π))²",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests squaring the result of the logarithm, which is not how the power rule should be applied here."
+        }
+      ],
+      "explanation": "The correct answer is 2 log₁₀(π). By the power rule of logarithms, log₁₀(a^b) = b * log₁₀(a), so log₁₀(π²) equals 2 * log₁₀(π). Option A overlooks the exponent, leading to an incomplete solution. Option C misinterprets the exponentiation as multiplication within the logarithm. Option D suggests squaring the logarithm's result rather than properly applying the power rule.",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀",
+        "π²"
+      ]
+    },
+    {
+      "text": "log₁₀(π²) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "log₁₀(π)",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it neglects the exponent, treating the expression as log₁₀(π) instead of using the power rule."
+        },
+        {
+          "letter": "B",
+          "text": "2 log₁₀(π)",
+          "isCorrect": true,
+          "explanation": "This is correct. The power rule states that log₁₀(π²) = 2 * log₁₀(π), where the exponent 2 is brought in front of the logarithm."
+        },
+        {
+          "letter": "C",
+          "text": "log₁₀(2π)",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it misinterprets π² as 2π, which changes the value of the expression."
+        },
+        {
+          "letter": "D",
+          "text": "(log₁₀(π))²",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests squaring the logarithm itself rather than applying the power rule to the exponent."
+        }
+      ],
+      "explanation": "To solve log₁₀(π²), apply the power rule of logarithms: logₐ(x^n) = n * logₐ(x). Here, the exponent 2 is brought in front of the logarithm, resulting in 2 * log₁₀(π). Thus, the correct answer is Option B: 2 log₁₀(π). Option A is incorrect because it overlooks the exponent. Option C is incorrect due to confusing π² with 2π. Option D is incorrect as it implies squaring the logarithm instead of correctly applying the power rule.",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀",
+        "π²"
+      ]
+    },
+    {
+      "text": "logₑ(x) is known as:",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Natural logarithm",
+          "isCorrect": true,
+          "explanation": "The natural logarithm uses the base 'e', which is a crucial constant in mathematics, approximately equal to 2.71828. It is fundamental in calculus and natural growth models."
+        },
+        {
+          "letter": "B",
+          "text": "Common logarithm",
+          "isCorrect": false,
+          "explanation": "The common logarithm uses base 10, not 'e'. It is frequently used in scientific calculations and engineering."
+        },
+        {
+          "letter": "C",
+          "text": "Binary logarithm",
+          "isCorrect": false,
+          "explanation": "The binary logarithm uses base 2, which is significant in computer science and digital systems."
+        },
+        {
+          "letter": "D",
+          "text": "Rational logarithm",
+          "isCorrect": false,
+          "explanation": "The term 'rational logarithm' is not standard in mathematics and does not refer to a specific type of logarithm."
+        }
+      ],
+      "explanation": "The correct answer is the 'Natural logarithm'. The notation logₑ(x) indicates the natural logarithm, where 'e' is the base. The constant 'e' is approximately 2.71828, and it is essential in mathematics, especially in areas like calculus and models of natural growth.The 'Common logarithm' (Option B) is incorrect because it uses base 10. The 'Binary logarithm' (Option C) is incorrect because it uses base 2. The 'Rational logarithm' (Option D) is not a recognized term in mathematical terminology.",
+      "explanationImage": null,
+      "hints": [
+        "logₑ(x)",
+        "known"
+      ]
+    },
+    {
+      "text": "ln(1) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "e",
+          "isCorrect": false,
+          "explanation": "The number e is the base of the natural logarithm. However, ln(1) is not equal to e; it is a misconception."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "isCorrect": true,
+          "explanation": "ln(1) equals 0 because, by definition, the natural logarithm asks for the power to which the base e must be raised to produce 1. Since e0 = 1, ln(1) is 0."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This is incorrect because ln(e) equals 1, not ln(1). The natural logarithm of 1 is 0, not 1."
+        },
+        {
+          "letter": "D",
+          "text": "Undefined",
+          "isCorrect": false,
+          "explanation": "ln(1) is not undefined; it has a clearly defined value of 0."
+        }
+      ],
+      "explanation": "The natural logarithm, denoted as ln, is the logarithm to the base e, approximately equal to 2.71828. ln(1) asks for the exponent that e must be raised to in order to yield 1. Any non-zero number raised to the power of 0 is 1, so ln(1) equals 0. For the other options:Option A: e is the base of the natural logarithm, not the result of ln(1).Option C: ln(1) is not the same as ln(e), which equals 1; hence, this is incorrect.Option D: ln(1) is well-defined and equals 0.",
+      "explanationImage": null,
+      "hints": [
+        "ln",
+        "1"
+      ]
+    },
+    {
+      "text": "Which of these is equal to ln(e²)?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2e",
+          "isCorrect": false,
+          "explanation": "This is incorrect because ln(e²) equals the exponent, not the product of 2 and e."
+        },
+        {
+          "letter": "B",
+          "text": "e²",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The expression ln(e²) simplifies to the exponent 2, not e² itself."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "This is correct because ln(e²) simplifies to 2 using the logarithmic identity ln(ex) = x."
+        },
+        {
+          "letter": "D",
+          "text": "ln(2e)",
+          "isCorrect": false,
+          "explanation": "This is incorrect because ln(2e) involves a different expression and does not relate to ln(e²)."
+        }
+      ],
+      "explanation": "The correct answer is 2. The property of natural logarithms states that ln(ex) simplifies to x. Thus, ln(e²) directly simplifies to 2, the exponent. Option A (2e) is incorrect because it suggests multiplication, not simplification to the exponent. Option B (e²) is incorrect as it fails to simplify the expression. Option D (ln(2e)) is incorrect since it refers to a different expression, involving the logarithm of a product, not a power of e.",
+      "explanationImage": null,
+      "hints": [
+        "ln",
+        "e²"
+      ]
+    },
+    {
+      "text": "log₁₀(1000) – log₁₀(10) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This choice implies that log₁₀(100) equals 1, which is incorrect because 10 to the power of 1 is 10, not 100."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "This is correct because log₁₀(1000) - log₁₀(10) simplifies to log₁₀(100), and 100 equals 10²."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "This choice implies that log₁₀(100) equals 3, which is incorrect because 10 to the power of 3 is 1000, not 100."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "This choice implies that log₁₀(1000) equals log₁₀(10), which is incorrect because 1000 is not equal to 10."
+        }
+      ],
+      "explanation": "To solve this problem, apply the property of logarithms: logₐ(b) - logₐ(c) = logₐ(b/c). This simplifies log₁₀(1000) - log₁₀(10) to log₁₀(1000/10) = log₁₀(100). Since 100 is equal to 10², it follows that log₁₀(100) equals 2. Therefore, the correct answer is Option B: 2. Options A and C incorrectly interpret the value of log₁₀(100), while Option D misinterprets the relationship between 1000 and 10.",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀(1000)",
+        "log₁₀(10)"
+      ]
+    },
+    {
+      "text": "log₂(64) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "Incorrect. 25 equals 32, which is less than 64."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "Incorrect. 24 equals 16, which is far less than 64."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "isCorrect": true,
+          "explanation": "Correct. 26 equals 64, exactly matching the required value."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "isCorrect": false,
+          "explanation": "Incorrect. 27 equals 128, which exceeds 64."
+        }
+      ],
+      "explanation": "The question asks for log₂(64), meaning we need to find the exponent to which 2 must be raised to yield 64. The correct answer is 6 because 26 equals 64. The other options are incorrect because: Option A (5) results in 32, which is less than 64; Option B (4) results in 16, which is much less than 64; and Option D (7) results in 128, which is greater than 64.",
+      "explanationImage": null,
+      "hints": [
+        "log₂",
+        "64"
+      ]
+    },
+    {
+      "text": "log₄(1/2) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-1",
+          "isCorrect": false,
+          "explanation": "This is incorrect because 4 raised to the power of -1 equals 1/4, not 1/2."
+        },
+        {
+          "letter": "B",
+          "text": "-0.5",
+          "isCorrect": true,
+          "explanation": "This is correct because 4 raised to the power of -0.5 equals 1/2, as 4^(-0.5) is the same as 1/sqrt(4), which simplifies to 1/2."
+        },
+        {
+          "letter": "C",
+          "text": "-2",
+          "isCorrect": false,
+          "explanation": "This is incorrect because 4 raised to the power of -2 equals 1/16, not 1/2."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This is incorrect because 4 raised to the power of 1 equals 4, not 1/2."
+        }
+      ],
+      "explanation": "To solve log₄(1/2), convert the logarithmic form into its exponential equivalent: 4x = 1/2. To find the value of x, recognize that 4-0.5 equals 1/2, as 4-0.5 is equivalent to 1/√4, which simplifies to 1/2. Therefore, the correct answer is -0.5. The other options are incorrect because they do not satisfy the equation 4x = 1/2: -1 results in 1/4, -2 results in 1/16, and 1 results in 4.",
+      "explanationImage": null,
+      "hints": [
+        "log₄",
+        "1/2"
+      ]
+    },
+    {
+      "text": "log₁₀(0.0001) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-5",
+          "isCorrect": false,
+          "explanation": "This option suggests that 0.0001 is equal to 10^-5, which would be 0.00001, not 0.0001."
+        },
+        {
+          "letter": "B",
+          "text": "-4",
+          "isCorrect": true,
+          "explanation": "Correct! 0.0001 is indeed 10^-4, making this the right choice."
+        },
+        {
+          "letter": "C",
+          "text": "-3",
+          "isCorrect": false,
+          "explanation": "This option implies that 0.0001 is equal to 10^-3, which would be 0.001, larger than 0.0001."
+        },
+        {
+          "letter": "D",
+          "text": "-2",
+          "isCorrect": false,
+          "explanation": "This option indicates that 0.0001 is 10^-2, equating to 0.01, which is much greater than 0.0001."
+        }
+      ],
+      "explanation": "The logarithm log₁₀(0.0001) asks for the exponent that 10 must be raised to in order to yield 0.0001. Recalling that 0.0001 can be expressed as 10^-4, we conclude that log₁₀(0.0001) = -4. The other options are incorrect because they represent powers of 10 that do not equate to 0.0001: -5 corresponds to 0.00001, -3 corresponds to 0.001, and -2 corresponds to 0.01.",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀",
+        "0.0001"
+      ]
+    },
+    {
+      "text": "If log₅(x) = 1/2, then x = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "25",
+          "isCorrect": false,
+          "explanation": "This is incorrect because if log₅(x) = 2, then 5² would equal 25. Here, we have log₅(x) = 1/2."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "This is incorrect because if log₅(x) = 1, then 5¹ would equal 5. Here, we have log₅(x) = 1/2."
+        },
+        {
+          "letter": "C",
+          "text": "√5",
+          "isCorrect": true,
+          "explanation": "This is correct because converting log₅(x) = 1/2 to exponential form gives 5^(1/2) = √5."
+        },
+        {
+          "letter": "D",
+          "text": "√25",
+          "isCorrect": false,
+          "explanation": "This is incorrect because √25 simplifies to 5, which would imply log₅(x) = 1, not 1/2."
+        }
+      ],
+      "explanation": "To solve for x when log₅(x) = 1/2, convert the logarithmic equation to its exponential form: 5^(1/2) = x. The expression 5^(1/2) is equivalent to the square root of 5, which means x = √5. Therefore, the correct answer is √5. Option A (25) and Option D (√25) are incorrect because they relate to different log values (2 and 1, respectively). Option B (5) is incorrect because it corresponds to a log value of 1, not 1/2.",
+      "explanationImage": null,
+      "hints": [
+        "log₅(x)",
+        "1/2"
+      ]
+    },
+    {
+      "text": "What is the result of log₁₀(xy/z)?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "log₁₀(x) + log₁₀(y) - log₁₀(z)",
+          "isCorrect": true,
+          "explanation": "This option correctly applies the properties of logarithms: log₁₀(a/b) = log₁₀(a) - log₁₀(b) and log₁₀(ab) = log₁₀(a) + log₁₀(b)."
+        },
+        {
+          "letter": "B",
+          "text": "log₁₀(x + y – z)",
+          "isCorrect": false,
+          "explanation": "This option misuses logarithmic properties, as logarithms do not distribute over addition or subtraction."
+        },
+        {
+          "letter": "C",
+          "text": "log₁₀(xyz)",
+          "isCorrect": false,
+          "explanation": "This option fails to apply the division property, ignoring the subtraction needed for z."
+        },
+        {
+          "letter": "D",
+          "text": "log₁₀(x) - log₁₀(yz)",
+          "isCorrect": false,
+          "explanation": "This option incorrectly uses the division property by treating yz as a single term without separating y and z."
+        }
+      ],
+      "explanation": "The correct answer is log₁₀(x) + log₁₀(y) - log₁₀(z). This result is obtained by using the properties of logarithms: the logarithm of a product, log₁₀(xy), can be expressed as the sum of the logarithms, log₁₀(x) + log₁₀(y). Similarly, the logarithm of a quotient, log₁₀(xy/z), is the difference, log₁₀(xy) - log₁₀(z). Option B incorrectly treats the logarithm as distributive over addition and subtraction, which is not true. Option C neglects the division by z, which is crucial for the correct expression. Option D mistakenly considers yz as a single term without separating the logs for y and z.",
+      "explanationImage": null,
+      "hints": [
+        "logarithm",
+        "xy/z"
+      ]
+    },
+    {
+      "text": "log₁₀(3) is approximately:",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.4771",
+          "isCorrect": true,
+          "explanation": "This value is actually the approximation for log₁₀(3), making it the correct answer."
+        },
+        {
+          "letter": "B",
+          "text": "0.3010",
+          "isCorrect": false,
+          "explanation": "This is the approximate value for log₁₀(2), not log₁₀(3)."
+        },
+        {
+          "letter": "C",
+          "text": "0.6990",
+          "isCorrect": false,
+          "explanation": "This value is closer to log₁₀(5), which is not what we are calculating here."
+        },
+        {
+          "letter": "D",
+          "text": "0.8451",
+          "isCorrect": false,
+          "explanation": "This is the approximate value for log₁₀(7), which is greater than log₁₀(3)."
+        }
+      ],
+      "explanation": "The correct answer is 0.4771 because this is the approximate value of log₁₀(3). This can be verified using logarithm tables or a scientific calculator. The option 0.3010 is the value for log₁₀(2), 0.6990 is the value for log₁₀(5), and 0.8451 is for log₁₀(7). These values do not approximate log₁₀(3).",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀",
+        "3"
+      ]
+    },
+    {
+      "text": "ln(e³) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "e³",
+          "isCorrect": false,
+          "explanation": "This option incorrectly implies that the logarithmic operation does not simplify the expression, which it does."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": true,
+          "explanation": "This is the correct answer because the property ln(e^x) = x applies here, meaning ln(e³) simplifies to 3."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This option misunderstands the property of ln(e) = 1, applying it incorrectly to the entire expression ln(e³)."
+        },
+        {
+          "letter": "D",
+          "text": "e",
+          "isCorrect": false,
+          "explanation": "This option mistakenly takes e as the result, confusing the base of the exponential with the outcome of the logarithmic calculation."
+        }
+      ],
+      "explanation": "The correct answer is 3. According to the properties of logarithms, specifically the natural logarithm, ln(e^x) = x. Therefore, when we evaluate ln(e³), we apply this property, resulting in 3. Option A (e³) is incorrect because it ignores the simplification property of the logarithm. Option C (1) incorrectly applies the property ln(e) = 1 to the entire expression, which is not applicable here. Option D (e) erroneously confuses the base of the exponential function with the logarithmic result.",
+      "explanationImage": null,
+      "hints": [
+        "ln",
+        "e³"
+      ]
+    },
+    {
+      "text": "Change of base: log₅(100) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "log₁₀(100)/log₁₀(5)",
+          "isCorrect": true,
+          "explanation": "This option correctly applies the change of base formula: log₅(100) = log₁₀(100) / log₁₀(5)."
+        },
+        {
+          "letter": "B",
+          "text": "log₁₀(5)/log₁₀(100)",
+          "isCorrect": false,
+          "explanation": "This option incorrectly swaps the positions of log₁₀(100) and log₁₀(5) in the change of base formula, leading to an incorrect result."
+        },
+        {
+          "letter": "C",
+          "text": "100 * log₁₀(5)",
+          "isCorrect": false,
+          "explanation": "This option incorrectly involves multiplication, which is not part of the change of base formula. It does not represent the logarithmic operation needed."
+        },
+        {
+          "letter": "D",
+          "text": "5 * log₁₀(100)",
+          "isCorrect": false,
+          "explanation": "This option incorrectly involves multiplication, which is not part of the change of base formula. It misrepresents the required calculation."
+        }
+      ],
+      "explanation": "The correct answer is Option A:log₁₀(100)/log₁₀(5)This uses the change of base formula, which allows you to convert a logarithm with one base into a quotient of logarithms with a different base. Here, we've chosen base 10 for simplicity, which is common in logarithmic calculations. Option B reverses the numerator and the denominator, resulting in an incorrect calculation. Options C and D involve multiplication instead of division, misapplying the change of base concept.",
+      "explanationImage": null,
+      "hints": [
+        "Change",
+        "base"
+      ]
+    },
+    {
+      "text": "If logₓ(81) = 4, what is x?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "isCorrect": true,
+          "explanation": "This is correct. Converting the logarithmic equation logₓ(81) = 4 to its exponential form gives x^4 = 81. Solving this, we find 3^4 = 81, confirming that x = 3."
+        },
+        {
+          "letter": "B",
+          "text": "9",
+          "isCorrect": false,
+          "explanation": "This is incorrect. If x = 9, then 9^4 = 6561, which is much greater than 81, so x cannot be 9."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "This is incorrect. If x = 4, then 4^4 = 256, which is still greater than 81, so x cannot be 4."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "This is incorrect. If x = 2, then 2^4 = 16, which is less than 81, so x cannot be 2."
+        }
+      ],
+      "explanation": "To solve logₓ(81) = 4, rewrite the logarithmic equation as an exponential equation: x^4 = 81. To find x, determine which number raised to the fourth power equals 81. The calculation 3^4 = 81 shows that x must be 3.Option A is correct because 3^4 = 81. Options B, C, and D are incorrect because 9^4, 4^4, and 2^4 do not equal 81; they yield values of 6561, 256, and 16 respectively.",
+      "explanationImage": null,
+      "hints": [
+        "logₓ(81)",
+        "4"
+      ]
+    },
+    {
+      "text": "Evaluate log₈(2):",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/3",
+          "isCorrect": true,
+          "explanation": "Correct! By applying the change of base formula, log₈(2) becomes log₂(2) / log₂(8). Since log₂(2) = 1 and log₂(8) = 3, the result is 1/3."
+        },
+        {
+          "letter": "B",
+          "text": "2/3",
+          "isCorrect": false,
+          "explanation": "Incorrect. This choice arises from a misapplication of the change of base formula, possibly confusing the division order."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "Incorrect. This result may come from confusing the logarithm with the exponent that produces 8 from 2, which is not the expression's intent."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "Incorrect. This answer reflects a misunderstanding of the logarithmic expression, perhaps assuming a direct relationship without using base change."
+        }
+      ],
+      "explanation": "To evaluate log₈(2), apply the change of base formula: log₈(2) = log₂(2) / log₂(8). Since log₂(2) equals 1 (because 2¹ = 2) and log₂(8) equals 3 (because 2³ = 8), the expression simplifies to 1/3. Therefore, Option A is the correct answer. Option B results from reversing the division in the formula, Option C stems from confusing the logarithm with an exponent, and Option D reflects a misunderstanding of the logarithm's transformation.",
+      "explanationImage": null,
+      "hints": [
+        "log₈",
+        "2"
+      ]
+    },
+    {
+      "text": "log₄(1/4) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "4 raised to the power of 1 equals 4, not 1/4. Therefore, this is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "-1",
+          "isCorrect": true,
+          "explanation": "4 raised to the power of -1 equals 1/4, which is the correct solution to the logarithmic equation."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "4 raised to the power of 0 equals 1, not 1/4. This makes the option incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Undefined",
+          "isCorrect": false,
+          "explanation": "The expression log₄(1/4) is perfectly valid and evaluates to a real number, so it is not undefined."
+        }
+      ],
+      "explanation": "The expression log₄(1/4) asks 'to what power must 4 be raised to result in 1/4?' This is equivalent to finding x such that 4x = 1/4. We know that 4-1 = 1/4, so the correct answer is -1. Option A is incorrect because 41 = 4. Option C is incorrect because 40 = 1. Option D is incorrect as the expression is defined and evaluates to a real number, specifically -1.",
+      "explanationImage": null,
+      "hints": [
+        "log₄",
+        "1/4",
+        "="
+      ]
+    },
+    {
+      "text": "If log₂(x) = 3, then log₄(x²) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": "This option results from misunderstanding the relationship between log₂ and log₄ without considering the exponent on x."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. By calculating x² = 64 and recognizing that 64 can be expressed as 4³, we find log₄(64) = 3. Since we are considering log₄(x²), which is log₄(64), we correctly determine that the answer is 3."
+        },
+        {
+          "letter": "C",
+          "text": "4.5",
+          "isCorrect": false,
+          "explanation": "This option may result from an incorrect combination of logarithmic bases and exponentiation without proper simplification."
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "isCorrect": false,
+          "explanation": "This option results from miscalculating the powers of 4 or confusing the relationship between log bases."
+        }
+      ],
+      "explanation": "To find log₄(x²), start with the given log₂(x) = 3, which implies x = 2³ = 8. Consequently, x² = 8² = 64. We need to compute log₄(64). Recognize that 64 is 4³, thus log₄(64) = log₄(4³) = 3 * log₄(4) = 3 * 1 = 3. Therefore, the correct answer is 3. Options A, C, and D result from either ignoring the exponent or applying incorrect logarithmic transformations, leading to wrong conclusions.",
+      "explanationImage": null,
+      "hints": [
+        "log₂(x)",
+        "log₄(x²)"
+      ]
+    },
+    {
+      "text": "log₁₀(10⁷) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "7",
+          "isCorrect": true,
+          "explanation": "Correct. The expression log₁₀(10⁷) directly uses the property of logarithms where the base 10 is raised to the power of 7, resulting in the answer 7."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "isCorrect": false,
+          "explanation": "Incorrect. This option incorrectly assumes that the base itself is the answer, rather than the exponent."
+        },
+        {
+          "letter": "C",
+          "text": "0.7",
+          "isCorrect": false,
+          "explanation": "Incorrect. This reflects a misunderstanding of the logarithmic concept, as logarithms of powers of 10 are whole numbers, not decimals."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "Incorrect. This might confuse the expression with log₁₀(10), which equals 1, rather than log₁₀(10⁷)."
+        }
+      ],
+      "explanation": "The expression log₁₀(10⁷) determines the power to which the base 10 must be raised to equal 10⁷. By the definition of logarithms, logₐ(aⁿ) equals n. Here, the base (a) is 10, and the exponent (n) is 7, so log₁₀(10⁷) equals 7. Thus, Option A is correct. Option B misidentifies the base as the answer. Option C incorrectly suggests a decimal result, while Option D might confuse the expression with the simpler log₁₀(10).",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀",
+        "10⁷"
+      ]
+    },
+    {
+      "text": "log₅(√5) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.5",
+          "isCorrect": true,
+          "explanation": "Correct! The square root of 5 is the same as 5 raised to the power of 0.5. Therefore, log₅(50.5) simplifies to 0.5."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "Incorrect. This answer would be correct if you mistakenly squared the number instead of taking the square root."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "Incorrect. This answer assumes that the base itself is the result, which is not the case here."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "Incorrect. This answer would be correct if √5 was mistakenly assumed to be equal to 5."
+        }
+      ],
+      "explanation": "To solve log₅(√5), recognize that √5 can be rewritten as 50.5. Using the property of logarithms that logb(bc) = c, we can rewrite log₅(50.5) as 0.5.Option B (2) is incorrect because it confuses squaring with taking the square root. Option C (5) incorrectly assumes the number itself is the result. Option D (1) assumes √5 is equivalent to 5, which is incorrect.",
+      "explanationImage": null,
+      "hints": [
+        "log₅",
+        "√5"
+      ]
+    },
+    {
+      "text": "log₉(3²) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": true,
+          "explanation": "Correct! Simplifying the expression inside the logarithm, 3² equals 9, so log₉(9). Since the base and the number inside the log are the same, the result is 1."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The exponent 2 should not be interpreted as the result. The correct answer involves recognizing the property of logarithms where the base equals the number."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The number 4 is not relevant to this problem. Ensure you simplify 3² correctly and apply the logarithmic property."
+        },
+        {
+          "letter": "D",
+          "text": "0.5",
+          "isCorrect": false,
+          "explanation": "This is incorrect. A fraction like 0.5 suggests a misunderstanding of logarithmic properties, particularly when the base equals the number inside the log."
+        }
+      ],
+      "explanation": "To solve log₉(3²), first simplify the expression inside the logarithm: 3² equals 9. Therefore, you have log₉(9). By the properties of logarithms, log base a of a is always 1. Thus, log₉(9) equals 1.Option A is correct because it correctly applies this property. Option B is incorrect as it mistakes the exponent for the result. Option C is incorrect because the number 4 does not apply to this computation. Option D is incorrect as 0.5 indicates a misinterpretation of logarithmic rules.",
+      "explanationImage": null,
+      "hints": [
+        "log₉",
+        "3²"
+      ]
+    },
+    {
+      "text": "log₆(36) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "If log₆(36) = 1, then 6 raised to the power of 1 would equal 36. However, 61 = 6, not 36."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "Correct! log₆(36) = 2 because 6 raised to the power of 2 equals 36 (62 = 36)."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": "If log₆(36) = 6, then 6 raised to the power of 6 would equal 36. In reality, 66 is much larger than 36, making this option incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "If log₆(36) = 3, then 6 raised to the power of 3 would equal 36. However, 63 = 216, not 36, so this option is also incorrect."
+        }
+      ],
+      "explanation": "The expression log₆(36) asks, 'To what exponent must 6 be raised to produce 36?' The answer is 2 because 6 squared (62) equals 36. Therefore, log₆(36) = 2. Other options do not match because 61 = 6, 63 = 216, and 66 is much larger than 36.",
+      "explanationImage": null,
+      "hints": [
+        "log₆",
+        "36"
+      ]
+    },
+    {
+      "text": "log₁₀(x³√x) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "log₁₀(x)³.⁵",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "3.5 log₁₀(x)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "log₁₀(x³) + log₁₀(√x)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Both B and C",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If log₂(x) = a, then x = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2a",
+          "isCorrect": false,
+          "explanation": "This option mistakenly interprets the expression as multiplication, instead of exponentiation."
+        },
+        {
+          "letter": "B",
+          "text": "2^a",
+          "isCorrect": true,
+          "explanation": "This is correct. The expression log₂(x) = a implies that x is calculated by raising 2 to the power of a."
+        },
+        {
+          "letter": "C",
+          "text": "a^2",
+          "isCorrect": false,
+          "explanation": "This option incorrectly interprets the expression as squaring a, instead of using a as an exponent for 2."
+        },
+        {
+          "letter": "D",
+          "text": "a^x",
+          "isCorrect": false,
+          "explanation": "This option incorrectly uses a as a base instead of using 2 as the base."
+        }
+      ],
+      "explanation": "The correct interpretation of the equation log₂(x) = a is based on the definition of logarithms, which states that if logbase(result) = exponent, then the result is the base raised to the power of the exponent. Therefore, x is 2 raised to the power of a, not multiplied or squared. Thus, the correct answer is Option B:2^a. Other options either incorrectly multiply or square the variables, or misuse the base and exponent relationship.",
+      "explanationImage": null,
+      "hints": [
+        "log₂",
+        "a"
+      ]
+    },
+    {
+      "text": "log₁₀(x/y) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "log₁₀(x) + log₁₀(y)",
+          "isCorrect": false,
+          "explanation": "This option incorrectly uses the logarithmic property for multiplication. Remember, the sum of logarithms applies to products, not quotients."
+        },
+        {
+          "letter": "B",
+          "text": "log₁₀(x) - log₁₀(y)",
+          "isCorrect": true,
+          "explanation": "This option correctly applies the logarithmic property for division, which states that the log of a quotient is the log of the numerator minus the log of the denominator."
+        },
+        {
+          "letter": "C",
+          "text": "x/y",
+          "isCorrect": false,
+          "explanation": "This option mistakenly interprets the logarithmic expression as a simple division, ignoring the logarithmic context."
+        },
+        {
+          "letter": "D",
+          "text": "y/x",
+          "isCorrect": false,
+          "explanation": "This option reverses the division order and does not apply the logarithmic property, leading to an incorrect interpretation."
+        }
+      ],
+      "explanation": "The correct answer is Option B: log₁₀(x) - log₁₀(y). This option accurately applies the logarithmic property for division, which states that the logarithm of a quotient is equal to the logarithm of the numerator minus the logarithm of the denominator. Option A is incorrect because it applies the property for multiplication, which would involve adding the logs, not subtracting them. Option C treats the expression as a simple division rather than a logarithmic expression, and Option D incorrectly reverses the division order, neglecting the logarithmic property entirely.",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀(x/y)",
+        "properties"
+      ]
+    },
+    {
+      "text": "log₃(3³) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "isCorrect": true,
+          "explanation": "This is correct because the property logb(bx) = x is directly applicable here. The base is 3, and the exponent is 3, so the answer is 3."
+        },
+        {
+          "letter": "B",
+          "text": "9",
+          "isCorrect": false,
+          "explanation": "This is incorrect. 9 is obtained by squaring 3, not by using the logarithmic property on 3 cubed."
+        },
+        {
+          "letter": "C",
+          "text": "27",
+          "isCorrect": false,
+          "explanation": "This is incorrect. 27 represents the value of 3 cubed, not the result of taking the logarithm of 3 cubed."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Log base 3 of 3 is 1, but the problem involves log base 3 of 3 cubed."
+        }
+      ],
+      "explanation": "The expression log₃(3³) can be simplified using the logarithmic identity logb(bx) = x. In this question, the base b is 3, and the exponent x is 3, thus log₃(3³) = 3. Option A is correct because it correctly applies this property.Option B is incorrect because 9 is the result of squaring 3, which is not related to the logarithmic operation given. Option C is incorrect because 27 is the result of 3 cubed, not the result of the logarithm. Option D is incorrect because it misapplies the property to log₃(3), which equals 1, not log₃(3³).",
+      "explanationImage": null,
+      "hints": [
+        "log₃",
+        "3³"
+      ]
+    },
+    {
+      "text": "If log₁₀(x) = -1, then x = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.1",
+          "isCorrect": true,
+          "explanation": "Correct. The equation log₁₀(x) = -1 implies x is 10 raised to the power of -1, which equals 0.1."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "Incorrect. The value log₁₀(1) = 0, not -1, so x cannot be 1."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "isCorrect": false,
+          "explanation": "Incorrect. The value log₁₀(10) = 1, not -1, so x cannot be 10."
+        },
+        {
+          "letter": "D",
+          "text": "-1",
+          "isCorrect": false,
+          "explanation": "Incorrect. Logarithms for negative numbers are not defined within the real number system."
+        }
+      ],
+      "explanation": "To solve the equation log₁₀(x) = -1, we convert it into its equivalent exponential form: 10-1 = x. This calculation results in x = 0.1, confirming that the correct answer is Option A: 0.1.Option B is incorrect because log₁₀(1) equals 0, not -1. Option C is incorrect because log₁₀(10) equals 1, not -1. Option D is incorrect because logarithmic functions are undefined for negative numbers in the real number system.",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀(x)",
+        "1"
+      ]
+    },
+    {
+      "text": "What is logₐ(1) for any base a > 0, a ≠ 1?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This is incorrect because logₐ(1) is not equal to 1 for any base."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "isCorrect": true,
+          "explanation": "This is correct because any number raised to the power of 0 is 1, so logₐ(1) = 0."
+        },
+        {
+          "letter": "C",
+          "text": "Undefined",
+          "isCorrect": false,
+          "explanation": "This is incorrect because the logarithm of 1 is well-defined for any base a > 0, a ≠ 1."
+        },
+        {
+          "letter": "D",
+          "text": "a",
+          "isCorrect": false,
+          "explanation": "This is incorrect because the logarithm of 1 is not equal to the base itself; it is always 0."
+        }
+      ],
+      "explanation": "The expression logₐ(1) evaluates to 0 for any base a > 0, a ≠ 1, because the definition of a logarithm is the exponent to which the base must be raised to yield the given number. Since a0 = 1 for any valid base, it follows that logₐ(1) = 0.Option A is incorrect because logₐ(1) is not 1. Option C is incorrect as the expression is defined and equals 0. Option D is incorrect because the logarithm of 1 does not equal the base; it is always 0.",
+      "explanationImage": null,
+      "hints": [
+        "logₐ",
+        "1",
+        "base a"
+      ]
+    },
+    {
+      "text": "Evaluate: log₁₀(πe) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "log₁₀(π) + log₁₀(e)",
+          "isCorrect": true,
+          "explanation": "This is correct because the logarithm of a product can be expressed as the sum of the logarithms of the factors, i.e., log₁₀(πe) = log₁₀(π) + log₁₀(e)."
+        },
+        {
+          "letter": "B",
+          "text": "log₁₀(π + e)",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It mistakenly applies the product property to a sum. Logarithms of sums cannot be split into sums of logarithms."
+        },
+        {
+          "letter": "C",
+          "text": "π + e",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it confuses logarithmic operations with basic arithmetic addition. Logarithms do not simply add the numbers inside them."
+        },
+        {
+          "letter": "D",
+          "text": "log₁₀(πe)",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it repeats the original expression without using any logarithmic property to simplify it."
+        }
+      ],
+      "explanation": "The correct answer is log₁₀(π) + log₁₀(e). This follows from the fundamental logarithmic property that states the logarithm of a product is the sum of the logarithms of its factors, i.e., log₁₀(xy) = log₁₀(x) + log₁₀(y). Therefore, for the product πe, it simplifies to log₁₀(π) + log₁₀(e).Option B is incorrect because it applies the logarithmic property to a sum instead of a product, which is not valid. Option C is incorrect as it mistakenly interprets the operation inside the logarithm as simple addition. Option D is incorrect because it does not apply any property to simplify the expression.",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀",
+        "πe"
+      ]
+    },
+    {
+      "text": "Which of these is NOT a valid logarithmic identity?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "logₐ(xy) = logₐ(x) + logₐ(y)",
+          "isCorrect": false,
+          "explanation": "This is the product rule, a fundamental logarithmic property stating that the logarithm of a product is the sum of the logarithms."
+        },
+        {
+          "letter": "B",
+          "text": "logₐ(x/y) = logₐ(x) – logₐ(y)",
+          "isCorrect": false,
+          "explanation": "This is the quotient rule, which correctly states that the logarithm of a quotient is the difference of the logarithms."
+        },
+        {
+          "letter": "C",
+          "text": "logₐ(xⁿ) = n logₐ(x)",
+          "isCorrect": false,
+          "explanation": "This is the power rule, indicating that the logarithm of a power is the exponent times the logarithm of the base."
+        },
+        {
+          "letter": "D",
+          "text": "logₐ(x + y) = logₐ(x) + logₐ(y)",
+          "isCorrect": true,
+          "explanation": "This is not a valid logarithmic property. Logarithms do not have a simple rule for the sum of terms inside the log."
+        }
+      ],
+      "explanation": "The correct answer is Option D: logₐ(x + y) = logₐ(x) + logₐ(y). This is not a valid logarithmic identity because there is no straightforward way to express the logarithm of a sum as a combination of other logarithms, unlike the product and quotient cases.Option A, the product rule, Option B, the quotient rule, and Option C, the power rule, are all valid logarithmic identities. They are essential tools for transforming and simplifying logarithmic expressions.",
+      "explanationImage": null,
+      "hints": [
+        "NOT",
+        "valid",
+        "identity"
+      ]
+    },
+    {
+      "text": "What is the value of log₅(1/125)?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-2",
+          "isCorrect": false,
+          "explanation": "This answer is incorrect. Re-evaluate how to express 1/125 as a power of 5. Remember, 5 raised to the power of -2 is 1/25, not 1/125."
+        },
+        {
+          "letter": "B",
+          "text": "-3",
+          "isCorrect": true,
+          "explanation": "Correct! 1/125 is the same as 5 raised to the power of -3, because 125 is 5 cubed and 1/125 is the reciprocal."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "This answer is incorrect. 3 is the exponent for 125 as a power of 5, not for 1/125, which involves a negative exponent."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "This answer is incorrect. There is confusion between the base and the exponent. The base 5 raised to the power of 5 results in a much larger number than 1/125."
+        }
+      ],
+      "explanation": "To solve log₅(1/125), we need to express 1/125 as a power of 5. We know that 125 = 5³, so the reciprocal, 1/125, is 5 raised to the power of -3. The question asks for the exponent to which 5 must be raised to equal 1/125, which is -3. Therefore, the correct answer is -3. Option B is correct because it accurately identifies the exponent required. Option A incorrectly suggests -2, which implies 1/25 instead. Option C incorrectly suggests 3, which fails to account for the reciprocal nature of 1/125. Option D incorrectly suggests 5, confusing the exponent with a calculation unrelated to the expression.",
+      "explanationImage": null,
+      "hints": [
+        "log₅",
+        "value"
+      ]
+    },
+    {
+      "text": "If logₐ(b) = 3, then what is logₐ(b²)?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "isCorrect": true,
+          "explanation": "Correct. The power rule states that logₐ(bⁿ) = n * logₐ(b). Here, n = 2, so logₐ(b²) = 2 * logₐ(b) = 2 * 3 = 6."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "Incorrect. This answer neglects to apply the power rule, treating logₐ(b²) as simply logₐ(b)."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "isCorrect": false,
+          "explanation": "Incorrect. This result incorrectly squares logₐ(b) instead of applying the power rule correctly."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "Incorrect. This answer likely confuses the exponent with the result of the logarithm without applying the power rule."
+        }
+      ],
+      "explanation": "To solve for logₐ(b²), apply the power rule of logarithms: logₐ(bⁿ) = n * logₐ(b). Here, n = 2, and logₐ(b) is given as 3. Therefore, logₐ(b²) = 2 * 3 = 6, making Option A correct. Option B overlooks the power rule, Option C mistakenly squares logₐ(b), and Option D confuses the exponent with the result.",
+      "explanationImage": null,
+      "hints": [
+        "logₐ(b)",
+        "b²"
+      ]
+    },
+    {
+      "text": "Which of the following equals 1?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "log₅(5)",
+          "isCorrect": true,
+          "explanation": "This is correct because the fundamental property of logarithms states that loga(a) equals 1."
+        },
+        {
+          "letter": "B",
+          "text": "log₁₀(1)",
+          "isCorrect": false,
+          "explanation": "This evaluates to 0 because loga(1) is always 0, as any base raised to the power of 0 gives 1."
+        },
+        {
+          "letter": "C",
+          "text": "log₅(25)",
+          "isCorrect": false,
+          "explanation": "This equals 2 because 52 equals 25, so log5(25) equals 2."
+        },
+        {
+          "letter": "D",
+          "text": "log₅(1/5)",
+          "isCorrect": false,
+          "explanation": "This equals -1 because 5 raised to the power of -1 gives 1/5, so log5(1/5) equals -1."
+        }
+      ],
+      "explanation": "The correct answer is Option A: log₅(5). According to the fundamental property of logarithms, loga(a) is always equal to 1. This is because the base raised to the power of 1 equals itself.Option B: log₁₀(1) equals 0 because any number raised to the power of 0 is 1. Option C: log₅(25) equals 2 because 5 squared equals 25. Option D: log₅(1/5) equals -1 because 5 raised to the power of -1 is 1/5.",
+      "explanationImage": null,
+      "hints": [
+        "following",
+        "equals"
+      ]
+    },
+    {
+      "text": "log₃(1/27) is equal to:",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-2",
+          "isCorrect": false,
+          "explanation": "If log₃(1/27) = -2, then 3 raised to the power of -2 should equal 1/27. However, 3⁻² = 1/9, which is not equal to 1/27."
+        },
+        {
+          "letter": "B",
+          "text": "-3",
+          "isCorrect": true,
+          "explanation": "Correct! 3 raised to the power of -3 equals 1/27. This is because 3³ = 27, and taking the reciprocal (due to the negative exponent) gives 1/27."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "If log₃(1/27) = 3, then 3 raised to the power of 3 should equal 1/27. However, 3³ = 27, not 1/27."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "If log₃(1/27) = 1, then 3 raised to the power of 1 should equal 1/27. However, 3¹ = 3, which is not 1/27."
+        }
+      ],
+      "explanation": "The problem is to find log₃(1/27). Converting the logarithmic expression to an exponential form, we ask: 3 raised to what power equals 1/27? Since 3³ = 27, we take the reciprocal to find 3⁻³ = 1/27. Thus, the correct answer is -3. The other options are incorrect because they result in powers of 3 that do not equal 1/27: -2 gives 1/9, 3 gives 27, and 1 gives 3.",
+      "explanationImage": null,
+      "hints": [
+        "log₃",
+        "1/27"
+      ]
+    },
+    {
+      "text": "If log₁₀(x) = 2, then x = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100",
+          "isCorrect": true,
+          "explanation": "Correct! log₁₀(100) = 2 because 10² = 100, which satisfies the equation."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "isCorrect": false,
+          "explanation": "Incorrect. log₁₀(10) = 1 because 10¹ = 10, not 2."
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "isCorrect": false,
+          "explanation": "Incorrect. 20 is not a power of 10, and log₁₀(20) is approximately 1.301, not 2."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "Incorrect. log₁₀(2) is approximately 0.301, not 2, as 2 is not a power of 10."
+        }
+      ],
+      "explanation": "The equation log₁₀(x) = 2 means that 10 must be raised to the power of 2 to get x. This is the essence of logarithms, which are the inverse operations of exponentiation. So, 10² = 100, confirming that x = 100. Hence, the correct answer is Option A: 100.Option B is incorrect because 10¹ = 10, which makes log₁₀(10) equal to 1, not 2. Option C is incorrect because 20 is not a power of 10, and log₁₀(20) is not 2. Option D is incorrect because 2 is not a power of 10, resulting in a logarithm value that is not an integer, and certainly not 2.",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀(x)",
+        "= 2"
+      ]
+    },
+    {
+      "text": "Which expression equals log₁₀(100) – log₁₀(10)?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "log₁₀(1000)",
+          "isCorrect": false,
+          "explanation": "Incorrect. This option implies multiplication, which is not applicable here. The subtraction of logs corresponds to division, not multiplication."
+        },
+        {
+          "letter": "B",
+          "text": "log₁₀(10)",
+          "isCorrect": true,
+          "explanation": "Correct! The subtraction of logarithms using the quotient rule simplifies to log₁₀(100/10), which equals log₁₀(10)."
+        },
+        {
+          "letter": "C",
+          "text": "log₁₀(1)",
+          "isCorrect": false,
+          "explanation": "Incorrect. This result comes from a misunderstanding, where the subtraction is wrongly considered as leading to log₁₀(1), which equals 0."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "Incorrect. This option incorrectly assumes that the logs cancel each other out to zero, which is not valid in this context."
+        }
+      ],
+      "explanation": "To solve log₁₀(100) - log₁₀(10), apply the quotient rule for logarithms: log₁₀(a) - log₁₀(b) = log₁₀(a/b). Thus, log₁₀(100) - log₁₀(10) simplifies to log₁₀(100/10) = log₁₀(10), making Option B correct. Option A incorrectly suggests multiplication, Option C results from a misinterpretation of subtraction, and Option D incorrectly assumes cancellation to zero.",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀",
+        "100",
+        "10"
+      ]
+    },
+    {
+      "text": "Evaluate: log₄(16)",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "Correct! Since 4 squared (42) equals 16, log₄(16) equals 2."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "Incorrect. 4 to the power of 4 (44) results in 256, not 16."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "Incorrect. 4 cubed (43) equals 64, which is not equal to 16."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "Incorrect. 4 to the power of 1 (41) is 4, which is not equal to 16."
+        }
+      ],
+      "explanation": "To solve log₄(16), you need to find the exponent to which 4 must be raised to produce 16. This is equivalent to finding x in the equation 4x = 16. Since 42 = 16, x equals 2, making the correct answer Option A. The other options are incorrect because: Option B suggests 44 = 16, but it equals 256. Option C suggests 43 = 16, which equals 64. Option D suggests 41 = 16, which is simply 4.",
+      "explanationImage": null,
+      "hints": [
+        "log₄",
+        "16"
+      ]
+    },
+    {
+      "text": "log₁₀(5²) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "isCorrect": false,
+          "explanation": "This answer is incorrect. It appears you might have confused the logarithmic operation with computing the result of 5² directly, which is not the task here."
+        },
+        {
+          "letter": "B",
+          "text": "2 log₁₀(5)",
+          "isCorrect": true,
+          "explanation": "Correct! By using the power rule of logarithms, log₁₀(5²) = 2 * log₁₀(5), where the exponent becomes a multiplier."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "This answer is incorrect. It seems there is a confusion between the base number and the result of the logarithmic calculation."
+        },
+        {
+          "letter": "D",
+          "text": "log₁₀(10)",
+          "isCorrect": false,
+          "explanation": "This answer is incorrect. Although log₁₀(10) equals 1, it does not apply here as the expression involves 5², not 10."
+        }
+      ],
+      "explanation": "The correct answer is 2 log₁₀(5). According to the power rule of logarithms, logₐ(b^c) = c * logₐ(b). For the expression log₁₀(5²), the exponent 2 becomes a coefficient, resulting in 2 * log₁₀(5). The other options are incorrect because they either involve misinterpretation of the logarithmic properties or confusion with basic arithmetic and logarithmic operations.",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀",
+        "5²"
+      ]
+    },
+    {
+      "text": "log₂(1) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "Incorrect. This option suggests that the logarithm's value is the base itself, which is not how logarithms work. Logarithms calculate the exponent needed to raise the base to get the specified number."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "Incorrect. This would be true if the logarithmic expression was about finding the exponent needed to get the base itself, such as log₂(2). However, log₂(1) is different because it asks what power of 2 results in 1."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "isCorrect": true,
+          "explanation": "Correct. The expression log₂(1) = 0 is accurate because 2 raised to the power of 0 equals 1 (20 = 1), which matches the given number."
+        },
+        {
+          "letter": "D",
+          "text": "Undefined",
+          "isCorrect": false,
+          "explanation": "Incorrect. This option misunderstands the nature of logarithms. The logarithm of 1 is defined for any positive base and is always 0 because raising any number to the power of 0 yields 1."
+        }
+      ],
+      "explanation": "The correct answer is 0. In logarithmic terms, log₂(1) seeks the exponent you raise 2 to in order to result in 1. By definition, any number raised to the power of 0 equals 1, thus confirming that log₂(1) = 0.Option A is incorrect because it confuses the base with the value of the logarithm. Option B is incorrect because it fails to recognize that logb(1) always evaluates to 0 for any positive base. Option D is incorrect because it mistakenly suggests that the logarithm is undefined, while in reality, logb(1) is clearly defined and equals 0.",
+      "explanationImage": null,
+      "hints": [
+        "log₂",
+        "1",
+        "="
+      ]
+    },
+    {
+      "text": "If logₐ(b) = 2 and logₐ(c) = 3, then logₐ(bc³) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "Incorrect. This answer results from a miscalculation of the powers or ignoring the multiplication of terms correctly."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": "Incorrect. This answer doesn't correctly apply the power rule to the expression c³ within the logarithm."
+        },
+        {
+          "letter": "C",
+          "text": "11",
+          "isCorrect": true,
+          "explanation": "Correct. Using the properties of logarithms, split the expression into logₐ(b) + logₐ(c³). Then simplify: logₐ(b) = 2, and logₐ(c³) = 3 × logₐ(c) = 9. Therefore, 2 + 9 = 11."
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "isCorrect": false,
+          "explanation": "Incorrect. This answer comes from failing to apply the power rule correctly, resulting in an incorrect simplification."
+        }
+      ],
+      "explanation": "To find logₐ(bc³), utilize the property logₐ(xy) = logₐ(x) + logₐ(y). Thus, logₐ(bc³) = logₐ(b) + logₐ(c³). Knowing that logₐ(b) = 2 and applying the power rule, logₐ(c³) becomes 3 × logₐ(c) = 9. Therefore, logₐ(bc³) = 2 + 9 = 11, making the correct answer 11.The incorrect options arise from either misapplying these properties or incorrect calculations of the powers.",
+      "explanationImage": null,
+      "hints": [
+        "logₐ(b)",
+        "logₐ(c)",
+        "bc³"
+      ]
+    },
+    {
+      "text": "log₇(49) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "If log7(49) = 3, it implies that 73 = 49. However, 73 = 343, not 49. This option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "Logarithms express an exponent. Since 49 is 72, log7(49) = 2. This option is correct."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "If log7(49) = 1, it means that 71 = 49. However, 71 = 7, not 49. This option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "If log7(49) = 0, it implies that 70 = 49. However, 70 = 1, not 49. This option is incorrect."
+        }
+      ],
+      "explanation": "The question asks for log7(49), which translates to 'what exponent must 7 be raised to in order to result in 49?' The answer is 2 because 72 = 49. Thus, the correct answer is Option B: 2. Option A is incorrect because 73 = 343, not 49. Option C is incorrect because 71 = 7, not 49. Option D is incorrect because 70 = 1, not 49.",
+      "explanationImage": null,
+      "hints": [
+        "log₇",
+        "49",
+        "?"
+      ]
+    },
+    {
+      "text": "log₂(2x) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "log₂(2) + log₂(x)",
+          "isCorrect": true,
+          "explanation": "This is correct. According to the product rule of logarithms, log₂(2x) can be split into log₂(2) + log₂(x)."
+        },
+        {
+          "letter": "B",
+          "text": "log₂(x)",
+          "isCorrect": false,
+          "explanation": "This is incorrect. This option ignores the 2 in the expression log₂(2x), which should be considered using the product rule."
+        },
+        {
+          "letter": "C",
+          "text": "x + 2",
+          "isCorrect": false,
+          "explanation": "This is incorrect. This option does not apply the logarithmic rules and treats the expression as a linear equation."
+        },
+        {
+          "letter": "D",
+          "text": "log₂(2x)",
+          "isCorrect": false,
+          "explanation": "This is incorrect. While it restates the original problem, it does not apply the properties of logarithms to simplify the expression."
+        }
+      ],
+      "explanation": "The correct answer is log₂(2) + log₂(x). According to the properties of logarithms, specifically the product rule, the logarithm of a product can be expressed as the sum of the logarithms of its factors. Therefore, log₂(2x) can be rewritten as log₂(2) + log₂(x). Option B is incorrect because it omits the log₂(2) part. Option C is incorrect because it treats the logarithmic expression as a simple arithmetic expression. Option D simply repeats the expression without simplification.",
+      "explanationImage": null,
+      "hints": [
+        "log₂",
+        "(2x)"
+      ]
+    },
+    {
+      "text": "log₁₀(x³) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 log₁₀(x)",
+          "isCorrect": true,
+          "explanation": "This is the correct application of the power rule for logarithms, which states that logₐ(b^c) = c * logₐ(b). The exponent 3 is brought in front of the log, resulting in 3 * log₁₀(x)."
+        },
+        {
+          "letter": "B",
+          "text": "x³",
+          "isCorrect": false,
+          "explanation": "This option shows the expression without applying any logarithmic transformation. It ignores the logarithm entirely and does not simplify the expression using logarithmic rules."
+        },
+        {
+          "letter": "C",
+          "text": "3x log₁₀",
+          "isCorrect": false,
+          "explanation": "This option incorrectly assumes a multiplication of 3x with the log base, which is a misunderstanding of the power rule. The rule applies the exponent as a multiplier of the whole log expression, not as a separate term."
+        },
+        {
+          "letter": "D",
+          "text": "log₁₀(3x)",
+          "isCorrect": false,
+          "explanation": "This option mistakenly adds x inside the logarithm with 3, suggesting a misunderstanding of how to distribute the exponent in the logarithmic expression. It does not follow any logarithmic property."
+        }
+      ],
+      "explanation": "To solve log₁₀(x³), apply the power rule of logarithms: logₐ(b^c) = c * logₐ(b). Here, the base is 10, and the expression is x³, so the exponent 3 can be brought in front of the logarithm, resulting in 3 * log₁₀(x), making Option A correct. Option B presents the expression without using logarithms, Option C incorrectly multiplies 3x with the log base instead of applying it as the log's coefficient, and Option D improperly alters the expression inside the logarithm, showing a fundamental misunderstanding of the logarithmic properties.",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀",
+        "x³"
+      ]
+    },
+    {
+      "text": "log₄(2) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "Incorrect. This implies that 4 raised to the power of 2 equals 2, but 4^2 equals 16."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "Incorrect. This suggests that 4 raised to the power of 1 equals 2, but 4^1 equals 4."
+        },
+        {
+          "letter": "C",
+          "text": "0.5",
+          "isCorrect": true,
+          "explanation": "Correct. 4 raised to the power of 0.5 equals 2, as 0.5 is the exponent needed for 4 to result in 2."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "Incorrect. This implies that 4 raised to the power of 4 equals 2, but 4^4 equals 256."
+        }
+      ],
+      "explanation": "The logarithm log₄(2) asks for the exponent that makes 4 equal to 2 when raised to that power. By setting x = log₄(2), we solve the equation 4^x = 2. The correct exponent is 0.5, as 4 raised to the power of 0.5 is indeed 2. Thus, the correct answer is 0.5. The other options are incorrect because they imply incorrect exponentiation results: 4^2 is 16, 4^1 is 4, and 4^4 is 256, none of which equal 2.",
+      "explanationImage": null,
+      "hints": [
+        "log₄",
+        "2"
+      ]
+    },
+    {
+      "text": "log₁₀(25) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "2 is the result of log₁₀(100), since 10^2 equals 100. It does not apply to 25."
+        },
+        {
+          "letter": "B",
+          "text": "1.4",
+          "isCorrect": false,
+          "explanation": "1.4 is a rough estimation, but not precise enough for log₁₀(25). It’s closer to the log of a number smaller than 25."
+        },
+        {
+          "letter": "C",
+          "text": "1.698",
+          "isCorrect": false,
+          "explanation": "1.698 is an approximation for log₁₀(50), not for log₁₀(25). It is too high for 25."
+        },
+        {
+          "letter": "D",
+          "text": "0.698",
+          "isCorrect": true,
+          "explanation": "0.698 is the correct logarithm for log₁₀(25), calculated as the power to which 10 must be raised to equal 25."
+        }
+      ],
+      "explanation": "The logarithm log₁₀(25) represents the power to which 10 must be raised to get 25. Calculating with a calculator, log₁₀(25) is approximately 0.698. This is because 10^0.698 is nearly 25. Option D is correct as it accurately reflects this value. Options A, B, and C are incorrect because they either apply to different numbers or are not accurate approximations of log₁₀(25).",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀",
+        "25"
+      ]
+    },
+    {
+      "text": "Which of the following properties is correct?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "logₐ(xy) = logₐ(x) + logₐ(y)",
+          "isCorrect": true,
+          "explanation": "This is the product property of logarithms, which states that the logarithm of a product is the sum of the logarithms of its factors. This property is correct."
+        },
+        {
+          "letter": "B",
+          "text": "logₐ(x/y) = logₐ(x) + logₐ(y)",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests that division corresponds to the addition of logarithms. However, for division, the property is: logₐ(x/y) = logₐ(x) - logₐ(y)."
+        },
+        {
+          "letter": "C",
+          "text": "logₐ(x + y) = logₐ(x) + logₐ(y)",
+          "isCorrect": false,
+          "explanation": "This statement is incorrect because there is no logarithmic property for addition. The sum of logarithms applies to multiplication, not addition of the arguments."
+        },
+        {
+          "letter": "D",
+          "text": "logₐ(x – y) = logₐ(x) – logₐ(y)",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because logarithmic properties do not extend to subtraction in this manner. The correct use of subtraction is in the context of the quotient rule: logₐ(x/y) = logₐ(x) - logₐ(y)."
+        }
+      ],
+      "explanation": "The correct property of logarithms is that logₐ(xy) = logₐ(x) + logₐ(y), reflecting the product rule: the logarithm of a product equals the sum of the logarithms of the factors. Option A is correct. Option B is incorrect because it misapplies the addition property to division; the correct property for division is logₐ(x/y) = logₐ(x) - logₐ(y). Option C is incorrect as there is no logarithmic property for the sum of terms. Option D is incorrect because subtraction is not a standalone logarithmic property and should be applied in the context of division.",
+      "explanationImage": null,
+      "hints": [
+        "properties",
+        "correct"
+      ]
+    },
+    {
+      "text": "log₉(3) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.5",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. Since 9 equals 3 squared, finding log₉(3) is like finding the square root of 9, which is 3. Thus, the power is 0.5."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This is incorrect because 9 raised to the power of 1 gives 9, not 3. We are looking for a lower power."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "This is incorrect because raising 9 to the power of 2 results in 81, which is much greater than 3."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "This is incorrect because 9 to the power of 3 results in 729, not 3. It is an exponential overshoot."
+        }
+      ],
+      "explanation": "To solve log₉(3), we start by expressing 9 as 32. The question, 'To what power must 9 be raised to yield 3?' translates to finding the exponent that turns 9 into 3. Since 9 is 3 squared, log₉(3) is the same as asking for the square root of 9. The answer is 0.5 because 90.5 equals 3. Thus, Option A is correct. Option B is incorrect because raising 9 to the power of 1 results in 9. Option C is incorrect because 9 squared gives 81. Option D is incorrect because raising 9 to the power of 3 results in 729.",
+      "explanationImage": null,
+      "hints": [
+        "log₉",
+        "3"
+      ]
+    },
+    {
+      "text": "log₂(x²) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 log₂(x)",
+          "isCorrect": true,
+          "explanation": "This is correct because the power property of logarithms allows you to move the exponent in front of the logarithm, resulting in 2 * log₂(x)."
+        },
+        {
+          "letter": "B",
+          "text": "log₂(x)",
+          "isCorrect": false,
+          "explanation": "This is incorrect because it overlooks the exponent in x² and fails to apply the power property of logarithms."
+        },
+        {
+          "letter": "C",
+          "text": "x log₂(2)",
+          "isCorrect": false,
+          "explanation": "This is incorrect. This expression unnecessarily introduces the term log₂(2), which is not relevant to simplifying log₂(x²)."
+        },
+        {
+          "letter": "D",
+          "text": "log₂(x)²",
+          "isCorrect": false,
+          "explanation": "This is incorrect because it suggests squaring the result of the logarithm rather than correctly applying the power property to the exponent."
+        }
+      ],
+      "explanation": "The correct answer is 2 log₂(x). The power property of logarithms states that when you have an expression in the form logₐ(b^c), you can rewrite it as c * logₐ(b). In this question, log₂(x²) is equivalent to 2 * log₂(x), since x² can be seen as (x^2), allowing the exponent 2 to be placed in front of the logarithm.The other options are incorrect for the following reasons:log₂(x) neglects the exponent, thereby failing to utilize the power property effectively.x log₂(2) incorrectly introduces an additional term and misapplies the properties of logarithms.log₂(x)² incorrectly implies that the logarithm result should be squared, which is not the correct application of the power property.",
+      "explanationImage": null,
+      "hints": [
+        "log₂",
+        "x²"
+      ]
+    },
+    {
+      "text": "If log₃(x) = y, then x = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "y³",
+          "isCorrect": false,
+          "explanation": "This option suggests raising y to the power of 3, which is unrelated to rewriting the logarithmic equation in exponential form."
+        },
+        {
+          "letter": "B",
+          "text": "3^y",
+          "isCorrect": true,
+          "explanation": "This option correctly translates the logarithmic equation log₃(x) = y into its exponential form, 3^y = x."
+        },
+        {
+          "letter": "C",
+          "text": "3 × y",
+          "isCorrect": false,
+          "explanation": "This option implies a multiplication operation, which is not equivalent to the exponential form needed to solve for x."
+        },
+        {
+          "letter": "D",
+          "text": "y / 3",
+          "isCorrect": false,
+          "explanation": "This option suggests a division operation, which does not correspond to the properties of logarithms and exponents."
+        }
+      ],
+      "explanation": "The correct answer is 3^y. The definition of a logarithm states that if log base b of a number is c, then b raised to the power of c equals that number. In this case, log₃(x) = y means that 3 raised to the power of y equals x, or x = 3^y.Option A (y³) is incorrect because it involves raising y to the power of 3, which is not consistent with the definition of logarithms.Option C (3 × y) is incorrect because it implies multiplication rather than transformation into an exponential form.Option D (y / 3) is incorrect because it involves division, which does not apply to converting the logarithmic equation into an exponential equation.",
+      "explanationImage": null,
+      "hints": [
+        "log₃(x)",
+        "y"
+      ]
+    },
+    {
+      "text": "log₁₀(π²) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "log₁₀(π)",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The expression log₁₀(π²) includes an exponent of 2, which must be factored into the logarithm calculation."
+        },
+        {
+          "letter": "B",
+          "text": "2 log₁₀(π)",
+          "isCorrect": true,
+          "explanation": "This is correct. The property logₐ(b^c) = c * logₐ(b) allows us to bring the exponent 2 in front of the logarithm, simplifying log₁₀(π²) to 2 log₁₀(π)."
+        },
+        {
+          "letter": "C",
+          "text": "log₁₀(2π)",
+          "isCorrect": false,
+          "explanation": "This is incorrect. This option misinterprets the original expression as the logarithm of the product of 2 and π, rather than the square of π."
+        },
+        {
+          "letter": "D",
+          "text": "(log₁₀(π))²",
+          "isCorrect": false,
+          "explanation": "This is incorrect. This option suggests squaring the logarithm itself, which is not the correct application of the exponent property in logarithms."
+        }
+      ],
+      "explanation": "The correct answer is 2 log₁₀(π). By applying the logarithmic property logₐ(b^c) = c * logₐ(b), we can simplify log₁₀(π²) to 2 log₁₀(π). Option A is incorrect because it neglects the exponent in the expression. Option C is incorrect because it misinterprets the expression as involving multiplication rather than exponentiation. Option D is incorrect because it incorrectly suggests squaring the logarithm, rather than using the exponent to modify the logarithm.",
+      "explanationImage": null,
+      "hints": [
+        "logarithmic",
+        "property"
+      ]
+    },
+    {
+      "text": "What is the base of log(x) if not mentioned?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "e",
+          "isCorrect": false,
+          "explanation": "The base e is specific to natural logarithms, expressed as ln(x), and not used when the base is unspecified."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "Base 2 is used in binary logarithms, typically noted as log2(x), and is not the assumed base when unspecified."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "isCorrect": true,
+          "explanation": "The base of log(x) defaults to 10, known as the common logarithm, when not explicitly stated."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "A base of 1 renders the logarithm undefined for most values of x, as it does not produce meaningful results."
+        }
+      ],
+      "explanation": "The correct answer is Option C: The default base for log(x) is 10, which is recognized as the common logarithm. This assumption is made unless a different base is specified. Option A, with base e, refers to the natural logarithm, expressed as ln(x), which is not the default assumption. Option B, with base 2, pertains to binary logarithms, requiring explicit notation, such as log2(x). Option D is incorrect because a logarithm with base 1 is undefined for most x values, as it does not yield meaningful computations.",
+      "explanationImage": null,
+      "hints": [
+        "base",
+        "log(x)"
+      ]
+    },
+    {
+      "text": "logₑ(x) is known as:",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Natural logarithm",
+          "isCorrect": true,
+          "explanation": "This is correct. The logarithm with base 'e' is known as the natural logarithm, commonly used in mathematical contexts such as calculus."
+        },
+        {
+          "letter": "B",
+          "text": "Common logarithm",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Common logarithms use base 10, not 'e'."
+        },
+        {
+          "letter": "C",
+          "text": "Binary logarithm",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Binary logarithms use base 2, not 'e'."
+        },
+        {
+          "letter": "D",
+          "text": "Rational logarithm",
+          "isCorrect": false,
+          "explanation": "This is incorrect. There is no standard logarithm called the rational logarithm in mathematics."
+        }
+      ],
+      "explanation": "The correct answer is the Natural logarithm. The expression 'logₑ(x)' denotes a logarithm with base 'e', where 'e' is an irrational number approximately equal to 2.71828. This type of logarithm is particularly prevalent in fields such as calculus and complex analysis due to its unique mathematical properties.The Common logarithm is based on 10, denoted as log₁₀(x), and is often used in real-world applications. The Binary logarithm has a base of 2, denoted as log₂(x), and is commonly used in computer science. The term Rational logarithm is not recognized in mathematical standard terminology.",
+      "explanationImage": null,
+      "hints": [
+        "logₑ",
+        "base"
+      ]
+    },
+    {
+      "text": "ln(1) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "e",
+          "isCorrect": false,
+          "explanation": "This option confuses the base of the natural logarithm with the result. The correct result for ln(1) is not e."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "isCorrect": true,
+          "explanation": "The natural logarithm of 1 is 0 because e0 = 1. This is the correct answer."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This is incorrect because it mistakenly applies the property ln(e) = 1 to ln(1), which is not the same."
+        },
+        {
+          "letter": "D",
+          "text": "Undefined",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The natural logarithm is defined for positive numbers, including 1, and ln(1) is specifically 0."
+        }
+      ],
+      "explanation": "The natural logarithm function ln(x) represents the power to which the base e must be raised to produce the number x. Since e0 = 1, it follows that ln(1) = 0. Therefore, the correct answer is 0. Option A, e, is incorrect because it misidentifies the base with the result. Option C, 1, is incorrect because it confuses ln(1) with ln(e). Option D, Undefined, is incorrect because ln(1) is defined and equals 0 for positive numbers.",
+      "explanationImage": null,
+      "hints": [
+        "ln",
+        "1"
+      ]
+    },
+    {
+      "text": "Which of these is equal to ln(e²)?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2e",
+          "isCorrect": false,
+          "explanation": "This option incorrectly multiplies e by 2, neglecting the logarithmic rule that extracts the exponent as a coefficient."
+        },
+        {
+          "letter": "B",
+          "text": "e²",
+          "isCorrect": false,
+          "explanation": "This choice overlooks the effect of the natural logarithm on the expression and does not apply the power rule."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "Correct! Applying the power rule of logarithms, ln(e²) becomes 2 * ln(e). Since ln(e) equals 1, the expression simplifies to 2."
+        },
+        {
+          "letter": "D",
+          "text": "ln(2e)",
+          "isCorrect": false,
+          "explanation": "This option incorrectly adds 2 to e, misunderstanding the role of the exponent in logarithmic simplification."
+        }
+      ],
+      "explanation": "The correct answer is 2. By using the logarithmic property ln(a^b) = b * ln(a), and knowing that ln(e) equals 1, the expression ln(e²) simplifies to 2 * ln(e), which is 2. The other options failed to apply this property correctly: Option A multiplied incorrectly, Option B ignored the logarithm's effect, and Option D misapplied the exponent to produce an incorrect argument for the logarithmic function.",
+      "explanationImage": null,
+      "hints": [
+        "ln",
+        "e²"
+      ]
+    },
+    {
+      "text": "log₁₀(1000) – log₁₀(10) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This answer is incorrect. It would be correct if the expression inside the logarithms led to log₁₀(10), but that's not the case here."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "Correct! By applying the identity logₐ(b) - logₐ(c) = logₐ(b/c), the expression simplifies to log₁₀(100) which equals 2."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "This result would be correct if we were evaluating log₁₀(1000) directly, without the subtraction."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "This answer implies that log₁₀(1000) and log₁₀(10) are equal, which is not true."
+        }
+      ],
+      "explanation": "The correct approach to solve log₁₀(1000) – log₁₀(10) is to use the property of logarithms: logₐ(b) - logₐ(c) = logₐ(b/c). Applying this identity, we get log₁₀(1000/10) = log₁₀(100). Since 100 is equal to 10², log₁₀(100) simplifies to 2. Therefore, the correct answer is 2. Option A is incorrect because it does not account for the division inside the logarithm. Option C mistakenly evaluates log₁₀(1000) without considering the subtraction. Option D falsely assumes that log₁₀(1000) and log₁₀(10) are equal.",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀(1000)",
+        "–",
+        "log₁₀(10)"
+      ]
+    },
+    {
+      "text": "log₂(64) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "Incorrect. 25 equals 32, which is less than 64."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "Incorrect. 24 equals 16, which is much less than 64."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "isCorrect": true,
+          "explanation": "Correct! 26 equals 64 exactly, which matches the given number."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "isCorrect": false,
+          "explanation": "Incorrect. 27 equals 128, which exceeds 64."
+        }
+      ],
+      "explanation": "The question log₂(64) asks, 'To what power must 2 be raised to result in 64?' Calculating 26 results in 64, so log₂(64) is 6. The other options do not work because:Option A (5): 25 results in 32, not 64.Option B (4): 24 results in 16, which is far from 64.Option D (7): 27 results in 128, which overshoots 64.",
+      "explanationImage": null,
+      "hints": [
+        "log₂",
+        "64"
+      ]
+    },
+    {
+      "text": "log₄(1/2) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-1",
+          "isCorrect": false,
+          "explanation": "This answer is incorrect because 4-1 equals 1/4, not 1/2."
+        },
+        {
+          "letter": "B",
+          "text": "-0.5",
+          "isCorrect": true,
+          "explanation": "This is correct because 4-0.5 equals 1/2, as 4-0.5 is equivalent to (22)-0.5 = 2-1 = 1/2."
+        },
+        {
+          "letter": "C",
+          "text": "-2",
+          "isCorrect": false,
+          "explanation": "This would be correct if the question were log₄(1/16), because 4-2 equals 1/16, not 1/2."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This is incorrect because 41 equals 4, not 1/2."
+        }
+      ],
+      "explanation": "To solve log₄(1/2), find the exponent x such that 4x = 1/2. Express 1/2 as 2-1. Since 4 is 22, we have 4x = (22)x = 22x. Therefore, 22x = 2-1. Equating the exponents, 2x = -1, which gives x = -0.5, confirming that the correct answer is -0.5. The other options are incorrect because they represent powers that do not satisfy the equation 4x = 1/2.",
+      "explanationImage": null,
+      "hints": [
+        "log₄",
+        "1/2"
+      ]
+    },
+    {
+      "text": "log₁₀(0.0001) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-5",
+          "isCorrect": false,
+          "explanation": "-5 is incorrect because 10-5 equals 0.00001, which is less than 0.0001."
+        },
+        {
+          "letter": "B",
+          "text": "-4",
+          "isCorrect": true,
+          "explanation": "-4 is correct because 10-4 equals 0.0001."
+        },
+        {
+          "letter": "C",
+          "text": "-3",
+          "isCorrect": false,
+          "explanation": "-3 is incorrect because 10-3 equals 0.001, which is greater than 0.0001."
+        },
+        {
+          "letter": "D",
+          "text": "-2",
+          "isCorrect": false,
+          "explanation": "-2 is incorrect because 10-2 equals 0.01, which is much greater than 0.0001."
+        }
+      ],
+      "explanation": "To solve log₁₀(0.0001), we need to determine the exponent to which 10 must be raised to produce 0.0001. Recognizing that 0.0001 is equivalent to 10-4 confirms that the correct exponent is -4. Thus, log₁₀(0.0001) = -4, making Option B the correct answer.Option A: -5 is incorrect because 10-5 equals 0.00001, which is smaller than 0.0001. Option C: -3 is incorrect because 10-3 equals 0.001, which is larger than 0.0001. Option D: -2 is incorrect because 10-2 equals 0.01, which is far larger than 0.0001.",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀",
+        "0.0001"
+      ]
+    },
+    {
+      "text": "If log₅(x) = 1/2, then x = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "25",
+          "isCorrect": false,
+          "explanation": "This would be correct if the equation were log₅(x) = 2, because 5² = 25."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "This would be correct if the equation were log₅(x) = 1, because 5¹ = 5."
+        },
+        {
+          "letter": "C",
+          "text": "√5",
+          "isCorrect": true,
+          "explanation": "This is correct because if log₅(x) = 1/2, then x = 5^(1/2) = √5."
+        },
+        {
+          "letter": "D",
+          "text": "√25",
+          "isCorrect": false,
+          "explanation": "√25 equals 5, which would be correct if the equation were log₅(x) = 1."
+        }
+      ],
+      "explanation": "The equation log₅(x) = 1/2 can be rewritten in exponential form as x = 5^(1/2), which simplifies to x = √5. Therefore, the correct answer is √5.Option A (25) is incorrect because it would satisfy the equation if log₅(x) = 2, as 5² = 25.Option B (5) is incorrect because it would satisfy the equation if log₅(x) = 1, as 5¹ = 5.Option D (√25) is incorrect because √25 equals 5, which again would satisfy the equation if log₅(x) = 1.",
+      "explanationImage": null,
+      "hints": [
+        "log₅(x)",
+        "1/2"
+      ]
+    },
+    {
+      "text": "What is the result of log₁₀(xy/z)?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "log₁₀(x) + log₁₀(y) - log₁₀(z)",
+          "isCorrect": true,
+          "explanation": "This option correctly applies the properties of logarithms: the logarithm of a product is the sum of the logarithms, and the logarithm of a quotient is the difference of the logarithms."
+        },
+        {
+          "letter": "B",
+          "text": "log₁₀(x + y - z)",
+          "isCorrect": false,
+          "explanation": "This option incorrectly assumes that logarithms distribute over addition and subtraction, which is not a valid property of logarithms."
+        },
+        {
+          "letter": "C",
+          "text": "log₁₀(xyz)",
+          "isCorrect": false,
+          "explanation": "This option ignores the division by z and incorrectly treats the entire expression as a product."
+        },
+        {
+          "letter": "D",
+          "text": "log₁₀(x) - log₁₀(yz)",
+          "isCorrect": false,
+          "explanation": "This option misapplies the division rule by incorrectly grouping y and z together in the denominator."
+        }
+      ],
+      "explanation": "The correct answer is log₁₀(x) + log₁₀(y) - log₁₀(z). This is derived from the properties of logarithms: the logarithm of a product is the sum of the logarithms (log₁₀(ab) = log₁₀(a) + log₁₀(b)), and the logarithm of a quotient is the difference of the logarithms (log₁₀(a/b) = log₁₀(a) - log₁₀(b)). Thus, for log₁₀(xy/z), it becomes log₁₀(x) + log₁₀(y) - log₁₀(z). Option B incorrectly assumes that logarithms can be distributed over addition and subtraction. Option C neglects the division aspect entirely, treating the expression as a full product. Option D incorrectly groups y and z as a single denominator, misapplying the division rule.",
+      "explanationImage": null,
+      "hints": [
+        "logarithms",
+        "multiplication"
+      ]
+    },
+    {
+      "text": "log₁₀(3) is approximately:",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.3010",
+          "isCorrect": true,
+          "explanation": "This is the correct approximation for log₁₀(3). It is derived using a calculator or logarithm table, representing the power to which 10 must be raised to yield 3."
+        },
+        {
+          "letter": "B",
+          "text": "0.4771",
+          "isCorrect": false,
+          "explanation": "This value approximates log₁₀(3.3), not log₁₀(3). It represents the power to which 10 must be raised to yield 3.3."
+        },
+        {
+          "letter": "C",
+          "text": "0.6990",
+          "isCorrect": false,
+          "explanation": "This value is the approximation for log₁₀(5). It represents the power to which 10 must be raised to yield 5."
+        },
+        {
+          "letter": "D",
+          "text": "0.8451",
+          "isCorrect": false,
+          "explanation": "This value approximates log₁₀(7), not log₁₀(3). It represents the power to which 10 must be raised to yield 7."
+        }
+      ],
+      "explanation": "The logarithm log₁₀(3) is approximately 0.3010. This value is obtained using a calculator or logarithm table, indicating the power to which 10 must be raised to get 3. The other options are approximations for the logarithms of other numbers: 0.4771 is for log₁₀(3.3), 0.6990 for log₁₀(5), and 0.8451 for log₁₀(7). Therefore, these are incorrect for log₁₀(3).",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀",
+        "3"
+      ]
+    },
+    {
+      "text": "ln(e³) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "e³",
+          "isCorrect": false,
+          "explanation": "This answer mistakenly treats the expression as if the natural logarithm does not simplify the exponential expression."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": true,
+          "explanation": "This is correct because the property ln(e^x) = x simplifies the expression directly to 3."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This answer confuses the natural logarithm of e itself, which is 1, with the expression ln(e³)."
+        },
+        {
+          "letter": "D",
+          "text": "e",
+          "isCorrect": false,
+          "explanation": "This mistakenly assumes the result is simply the base of the natural logarithm, rather than simplifying the entire expression."
+        }
+      ],
+      "explanation": "The expression ln(e³) can be simplified using the property of logarithms where the natural logarithm and the exponential function are inverses. Specifically, ln(e^x) = x. Applying this property, we find that ln(e³) = 3, making Option B the correct choice. Option A is incorrect because it fails to simplify the expression through logarithmic properties. Option C is incorrect as it applies the property ln(e) = 1 incorrectly to the entire expression. Option D is incorrect as it confuses the result with the base of the natural logarithm.",
+      "explanationImage": null,
+      "hints": [
+        "ln",
+        "e³"
+      ]
+    },
+    {
+      "text": "Change of base: log₅(100) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "log₁₀(100)/log₁₀(5)",
+          "isCorrect": true,
+          "explanation": "This is correct because the change of base formula is applied properly, where log₅(100) = log₁₀(100) divided by log₁₀(5)."
+        },
+        {
+          "letter": "B",
+          "text": "log₁₀(5)/log₁₀(100)",
+          "isCorrect": false,
+          "explanation": "This is incorrect because it reverses the correct order in the formula. The numerator should be log₁₀(100), not log₁₀(5)."
+        },
+        {
+          "letter": "C",
+          "text": "100 log₁₀(5)",
+          "isCorrect": false,
+          "explanation": "This is incorrect because it incorrectly multiplies log₁₀(5) by 100. The operation should involve division, not multiplication."
+        },
+        {
+          "letter": "D",
+          "text": "5 log₁₀(100)",
+          "isCorrect": false,
+          "explanation": "This is incorrect because it multiplies log₁₀(100) by 5 instead of dividing log₁₀(100) by log₁₀(5)."
+        }
+      ],
+      "explanation": "According to the change of base formula, to convert log₅(100) to a different base, we use log₅(100) = log₁₀(100) / log₁₀(5). This formula allows conversion of logarithms to base 10, which is useful for calculations with standard scientific calculators. Option A correctly applies this formula. Option B is incorrect due to the reversed order of numerator and denominator. Options C and D misapply operations by introducing multiplication, which is not part of the change of base formula.",
+      "explanationImage": null,
+      "hints": [
+        "log₅(100)",
+        "change",
+        "base"
+      ]
+    },
+    {
+      "text": "If logₓ(81) = 4, what is x?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "isCorrect": true,
+          "explanation": "Correct! The statement logₓ(81) = 4 implies that x4 = 81. Since 34 = 81, x must be 3."
+        },
+        {
+          "letter": "B",
+          "text": "9",
+          "isCorrect": false,
+          "explanation": "Incorrect. If x were 9, then 94 yields 6561, which is much larger than 81. Therefore, x cannot be 9."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "Incorrect. With x as 4, 44 results in 256, which does not equal 81. Thus, x cannot be 4."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "Incorrect. Using x as 2, we have 24 = 16, which is not equal to 81. Therefore, x cannot be 2."
+        }
+      ],
+      "explanation": "To solve logₓ(81) = 4, interpret this equation as x4 = 81. We need to determine which number, when raised to the fourth power, equals 81. Option A, x = 3, is correct because 34 = 81. The other options are incorrect since 94 = 6561, 44 = 256, and 24 = 16, none of which equal 81.",
+      "explanationImage": null,
+      "hints": [
+        "logₓ(81)",
+        "4"
+      ]
+    },
+    {
+      "text": "Evaluate log₈(2):",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/3",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. When 8 is expressed as 23, the equation 8x = 2 simplifies to 23x = 2, leading to 3x = 1 and x = 1/3. Therefore, log₈(2) = 1/3."
+        },
+        {
+          "letter": "B",
+          "text": "2/3",
+          "isCorrect": false,
+          "explanation": "This is incorrect. If log₈(2) were 2/3, then 82/3 would equal 2. However, 82/3 actually equals 4."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "This is incorrect. If log₈(2) were 3, then 83 would equal 2, but in reality, 83 equals 512."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "This is incorrect. If log₈(2) were 2, then 82 would equal 2, but 82 equals 64."
+        }
+      ],
+      "explanation": "To find log₈(2), determine the power to which the base 8 must be raised to yield 2. We express 8 as 23, so the equation becomes (23)x = 2. Simplifying, we get 23x = 21, leading to 3x = 1, and solving for x gives x = 1/3. This confirms that log₈(2) = 1/3. The other options are incorrect because they do not satisfy the equation 8x = 2. For example, 82/3 equals 4, not 2; 83 equals 512; and 82 equals 64.",
+      "explanationImage": null,
+      "hints": [
+        "log₈(2)",
+        "inverse",
+        "exponentiation"
+      ]
+    },
+    {
+      "text": "log₄(1/4) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "Incorrect. This implies 4 raised to the power of 1 equals 1/4, which is not true as 4^1 = 4."
+        },
+        {
+          "letter": "B",
+          "text": "-1",
+          "isCorrect": true,
+          "explanation": "Correct. 4 raised to the power of -1 equals 1/4, as 4^-1 = 1/4."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "Incorrect. 4 raised to the power of 0 equals 1, not 1/4, as 4^0 = 1."
+        },
+        {
+          "letter": "D",
+          "text": "Undefined",
+          "isCorrect": false,
+          "explanation": "Incorrect. Logarithms are defined for positive values, and 1/4 is positive."
+        }
+      ],
+      "explanation": "The question asks for log₄(1/4), meaning what power must 4 be raised to in order to get 1/4. Rewriting 1/4 as 4 raised to a power, we have 4^-1 = 1/4. Thus, the logarithm of 1/4 with base 4 is -1. Option B is correct as it aligns with this calculation. Option A is incorrect because 4^1 = 4, not 1/4. Option C is incorrect because 4^0 = 1, not 1/4. Option D is incorrect because the logarithm is defined for positive numbers such as 1/4.",
+      "explanationImage": null,
+      "hints": [
+        "log₄",
+        "1/4"
+      ]
+    },
+    {
+      "text": "If log₂(x) = 3, then log₄(x²) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "isCorrect": true,
+          "explanation": "If log₂(x) = 3, then x = 2³ = 8. Therefore, log₄(x²) = log₄(8²) = log₄(64). Since 64 = 4³, log₄(64) = 3."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": "This would be the result if you mistakenly calculated log₂(x²) = 6 assuming log₂(x) = 3 and doubled it instead of correctly converting the base."
+        },
+        {
+          "letter": "C",
+          "text": "4.5",
+          "isCorrect": false,
+          "explanation": "This value results from an incorrect manipulation of the base change formula or arithmetic error."
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "isCorrect": false,
+          "explanation": "This would be the answer if you incorrectly assumed x² = 8² without converting to base 4, leading to an incorrect calculation of log₄(8²)."
+        }
+      ],
+      "explanation": "To solve for log₄(x²), start by expressing x in terms of base 2: if log₂(x) = 3, then x = 2³ = 8. Therefore, x² = 8² = 64. Now, express 64 as a power of 4: 64 = 4³. Hence, log₄(64) = 3. This confirms that the correct answer is 3. Other options are incorrect due to misunderstanding the base change or incorrect arithmetic operations.",
+      "explanationImage": null,
+      "hints": [
+        "log₂(x)",
+        "log₄(x²)",
+        "change of base"
+      ]
+    },
+    {
+      "text": "log₁₀(10⁷) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "7",
+          "isCorrect": true,
+          "explanation": "This is the correct answer because log₁₀(10⁷) equals 7. The logarithm of a number with a base equal to the number's base raised to an exponent is the exponent itself."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "isCorrect": false,
+          "explanation": "This is incorrect. This option mistakenly assumes the result is the base number, but the logarithm gives the exponent."
+        },
+        {
+          "letter": "C",
+          "text": "0.7",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The calculation was done improperly, leading to a decimal answer. The correct exponent should be 7, not 0.7."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Logarithm of log₁₀(10) equals 1, but here, we have an exponent of 7, not 1."
+        }
+      ],
+      "explanation": "The question requires the calculation of log₁₀(10⁷). Utilizing the logarithmic identity, which states that log base 'b' of 'b' raised to any power equals that power, we find that log₁₀(10⁷) simplifies directly to 7. Option A is correct as it identifies the exponent correctly. Option B is incorrect because it mistakenly identifies the result as the base number. Option C results from a miscalculation leading to an incorrect decimal exponent. Option D incorrectly applies the identity to a simple base case, not considering the given exponent of 7.",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀",
+        "10⁷"
+      ]
+    },
+    {
+      "text": "log₅(√5) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.5",
+          "isCorrect": true,
+          "explanation": "This is correct. The logarithm of a square root can be expressed as a fraction, specifically half of the original base exponent."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The value is overestimated because the square root of the base does not result in a logarithm greater than 1."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The logarithm cannot directly equal the base value; it misinterprets the properties of logarithms and exponents."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The logarithm of a number equals 1 only if the number is equivalent to the base, not its square root."
+        }
+      ],
+      "explanation": "The given expression is log₅(√5). To solve this, recognize that √5 can be rewritten as 50.5. According to the properties of logarithms, log_b(b^x) = x. Therefore, log₅(50.5) simplifies to 0.5.Option A is correct because it accurately applies the logarithmic property. Option B is incorrect as it overestimates the value; the logarithm of the square root should be less than 1. Option C is incorrect because it incorrectly suggests the result is the base itself. Option D is incorrect because it assumes the number is the base, rather than the square root of the base.",
+      "explanationImage": null,
+      "hints": [
+        "log₅",
+        "√5"
+      ]
+    },
+    {
+      "text": "log₉(3²) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": true,
+          "explanation": "Using the change of base formula, log₉(3²) = 2 * log₉(3). Since 9 = 3², log₉(3) = 1/2, therefore 2 * (1/2) = 1."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "This result would imply that log₉(3) = 1, but since 9 is 3², log₉(3) should be 1/2, not 1."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "This value is incorrect; it implies a misunderstanding of the base and exponent relationship in the logarithm."
+        },
+        {
+          "letter": "D",
+          "text": "0.5",
+          "isCorrect": false,
+          "explanation": "This result would mean that log₉(3²) equals half, which is incorrect for the given expression."
+        }
+      ],
+      "explanation": "To solve log₉(3²), we apply the power rule of logarithms: log₉(3²) = 2 * log₉(3). Knowing that 9 is 3 squared, we have log₉(3) = 1/2. Thus, 2 * (1/2) = 1, making the correct answer 1. The other options are incorrect because they either misapply the power rule or miscalculate the base relationship.",
+      "explanationImage": null,
+      "hints": [
+        "log₉",
+        "3²"
+      ]
+    },
+    {
+      "text": "log₆(36) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "Incorrect. If log₆(36) were 1, then 6 raised to the power of 1 would equal 36, which it does not."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "Correct! 6 raised to the power of 2 equals 36, so log₆(36) is indeed 2."
+        },
+        {
+          "letter": "C",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": "Incorrect. 6 raised to the power of 6 equals 46,656, which is much larger than 36."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "Incorrect. 6 raised to the power of 3 equals 216, which is not equal to 36."
+        }
+      ],
+      "explanation": "The question asks for log₆(36), which means finding the power to which 6 must be raised to yield 36. This translates to solving the equation 6x = 36. By computation, 62 equals 36, confirming that the correct answer is 2. Option A is incorrect because 61 = 6, which is not 36. Option C is incorrect as 66 equals 46,656, far exceeding 36. Option D is incorrect since 63 equals 216, not 36.",
+      "explanationImage": null,
+      "hints": [
+        "log₆",
+        "36"
+      ]
+    },
+    {
+      "text": "log₁₀(x³√x) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "log₁₀(x)³.⁵",
+          "isCorrect": false,
+          "explanation": "This option incorrectly applies the logarithm property to the base and exponent."
+        },
+        {
+          "letter": "B",
+          "text": "3.5 log₁₀(x)",
+          "isCorrect": false,
+          "explanation": "This is correct because the expression can be rewritten as x3.5, and using the property logb(an) = n logb(a), it simplifies to 3.5 log₁₀(x)."
+        },
+        {
+          "letter": "C",
+          "text": "log₁₀(x³) + log₁₀(√x)",
+          "isCorrect": false,
+          "explanation": "This is correct because using the properties of logarithms: logb(mn) = logb(m) + logb(n), thus log₁₀(x³√x) = log₁₀(x³) + log₁₀(√x)."
+        },
+        {
+          "letter": "D",
+          "text": "Both B and C",
+          "isCorrect": true,
+          "explanation": "This is correct because both options B and C correctly apply logarithmic properties to simplify the expression."
+        }
+      ],
+      "explanation": "The expression log₁₀(x³√x) can be rewritten using the properties of exponents and logarithms. x³√x is equivalent to x3.5 (since √x is x0.5). Applying the logarithmic property logb(an) = n logb(a), you get 3.5 log₁₀(x), which matches Option B. Additionally, using the property logb(mn) = logb(m) + logb(n), the expression can also be split into log₁₀(x³) + log₁₀(√x), which matches Option C. Therefore, Option D, which states both B and C are correct, is the right choice. Option A is incorrect because it misapplies the logarithmic properties.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If log₂(x) = a, then x = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2a",
+          "isCorrect": false,
+          "explanation": "This option suggests multiplying the base 2 by the logarithmic value a, which is not how logarithms are converted to exponential form."
+        },
+        {
+          "letter": "B",
+          "text": "2^a",
+          "isCorrect": true,
+          "explanation": "This is the correct conversion. According to the definition of logarithms, if log₂(x) = a, then x can be expressed as 2 raised to the power of a, or 2^a."
+        },
+        {
+          "letter": "C",
+          "text": "a^2",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests squaring the logarithmic value a, which does not follow from the properties of logarithms."
+        },
+        {
+          "letter": "D",
+          "text": "a^x",
+          "isCorrect": false,
+          "explanation": "This option mistakenly reverses the roles of the base and the exponent, which is not a valid expression for the given logarithmic relationship."
+        }
+      ],
+      "explanation": "The correct answer is 2^a. The equation log₂(x) = a implies that 2 is the base of the logarithm, x is the argument, and a is the result of the logarithmic operation. By using the definition of logarithms, this can be rewritten in exponential form as x = 2^a, meaning x equals 2 raised to the power of a.Option A, 2a, incorrectly interprets the relationship by simply multiplying the base and the logarithmic value, which is not how you convert a logarithmic function to an exponential one. Option C, a^2, falsely represents the equation by squaring the logarithmic value a, which is not applicable here. Option D, a^x, confuses the base with the exponent, leading to an invalid transformation of the original logarithmic equation.",
+      "explanationImage": null,
+      "hints": [
+        "log₂(x)",
+        "a"
+      ]
+    },
+    {
+      "text": "log₁₀(x/y) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "log₁₀(x) + log₁₀(y)",
+          "isCorrect": false,
+          "explanation": "This option incorrectly uses the product rule, which applies to log₁₀(x * y), not log₁₀(x/y)."
+        },
+        {
+          "letter": "B",
+          "text": "log₁₀(x) - log₁₀(y)",
+          "isCorrect": true,
+          "explanation": "This option correctly applies the quotient rule for logarithms: log₁₀(x/y) = log₁₀(x) - log₁₀(y)."
+        },
+        {
+          "letter": "C",
+          "text": "x/y",
+          "isCorrect": false,
+          "explanation": "This option mistakenly interprets the expression as a simple division, ignoring the logarithmic properties."
+        },
+        {
+          "letter": "D",
+          "text": "y/x",
+          "isCorrect": false,
+          "explanation": "This option incorrectly reverses the numerator and denominator, which does not correspond to the expression log₁₀(x/y)."
+        }
+      ],
+      "explanation": "The correct answer is B: log₁₀(x) - log₁₀(y). This is because the logarithmic property for division states that log₁₀(x/y) = log₁₀(x) - log₁₀(y). Option A is incorrect as it uses the product rule meant for multiplication, not division. Option C incorrectly treats the expression as straightforward division and ignores logarithmic rules. Option D reverses the roles of x and y, which does not match the original expression.",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀",
+        "x/y"
+      ]
+    },
+    {
+      "text": "log₃(3³) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "isCorrect": true,
+          "explanation": "Correct. The property log₃(3³) = 3 applies because the base of the logarithm (3) matches the base of the exponent (3), allowing us to directly take the exponent as the result."
+        },
+        {
+          "letter": "B",
+          "text": "9",
+          "isCorrect": false,
+          "explanation": "Incorrect. 9 results from evaluating 3², not from evaluating log₃(3³)."
+        },
+        {
+          "letter": "C",
+          "text": "27",
+          "isCorrect": false,
+          "explanation": "Incorrect. 27 is the value of 3³, which is not the same as the logarithm log₃(3³)."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "Incorrect. 1 is the result of calculating log₃(3), not log₃(3³)."
+        }
+      ],
+      "explanation": "The expression log₃(3³) can be simplified using the logarithmic identity logₐ(a^b) = b. In this case, both the base of the logarithm and the base of the exponent are 3, allowing us to take the exponent, which is 3, as the result. Therefore, log₃(3³) = 3. Other options are incorrect because they either confuse the operation of exponentiation with logarithms or misinterpret the expression. Option B (9) is derived from squaring the base, Option C (27) is simply 3³, and Option D (1) results from a simpler logarithm with a different power.",
+      "explanationImage": null,
+      "hints": [
+        "log₃",
+        "3³"
+      ]
+    },
+    {
+      "text": "log₁₀(2) × log₁₀(5) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "log₁₀(10)",
+          "isCorrect": false,
+          "explanation": "This option incorrectly applies a nonexistent logarithmic property related to multiplication, as it assumes a transformation similar to addition rules."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This option misinterprets the result, as no logarithmic identity simplifies the product of two unrelated logarithms to 1."
+        },
+        {
+          "letter": "C",
+          "text": "Not directly solvable",
+          "isCorrect": true,
+          "explanation": "This is correct because there is no logarithmic property that directly simplifies the product of two distinct logarithms without additional context or values."
+        },
+        {
+          "letter": "D",
+          "text": "log₁₀(2 × 5)",
+          "isCorrect": false,
+          "explanation": "This option misapplies the rule for adding logarithms, which can only be used to combine logs of the same base and not for operations involving multiplication of logs."
+        }
+      ],
+      "explanation": "The expression log₁₀(2) × log₁₀(5) cannot be simplified using any standard logarithmic identities because there is no property for directly multiplying logs of different bases. The property log₁₀(a) + log₁₀(b) = log₁₀(ab) is for addition, not multiplication. Therefore, the expression remains 'Not directly solvable'.Option A and D incorrectly try to apply addition properties to a multiplication problem, while Option B suggests an incorrect simplification to 1. Only Option C correctly identifies that no direct simplification is possible without further context or values.",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀(2)",
+        "×",
+        "log₁₀(5)"
+      ]
+    },
+    {
+      "text": "If log₁₀(x) = -1, then x = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.1",
+          "isCorrect": true,
+          "explanation": "Correct! Converting log₁₀(x) = -1 to exponential form gives x = 10-1, which equals 0.1."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "Incorrect. Logarithmic equations of the form log₁₀(x) = 0 would result in x = 1, not -1."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "isCorrect": false,
+          "explanation": "Incorrect. If log₁₀(x) were 1, then x would equal 10. Here, the equation is log₁₀(x) = -1."
+        },
+        {
+          "letter": "D",
+          "text": "-1",
+          "isCorrect": false,
+          "explanation": "Incorrect. The value of x must be positive in the equation log₁₀(x) = -1, as logarithms with a positive base cannot yield negative numbers."
+        }
+      ],
+      "explanation": "The problem requires converting the logarithmic equation log₁₀(x) = -1 into its exponential form. This means 10 raised to the power of -1 equals x, or x = 10-1. Calculating 10-1 results in 0.1, so the correct answer is Option A.Option B is incorrect because a logarithmic equation with 0 as the result would mean x = 1, not 0.1.Option C is incorrect because this would require log₁₀(x) = 1, where x equals 10.Option D is incorrect because x in log₁₀(x) must be positive, and -1 is not a valid result for x in this context.",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀(x)",
+        "1"
+      ]
+    },
+    {
+      "text": "What is logₐ(1) for any base a > 0, a ≠ 1?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This would only be true if logₐ(a) = 1, not logₐ(1)."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "isCorrect": true,
+          "explanation": "For any base a > 0, a ≠ 1, logₐ(1) equals 0 because any number to the power of 0 is 1."
+        },
+        {
+          "letter": "C",
+          "text": "Undefined",
+          "isCorrect": false,
+          "explanation": "Logarithms of 1 are defined for any valid base greater than 0 and not equal to 1, so it is not undefined."
+        },
+        {
+          "letter": "D",
+          "text": "a",
+          "isCorrect": false,
+          "explanation": "This is incorrect because the result of a logarithm gives an exponent, not the base itself."
+        }
+      ],
+      "explanation": "The expression logₐ(1) is 0 for any base a > 0, a ≠ 1 because a raised to the power of 0 is always 1 (a0 = 1). Therefore, the logarithm of 1 in any valid base is always 0. Option A is incorrect because logₐ(1) does not equal 1 unless a is 1, which is not allowed here. Option C is incorrect because logarithms of 1 are defined for any valid base. Option D is incorrect because a logarithm represents an exponent, not the base itself.",
+      "explanationImage": null,
+      "hints": [
+        "logₐ(1)",
+        "base"
+      ]
+    },
+    {
+      "text": "Evaluate: log₁₀(πe) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "log₁₀(π) + log₁₀(e)",
+          "isCorrect": true,
+          "explanation": "This option correctly applies the logarithmic property for the product of two numbers, breaking it down into the sum of the logarithms of π and e."
+        },
+        {
+          "letter": "B",
+          "text": "log₁₀(π + e)",
+          "isCorrect": false,
+          "explanation": "This option incorrectly treats the sum of π and e as a product. The logarithmic property for products cannot be applied to sums."
+        },
+        {
+          "letter": "C",
+          "text": "π + e",
+          "isCorrect": false,
+          "explanation": "This option ignores the logarithmic operation entirely and incorrectly suggests adding π and e directly, which is not the task at hand."
+        },
+        {
+          "letter": "D",
+          "text": "log₁₀(πe)",
+          "isCorrect": false,
+          "explanation": "This option simply restates the original expression without applying any logarithmic property to simplify or evaluate it."
+        }
+      ],
+      "explanation": "The correct answer is log₁₀(π) + log₁₀(e). This uses the logarithmic property that states the logarithm of a product is the sum of the logarithms of its factors: logₐ(xy) = logₐ(x) + logₐ(y). Here, π and e are multiplied, so their logarithms can be added. Option B is incorrect because it wrongly applies this property to a sum instead of a product. Option C is incorrect as it disregards the logarithmic function entirely. Option D does not simplify the expression, so it is not an appropriate choice for evaluating log₁₀(πe).",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀(πe)",
+        "logarithmic property"
+      ]
+    },
+    {
+      "text": "Which of these is NOT a valid logarithmic identity?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "logₐ(xy) = logₐ(x) + logₐ(y)",
+          "isCorrect": false,
+          "explanation": "This is a valid logarithmic identity known as the product rule, which shows that the logarithm of a product equals the sum of the logarithms."
+        },
+        {
+          "letter": "B",
+          "text": "logₐ(x/y) = logₐ(x) – logₐ(y)",
+          "isCorrect": false,
+          "explanation": "This is a valid logarithmic identity known as the quotient rule, which demonstrates that the logarithm of a quotient equals the difference of the logarithms."
+        },
+        {
+          "letter": "C",
+          "text": "logₐ(xⁿ) = n logₐ(x)",
+          "isCorrect": false,
+          "explanation": "This is a valid logarithmic identity known as the power rule, which indicates that the logarithm of a power equals the exponent times the logarithm."
+        },
+        {
+          "letter": "D",
+          "text": "logₐ(x + y) = logₐ(x) + logₐ(y)",
+          "isCorrect": true,
+          "explanation": "This is NOT a valid logarithmic identity because logarithms cannot be distributed over addition."
+        }
+      ],
+      "explanation": "The correct answer is Option D: logₐ(x + y) = logₐ(x) + logₐ(y). This statement is incorrect because logarithms do not operate like addition; they cannot be distributed over addition. Logarithms have specific rules for products, quotients, and powers:Option A: logₐ(xy) = logₐ(x) + logₐ(y) is the product rule, which is valid.Option B: logₐ(x/y) = logₐ(x) - logₐ(y) is the quotient rule, which is valid.Option C: logₐ(xⁿ) = n logₐ(x) is the power rule, which is valid.These rules simplify complex expressions involving multiplication, division, and exponentiation, but there is no analogous rule for addition.",
+      "explanationImage": null,
+      "hints": [
+        "NOT",
+        "valid",
+        "identity"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2587 @@
+{
+  "questions": [
+    {
+      "text": "The diode used in the circuit shown in the figure has a constant voltage drop of 0.5 V at all currents and a maximum power rating of 100 milliwatts. What should be the value of the resistor R, connected in series with the diode, for obtaining maximum current?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.5 Ω",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to calculations."
+        },
+        {
+          "letter": "B",
+          "text": "5 Ω",
+          "isCorrect": true,
+          "explanation": "Maximum current in the circuitI = P/V∴ I = 100 × 10⁻³ / 0.5 = 0.2 amp.Now, R = voltage drop across resistance / 0.5 = 1 / 0.2 = 5Ω."
+        },
+        {
+          "letter": "C",
+          "text": "6.67 Ω",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to calculations."
+        },
+        {
+          "letter": "D",
+          "text": "200 Ω",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to calculations."
+        }
+      ],
+      "explanation": "Maximum current in the circuitI = P/V∴ I = 100 × 10⁻³ / 0.5 = 0.2 amp.Now, R = voltage drop across resistance / 0.5 = 1 / 0.2 = 5Ω.",
+      "explanationImage": null,
+      "hints": [
+        "connected in series",
+        "constant voltage drop",
+        "all currents"
+      ]
+    },
+    {
+      "text": "When P-N junction diode is forward biased then:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The depletion region is reduced and barrier height is increased",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Forward biasing reduces both the depletion region and the barrier height, facilitating current flow."
+        },
+        {
+          "letter": "B",
+          "text": "The depletion region is widened and barrier height is reduced",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Forward biasing reduces the depletion region rather than widening it, and lowers the barrier height."
+        },
+        {
+          "letter": "C",
+          "text": "Both the depletion region and barrier height are reduced",
+          "isCorrect": true,
+          "explanation": "This option is correct. Forward biasing a P-N junction diode reduces both the depletion region and the barrier height, allowing current to flow more easily."
+        },
+        {
+          "letter": "D",
+          "text": "Both the depletion region and barrier height are increased",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Forward biasing decreases both the depletion region and the barrier height, not increases them."
+        }
+      ],
+      "explanation": "When a P-N junction diode is forward-biased, the external voltage reduces the potential barrier, allowing charge carriers to move across the junction. This results in the reduction of the depletion region and the barrier height, facilitating the flow of current. Option C correctly describes these effects. The other options are incorrect because they either incorrectly describe widening/increasing the depletion region or barrier height, which does not occur under forward biasing.",
+      "explanationImage": null,
+      "hints": [
+        "P-N junction diode",
+        "forward biased"
+      ]
+    },
+    {
+      "text": "The circuit shown in the figure contains two diodes each with a forward resistance of 50 Ω and with infinite backward resistance. If the battery voltage is 6 V, the current through the 100 Ω resistance (in ampere) is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "The current is not zero because the diodes are forward biased, allowing current to flow."
+        },
+        {
+          "letter": "B",
+          "text": "0.02",
+          "isCorrect": false,
+          "explanation": "This calculation does not account for the correct total resistance in the circuit."
+        },
+        {
+          "letter": "C",
+          "text": "0.03",
+          "isCorrect": true,
+          "explanation": "This is the correct current through the 100 Ω resistance, considering the forward resistance of the diodes."
+        },
+        {
+          "letter": "D",
+          "text": "0.036",
+          "isCorrect": false,
+          "explanation": "This value is incorrect due to miscalculating the total resistance or voltage drop."
+        }
+      ],
+      "explanation": "The circuit contains two diodes with a forward resistance of 50 Ω each, and these diodes are forward biased, meaning they allow current to flow. The total resistance in the circuit is the sum of the diode resistances and the 100 Ω resistance, giving a total of 200 Ω. Using Ohm's law (V = IR), we find the current (I) by dividing the voltage (6 V) by the total resistance (200 Ω), resulting in a current of 0.03 A. The other options are incorrect because they either assume no current flow or miscalculate the total resistance or voltage drop.",
+      "explanationImage": null,
+      "hints": [
+        "two diodes",
+        "infinite backward resistance"
+      ]
+    },
+    {
+      "text": "The valence of an impurity added to germanium crystal in order to convert it into a P-type semiconductor is :",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": "Elements with a valence of 6 are not suitable for altering the semiconductor type, as they do not fit into the lattice structure of germanium effectively."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "Elements with a valence of 5, such as phosphorus, donate extra electrons to the semiconductor, resulting in an N-type semiconductor, not a P-type."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "Elements with a valence of 4, like silicon and germanium, are used as the base material for the semiconductor itself and do not change the type by doping."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "isCorrect": true,
+          "explanation": "Elements with a valence of 3, such as boron, accept electrons from the crystal lattice, creating 'holes' that contribute to the formation of a P-type semiconductor."
+        }
+      ],
+      "explanation": "To convert a germanium crystal into a P-type semiconductor, an element with a valence of 3, such as boron, is added. This type of impurity accepts electrons, creating holes that facilitate positive charge carrier movement, hence forming a P-type semiconductor. Other options are incorrect: elements with a valence of 5 donate electrons, forming N-type semiconductors, while elements with valences of 4 and 6 do not effectively alter the conduction type of the semiconductor.",
+      "explanationImage": null,
+      "hints": [
+        "valence",
+        "impurity"
+      ]
+    },
+    {
+      "text": "If Np and Ne be the numbers of holes and conduction electrons in an extrinsic semiconductor, then:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "NP>Ne",
+          "isCorrect": false,
+          "explanation": "This condition is true for P-type semiconductors where the introduction of acceptor impurities increases the number of holes (Np) compared to conduction electrons (Ne)."
+        },
+        {
+          "letter": "B",
+          "text": "NP=Ne",
+          "isCorrect": false,
+          "explanation": "In extrinsic semiconductors, this scenario is uncommon as the balance between holes and electrons is altered by the type and level of doping. Such equality is rare and not typical."
+        },
+        {
+          "letter": "C",
+          "text": "NP<Ne",
+          "isCorrect": false,
+          "explanation": "This is typical for N-type semiconductors where donor impurities increase the number of conduction electrons (Ne) compared to holes (Np)."
+        },
+        {
+          "letter": "D",
+          "text": "NP>Ne or NP<Ne depending on the nature of impurity",
+          "isCorrect": true,
+          "explanation": "This option correctly captures both scenarios: P-type semiconductors with more holes and N-type semiconductors with more electrons, depending on the type of doping impurities used."
+        }
+      ],
+      "explanation": "In extrinsic semiconductors, doping introduces impurities that significantly alter the balance of charge carriers. In P-type semiconductors, the addition of acceptor impurities results in NP > Ne as holes become the majority carriers. Conversely, in N-type semiconductors, donor impurities lead to NP < Ne as electrons dominate. Therefore, the correct answer is the option that acknowledges both possibilities: NP>Ne or NP<Ne depending on the nature of impurity. Options stating a fixed relation between NP and Ne ignore the impact of different doping types.",
+      "explanationImage": null,
+      "hints": [
+        "Np",
+        "Ne"
+      ]
+    },
+    {
+      "text": "A semiconducting device connected in series with a cell and a resistor indicates some current in the circuit. If the polarity of the battery is reversed, the current almost reduces to zero. The device may be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A p-type semiconductor",
+          "isCorrect": false,
+          "explanation": "A p-type semiconductor alone does not form a junction that can be reverse biased to significantly reduce current. It needs to pair with an n-type to form a p-n junction."
+        },
+        {
+          "letter": "B",
+          "text": "An n-type semiconductor",
+          "isCorrect": false,
+          "explanation": "An n-type semiconductor alone does not have the property of significantly reducing current under reverse bias. It needs to pair with a p-type to form a p-n junction."
+        },
+        {
+          "letter": "C",
+          "text": "A p-n junction",
+          "isCorrect": true,
+          "explanation": "A p-n junction is a device that allows current to flow easily in one direction (forward bias) and almost completely blocks it in the opposite direction (reverse bias), which matches the behavior described."
+        },
+        {
+          "letter": "D",
+          "text": "An intrinsic semiconductor",
+          "isCorrect": false,
+          "explanation": "An intrinsic semiconductor does not exhibit the diode properties necessary to almost completely block current when the battery polarity is reversed. It lacks the built-in electric field of a p-n junction."
+        }
+      ],
+      "explanation": "The correct answer is a p-n junction. A p-n junction diode allows current to flow freely when forward biased (positive to p-type and negative to n-type) but significantly restricts current flow when reverse biased, which is when the battery polarity is reversed. This behavior aligns perfectly with the description given in the question.Options A and B are incorrect because a p-type or an n-type semiconductor alone does not exhibit the described behavior without forming a junction. Option D, an intrinsic semiconductor, lacks the charge carriers and electric field required to block current flow under reverse bias conditions.",
+      "explanationImage": null,
+      "hints": [
+        "semiconducting",
+        "reversed"
+      ]
+    },
+    {
+      "text": "When N-type of semiconductor is heated :",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Number of electrons increases while that of holes decreases.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. In an N-type semiconductor, heating increases the energy of electrons, making them more mobile, and also generates additional electron-hole pairs, increasing both electrons and holes."
+        },
+        {
+          "letter": "B",
+          "text": "Number of holes increases while that of electrons decreases",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Heating generally increases the number of both electrons and holes in an N-type semiconductor due to increased thermal energy and generation of electron-hole pairs."
+        },
+        {
+          "letter": "C",
+          "text": "Number of electrons and holes remains the same.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because thermal excitation typically leads to an increase in the number of free charge carriers, altering the balance and increasing both electrons and holes."
+        },
+        {
+          "letter": "D",
+          "text": "Number of electrons and holes increases equally",
+          "isCorrect": true,
+          "explanation": "This option is correct. Heating an N-type semiconductor increases thermal energy, creating more electron-hole pairs. As a result, both electrons and holes increase in number equally."
+        }
+      ],
+      "explanation": "When an N-type semiconductor is heated, electrons gain energy and can move more freely, resulting in increased electrical conductivity. Additionally, heating causes the generation of electron-hole pairs, leading to an increase in both electrons and holes equally. Therefore, the correct option is that the number of electrons and holes increases equally. Other options are incorrect because they either ignore the creation of electron-hole pairs or incorrectly state the changes in charge carrier numbers.",
+      "explanationImage": null,
+      "hints": [
+        "N-type",
+        "heated"
+      ]
+    },
+    {
+      "text": "Assertion: In n-type semiconductors electrons are the majority charge carriers and holes are the minority charge carriers.Reason: n-type semiconductor is electrically neutral.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "If both Assertion & Reason are true and the reason is the correct explanation of the assertion",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While both the assertion and the reason are true, the reason does not explain why electrons are the majority carriers in n-type semiconductors; it merely states a general property of semiconductors."
+        },
+        {
+          "letter": "B",
+          "text": "If both Assertion & Reason are true but the reason is not the correct explanation of the assertion",
+          "isCorrect": true,
+          "explanation": "This option is correct. Both statements are true: electrons are indeed the majority charge carriers in n-type semiconductors, and they are electrically neutral. However, the reason does not explain why electrons are the majority carriers; it only states a separate fact about neutrality."
+        },
+        {
+          "letter": "C",
+          "text": "If Assertion is a true statement but Reason is false",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the reason is not false. The statement about n-type semiconductors being electrically neutral is true, even though it does not explain the assertion."
+        },
+        {
+          "letter": "D",
+          "text": "If both Assertion and Reason are false statements",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because both the assertion and the reason are true statements regarding n-type semiconductors."
+        }
+      ],
+      "explanation": "The assertion is true: In n-type semiconductors, electrons are the majority charge carriers and holes are the minority charge carriers. This is due to the doping process that adds extra electrons to the semiconductor material. The reason is also true: n-type semiconductors are electrically neutral because the number of positive charges (protons in the nucleus) balances the number of negative charges (electrons). However, the reason does not explain why electrons are the majority carriers; it is an independent fact about the semiconductor's electrical neutrality. Hence, Option B is the correct answer. Options A, C, and D are incorrect because they misrepresent the truth value or the explanatory power of the reason in relation to the assertion.",
+      "explanationImage": null,
+      "hints": [
+        "n-type semiconductors",
+        "majority charge carriers",
+        "electrically neutral"
+      ]
+    },
+    {
+      "text": "Which of the following is not correct regarding Zener diode ?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is used as a Half wave rectifier",
+          "isCorrect": true,
+          "explanation": "A Zener diode is not used as a half-wave rectifier. Half-wave rectifiers typically use regular diodes to convert AC to DC, while Zener diodes are used for voltage regulation purposes."
+        },
+        {
+          "letter": "B",
+          "text": "It is used as a shunt regulator",
+          "isCorrect": false,
+          "explanation": "Zener diodes are commonly used as shunt regulators to maintain a constant output voltage across a load, making this statement correct."
+        },
+        {
+          "letter": "C",
+          "text": "It is used as an AC voltage stabilizer",
+          "isCorrect": false,
+          "explanation": "When used in conjunction with other components, Zener diodes can stabilize AC voltage levels, making this statement correct."
+        },
+        {
+          "letter": "D",
+          "text": "Both B and C",
+          "isCorrect": false,
+          "explanation": "Both statements B and C are correct since Zener diodes are used for voltage stabilization and regulation purposes."
+        }
+      ],
+      "explanation": "The correct answer is Option A: 'It is used as a Half wave rectifier'. Zener diodes are primarily used for voltage regulation and stabilization, functioning effectively as shunt regulators to maintain a constant voltage. They are not typically used in rectification processes like half-wave rectification, where standard diodes are more suitable. Option B and C describe correct uses of Zener diodes, making them incorrect answers to the question. Option D is also incorrect as both B and C are valid applications of Zener diodes.",
+      "explanationImage": null,
+      "hints": [
+        "not",
+        "diode",
+        "Zener"
+      ]
+    },
+    {
+      "text": "The amplification factor of a triode is 20 and trans-conductance is 3 milli mho load resistance 3 × 104 Ω , then the voltage gain is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "16.36",
+          "isCorrect": true,
+          "explanation": "The correct calculation using the given values of amplification factor, trans-conductance, and load resistance yields this result."
+        },
+        {
+          "letter": "B",
+          "text": "28",
+          "isCorrect": false,
+          "explanation": "This option results from an incorrect calculation of the voltage gain, possibly due to a miscalculation in the formula application."
+        },
+        {
+          "letter": "C",
+          "text": "78",
+          "isCorrect": false,
+          "explanation": "This option is not feasible based on the given parameters and suggests a misinterpretation of the formula or units involved."
+        },
+        {
+          "letter": "D",
+          "text": "108",
+          "isCorrect": false,
+          "explanation": "This option is much higher than the computed value, indicating a significant error in the calculation process."
+        }
+      ],
+      "explanation": "To find the voltage gain (AV) of a triode, use the formula: AV = μ * gm * RL, where μ is the amplification factor, gm is the trans-conductance, and RL is the load resistance. Given μ = 20, gm = 3 milli mho = 0.003 S, and RL = 3 × 104 Ω, the calculation is:AV = 20 * 0.003 * 3 × 104 = 16.36.Therefore, Option A is correct. Other options result from incorrect calculations, likely due to errors in formula application or unit conversions.",
+      "explanationImage": null,
+      "hints": [
+        "amplification factor",
+        "trans-conductance",
+        "load resistance"
+      ]
+    },
+    {
+      "text": "A diode characteristic curve is a graph between:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Current and time",
+          "isCorrect": false,
+          "explanation": "This is incorrect. A diode characteristic curve does not illustrate the relationship between current and time. It is more focused on the behavior of current with respect to voltage across the diode."
+        },
+        {
+          "letter": "B",
+          "text": "Voltage and current",
+          "isCorrect": true,
+          "explanation": "This is correct. The diode characteristic curve demonstrates how the current through the diode varies with the applied voltage, which is essential for understanding diode operation."
+        },
+        {
+          "letter": "C",
+          "text": "Voltage and time",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The diode characteristic curve is not typically concerned with time, but rather the relationship between voltage and current."
+        },
+        {
+          "letter": "D",
+          "text": "Forward voltage and reverse current",
+          "isCorrect": false,
+          "explanation": "This is incorrect. While forward voltage and reverse current are indeed important parameters for diodes, the characteristic curve primarily shows the overall voltage-current relationship rather than isolating these parameters."
+        }
+      ],
+      "explanation": "The correct answer is Voltage and current. A diode characteristic curve, also known as the I-V curve, represents the relationship between the voltage across a diode and the current flowing through it. This curve is crucial for understanding how a diode will behave in a circuit, particularly its forward and reverse bias characteristics. Other options such as Current and time or Voltage and time do not typically represent the fundamental characteristics of a diode. Similarly, while Forward voltage and reverse current are important, they do not constitute the entire characteristic curve which is based on the overall voltage-current relationship.",
+      "explanationImage": null,
+      "hints": [
+        "diode",
+        "characteristic",
+        "curve"
+      ]
+    },
+    {
+      "text": "In half wave rectification, the output DC voltage is obtained across the load for:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The positive half cycle of input AC",
+          "isCorrect": true,
+          "explanation": "In half-wave rectification:The diode conducts only during one half cycle of the input AC (the positive half if diode is forward-biased).Current flows through the load only in that half cycle.The other half cycle (negative half) is blocked.."
+        },
+        {
+          "letter": "B",
+          "text": "The negative half cycle of input AC",
+          "isCorrect": false,
+          "explanation": "Similarly, if the diode is forward-biased for the negative half cycle, it will conduct during this half. The choice depends on the diode's configuration."
+        },
+        {
+          "letter": "C",
+          "text": "The positive and negative half cycles of input AC",
+          "isCorrect": false,
+          "explanation": "This scenario occurs in full wave rectification, where both half cycles are utilized. It's not applicable to half wave rectification."
+        },
+        {
+          "letter": "D",
+          "text": "Either positive or negative half cycle of input AC",
+          "isCorrect": false,
+          "explanation": "The half-wave rectification: The diode conducts only during one half cycle of the input AC (the positive half if diode is forward-biased). Current flows through the load only in that half cycle. The other half cycle (negative half) is blocked."
+        }
+      ],
+      "explanation": "In half wave rectification, the diode allows current to pass through during only one half of the AC input cycle, either the positive or the negative half, depending on the diode's orientation. This results in a pulsating DC output across the load for that half cycle only. Option D is correct as it encompasses both possibilities. Options A and B are correct under specific configurations but do not cover both scenarios. Option C is incorrect as it describes full wave rectification, where both half cycles are used.",
+      "explanationImage": null,
+      "hints": [
+        "half",
+        "rectification",
+        "load"
+      ]
+    },
+    {
+      "text": "The device used for conversion of AC into DC is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "An oscillator",
+          "isCorrect": false,
+          "explanation": "An oscillator is used to generate periodic signals, such as sine or square waves, and does not perform AC to DC conversion."
+        },
+        {
+          "letter": "B",
+          "text": "An amplifier",
+          "isCorrect": false,
+          "explanation": "An amplifier is designed to increase the power of a signal, maintaining its form, but it does not convert AC to DC."
+        },
+        {
+          "letter": "C",
+          "text": "A detector",
+          "isCorrect": false,
+          "explanation": "A detector's primary function is to sense or measure signals, and it does not change AC into DC."
+        },
+        {
+          "letter": "D",
+          "text": "A rectifier",
+          "isCorrect": true,
+          "explanation": "A rectifier is specifically engineered to convert alternating current (AC) into direct current (DC), which is crucial for devices that require DC power."
+        }
+      ],
+      "explanation": "The correct answer is A rectifier. A rectifier is an essential electronic component that converts alternating current (AC) into direct current (DC), making it indispensable in power supplies for electronic devices. In contrast, an oscillator is used for generating waveforms, an amplifier boosts the amplitude of a signal without altering its form, and a detector is used for identifying or measuring signal characteristics. None of these other options perform the function of converting AC to DC.",
+      "explanationImage": null,
+      "hints": [
+        "device",
+        "conversion"
+      ]
+    },
+    {
+      "text": "The potential barrier in a diode stops the movement of:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Holes only",
+          "isCorrect": false,
+          "explanation": "The potential barrier does not stop only holes. It affects both types of charge carriers."
+        },
+        {
+          "letter": "B",
+          "text": "Both electrons and holes",
+          "isCorrect": true,
+          "explanation": "Correct. The potential barrier in a diode prevents further diffusion of both electrons and holes across the junction."
+        },
+        {
+          "letter": "C",
+          "text": "Electrons only",
+          "isCorrect": false,
+          "explanation": "The potential barrier does not solely stop electrons. It affects both electrons and holes equally."
+        },
+        {
+          "letter": "D",
+          "text": "Bounded electron",
+          "isCorrect": false,
+          "explanation": "The term 'bounded electron' is not typically used in the context of a diode's potential barrier. The barrier affects free charge carriers like electrons and holes."
+        }
+      ],
+      "explanation": "The potential barrier in a diode is a critical feature that prevents the further diffusion of charge carriers across the p-n junction. In a silicon diode, this barrier is approximately 0.7V, while in a germanium diode, it is about 0.3V. The barrier stops both electrons and holes from moving across the junction, thereby maintaining the diode's rectifying properties. Options A and C are incorrect because they suggest the barrier affects only one type of charge carrier, whereas Option D introduces a term 'bounded electron' which is not relevant in this context.",
+      "explanationImage": null,
+      "hints": [
+        "potential",
+        "barrier",
+        "diode"
+      ]
+    },
+    {
+      "text": "Which circuit is used for the smooth output voltage in rectification?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oscillator",
+          "isCorrect": false,
+          "explanation": "An oscillator is an electronic circuit or device that generates a repetitive and periodic waveform or signal."
+        },
+        {
+          "letter": "B",
+          "text": "Rectifier",
+          "isCorrect": false,
+          "explanation": "A rectifier is an electrical device or circuit that converts alternating current (AC) into direct current (DC)."
+        },
+        {
+          "letter": "C",
+          "text": "Filters",
+          "isCorrect": true,
+          "explanation": "In full wave rectification the Output voltage is pulsating. To make the voltage smooth a circuit known as filter can be used."
+        },
+        {
+          "letter": "D",
+          "text": "Amplifier",
+          "isCorrect": false,
+          "explanation": "An amplifier is an electronic device or circuit that is designed to increase the amplitude or strength of an electrical signal."
+        }
+      ],
+      "explanation": "In full wave rectification the Output voltage is pulsating. To make the voltage smooth a circuit known as filter can be used.",
+      "explanationImage": null,
+      "hints": [
+        "smooth",
+        "rectification"
+      ]
+    },
+    {
+      "text": "The width of depletion region of a diode:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increases under forward bias",
+          "isCorrect": false,
+          "explanation": "When the diode is forward biased, the width of depletion region decreases ."
+        },
+        {
+          "letter": "B",
+          "text": "Increases under reverse bias",
+          "isCorrect": true,
+          "explanation": "When the diode is reverses biased then the width of depletion region increases."
+        },
+        {
+          "letter": "C",
+          "text": "Is independent of applied voltage",
+          "isCorrect": false,
+          "explanation": "When the diode is forward biased, the width of depletion region decreases and when it is reverses biased then the width of depletion region increases."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": "When it is reverses biased then the width of depletion region increases.So,option B﻿ is corect."
+        }
+      ],
+      "explanation": "When the diode is forward biased, the width of depletion region decreases and when it is reverses biased then the width of depletion region increases.",
+      "explanationImage": null,
+      "hints": [
+        "width",
+        "depletion region"
+      ]
+    },
+    {
+      "text": "Depletion region carries:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Negative charge",
+          "isCorrect": false,
+          "explanation": "The depletion region is a charge-neutral area, so it does not carry negative charge."
+        },
+        {
+          "letter": "B",
+          "text": "No free charge",
+          "isCorrect": true,
+          "explanation": "In the depletion region, free charge carriers recombine, resulting in an area devoid of free charges."
+        },
+        {
+          "letter": "C",
+          "text": "Positive charge",
+          "isCorrect": false,
+          "explanation": "The depletion region is charge-neutral, meaning it does not have positive charge."
+        },
+        {
+          "letter": "D",
+          "text": "Positive ions",
+          "isCorrect": false,
+          "explanation": "While the depletion region may have fixed ions, it is primarily characterized by the absence of free charge carriers."
+        }
+      ],
+      "explanation": "The depletion region in a semiconductor junction forms due to the recombination of electrons and holes from the n and p regions, respectively. This recombination leads to a region where free charge carriers are absent, resulting in a charge-neutral area. Therefore, the depletion region carries no free charge. Options A, C, and D are incorrect because they suggest the presence of negative or positive charges, which contradicts the nature of a depletion region as being free of mobile charge carriers.",
+      "explanationImage": null,
+      "hints": [
+        "Depletion",
+        "region"
+      ]
+    },
+    {
+      "text": "The single Germanium or Silicon crystal formed after adding the pentavalent impurity is known as:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Semi-conductor",
+          "isCorrect": false,
+          "explanation": "A semiconductor is a material that has properties between those of a conductor (e.g., metals) and an insulator (e.g., non-metals). Semiconductors can conduct electrical current under certain conditions but are not as good conductors as metals. They have a band gap that can be tuned through the addition of impurities, which makes them important in electronic devices. The option itself doesn't specifically address the addition of a pentavalent impurity, so it is a general term for the class of materials."
+        },
+        {
+          "letter": "B",
+          "text": "N- type substance",
+          "isCorrect": true,
+          "explanation": "When a silicon or Germanium crystal is doped with a pentavalent element, four valence electrons of the impurity atom form covalent bonds with the four neighbouring \"Si\" or \"Ge\" atoms, while the fifth valence electron provides a free electron such as a doped or extrinsic semiconductor is called N-type semiconductor."
+        },
+        {
+          "letter": "C",
+          "text": "p-n substance",
+          "isCorrect": false,
+          "explanation": "A p-n substance is not a common terminology in the context of semiconductor physics. However, \"p-n junction\" is a significant concept in semiconductor devices. A p-n junction is created by joining a p-type semiconductor (excess of positive \"holes\") and an n-type semiconductor (excess of negative electrons). This junction is crucial in diodes, transistors, and other semiconductor devices."
+        },
+        {
+          "letter": "D",
+          "text": "P-type substance",
+          "isCorrect": false,
+          "explanation": "When a semiconductor crystal is doped with trivalent impurities like boron, it introduces \"holes\" or missing electrons into the crystal structure. This creates an excess of positive charge carriers. The resulting crystal is referred to as a \"P-type substance,\" with \"P\" standing for \"positive\" due to the presence of these holes."
+        }
+      ],
+      "explanation": "When a silicon or Germanium crystal is doped with a pentavalent element, four valence electrons of the impurity atom form covalent bonds with the four neighbouring \"Si\" or \"Ge\" atoms, while the fifth valence electron provides a free electron such as a doped or extrinsic semiconductor is called N-type semiconductor.",
+      "explanationImage": null,
+      "hints": [
+        "pentavalent",
+        "impurity"
+      ]
+    },
+    {
+      "text": "The forward current through a semiconductor diode circuit is due to the:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Minority carriers",
+          "isCorrect": false,
+          "explanation": "This is incorrect. In a forward-biased semiconductor diode, the majority carriers, not the minority carriers, are primarily responsible for the current flow. Minority carriers play a minimal role in forward current as they are few in number."
+        },
+        {
+          "letter": "B",
+          "text": "Holes",
+          "isCorrect": false,
+          "explanation": "This is partially correct but incomplete. Holes are indeed the majority carriers in the P-type region, but the forward current in a diode involves both electrons and holes as majority carriers contributing to the current flow across the junction."
+        },
+        {
+          "letter": "C",
+          "text": "Majority carriers",
+          "isCorrect": true,
+          "explanation": "This is correct. The forward current in a semiconductor diode is primarily due to the movement of majority charge carriers. Electrons in the N-type region and holes in the P-type region move across the junction under forward bias, facilitating the flow of current."
+        },
+        {
+          "letter": "D",
+          "text": "Electrons",
+          "isCorrect": false,
+          "explanation": "This is partially correct but incomplete. Electrons are the majority carriers in the N-type region, but the forward current also involves holes as majority carriers in the P-type region. Both types of carriers are important for the forward current in a diode."
+        }
+      ],
+      "explanation": "In a forward-biased semiconductor diode, the depletion region narrows, allowing the majority charge carriers to move across the P-N junction. In the N-type region, electrons are the majority carriers, and in the P-type region, holes are the majority carriers. Both types of carriers contribute to the forward current. Electrons move from the N-side to the P-side, where they recombine with holes, facilitating the flow of current.Minority carriers are not the primary contributors to forward current and play a negligible role. While options mentioning only electrons or holes capture part of the process, they do not account for the complete role of both majority carrier types in different regions of the diode.",
+      "explanationImage": null,
+      "hints": [
+        "forward",
+        "current",
+        "semiconductor"
+      ]
+    },
+    {
+      "text": "Identify the correct statement about minority carriers:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Holes in n-type and free electrons in p-type",
+          "isCorrect": true,
+          "explanation": "This option is correct. In an n-type semiconductor, holes are the minority carriers, whereas in a p-type semiconductor, free electrons are the minority carriers. This accurately describes the distribution of minority carriers in semiconductor materials."
+        },
+        {
+          "letter": "B",
+          "text": "Holes in n-type and p-type",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because while holes are present in both n-type and p-type semiconductors, they are not the minority carriers in p-type semiconductors. In p-type, holes are the majority carriers."
+        },
+        {
+          "letter": "C",
+          "text": "Free electrons in n-type and holes in p-type",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Free electrons are the majority carriers in n-type semiconductors, and holes are the majority carriers in p-type semiconductors. This statement reverses the roles of majority and minority carriers."
+        },
+        {
+          "letter": "D",
+          "text": "Free electrons in n-type and p-type",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it suggests that free electrons are minority carriers in both n-type and p-type semiconductors. In reality, free electrons are majority carriers in n-type semiconductors and minority carriers in p-type semiconductors."
+        }
+      ],
+      "explanation": "In semiconductors, the majority and minority carriers differ based on the type. In an n-type semiconductor, free electrons are the majority carriers, while holes are the minority carriers. Conversely, in a p-type semiconductor, holes are the majority carriers, and free electrons are the minority carriers. Therefore, option A is correct. The other options misinterpret the roles of majority and minority carriers in these materials.",
+      "explanationImage": null,
+      "hints": [
+        "minority",
+        "carriers"
+      ]
+    },
+    {
+      "text": "When a PN junction diode is forward biased, the flow of current across the junction is mainly due to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Drift of charges",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Drift refers to the movement of charges due to an electric field, which is not the primary mechanism in a forward-biased diode."
+        },
+        {
+          "letter": "B",
+          "text": "Diffusion of charges",
+          "isCorrect": true,
+          "explanation": "This is correct. In a forward-biased P-N junction, the current flow is mainly due to the diffusion of majority carriers—electrons and holes—across the junction."
+        },
+        {
+          "letter": "C",
+          "text": "Both drift and diffusion of charges",
+          "isCorrect": false,
+          "explanation": "This is incorrect. While both drift and diffusion can occur, in a forward-biased diode, the current is predominantly due to diffusion of charges."
+        },
+        {
+          "letter": "D",
+          "text": "Depends on the nature of the material",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The flow of current in a forward-biased P-N junction is primarily due to the majority carriers, regardless of the material type."
+        }
+      ],
+      "explanation": "In a forward-biased P-N junction diode, the applied voltage reduces the barrier potential, allowing majority carriers to move across the junction. Electrons from the N-type region move into the P-type region, and holes from the P-type region move into the N-type region. This movement of majority carriers is due to diffusion, as they move from a region of high concentration to low concentration. As a result, the current flow in a forward-biased diode is primarily due to diffusion. Other options are incorrect because:Drift of charges: Drift is driven by an electric field, which is not the main process in forward bias.Both drift and diffusion of charges: Although both phenomena can occur, diffusion is the dominant process in this context.Depends on the nature of the material: The basic operation of a P-N junction is independent of the material type regarding majority carrier movement.",
+      "explanationImage": null,
+      "hints": [
+        "forward biased",
+        "flow of current"
+      ]
+    },
+    {
+      "text": "On increasing the reverse bias to a large value in a p-n junction diode, current:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increases slowly and then remains fixed",
+          "isCorrect": false,
+          "explanation": "In reverse bias, current does not slowly increase with voltage.It stays nearly constant (reverse saturation current).Only when breakdown occurs does it increase sharply,not slowly."
+        },
+        {
+          "letter": "B",
+          "text": "Suddenly increases and then remains fixed",
+          "isCorrect": false,
+          "explanation": "A sudden increase in reverse current only happens at breakdown voltage (avalanche or Zener breakdown).But the question refers to normal reverse bias, not breakdown.After breakdown, current does not remain fixed; it increases sharply unless limited by a series resistor.So this statement is incorrect in both parts."
+        },
+        {
+          "letter": "C",
+          "text": "Remains fixed",
+          "isCorrect": true,
+          "explanation": "In reverse bias, only a very small reverse saturation current flows.This current is caused by minority carriers.Increasing reverse voltage does NOT significantly increase this current.So the reverse current remains almost constant (fixed) until breakdown."
+        },
+        {
+          "letter": "D",
+          "text": "Decreases slowly",
+          "isCorrect": false,
+          "explanation": "Reverse current does not decrease with increasing reverse voltage. Minority carriers are still generated thermally at the same rate.Therefore, the reverse current remains constant, not decreasing."
+        }
+      ],
+      "explanation": "As the reverse voltage is increased from \"0\", the reverse current quickly rises to its saturation value \"10\", As the reverse current remains almost constant. Here the resistance offered by the junction is very high of the order of the several mega ohms.",
+      "explanationImage": null,
+      "hints": [
+        "reverse",
+        "large value"
+      ]
+    },
+    {
+      "text": "The depletion layer in the p-n junction region is caused by:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diffusion of carriers",
+          "isCorrect": true,
+          "explanation": "Just after the formation of junction. The free electrons from the n-region diffused into the p-region and holes from p-region diffused into the n-region. As a result of this diffusion, charge less region formed around the junction in which charge carrier are not present. The formation of junction is mainly due to the diffusion of charges."
+        },
+        {
+          "letter": "B",
+          "text": "Drift of electrons",
+          "isCorrect": false,
+          "explanation": "It is incorrect because drift of electrons does not occur in this case."
+        },
+        {
+          "letter": "C",
+          "text": "Drift of holes",
+          "isCorrect": false,
+          "explanation": "It is incorrect because drifting of holes does not occur in this case."
+        },
+        {
+          "letter": "D",
+          "text": "Migration of impurity ions",
+          "isCorrect": false,
+          "explanation": "It is incorrect because migration of impurity ions does not occur in this case."
+        }
+      ],
+      "explanation": "Just after the formation of junction. The free electrons from the n-region diffused into the p-region and holes from p-region diffused into the n-region. As a result of this diffusion, charge less region formed around the junction in which charge carrier are not present. The formation of junction is mainly due to the diffusion of charges.",
+      "explanationImage": null,
+      "hints": [
+        "p-n junction",
+        "depletion layer"
+      ]
+    },
+    {
+      "text": "In Fig. the input is across the terminals \"A\" and \"C\" and the output is across \"B” and \"D\" Then the output is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "Incorrect so refer to main explanation."
+        },
+        {
+          "letter": "B",
+          "text": "Same as the input",
+          "isCorrect": false,
+          "explanation": "It cannot be same as input since diodes are used to signal must be rectified."
+        },
+        {
+          "letter": "C",
+          "text": "Full wave rectified",
+          "isCorrect": true,
+          "explanation": "The figure shows bridge rectifier which rectifies a whole wave and makes use of 4 diodes in which when two diodes conduct in forward direction so remaining two are not conducting."
+        },
+        {
+          "letter": "D",
+          "text": "Half wave rectified",
+          "isCorrect": false,
+          "explanation": "Incorrect because half wave rectification makes use of one diode only."
+        }
+      ],
+      "explanation": "The given circuit is a full‑wave bridge rectifier configuration with diodes arranged in a diamond shape.With AC input applied across terminals A and C, the output taken across B and D will be a rectified DC voltage (the positive half‑cycles appear at B and the negative half‑cycles are inverted to positive at D).So the output is a full‑wave rectified waveform.",
+      "explanationImage": null,
+      "hints": [
+        "input",
+        "output"
+      ]
+    },
+    {
+      "text": "In Fig. the current through the resistor is practically:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "5A",
+          "isCorrect": false,
+          "explanation": "In the circuit the diode is reverse biased. So, no current flows through the circuit."
+        },
+        {
+          "letter": "B",
+          "text": "2A",
+          "isCorrect": false,
+          "explanation": "In the circuit the diode is reverse biased. So, no current flows through the circuit."
+        },
+        {
+          "letter": "C",
+          "text": "1A",
+          "isCorrect": false,
+          "explanation": "In the circuit the diode is reverse biased. So ,no current flows through the circuit."
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "In the circuit the diode is reverse biased. So, No current flows through the circuit."
+        }
+      ],
+      "explanation": "In the circuit the diode is reverse biased. So,No current flows through the circuit.When a diode is reverse biased in a circuit, the current through the diode is typically very low, and it is often considered to be practically zero. In a reverse-biased diode, the voltage applied across the diode is in the opposite direction to the diode's natural voltage drop when forward biased. This creates a barrier that prevents the majority charge carriers (electrons in an N-type region and holes in a P-type region) from easily crossing the junction.As a result, very little current can flow in the reverse-biased state, and the diode essentially acts as an open circuit. There may be a small amount of leakage current, often in the nanoampere or picoampere range, due to some minority carriers and other factors, but this current is typically negligible for most practical purposes. Therefore, in a typical scenario with a reverse-biased diode, the current through the diode is practically considered to be close to zero.",
+      "explanationImage": null,
+      "hints": [
+        "current through the resistor"
+      ]
+    },
+    {
+      "text": "A full wave rectifier along with the output is shown in Fig. The contribution (s) from the diode 1 are:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": "Diode 1 contributes to the output waveform as a constant DC component. This option suggests that diode 1 rectifies the AC waveform and provides a constant output voltage throughout."
+        },
+        {
+          "letter": "B",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": "Diode 1 does not contribute to the output waveform. This option implies that diode 1 is either not present in the circuit or does not play a significant role in rectification."
+        },
+        {
+          "letter": "C",
+          "text": "C,B,D",
+          "isCorrect": true,
+          "explanation": "Considering the typical behavior of a full wave rectifier, option 3 (CBD) is the most likely correct answer. In a full wave rectifier circuit, each diode conducts during a half-cycle of the input waveform, resulting in rectification. However, due to the presence of ripple, the output will have fluctuations.Option 1 (C) is unlikely since a constant DC component without any ripple is not a characteristic of a full wave rectifier.Option 2 (A) assumes that diode 1 does not play a role in the rectification process, which contradicts the purpose of a full wave rectifier.Option 4 (ABCD) suggests a smooth DC output without any ripple, which is not typically achieved in a full wave rectifier unless additional filtering components, such as capacitors, are added to the circuit."
+        },
+        {
+          "letter": "D",
+          "text": "A,B,C,D",
+          "isCorrect": false,
+          "explanation": "Diode 1 contributes to the output waveform as a rectified DC component without any ripple. This option implies that diode 1 rectifies the AC waveform, resulting in a smooth DC output without any fluctuations."
+        }
+      ],
+      "explanation": "Considering the typical behavior of a full wave rectifier, option 3 (CBD) is the most likely correct answer. In a full wave rectifier circuit, each diode conducts during a half-cycle of the input waveform, resulting in rectification. However, due to the presence of ripple, the output will have fluctuations.Option 1 (C) is unlikely since a constant DC component without any ripple is not a characteristic of a full wave rectifier.Option 2 (A) assumes that diode 1 does not play a role in the rectification process, which contradicts the purpose of a full wave rectifier.Option 4 (ABCD) suggests a smooth DC output without any ripple, which is not typically achieved in a full wave rectifier unless additional filtering components, such as capacitors, are added to the circuit.",
+      "explanationImage": null,
+      "hints": [
+        "full",
+        "wave",
+        "output"
+      ]
+    },
+    {
+      "text": "A capacitor is to be used to provide smoothing for a half wave rectifier. In which of the following diagrams is capacitor correctly connected?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": "Incorrect since it is not connected in series with the load."
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": "Incorrect since capacitor is not connected in parallel with the diode."
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": "Incorrect because it is never connected in parallel with the battery."
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": true,
+          "explanation": "It is correct because capacitor is always connect parallel to the load resistor."
+        }
+      ],
+      "explanation": "To make the smooth a circuit known as filtering,capacitor can be used in which basically capacitor is connected in parallel with the load.",
+      "explanationImage": null,
+      "hints": [
+        "capacitor",
+        "half wave rectifier.",
+        "smoothing"
+      ]
+    },
+    {
+      "text": "PN junction diode cannot be used:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "As rectifier",
+          "isCorrect": false,
+          "explanation": "Since amplifier is the correct answer, hence this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "For getting light radiation",
+          "isCorrect": false,
+          "explanation": "PN junction is also used for this purpose so this option is wrong."
+        },
+        {
+          "letter": "C",
+          "text": "As amplifier",
+          "isCorrect": true,
+          "explanation": "A P-N junction can not be used as an amplifier (option-c). P-N junction is also known as a diode. It is a device that is composed of p-type and n-type semiconductors. Its half part is made up of p-type semiconductor and another half part is made of n-type semiconductor.Lastly, for amplification of a signal a transistor is used."
+        },
+        {
+          "letter": "D",
+          "text": "For converting AC to DC",
+          "isCorrect": false,
+          "explanation": "Pn junction is used for this purpose so it cannot be the correct option."
+        }
+      ],
+      "explanation": "P-N junction diodes can be used as rectifiers, in photodiodes and LED",
+      "explanationImage": null,
+      "hints": [
+        "junction diode",
+        "PN"
+      ]
+    },
+    {
+      "text": "For the input signal shown, the output signal at the resistor \"R\" will look be",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": "Incorrect since forward biased conductor is shown whereas in option A the figure shows graph for reverse biased conduction."
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": "It shows an unrectified signal so incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": "The output waveform of a half wave rectification is a pulsating DC waveform so it doesn't allow current to flow in opposition direction thus graph shouldn't be choosen which shows waveforms in negative axis."
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": true,
+          "explanation": "The diode will conduct for every ripple (pulse). So, the output will be same as that of input."
+        }
+      ],
+      "explanation": "The diode will conduct for every ripple (pulse). So, the output will be same as that of input.",
+      "explanationImage": null,
+      "hints": [
+        "input signal",
+        "resistor"
+      ]
+    },
+    {
+      "text": "A series combination of a 100Ω resistor and an ordinary silicon diode is connected to a 10V battery. The current flowing through the circuit will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.1 A",
+          "isCorrect": false,
+          "explanation": "This calculation doesn't account for the voltage drop across the silicon diode, which affects the total voltage across the resistor."
+        },
+        {
+          "letter": "B",
+          "text": "0.093 A",
+          "isCorrect": true,
+          "explanation": "The circuit consists of a 100Ω resistor and a silicon diode in series with a 10V battery. A silicon diode typically has a forward voltage drop of approximately 0.7 volts when conducting. This means the effective voltage across the resistor is reduced by this diode drop. The total voltage across the resistor is 10V - 0.7V = 9.3V. Using Ohm's Law (I = V/R), where V is the voltage across the resistor and R is the resistance, the current I is calculated as:I = 9.3V / 100Ω = 0.093A or 93mA.This is why the correct answer is 0.093 A. The other options are incorrect because they either ignore the diode's forward voltage drop or suggest unrealistic current values for the given circuit."
+        },
+        {
+          "letter": "C",
+          "text": "10.75 A",
+          "isCorrect": false,
+          "explanation": "This value is unrealistically high for this circuit, considering the diode's forward voltage drop and the resistor's value."
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "The diode is forward-biased within this circuit, allowing current to flow, so the current is not zero."
+        }
+      ],
+      "explanation": "The circuit consists of a 100Ω resistor and a silicon diode in series with a 10V battery. A silicon diode typically has a forward voltage drop of approximately 0.7 volts when conducting. This means the effective voltage across the resistor is reduced by this diode drop. The total voltage across the resistor is 10V - 0.7V = 9.3V. Using Ohm's Law (I = V/R), where V is the voltage across the resistor and R is the resistance, the current I is calculated as:I = 9.3V / 100Ω = 0.093A or 93mA.This is why the correct answer is 0.093 A. The other options are incorrect because they either ignore the diode's forward voltage drop or suggest unrealistic current values for the given circuit.",
+      "explanationImage": null,
+      "hints": [
+        "series combination",
+        "silicon diode"
+      ]
+    },
+    {
+      "text": "If AC voltage of 60Hz is applied as input to a full wave rectifier, the frequency of output voltage (ripple) will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 Hz",
+          "isCorrect": false,
+          "explanation": "This is incorrect. A full wave rectifier doubles the input frequency, not halves it. Hence, the output frequency cannot be less than the input frequency."
+        },
+        {
+          "letter": "B",
+          "text": "60 Hz",
+          "isCorrect": false,
+          "explanation": "This is incorrect. This frequency is applicable to a half wave rectifier, where the output frequency matches the input frequency."
+        },
+        {
+          "letter": "C",
+          "text": "120 Hz",
+          "isCorrect": true,
+          "explanation": "Correct. A full wave rectifier inverts each half cycle of the AC input, effectively doubling the frequency. Thus, the output frequency is 2 × 60 Hz = 120 Hz."
+        },
+        {
+          "letter": "D",
+          "text": "60/2π Hz",
+          "isCorrect": false,
+          "explanation": "This is incorrect. This expression is unrelated to the frequency transformation in rectification processes. It does not apply to the context of a full wave rectifier."
+        }
+      ],
+      "explanation": "A full wave rectifier converts the entire AC waveform to a pulsating DC, effectively doubling the frequency of the input signal. When the input AC frequency is 60 Hz, the output frequency is doubled to 120 Hz, making Option C the correct answer. Option A suggests a frequency reduction, which does not occur in full wave rectification. Option B corresponds to a half wave rectifier scenario, and Option D introduces a mathematical expression that is irrelevant to this context.",
+      "explanationImage": null,
+      "hints": [
+        "AC voltage",
+        "full wave",
+        "frequency"
+      ]
+    },
+    {
+      "text": "If an AC voltage of 100V peak value is applied as input to a half wave rectifier and then a full wave rectifier, the rms values of outputs will be respectively:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "35V and 35V",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The RMS voltage for a half-wave rectifier is not equal to that of a full-wave rectifier."
+        },
+        {
+          "letter": "B",
+          "text": "35V and 70V",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The RMS voltage for a half-wave rectifier should be different from 35V when the input peak voltage is 100V."
+        },
+        {
+          "letter": "C",
+          "text": "50V and 70V",
+          "isCorrect": true,
+          "explanation": "This is correct. For a half-wave rectifier, Vrms = Vpeak/2, and for a full-wave rectifier, Vrms = Vpeak/√2."
+        },
+        {
+          "letter": "D",
+          "text": "70V and 140V",
+          "isCorrect": false,
+          "explanation": "This is incorrect. These values do not align with the RMS formulas for rectifiers."
+        }
+      ],
+      "explanation": "The RMS value for a half-wave rectifier is calculated as Vrms = Vpeak/2. Given a peak voltage (Vpeak) of 100V, the half-wave rectifier output is Vrms = 100V/2 = 50V.For a full-wave rectifier, the RMS value is calculated as Vrms = Vpeak/√2. Therefore, the full-wave rectifier output is Vrms = 100V/√2 ≈ 70.7V, which rounds to 70V for simplicity.Therefore, the correct RMS outputs for the half-wave and full-wave rectifiers are 50V and 70V respectively. The other options do not apply the correct RMS formulas for rectifiers.",
+      "explanationImage": null,
+      "hints": [
+        "AC voltage",
+        "half wave rectifier"
+      ]
+    },
+    {
+      "text": "What is the current flowing in R2 in the circuit shown in Fig.? Given: R1 = 500Ω and R2 = 1kΩ .",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0mA",
+          "isCorrect": false,
+          "explanation": "This is incorrect because a non-zero voltage across R2 will result in a non-zero current according to Ohm's Law."
+        },
+        {
+          "letter": "B",
+          "text": "5mA",
+          "isCorrect": true,
+          "explanation": "Correct! Using Ohm's Law, the voltage across R2 is 5V, leading to a current of 5mA."
+        },
+        {
+          "letter": "C",
+          "text": "10mA",
+          "isCorrect": false,
+          "explanation": "This is incorrect; the calculated current using the given values does not match."
+        },
+        {
+          "letter": "D",
+          "text": "15mA",
+          "isCorrect": false,
+          "explanation": "This is incorrect as it does not align with the current calculation using Ohm's Law."
+        }
+      ],
+      "explanation": "In a parallel circuit, the voltage across all components is the same. Given that the voltage across R2 is 5V, we apply Ohm's Law (V=IR) to find the current: I = V/R = 5V / 1000Ω = 0.005A or 5mA. Therefore, the correct answer is 5mA. The other options do not match the calculations based on the given resistance and voltage.",
+      "explanationImage": null,
+      "hints": [
+        "parallel",
+        "V=IR",
+        "R2"
+      ]
+    },
+    {
+      "text": "In a bridge full wave rectifier, the input sine wave is 250sin100πt.The output ripple frequency will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "50Hz",
+          "isCorrect": false,
+          "explanation": "This frequency would be correct for a half-wave rectifier, where the output ripple frequency matches the input frequency. However, this is not applicable for a full wave rectifier."
+        },
+        {
+          "letter": "B",
+          "text": "100Hz",
+          "isCorrect": true,
+          "explanation": "This is the correct option. In a full wave rectifier, the ripple frequency is twice the input frequency. Given the input frequency is 50Hz, the output ripple frequency is 100Hz."
+        },
+        {
+          "letter": "C",
+          "text": "200Hz",
+          "isCorrect": false,
+          "explanation": "This would be incorrect, as it suggests a misunderstanding of the relationship between input and output frequencies in full wave rectification."
+        },
+        {
+          "letter": "D",
+          "text": "25Hz",
+          "isCorrect": false,
+          "explanation": "This value is incorrect. It is unrelated to the full wave rectification process, which doubles the input frequency."
+        }
+      ],
+      "explanation": "The input signal is given as 250sin100πt. The angular frequency (ω) here is 100π, which corresponds to a frequency (f) of 50Hz (since ω = 2πf). In a bridge full wave rectifier, the output ripple frequency is twice the input frequency. Thus, 2 x 50Hz = 100Hz. Therefore, the correct answer is 100Hz. Options 50Hz and 25Hz are incorrect as they do not reflect the doubling of frequency in full wave rectification. 200Hz is incorrect because it overestimates the ripple frequency.",
+      "explanationImage": null,
+      "hints": [
+        "bridge",
+        "full wave"
+      ]
+    },
+    {
+      "text": "Fig. shows three circuits used to rectify an alternating current. A cathode ray oscilloscope (CRO) with fixed settings of time base and Y gain is connected in turn as shown and produces a different trace in each case. Which of set of diagrams shows these traces most accurately?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": "1st circuit represents half-wave rectification and 2nd circuit represents filtered output with the help of capacitor and 3rd circuit represents output of full wave rectification.The sequence in this option is wrong according to the sequence given above."
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": true,
+          "explanation": "1st circuit represents half-wave rectification and 2nd circuit represents filtered output with the help of capacitor and 3rd circuit represents output of full wave rectification."
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": "1st circuit represents half-wave rectification and 2nd circuit represents filtered output with the help of capacitor and 3rd circuit represents output of full wave rectification.The sequence in this option is wrong according to the sequence given above."
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": false,
+          "explanation": "1st circuit represents half-wave rectification and 2nd circuit represents filtered output with the help of capacitor and 3rd circuit represents output of full wave rectification.The sequence in this option is wrong according to the sequence given above."
+        }
+      ],
+      "explanation": "1st circuit represents half-wave rectification and 2nd circuit represents filtered output with the help of capacitor and 3rd circuit represents output of full wave rectification.",
+      "explanationImage": null,
+      "hints": [
+        "rectify",
+        "alternating current",
+        "cathode ray oscilloscope (CRO)"
+      ]
+    },
+    {
+      "text": "When an impurity is doped into an intrinsic semiconductor, the conductivity of the semiconductor:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increases",
+          "isCorrect": true,
+          "explanation": "Doping introduces extra charge carriers or creates mobile charge vacancies, thereby increasing the conductivity of the semiconductor."
+        },
+        {
+          "letter": "B",
+          "text": "Decreases",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Doping is specifically done to increase conductivity by adding more charge carriers to the semiconductor."
+        },
+        {
+          "letter": "C",
+          "text": "Remains the same",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The purpose of doping is to change the conductivity, specifically to increase it, by adding impurities."
+        },
+        {
+          "letter": "D",
+          "text": "Becomes zero",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Doping does not reduce conductivity to zero; it enhances conductivity by introducing additional charge carriers."
+        }
+      ],
+      "explanation": "When an impurity is doped into an intrinsic semiconductor, it significantly alters the semiconductor's conductivity. Doping involves adding impurities to the semiconductor material to increase its electrical conductivity. The type of impurity determines the increase in conductivity:N-Type Semiconductor: Adding donor atoms from Group V (such as phosphorus) introduces extra electrons, which enhances electron conductivity.P-Type Semiconductor: Adding acceptor atoms from Group III (such as boron) creates holes, which enhances hole conductivity.Both methods effectively increase the number of charge carriers in the semiconductor, thereby increasing its overall conductivity. Therefore, the correct answer is that the conductivity Increases. The other options are incorrect because they do not align with the purpose and effect of doping in semiconductors.",
+      "explanationImage": null,
+      "hints": [
+        "impurity",
+        "doped",
+        "conductivity"
+      ]
+    },
+    {
+      "text": "Germanium at 0K is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Conductor",
+          "isCorrect": false,
+          "explanation": "Germanium is part of group 4 elements, which are semiconductors, not conductors. At 0K, it has no free charge carriers to conduct electricity."
+        },
+        {
+          "letter": "B",
+          "text": "Semiconductor",
+          "isCorrect": false,
+          "explanation": "While germanium is a semiconductor at higher temperatures, at 0K it lacks the energy required to generate free charge carriers, making it behave like an insulator."
+        },
+        {
+          "letter": "C",
+          "text": "Insulator",
+          "isCorrect": true,
+          "explanation": "At 0K, germanium has no thermal energy to excite electrons into the conduction band, thus behaving as an insulator due to the absence of free charge carriers."
+        },
+        {
+          "letter": "D",
+          "text": "P and N semiconductor",
+          "isCorrect": false,
+          "explanation": "Without any doping, pure germanium at 0K behaves as an insulator, not as a P-type or N-type semiconductor."
+        }
+      ],
+      "explanation": "Germanium is a semiconductor, which means that its ability to conduct electricity depends on the availability of free charge carriers. At 0K, there is no thermal energy to excite electrons from the valence band to the conduction band, leaving no free charge carriers to support conduction. Therefore, germanium behaves as an insulator at this temperature. Other options are incorrect because they do not account for the lack of free charge carriers at 0K. Specifically, pure germanium at 0K cannot be a conductor or a semiconductor due to its lack of conductivity, and it is not doped to become a P-type or N-type semiconductor.",
+      "explanationImage": null,
+      "hints": [
+        "0K",
+        "Germanium"
+      ]
+    },
+    {
+      "text": "By increasing the temperature, the conductivity of the semiconductor is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decreases",
+          "isCorrect": false,
+          "explanation": "In semiconductors, increasing temperature typically decreases resistance, leading to increased conductivity, not decreased."
+        },
+        {
+          "letter": "B",
+          "text": "Increases",
+          "isCorrect": true,
+          "explanation": "As temperature increases, more electrons gain enough energy to participate in conduction, thereby increasing the conductivity of the semiconductor."
+        },
+        {
+          "letter": "C",
+          "text": "Constant",
+          "isCorrect": false,
+          "explanation": "The conductivity of semiconductors is not constant with temperature changes as thermal energy impacts electron movement."
+        },
+        {
+          "letter": "D",
+          "text": "Not affected",
+          "isCorrect": false,
+          "explanation": "Conductivity is significantly affected by temperature changes due to the influence on charge carriers in semiconductors."
+        }
+      ],
+      "explanation": "In semiconductors, increasing the temperature provides additional energy to electrons, enabling more of them to break free and become charge carriers. This increase in free electrons or holes leads to an increase in conductivity. Therefore, option B is correct as it recognizes this increase in electrical conductivity with temperature.Option A is incorrect because it suggests a decrease in conductivity, which is opposite to what occurs in semiconductors. Option C is incorrect because conductivity does not remain constant with temperature changes. Option D is incorrect because it implies temperature has no effect on conductivity, which is not the case in semiconductors.",
+      "explanationImage": null,
+      "hints": [
+        "temperature",
+        "conductivity"
+      ]
+    },
+    {
+      "text": "Which one of the following is an intrinsic semiconductor?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Boron",
+          "isCorrect": false,
+          "explanation": "Boron is a group 3 element used as a dopant in semiconductors, making it extrinsic rather than intrinsic."
+        },
+        {
+          "letter": "B",
+          "text": "Copper",
+          "isCorrect": false,
+          "explanation": "Copper is a transition metal and a good conductor of electricity, not a semiconductor."
+        },
+        {
+          "letter": "C",
+          "text": "Indium",
+          "isCorrect": false,
+          "explanation": "Indium is a group 3 element typically used as a dopant in semiconductors, resulting in extrinsic semiconductors."
+        },
+        {
+          "letter": "D",
+          "text": "Silicon",
+          "isCorrect": true,
+          "explanation": "Silicon is a group 4 element that can exist as a pure semiconductor, making it an intrinsic semiconductor."
+        }
+      ],
+      "explanation": "Intrinsic semiconductors are pure forms of semiconductor materials. Silicon, being a group 4 element, can function as an intrinsic semiconductor without the need for doping. Boron and Indium are group 3 elements and are commonly used as dopants to create extrinsic semiconductors. Copper, on the other hand, is a metal and a good conductor, not a semiconductor.",
+      "explanationImage": null,
+      "hints": [
+        "intrinsic",
+        "semiconductor"
+      ]
+    },
+    {
+      "text": "In extrinsic semiconductor, the doping level should be in the ratio:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1:10-6",
+          "isCorrect": false,
+          "explanation": "This ratio implies an extremely high concentration of dopants, which would disrupt the semiconductor's lattice structure and alter its properties more than desired."
+        },
+        {
+          "letter": "B",
+          "text": "1:106",
+          "isCorrect": true,
+          "explanation": "This ratio, where there is one dopant atom per 106 host atoms, is ideal as it effectively enhances conductivity without overwhelming the semiconductor matrix."
+        },
+        {
+          "letter": "C",
+          "text": "1:10-8",
+          "isCorrect": false,
+          "explanation": "An even higher concentration of dopants than 1:10-6, disrupting the semiconductor significantly and likely leading to a breakdown of its intended properties."
+        },
+        {
+          "letter": "D",
+          "text": "1:108",
+          "isCorrect": false,
+          "explanation": "This ratio suggests a very low concentration of dopants, insufficient to meaningfully alter the semiconductor's electrical properties."
+        }
+      ],
+      "explanation": "In extrinsic semiconductors, achieving the right balance of dopant concentration is key to optimizing electrical properties. The correct ratio is approximately 1 dopant atom per 106 host atoms (Option B), which introduces enough charge carriers to significantly enhance conductivity while maintaining the structural integrity of the semiconductor. Options A (1:10-6) and C (1:10-8) suggest ratios that are too high, leading to excessive changes in material properties and potential lattice disruptions. Option D (1:108) proposes a concentration too low to effectively alter conductivity, resulting in minimal impact on the semiconductor's performance.",
+      "explanationImage": null,
+      "hints": [
+        "extrinsic",
+        "semiconductor"
+      ]
+    },
+    {
+      "text": "In P-type semiconductor, the doping of Silicon is taken place with:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Bivalent",
+          "isCorrect": false,
+          "explanation": "Bivalent elements have two valence electrons and are not used for doping semiconductors."
+        },
+        {
+          "letter": "B",
+          "text": "Trivalent",
+          "isCorrect": true,
+          "explanation": "Trivalent elements, such as those from group 3 of the periodic table, are used for P-type doping because they have three valence electrons. This creates 'holes' or positive charge carriers in the semiconductor."
+        },
+        {
+          "letter": "C",
+          "text": "Tetravalent",
+          "isCorrect": false,
+          "explanation": "Tetravelent elements, like silicon itself, have four valence electrons and do not change the charge carrier properties when used as dopants."
+        },
+        {
+          "letter": "D",
+          "text": "Pentavalent",
+          "isCorrect": false,
+          "explanation": "Pentavalent elements, with five valence electrons, are used for N-type doping, introducing extra electrons as charge carriers."
+        }
+      ],
+      "explanation": "P-type semiconductors are created by doping silicon with trivalent elements, which have three valence electrons. This creates holes in the crystal lattice that act as positive charge carriers. Bivalent and tetravelent elements do not introduce the necessary charge carriers for P-type doping. Pentavalent elements are used in N-type doping, providing extra electrons rather than holes.",
+      "explanationImage": null,
+      "hints": [
+        "P-type",
+        "doping",
+        "Silicon"
+      ]
+    },
+    {
+      "text": "When p-type and N-type semiconductor are combined then we have a:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Resistor",
+          "isCorrect": false,
+          "explanation": "Incorrect. A resistor is a passive component that opposes the flow of current, not formed by combining semiconductor types."
+        },
+        {
+          "letter": "B",
+          "text": "Capacitor",
+          "isCorrect": false,
+          "explanation": "Incorrect. A capacitor is used to store electrical energy and is not made by combining semiconductors."
+        },
+        {
+          "letter": "C",
+          "text": "Diode",
+          "isCorrect": true,
+          "explanation": "Correct. A diode is formed when a P-type and an N-type semiconductor are combined, creating a PN junction that allows current to flow in one direction."
+        },
+        {
+          "letter": "D",
+          "text": "Triode",
+          "isCorrect": false,
+          "explanation": "Incorrect. A triode is a type of vacuum tube with three electrodes, not formed by semiconductors alone."
+        }
+      ],
+      "explanation": "When P-type and N-type semiconductors are combined, they form a PN junction, which is the fundamental building block of a diode. This junction allows current to flow primarily in one direction, which is the defining characteristic of a diode. A resistor, capacitor, and triode are different types of electronic components with distinct functions and are not formed by combining P-type and N-type semiconductors. Resistors oppose current flow, capacitors store electrical energy, and triodes are vacuum tubes used to amplify signals.",
+      "explanationImage": null,
+      "hints": [
+        "p-type",
+        "N-type"
+      ]
+    },
+    {
+      "text": "The depletion region in PN-Junction carries:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Positively charged",
+          "isCorrect": false,
+          "explanation": "This option suggests that the depletion region has a net positive charge, which is incorrect. While it contains immobile positive ions from the N-type material, the overall charge is neutral due to the presence of an equal number of negative ions from the P-type material."
+        },
+        {
+          "letter": "B",
+          "text": "Negatively charged",
+          "isCorrect": false,
+          "explanation": "This option implies that the depletion region has a net negative charge, which is also incorrect. The negative ions from the P-type material, balanced by positive ions from the N-type material, ensure the region remains electrically neutral."
+        },
+        {
+          "letter": "C",
+          "text": "Both positively and negatively charged",
+          "isCorrect": false,
+          "explanation": "While the depletion region contains both positive and negative ions, these ions do not contribute to a net charge. They are immobile and cancel each other out, resulting in a net charge of zero."
+        },
+        {
+          "letter": "D",
+          "text": "No mobile charge carriers",
+          "isCorrect": true,
+          "explanation": "This option is correct. The depletion region lacks mobile charge carriers. It contains immobile ions that form an electric field, but these ions do not facilitate current flow, maintaining the region's neutrality."
+        }
+      ],
+      "explanation": "The correct option is (d) No mobile charge carriers. The depletion region in a PN-junction is characterized by the absence of mobile charge carriers. During the formation of the junction, electrons and holes recombine near the junction, creating a region devoid of free carriers, known as the depletion region. This region contains immobile positive ions from the N-type side and immobile negative ions from the P-type side, which balance each other, resulting in an electrically neutral region. Options (a), (b), and (c) are incorrect because they suggest a net charge that does not exist in the depletion region, which is neutral due to the equal presence of opposite charges.",
+      "explanationImage": null,
+      "hints": [
+        "depletion",
+        "region"
+      ]
+    },
+    {
+      "text": "The potential difference across the silicon PN-junction is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.3 V",
+          "isCorrect": false,
+          "explanation": "This value is commonly associated with germanium diodes rather than silicon. Silicon diodes typically have a higher forward voltage drop."
+        },
+        {
+          "letter": "B",
+          "text": "0.5 V",
+          "isCorrect": false,
+          "explanation": "While 0.5 V is within the range for silicon diodes, it is more typical for silicon diodes to have a forward voltage drop closer to 0.7 V."
+        },
+        {
+          "letter": "C",
+          "text": "0.7 V",
+          "isCorrect": true,
+          "explanation": "This is the typical forward voltage drop for a silicon PN-junction diode. Silicon diodes generally have a forward voltage range of 0.6 to 0.7 V."
+        },
+        {
+          "letter": "D",
+          "text": "0.9 V",
+          "isCorrect": false,
+          "explanation": "This value is higher than the typical forward voltage drop for silicon diodes, which usually falls in the 0.6 to 0.7 V range."
+        }
+      ],
+      "explanation": "The correct answer is C. The typical forward voltage drop for a silicon PN-junction is around 0.7 V. This value is due to the material properties of silicon and is a standard characteristic of silicon diodes. Option A (0.3 V) is usually associated with germanium diodes, not silicon. Option B (0.5 V) is lower than the typical forward voltage for silicon but falls within the broader range. Option D (0.9 V) exceeds the usual range for silicon diodes, indicating a value that is too high for typical applications.",
+      "explanationImage": null,
+      "hints": [
+        "potential",
+        "difference"
+      ]
+    },
+    {
+      "text": "When the P-type of the PN-junction is connected with the negative terminal and the N-type with the positive terminal of the battery, the width of the depletion region:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decreases",
+          "isCorrect": false,
+          "explanation": "When the P-type is connected to the negative and the N-type is connected to the positive, the diode is reverse-biased, and the width of the depletion region increases."
+        },
+        {
+          "letter": "B",
+          "text": "Increases",
+          "isCorrect": true,
+          "explanation": "When the P-type is connected to the negative and the N-type is connected to the positive, the diode is reverse-biased, and the width of the depletion region increases."
+        },
+        {
+          "letter": "C",
+          "text": "Diode is forward biased, the width of the depletion region increases",
+          "isCorrect": false,
+          "explanation": "When the P-type is connected to the negative and the N-type is connected to the positive, the diode is reverse-biased, and the width of the depletion region increases."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "As option B is correct so this option is wrong."
+        }
+      ],
+      "explanation": "When the P-type is connected to the negative and the N-type is connected to the positive, the diode is reverse-biased, and the width of the depletion region increases.",
+      "explanationImage": null,
+      "hints": [
+        "PN-junction",
+        "depletion region"
+      ]
+    },
+    {
+      "text": "In forward biasing, the knee voltage for Germanium PN-Junction is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.3 V",
+          "isCorrect": true,
+          "explanation": "This option states that the knee voltage for a Germanium PN-junction in forward biasing is 0.3 V. This is correct, as Germanium diodes typically have a knee voltage around 0.3 V."
+        },
+        {
+          "letter": "B",
+          "text": "0.7 V",
+          "isCorrect": false,
+          "explanation": "This option suggests a knee voltage of 0.7 V for a Germanium PN-junction, which is incorrect. The value of 0.7 V typically applies to Silicon diodes, not Germanium."
+        },
+        {
+          "letter": "C",
+          "text": "3 V",
+          "isCorrect": false,
+          "explanation": "This option implies a knee voltage of 3 V, which is much too high for both Germanium and Silicon diodes. It is not a plausible value for a PN-junction diode's knee voltage."
+        },
+        {
+          "letter": "D",
+          "text": "7 V",
+          "isCorrect": false,
+          "explanation": "This option suggests a knee voltage of 7 V, which is far from the typical range for Germanium or Silicon diodes, and is not a reasonable value for a diode's knee voltage."
+        }
+      ],
+      "explanation": "The correct answer is Option A: 0.3 V. Germanium PN-junction diodes have a typical knee voltage of about 0.3 V when forward biased. This is due to the smaller bandgap of Germanium compared to Silicon, which has a knee voltage of approximately 0.7 V. Option B incorrectly applies the knee voltage of Silicon to Germanium. Options C and D suggest knee voltages that are unrealistically high for any standard PN-junction diodes, making them incorrect.",
+      "explanationImage": null,
+      "hints": [
+        "forward",
+        "biasing",
+        "Germanium"
+      ]
+    },
+    {
+      "text": "The number of diodes used in a bridge rectifier is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "One",
+          "isCorrect": false,
+          "explanation": "One diode is insufficient for a bridge configuration. A single diode can only provide half-wave rectification, not the full-wave rectification achieved by a bridge rectifier."
+        },
+        {
+          "letter": "B",
+          "text": "Two",
+          "isCorrect": false,
+          "explanation": "Two diodes can create a full-wave rectifier in a center-tap configuration, but not a bridge rectifier. A bridge rectifier specifically requires four diodes to form the bridge configuration."
+        },
+        {
+          "letter": "C",
+          "text": "Three",
+          "isCorrect": false,
+          "explanation": "Three diodes cannot form a complete bridge rectifier. It requires four diodes to allow current flow in both directions of the AC cycle, achieving full-wave rectification."
+        },
+        {
+          "letter": "D",
+          "text": "Four",
+          "isCorrect": true,
+          "explanation": "Four diodes are necessary for a bridge rectifier. This configuration allows for full-wave rectification, converting both halves of the AC waveform into a pulsating DC output."
+        }
+      ],
+      "explanation": "The correct answer is option D: Four diodes. A bridge rectifier uses four diodes in a bridge arrangement to convert the entire AC waveform into DC. This setup allows for full-wave rectification, utilizing both the positive and negative halves of the input AC signal. Options A, B, and C are incorrect because using fewer than four diodes cannot achieve the bridge configuration required for full-wave rectification.",
+      "explanationImage": null,
+      "hints": [
+        "number",
+        "diodes"
+      ]
+    },
+    {
+      "text": "In an N-type silicon, which of the following statement is true:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electrons are the majority carriers and trivalent atoms are the dopants",
+          "isCorrect": false,
+          "explanation": "This is incorrect because pentavalent atoms are the dopants in N-type silicon, not trivalent atoms."
+        },
+        {
+          "letter": "B",
+          "text": "Electrons are minority carriers and pentavalent atoms are the dopants",
+          "isCorrect": false,
+          "explanation": "This is incorrect because in N-type silicon, electrons are the majority carriers, not minority carriers."
+        },
+        {
+          "letter": "C",
+          "text": "Holes are minority carriers and pentavalent atoms are the dopants",
+          "isCorrect": true,
+          "explanation": "It is correct.N-Type Silicon: When you introduce pentavalent atoms like phosphorus (which has 5 valence electrons) into the silicon crystal lattice, one of the five valence electrons doesn't participate in bonding with nearby silicon atoms. This electron is essentially free to move within the crystal lattice.Electrons as Majority Carriers: The presence of these extra, non-bonding electrons means that there are more electrons available for conduction compared to intrinsic (undoped) silicon. Electrons become the majority carriers in the material and are responsible for conducting electrical current.Holes as Minority Carriers: In this context, the absence of an electron (the vacancy created by the extra electron of the dopant atom) is called a \"hole.\" While holes can carry current, they are the minority carriers in N-type silicon because there are far more electrons than holes.So, in N-type silicon, electrons are the majority carriers, and holes (resulting from the absence of electrons) are the minority carriers. This type of silicon is often used in electronic devices like transistors and diodes because of its enhanced electron conductivity."
+        },
+        {
+          "letter": "D",
+          "text": "Holes are majority carriers and trivalent atoms are the dopants.",
+          "isCorrect": false,
+          "explanation": "This is incorrect because holes are minority carriers in N-type silicon and pentavalent atoms, not trivalent, are the dopants."
+        }
+      ],
+      "explanation": "In N-type silicon, pentavalent atoms such as phosphorus are used as dopants. These atoms have five valence electrons, which means one extra electron is available for conduction. As a result, electrons become the majority carriers, and holes, which are the absence of electrons, become the minority carriers. This is why option C is correct. Option A is incorrect because it mistakenly identifies trivalent atoms as dopants. Option B incorrectly states that electrons are minority carriers. Option D incorrectly asserts that holes are majority carriers and trivalent atoms are dopants, which is characteristic of P-type silicon, not N-type.",
+      "explanationImage": null,
+      "hints": [
+        "N-type",
+        "silicon"
+      ]
+    },
+    {
+      "text": "The reverse saturation current in a PN Junction diode is only due to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Majority carriers",
+          "isCorrect": false,
+          "explanation": "Incorrect. Majority carriers are responsible for the forward current in a PN junction diode, not the reverse saturation current."
+        },
+        {
+          "letter": "B",
+          "text": "Acceptor ions",
+          "isCorrect": false,
+          "explanation": "Incorrect. Acceptor ions play a role in forming the depletion region but do not directly contribute to the reverse saturation current."
+        },
+        {
+          "letter": "C",
+          "text": "Minority carriers",
+          "isCorrect": true,
+          "explanation": "Correct. The reverse saturation current in a PN junction is primarily due to the flow of minority carriers across the junction."
+        },
+        {
+          "letter": "D",
+          "text": "Donor ions",
+          "isCorrect": false,
+          "explanation": "Incorrect. Donor ions help establish the electric field in the depletion region but do not contribute to the reverse saturation current."
+        }
+      ],
+      "explanation": "The reverse saturation current in a PN junction diode is largely due to the movement of minority carriers. In a reverse-biased PN junction, the electric field in the depletion region allows minority carriers (electrons in the P-region and holes in the N-region) to cross the junction, leading to a small but steady reverse current known as the reverse saturation current. Majority carriers contribute to the forward current when the diode is forward-biased. Acceptor and donor ions are involved in establishing the potential barrier and the depletion region but do not contribute directly to the reverse saturation current.",
+      "explanationImage": null,
+      "hints": [
+        "reverse",
+        "saturation",
+        "current"
+      ]
+    },
+    {
+      "text": "_ is used for the rectification of the electromagnetic waves.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Audible",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The correct answer os diode or a p-n junction."
+        },
+        {
+          "letter": "B",
+          "text": "Compare",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The correct answer os diode or a p-n junction."
+        },
+        {
+          "letter": "C",
+          "text": "Crystal diode",
+          "isCorrect": true,
+          "explanation": "Diodes are used for the rectification of electromagnetic waves. They convert alternating current (AC) into direct current (DC) by allowing current to flow in one direction only."
+        },
+        {
+          "letter": "D",
+          "text": "Valence band",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The correct answer os diode or a p-n junction."
+        }
+      ],
+      "explanation": "Diodes are used for the rectification of electromagnetic waves. They convert alternating current (AC) into direct current (DC) by allowing current to flow in one direction only.",
+      "explanationImage": null,
+      "hints": [
+        "rectification",
+        "electromagnetic waves"
+      ]
+    },
+    {
+      "text": "Electrons in a P-type substance due to thermal pair-generation are known as_.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Majority carriers",
+          "isCorrect": false,
+          "explanation": "In a P-type semiconductor, holes are considered the majority carriers. Majority carriers are the dominant charge carriers in a semiconductor material, meaning they are the most prevalent type of mobile charge carriers in that material. In P-type semiconductors, where holes are the primary carriers, they outnumber the electrons, which are the minority carriers in this context."
+        },
+        {
+          "letter": "B",
+          "text": "Minority carriers",
+          "isCorrect": true,
+          "explanation": "In a P-type semiconductor, the electrons generated due to thermal pair-generation are considered minority carriers. These carriers are present in smaller numbers compared to the dominant carriers (holes) and play a crucial role in the conductivity of the semiconductor, even though they are not the majority charge carriers in this type of material."
+        },
+        {
+          "letter": "C",
+          "text": "P-type",
+          "isCorrect": false,
+          "explanation": "This option is irrelevant. Option B is correct."
+        },
+        {
+          "letter": "D",
+          "text": "N-type",
+          "isCorrect": false,
+          "explanation": "This option is irrelevant. Option B is correct."
+        }
+      ],
+      "explanation": "In a P-type semiconductor, the electrons generated due to thermal pair-generation are considered minority carriers. These carriers are present in smaller numbers compared to the dominant carriers (holes) and play a crucial role in the conductivity of the semiconductor, even though they are not the majority charge carriers in this type of material.",
+      "explanationImage": null,
+      "hints": [
+        "Electrons",
+        "P-type substance"
+      ]
+    },
+    {
+      "text": "There are _ main types of rectifiers.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Four",
+          "isCorrect": false,
+          "explanation": "There are two main types of rectifiers: half-wave rectifiers and full-wave rectifiers."
+        },
+        {
+          "letter": "B",
+          "text": "Three",
+          "isCorrect": false,
+          "explanation": "There are two main types of rectifiers: half-wave rectifiers and full-wave rectifiers."
+        },
+        {
+          "letter": "C",
+          "text": "Two",
+          "isCorrect": true,
+          "explanation": "There are two main types of rectifiers: half-wave rectifiers and full-wave rectifiers. These categories differ in how they convert alternating current (AC) to direct current (DC). Half-wave rectifiers only allow one half of the AC waveform to pass, while full-wave rectifiers allow both halves, resulting in a more continuous flow of current in one direction."
+        },
+        {
+          "letter": "D",
+          "text": "Nine",
+          "isCorrect": false,
+          "explanation": "There are two main types of rectifiers: half-wave rectifiers and full-wave rectifiers."
+        }
+      ],
+      "explanation": "There are two main types of rectifiers: half-wave rectifiers and full-wave rectifiers. These categories differ in how they convert alternating current (AC) to direct current (DC). Half-wave rectifiers only allow one half of the AC waveform to pass, while full-wave rectifiers allow both halves, resulting in a more continuous flow of current in one direction.",
+      "explanationImage": null,
+      "hints": [
+        "types",
+        "rectifiers"
+      ]
+    },
+    {
+      "text": "In full wave rectifier, diodes are used:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Two",
+          "isCorrect": true,
+          "explanation": "In a full-wave rectifier, either two diodes or four diodes can be used depending on the specific configuration. A center-tapped full-wave rectifier uses two diodes and a center-tapped transformer. On the other hand, a bridge rectifier configuration uses four diodes arranged in a bridge circuit."
+        },
+        {
+          "letter": "B",
+          "text": "One",
+          "isCorrect": false,
+          "explanation": "In a full-wave rectifier, either two diodes or four diodes are used."
+        },
+        {
+          "letter": "C",
+          "text": "Three",
+          "isCorrect": false,
+          "explanation": "In a full-wave rectifier, either two diodes or four diodes are used."
+        },
+        {
+          "letter": "D",
+          "text": "Five",
+          "isCorrect": false,
+          "explanation": "In a full-wave rectifier, either two diodes or four diodes are used."
+        }
+      ],
+      "explanation": "In a full-wave rectifier, either two diodes or four diodes can be used depending on the specific configuration. A center-tapped full-wave rectifier uses two diodes and a center-tapped transformer. On the other hand, a bridge rectifier configuration uses four diodes arranged in a bridge circuit. Both setups achieve full-wave rectification, but they utilize different numbers of diodes in their designs.",
+      "explanationImage": null,
+      "hints": [
+        "full wave rectifier",
+        "diodes"
+      ]
+    },
+    {
+      "text": "The semi-conductor diode has the property of _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Negative",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation."
+        },
+        {
+          "letter": "B",
+          "text": "One way conduction",
+          "isCorrect": true,
+          "explanation": "\"One-way conduction\" refers to the property of a diode or semiconductor device that allows the flow of electrical current in only one direction. Diodes are specifically designed to facilitate this unidirectional flow, enabling current to pass freely in the forward direction (when a voltage applied across the diode allows conduction) while offering high resistance or blocking current flow in the reverse direction (when the voltage polarity opposes conduction). This property is fundamental in rectification and in controlling the direction of electrical currents in electronic circuits."
+        },
+        {
+          "letter": "C",
+          "text": "Two way conduction",
+          "isCorrect": false,
+          "explanation": "Diodes, by their inherent design, allow current to flow in one direction and significantly restrict or block it in the opposite direction. This characteristic is due to their asymmetric conductivity, which creates a high resistance in the reverse direction. This property makes diodes inherently suited for one-way conduction and rectification."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "As one of the options is correct so this option is wrong."
+        }
+      ],
+      "explanation": "\"One-way conduction\" refers to the property of a diode or semiconductor device that allows the flow of electrical current in only one direction. Diodes are specifically designed to facilitate this unidirectional flow, enabling current to pass freely in the forward direction (when a voltage applied across the diode allows conduction) while offering high resistance or blocking current flow in the reverse direction (when the voltage polarity opposes conduction). This property is fundamental in rectification and in controlling the direction of electrical currents in electronic circuits.",
+      "explanationImage": null,
+      "hints": [
+        "property",
+        "semi-conductor diode"
+      ]
+    },
+    {
+      "text": "The width of the depletion region in a PN junction depends on the:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Doping of p-materials",
+          "isCorrect": false,
+          "explanation": "This option is correct but alone it cannot tell about the dopping property of diode."
+        },
+        {
+          "letter": "B",
+          "text": "Doping of n-materials",
+          "isCorrect": false,
+          "explanation": "This option is correct but alone it cannot tell about the dopping property of diode."
+        },
+        {
+          "letter": "C",
+          "text": "Doping of both the p and n-materials",
+          "isCorrect": true,
+          "explanation": "The width of the depletion region in a PN junction primarily depends on the doping concentrations of the P-type and N-type semiconductor materials and the applied voltage across the junction. Higher doping concentrations result in a narrower depletion region. A higher density of dopant atoms leads to a higher concentration of majority carriers near the junction, reducing the width of the depletion region."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "As one of the above options is correct, this option is not correct."
+        }
+      ],
+      "explanation": "The width of the depletion region in a PN junction primarily depends on the doping concentrations of the P-type and N-type semiconductor materials and the applied voltage across the junction. Higher doping concentrations result in a narrower depletion region. A higher density of dopant atoms leads to a higher concentration of majority carriers near the junction, reducing the width of the depletion region.",
+      "explanationImage": null,
+      "hints": [
+        "width",
+        "depletion",
+        "region"
+      ]
+    },
+    {
+      "text": "When the PN junction is forward biased, the width of the depletion region:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increases",
+          "isCorrect": false,
+          "explanation": "The width of depletion region in forward bias cannot be increased because to pass the current the width of depletion region should be decreased."
+        },
+        {
+          "letter": "B",
+          "text": "Decreases",
+          "isCorrect": true,
+          "explanation": "When a PN junction is forward biased, the width of the depletion region decreases.In a forward-biased PN junction:The positive terminal of the voltage source is connected to the P-type semiconductor, and the negative terminal is connected to the N-type semiconductor.This applied voltage counteracts the built-in potential barrier of the junction, reducing the barrier's effective width.As a result, majority carriers (holes from the P-type and electrons from the N-type) are pushed toward the junction and easily cross it, contributing to the reduction in the width of the depletion region.Therefore, in the forward bias condition, the width of the depletion region decreases, allowing for increased conductivity across the junction."
+        },
+        {
+          "letter": "C",
+          "text": "Remains the same",
+          "isCorrect": false,
+          "explanation": "The width cannot remain same in any case it increases in reverse biased and decreases in forward biased."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "As one of the above options is correct, this option is not correct."
+        }
+      ],
+      "explanation": "When a PN junction is forward biased, the width of the depletion region decreases.In a forward-biased PN junction:The positive terminal of the voltage source is connected to the P-type semiconductor, and the negative terminal is connected to the N-type semiconductor.This applied voltage counteracts the built-in potential barrier of the junction, reducing the barrier's effective width.As a result, majority carriers (holes from the P-type and electrons from the N-type) are pushed toward the junction and easily cross it, contributing to the reduction in the width of the depletion region.Therefore, in the forward bias condition, the width of the depletion region decreases, allowing for increased conductivity across the junction.",
+      "explanationImage": null,
+      "hints": [
+        "forward",
+        "depletion region:"
+      ]
+    },
+    {
+      "text": "The forward current through a semi-conductor diode circuit is due to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Majority carriers",
+          "isCorrect": true,
+          "explanation": "The forward current through a semiconductor diode circuit primarily occurs due to the movement of majority charge carriers—electrons in N-type semiconductors and holes in P-type semiconductors—across the PN junction when the diode is forward biased.In a forward-biased diode:Electrons from the N-type material and holes from the P-type material are pushed towards the junction due to the applied voltage.The forward bias reduces the width of the depletion region, allowing majority carriers to cross the junction.Electrons flow from the N-type region into the P-type region, while holes flow from the P-type region into the N-type region, resulting in the flow of current through the diode.This movement of majority carriers across the PN junction when the diode is forward biased constitutes the forward current in a semiconductor diode circuit."
+        },
+        {
+          "letter": "B",
+          "text": "Minority carriers",
+          "isCorrect": false,
+          "explanation": "The current in forward biased is due to majority charge carriers not due to minority charge carriers. So this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Holes",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as current is not due to holes it is due to flow of both electrons and holes."
+        },
+        {
+          "letter": "D",
+          "text": "Electrons",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as current is not due to holes it is due to flow of both electrons and holes."
+        }
+      ],
+      "explanation": "The forward current through a semiconductor diode circuit primarily occurs due to the movement of majority charge carriers—electrons in N-type semiconductors and holes in P-type semiconductors—across the PN junction when the diode is forward biased.In a forward-biased diode:Electrons from the N-type material and holes from the P-type material are pushed towards the junction due to the applied voltage.The forward bias reduces the width of the depletion region, allowing majority carriers to cross the junction.Electrons flow from the N-type region into the P-type region, while holes flow from the P-type region into the N-type region, resulting in the flow of current through the diode.This movement of majority carriers across the PN junction when the diode is forward biased constitutes the forward current in a semiconductor diode circuit.",
+      "explanationImage": null,
+      "hints": [
+        "forward",
+        "current",
+        "diode"
+      ]
+    },
+    {
+      "text": "The reverse current through a semi-conductor diode circuit is due to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Majority carriers",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation. Forward current is due to majority carriers not reverse current."
+        },
+        {
+          "letter": "B",
+          "text": "Minority carriers",
+          "isCorrect": true,
+          "explanation": "The reverse current in a semiconductor diode occurs when the diode is under reverse bias, meaning the voltage across the diode is applied in the opposite direction to its normal operation.In reverse bias:The positive terminal of the voltage source is connected to the N-type semiconductor, and the negative terminal is connected to the P-type semiconductor.This applied reverse voltage widens the depletion region, creating a higher potential barrier.Despite the increased barrier, a small amount of current, known as the reverse saturation current, flows due to minority carriers (minority charge carriers present due to thermal generation or other processes) crossing the junction. This current is typically very small in magnitude.The reverse current is substantially smaller than the forward current in a diode and is usually in the microampere or nanoampere range for typical diodes under reverse bias. This current is due to the minority carriers' movement across the widened depletion region despite the reverse bias condition."
+        },
+        {
+          "letter": "C",
+          "text": "Electrons",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as current in reverse biased is in very small value and due to minority charge carriers."
+        },
+        {
+          "letter": "D",
+          "text": "Holes",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as current in reverse biased is in very small value and due to minority charge carriers."
+        }
+      ],
+      "explanation": "The reverse current in a semiconductor diode occurs when the diode is under reverse bias, meaning the voltage across the diode is applied in the opposite direction to its normal operation.In reverse bias:The positive terminal of the voltage source is connected to the N-type semiconductor, and the negative terminal is connected to the P-type semiconductor.This applied reverse voltage widens the depletion region, creating a higher potential barrier.Despite the increased barrier, a small amount of current, known as the reverse saturation current, flows due to minority carriers (minority charge carriers present due to thermal generation or other processes) crossing the junction. This current is typically very small in magnitude.The reverse current is substantially smaller than the forward current in a diode and is usually in the microampere or nanoampere range for typical diodes under reverse bias. This current is due to the minority carriers' movement across the widened depletion region despite the reverse bias condition.",
+      "explanationImage": null,
+      "hints": [
+        "reverse",
+        "current",
+        "diode"
+      ]
+    },
+    {
+      "text": "Rectification is the process of converting:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A.C into D.C",
+          "isCorrect": true,
+          "explanation": "Rectification refers to the process of converting alternating current (A.C) into direct current (D.C). A diode is commonly used in rectification circuits to achieve this conversion. When an A.C voltage is applied to a diode, the diode allows current to flow in one direction (during the positive half-cycle of the A.C waveform) while blocking it in the opposite direction (during the negative half-cycle)."
+        },
+        {
+          "letter": "B",
+          "text": "D.C into A.C",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation.It is inversion not rectification."
+        },
+        {
+          "letter": "C",
+          "text": "Both A.C into D.C and D.C into A.C",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as option B is incorrect and both options cannot be correct and basically rectification is conversion of A.C is due to D.C."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "As one of the above options is correct, this option is not correct."
+        }
+      ],
+      "explanation": "Rectification refers to the process of converting alternating current (A.C) into direct current (D.C).A diode is commonly used in rectification circuits to achieve this conversion. When an A.C voltage is applied to a diode, the diode allows current to flow in one direction (during the positive half-cycle of the A.C waveform) while blocking it in the opposite direction (during the negative half-cycle).",
+      "explanationImage": null,
+      "hints": [
+        "Rectification",
+        "process"
+      ]
+    },
+    {
+      "text": "In half-wave rectification, the output DC voltage is obtained for:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The negative half cycle of input AC only",
+          "isCorrect": false,
+          "explanation": "This option is incorrect due to word 'only' because it is due to any half cycle not only negative."
+        },
+        {
+          "letter": "B",
+          "text": "The positive half cycle of input AC only",
+          "isCorrect": true,
+          "explanation": "In half-wave rectification, the output DC voltage is obtained only during one half of the input AC cycle.During half-wave rectification:The diode conducts current only when the input AC voltage is positive and exceeds the diode's forward voltage threshold.As a result, the diode allows current to flow only during the positive half-cycle of the input AC waveform.The output across the load is present only during this positive half-cycle, resulting in a pulsating DC output with gaps during the negative half-cycle and zero voltage.Therefore, in half-wave rectification, the output DC voltage is obtained only for the duration of the positive half-cycle of the input AC waveform. The output across the load is absent or zero during the negative half-cycle of the input AC."
+        },
+        {
+          "letter": "C",
+          "text": "The negative and positive half cycles of input AC",
+          "isCorrect": false,
+          "explanation": "Voltage is due to only any one of half cycle at a time not due to both half cycles."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "As one of the above options is correct so this option is incorrect."
+        }
+      ],
+      "explanation": "In half-wave rectification, the output DC voltage is obtained only during one half of the input AC cycle.During half-wave rectification:The diode conducts current only when the input AC voltage is positive and exceeds the diode's forward voltage threshold.As a result, the diode allows current to flow only during the positive half-cycle of the input AC waveform.The output across the load is present only during this positive half-cycle, resulting in a pulsating DC output with gaps during the negative half-cycle and zero voltage.Therefore, in half-wave rectification, the output DC voltage is obtained only for the duration of the positive half-cycle of the input AC waveform. The output across the load is absent or zero during the negative half-cycle of the input AC.",
+      "explanationImage": null,
+      "hints": [
+        "rectification",
+        "half-wave"
+      ]
+    },
+    {
+      "text": "Which one of the following is not an acceptor impurity?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gallium",
+          "isCorrect": false,
+          "explanation": "Gallium is an acceptor impurity; it introduces 'holes' into the semiconductor, contributing to positive charge carriers. Therefore, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Indium",
+          "isCorrect": true,
+          "explanation": "Indium is a donor impurity, meaning it introduces extra electrons into the semiconductor, contributing to negative charge carriers. Hence, it is not an acceptor impurity, making this the correct option."
+        },
+        {
+          "letter": "C",
+          "text": "Boron",
+          "isCorrect": false,
+          "explanation": "Boron is an acceptor impurity; it creates 'holes' in the semiconductor, contributing to positive charge carriers. Therefore, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because among the given choices, Indium is indeed not an acceptor impurity."
+        }
+      ],
+      "explanation": "In semiconductor physics, impurities are classified as either donor or acceptor based on the type of charge carriers they introduce. Acceptor impurities, such as gallium and boron, introduce 'holes' into the crystal lattice, which act as positive charge carriers. Indium, on the other hand, is a donor impurity; it adds extra electrons to the lattice, resulting in negative charge carriers. Therefore, Indium is not an acceptor impurity, making it the correct answer. Gallium and Boron are incorrect because they are acceptors, and 'None of these' is incorrect because Indium does not act as an acceptor.",
+      "explanationImage": null,
+      "hints": [
+        "not",
+        "acceptor impurity"
+      ]
+    },
+    {
+      "text": "With the rise of temperature, the conductivity of a pure semi-conductor:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increases",
+          "isCorrect": true,
+          "explanation": "With the rise in temperature, the conductivity of a pure semiconductor generally increases.Intrinsic semiconductors, those without any intentional doping, exhibit increased conductivity with rising temperature due to the increased thermal energy. As the temperature rises, more electrons in the valence band gain enough energy to jump to the conduction band, creating additional charge carriers (free electrons and holes), thereby increasing the conductivity of the semiconductor material.This behavior contrasts with conductors, where increasing temperature typically leads to a slight decrease in conductivity due to increased collisions among the charge carriers."
+        },
+        {
+          "letter": "B",
+          "text": "Decreases",
+          "isCorrect": false,
+          "explanation": "Decreases: Incorrect for semiconductors.This is true for conductors, where increased temperature increases atomic vibrations, hindering electron flow."
+        },
+        {
+          "letter": "C",
+          "text": "Remains constant",
+          "isCorrect": false,
+          "explanation": "Remain same: Incorrect. Temperature changes do affect carrier concentration in semiconductors."
+        },
+        {
+          "letter": "D",
+          "text": "Some times decreases and sometimes increases",
+          "isCorrect": false,
+          "explanation": "Sometimes Decreases sometimes increases: Incorrect. For pure semiconductors, conductivity consistently increases with temperature."
+        }
+      ],
+      "explanation": "With the rise in temperature, the conductivity of a pure semiconductor generally increases.Intrinsic semiconductors, those without any intentional doping, exhibit increased conductivity with rising temperature due to the increased thermal energy. As the temperature rises, more electrons in the valence band gain enough energy to jump to the conduction band, creating additional charge carriers (free electrons and holes), thereby increasing the conductivity of the semiconductor material.This behavior contrasts with conductors, where increasing temperature typically leads to a slight decrease in conductivity due to increased collisions among the charge carriers.",
+      "explanationImage": null,
+      "hints": [
+        "conductivity",
+        "rise"
+      ]
+    },
+    {
+      "text": "The diode used in the circuit shown in the figure has a constant voltage drop of 0.5 V at all currents and a maximum power rating of 100 milliwatts. What should be the value of the resistor R, connected in series with the diode, for obtaining maximum current?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.5 Ω",
+          "isCorrect": false,
+          "explanation": "This is not correct as per calculations."
+        },
+        {
+          "letter": "B",
+          "text": "5Ω",
+          "isCorrect": true,
+          "explanation": "Maximum current in the circuitI = P/VHere, P = 100 × 10⁻³ watts and V = 0.5 volts, soI = 100 × 10⁻³ / 0.5 = 0.2 amp.The resistance is given byR = voltage drop across resistance / current = 1 / 0.2 = 5 ohm."
+        },
+        {
+          "letter": "C",
+          "text": "6.67 Ω",
+          "isCorrect": false,
+          "explanation": "This is not correct as per calculations."
+        },
+        {
+          "letter": "D",
+          "text": "200 Ω",
+          "isCorrect": false,
+          "explanation": "This is not correct as per calculations."
+        }
+      ],
+      "explanation": "Maximum current in the circuitI = P/VHere, P = 100 × 10⁻³ watts and V = 0.5 volts, soI = 100 × 10⁻³ / 0.5 = 0.2 amp.The resistance is given byR = voltage drop across resistance / current = 1 / 0.2 = 5 ohm.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The circuit shown in the figure contains two diodes each with a forward resistance of 50 Ω and with infinite backward resistance. If the battery voltage is 6 V, the current through the 100 Ω resistance (in ampere) is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "It is not correct according to calculations."
+        },
+        {
+          "letter": "B",
+          "text": "0.02A",
+          "isCorrect": true,
+          "explanation": "This is the following solution:In the circuit, only the D1 will allow the current to pass through as it is forward biased.Hence current I=6/(50+150+100)=0.02A."
+        },
+        {
+          "letter": "C",
+          "text": "0.03 Ω",
+          "isCorrect": false,
+          "explanation": "It is not correct according to calculations."
+        },
+        {
+          "letter": "D",
+          "text": "0.036",
+          "isCorrect": false,
+          "explanation": "It is not correct according to calculations."
+        }
+      ],
+      "explanation": "This is the following solution:In the circuit, only the D1 will allow the current to pass through as it is forward biased.Hence current I=6/(50+150+100)=0.02A",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In the circuit given below, v(t) is the sinusoidal voltage source, voltage drop VAB(t) across the resistance R is, diode D1 and D2 are identical:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Full wave rectified",
+          "isCorrect": false,
+          "explanation": "Direction of current is opposite through R for positive and negative half cycles so output is not rectified. Since R1 and R2 are same. Hence, the peaks during positive half and negative half of the input signal will be same."
+        },
+        {
+          "letter": "B",
+          "text": "No rectification and has the same peak value in the positive and negative half cycles",
+          "isCorrect": true,
+          "explanation": "Direction of current is opposite through R for positive and negative half cycles so output is not rectified. Since R1 and R2 are same. Hence, the peaks during positive half and negative half of the input signal will be same."
+        },
+        {
+          "letter": "C",
+          "text": "No rectification and has different peak values during positive and negative half cycle",
+          "isCorrect": false,
+          "explanation": "No rectification and has different peak values during positive and negative half cycle: This is incorrect for the same reason as above."
+        },
+        {
+          "letter": "D",
+          "text": "Half wave rectified",
+          "isCorrect": false,
+          "explanation": "Half wave rectified: This is incorrect. A half-wave rectifier would only allow one half of the AC waveform to pass through."
+        }
+      ],
+      "explanation": "Direction of current is opposite through R for positive and negative half cycles so output is not rectified. Since R1 and R2 are same. Hence, the peaks during positive half and negative half of the input signal will be same.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The device used for conversion of A.C into D.C is called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A detector",
+          "isCorrect": false,
+          "explanation": "A detector in electronics refers to a device or circuit that extracts information or a specific signal from a carrier wave or a modulated signal. It's commonly used to separate or recover the original information (such as audio, video, or data) from a modulated carrier wave in communication systems or sensing applications."
+        },
+        {
+          "letter": "B",
+          "text": "An oscillator",
+          "isCorrect": false,
+          "explanation": "An oscillator is an electronic circuit or device that generates an alternating current (AC) signal, typically in the form of a sinusoidal waveform, square wave, or another periodic waveform."
+        },
+        {
+          "letter": "C",
+          "text": "An amplifier",
+          "isCorrect": false,
+          "explanation": "An amplifier is an electronic device or circuit that increases the strength or amplitude of an electrical signal. Its primary function is to take a weak input signal and produce a larger output signal without significantly distorting its waveform."
+        },
+        {
+          "letter": "D",
+          "text": "A rectifier",
+          "isCorrect": true,
+          "explanation": "The device used for the conversion of AC (alternating current) into DC (direct current) is called a rectifier.Rectifiers are electrical devices that utilize semiconductor diodes or other components to convert the alternating flow of current (AC) into a unidirectional flow (DC). They can be implemented as half-wave rectifiers or full-wave rectifiers, depending on the desired output and application. These devices are essential in various electronic circuits and power supply systems to provide DC power from AC sources."
+        }
+      ],
+      "explanation": "The device used for the conversion of AC (alternating current) into DC (direct current) is called a rectifier.Rectifiers are electrical devices that utilize semiconductor diodes or other components to convert the alternating flow of current (AC) into a unidirectional flow (DC). They can be implemented as half-wave rectifiers or full-wave rectifiers, depending on the desired output and application. These devices are essential in various electronic circuits and power supply systems to provide DC power from AC sources.",
+      "explanationImage": null,
+      "hints": [
+        "device"
+      ]
+    }
+  ]
+}

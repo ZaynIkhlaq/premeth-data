@@ -1,0 +1,750 @@
+{
+  "questions": [
+    {
+      "text": "For a closed organ pipe, three successive resonance frequencies are observed at 425 Hz, 595 Hz, and 765 Hz respectively. If the speed of sound in air is 340 m/s, then the length of the pipe is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.0 m",
+          "isCorrect": false,
+          "explanation": "Incorrect. This would imply an incorrect calculation of the wavelength and resonance order."
+        },
+        {
+          "letter": "B",
+          "text": "0.4 m",
+          "isCorrect": false,
+          "explanation": "Incorrect. The calculation of the pipe length does not correspond to the given frequencies and speed of sound."
+        },
+        {
+          "letter": "C",
+          "text": "1.0 m",
+          "isCorrect": true,
+          "explanation": "Correct. Using the formula for resonance in a closed organ pipe, this length matches the observed frequencies."
+        },
+        {
+          "letter": "D",
+          "text": "0.2 m",
+          "isCorrect": false,
+          "explanation": "Incorrect. This length is too short for the given resonance frequencies and speed of sound."
+        }
+      ],
+      "explanation": "Given: v = 340 m/s, Ratio of 3 frequencies = 425 : 595 : 765Solution:Since frequencies are in odd number ratio, the pipe has to be a closed pipe.Ratio of 3 frequencies = 425 : 595 : 765 = 5 : 7 : 9So fundamental frequency= f = 425 / 5 = 85 HzFor fundamental frequencyl = v / 4f = 340 / (4 × 85) = 1 m.Options 2.0 m, 0.4 m, and 0.2 m are incorrect as they do not match the conditions and calculations for the given frequencies.",
+      "explanationImage": null,
+      "hints": [
+        "closed organ pipe",
+        "successive resonance frequencies"
+      ]
+    },
+    {
+      "text": "Doppler's Effect is applicable to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "transverse waves",
+          "isCorrect": false,
+          "explanation": "Wrong. Transverse waves, such as light waves, exhibit the Doppler Effect, making this option partially correct. However, it is not comprehensive as it neglects the Doppler Effect in other types of waves."
+        },
+        {
+          "letter": "B",
+          "text": "longitudinal waves",
+          "isCorrect": false,
+          "explanation": "Wrong. Longitudinal waves, like sound waves, also exhibit the Doppler Effect, making this option partially correct. However, it is not comprehensive as it neglects the Doppler Effect in other types of waves."
+        },
+        {
+          "letter": "C",
+          "text": "mechanical waves",
+          "isCorrect": false,
+          "explanation": "Partially correct. Mechanical waves, like sound waves, do exhibit the Doppler Effect. However, this option is not entirely correct as it does not account for the Doppler Effect in electromagnetic waves."
+        },
+        {
+          "letter": "D",
+          "text": "mechanical and electromagnetic waves",
+          "isCorrect": true,
+          "explanation": "Correct. The Doppler Effect is applicable to both mechanical waves and electromagnetic waves. This option encompasses all types of waves to which the Doppler Effect applies and is, therefore, the correct option."
+        }
+      ],
+      "explanation": "Correct. The Doppler Effect is applicable to both mechanical waves and electromagnetic waves. This option encompasses all types of waves to which the Doppler Effect applies and is, therefore, the correct option.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A person moves with a speed 1/3 the speed of sound waves towards the stationary source of sound. Then the frequency of sound waves heard by the person will:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2/3 f",
+          "isCorrect": false,
+          "explanation": "This option is not correct. The frequency heard by the person will be higher than 2/3 f due to the Doppler effect when moving toward the source."
+        },
+        {
+          "letter": "B",
+          "text": "3/2 f",
+          "isCorrect": false,
+          "explanation": "This option is not correct either. The frequency heard by the person will not be 3/2 f; it will be lower than this value."
+        },
+        {
+          "letter": "C",
+          "text": "4/3 f",
+          "isCorrect": true,
+          "explanation": "The frequency observed by the person (f') due to the Doppler effect when moving towards the stationary source is given by: f' = (v + vobserver) / (v + vsource) x f In this case, the speed of the person (vobserver )is 1/3 the speed of sound (v), and the speed of the source (vsource) is zero since it's stationary. f' = (v + 1/3v) / (v + 0) x f Simplifying: f' = (4/3) x f So, the frequency of sound waves heard by the person (f') will be 4/3 times the frequency of the sound waves emitted by the stationary source (f)."
+        },
+        {
+          "letter": "D",
+          "text": "3/4 f",
+          "isCorrect": false,
+          "explanation": "This option is also not correct. The frequency heard by the person will be higher than 3/4 f."
+        }
+      ],
+      "explanation": "The frequency observed by the person (f') due to the Doppler effect when moving towards the stationary source is given by: f' = (v + vobserver) / (v + vsource) x f In this case, the speed of the person (vobserver) is 1/3 the speed of sound (v), and the speed of the source (vsource) is zero since it's stationary. f' = (v + 1/3v) / (v + 0) x f Simplifying: f' = (4/3) x f So, the frequency of sound waves heard by the person (f') will be 4/3 times the frequency of the sound waves emitted by the stationary source (f). Therefore, the correct option is C) 4/3 f.",
+      "explanationImage": null,
+      "hints": [
+        "stationary",
+        "source of sound.",
+        "frequency"
+      ]
+    },
+    {
+      "text": "With what speed should an observer move towards a stationary source of sound so that frequency of sound emitted by source may appear double of its actual frequency as listen by the observer. Take speed of sound \"v\" and that of observer as \"a\":",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "a = v",
+          "isCorrect": true,
+          "explanation": "This is correct because for the frequency to appear doubled, the observer must be moving towards the source at the speed of sound."
+        },
+        {
+          "letter": "B",
+          "text": "a = v/2",
+          "isCorrect": false,
+          "explanation": "This is incorrect because moving at half the speed of sound will not double the perceived frequency."
+        },
+        {
+          "letter": "C",
+          "text": "a = 2v",
+          "isCorrect": false,
+          "explanation": "This is incorrect because moving at twice the speed of sound is unnecessary and would not yield the required frequency doubling."
+        },
+        {
+          "letter": "D",
+          "text": "a = 3v",
+          "isCorrect": false,
+          "explanation": "This is incorrect because moving at three times the speed of sound is excessive and not needed to achieve a doubling of the frequency."
+        }
+      ],
+      "explanation": "To solve this problem, use the Doppler Effect formula for a moving observer and a stationary source:f' = f (v + a) / v,where f' is the observed frequency, f is the emitted frequency, v is the speed of sound, and a is the observer's speed. To make the observed frequency double the emitted frequency (f' = 2f), the equation becomes:2f = f (v + a) / v.Solving for a, we get:v + a = 2va = v.Thus, the observer must move at the speed of sound, v, towards the source. The other options do not satisfy this equation, hence they are incorrect.",
+      "explanationImage": null,
+      "hints": [
+        "what speed",
+        "stationary source",
+        "observer"
+      ]
+    },
+    {
+      "text": "A source emits sound with a frequency of 1000 Hz. It and an observer are moving in the same direction with the same speed, 100m/s. If the speed of sound is 340m/s, the observer hears sound with a frequency of:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "294 Hz",
+          "isCorrect": false,
+          "explanation": "As there is no relative motion between source and observer, so apparent change of frequency will not be observed."
+        },
+        {
+          "letter": "B",
+          "text": "1000 Hz",
+          "isCorrect": true,
+          "explanation": "Both the observer and the source are moving in the same direction, so there is no relative motion between them. As there is no relative motion between source and observer, so apparent change of frequency will not be observed. Frequency will remain 1000 Hz."
+        },
+        {
+          "letter": "C",
+          "text": "545 Hz",
+          "isCorrect": false,
+          "explanation": "As there is no relative motion between source and observer, so apparent change of frequency will not be observed."
+        },
+        {
+          "letter": "D",
+          "text": "1830 Hz",
+          "isCorrect": false,
+          "explanation": "As there is no relative motion between source and observer, so apparent change of frequency will not be observed."
+        }
+      ],
+      "explanation": "As there is no relative motion between the source and observer, so apparent change of frequency will not be observed. Frequency will remain 1000Hz.",
+      "explanationImage": null,
+      "hints": [
+        "same direction with the same speed",
+        "frequency"
+      ]
+    },
+    {
+      "text": "The phase change of 180 is equivalent to a path difference:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": 2006,
+      "options": [
+        {
+          "letter": "A",
+          "text": "λ/2",
+          "isCorrect": true,
+          "explanation": "A phase change of 180 degrees (or π radians) corresponds to a half-wavelength path difference, which is λ/2."
+        },
+        {
+          "letter": "B",
+          "text": "λ",
+          "isCorrect": false,
+          "explanation": "A full wavelength path difference (λ) corresponds to a phase change of 360 degrees or 2π radians, not 180 degrees."
+        },
+        {
+          "letter": "C",
+          "text": "2λ",
+          "isCorrect": false,
+          "explanation": "A path difference of 2λ corresponds to a phase change of 4π radians, which is 720 degrees, much larger than 180 degrees."
+        },
+        {
+          "letter": "D",
+          "text": "4λ",
+          "isCorrect": false,
+          "explanation": "A path difference of 4λ corresponds to a phase change of 8π radians, which is 1440 degrees, far exceeding 180 degrees."
+        }
+      ],
+      "explanation": "A phase change of 180 degrees is equivalent to a path difference of λ/2. This is because a full cycle (360 degrees) corresponds to a path difference of one full wavelength (λ). Therefore, half of that phase change (180 degrees) corresponds to half a wavelength path difference (λ/2), which is the correct answer. Option B (λ) is incorrect because it represents a full wavelength path difference, not half. Option C (2λ) and Option D (4λ) are incorrect because they represent multiple full wavelength path differences, corresponding to phase changes far exceeding 180 degrees.",
+      "explanationImage": null,
+      "hints": [
+        "phase change",
+        "180",
+        "path difference"
+      ]
+    },
+    {
+      "text": "The trace shown appears on a cathode-ray oscilloscope screen with the time base set to 2 ms/cm. What is the frequency of the signal?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "40 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the frequency calculated from the period does not match this value."
+        },
+        {
+          "letter": "B",
+          "text": "125 Hz",
+          "isCorrect": true,
+          "explanation": "Correct! The frequency of the signal is calculated by taking the reciprocal of the period, which in this case is 8 ms. Therefore, f = 1 / T = 1 / (8 ms) = 125 Hz."
+        },
+        {
+          "letter": "C",
+          "text": "250 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the frequency calculated from the period does not match this value."
+        },
+        {
+          "letter": "D",
+          "text": "500 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the frequency calculated from the period does not match this value."
+        }
+      ],
+      "explanation": "The frequency of a signal is calculated as f = 1 / T, where T is the period of the signal. In this case, the period is 8 ms (2 ms/cm on the time base). Therefore, f = 1 / 8 ms = 125 Hz. Option B is correct because it correctly calculates the frequency. Options A, C, and D are incorrect as they do not match the calculated frequency.",
+      "explanationImage": null,
+      "hints": [
+        "cathode-ray oscilloscope",
+        "time base set to 2 ms/cm"
+      ]
+    },
+    {
+      "text": "During a time interval of exactly one period of vibration of a tuning fork, the emitted sound travels a distance:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Equal to the length of the tuning fork",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The distance traveled by sound in one period is not related to the physical length of the tuning fork but to the wavelength of the sound."
+        },
+        {
+          "letter": "B",
+          "text": "About 330m",
+          "isCorrect": false,
+          "explanation": "This is incorrect. 330 meters is approximately the distance sound travels in one second in air, not in one period of a tuning fork's vibration."
+        },
+        {
+          "letter": "C",
+          "text": "Twice the length of the tuning fork",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The distance sound travels in one period is determined by its wavelength, not by the length of the tuning fork or any multiple of it."
+        },
+        {
+          "letter": "D",
+          "text": "One wavelength in air",
+          "isCorrect": true,
+          "explanation": "This is correct. During one complete period of vibration, sound travels a distance equal to one wavelength, as the wave completes one full cycle."
+        }
+      ],
+      "explanation": "The correct answer is that the sound travels a distance of one wavelength in air during one period of vibration. This is because one period is the time taken for one complete cycle of the wave, and by definition, a wave travels one wavelength in this time. The other options incorrectly associate the travel distance with the physical dimensions of the tuning fork or with the speed of sound per second rather than per period.",
+      "explanationImage": null,
+      "hints": [
+        "time interval",
+        "one period",
+        "distance"
+      ]
+    },
+    {
+      "text": "The string of length \"E\" fixed at both ends is, vibrating in two segments, the wavelength of wave is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "E / 2",
+          "isCorrect": false,
+          "explanation": "This option represents half of the string's length, which would be the wavelength for four segments, not two. Therefore, it is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "2E",
+          "isCorrect": false,
+          "explanation": "This option suggests that the wavelength is twice the string's length, which is not possible for a string vibrating in segments. Therefore, it is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "E",
+          "isCorrect": true,
+          "explanation": "When a string is vibrating in two segments, each segment is half of the wavelength. Therefore, the wavelength equals the length of the string, E. This is the correct answer."
+        },
+        {
+          "letter": "D",
+          "text": "4E",
+          "isCorrect": false,
+          "explanation": "This option implies that the wavelength is four times the string's length, which is not feasible for a string fixed at both ends. Therefore, it is incorrect."
+        }
+      ],
+      "explanation": "For a string fixed at both ends, standing waves are formed with nodes at each end. When a string vibrates in two segments, it means there is one antinode in the middle and nodes at the ends. This corresponds to the string vibrating in its fundamental frequency where the wavelength is twice the segment length, hence the wavelength is equal to the string's length E. Therefore, the correct answer is E. Other options, like E/2 or 4E, do not match the physical scenario described and hence are incorrect.",
+      "explanationImage": null,
+      "hints": [
+        "fixed at both ends",
+        "vibrating",
+        "wavelength"
+      ]
+    },
+    {
+      "text": "The speed of stars and galaxies can be calculated by:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compton effect",
+          "isCorrect": false,
+          "explanation": "Compton scattering (or the Compton effect) is the quantum theory of high frequency photons scattering following an interaction with a charged particle, usually an electron. Specifically, when the photon hits electrons, it releases loosely bound electrons from the outer valence shells of atoms or molecules."
+        },
+        {
+          "letter": "B",
+          "text": "Doppler's effect",
+          "isCorrect": true,
+          "explanation": "The Doppler effect (also Doppler shift) is the change in the frequency. of a wave in relation to an observer who is moving relative to the source of the wave."
+        },
+        {
+          "letter": "C",
+          "text": "Stefan's law",
+          "isCorrect": false,
+          "explanation": "The Stefan–Boltzmann law, also known as Stefan's law, describes the intensity of the thermal radiation emitted by matter in terms of that matter's temperature."
+        },
+        {
+          "letter": "D",
+          "text": "Pascal's law",
+          "isCorrect": false,
+          "explanation": "Pascal's law (also Pascal's principle or the principle of transmission of fluid-pressure) is a principle in fluid mechanics given by Blaise pascals that states that a pressure change at any point in a confined incompressible fluid is transmitted throughout the fluid such that the same change occurs everywhere."
+        }
+      ],
+      "explanation": "Astronomers use the Doppler Effect (Doppler shift) to determine the speed of stars and galaxies by comparing the spectrum of light from stars with light from a laboratory source.",
+      "explanationImage": null,
+      "hints": [
+        "speed",
+        "stars",
+        "galaxies"
+      ]
+    },
+    {
+      "text": "The frequency of the fundamental node of open end organ pipe is 400 Hz. If one end of the pipe is closed, the fundamental frequency will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "800 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the solution. Please refer to the calculation."
+        },
+        {
+          "letter": "B",
+          "text": "600 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the solution. Please refer to the calculation."
+        },
+        {
+          "letter": "C",
+          "text": "400 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the solution. Please refer to the calculation."
+        },
+        {
+          "letter": "D",
+          "text": "200 Hz",
+          "isCorrect": true,
+          "explanation": "This option is correct according to the solution.fo= v/2ffc = v/4f = 1/2(v/2f)fc = 1/2(400) = 200 Hz"
+        }
+      ],
+      "explanation": "fo= v/2ffc = v/4f = 1/2(v/2f) --> fc = 1/2(400) = 200 Hz",
+      "explanationImage": null,
+      "hints": [
+        "fundamental node",
+        "open end",
+        "400 Hz",
+        "one end",
+        "closed"
+      ]
+    },
+    {
+      "text": "The frequency of the nth mode of vibration of a string stretched by a tension T, having mass m and length l is given by:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Option A",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to correct formula of frequency."
+        },
+        {
+          "letter": "B",
+          "text": "Option B",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to correct formula of frequency."
+        },
+        {
+          "letter": "C",
+          "text": "Option C",
+          "isCorrect": true,
+          "explanation": "This is the correct option indicating correct relationship of frequency, length, Tension, and mass per unit length."
+        },
+        {
+          "letter": "D",
+          "text": "Option D",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to correct formula of frequency."
+        }
+      ],
+      "explanation": "The correct option indicating correct relationship of frequency, length, Tension, and mass per unit length is in option C which is f=1/2l(√T/M) .",
+      "explanationImage": null,
+      "hints": [
+        "nth mode",
+        "frequency"
+      ]
+    },
+    {
+      "text": "Which one of the following factors has no effect on the speed of sound in a gas?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Humidity",
+          "isCorrect": false,
+          "explanation": "Humidity refers to the amount of moisture or water vapor present in the air. It does have an effect on the speed of sound. Generally, as humidity increases, the speed of sound in a gas decreases. This is because water vapor molecules in humid air can slow down the transmission of sound waves."
+        },
+        {
+          "letter": "B",
+          "text": "Pressure",
+          "isCorrect": true,
+          "explanation": "Pressure is the force exerted by a gas per unit area. Interestingly, pressure does not have a direct effect on the speed of sound in a gas. Changes in pressure primarily affect the density of the gas, which indirectly influences the speed of sound."
+        },
+        {
+          "letter": "C",
+          "text": "Temperature",
+          "isCorrect": false,
+          "explanation": "Temperature plays a significant role in determining the speed of sound in a gas. As the temperature increases, the speed of sound also increases. This is because higher temperatures cause gas molecules to move faster, leading to faster sound wave propagation."
+        },
+        {
+          "letter": "D",
+          "text": "Density",
+          "isCorrect": false,
+          "explanation": "Density refers to the mass of a substance per unit volume. Density has a direct impact on the speed of sound in a gas. Generally, as the density of a gas increases, the speed of sound decreases. This is because denser gases have more molecules per unit volume, which can impede the transmission of sound waves."
+        }
+      ],
+      "explanation": "(A) Humidity: Humidity refers to the amount of moisture or water vapor present in the air. It does have an effect on the speed of sound. Generally, as humidity increases, the speed of sound in a gas decreases. This is because water vapor molecules in humid air can slow down the transmission of sound waves.(B) Pressure: Pressure is the force exerted by a gas per unit area. Interestingly, pressure does not have a direct effect on the speed of sound in a gas. Changes in pressure primarily affect the density of the gas, which indirectly influences the speed of sound.(C) Temperature: Temperature plays a significant role in determining the speed of sound in a gas. As the temperature increases, the speed of sound also increases. This is because higher temperatures cause gas molecules to move faster, leading to faster sound wave propagation.(D) Density: Density refers to the mass of a substance per unit volume. Density has a direct impact on the speed of sound in a gas. Generally, as the density of a gas increases, the speed of sound decreases. This is because denser gases have more molecules per unit volume, which can impede the transmission of sound waves.Out of these options, the correct answer is (B) pressure. Pressure does not directly affect the speed of sound in gas.",
+      "explanationImage": null,
+      "hints": [
+        "speed of sound in a gas"
+      ]
+    },
+    {
+      "text": "When a stationary wave is formed then its frequency is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Same as that of the individual waves",
+          "isCorrect": true,
+          "explanation": "The frequency of the stationary wave is determined by the frequency of the individual waves that form it. The stationary wave is created by the superposition of two waves with the same frequency and amplitude traveling in opposite directions. This interference pattern results in the formation of nodes and antinodes along the wave. Remember, the frequency of a wave is a characteristic property that does not change when a stationary wave is formed."
+        },
+        {
+          "letter": "B",
+          "text": "Twice that of the individual waves",
+          "isCorrect": false,
+          "explanation": "This option is not correct. When a stationary wave is formed, its frequency is not twice as that of the individual waves. The frequency remains the same."
+        },
+        {
+          "letter": "C",
+          "text": "Half that of the individual waves",
+          "isCorrect": false,
+          "explanation": "This option is not correct either. The frequency of a stationary wave is not half as that of the individual waves. It remains the same."
+        },
+        {
+          "letter": "D",
+          "text": "Triple that of the individual waves",
+          "isCorrect": false,
+          "explanation": "This option is also not correct. The frequency of a stationary wave is not thrice as that of the individual waves. It remains the same."
+        }
+      ],
+      "explanation": "When a stationary wave is formed, its frequency remains the same as that of the individual waves. So the correct option is (a). The frequency of the stationary wave is determined by the frequency of the individual waves that form it. The stationary wave is created by the superposition of two waves with the same frequency and amplitude traveling in opposite directions. This interference pattern results in the formation of nodes and antinodes along the wave. Remember, the frequency of a wave is a characteristic property that does not change when a stationary wave is formed. (b) Twice as that of the individual waves: This option is not correct. When a stationary wave is formed, its frequency is not twice as that of the individual waves. The frequency remains the same. (c) Half as that of the individual waves: This option is not correct either. The frequency of a stationary wave is not half as that of the individual waves. It remains the same. (d) Thrice as that of the individual waves: This option is also not correct. The frequency of a stationary wave is not thrice as that of the individual waves. It remains the same.",
+      "explanationImage": null,
+      "hints": [
+        "stationary wave"
+      ]
+    },
+    {
+      "text": "A sound source is moving towards stationary listener with 1/10th of the speed of sound. The ratio of apparent to real frequency is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "11/10",
+          "isCorrect": false,
+          "explanation": "This option incorrectly applies the formula for a source moving towards a stationary listener."
+        },
+        {
+          "letter": "B",
+          "text": "[11/10]-2",
+          "isCorrect": false,
+          "explanation": "This option incorrectly interprets the ratio, suggesting an inversion of the correct formula result."
+        },
+        {
+          "letter": "C",
+          "text": "[9/10]-2",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests an inverted and squared ratio, which is not applicable in this scenario."
+        },
+        {
+          "letter": "D",
+          "text": "10/9",
+          "isCorrect": true,
+          "explanation": "f' / f = (v + v₀) / (v - vᵢ)Where:f' is the apparent frequencyf is the real frequencyv is the speed of sound in the mediumv₀ is the velocity of the listener (0 in this case)vᵢ is the velocity of the sourceGiven vᵢ = 1/10 * v, and v₀ = 0, we get:f' / f = v / (v - 1/10 * v) = v / (9/10 * v) = 10/9"
+        }
+      ],
+      "explanation": "When a sound source is moving towards a stationary listener, the frequency of the sound appears higher to the listener. This phenomenon is described by the Doppler effect. The formula for the apparent frequency (f') compared to the real frequency (f) when the source is moving towards the listener is:f' / f = (v + v₀) / (v - vᵢ)Where:f' is the apparent frequencyf is the real frequencyv is the speed of sound in the mediumv₀ is the velocity of the listener (0 in this case)vᵢ is the velocity of the sourceGiven vᵢ = 1/10 * v, and v₀ = 0, we get:f' / f = v / (v - 1/10 * v) = v / (9/10 * v) = 10/9",
+      "explanationImage": null,
+      "hints": [
+        "sound source",
+        "moving towards",
+        "stationary listener"
+      ]
+    },
+    {
+      "text": "When sound waves move from one medium to other medium the quantity which remains unchanged is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wavelength",
+          "isCorrect": false,
+          "explanation": "When sound wave move from one medium to another wavelength of the wave changes."
+        },
+        {
+          "letter": "B",
+          "text": "Frequency",
+          "isCorrect": true,
+          "explanation": "The frequency of a sound wave is the number of oscillations or cycles per unit of time. It remains constant when sound waves move from one medium to another. This is known as the principle of conservation of frequency."
+        },
+        {
+          "letter": "C",
+          "text": "Speed",
+          "isCorrect": false,
+          "explanation": "When sound move from one medium to another speed also changes."
+        },
+        {
+          "letter": "D",
+          "text": "Intensity",
+          "isCorrect": false,
+          "explanation": "When sound move from one medium.to another intensity also changes with medium."
+        }
+      ],
+      "explanation": "The frequency of a sound wave is the number of oscillations or cycles per unit of time. It remains constant when sound waves move from one medium to another. This is known as the principle of conservation of frequency.",
+      "explanationImage": null,
+      "hints": [
+        "one medium",
+        "quantity",
+        "unchanged"
+      ]
+    },
+    {
+      "text": "The points in a wave separated by the displacement \"x\" have the phase difference of:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "λ",
+          "isCorrect": false,
+          "explanation": "This option represents the wavelength (λ) itself as the phase difference, which is incorrect. The phase difference cannot be equal to the wavelength as it is a measure of how far apart two points are in terms of the fraction of a wave cycle."
+        },
+        {
+          "letter": "B",
+          "text": "λx/π",
+          "isCorrect": false,
+          "explanation": "This option involves multiplying the displacement (x) by the wavelength (λ) and dividing by π. However, this does not represent the correct relationship between phase difference and displacement. The correct factor to multiply the displacement by is 2π/λ, as shown in the explanation for option C."
+        },
+        {
+          "letter": "C",
+          "text": "2πx/λ",
+          "isCorrect": true,
+          "explanation": "Phase Difference (Δφ) = Fraction of Wavelength (λ) corresponding to Displacement (x) In one complete wave cycle (2π radians), there are λ displacements, which means that each displacement corresponds to 2π/λ radians. Therefore, the phase difference (Δφ) corresponding to the displacement (x) is: Δφ = (2π/λ) * x"
+        },
+        {
+          "letter": "D",
+          "text": "2πλ/x",
+          "isCorrect": false,
+          "explanation": "This option involves dividing 2π by the displacement (x) and then multiplying by the wavelength (λ). However, this is not the correct relationship between phase difference and displacement. The correct factor to multiply the displacement by is 2π/λ, as shown in the explanation for option C."
+        }
+      ],
+      "explanation": "Phase Difference (Δφ) = Fraction of Wavelength (λ) corresponding to Displacement (x) In one complete wave cycle (2π radians), there are λ displacements, which means that each displacement corresponds to 2π/λ radians. Therefore, the phase difference (Δφ) corresponding to the displacement (x) is: Δφ = (2π/λ) * x",
+      "explanationImage": null,
+      "hints": [
+        "points in a wave",
+        "displacement"
+      ]
+    },
+    {
+      "text": "If the distant star is receding from us, the spectral lines from such a star when examined on Earth will show:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "No shift in frequency",
+          "isCorrect": false,
+          "explanation": "Incorrect. If there is no relative motion between the star and Earth, there would be no Doppler shift, and the spectral lines would remain unchanged."
+        },
+        {
+          "letter": "B",
+          "text": "A shift in frequency towards the red end",
+          "isCorrect": true,
+          "explanation": "Correct. When a distant star is receding from us, its light experiences a redshift due to the Doppler effect, causing the spectral lines to shift towards longer wavelengths."
+        },
+        {
+          "letter": "C",
+          "text": "A shill in frequency towards the violet end",
+          "isCorrect": false,
+          "explanation": "Incorrect. A shift towards the violet end of the spectrum would indicate a blueshift, which occurs when a star is approaching us. In this case, the star is receding, so a redshift occurs instead."
+        },
+        {
+          "letter": "D",
+          "text": "shift in frequency towards ultraviolet",
+          "isCorrect": false,
+          "explanation": "Incorrect. Ultraviolet light has even shorter wavelengths than violet light. As the star's light undergoes a redshift, the spectral lines shift towards longer wavelengths (lower energy), not towards shorter wavelengths (higher energy) like ultraviolet."
+        }
+      ],
+      "explanation": "When a star is moving away from Earth show a red shift. The emitted waves have a longer wavelength than if the star had been at rest. So, the spectrum is shifted towards longer wavelength. i.e., towards the red end of the spectrum.",
+      "explanationImage": null,
+      "hints": [
+        "receding from us"
+      ]
+    },
+    {
+      "text": "The frequency of sound appears 10% less to a moving observer. What is the speed of the observer? (take speed of sound 350 m/s).",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 m/s",
+          "isCorrect": false,
+          "explanation": "This option suggests a very low speed for the observer. According to the Doppler effect, for a 10% decrease in frequency, the observer must be moving away at a significant fraction of the speed of sound. Therefore, 10 m/s is insufficient."
+        },
+        {
+          "letter": "B",
+          "text": "20 m/s",
+          "isCorrect": false,
+          "explanation": "While this option is higher than 10 m/s, it is still not adequate for a 10% decrease in frequency. The calculations indicate that the observer must move away at a speed that correlates more closely with 35 m/s."
+        },
+        {
+          "letter": "C",
+          "text": "35 m/s",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The observer must move away from the stationary source at a speed that equates to 10% of the speed of sound (0.1 * 350 m/s). Hence, 35 m/s matches the requirement for a perceived frequency drop of 10%."
+        },
+        {
+          "letter": "D",
+          "text": "40 m/s",
+          "isCorrect": false,
+          "explanation": "This option is too high for the given problem. For a 10% decrease in frequency, the observer's speed should not exceed 35 m/s, as per the calculations derived from the Doppler effect."
+        }
+      ],
+      "explanation": "When the frequency of sound appears to be 10% less to the observer, it implies that the observer is moving away from the source. This can be calculated using the Doppler effect formula, where the frequency heard by the observer (f') is less than the actual frequency (f) by 10%. The relationship can be expressed as: 0.9f = (v - a) / v * fSolving for the observer's speed (a) gives us a = -0.1v. Plugging in the speed of sound (350 m/s), we find that the observer must be moving away at 35 m/s (a = -0.1 * 350 m/s). The other options do not satisfy this condition as they either underestimate or overestimate the required speed based on the 10% frequency decrease.",
+      "explanationImage": null,
+      "hints": [
+        "10% less",
+        "speed of sound"
+      ]
+    }
+  ]
+}

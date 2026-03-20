@@ -1,0 +1,823 @@
+{
+  "questions": [
+    {
+      "text": "A capacitor and an inductor are connected to A.C. supply. If we double the frequency of A.C. supply then the effect on reactance of capacitor XC and reactance of inductor XL will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Both XC and XL are doubled",
+          "isCorrect": false,
+          "explanation": "This is incorrect. XC is halved when frequency is doubled, not doubled."
+        },
+        {
+          "letter": "B",
+          "text": "Both XC and XL are halved",
+          "isCorrect": false,
+          "explanation": "This is incorrect. While XC is halved when frequency is doubled, XL is actually doubled."
+        },
+        {
+          "letter": "C",
+          "text": "XC is doubled and XL reduces to half",
+          "isCorrect": false,
+          "explanation": "This is incorrect. XC is halved when frequency is doubled, not doubled."
+        },
+        {
+          "letter": "D",
+          "text": "XL is doubled and XC reduces to half",
+          "isCorrect": true,
+          "explanation": "The reactance of a capacitor is given by: Xc = 1/ (2πfC) where f is the frequency of the AC supply, and C is the capacitance of the capacitor. On doubling the frequency of the AC supply, the reactance of the capacitor becomes: X'c = 1/ (2π(2f)C) = Xc/2 Therefore, the reactance of the capacitor is halved when the frequency is doubled. The reactance of an inductor is given by: XL = 2πfL where L is the inductance of the inductor. On doubling the frequency of AC supply, the reactance of the inductor becomes: X'L = 2π(2f)L = 2XL Therefore, the reactance of the inductor is doubled when the frequency is doubled."
+        },
+        {
+          "letter": "E",
+          "text": "Both XC and XL are unchanged",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Both reactances are affected by changes in frequency; XC is halved, and XL is doubled."
+        }
+      ],
+      "explanation": "The reactance of a capacitor is given by: Xc = 1/ (2πfC) where f is the frequency of the AC supply, and C is the capacitance of the capacitor. On doubling the frequency of the AC supply, the reactance of the capacitor becomes: X'c = 1/ (2π(2f)C) = Xc/2 Therefore, the reactance of the capacitor is halved when the frequency is doubled. The reactance of an inductor is given by: XL = 2πfL where L is the inductance of the inductor. On doubling the frequency of the AC supply, the reactance of the inductor becomes: X'L = 2π(2f)L = 2XL Therefore, the reactance of the inductor is doubled when the frequency is doubled.",
+      "explanationImage": null,
+      "hints": [
+        "capacitor",
+        "inductor",
+        "frequency"
+      ]
+    },
+    {
+      "text": "A semiconductor photodiode is a:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2011,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reverse-biased junction diode",
+          "isCorrect": true,
+          "explanation": "A semiconductor photodiode functions as a reverse-biased junction diode. It is designed to operate in reverse bias to effectively detect incident light. In this mode, the diode has a wide depletion region that facilitates the generation and collection of electron-hole pairs as a photocurrent, directly proportional to the intensity of the light."
+        },
+        {
+          "letter": "B",
+          "text": "Forward-biased junction diode",
+          "isCorrect": false,
+          "explanation": "A forward-biased junction diode allows current to flow easily in the forward direction, which is not suitable for the operation of a photodiode. Photodiodes require reverse bias to enhance their sensitivity to light by expanding the depletion region."
+        },
+        {
+          "letter": "C",
+          "text": "Half wave rectifier",
+          "isCorrect": false,
+          "explanation": "A half wave rectifier is a circuit that converts only the positive half of an AC input signal into DC. It is not designed for light detection, nor does it involve reverse-biased operation typical of a semiconductor photodiode."
+        },
+        {
+          "letter": "D",
+          "text": "Full wave rectifier",
+          "isCorrect": false,
+          "explanation": "A full wave rectifier converts both halves of an AC input signal into DC using a bridge rectifier. It does not function as a light-sensitive component like a photodiode, which operates in reverse bias."
+        },
+        {
+          "letter": "E",
+          "text": "Transistor",
+          "isCorrect": false,
+          "explanation": "A transistor is a semiconductor device used for amplification and switching. It is fundamentally different from a photodiode, which is specifically designed for light detection and operates in reverse bias."
+        }
+      ],
+      "explanation": "A semiconductor photodiode is a reverse-biased junction diode. In reverse bias, the photodiode's depletion region widens, allowing for efficient generation and collection of charge carriers (electron-hole pairs) when exposed to light. This configuration enables the photodiode to operate in the photoconductive mode, providing a fast response to changes in light intensity.The incorrect options do not describe how photodiodes function: Forward bias (Option B) is inappropriate for photodiodes as it limits sensitivity; half wave (Option C) and full wave rectifiers (Option D) are rectification circuits and unrelated to photodetection; and transistors (Option E) serve different functions such as amplification and switching, not light detection.",
+      "explanationImage": null,
+      "hints": [
+        "semiconductor",
+        "photodiode",
+        "reverse bias"
+      ]
+    },
+    {
+      "text": "In an npn transistor, the current that flows in the emitter circuit is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2016,
+      "options": [
+        {
+          "letter": "A",
+          "text": "IC + IB",
+          "isCorrect": true,
+          "explanation": "This is the correct formula for the emitter current, as it is the sum of the collector current (IC) and the base current (IB) in an NPN transistor."
+        },
+        {
+          "letter": "B",
+          "text": "IC - IB",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because subtracting the base current from the collector current does not provide the emitter current. The correct relationship involves addition."
+        },
+        {
+          "letter": "C",
+          "text": "IC x IB",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the emitter current is not the product of the collector current and the base current. The correct relationship involves their sum."
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the emitter current cannot be zero when both the collector and base currents are non-zero. The emitter current is actually the sum of these two currents."
+        }
+      ],
+      "explanation": "The emitter current (IE) in an NPN transistor is the sum of the collector current (IC) and the base current (IB). This is because the emitter is the source of charge carriers that flow to the collector and base. Therefore, option A, IC + IB, correctly represents this relationship. Option B incorrectly suggests subtraction, option C incorrectly suggests multiplication, and option D incorrectly suggests the emitter current is zero, which is not possible when IC and IB are present.",
+      "explanationImage": null,
+      "hints": [
+        "transistor",
+        "current",
+        "emitter"
+      ]
+    },
+    {
+      "text": "In photodiodes, the bias voltage is applied in _ bias form.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2016,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Forward",
+          "isCorrect": false,
+          "explanation": "Option A is incorrect because photodiodes are typically not operated in forward bias for detecting light, as this configuration does not enhance their sensitivity to light."
+        },
+        {
+          "letter": "B",
+          "text": "Resistance",
+          "isCorrect": false,
+          "explanation": "Option B is incorrect because 'resistance' is not a form of biasing for diodes. Diodes are specifically forward or reverse biased."
+        },
+        {
+          "letter": "C",
+          "text": "Reverse",
+          "isCorrect": true,
+          "explanation": "Option C is correct because in reverse bias, the photodiode's depletion region widens, allowing for efficient conversion of light into an electrical current by generating electron-hole pairs more effectively."
+        },
+        {
+          "letter": "D",
+          "text": "Converse",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect because 'converse' is not a recognized form of biasing for diodes. Diodes are either forward or reverse biased."
+        }
+      ],
+      "explanation": "The photodiode is reverse biased for operating in the photoconductive mode. As the photodiode is in reverse bias the width of the depletion layer increases. This reduces the junction capacitance and thereby the response time. In effect, the reverse bias causes faster response times for the photodiode.",
+      "explanationImage": null,
+      "hints": [
+        "photodiodes",
+        "bias",
+        "form"
+      ]
+    },
+    {
+      "text": "In a certain circuit, a transistor has a collector current of 10mA and a base current of 40μA. What is the current gain of the transistor?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "150",
+          "isCorrect": false,
+          "explanation": "This option suggests a current gain of 150. To calculate the current gain (β), use the formula: IC/IB. Given IC = 10mA and IB = 40μA, the current gain is 250, not 150. Therefore, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "200",
+          "isCorrect": false,
+          "explanation": "This option suggests a current gain of 200. Using the calculation β = IC/IB, with IC = 10mA and IB = 40μA, the result is 250. Thus, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "250",
+          "isCorrect": true,
+          "explanation": "This option suggests a current gain of 250.Using the formula β = IC/IB, where the collector current (IC) is 10 mA and the base current (IB) is 40 μA, we calculate the current gain as 250.Therefore, this option is correct."
+        },
+        {
+          "letter": "D",
+          "text": "300",
+          "isCorrect": false,
+          "explanation": "This option suggests a current gain of 300. However, by dividing IC (10mA) by IB (40μA), the calculated current gain is 250, not 300. Hence, this option is incorrect."
+        },
+        {
+          "letter": "E",
+          "text": "350",
+          "isCorrect": false,
+          "explanation": "This option suggests a current gain of 350. Given the values IC = 10mA and IB = 40μA, the correct current gain is 250, not 350. Thus, this option is incorrect."
+        }
+      ],
+      "explanation": "To determine the current gain (β) of a transistor, use the formula: β = IC/IB. Here, the collector current (IC) is 10mA (10 × 10-3 A) and the base current (IB) is 40μA (40 × 10-6 A). Calculating gives:Current gain = (10 × 10-3 A) / (40 × 10-6 A) = 250.Therefore, the correct answer is Option C: 250. The other options (150, 200, 300, 350) do not match the calculated current gain of 250, making them incorrect.",
+      "explanationImage": null,
+      "hints": [
+        "transistor",
+        "collector current",
+        "base current"
+      ]
+    },
+    {
+      "text": "The input resistance of an operational amplifier is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Very low",
+          "isCorrect": false,
+          "explanation": "These are incorrect as the input resistance is very high only."
+        },
+        {
+          "letter": "B",
+          "text": "Very high",
+          "isCorrect": true,
+          "explanation": "The input resistance of an operational amplifier (op-amp) typically refers to the impedance seen by the input terminals of the op-amp. The input resistance is a measure of how much the input terminals of the op-amp affect the signal source connected to them.The input resistance of an op-amp is typically very high, often in the order of megaohms (MΩ) to gigaohms (GΩ). This high input resistance is achieved through the use of field-effect transistors (FETs) in the input stage of the op-amp, which have inherently high input impedance.The high input resistance of an op-amp is desirable because it allows the op-amp to draw very little current from the signal source, minimizing loading effects and preserving the integrity of the signal. It also allows for the op-amp to be used in various applications, such as voltage amplification or impedance buffering, without significantly affecting the behavior of the connected circuit.It's important to note that the actual input resistance of an op-amp can vary depending on the specific model or configuration, so it's always recommended to refer to the datasheet or specifications of a particular op-amp for precise values.The input resistance is infinite for an ideal OP-AMP which prevents current from flowing into the OP-AMP itself as it may damage the component. However, since we are not talking about an ideal situation, in real life the resistance is not infinite rather very high thus the answer is B."
+        },
+        {
+          "letter": "C",
+          "text": "Moderate",
+          "isCorrect": false,
+          "explanation": "These are incorrect as the input resistance is very high only."
+        },
+        {
+          "letter": "D",
+          "text": "Infinite",
+          "isCorrect": false,
+          "explanation": "These are incorrect as the input resistance is very high only."
+        }
+      ],
+      "explanation": "The input resistance is infinite for an ideal OP-AMP which prevents current from flowing into the OP-AMP itself as it may damage the component. However, since we are not talking about an ideal situation, in real life the resistance is not infinite rather very high thus the answer is B.",
+      "explanationImage": null,
+      "hints": [
+        "input resistance",
+        "operational amplifier"
+      ]
+    },
+    {
+      "text": "An operational amplifier with an LDR is used as a:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Half wave rectifier",
+          "isCorrect": false,
+          "explanation": "A half-wave rectifier is a circuit that converts AC (alternating current) to DC (direct current) by allowing only one half of the input waveform to pass through while blocking the other half.It typically consists of a diode that conducts current only when it is forward biased.An operational amplifier with an LDR configuration is not typically used as a half-wave rectifier. Instead, diodes are commonly used for this purpose.Therefore, this option is incorrect in the context of an op-amp with an LDR."
+        },
+        {
+          "letter": "B",
+          "text": "Gate",
+          "isCorrect": false,
+          "explanation": "In electronics, a gate usually refers to a digital logic gate, which is a fundamental building block of digital circuits.Digital logic gates perform logical operations such as AND, OR, and NOT.While operational amplifiers can be used in certain logic gate configurations, it is not typical to pair them with an LDR for this purpose.Therefore, this option is unlikely in the context of an op-amp with an LDR."
+        },
+        {
+          "letter": "C",
+          "text": "Night switch",
+          "isCorrect": true,
+          "explanation": "An operational amplifier (op-amp) with an LDR (Light Dependent Resistor) can be used as a light-sensitive or light-controlled device. The LDR is a variable resistor whose resistance changes with the intensity of light falling on it.By integrating the LDR with an op-amp in a suitable circuit configuration, it can be used as a light sensor or in light-sensitive applications. Here are a few common applications:1. Light Sensor: The op-amp can be configured as a voltage follower (buffer) or in a voltage divider configuration with the LDR. As the resistance of the LDR changes with light intensity, the output voltage of the op-amp circuit will vary accordingly. This output voltage can then be used to measure or sense the intensity of light.2. Light-Activated Switch: By using the LDR as part of a voltage comparator circuit with a reference voltage, the op-amp can be used to activate a switch or control another circuit based on a specific light intensity threshold. When the light intensity surpasses the set threshold, the output of the op-amp can change state, triggering the switch or circuit.3. Automatic Light Control: The op-amp and LDR combination can be used to create a circuit that automatically adjusts the brightness of a light source based on ambient light conditions. By employing feedback and control circuits, the op-amp can adjust the brightness of a lamp or LED in response to the varying light intensity detected by the LDR.These are just a few examples of how an operational amplifier with an LDR can be utilized as a light-sensitive or light-controlled device. The specific circuit configuration and application will depend on the desired functionality and requirements of the system."
+        },
+        {
+          "letter": "D",
+          "text": "Full wave rectifier",
+          "isCorrect": false,
+          "explanation": "A full-wave rectifier is a circuit that converts AC to DC by allowing both halves of the input waveform to pass through, effectively producing a waveform that is entirely positive.Similar to the half-wave rectifier, it typically involves diodes arranged in a specific configuration.Operational amplifiers with LDRs are not commonly used as full-wave rectifiers. Diodes are more commonly employed for this purpose.Therefore, this option is unlikely in the context of an op-amp with an LDR."
+        }
+      ],
+      "explanation": "C is the answer as the polarity of the output of the OP-AMP would change based on the input and since the LDR is placed on one of the inputs, we can say that the output polarity is dependent on the light intensity which is perfect for a night switch.",
+      "explanationImage": null,
+      "hints": [
+        "operational amplifier",
+        "LDR"
+      ]
+    },
+    {
+      "text": "When an Operational amplifier is used as Inverting amplifier, then angle between its output and input signal is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 degrees",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. An inverting amplifier does not produce a 30-degree phase shift between input and output. The output is, in fact, inverted with respect to the input, resulting in a phase difference of 180 degrees."
+        },
+        {
+          "letter": "B",
+          "text": "45 degrees",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While 45 degrees might be a common angle in some phase shifts, it is not applicable to an inverting amplifier. The phase difference here is 180 degrees due to the inversion of the signal."
+        },
+        {
+          "letter": "C",
+          "text": "60 degrees",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A 60-degree phase shift does not occur in an inverting amplifier. The output is the inverted version of the input, leading to a phase difference of 180 degrees."
+        },
+        {
+          "letter": "D",
+          "text": "90 degrees",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A 90-degree phase shift would imply a quarter-cycle offset, which is not characteristic of an inverting amplifier. The correct phase difference is 180 degrees."
+        },
+        {
+          "letter": "E",
+          "text": "180 degrees",
+          "isCorrect": true,
+          "explanation": "This is the correct option. In an inverting amplifier configuration, the input signal is applied to the negative input terminal, causing the output signal to be inverted. This inversion results in a 180-degree phase difference between the input and output signals, meaning they are in phase opposition."
+        }
+      ],
+      "explanation": "In an inverting amplifier configuration, the input signal is applied to the negative input terminal of the operational amplifier. The output undergoes a phase inversion relative to the input, creating a 180-degree phase difference. This means that the output is the negative of the input at any given time, representing a complete inversion of polarity. Therefore, the angle between the input and output signals is 180 degrees.The other options are incorrect as they do not represent the characteristic phase inversion that occurs in an inverting amplifier. The angles of 30, 45, 60, and 90 degrees do not apply in this context because the inverting amplifier specifically results in a 180-degree phase shift.",
+      "explanationImage": null,
+      "hints": [
+        "Operational amplifier",
+        "Inverting amplifier"
+      ]
+    },
+    {
+      "text": "When the reverse bias of a pn junction diode is increased, a stage comes when the electric field setup is sufficient to rupture the bonds and release a large number of holes and electrons breakdown. This phenomenon is known as:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Avalanche effect",
+          "isCorrect": true,
+          "explanation": "Avalanche Breakdown → Higher reverse voltage, light doping, covalent bonds break because accelerated electrons collide with atoms (impact ionization), releasing many electrons.The phenomenon where covalent bonds break and a large number of electrons are released is Avalanche Breakdown"
+        },
+        {
+          "letter": "B",
+          "text": "Zener effect",
+          "isCorrect": false,
+          "explanation": "Zener Effect → Low reverse voltage, heavy doping, electron tunneling due to strong electric field."
+        },
+        {
+          "letter": "C",
+          "text": "Early effect",
+          "isCorrect": false,
+          "explanation": "The Early effect is the variation in the effective width of the base in a bipolar junction transistor due to variation in the applied base-to-collector voltage. This option is incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "High-field emission",
+          "isCorrect": false,
+          "explanation": "Field emission is a method for electron emission using a strong electric field near a metal surface. When a high positively charged metal plate is set close to the metal surface, the positive charges inside that conductor will pull the free electrons out of the metal surface."
+        }
+      ],
+      "explanation": "In reverse bias, if voltage is increased, due to available energy, a covalent bond breaks, and a large number of electrons are released. This causes a sudden increase in current. This is called the Zener effect. If reverse bias is increased further after the Zener effect, minority charge carriers attain high velocity and break down the bound electrons from covalent bonds, and the current increases. This is known as the Avalanche effect. The question asks about the release of electrons due to an electric field which is the Zener effect.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If both inputs “A” and “B” are ON and the output is also ON. This type of gate is known as:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2017,
+      "options": [
+        {
+          "letter": "A",
+          "text": "OR Gate",
+          "isCorrect": false,
+          "explanation": "In the given scenario, both inputs A and B are ON, but the output is also ON. This contradicts the behavior of an OR gate because an OR gate would produce an output of ON if at least one of the inputs is ON."
+        },
+        {
+          "letter": "B",
+          "text": "AND Gate",
+          "isCorrect": true,
+          "explanation": "An AND gate is a logic gate that has two or more inputs and produces an output that is true (ON) only if all of its inputs are true (ON). In other words, the output of an AND gate is ON only when all of its inputs are ON.An AND gate is a logic gate that has two or more inputs and produces an output that is true (ON) only if all of its inputs are true (ON). In other words, the output of an AND gate is ON only when all of its inputs are ON."
+        },
+        {
+          "letter": "C",
+          "text": "NAND Gate",
+          "isCorrect": false,
+          "explanation": "In the given scenario, both inputs A and B are ON, and the output is also ON. However, in a NAND gate, the output would be OFF (complement of ON) if both inputs are ON."
+        },
+        {
+          "letter": "D",
+          "text": "NOR Gate",
+          "isCorrect": false,
+          "explanation": "In the given scenario, both inputs A and B are ON, and the output is also ON. In a NOR gate, the output would be OFF (complement of ON) if at least one of the inputs is ON."
+        }
+      ],
+      "explanation": "Technically, the answer can either be A or B here because putting ON at both inputs will give ON in both, as an output. But we will choose B here, since this condition is specific here. Only ON and ON give ON in AND, while OR gate can give ON with other combinations too.",
+      "explanationImage": null,
+      "hints": [
+        "both inputs",
+        "ON",
+        "output",
+        "type of gate"
+      ]
+    },
+    {
+      "text": "_ is equivalent to AND Gate followed by a NOT Gate.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2017,
+      "options": [
+        {
+          "letter": "A",
+          "text": "NOR Gate",
+          "isCorrect": false,
+          "explanation": "NOR Gate. This gate is the combination of OR and NOT gate."
+        },
+        {
+          "letter": "B",
+          "text": "NAND Gate",
+          "isCorrect": true,
+          "explanation": "When the AND and NOT gate are combined it forms a NAND gate. Outputs are opposite to the AND gate."
+        },
+        {
+          "letter": "C",
+          "text": "NOT Gate",
+          "isCorrect": false,
+          "explanation": "NOT gate is a basic logic gate it is not made of a combination of other gates."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "This statement “ none of these” is false as option B gives the correct answer."
+        }
+      ],
+      "explanation": "When the AND and NOT gate are combined it forms a NAND gate. Outputs are opposite to the AND gate.",
+      "explanationImage": null,
+      "hints": [
+        "equivalent",
+        "AND",
+        "followed",
+        "NOT"
+      ]
+    },
+    {
+      "text": "Which option in the following best explains the base of a transistor?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2017,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The base has no impurity",
+          "isCorrect": false,
+          "explanation": "In a transistor, the base region is intentionally doped with impurities to modify its electrical conductivity."
+        },
+        {
+          "letter": "B",
+          "text": "The base has less concentration of impurity as compared to emitter and collector",
+          "isCorrect": true,
+          "explanation": "This option is correct. In a transistor, the base region is typically doped with impurities to create either a p-type or n-type semiconductor. The concentration of impurities in the base region is intentionally kept lower compared to the emitter and collector regions."
+        },
+        {
+          "letter": "C",
+          "text": "The base has more concentration of impurity as compared to the emitter",
+          "isCorrect": false,
+          "explanation": "The base region is generally doped with impurities to have a lower concentration compared to the emitter and collector."
+        },
+        {
+          "letter": "D",
+          "text": "The base has more concentration of impurity as compared to the collector",
+          "isCorrect": false,
+          "explanation": "The base region is intentionally doped with impurities to have a lower concentration compared to the collector."
+        }
+      ],
+      "explanation": "In an npn as well as pnp transistor, the collector and emitter will be much more strongly doped than the base. This is to say, the collector and emitter will have more impurities in their construction, which will result in higher electrical conductivity. In a transistor, the base is made very thin and is lightly doped with an impurity, to enable the collector to collect about 95% of the holes or electrons coming from the emitter side.",
+      "explanationImage": null,
+      "hints": [
+        "best explains",
+        "base",
+        "transistor"
+      ]
+    },
+    {
+      "text": "The principle behind the working of cathode ray oscilloscope is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oscillation",
+          "isCorrect": false,
+          "explanation": "The oscillation principle is applied in Cathode Ray Oscilloscopes (CROs) to generate and display electrical waveforms on a screen. However it is not wroking principal of CRO.The working principle of a Cathode Ray Oscilloscope (CRO) involves the use of an electron beam to display electrical waveforms on a screen."
+        },
+        {
+          "letter": "B",
+          "text": "Half wave rectification",
+          "isCorrect": false,
+          "explanation": "Half-wave rectification is a process that converts only one-half of an alternating current (AC) waveform into a unidirectional pulsating direct current (DC) waveform. There is no use of rectification in CRO."
+        },
+        {
+          "letter": "C",
+          "text": "Full wave rectification",
+          "isCorrect": false,
+          "explanation": "Full-wave rectification is a process that converts the entire alternating current (AC) waveform into a unidirectional pulsating direct current (DC) waveform. There is no use of rectification in CRO."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": true,
+          "explanation": "The oscillation principle is applied in Cathode Ray Oscilloscopes (CROs) to generate and display electrical waveforms on a screen. However it is not wroking principal of CRO.The working principle of a Cathode Ray Oscilloscope (CRO) involves the use of an electron beam to display electrical waveforms on a screen. Hence coorect option is none of these."
+        }
+      ],
+      "explanation": "The oscillation principle is applied in Cathode Ray Oscilloscopes (CROs) to generate and display electrical waveforms on a screen. However it is not wroking principal of CRO.The working principle of a Cathode Ray Oscilloscope (CRO) involves the use of an electron beam to display electrical waveforms on a screen. Hence correct option is none of these.",
+      "explanationImage": null,
+      "hints": [
+        "principle",
+        "working",
+        "cathode ray oscilloscope"
+      ]
+    },
+    {
+      "text": "A full wave rectifier is operating from 50 Hz mains, the fundamental frequency of ripple will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 Hz",
+          "isCorrect": true,
+          "explanation": "In a full-wave rectifier circuit operating from a 50 Hz mains frequency, the ripple frequency refers to the frequency at which the output waveform contains variations due to the rectification process.In a full-wave rectifier, both halves of the input waveform are rectified, resulting in a smoother output compared to a half-wave rectifier.Since each half-cycle of the input waveform produces a ripple in the output waveform, the ripple frequency in a full-wave rectifier is twice the frequency of the input mains frequency.Therefore, in this case, the ripple frequency would be 2×50Hz=100Hz."
+        },
+        {
+          "letter": "B",
+          "text": "25Hz",
+          "isCorrect": false,
+          "explanation": "This option suggests a ripple frequency of 25 Hz.However, in a full-wave rectifier, the ripple frequency is twice the mains frequency.Therefore, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "50Hz",
+          "isCorrect": false,
+          "explanation": "This option suggests a ripple frequency equal to the mains frequency.However, in a full-wave rectifier, the ripple frequency is twice the mains frequency.Therefore, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "200Hz",
+          "isCorrect": false,
+          "explanation": "This option suggests a ripple frequency of 200 Hz.However, in a full-wave rectifier, the ripple frequency is twice the mains frequency.Therefore, this option is incorrect."
+        }
+      ],
+      "explanation": "In a full wave rectifier, we get the output for the positive and negative cycle of input a.c. Hence the frequency of the ripple of the output is twice than that of input a.c. i.e. 100Hz",
+      "explanationImage": null,
+      "hints": [
+        "full wave rectifie",
+        "50 Hz",
+        "fundamental frequency"
+      ]
+    },
+    {
+      "text": "The majority of charge carriers in P-type semiconductors are:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Holes",
+          "isCorrect": true,
+          "explanation": "In P-type semiconductors, the majority charge carriers are \"holes.\"A hole is essentially an empty space in the crystal lattice where an electron could exist but does not.When a dopant with three valence electrons, such as boron or aluminum, is introduced into a semiconductor material like silicon or germanium, it creates \"holes\" in the crystal structure.These holes act as positive charge carriers and contribute to the conductivity of the semiconductor.Therefore, in P-type semiconductors, the majority charge carriers are holes."
+        },
+        {
+          "letter": "B",
+          "text": "Electrons",
+          "isCorrect": false,
+          "explanation": "While there are still some free electrons present in P-type semiconductors, they are not the majority charge carriers.In P-type semiconductors, the holes created by the dopant are the dominant charge carriers.Electrons can also contribute to conductivity in P-type semiconductors, but they are considered minority carriers."
+        },
+        {
+          "letter": "C",
+          "text": "Neutrons",
+          "isCorrect": false,
+          "explanation": "Neutrons are electrically neutral particles found in the nucleus of atoms.They do not contribute to the charge transport in semiconductors.Neutrons play a role in determining the atomic structure and stability of nuclei but are not involved in semiconductor conductivity."
+        },
+        {
+          "letter": "D",
+          "text": "Protons",
+          "isCorrect": false,
+          "explanation": "Protons are positively charged particles found in the nucleus of atoms.They do not contribute to the charge transport in semiconductors.Protons are involved in determining the atomic structure and stability of nuclei but are not involved in semiconductor conductivity."
+        }
+      ],
+      "explanation": "In a p-type semiconductor, holes are the majority charge carriers and electrons are minority charge carriers. So, holes are in larger numbers and electrons in smaller numbers.",
+      "explanationImage": null,
+      "hints": [
+        "majority",
+        "charge carriers",
+        "P-type semiconductors"
+      ]
+    },
+    {
+      "text": "The basic purpose of the filter is to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Minimize variation in ac signal",
+          "isCorrect": false,
+          "explanation": "Minimizing the variation in ac signal is not the basic purpose of filter."
+        },
+        {
+          "letter": "B",
+          "text": "Suppress harmonics in rectified output",
+          "isCorrect": false,
+          "explanation": "Suppressing harmonics in rectified output is not the basic purpose of a filter."
+        },
+        {
+          "letter": "C",
+          "text": "Remove ripples from the rectified output",
+          "isCorrect": true,
+          "explanation": "The basic purpose of a filter is to selectively allow certain components of a signal to pass through while attenuating or blocking others.In various applications, signals can be a combination of different frequencies or components. Filters are used to modify the frequency content of signals to meet specific requirements. The primary purposes of filters include:1. Signal Conditioning: Filters are used to condition signals by removing unwanted noise, interference, or irrelevant frequency components. They help enhance the quality and clarity of the desired signal.2. Frequency Selection: Filters can be designed to pass only certain frequencies while blocking others. This frequency selection is crucial in applications such as communication systems, audio processing, and data analysis.3. Signal Separation: In some cases, signals may contain multiple frequency components that need to be separated for further processing or analysis. Filters can help separate these components based on their frequency content.4. Anti-Aliasing: In digital signal processing and analog-to-digital conversion, filters are used to prevent aliasing. Aliasing occurs when higher-frequency components fold back into the desired frequency range due to undersampling or improper signal processing.5. Bandwidth Limitation: Filters can restrict the bandwidth of a signal to a desired range, which is particularly useful in communication systems to allocate specific frequency bands for different services.6. Signal Equalization: Filters can be used to compensate for frequency response variations in a system, ensuring consistent signal characteristics across the desired frequency range.7. Noise Reduction: Filters can be designed to reduce noise components in a signal, making it less susceptible to interference and improving overall signal-to-noise ratio.Filters can be implemented in both analog and digital domains, and they come in various types, such as low-pass, high-pass, band-pass, band-reject (notch), and more, each suited to specific applications and signal processing requirements."
+        },
+        {
+          "letter": "D",
+          "text": "Stabilize dc output voltage",
+          "isCorrect": false,
+          "explanation": "Stabilizing DC output voltage is not the basic purpose of the filter."
+        }
+      ],
+      "explanation": "A filter circuit is a device that 'removes the a.c. component' of rectifier output and allows only d.c. component to reach the load.",
+      "explanationImage": null,
+      "hints": [
+        "basic purpose",
+        "filter"
+      ]
+    },
+    {
+      "text": "Non-inverting amplifier circuits have:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A very high input impedance",
+          "isCorrect": true,
+          "explanation": "Operational amplifiers have high input impedance and low output impedance because of the concept of a voltage divider, which is how voltage is divided in a circuit depending on the amount of impedance present in given parts of a circuit. Operational amplifiers are voltage-gain devices."
+        },
+        {
+          "letter": "B",
+          "text": "A very low input impedance",
+          "isCorrect": false,
+          "explanation": "A very low input impedance is not correct for non-inverting amplifier circuits. In fact, non-inverting amplifiers have a high input impedance, which means that they don't draw much current from the input signal source, and they don't load the source."
+        },
+        {
+          "letter": "C",
+          "text": "A high output impedance",
+          "isCorrect": false,
+          "explanation": "A high output impedance is not correct for non-inverting amplifier circuits. Non-inverting amplifiers have a low output impedance, which means that they can drive low impedance loads without significant loss of signal voltage."
+        },
+        {
+          "letter": "D",
+          "text": "None of the above options is correct",
+          "isCorrect": false,
+          "explanation": "This is an incorrect answer as option A is correct"
+        }
+      ],
+      "explanation": "Option A) Operational amplifiers have high input impedance and low output impedance because of the concept of a voltage divider, which is how voltage is divided in a circuit depending on the amount of impedance present in given parts of a circuit. Operational amplifiers are voltage-gain devices.Option B) A very low input impedance is not correct for non-inverting amplifier circuits. Non-inverting amplifiers have a high input impedance, which means that they don't draw much current from the input signal source, and they don't load the source.Option C) A high output impedance is not correct for non-inverting amplifier circuits. Non-inverting amplifiers have a low output impedance, which means that they can drive low-impedance loads without significant loss of signal voltage.Option D) This is an incorrect answer.",
+      "explanationImage": null,
+      "hints": [
+        "Non-inverting",
+        "amplifier circuits"
+      ]
+    },
+    {
+      "text": "The electron volt is the unit of _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electric current",
+          "isCorrect": false,
+          "explanation": "Electric current has a unit of ampere A, which is not present in the above calculation; hence, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Electric potential",
+          "isCorrect": false,
+          "explanation": "Electric potential has a unit of volts (V, which is not present in the above calculation; hence, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Electric energy",
+          "isCorrect": true,
+          "explanation": "The unit of electric energy is J, which is similar to the above equation. Hence, this option is the correct one."
+        },
+        {
+          "letter": "D",
+          "text": "Electric flux",
+          "isCorrect": false,
+          "explanation": "The unit of electric flux is J/C, which is different from the equation. Hence, the option is incorrect."
+        }
+      ],
+      "explanation": "1 eV = 1.6 x 10-19 C x 1V1 eV = 1.6 x 10-19 J (C.V = J)",
+      "explanationImage": null,
+      "hints": [
+        "electron volt",
+        "unit"
+      ]
+    },
+    {
+      "text": "The open-circuit test in a transformer is used to measure:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Copper loss",
+          "isCorrect": false,
+          "explanation": "Copper loss occurs in transformers due to the resistive heating of transformer windings. It is measured by a short-circuit test. Hence, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Winding loss",
+          "isCorrect": false,
+          "explanation": "Winding loss is the same as copper loss, which is measured by a short circuit test. Hence, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Total loss",
+          "isCorrect": false,
+          "explanation": "The total loss in the transformer includes both the core loss and the copper loss. To measure the total loss, we need to perform both an open-circuit test and a short-circuit test. Hence, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Core loss",
+          "isCorrect": true,
+          "explanation": "Core loss is caused by eddy currents and hysteresis in the core material. When there is no lead, there is no copper loss or winding loss. Hence, we can measure core loss by doing the open circuit test. Hence, this option is correct."
+        }
+      ],
+      "explanation": "The open-circuit test is done to find the core loss of the transformer. It is done by keeping one of the windings open (without load, usually the high voltage winding is open) and applying rated voltage to the other winding (usually the low voltage winding because it is easier to apply rated voltage).",
+      "explanationImage": null,
+      "hints": [
+        "open-circuit test",
+        "transformer"
+      ]
+    },
+    {
+      "text": "A signal of -80 mV is applied to the inverting terminal of the amplifier while the non-inverting terminal is grounded. The gain of the amplifier is 25 using Rin(R1) equal to 3 ohms and Rf(R2) equal to 75 Ohms. What would be the value of the output signal?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "200 mV",
+          "isCorrect": false,
+          "explanation": "This option suggests that the output signal would be 200mV.However, based on the given gain of the amplifier (25) and the input signal (-80mV), the output signal will be greater than 200mV.Therefore, option A) 200mV is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "-3 V",
+          "isCorrect": false,
+          "explanation": "This option suggests that the output signal would be -3V.However, based on the given gain of the amplifier (25) and the input signal (-80mV), the output signal will be a positive voltage.Therefore, option B) -3V is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "2 V",
+          "isCorrect": true,
+          "explanation": "Since Gain= 25Vout= Vin Gain=-80 mV × 25 = -2000 mv = -2V=2Vsince a positive-going voltage at the inverting terminal gives a negative-going output voltage, hence the answer is positive 2V."
+        },
+        {
+          "letter": "D",
+          "text": "3 V",
+          "isCorrect": false,
+          "explanation": "This option suggests that the output signal would be 3V.However, based on the given gain of the amplifier (25) and the input signal (-80mV), the output signal will be less than 3V.Therefore, option D) 3V is incorrect."
+        }
+      ],
+      "explanation": "Since Gain = 25Vout = Vin * Gain = -80mv * 25 = -2000 mv = -2V = 2V**** since a positive-going voltage at the inverting terminal gives a negative-going output voltage, hence the answer is positive 2V.",
+      "explanationImage": null,
+      "hints": [
+        "80 mV",
+        "inverting terminal",
+        "non-inverting terminal",
+        "grounded",
+        "gain",
+        "25",
+        "output signal"
+      ]
+    }
+  ]
+}

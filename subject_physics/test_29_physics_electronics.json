@@ -1,0 +1,1953 @@
+{
+  "questions": [
+    {
+      "text": "In photodiodes, the bias voltage is applied in _ bias form.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2016,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Forward",
+          "isCorrect": false,
+          "explanation": "Option A is incorrect because photodiodes are typically not operated in forward bias for detecting light, as this configuration does not enhance their sensitivity to light."
+        },
+        {
+          "letter": "B",
+          "text": "Resistance",
+          "isCorrect": false,
+          "explanation": "Option B is incorrect because 'resistance' is not a form of biasing for diodes. Diodes are specifically forward or reverse biased."
+        },
+        {
+          "letter": "C",
+          "text": "Reverse",
+          "isCorrect": true,
+          "explanation": "Option C is correct because in reverse bias, the photodiode's depletion region widens, allowing for efficient conversion of light into an electrical current by generating electron-hole pairs more effectively."
+        },
+        {
+          "letter": "D",
+          "text": "Converse",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect because 'converse' is not a recognized form of biasing for diodes. Diodes are either forward or reverse biased."
+        }
+      ],
+      "explanation": "The photodiode is reverse biased for operating in the photoconductive mode. As the photodiode is in reverse bias the width of the depletion layer increases. This reduces the junction capacitance and thereby the response time. In effect, the reverse bias causes faster response times for the photodiode.",
+      "explanationImage": null,
+      "hints": [
+        "photodiodes",
+        "bias",
+        "form"
+      ]
+    },
+    {
+      "text": "The majority of charge carriers in P-type semiconductors are:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Holes",
+          "isCorrect": true,
+          "explanation": "In P-type semiconductors, the majority charge carriers are \"holes.\"A hole is essentially an empty space in the crystal lattice where an electron could exist but does not.When a dopant with three valence electrons, such as boron or aluminum, is introduced into a semiconductor material like silicon or germanium, it creates \"holes\" in the crystal structure.These holes act as positive charge carriers and contribute to the conductivity of the semiconductor.Therefore, in P-type semiconductors, the majority charge carriers are holes."
+        },
+        {
+          "letter": "B",
+          "text": "Electrons",
+          "isCorrect": false,
+          "explanation": "While there are still some free electrons present in P-type semiconductors, they are not the majority charge carriers.In P-type semiconductors, the holes created by the dopant are the dominant charge carriers.Electrons can also contribute to conductivity in P-type semiconductors, but they are considered minority carriers."
+        },
+        {
+          "letter": "C",
+          "text": "Neutrons",
+          "isCorrect": false,
+          "explanation": "Neutrons are electrically neutral particles found in the nucleus of atoms.They do not contribute to the charge transport in semiconductors.Neutrons play a role in determining the atomic structure and stability of nuclei but are not involved in semiconductor conductivity."
+        },
+        {
+          "letter": "D",
+          "text": "Protons",
+          "isCorrect": false,
+          "explanation": "Protons are positively charged particles found in the nucleus of atoms.They do not contribute to the charge transport in semiconductors.Protons are involved in determining the atomic structure and stability of nuclei but are not involved in semiconductor conductivity."
+        }
+      ],
+      "explanation": "In a p-type semiconductor, holes are the majority charge carriers and electrons are minority charge carriers. So, holes are in larger numbers and electrons in smaller numbers.",
+      "explanationImage": null,
+      "hints": [
+        "majority",
+        "charge carriers",
+        "P-type semiconductors"
+      ]
+    },
+    {
+      "text": "The basic purpose of the filter is to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Minimize variation in ac signal",
+          "isCorrect": false,
+          "explanation": "Minimizing the variation in ac signal is not the basic purpose of filter."
+        },
+        {
+          "letter": "B",
+          "text": "Suppress harmonics in rectified output",
+          "isCorrect": false,
+          "explanation": "Suppressing harmonics in rectified output is not the basic purpose of a filter."
+        },
+        {
+          "letter": "C",
+          "text": "Remove ripples from the rectified output",
+          "isCorrect": true,
+          "explanation": "The basic purpose of a filter is to selectively allow certain components of a signal to pass through while attenuating or blocking others.In various applications, signals can be a combination of different frequencies or components. Filters are used to modify the frequency content of signals to meet specific requirements. The primary purposes of filters include:1. Signal Conditioning: Filters are used to condition signals by removing unwanted noise, interference, or irrelevant frequency components. They help enhance the quality and clarity of the desired signal.2. Frequency Selection: Filters can be designed to pass only certain frequencies while blocking others. This frequency selection is crucial in applications such as communication systems, audio processing, and data analysis.3. Signal Separation: In some cases, signals may contain multiple frequency components that need to be separated for further processing or analysis. Filters can help separate these components based on their frequency content.4. Anti-Aliasing: In digital signal processing and analog-to-digital conversion, filters are used to prevent aliasing. Aliasing occurs when higher-frequency components fold back into the desired frequency range due to undersampling or improper signal processing.5. Bandwidth Limitation: Filters can restrict the bandwidth of a signal to a desired range, which is particularly useful in communication systems to allocate specific frequency bands for different services.6. Signal Equalization: Filters can be used to compensate for frequency response variations in a system, ensuring consistent signal characteristics across the desired frequency range.7. Noise Reduction: Filters can be designed to reduce noise components in a signal, making it less susceptible to interference and improving overall signal-to-noise ratio.Filters can be implemented in both analog and digital domains, and they come in various types, such as low-pass, high-pass, band-pass, band-reject (notch), and more, each suited to specific applications and signal processing requirements."
+        },
+        {
+          "letter": "D",
+          "text": "Stabilize dc output voltage",
+          "isCorrect": false,
+          "explanation": "Stabilizing DC output voltage is not the basic purpose of the filter."
+        }
+      ],
+      "explanation": "A filter circuit is a device that 'removes the a.c. component' of rectifier output and allows only d.c. component to reach the load.",
+      "explanationImage": null,
+      "hints": [
+        "basic purpose",
+        "filter"
+      ]
+    },
+    {
+      "text": "Full wave bridge rectifier uses:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "One diode",
+          "isCorrect": false,
+          "explanation": "A full wave rectifier cannot be implemented using only one diode. A diode is a semiconductor device that allows current to flow in one direction and blocks it in the opposite direction. For a full wave rectification, which means converting an AC (alternating current) signal into a pulsating DC (direct current) signal, we need to utilize both the positive and negative cycles of the AC signal. A single diode can only rectify either the positive or the negative half-cycle, not both."
+        },
+        {
+          "letter": "B",
+          "text": "Two diodes",
+          "isCorrect": false,
+          "explanation": "A full wave rectifier typically uses two diodes arranged in a bridge configuration called a \"bridge rectifier\" or \"full-wave bridge rectifier.\" This configuration allows both the positive and negative halves of the AC signal to be rectified, resulting in a pulsating DC output."
+        },
+        {
+          "letter": "C",
+          "text": "Three diodes",
+          "isCorrect": false,
+          "explanation": "A configuration with three diodes cannot produce full wave rectification. While it is possible to design various rectifier circuits with three diodes (such as center-tapped rectifiers), these configurations typically provide half-wave rectification rather than full wave."
+        },
+        {
+          "letter": "D",
+          "text": "Four diodes",
+          "isCorrect": true,
+          "explanation": "A full wave rectifier generally uses four diodes arranged in a bridge configuration (bridge rectifier). These four diodes allow both halves of the AC input signal to be rectified, resulting in a smoother pulsating DC output compared to half-wave rectifiers."
+        }
+      ],
+      "explanation": "Full wave bridge rectifier uses four diodes. However, centre tap transformer uses two diodes.",
+      "explanationImage": null,
+      "hints": [
+        "Full wave",
+        "bridge rectifier"
+      ]
+    },
+    {
+      "text": "In a full wave rectifier with an input frequency of 50 Hz, the ripple in the output is mainly of frequency:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "25 Hz",
+          "isCorrect": false,
+          "explanation": "This option suggests that the output frequency of the ripple is 25Hz however based on calculations the value of frequency is 100 Hz. Hence this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "50 Hz",
+          "isCorrect": false,
+          "explanation": "This option suggests that the output frequency of the ripple is 50Hz however based on calculations the value of frequency is 100 Hz. Hence this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "100 Hz",
+          "isCorrect": true,
+          "explanation": "In full wave rectification ripple frequency is twice the input frequency.Whereas, for a half wave rectifier it is equal to the AC supply frequency.For full wave rectification = 2× f= 2 × 50 Hz = 100HzA half-wave rectifier conducts when the alternating current is positive, which happens during 180° of the A.C cycle, and blocks current during the other 180 degrees.A full-wave rectifier conducts during both 180° periods of an A.C cycle; So you can see, it conducts current for twice the amount of time.The full-wave rectifier has twice the efficiency of a half-wave rectifier is, that it utilizes both half-cycles of the input.In a half-wave rectifier, the time interval between two consecutive peaks of the output voltage waveform is the time period of the input supply waveform.In a full-wave rectifier, the time interval between two consecutive peaks of the output voltage waveform is half of the time period of the input supply waveform."
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "This option suggests that the output frequency of the ripple is 0 Hz however based on calculations the value of frequency is 100 Hz. Hence this option is incorrect."
+        }
+      ],
+      "explanation": "In full wave rectification ripple frequency is twice the input frequency.Whereas, for a half wave rectifier it is equal to the AC supply frequency.For full wave rectification = 2× f = 2 × 50 Hz = 100HzA half-wave rectifier conducts when the alternating current is positive, which happens during 180° of the A.C cycle, and blocks current during the other 180 degrees.A full-wave rectifier conducts during both 180° periods of an A.C cycle; So you can see, it conducts current for twice the amount of time.The full-wave rectifier has twice the efficiency of a half-wave rectifier is, that it utilizes both half-cycles of the input.In a half-wave rectifier, the time interval between two consecutive peaks of the output voltage waveform is the time period of the input supply waveform.In a full-wave rectifier, the time interval between two consecutive peaks of the output voltage waveform is half of the time period of the input supply waveform.",
+      "explanationImage": null,
+      "hints": [
+        "full wave rectifier",
+        "input frequency",
+        "50 Hz",
+        "output",
+        "frequency"
+      ]
+    },
+    {
+      "text": "A half-wave rectifier has diodes:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": true,
+          "explanation": "A half-wave rectifier has one diode.A half-wave rectifier is a circuit used to convert an alternating current (AC) signal into a pulsating direct current (DC) signal. It uses a single diode to achieve this rectification process.Therefore, the correct answer is \"1\" diode, as a half-wave rectifier circuit requires only a single diode to perform the rectification process. The other options (2, 3, and 4) are incorrect because they do not represent the correct number of diodes used in a half-wave rectifier circuit."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A half-wave rectifier typically uses only one diode."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as well. A half-wave rectifier does not require two diodes. It utilizes only one diode to achieve the rectification process."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect. A half-wave rectifier does not involve four diodes. The use of multiple diodes in a rectifier circuit is more commonly associated with full-wave rectifiers."
+        }
+      ],
+      "explanation": "Only one diode is needed in the half-wave rectifier. This diode limits the current flow in one direction, which means that only half of the AC waveform can pass through the diode.",
+      "explanationImage": null,
+      "hints": [
+        "half-wave rectifier",
+        "diodes"
+      ]
+    },
+    {
+      "text": "In a center tap full wave rectifier, if Vm is the peak voltage across the secondary transformer, the maximum voltage across reverse bias is _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vm",
+          "isCorrect": false,
+          "explanation": "This option suggests that the maximum voltage across the reverse-biased diode is equal to the peak voltage across the secondary transformer (Vm ). During one half-cycle of the input AC waveform, when the upper diode conducts, the lower diode is reverse biased, and its voltage is indeed Vm. However, during the other half-cycle, when the lower diode conducts, the upper diode is reverse biased, and its voltage is also Vm. Therefore, option A) Vm is incorrect because it only considers one half-cycle of the input waveform and neglects the voltage across the reverse-biased diode during the other half-cycle."
+        },
+        {
+          "letter": "B",
+          "text": "Vm/√2",
+          "isCorrect": false,
+          "explanation": "This option suggests that the maximum voltage across the reverse-biased diode is Vm divided by the square root of 2. However, this value does not accurately represent the voltage across the reverse-biased diode in a center-tap full-wave rectifier. The correct voltage across the reverse-biased diode is Vm during each half-cycle of the input AC waveform.Therefore, option B) Vm/√2 is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "2Vm",
+          "isCorrect": true,
+          "explanation": "A full-wave rectifier is defined as a rectifier that converts the complete cycle of alternating current into pulsating direct current (DC). If Vm is the peak voltage across the secondary transformer, the maximum voltage coming across the reverse-biased diode is 2Vm."
+        },
+        {
+          "letter": "D",
+          "text": "Vm/3",
+          "isCorrect": false,
+          "explanation": "This option suggests a specific fraction of the peak voltage (Vm ) as the maximum voltage across the reverse-biased diode. However, this value does not accurately represent the voltage across the reverse-biased diode in a center-tap full-wave rectifier. The correct voltage across the reverse-biased diode is Vm during each half-cycle of the input AC waveform.Therefore, option D) Vm/3 is incorrect."
+        }
+      ],
+      "explanation": "A full-wave rectifier is defined as a rectifier that converts the complete cycle of alternating current into pulsating direct current (DC). If Vm is the peak voltage across the secondary transformer, the maximum voltage coming across the reverse-biased diode is 2Vm.",
+      "explanationImage": null,
+      "hints": [
+        "wave rectifier",
+        "Vm",
+        "peak",
+        "transformer",
+        "maximum voltage",
+        "reverse bias"
+      ]
+    },
+    {
+      "text": "The process of converting alternating current into direct current is called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Modulation",
+          "isCorrect": false,
+          "explanation": "Modulation is the process of converting data into radio waves by adding information to an electronic or optical carrier signal."
+        },
+        {
+          "letter": "B",
+          "text": "Amplification",
+          "isCorrect": false,
+          "explanation": "amplification is the act, or result of independently increasing some quantity, especially voltage, power or current"
+        },
+        {
+          "letter": "C",
+          "text": "Ossilation",
+          "isCorrect": false,
+          "explanation": "Oscillation is the repetitive or periodic variation, typically in time, of some measure about a central value or between two or more different states."
+        },
+        {
+          "letter": "D",
+          "text": "Rectification",
+          "isCorrect": true,
+          "explanation": "Rectification is the conversion of alternating current (AC) to direct current (DC). A half-wave rectifier is a circuit that allows only one half-cycle of the AC voltage waveform to be applied to the load, resulting in one non-alternating polarity across it."
+        }
+      ],
+      "explanation": "Rectification is the conversion of alternating current (AC) to direct current (DC). A half-wave rectifier is a circuit that allows only one half-cycle of the AC voltage waveform to be applied to the load, resulting in one non-alternating polarity across it.",
+      "explanationImage": null,
+      "hints": [
+        "process",
+        "alternating current",
+        "direct current"
+      ]
+    },
+    {
+      "text": "When a PN junction diode is forward biased, the flow of current across the junction is mainly due to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Drift of charges",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Drift refers to the movement of charges due to an electric field, which is not the primary mechanism in a forward-biased diode."
+        },
+        {
+          "letter": "B",
+          "text": "Diffusion of charges",
+          "isCorrect": true,
+          "explanation": "This is correct. In a forward-biased P-N junction, the current flow is mainly due to the diffusion of majority carriers—electrons and holes—across the junction."
+        },
+        {
+          "letter": "C",
+          "text": "Both drift and diffusion of charges",
+          "isCorrect": false,
+          "explanation": "This is incorrect. While both drift and diffusion can occur, in a forward-biased diode, the current is predominantly due to diffusion of charges."
+        },
+        {
+          "letter": "D",
+          "text": "Depends on the nature of the material",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The flow of current in a forward-biased P-N junction is primarily due to the majority carriers, regardless of the material type."
+        }
+      ],
+      "explanation": "In a forward-biased P-N junction diode, the applied voltage reduces the barrier potential, allowing majority carriers to move across the junction. Electrons from the N-type region move into the P-type region, and holes from the P-type region move into the N-type region. This movement of majority carriers is due to diffusion, as they move from a region of high concentration to low concentration. As a result, the current flow in a forward-biased diode is primarily due to diffusion. Other options are incorrect because:Drift of charges: Drift is driven by an electric field, which is not the main process in forward bias.Both drift and diffusion of charges: Although both phenomena can occur, diffusion is the dominant process in this context.Depends on the nature of the material: The basic operation of a P-N junction is independent of the material type regarding majority carrier movement.",
+      "explanationImage": null,
+      "hints": [
+        "forward biased",
+        "flow of current"
+      ]
+    },
+    {
+      "text": "The valence of an impurity added to germanium crystal in order to convert it into a P-type semiconductor is :",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": "Elements with a valence of 6 are not suitable for altering the semiconductor type, as they do not fit into the lattice structure of germanium effectively."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "Elements with a valence of 5, such as phosphorus, donate extra electrons to the semiconductor, resulting in an N-type semiconductor, not a P-type."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "Elements with a valence of 4, like silicon and germanium, are used as the base material for the semiconductor itself and do not change the type by doping."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "isCorrect": true,
+          "explanation": "Elements with a valence of 3, such as boron, accept electrons from the crystal lattice, creating 'holes' that contribute to the formation of a P-type semiconductor."
+        }
+      ],
+      "explanation": "To convert a germanium crystal into a P-type semiconductor, an element with a valence of 3, such as boron, is added. This type of impurity accepts electrons, creating holes that facilitate positive charge carrier movement, hence forming a P-type semiconductor. Other options are incorrect: elements with a valence of 5 donate electrons, forming N-type semiconductors, while elements with valences of 4 and 6 do not effectively alter the conduction type of the semiconductor.",
+      "explanationImage": null,
+      "hints": [
+        "valence",
+        "impurity"
+      ]
+    },
+    {
+      "text": "Choose the correct statement for the energy band structure of a semiconductor:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "At absolute zero temperature, the conduction band of a semiconductor is completely filled and the valence band is totally empty.",
+          "isCorrect": false,
+          "explanation": "This is incorrect because, at absolute zero temperature, the valence band is completely filled with electrons, and the conduction band is completely empty as no electrons have gained enough energy to cross the band gap."
+        },
+        {
+          "letter": "B",
+          "text": "At absolute zero temperature, the conduction band of semiconductor is totally empty and valance band is totally filled",
+          "isCorrect": true,
+          "explanation": "The valence band is fully filled and the conduction band is completely empty at T = 0 K because it is the semiconductor's identity that it becomes an insulator at absolute zero. At absolute zero temperature (0 K):Electrons have no thermal energy to jump from the valence band to the conduction band.The valence band is completely filled with electrons.The conduction band is completely empty because no electrons have gained enough energy to cross the band gap."
+        },
+        {
+          "letter": "C",
+          "text": "At absolute zero temperature, both conduction band and valence band of a semiconductor are totally empty.",
+          "isCorrect": false,
+          "explanation": "This is incorrect as the valence band is actually fully occupied by electrons at absolute zero temperature, not empty."
+        },
+        {
+          "letter": "D",
+          "text": "At absolute zero temperature, both conduction band and valence band of a semiconductor are completely filled.",
+          "isCorrect": false,
+          "explanation": "This is incorrect because, at absolute zero, the conduction band is completely empty while the valence band is filled with electrons."
+        }
+      ],
+      "explanation": "At absolute zero temperature (0 K), a semiconductor behaves like an insulator. The valence band, which is the highest energy band that can be filled, is completely occupied by electrons. Meanwhile, the conduction band, which is the energy band above the valence band, remains completely empty because electrons lack the thermal energy required to jump to it. Therefore, Option B is correct. Options A, C, and D are incorrect because they either suggest that the conduction band is filled or the valence band is empty, which contradicts the behavior of semiconductors at absolute zero.",
+      "explanationImage": null,
+      "hints": [
+        "energy band structure",
+        "absolute zero temperature"
+      ]
+    },
+    {
+      "text": "The device used for conversion of AC into DC is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "An oscillator",
+          "isCorrect": false,
+          "explanation": "An oscillator is used to generate periodic signals, such as sine or square waves, and does not perform AC to DC conversion."
+        },
+        {
+          "letter": "B",
+          "text": "An amplifier",
+          "isCorrect": false,
+          "explanation": "An amplifier is designed to increase the power of a signal, maintaining its form, but it does not convert AC to DC."
+        },
+        {
+          "letter": "C",
+          "text": "A detector",
+          "isCorrect": false,
+          "explanation": "A detector's primary function is to sense or measure signals, and it does not change AC into DC."
+        },
+        {
+          "letter": "D",
+          "text": "A rectifier",
+          "isCorrect": true,
+          "explanation": "A rectifier is specifically engineered to convert alternating current (AC) into direct current (DC), which is crucial for devices that require DC power."
+        }
+      ],
+      "explanation": "The correct answer is A rectifier. A rectifier is an essential electronic component that converts alternating current (AC) into direct current (DC), making it indispensable in power supplies for electronic devices. In contrast, an oscillator is used for generating waveforms, an amplifier boosts the amplitude of a signal without altering its form, and a detector is used for identifying or measuring signal characteristics. None of these other options perform the function of converting AC to DC.",
+      "explanationImage": null,
+      "hints": [
+        "device",
+        "conversion"
+      ]
+    },
+    {
+      "text": "Depletion region carries:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Negative charge",
+          "isCorrect": false,
+          "explanation": "The depletion region is a charge-neutral area, so it does not carry negative charge."
+        },
+        {
+          "letter": "B",
+          "text": "No free charge",
+          "isCorrect": true,
+          "explanation": "In the depletion region, free charge carriers recombine, resulting in an area devoid of free charges."
+        },
+        {
+          "letter": "C",
+          "text": "Positive charge",
+          "isCorrect": false,
+          "explanation": "The depletion region is charge-neutral, meaning it does not have positive charge."
+        },
+        {
+          "letter": "D",
+          "text": "Positive ions",
+          "isCorrect": false,
+          "explanation": "While the depletion region may have fixed ions, it is primarily characterized by the absence of free charge carriers."
+        }
+      ],
+      "explanation": "The depletion region in a semiconductor junction forms due to the recombination of electrons and holes from the n and p regions, respectively. This recombination leads to a region where free charge carriers are absent, resulting in a charge-neutral area. Therefore, the depletion region carries no free charge. Options A, C, and D are incorrect because they suggest the presence of negative or positive charges, which contradicts the nature of a depletion region as being free of mobile charge carriers.",
+      "explanationImage": null,
+      "hints": [
+        "Depletion",
+        "region"
+      ]
+    },
+    {
+      "text": "A capacitor is to be used to provide smoothing for a half wave rectifier. In which of the following diagrams is capacitor correctly connected?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": "Incorrect since it is not connected in series with the load."
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": "Incorrect since capacitor is not connected in parallel with the diode."
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": "Incorrect because it is never connected in parallel with the battery."
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": true,
+          "explanation": "It is correct because capacitor is always connect parallel to the load resistor."
+        }
+      ],
+      "explanation": "To make the smooth a circuit known as filtering,capacitor can be used in which basically capacitor is connected in parallel with the load.",
+      "explanationImage": null,
+      "hints": [
+        "capacitor",
+        "half wave rectifier.",
+        "smoothing"
+      ]
+    },
+    {
+      "text": "PN junction diode cannot be used:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "As rectifier",
+          "isCorrect": false,
+          "explanation": "Since amplifier is the correct answer, hence this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "For getting light radiation",
+          "isCorrect": false,
+          "explanation": "PN junction is also used for this purpose so this option is wrong."
+        },
+        {
+          "letter": "C",
+          "text": "As amplifier",
+          "isCorrect": true,
+          "explanation": "A P-N junction can not be used as an amplifier (option-c). P-N junction is also known as a diode. It is a device that is composed of p-type and n-type semiconductors. Its half part is made up of p-type semiconductor and another half part is made of n-type semiconductor.Lastly, for amplification of a signal a transistor is used."
+        },
+        {
+          "letter": "D",
+          "text": "For converting AC to DC",
+          "isCorrect": false,
+          "explanation": "Pn junction is used for this purpose so it cannot be the correct option."
+        }
+      ],
+      "explanation": "P-N junction diodes can be used as rectifiers, in photodiodes and LED",
+      "explanationImage": null,
+      "hints": [
+        "junction diode",
+        "PN"
+      ]
+    },
+    {
+      "text": "If AC voltage of 60Hz is applied as input to a full wave rectifier, the frequency of output voltage (ripple) will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 Hz",
+          "isCorrect": false,
+          "explanation": "This is incorrect. A full wave rectifier doubles the input frequency, not halves it. Hence, the output frequency cannot be less than the input frequency."
+        },
+        {
+          "letter": "B",
+          "text": "60 Hz",
+          "isCorrect": false,
+          "explanation": "This is incorrect. This frequency is applicable to a half wave rectifier, where the output frequency matches the input frequency."
+        },
+        {
+          "letter": "C",
+          "text": "120 Hz",
+          "isCorrect": true,
+          "explanation": "Correct. A full wave rectifier inverts each half cycle of the AC input, effectively doubling the frequency. Thus, the output frequency is 2 × 60 Hz = 120 Hz."
+        },
+        {
+          "letter": "D",
+          "text": "60/2π Hz",
+          "isCorrect": false,
+          "explanation": "This is incorrect. This expression is unrelated to the frequency transformation in rectification processes. It does not apply to the context of a full wave rectifier."
+        }
+      ],
+      "explanation": "A full wave rectifier converts the entire AC waveform to a pulsating DC, effectively doubling the frequency of the input signal. When the input AC frequency is 60 Hz, the output frequency is doubled to 120 Hz, making Option C the correct answer. Option A suggests a frequency reduction, which does not occur in full wave rectification. Option B corresponds to a half wave rectifier scenario, and Option D introduces a mathematical expression that is irrelevant to this context.",
+      "explanationImage": null,
+      "hints": [
+        "AC voltage",
+        "full wave",
+        "frequency"
+      ]
+    },
+    {
+      "text": "When an impurity is doped into an intrinsic semiconductor, the conductivity of the semiconductor:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increases",
+          "isCorrect": true,
+          "explanation": "Doping introduces extra charge carriers or creates mobile charge vacancies, thereby increasing the conductivity of the semiconductor."
+        },
+        {
+          "letter": "B",
+          "text": "Decreases",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Doping is specifically done to increase conductivity by adding more charge carriers to the semiconductor."
+        },
+        {
+          "letter": "C",
+          "text": "Remains the same",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The purpose of doping is to change the conductivity, specifically to increase it, by adding impurities."
+        },
+        {
+          "letter": "D",
+          "text": "Becomes zero",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Doping does not reduce conductivity to zero; it enhances conductivity by introducing additional charge carriers."
+        }
+      ],
+      "explanation": "When an impurity is doped into an intrinsic semiconductor, it significantly alters the semiconductor's conductivity. Doping involves adding impurities to the semiconductor material to increase its electrical conductivity. The type of impurity determines the increase in conductivity:N-Type Semiconductor: Adding donor atoms from Group V (such as phosphorus) introduces extra electrons, which enhances electron conductivity.P-Type Semiconductor: Adding acceptor atoms from Group III (such as boron) creates holes, which enhances hole conductivity.Both methods effectively increase the number of charge carriers in the semiconductor, thereby increasing its overall conductivity. Therefore, the correct answer is that the conductivity Increases. The other options are incorrect because they do not align with the purpose and effect of doping in semiconductors.",
+      "explanationImage": null,
+      "hints": [
+        "impurity",
+        "doped",
+        "conductivity"
+      ]
+    },
+    {
+      "text": "In extrinsic semiconductor, the doping level should be in the ratio:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1:10-6",
+          "isCorrect": false,
+          "explanation": "This ratio implies an extremely high concentration of dopants, which would disrupt the semiconductor's lattice structure and alter its properties more than desired."
+        },
+        {
+          "letter": "B",
+          "text": "1:106",
+          "isCorrect": true,
+          "explanation": "This ratio, where there is one dopant atom per 106 host atoms, is ideal as it effectively enhances conductivity without overwhelming the semiconductor matrix."
+        },
+        {
+          "letter": "C",
+          "text": "1:10-8",
+          "isCorrect": false,
+          "explanation": "An even higher concentration of dopants than 1:10-6, disrupting the semiconductor significantly and likely leading to a breakdown of its intended properties."
+        },
+        {
+          "letter": "D",
+          "text": "1:108",
+          "isCorrect": false,
+          "explanation": "This ratio suggests a very low concentration of dopants, insufficient to meaningfully alter the semiconductor's electrical properties."
+        }
+      ],
+      "explanation": "In extrinsic semiconductors, achieving the right balance of dopant concentration is key to optimizing electrical properties. The correct ratio is approximately 1 dopant atom per 106 host atoms (Option B), which introduces enough charge carriers to significantly enhance conductivity while maintaining the structural integrity of the semiconductor. Options A (1:10-6) and C (1:10-8) suggest ratios that are too high, leading to excessive changes in material properties and potential lattice disruptions. Option D (1:108) proposes a concentration too low to effectively alter conductivity, resulting in minimal impact on the semiconductor's performance.",
+      "explanationImage": null,
+      "hints": [
+        "extrinsic",
+        "semiconductor"
+      ]
+    },
+    {
+      "text": "The depletion region in PN-Junction carries:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Positively charged",
+          "isCorrect": false,
+          "explanation": "This option suggests that the depletion region has a net positive charge, which is incorrect. While it contains immobile positive ions from the N-type material, the overall charge is neutral due to the presence of an equal number of negative ions from the P-type material."
+        },
+        {
+          "letter": "B",
+          "text": "Negatively charged",
+          "isCorrect": false,
+          "explanation": "This option implies that the depletion region has a net negative charge, which is also incorrect. The negative ions from the P-type material, balanced by positive ions from the N-type material, ensure the region remains electrically neutral."
+        },
+        {
+          "letter": "C",
+          "text": "Both positively and negatively charged",
+          "isCorrect": false,
+          "explanation": "While the depletion region contains both positive and negative ions, these ions do not contribute to a net charge. They are immobile and cancel each other out, resulting in a net charge of zero."
+        },
+        {
+          "letter": "D",
+          "text": "No mobile charge carriers",
+          "isCorrect": true,
+          "explanation": "This option is correct. The depletion region lacks mobile charge carriers. It contains immobile ions that form an electric field, but these ions do not facilitate current flow, maintaining the region's neutrality."
+        }
+      ],
+      "explanation": "The correct option is (d) No mobile charge carriers. The depletion region in a PN-junction is characterized by the absence of mobile charge carriers. During the formation of the junction, electrons and holes recombine near the junction, creating a region devoid of free carriers, known as the depletion region. This region contains immobile positive ions from the N-type side and immobile negative ions from the P-type side, which balance each other, resulting in an electrically neutral region. Options (a), (b), and (c) are incorrect because they suggest a net charge that does not exist in the depletion region, which is neutral due to the equal presence of opposite charges.",
+      "explanationImage": null,
+      "hints": [
+        "depletion",
+        "region"
+      ]
+    },
+    {
+      "text": "_ is used for the rectification of the electromagnetic waves.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Audible",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The correct answer os diode or a p-n junction."
+        },
+        {
+          "letter": "B",
+          "text": "Compare",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The correct answer os diode or a p-n junction."
+        },
+        {
+          "letter": "C",
+          "text": "Crystal diode",
+          "isCorrect": true,
+          "explanation": "Diodes are used for the rectification of electromagnetic waves. They convert alternating current (AC) into direct current (DC) by allowing current to flow in one direction only."
+        },
+        {
+          "letter": "D",
+          "text": "Valence band",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The correct answer os diode or a p-n junction."
+        }
+      ],
+      "explanation": "Diodes are used for the rectification of electromagnetic waves. They convert alternating current (AC) into direct current (DC) by allowing current to flow in one direction only.",
+      "explanationImage": null,
+      "hints": [
+        "rectification",
+        "electromagnetic waves"
+      ]
+    },
+    {
+      "text": "The figure in which eight atoms or molecules are lies at eight corners are called _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Simple cube",
+          "isCorrect": true,
+          "explanation": "In a simple cubic lattice, each corner of a cube contains an atom or molecule, totaling eight in all. This arrangement positions these atoms or molecules at the corners of the cube, with no additional atoms inside the cube's body or along its edges. It's the most basic type of cubic lattice and is not commonly found in nature due to its inefficiency in packing atoms."
+        },
+        {
+          "letter": "B",
+          "text": "Face centered cube",
+          "isCorrect": false,
+          "explanation": "In an FCC lattice, atoms or molecules are positioned at the corners of a cube as well as at the centers of each face of the cube. This arrangement results in a total of four atoms per unit cell (one-eighth from each of the eight corners and one-half from each of the six faces). The FCC lattice is one of the most common crystal structures found in metals like aluminum, copper, and lead."
+        },
+        {
+          "letter": "C",
+          "text": "Free electron",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Free electrons are electrons that are not bound to an atom or a specific nucleus. They are not confined to a particular atom and are therefore free to move throughout a material. TT"
+        },
+        {
+          "letter": "D",
+          "text": "Simple square",
+          "isCorrect": false,
+          "explanation": "The term \"simple square\" typically refers to a two-dimensional arrangement where atoms or points are positioned at the corners of a square. This layout represents the most basic form of a square lattice. In a simple square lattice, each corner of the square contains an atom or a point, forming a regular grid pattern."
+        }
+      ],
+      "explanation": "In a simple cubic lattice, each corner of a cube contains an atom or molecule, totaling eight in all. This arrangement positions these atoms or molecules at the corners of the cube, with no additional atoms inside the cube's body or along its edges. It's the most basic type of cubic lattice and is not commonly found in nature due to its inefficiency in packing atoms.",
+      "explanationImage": null,
+      "hints": [
+        "eight",
+        "corners"
+      ]
+    },
+    {
+      "text": "The value of resistivity for insulator is of the order of _:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10-4 ohm - meter",
+          "isCorrect": false,
+          "explanation": "This value is too low for an insulator and is more typical of semiconductors or conductors."
+        },
+        {
+          "letter": "B",
+          "text": "108 ohm - meter",
+          "isCorrect": true,
+          "explanation": "This is a typical value for the resistivity of an insulator, which effectively prevents the flow of electric current."
+        },
+        {
+          "letter": "C",
+          "text": "106 ohm - meter",
+          "isCorrect": false,
+          "explanation": "This value is lower than typical insulator resistivity and might be more applicable to high-resistance materials, but not insulators."
+        },
+        {
+          "letter": "D",
+          "text": "1010 ohm - meter",
+          "isCorrect": false,
+          "explanation": "While this is a high resistivity value, it is higher than typical for common insulators."
+        }
+      ],
+      "explanation": "Insulators are materials with high resistivity, meaning they strongly oppose the flow of electric current. The order of resistivity for insulators is commonly around 108 ohm-meter, making Option B the correct choice. Option A, with a resistivity of 10-4 ohm-meter, is characteristic of conductive materials. Option C, 106 ohm-meter, is closer to semiconductors or high-resistance materials but not typical insulators. Option D, while close, is higher than the common range for insulators.",
+      "explanationImage": null,
+      "hints": [
+        "value",
+        "resistivity",
+        "insulator"
+      ]
+    },
+    {
+      "text": "The conduction due to charges produced by pair generation is called _ conduction.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Intrinsic",
+          "isCorrect": true,
+          "explanation": "The conduction due to charges produced by pair generation is called intrinsic conduction. Intrinsic conduction occurs in semiconductors when electron-hole pairs are generated due to thermal energy or absorbed photons. When these pairs are created, the free electrons and holes (positive counterparts of electrons) contribute to the conductivity of the semiconductor, allowing the flow of electric current."
+        },
+        {
+          "letter": "B",
+          "text": "Hole",
+          "isCorrect": false,
+          "explanation": "Hole is produced during conduction due to pair generation i.e. intrinsic conduction."
+        },
+        {
+          "letter": "C",
+          "text": "Full",
+          "isCorrect": false,
+          "explanation": "This option is irrelevant. Correct answer is intrinsic conduction."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "As one of the above options is correct, this option is not correct."
+        }
+      ],
+      "explanation": "The conduction due to charges produced by pair generation is called intrinsic conduction. Intrinsic conduction occurs in semiconductors when electron-hole pairs are generated due to thermal energy or absorbed photons. When these pairs are created, the free electrons and holes (positive counterparts of electrons) contribute to the conductivity of the semiconductor, allowing the flow of electric current.",
+      "explanationImage": null,
+      "hints": [
+        "pair",
+        "generation"
+      ]
+    },
+    {
+      "text": "The single crystal of germanium or silicon, formed after adding a trivalent impurity is known as _ substance.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "N-type",
+          "isCorrect": false,
+          "explanation": "We can gain an N-type semiconductor by adding pentavalent impurities such as phosphorus or arsenic. These elements have more electrons in their outer shells than elements like silicon or germanium, and when they're introduced as impurities into these semiconductors, they create an excess of free electrons, thereby giving rise to an N-type semiconductor."
+        },
+        {
+          "letter": "B",
+          "text": "P-type",
+          "isCorrect": true,
+          "explanation": "The P-type semiconductor is obtained by adding trivalent impurity materials such as boron, aluminum, or gallium. These elements have fewer electrons in their outer shells compared to the host semiconductor material like silicon or germanium. When they're introduced as impurities, they create \"holes\" or vacancies in the crystal lattice, leading to a shortage of electrons and generating a P-type semiconductor."
+        },
+        {
+          "letter": "C",
+          "text": "Q-type",
+          "isCorrect": false,
+          "explanation": "This option is irrelevant."
+        },
+        {
+          "letter": "D",
+          "text": "R-type",
+          "isCorrect": false,
+          "explanation": "This option is irrelevant."
+        }
+      ],
+      "explanation": "The P-type semiconductor is obtained by adding trivalent impurity materials such as boron, aluminum, or gallium. These elements have fewer electrons in their outer shells compared to the host semiconductor material like silicon or germanium. When they're introduced as impurities, they create \"holes\" or vacancies in the crystal lattice, leading to a shortage of electrons and generating a P-type semiconductor.",
+      "explanationImage": null,
+      "hints": [
+        "trivalent"
+      ]
+    },
+    {
+      "text": "There are _ main types of rectifiers.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Four",
+          "isCorrect": false,
+          "explanation": "There are two main types of rectifiers: half-wave rectifiers and full-wave rectifiers."
+        },
+        {
+          "letter": "B",
+          "text": "Three",
+          "isCorrect": false,
+          "explanation": "There are two main types of rectifiers: half-wave rectifiers and full-wave rectifiers."
+        },
+        {
+          "letter": "C",
+          "text": "Two",
+          "isCorrect": true,
+          "explanation": "There are two main types of rectifiers: half-wave rectifiers and full-wave rectifiers. These categories differ in how they convert alternating current (AC) to direct current (DC). Half-wave rectifiers only allow one half of the AC waveform to pass, while full-wave rectifiers allow both halves, resulting in a more continuous flow of current in one direction."
+        },
+        {
+          "letter": "D",
+          "text": "Nine",
+          "isCorrect": false,
+          "explanation": "There are two main types of rectifiers: half-wave rectifiers and full-wave rectifiers."
+        }
+      ],
+      "explanation": "There are two main types of rectifiers: half-wave rectifiers and full-wave rectifiers. These categories differ in how they convert alternating current (AC) to direct current (DC). Half-wave rectifiers only allow one half of the AC waveform to pass, while full-wave rectifiers allow both halves, resulting in a more continuous flow of current in one direction.",
+      "explanationImage": null,
+      "hints": [
+        "types",
+        "rectifiers"
+      ]
+    },
+    {
+      "text": "Rectification is the process of converting:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A.C into D.C",
+          "isCorrect": true,
+          "explanation": "Rectification refers to the process of converting alternating current (A.C) into direct current (D.C). A diode is commonly used in rectification circuits to achieve this conversion. When an A.C voltage is applied to a diode, the diode allows current to flow in one direction (during the positive half-cycle of the A.C waveform) while blocking it in the opposite direction (during the negative half-cycle)."
+        },
+        {
+          "letter": "B",
+          "text": "D.C into A.C",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation.It is inversion not rectification."
+        },
+        {
+          "letter": "C",
+          "text": "Both A.C into D.C and D.C into A.C",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as option B is incorrect and both options cannot be correct and basically rectification is conversion of A.C is due to D.C."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "As one of the above options is correct, this option is not correct."
+        }
+      ],
+      "explanation": "Rectification refers to the process of converting alternating current (A.C) into direct current (D.C).A diode is commonly used in rectification circuits to achieve this conversion. When an A.C voltage is applied to a diode, the diode allows current to flow in one direction (during the positive half-cycle of the A.C waveform) while blocking it in the opposite direction (during the negative half-cycle).",
+      "explanationImage": null,
+      "hints": [
+        "Rectification",
+        "process"
+      ]
+    },
+    {
+      "text": "The device used for conversion of A.C into D.C is called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A detector",
+          "isCorrect": false,
+          "explanation": "A detector in electronics refers to a device or circuit that extracts information or a specific signal from a carrier wave or a modulated signal. It's commonly used to separate or recover the original information (such as audio, video, or data) from a modulated carrier wave in communication systems or sensing applications."
+        },
+        {
+          "letter": "B",
+          "text": "An oscillator",
+          "isCorrect": false,
+          "explanation": "An oscillator is an electronic circuit or device that generates an alternating current (AC) signal, typically in the form of a sinusoidal waveform, square wave, or another periodic waveform."
+        },
+        {
+          "letter": "C",
+          "text": "An amplifier",
+          "isCorrect": false,
+          "explanation": "An amplifier is an electronic device or circuit that increases the strength or amplitude of an electrical signal. Its primary function is to take a weak input signal and produce a larger output signal without significantly distorting its waveform."
+        },
+        {
+          "letter": "D",
+          "text": "A rectifier",
+          "isCorrect": true,
+          "explanation": "The device used for the conversion of AC (alternating current) into DC (direct current) is called a rectifier.Rectifiers are electrical devices that utilize semiconductor diodes or other components to convert the alternating flow of current (AC) into a unidirectional flow (DC). They can be implemented as half-wave rectifiers or full-wave rectifiers, depending on the desired output and application. These devices are essential in various electronic circuits and power supply systems to provide DC power from AC sources."
+        }
+      ],
+      "explanation": "The device used for the conversion of AC (alternating current) into DC (direct current) is called a rectifier.Rectifiers are electrical devices that utilize semiconductor diodes or other components to convert the alternating flow of current (AC) into a unidirectional flow (DC). They can be implemented as half-wave rectifiers or full-wave rectifiers, depending on the desired output and application. These devices are essential in various electronic circuits and power supply systems to provide DC power from AC sources.",
+      "explanationImage": null,
+      "hints": [
+        "device"
+      ]
+    },
+    {
+      "text": "The number of diodes in the bridge rectifier is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "isCorrect": true,
+          "explanation": "Bridge rectifiers use four diodes that are arranged cleverly to convert the AC supply voltage to a DC supply voltage. Hence the correct option is A."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "Bridge rectifiers use four diodes that are arranged cleverly to convert the AC supply voltage to a DC supply voltage."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "Bridge rectifiers use four diodes that are arranged cleverly to convert the AC supply voltage to a DC supply voltage."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "Bridge rectifiers use four diodes that are arranged cleverly to convert the AC supply voltage to a DC supply voltage."
+        }
+      ],
+      "explanation": "Bridge rectifiers use four diodes that are arranged cleverly to convert the AC supply voltage to a DC supply voltage. Hence the correct option is A.",
+      "explanationImage": null,
+      "hints": [
+        "number of diodes",
+        "bridge rectifier"
+      ]
+    },
+    {
+      "text": "A circuit that adds positive or negative D.C. voltage to an input sine wave is called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Clamper",
+          "isCorrect": true,
+          "explanation": "A clamper is a circuit that adds DC voltage to an input waveform without affecting its shape. The purpose of a clamper is to shift an entire waveform by a fixed amount. It compliments the given statement, hence, is the correct option."
+        },
+        {
+          "letter": "B",
+          "text": "Clipper",
+          "isCorrect": false,
+          "explanation": "A clipper circuit is used to cut off or 'clip' parts of a waveform that exceed a certain level, but it does not add a DC voltage to the waveform. Therefore, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Diode clamp",
+          "isCorrect": false,
+          "explanation": "A diode clamp is typically used to set a voltage reference, but it does not add a DC voltage to the entire waveform. Hence, this option does not fit the description."
+        },
+        {
+          "letter": "D",
+          "text": "Limiter",
+          "isCorrect": false,
+          "explanation": "A limiter restricts the amplitude of a waveform to prevent it from exceeding certain levels. It does not add DC voltage to the waveform, making this option incorrect."
+        }
+      ],
+      "explanation": "The correct answer is 'Clamper'. A clamper circuit shifts the entire waveform up or down by adding a DC voltage level. This shift is done without altering the shape of the waveform, which is exactly what is described in the question. Other options like 'Clipper' and 'Limiter' do not add DC voltage but rather modify the waveform's amplitude limits. 'Diode clamp' refers to a specific function that doesn't align with the operation described.",
+      "explanationImage": null,
+      "hints": [
+        "circuit",
+        "adds",
+        "DC voltage"
+      ]
+    },
+    {
+      "text": "In the case of germanium, the value of potential barrier develops across the depletion region is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0v",
+          "isCorrect": false,
+          "explanation": "0.3 V for Germanium and 0.7 V for silicon."
+        },
+        {
+          "letter": "B",
+          "text": "0.3V",
+          "isCorrect": true,
+          "explanation": "0.3 V for Germanium and 0.7 V for silicon."
+        },
+        {
+          "letter": "C",
+          "text": "0.7V",
+          "isCorrect": false,
+          "explanation": "0.3 V for Germanium and 0.7 V for silicon."
+        },
+        {
+          "letter": "D",
+          "text": "0.9V",
+          "isCorrect": false,
+          "explanation": "0.3 V for Germanium and 0.7 V for silicon."
+        }
+      ],
+      "explanation": "0.3 V for Germanium and 0.7 V for silicon.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is false?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": 2017,
+      "options": [
+        {
+          "letter": "A",
+          "text": "In P-type substance majority charge carriers are holes",
+          "isCorrect": false,
+          "explanation": "A P-N junction is an interface or a boundary between two semiconductor material types, namely the p-type and the n-type, inside a semiconductor. In a semiconductor, the P-N junction is created by the method of doping. The p-side or the positive side of the semiconductor has an excess of holes as charge carriers, and the n-side, or the negative side has an excess of electrons as charge carriers."
+        },
+        {
+          "letter": "B",
+          "text": "During forward biasing of a divide width of depletion region decreases",
+          "isCorrect": false,
+          "explanation": "When the p-type is connected to the battery’s positive terminal and the n-type to the negative terminal, then the P-N junction is said to be forward-biased. When the P-N junction is forward biased, the built-in electric field at the P-N junction and the applied electric field are in opposite directions. When both the electric fields add up, the resultant electric field has a magnitude lesser than the built-in electric field. This results in a less resistive and thinner depletion region. The depletion region’s resistance becomes negligible when the applied voltage is large. In silicon, at the voltage of 0.6 V, the resistance of the depletion region becomes completely negligible, and the current flows across it unimpeded."
+        },
+        {
+          "letter": "C",
+          "text": "Leakage current flows to minority charge carriers",
+          "isCorrect": false,
+          "explanation": "When the P-N junction diode is in negative bias condition, the p-type is connected to the negative terminal while the n-type is connected to the positive terminal of the external voltage. This results in an increase in the potential barrier. Reverse saturation current flows in the beginning as minority carriers are present in the junction. When the applied voltage is increased, the minority charges will have increased kinetic energy which affects the majority charges. This is the stage when the diode breaks down. This may also destroy the diode."
+        },
+        {
+          "letter": "D",
+          "text": "None of the given options",
+          "isCorrect": true,
+          "explanation": "All the given options are true hence, none of them is false."
+        }
+      ],
+      "explanation": "All the options are true",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "When the P-type of the PN-junction is connected with the negative terminal and the N-type with the positive terminal of the battery, the width of the depletion region:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decreases",
+          "isCorrect": false,
+          "explanation": "When the P-type is connected to the negative and the N-type is connected to the positive, the diode is reverse-biased, and the width of the depletion region increases."
+        },
+        {
+          "letter": "B",
+          "text": "Increases",
+          "isCorrect": true,
+          "explanation": "When the P-type is connected to the negative and the N-type is connected to the positive, the diode is reverse-biased, and the width of the depletion region increases."
+        },
+        {
+          "letter": "C",
+          "text": "Diode is forward biased, the width of the depletion region increases",
+          "isCorrect": false,
+          "explanation": "When the P-type is connected to the negative and the N-type is connected to the positive, the diode is reverse-biased, and the width of the depletion region increases."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "As option B is correct so this option is wrong."
+        }
+      ],
+      "explanation": "When the P-type is connected to the negative and the N-type is connected to the positive, the diode is reverse-biased, and the width of the depletion region increases.",
+      "explanationImage": null,
+      "hints": [
+        "PN-junction",
+        "depletion region"
+      ]
+    },
+    {
+      "text": "LEDs are used in _ calculators.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electronic",
+          "isCorrect": true,
+          "explanation": "Electronic calculators typically use various electronic components, including integrated circuits (ICs), transistors, resistors, capacitors, and sometimes LEDs or LCDs for the display. These calculators perform mathematical operations electronically, utilizing the components to process and display numerical information accurately and quickly. The electronic components work together to perform calculations, store data temporarily, and display the results on the screen."
+        },
+        {
+          "letter": "B",
+          "text": "Digital",
+          "isCorrect": false,
+          "explanation": "This option is irrelevant."
+        },
+        {
+          "letter": "C",
+          "text": "Lamp",
+          "isCorrect": false,
+          "explanation": "This option is irrelevant."
+        },
+        {
+          "letter": "D",
+          "text": "Panel",
+          "isCorrect": false,
+          "explanation": "These calculators use solar energy for their working."
+        }
+      ],
+      "explanation": "Electronic calculators typically use various electronic components, including integrated circuits (ICs), transistors, resistors, capacitors, and sometimes LEDs or LCDs for the display. These calculators perform mathematical operations electronically, utilizing the components to process and display numerical information accurately and quickly. The electronic components work together to perform calculations, store data temporarily, and display the results on the screen.",
+      "explanationImage": null,
+      "hints": [
+        "LEDs",
+        "calculators"
+      ]
+    },
+    {
+      "text": "A photo voltaic cell converts light energy into _ energy",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electrical",
+          "isCorrect": true,
+          "explanation": "A photovoltaic cell converts light energy into electrical energy. When light photons strike the semiconductor material within the photovoltaic cell, they excite electrons, creating a flow of electric current, thus converting the absorbed light energy into usable electrical energy."
+        },
+        {
+          "letter": "B",
+          "text": "Simple",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation."
+        },
+        {
+          "letter": "C",
+          "text": "Metal",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation."
+        },
+        {
+          "letter": "D",
+          "text": "Diode",
+          "isCorrect": false,
+          "explanation": "This option is irrelevant."
+        }
+      ],
+      "explanation": "A photovoltaic cell converts light energy into electrical energy. When light photons strike the semiconductor material within the photovoltaic cell, they excite electrons, creating a flow of electric current, thus converting the absorbed light energy into usable electrical energy.",
+      "explanationImage": null,
+      "hints": [
+        "photo",
+        "voltaic"
+      ]
+    },
+    {
+      "text": "The depletion layer in the p-n junction region is caused by:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diffusion of carriers",
+          "isCorrect": true,
+          "explanation": "Just after the formation of junction. The free electrons from the n-region diffused into the p-region and holes from p-region diffused into the n-region. As a result of this diffusion, charge less region formed around the junction in which charge carrier are not present. The formation of junction is mainly due to the diffusion of charges."
+        },
+        {
+          "letter": "B",
+          "text": "Drift of electrons",
+          "isCorrect": false,
+          "explanation": "It is incorrect because drift of electrons does not occur in this case."
+        },
+        {
+          "letter": "C",
+          "text": "Drift of holes",
+          "isCorrect": false,
+          "explanation": "It is incorrect because drifting of holes does not occur in this case."
+        },
+        {
+          "letter": "D",
+          "text": "Migration of impurity ions",
+          "isCorrect": false,
+          "explanation": "It is incorrect because migration of impurity ions does not occur in this case."
+        }
+      ],
+      "explanation": "Just after the formation of junction. The free electrons from the n-region diffused into the p-region and holes from p-region diffused into the n-region. As a result of this diffusion, charge less region formed around the junction in which charge carrier are not present. The formation of junction is mainly due to the diffusion of charges.",
+      "explanationImage": null,
+      "hints": [
+        "p-n junction",
+        "depletion layer"
+      ]
+    },
+    {
+      "text": "Electrons in a P-type substance due to thermal pair-generation are known as_.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Majority carriers",
+          "isCorrect": false,
+          "explanation": "In a P-type semiconductor, holes are considered the majority carriers. Majority carriers are the dominant charge carriers in a semiconductor material, meaning they are the most prevalent type of mobile charge carriers in that material. In P-type semiconductors, where holes are the primary carriers, they outnumber the electrons, which are the minority carriers in this context."
+        },
+        {
+          "letter": "B",
+          "text": "Minority carriers",
+          "isCorrect": true,
+          "explanation": "In a P-type semiconductor, the electrons generated due to thermal pair-generation are considered minority carriers. These carriers are present in smaller numbers compared to the dominant carriers (holes) and play a crucial role in the conductivity of the semiconductor, even though they are not the majority charge carriers in this type of material."
+        },
+        {
+          "letter": "C",
+          "text": "P-type",
+          "isCorrect": false,
+          "explanation": "This option is irrelevant. Option B is correct."
+        },
+        {
+          "letter": "D",
+          "text": "N-type",
+          "isCorrect": false,
+          "explanation": "This option is irrelevant. Option B is correct."
+        }
+      ],
+      "explanation": "In a P-type semiconductor, the electrons generated due to thermal pair-generation are considered minority carriers. These carriers are present in smaller numbers compared to the dominant carriers (holes) and play a crucial role in the conductivity of the semiconductor, even though they are not the majority charge carriers in this type of material.",
+      "explanationImage": null,
+      "hints": [
+        "Electrons",
+        "P-type substance"
+      ]
+    },
+    {
+      "text": "At 0K, a semi-conductor acts like _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "P-type",
+          "isCorrect": false,
+          "explanation": "P-type is a type of semiconductor."
+        },
+        {
+          "letter": "B",
+          "text": "Minority carriers",
+          "isCorrect": false,
+          "explanation": "Minority carriers are present within a semiconductor diode. They do not act like them."
+        },
+        {
+          "letter": "C",
+          "text": "Insulator",
+          "isCorrect": true,
+          "explanation": "At absolute zero temperature (0 Kelvin or -273.15 degrees Celsius), a semiconductor tends to act more like an insulator. At this extremely low temperature, the electrons are tightly bound to their atoms, minimizing their ability to move and conduct electricity, resembling the behavior of an insulator with very low conductivity."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "As one of the above options is correct, this option is not correct."
+        }
+      ],
+      "explanation": "At absolute zero temperature (0 Kelvin or -273.15 degrees Celsius), a semiconductor tends to act more like an insulator. At this extremely low temperature, the electrons are tightly bound to their atoms, minimizing their ability to move and conduct electricity, resembling the behavior of an insulator with very low conductivity.",
+      "explanationImage": null,
+      "hints": [
+        "semi",
+        "conductor"
+      ]
+    },
+    {
+      "text": "In full wave rectifier, diodes are used:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Two",
+          "isCorrect": true,
+          "explanation": "In a full-wave rectifier, either two diodes or four diodes can be used depending on the specific configuration. A center-tapped full-wave rectifier uses two diodes and a center-tapped transformer. On the other hand, a bridge rectifier configuration uses four diodes arranged in a bridge circuit."
+        },
+        {
+          "letter": "B",
+          "text": "One",
+          "isCorrect": false,
+          "explanation": "In a full-wave rectifier, either two diodes or four diodes are used."
+        },
+        {
+          "letter": "C",
+          "text": "Three",
+          "isCorrect": false,
+          "explanation": "In a full-wave rectifier, either two diodes or four diodes are used."
+        },
+        {
+          "letter": "D",
+          "text": "Five",
+          "isCorrect": false,
+          "explanation": "In a full-wave rectifier, either two diodes or four diodes are used."
+        }
+      ],
+      "explanation": "In a full-wave rectifier, either two diodes or four diodes can be used depending on the specific configuration. A center-tapped full-wave rectifier uses two diodes and a center-tapped transformer. On the other hand, a bridge rectifier configuration uses four diodes arranged in a bridge circuit. Both setups achieve full-wave rectification, but they utilize different numbers of diodes in their designs.",
+      "explanationImage": null,
+      "hints": [
+        "full wave rectifier",
+        "diodes"
+      ]
+    },
+    {
+      "text": "LEDs are used in _ watches.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hand",
+          "isCorrect": false,
+          "explanation": "There is no need of LEDs in hand watches."
+        },
+        {
+          "letter": "B",
+          "text": "Digital",
+          "isCorrect": true,
+          "explanation": "LEDs (Light-Emitting Diodes) are commonly used in digital watches. They provide the display illumination and are known for their low power consumption, durability, and ability to produce various colors, making them suitable for displaying the time and other information in digital watches."
+        },
+        {
+          "letter": "C",
+          "text": "Simple",
+          "isCorrect": false,
+          "explanation": "There is no need of LEDs in simple watches."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "As one of the above options is correct, this option is not correct."
+        }
+      ],
+      "explanation": "LEDs (Light-Emitting Diodes) are commonly used in digital watches. They provide the display illumination and are known for their low power consumption, durability, and ability to produce various colors, making them suitable for displaying the time and other information in digital watches.",
+      "explanationImage": null,
+      "hints": [
+        "LEDs",
+        "watches"
+      ]
+    },
+    {
+      "text": "Transistor is a semi-conductor device which can amplify both the current as well as _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ampere",
+          "isCorrect": false,
+          "explanation": "It is the unit of current."
+        },
+        {
+          "letter": "B",
+          "text": "Transistor",
+          "isCorrect": false,
+          "explanation": "Transistor cannot amplify another transistor."
+        },
+        {
+          "letter": "C",
+          "text": "Voltage",
+          "isCorrect": true,
+          "explanation": "A transistor is a semiconductor device that can amplify both current and voltage. It's a fundamental component in electronics used for signal amplification, switching, and voltage regulation. In amplification, transistors can increase the strength of a weak electrical signal, either in terms of current or voltage, allowing for effective amplification of audio, radio frequency, or other electronic signals"
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "As one of the above options is correct, this option is not correct."
+        }
+      ],
+      "explanation": "A transistor is a semiconductor device that can amplify both current and voltage. It's a fundamental component in electronics used for signal amplification, switching, and voltage regulation. In amplification, transistors can increase the strength of a weak electrical signal, either in terms of current or voltage, allowing for effective amplification of audio, radio frequency, or other electronic signals.",
+      "explanationImage": null,
+      "hints": [
+        "Transistor",
+        "amplify"
+      ]
+    },
+    {
+      "text": "Each sentence below has a blank indicating that something has been omitted. Choose the word that best fits in with the meaning of the sentence as a whole.The provost was utterly _ about having the students keep their books tidily in their lockers, yet her desk was very _.",
+      "image": null,
+      "subject": "English",
+      "topic": "Combination Mistake",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Apathetic ...comfortable",
+          "isCorrect": false,
+          "explanation": "\"Apathetic\" means showing or feeling no interest, enthusiasm, or concern. This doesn't fit because someone who is apathetic wouldn't care about tidiness. \"Comfortable\" describes a state of physical ease, which doesn't contrast well with the concern about tidiness."
+        },
+        {
+          "letter": "B",
+          "text": "Bewildered ... bizarre",
+          "isCorrect": false,
+          "explanation": "\"Bewildered\" means confused or perplexed. This doesn't fit the context of being strict about tidiness. \"Bizarre\" means very strange or unusual, which doesn't logically describe a desk in this context."
+        },
+        {
+          "letter": "C",
+          "text": "Determined ...disorderly",
+          "isCorrect": true,
+          "explanation": "\"Determined\" means having made a firm decision and being resolved not to change it, which fits the idea of being strict about tidiness. \"Disorderly\" means untidy or disorganized, which contrasts well with the provost's insistence on tidiness."
+        },
+        {
+          "letter": "D",
+          "text": "Considerate...modern",
+          "isCorrect": false,
+          "explanation": "\"Considerate\" means showing careful thought or concern for others. While it can describe someone caring about tidiness, it doesn't capture the firmness implied by \"utterly.\" \"Modern\" means relating to the present or recent times, which doesn't contrast with tidiness."
+        }
+      ],
+      "explanation": "The first step is to examine the first word of each choice. We eliminate Choice B, bewildered, and Choice D, considerate, because the first part of the sentence makes no sense with these choices. Now we go to the remaining choices. Choice A does not make sense in the sentence and is therefore incorrect. Choice C does make sense in the sentence.",
+      "explanationImage": null,
+      "hints": [
+        "yet"
+      ]
+    },
+    {
+      "text": "Choose the correct one.",
+      "image": null,
+      "subject": "English",
+      "topic": "Article",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "At twenty-eight, he won prize of the tragedy competition, on his first entry.",
+          "isCorrect": false,
+          "explanation": "\"prize of the tragedy competition\" should be \"the prize of the tragedy competition\"."
+        },
+        {
+          "letter": "B",
+          "text": "At twenty-eight, he won the prize of the tragedy competition, with his first entry.",
+          "isCorrect": true,
+          "explanation": "The correct answer is B. At twenty-eight, he won the prize of the tragedy competition, with his first entry. The sentence is describing a person's achievement in a competition, and the correct phrase is \"with his first entry\" to indicate that it was his first time entering the competition and he won."
+        },
+        {
+          "letter": "C",
+          "text": "At twenty-eight, he won the prize of the tragedy competition, with his the first entry.",
+          "isCorrect": false,
+          "explanation": "The definite article \"the\" before \"first entry\" is unnecessary."
+        },
+        {
+          "letter": "D",
+          "text": "At twenty-eight, he won the prize of the tragedy competiton over his first entry.",
+          "isCorrect": false,
+          "explanation": "\"over his first entry\" is incorrect, as \"with\" is the correct preposition to use in this context."
+        }
+      ],
+      "explanation": "The correct answer is B. At twenty-eight, he won the prize of the tragedy competition, with his first entry. The sentence is describing a person's achievement in a competition, and the correct phrase is \"with his first entry\" to indicate that it was his first time entering the competition and he won.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Each sentence below has a blank indicating that something has been omitted. Choose the word that best fits in with the meaning of the sentence as a whole.The _ in the Bible are equally erudite and educational.",
+      "image": null,
+      "subject": "English",
+      "topic": "Combination Mistake",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Syllables",
+          "isCorrect": false,
+          "explanation": "\"Syllables\" are units of pronunciation, which doesn't make sense in this context. Syllables themselves cannot be described as erudite or educational."
+        },
+        {
+          "letter": "B",
+          "text": "Helpfulness",
+          "isCorrect": false,
+          "explanation": "\"Helpfulness\" is a quality or state of being helpful. While parts of the Bible can be helpful, \"helpfulness\" doesn't fit the grammatical structure of the sentence or the context."
+        },
+        {
+          "letter": "C",
+          "text": "Achievements",
+          "isCorrect": false,
+          "explanation": "\"Achievements\" refers to things accomplished or attained, which doesn't fit well in the context of the Bible being described as erudite and educational."
+        },
+        {
+          "letter": "D",
+          "text": "Parables",
+          "isCorrect": true,
+          "explanation": "\"Parables\" are simple stories used to illustrate moral or spiritual lessons, which are commonly found in the Bible. Parables being described as erudite and educational fits well with the meaning of the sentence."
+        }
+      ],
+      "explanation": "Parables are stories or fables that illustrate a moral or ethical point while relating a simple incident. Hence this option is correct.",
+      "explanationImage": null,
+      "hints": [
+        "Bible"
+      ]
+    },
+    {
+      "text": "Choose the correct one.",
+      "image": null,
+      "subject": "English",
+      "topic": "Article",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Silverdale train station can be reached by going the left at this road junction.",
+          "isCorrect": false,
+          "explanation": "The phrase \"going the left\" is incorrect. It should be \"going left\" without the article \"the.\""
+        },
+        {
+          "letter": "B",
+          "text": "The Silverdale train station can be reached by going left at this road junction.",
+          "isCorrect": false,
+          "explanation": "Using \"The\" before \"Silverdale train station\" is not necessary unless it is part of the station's official name. Typically, \"Silverdale train station\" would not need \"The\" unless there is a specific reason or context requiring it."
+        },
+        {
+          "letter": "C",
+          "text": "Silverdale train station can be reached by going left at this road junction.",
+          "isCorrect": true,
+          "explanation": "The phrase “can be reached by going left” properly shows direction and means the station is accessible by turning left at that junction."
+        },
+        {
+          "letter": "D",
+          "text": "Silverdale train station can be reached by going to left at this road junction.",
+          "isCorrect": false,
+          "explanation": "The phrase \"going to left\" is incorrect. It should be \"going left\" without the preposition \"to.\""
+        }
+      ],
+      "explanation": "It’s correct — the phrase “can be reached by going left” properly shows direction and means the station is accessible by turning left at that junction.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Find the error in following sentence of punctuationIn each question in the following, four alternative sentences are given. Choose the CORRECT one and fill the circle corresponding to that letter in the answer sheet.",
+      "image": null,
+      "subject": "English",
+      "topic": "Punctuations",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Our clergyman, who united the entire congregation, was liberal minded.",
+          "isCorrect": true,
+          "explanation": "This option is correct. It uses commas appropriately to set off the non essential relative clause \"who united the entire congregation.\" The phrase \"liberal minded\" is correctly written as two separate words without a hyphen because it follows the noun \"clergyman\" and is not functioning as a compound adjective.Correct Answer: A) Our clergyman, who united the entire congregation, was liberal minded.Option A is the correct choice. It uses commas appropriately to set off the non essential relative clause and correctly writes \"liberal minded\" as two separate words, which is appropriate in this context."
+        },
+        {
+          "letter": "B",
+          "text": "Our clergyman who united the entire congregation was liberal minded.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It lacks commas around the relative clause \"who united the entire congregation.\" Without commas, the clause appears essential to identifying which clergyman is being referred to, rather than providing additional, non essential information."
+        },
+        {
+          "letter": "C",
+          "text": "Our clergyman who united the entire congregation, was liberal minded.",
+          "isCorrect": false,
+          "explanation": "It does not have a comma after clergyman. Therefore, it is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Our clergyman, who united the entire congregation, was liberal minded.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It uses a hyphen incorrectly in \"liberal minded.\" Since \"liberal minded\" is not functioning as a compound adjective directly before a noun here, it should not be hyphenated. The correct form would be \"liberal minded.\""
+        }
+      ],
+      "explanation": "It uses commas appropriately to set off the non essential relative clause \"who united the entire congregation.\" The phrase \"liberal minded\" is correctly written as two separate words without a hyphen because it follows the noun \"clergyman\" and is not functioning as a compound adjective .Correct Answer: A) Our clergyman, who united the entire congregation, was liberal minded. Option A is the correct choice. It uses commas appropriately to set off the non essential relative clause and correctly writes \"liberal minded\" as two separate words, which is appropriate in this context.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Passage: There is a group of five students A, B, C, D and E from KIPS college. B and E are good in Dramatics and Computer Science. A and B are good in Computer Science and Physics. A, C and D are good in Physics and History. A and C are good in Physics and Mathematics. D and E are good in History and Dramatics. Who is good in Physics, History and Dramatics?",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": "A is good in Computer Science, Physics, History, and Mathematics, but not in Dramatics."
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": "B is good in Dramatics, Computer Science, and Physics, but not in History."
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": "C is good in Physics and History, but not Dramatics."
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": true,
+          "explanation": "D is good in Physics, History, and Dramatics, which matches all the required subjects."
+        }
+      ],
+      "explanation": "We need to find the student who is listed in all three subject groups. D is listed as being good at \"Physics and History\" and also at \"History and Dramatics.\" Combining these, D is good at Physics, History, and Dramatics.",
+      "explanationImage": null,
+      "hints": [
+        "Physics",
+        "History",
+        "Dramatics"
+      ]
+    },
+    {
+      "text": "Statement: Despite the Principal's repeated warnings, a child was caught secretly exploding crackers in the school. Courses of action:I. All the crackers should be taken away from the child and he should be threatened not to do it again.II. The child should be severely punished for his wrong act.",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "If only I is most appropriate",
+          "isCorrect": false,
+          "explanation": "Too mild. The child ignored repeated warnings, so just taking crackers and threatening is not enough."
+        },
+        {
+          "letter": "B",
+          "text": "If only II is most appropriate",
+          "isCorrect": true,
+          "explanation": "Correct. The act was dangerous and intentional, so strict punishment is needed."
+        },
+        {
+          "letter": "C",
+          "text": "If either I or II is most appropriate",
+          "isCorrect": false,
+          "explanation": "Wrong. Only one strong action (II) fits the situation, not both."
+        },
+        {
+          "letter": "D",
+          "text": "If neither I nor II is most appropriate",
+          "isCorrect": false,
+          "explanation": "Wrong. Some disciplinary action is clearly required."
+        }
+      ],
+      "explanation": "The child has already ignored \"repeated warnings,\" so another threat (Action I) is unlikely to be effective. The situation has escalated to a point where a more significant disciplinary action (punishment) is required to address the deliberate and repeated defiance of safety rules.",
+      "explanationImage": null,
+      "hints": [
+        "Principal's repeated warnings",
+        "exploding crackers",
+        "severely punished"
+      ]
+    },
+    {
+      "text": "In this question, a statement is given followed by two courses of action numbered I and II. It is required to grasp the statement, analyze the problem or policy it mentions and then decide which of the courses of action logically follow / most appropriate.Statement:A large number of people in ward X of the city are diagnosed to be suffering from a fatal malaria type.Courses of action:I) The city municipal authority should take immediate steps .to carry out extensive fumigation in ward X.II) The people in the area should be advised to take steps to avoid mosquito bites.",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "If only I is most appropriate",
+          "isCorrect": false,
+          "explanation": "This is not correct as per explanation."
+        },
+        {
+          "letter": "B",
+          "text": "If only II is most appropriate",
+          "isCorrect": false,
+          "explanation": "This is not correct as per explanation."
+        },
+        {
+          "letter": "C",
+          "text": "If either I or II is most appropriate",
+          "isCorrect": false,
+          "explanation": "This is not correct as per explanation."
+        },
+        {
+          "letter": "D",
+          "text": "If neither I nor II is most appropriate",
+          "isCorrect": false,
+          "explanation": "This is not correct as per explanation."
+        },
+        {
+          "letter": "E",
+          "text": "If both I and II are most appropriate",
+          "isCorrect": true,
+          "explanation": "Courses of action:I) The city municipal authority should take immediate steps to carry out extensive fumigation in ward X.Highly appropriate.Fumigation kills mosquitoes, directly attacking the cause of malaria.II) The people in the area should be advised to take steps to avoid mosquito bites.Also appropriate.Preventive measures like using mosquito nets, repellents, covering the body are important to protect individuals."
+        }
+      ],
+      "explanation": "The explanation for this question will be added soon!",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which number should come in the place of \"?\".",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "7",
+          "isCorrect": true,
+          "explanation": "Each number in the sequence is derived by subtracting 2 from the previous number: 9 - 2 = 7."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "isCorrect": false,
+          "explanation": "8 is not correct because it does not fit the pattern of subtracting 2 from the previous number."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "isCorrect": false,
+          "explanation": "9 is incorrect because it is not the next logical number according to the established pattern."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": "6 is not the correct choice as it results from subtracting 2 from 8, not from 9."
+        }
+      ],
+      "explanation": "Each number in the sequence is derived by subtracting 2 from the previous number: 9 - 2 = 7.",
+      "explanationImage": null,
+      "hints": [
+        "sequence",
+        "pattern",
+        "subtract"
+      ]
+    },
+    {
+      "text": "Statement: Certain mining industries in Gilgit may come to a standstill because of a notification banning mining operations within 25 km of National Parks. Courses of action:I. The Department should be asked to immediately withdraw the notification.II. The government should make an effort to shift the parks and sanctuaries to other non-mining areas.",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "If only I is most appropriate",
+          "isCorrect": false,
+          "explanation": "Withdrawing the notification would harm environmental protection and defeat the purpose of safeguarding national parks."
+        },
+        {
+          "letter": "B",
+          "text": "If only II is most appropriate",
+          "isCorrect": false,
+          "explanation": "Shifting parks and sanctuaries is impractical and environmentally unsound."
+        },
+        {
+          "letter": "C",
+          "text": "If either I or II is most appropriate",
+          "isCorrect": false,
+          "explanation": "Both actions are inappropriate and unrealistic, so this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "If neither I nor II is most appropriate",
+          "isCorrect": true,
+          "explanation": "Environmental protection must be maintained, and neither withdrawing the ban nor shifting parks is a suitable solution."
+        }
+      ],
+      "explanation": "Withdrawing a notification designed to protect the environment (Action I) is an irresponsible solution. Shifting entire national parks and ecosystems (Action II) is practically impossible and illogical. Neither course of action is a viable solution to the problem.",
+      "explanationImage": null,
+      "hints": []
+    }
+  ]
+}

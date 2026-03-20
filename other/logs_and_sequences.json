@@ -1,0 +1,1961 @@
+{
+  "questions": [
+    {
+      "text": "Which of the following equals 1?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "log₅(5)",
+          "isCorrect": true,
+          "explanation": "This is correct because of the property logb(b) = 1, where the logarithm's base and its argument are the same."
+        },
+        {
+          "letter": "B",
+          "text": "log₁₀(1)",
+          "isCorrect": false,
+          "explanation": "This is incorrect because logb(1) = 0 for any base b, as the logarithm of 1 is always 0."
+        },
+        {
+          "letter": "C",
+          "text": "log₅(25)",
+          "isCorrect": false,
+          "explanation": "This is incorrect because log5(25) = 2. Here, 25 is 5 squared, so it's log5(5²) = 2."
+        },
+        {
+          "letter": "D",
+          "text": "log₅(1/5)",
+          "isCorrect": false,
+          "explanation": "This is incorrect because log5(1/5) = -1. The value 1/5 is the same as 5 to the power of -1, i.e., log5(5-1) = -1."
+        }
+      ],
+      "explanation": "The correct answer is Option A: log₅(5). This follows from the fundamental property of logarithms which states that if the base and the argument are the same, the logarithm equals 1 (logb(b) = 1). Option B is incorrect because the logarithm of 1 in any base is always 0, i.e., log10(1) = 0. Option C is incorrect since log5(25) = 2, as 25 can be expressed as 5 squared (5²). Finally, Option D is incorrect because log5(1/5) = -1, as 1/5 can be rewritten as 5 to the power of -1 (5-1).",
+      "explanationImage": null,
+      "hints": [
+        "equals",
+        "1"
+      ]
+    },
+    {
+      "text": "If logₐ(b) = 3, then what is logₐ(b²)?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "isCorrect": true,
+          "explanation": "Correct! By using the power rule for logarithms, logₐ(b²) is 2 * logₐ(b). Since logₐ(b) = 3, it becomes 2 * 3 = 6."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "Incorrect. This answer ignores the power rule, which requires multiplying logₐ(b) by the exponent 2."
+        },
+        {
+          "letter": "C",
+          "text": "9",
+          "isCorrect": false,
+          "explanation": "Incorrect. This confuses the multiplication rule of exponents with the power rule of logarithms; it should be 2 * logₐ(b), not 3²."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "Incorrect. This option does not consider the value of logₐ(b) = 3 and fails to apply the power rule correctly."
+        }
+      ],
+      "explanation": "The power rule of logarithms states that logₐ(b^n) = n * logₐ(b). Here, with n = 2, logₐ(b²) becomes 2 * logₐ(b). Given logₐ(b) = 3, substituting gives 2 * 3 = 6. Thus, the correct answer is 6. Other options are incorrect as they either neglect the power rule or misapply it, leading to incorrect results.",
+      "explanationImage": null,
+      "hints": [
+        "logₐ(b)",
+        "b²"
+      ]
+    },
+    {
+      "text": "What is the value of log₅(1/125)?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because 5 raised to the power of -2 equals 1/25, not 1/125."
+        },
+        {
+          "letter": "B",
+          "text": "-3",
+          "isCorrect": true,
+          "explanation": "This is correct because 5 raised to the power of -3 equals 1/125, which matches the given expression."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it implies that 5³ equals 1/125, but in reality, 5³ equals 125."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it suggests that 5 raised to the power of 5 equals 1/125, whereas 5⁵ actually equals 3125."
+        }
+      ],
+      "explanation": "The question asks for log₅(1/125), which means we need to determine the exponent that makes 5 raised to that power equal 1/125. Knowing that 125 is 5³, we understand that 1/125 can be expressed as 5-3. Therefore, log₅(1/125) = -3.Option A (-2) is incorrect because 5-2 equals 1/25, not 1/125. Option C (3) is incorrect because 5³ equals 125, not 1/125. Option D (5) is incorrect because 5⁵ equals 3125, not 1/125.",
+      "explanationImage": null,
+      "hints": [
+        "log₅",
+        "1/125"
+      ]
+    },
+    {
+      "text": "If (300)(400)= 12 x (10)^nThen n=?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "isCorrect": false,
+          "explanation": "This value is too high. When dividing 120,000 by 12, the power of 10 obtained is less than this."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "This value is too low. Dividing 120,000 by 12 results in a higher power of 10."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "isCorrect": true,
+          "explanation": "Correct. Dividing 120,000 by 12 gives 10,000, which is equal to 104."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "isCorrect": false,
+          "explanation": "This value is too high. The division of 120,000 by 12 results in a lower power of 10."
+        }
+      ],
+      "explanation": "To solve the equation (300)(400) = 12 x 10n, first calculate the left side: 300 x 400 = 120,000. This can be expressed as 1.2 x 105. Now, divide 120,000 by 12 to isolate 10n on the right side: 120,000 / 12 = 10,000. Recognize that 10,000 is 10 raised to the power of 4, i.e., 104. Thus, n = 4. Other options are incorrect because they do not match the power of 10 resulting from the division.",
+      "explanationImage": null,
+      "hints": [
+        "300",
+        "400",
+        "10^n"
+      ]
+    },
+    {
+      "text": "Log10 1000 = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.3",
+          "isCorrect": false,
+          "explanation": "0.3 is incorrect because if log10 1000 were 0.3, then 10^0.3 would equal 1000, but 10^0.3 is approximately 2."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": true,
+          "explanation": "3 is correct because 10^3 equals 1000, confirming that log10 1000 = 3."
+        },
+        {
+          "letter": "C",
+          "text": "1/3",
+          "isCorrect": false,
+          "explanation": "1/3 is incorrect because if log10 1000 were 1/3, then 10^(1/3) would equal 1000, but 10^(1/3) is approximately 2.15."
+        },
+        {
+          "letter": "D",
+          "text": "3.3",
+          "isCorrect": false,
+          "explanation": "3.3 is incorrect because if log10 1000 were 3.3, then 10^3.3 would equal 1000, but 10^3.3 is approximately 1995.26."
+        }
+      ],
+      "explanation": "The definition of a logarithm states that if loga b = x, then a^x = b. In this question, log10 1000 = x means that 10^x = 1000. Since 1000 can be rewritten as 10^3, it follows that x must be 3, making Option B the correct answer. The other options are incorrect: 10^0.3 is approximately 2, not 1000; 10^(1/3) is approximately 2.15, not 1000; and 10^3.3 is approximately 1995.26, not 1000.",
+      "explanationImage": null,
+      "hints": [
+        "Log<sub>10</sub>",
+        "1000",
+        "="
+      ]
+    },
+    {
+      "text": "log₁₀(5²) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "isCorrect": false,
+          "explanation": "This option incorrectly assumes that taking the logarithm results directly in the base 10, ignoring the role of the exponent."
+        },
+        {
+          "letter": "B",
+          "text": "2 log₁₀(5)",
+          "isCorrect": true,
+          "explanation": "This is the correct answer because the power rule of logarithms allows us to move the exponent as a multiplier: log₁₀(5²) = 2 * log₁₀(5)."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "This option treats the logarithm as if it's a simple arithmetic operation, failing to apply the logarithmic identity correctly."
+        },
+        {
+          "letter": "D",
+          "text": "log₁₀(10)",
+          "isCorrect": false,
+          "explanation": "This option misinterprets the exponent's role and incorrectly simplifies the expression as if the base were directly involved."
+        }
+      ],
+      "explanation": "The correct answer is 2 log₁₀(5) because of the power rule for logarithms, which states that logₐ(bⁿ) = n * logₐ(b). Applying this rule to log₁₀(5²), we simplify it to 2 * log₁₀(5). Option A mistakenly assumes a direct result of 10, ignoring the exponent's role. Option C treats the logarithm as a straightforward arithmetic operation, neglecting the logarithmic properties. Option D misinterprets the expression by incorrectly simplifying it to involve the base 10 directly.",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀",
+        "5²"
+      ]
+    },
+    {
+      "text": "Evaluate: log₄(16)",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "Correct! 42 = 16, so log₄(16) is 2."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "Incorrect. 44 = 256, which is much larger than 16. Check your calculations."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "Incorrect. 43 = 64, which exceeds 16. Try a smaller exponent."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "Incorrect. 41 = 4, which is too small. Try a larger exponent."
+        }
+      ],
+      "explanation": "The expression log₄(16) requires determining the power to which 4 must be raised to equal 16. Since 42 = 16, the answer is 2, making Option A correct. Option B suggests 44, which equals 256, much larger than 16. Option C involves 43, resulting in 64, also larger than 16. Option D involves 41, which equals 4, smaller than 16. Thus, Options B, C, and D are incorrect.",
+      "explanationImage": null,
+      "hints": [
+        "log₄",
+        "16"
+      ]
+    },
+    {
+      "text": "Which expression equals log₁₀(100) – log₁₀(10)?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "log₁₀(1000)",
+          "isCorrect": false,
+          "explanation": "This option incorrectly assumes that subtraction of logs implies multiplying the arguments, which is false."
+        },
+        {
+          "letter": "B",
+          "text": "log₁₀(10)",
+          "isCorrect": true,
+          "explanation": "Correct! Subtracting logs with the same base means dividing the values inside them, resulting in log₁₀(100/10) = log₁₀(10)."
+        },
+        {
+          "letter": "C",
+          "text": "log₁₀(100)",
+          "isCorrect": false,
+          "explanation": "This choice incorrectly assumes that the subtraction does not alter the expression's value."
+        },
+        {
+          "letter": "D",
+          "text": "log₁₀(1)",
+          "isCorrect": false,
+          "explanation": "This option would be correct if the expression were log₁₀(100) - log₁₀(100), which is not the case here."
+        }
+      ],
+      "explanation": "To simplify log₁₀(100) – log₁₀(10), apply the property: logₐ(b) – logₐ(c) = logₐ(b/c). Here, b = 100 and c = 10, thus the expression becomes log₁₀(100/10) = log₁₀(10). Hence, the correct answer is B: log₁₀(10). Option A incorrectly assumes multiplication of the arguments, Option C ignores the effect of subtraction, and Option D would only be correct if the values inside the logarithms were equal.",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀(100)",
+        "log₁₀(10)"
+      ]
+    },
+    {
+      "text": "If log₁₀(x) = 2, then x = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100",
+          "isCorrect": true,
+          "explanation": "Correct! Since log₁₀(x) = 2, it means 10 squared equals x, giving x = 100."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "isCorrect": false,
+          "explanation": "Incorrect. This would mean log₁₀(x) = 1, not 2, since 10 to the power of 1 is 10."
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "isCorrect": false,
+          "explanation": "Incorrect. 10 raised to the power of 2 equals 100, not 20."
+        },
+        {
+          "letter": "D",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "Incorrect. This would imply log₁₀(2), which is not equal to 2."
+        }
+      ],
+      "explanation": "The equation log₁₀(x) = 2 translates to 10 raised to the power of 2 equals x. Therefore, x = 10^2 = 100, making Option A correct. Option B is incorrect because it suggests 10^1 = 10, not 10^2. Option C is incorrect because 20 is not the result of 10^2. Option D is incorrect as it implies log₁₀(2), which does not equal 2.",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀(x)",
+        "2"
+      ]
+    },
+    {
+      "text": "log₃(1/27) is equal to:",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-2",
+          "isCorrect": false,
+          "explanation": "If log₃(1/27) were -2, then 3^(-2) would equal 1/27, but 3^(-2) equals 1/9. Therefore, -2 is not the correct answer."
+        },
+        {
+          "letter": "B",
+          "text": "-3",
+          "isCorrect": true,
+          "explanation": "Correct! 3^(-3) equals 1/27, so log₃(1/27) is -3. This matches the definition of a logarithm as the power to which the base must be raised to get the given number."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "If log₃(1/27) were 3, then 3^3 would equal 1/27, but 3^3 equals 27. This is incorrect as it does not result in 1/27."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "If log₃(1/27) were 1, then 3^1 would equal 1/27, but 3^1 equals 3, not 1/27. Thus, 1 is not the correct answer."
+        }
+      ],
+      "explanation": "The expression log₃(1/27) asks for the exponent to which the base 3 must be raised to produce the number 1/27. Since 27 can be expressed as 3^3, then 1/27 is equivalent to 3^(-3). Therefore, log₃(1/27) is -3. Options A, C, and D are incorrect because raising 3 to these powers does not produce 1/27: 3^(-2) equals 1/9, 3^3 equals 27, and 3^1 equals 3.",
+      "explanationImage": null,
+      "hints": [
+        "log₃",
+        "1/27"
+      ]
+    },
+    {
+      "text": "log₁₀(x³) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 log₁₀(x)",
+          "isCorrect": true,
+          "explanation": "This is correct because the power rule of logarithms allows you to bring the exponent in front of the logarithm. Therefore, log₁₀(x³) simplifies to 3 log₁₀(x)."
+        },
+        {
+          "letter": "B",
+          "text": "x³",
+          "isCorrect": false,
+          "explanation": "This is incorrect because it represents the original expression inside the logarithm without applying any logarithmic properties to simplify it."
+        },
+        {
+          "letter": "C",
+          "text": "x log₁₀(3)",
+          "isCorrect": false,
+          "explanation": "This is incorrect because it misunderstands the application of the logarithmic rule, incorrectly placing the variable outside the logarithm and the number 3 as the argument of the logarithm."
+        },
+        {
+          "letter": "D",
+          "text": "log₁₀(3x)",
+          "isCorrect": false,
+          "explanation": "This is incorrect because it suggests incorrect multiplication inside the logarithm, which is not a valid application of the power rule."
+        }
+      ],
+      "explanation": "The correct answer is 3 log₁₀(x). This result is obtained by applying the power rule of logarithms, which states that logᵦ(xʸ) = y logᵦ(x). In this problem, x is raised to the power of 3, so we bring down the exponent 3 as a coefficient in front of the logarithm, resulting in 3 log₁₀(x). Option B is incorrect because it merely restates the expression without any simplification. Option C misinterprets the rule by applying the logarithm to the base instead of the exponent. Option D suggests an incorrect operation inside the logarithm, which doesn't adhere to the power rule.",
+      "explanationImage": null,
+      "hints": [
+        "logarithm",
+        "power"
+      ]
+    },
+    {
+      "text": "log₂(2x) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "log₂(2) + log₂(x)",
+          "isCorrect": true,
+          "explanation": "This is correct because the product property of logarithms states that logₐ(bc) = logₐ(b) + logₐ(c). Therefore, log₂(2x) can be split into log₂(2) + log₂(x)."
+        },
+        {
+          "letter": "B",
+          "text": "log₂(x)",
+          "isCorrect": false,
+          "explanation": "This is incorrect because it neglects the factor of 2 in the expression 2x. The complete application of the product property is required."
+        },
+        {
+          "letter": "C",
+          "text": "x + log₂(2)",
+          "isCorrect": false,
+          "explanation": "This is incorrect because it incorrectly handles the variables involved in the logarithmic expression. The correct property should be applied to separate the terms correctly."
+        },
+        {
+          "letter": "D",
+          "text": "log₂(2x)",
+          "isCorrect": false,
+          "explanation": "This is incorrect because it leaves the expression in its original form without applying any logarithmic properties to simplify it."
+        }
+      ],
+      "explanation": "The correct answer is Option A: log₂(2) + log₂(x). This is derived from the product property of logarithms, which states that logₐ(bc) = logₐ(b) + logₐ(c). Applying this to the given expression, log₂(2x) can be expanded to log₂(2) + log₂(x). Option B is incorrect because it omits log₂(2), failing to account for the entire expression. Option C is incorrect because it misapplies the logarithm properties, resulting in an incorrect format. Option D is incorrect because it simply restates the original expression without utilizing any logarithmic properties for simplification.",
+      "explanationImage": null,
+      "hints": [
+        "log₂",
+        "2x"
+      ]
+    },
+    {
+      "text": "log₇(49) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "The value 3 is incorrect because 7 raised to the power of 3 is 343, not 49."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "Correct! 7 raised to the power of 2 equals 49, which means log₇(49) = 2."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "The value 1 is incorrect because 7 raised to the power of 1 is 7, not 49."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "The value 0 is incorrect because any number raised to the power of 0 is 1, not 49."
+        }
+      ],
+      "explanation": "The question asks for the value of log₇(49). This means we are looking for the exponent to which the base 7 must be raised to obtain 49. Since 7 squared (72) equals 49, the correct answer is 2.Option A: 3 is incorrect because 73 equals 343, not 49.Option C: 1 is incorrect because 71 equals 7, not 49.Option D: 0 is incorrect because 70 equals 1, not 49.",
+      "explanationImage": null,
+      "hints": [
+        "log₇",
+        "49"
+      ]
+    },
+    {
+      "text": "If logₐ(b) = 2 and logₐ(c) = 3, then logₐ(bc³) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "This answer results from incorrectly adding logₐ(b) and logₐ(c) without properly applying the power rule to logₐ(c³)."
+        },
+        {
+          "letter": "B",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": "This answer may occur if you sum logₐ(b) and logₐ(c) as 2 + 3 without considering the power of 3 applied to c."
+        },
+        {
+          "letter": "C",
+          "text": "11",
+          "isCorrect": true,
+          "explanation": "Correct! Apply the properties of logarithms: logₐ(bc³) = logₐ(b) + logₐ(c³) = logₐ(b) + 3*logₐ(c). With given values, it becomes 2 + 3*3 = 2 + 9 = 11."
+        },
+        {
+          "letter": "D",
+          "text": "9",
+          "isCorrect": false,
+          "explanation": "This answer could result from adding 2 and 3 and then incorrectly multiplying the sum by 3, not in line with logarithmic properties."
+        }
+      ],
+      "explanation": "To solve for logₐ(bc³), apply the properties of logarithms. First, express logₐ(bc³) as logₐ(b) + logₐ(c³). Use the power rule to simplify logₐ(c³) to 3*logₐ(c). Given that logₐ(b) = 2 and logₐ(c) = 3, substitute the values to get logₐ(b) + 3*logₐ(c) = 2 + 3*3 = 2 + 9 = 11, making 11 the correct answer.Options 5, 6, and 9 are incorrect due to improper application of logarithmic rules, failing to account for both the product and power rules accurately.",
+      "explanationImage": null,
+      "hints": [
+        "logₐ(b)",
+        "logₐ(c)",
+        "bc³"
+      ]
+    },
+    {
+      "text": "log₂(1) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "Incorrect. This implies 2 raised to the power of 2 equals 1, but 2² equals 4."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "Incorrect. This implies 2 raised to the power of 1 equals 1, but 2¹ equals 2."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "isCorrect": true,
+          "explanation": "Correct! Any non-zero number raised to the power of 0 is 1, including 2."
+        },
+        {
+          "letter": "D",
+          "text": "Undefined",
+          "isCorrect": false,
+          "explanation": "Incorrect. Log₂(1) is well-defined as 0, because 2 raised to the power of 0 equals 1."
+        }
+      ],
+      "explanation": "The expression log₂(1) asks for the exponent to which the base 2 must be raised to result in 1. According to logarithmic rules, any number raised to the power of 0 is 1. Therefore, log₂(1) = 0. Option A is incorrect because 2² equals 4, not 1. Option B is incorrect because 2¹ equals 2, not 1. Option D is incorrect because the logarithm of 1 is defined for any positive base, including 2, resulting in an answer of 0.",
+      "explanationImage": null,
+      "hints": [
+        "log₂",
+        "1"
+      ]
+    },
+    {
+      "text": "log₂(x²) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 log₂(x)",
+          "isCorrect": true,
+          "explanation": "This is the correct application of the logarithmic power rule, which states that logₐ(bⁿ) = n logₐ(b). Here, the exponent 2 is brought in front of the logarithm."
+        },
+        {
+          "letter": "B",
+          "text": "log₂(x)",
+          "isCorrect": false,
+          "explanation": "This option incorrectly ignores the power of 2 in x². The expression should reflect the exponent by applying the power rule, resulting in 2 log₂(x) instead."
+        },
+        {
+          "letter": "C",
+          "text": "x log₂(2)",
+          "isCorrect": false,
+          "explanation": "This option incorrectly associates the variable x with the logarithm's base. The power rule should be applied to the exponent inside the logarithm, not the base."
+        },
+        {
+          "letter": "D",
+          "text": "log₂(x)²",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests squaring the result of log₂(x). The power rule applies to move the exponent outside the logarithm, not to square the logarithm itself."
+        }
+      ],
+      "explanation": "To simplify log₂(x²), apply the logarithmic power rule: logₐ(bⁿ) = n logₐ(b). In this expression, n is 2, a is 2, and b is x. Therefore, log₂(x²) = 2 log₂(x). Option A correctly applies this rule. Option B fails to incorporate the power, resulting in an incorrect simplification. Option C incorrectly involves the base of the logarithm, which should remain unchanged. Option D mistakenly suggests squaring the logarithm, which is not the correct application of the power rule.",
+      "explanationImage": null,
+      "hints": [
+        "log₂",
+        "x²"
+      ]
+    },
+    {
+      "text": "log₉(3) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.5",
+          "isCorrect": true,
+          "explanation": "Correct! By applying the change of base formula: log₉(3) = log₃(3) / log₃(9), which simplifies to 1/2."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "Incorrect. This would imply that 9^1 = 3, but actually 9^1 equals 9, not 3."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "Incorrect. This would imply that 9^2 = 3, but 9^2 equals 81, not 3."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "Incorrect. This would imply that 9^3 = 3, but 9^3 equals 729, not 3."
+        }
+      ],
+      "explanation": "To solve log₉(3), apply the change of base formula: log₉(3) = log₃(3) / log₃(9). Here, log₃(3) = 1 because 3^1 = 3, and log₃(9) = 2 because 3^2 = 9. Thus, log₉(3) = 1/2 = 0.5, making Option A correct. Options B, C, and D are incorrect as they assume powers of 9 that do not equate to 3, violating the logarithmic equation 9^x = 3.",
+      "explanationImage": null,
+      "hints": [
+        "log₉",
+        "3"
+      ]
+    },
+    {
+      "text": "Which of the following properties is correct?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "logₐ(xy) = logₐ(x) + logₐ(y)",
+          "isCorrect": true,
+          "explanation": "This is correct. It represents the product rule for logarithms, where the logarithm of a product is the sum of the logarithms of the factors."
+        },
+        {
+          "letter": "B",
+          "text": "logₐ(x/y) = logₐ(x) + logₐ(y)",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The correct quotient rule states logₐ(x/y) = logₐ(x) - logₐ(y), not addition."
+        },
+        {
+          "letter": "C",
+          "text": "logₐ(x + y) = logₐ(x) + logₐ(y)",
+          "isCorrect": false,
+          "explanation": "This is incorrect as logarithms do not distribute over addition. No logarithmic property allows this expansion."
+        },
+        {
+          "letter": "D",
+          "text": "logₐ(x – y) = logₐ(x) – logₐ(y)",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Similar to addition, logarithms do not distribute over subtraction. Use the quotient rule for division instead."
+        }
+      ],
+      "explanation": "The correct answer is logₐ(xy) = logₐ(x) + logₐ(y), which is the product rule of logarithms. This fundamental rule allows the conversion of a product inside a logarithm into a sum of logarithms. Option B is incorrect because it misapplies the quotient rule; the correct form is logₐ(x/y) = logₐ(x) - logₐ(y). Option C is incorrect because there's no rule for expanding a sum within a logarithm. Option D is also incorrect since logarithms don't distribute over subtraction. Mastering these rules is essential for transforming logarithmic expressions accurately.",
+      "explanationImage": null,
+      "hints": [
+        "properties",
+        "logarithms"
+      ]
+    },
+    {
+      "text": "log₁₀(25) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "If log₁₀(25) were 2, it would mean that 10 squared (10^2) equals 25, but 10^2 is actually 100."
+        },
+        {
+          "letter": "B",
+          "text": "1.4",
+          "isCorrect": false,
+          "explanation": "If log₁₀(25) were 1.4, it would mean that 10 raised to the power of 1.4 equals 25. However, 10^1.4 is approximately 25.12, which is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "1.698",
+          "isCorrect": false,
+          "explanation": "If log₁₀(25) were 1.698, it would mean that 10 raised to the power of 1.698 equals 25. However, 10^1.698 is approximately 50.12, which is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "1.39",
+          "isCorrect": true,
+          "explanation": "log₁₀(25) is approximately 1.39, which means 10 raised to the power of 1.39 is close to 25. This is the correct approximation."
+        }
+      ],
+      "explanation": "The problem asks for the value of log₁₀(25), which is the power to which 10 must be raised to equal 25. Using a calculator or logarithmic table, we find that log₁₀(25) is approximately 1.39. This means 10^1.39 is approximately equal to 25.Option A (2) suggests that 10^2 equals 25, but 10^2 is 100, not 25.Option B (1.4) implies 10^1.4 equals 25, but 10^1.4 is approximately 25.12, which is close but not exactly correct.Option C (1.698) suggests 10^1.698 equals 25, but 10^1.698 is approximately 50.12, which is incorrect.Therefore, Option D (1.39) is the best approximation for log₁₀(25).",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀",
+        "25"
+      ]
+    },
+    {
+      "text": "log₄(2) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "This is incorrect. 4 raised to the power of 2 equals 16, not 2."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This is incorrect. 4 raised to the power of 1 equals 4, not 2."
+        },
+        {
+          "letter": "C",
+          "text": "0.5",
+          "isCorrect": true,
+          "explanation": "Correct! 4 raised to the power of 0.5 equals 2, because it represents the square root of 4."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "This is incorrect. 4 raised to the power of 4 equals 256, not 2."
+        }
+      ],
+      "explanation": "The question asks for log₄(2), which means 'to what power must 4 be raised to get 2?' The correct answer is 0.5 because 40.5 equals 2, indicating that 2 is the square root of 4. The other options are incorrect: Option A (2) suggests 42 = 16, Option B (1) suggests 41 = 4, and Option D (4) suggests 44 = 256, none of which equal 2.",
+      "explanationImage": null,
+      "hints": [
+        "log₄(2)",
+        "base"
+      ]
+    },
+    {
+      "text": "What is the base of log(x) if not mentioned?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "e",
+          "isCorrect": false,
+          "explanation": "The base e is used for natural logarithms, which are denoted as ln(x), not log(x)."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "Base 2 is used for binary logarithms, often written as log2(x), not simply log(x)."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "isCorrect": true,
+          "explanation": "When the base is not mentioned in log(x), it is conventionally assumed to be base 10, known as the common logarithm."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "A logarithm with base 1 is undefined because it does not produce meaningful results."
+        }
+      ],
+      "explanation": "The correct answer is Option C: 10. In mathematical notation, when the base is not specified in log(x), it is understood to be base 10, which is referred to as the common logarithm. This is a standard mathematical convention. Option A (base e) is incorrect because e is used for natural logarithms, denoted as ln(x). Option B (base 2) is incorrect as it refers to binary logarithms, indicated by log2(x). Option D (base 1) is invalid since a logarithm with base 1 is undefined and does not provide useful results.",
+      "explanationImage": null,
+      "hints": [
+        "base",
+        "log(x)"
+      ]
+    },
+    {
+      "text": "log₁₀(π²) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "log₁₀(π)",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it neglects the exponent, treating the expression as log₁₀(π) instead of using the power rule."
+        },
+        {
+          "letter": "B",
+          "text": "2 log₁₀(π)",
+          "isCorrect": true,
+          "explanation": "This is correct. The power rule states that log₁₀(π²) = 2 * log₁₀(π), where the exponent 2 is brought in front of the logarithm."
+        },
+        {
+          "letter": "C",
+          "text": "log₁₀(2π)",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it misinterprets π² as 2π, which changes the value of the expression."
+        },
+        {
+          "letter": "D",
+          "text": "(log₁₀(π))²",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests squaring the logarithm itself rather than applying the power rule to the exponent."
+        }
+      ],
+      "explanation": "To solve log₁₀(π²), apply the power rule of logarithms: logₐ(x^n) = n * logₐ(x). Here, the exponent 2 is brought in front of the logarithm, resulting in 2 * log₁₀(π). Thus, the correct answer is Option B: 2 log₁₀(π). Option A is incorrect because it overlooks the exponent. Option C is incorrect due to confusing π² with 2π. Option D is incorrect as it implies squaring the logarithm instead of correctly applying the power rule.",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀",
+        "π²"
+      ]
+    },
+    {
+      "text": "log₁₀(π²) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "log₁₀(π)",
+          "isCorrect": false,
+          "explanation": "This option neglects the exponent on π, failing to use the power rule which allows moving the exponent as a multiplier."
+        },
+        {
+          "letter": "B",
+          "text": "2 log₁₀(π)",
+          "isCorrect": true,
+          "explanation": "This is correct. By applying the power rule of logarithms, the exponent 2 is brought in front as a multiplier, simplifying to this expression."
+        },
+        {
+          "letter": "C",
+          "text": "log₁₀(2π)",
+          "isCorrect": false,
+          "explanation": "This option mistakenly uses the multiplication property instead of the power property, suggesting a different operation than required."
+        },
+        {
+          "letter": "D",
+          "text": "log₁₀(π)²",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests squaring the entire logarithmic expression, which misapplies the properties of logarithms."
+        }
+      ],
+      "explanation": "To solve log₁₀(π²), utilize the power rule of logarithms, which states logₐ(b^n) = n * logₐ(b). Here, π² can be rewritten as (π)^2, allowing the exponent 2 to be moved in front of the logarithm: log₁₀(π²) = 2 * log₁₀(π). This results in the correct answer: Option B. Option A fails to consider the exponent. Option C incorrectly applies the multiplication property instead of the power property. Option D misapplies the properties by suggesting the entire logarithm is squared.",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀",
+        "π²"
+      ]
+    },
+    {
+      "text": "log₁₀(π²) = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "log₁₀(π)",
+          "isCorrect": false,
+          "explanation": "This option ignores the exponent 2 in π², resulting in an incomplete application of the power rule."
+        },
+        {
+          "letter": "B",
+          "text": "2 log₁₀(π)",
+          "isCorrect": true,
+          "explanation": "This option correctly applies the power rule: log₁₀(π²) = 2 * log₁₀(π)."
+        },
+        {
+          "letter": "C",
+          "text": "log₁₀(2π)",
+          "isCorrect": false,
+          "explanation": "This option mistakenly suggests multiplying π by 2 inside the logarithm, which is incorrect when applying the power rule to π²."
+        },
+        {
+          "letter": "D",
+          "text": "(log₁₀(π))²",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests squaring the result of the logarithm, which is not how the power rule should be applied here."
+        }
+      ],
+      "explanation": "The correct answer is 2 log₁₀(π). By the power rule of logarithms, log₁₀(a^b) = b * log₁₀(a), so log₁₀(π²) equals 2 * log₁₀(π). Option A overlooks the exponent, leading to an incomplete solution. Option C misinterprets the exponentiation as multiplication within the logarithm. Option D suggests squaring the logarithm's result rather than properly applying the power rule.",
+      "explanationImage": null,
+      "hints": [
+        "log₁₀",
+        "π²"
+      ]
+    },
+    {
+      "text": "If log₃(x) = y, then x = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Logarithms",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "y³",
+          "isCorrect": false,
+          "explanation": "This option mistakenly suggests raising y to the power of 3, which does not represent the original logarithmic equation correctly."
+        },
+        {
+          "letter": "B",
+          "text": "3^y",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The equation log₃(x) = y translates to x = 3^y using the definition of a logarithm."
+        },
+        {
+          "letter": "C",
+          "text": "3 × y",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests multiplying the base 3 by y, which does not solve the logarithmic equation correctly."
+        },
+        {
+          "letter": "D",
+          "text": "y / 3",
+          "isCorrect": false,
+          "explanation": "This option suggests dividing y by 3, which does not correspond to the properties of logarithms."
+        }
+      ],
+      "explanation": "To solve the equation log₃(x) = y for x, recognize that logarithms are the inverse of exponents. This means we can rewrite the equation in exponential form: x = 3^y. Therefore, Option B is correct. The other options are incorrect because they involve improper operations or misinterpret the structure of the logarithmic equation. Option A suggests raising y to a power, Option C involves unnecessary multiplication, and Option D involves incorrect division.",
+      "explanationImage": null,
+      "hints": [
+        "log₃(x)",
+        "y"
+      ]
+    },
+    {
+      "text": "In 2005 a house was purchased for $280,000 and in 2013 it was sold at $334,000. Assuming that the value of the house increased at a constant annual rate what will be the price of the house in the year 2018?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Progression (AP, GP)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "$354,250",
+          "isCorrect": false,
+          "explanation": "This calculation assumes a different annual increase rate than determined. It does not account for the correct number of years or rate of increase."
+        },
+        {
+          "letter": "B",
+          "text": "$361,000",
+          "isCorrect": false,
+          "explanation": "This option underestimates the value by using an incorrect annual increase or miscalculating the duration from 2013 to 2018."
+        },
+        {
+          "letter": "C",
+          "text": "$367,750",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. Using the calculated annual increase, this option accurately projects the house's value in 2018."
+        },
+        {
+          "letter": "D",
+          "text": "$374,500",
+          "isCorrect": false,
+          "explanation": "This overestimates the value, possibly by using a larger annual increase or longer time period than actually occurred from 2013 to 2018."
+        }
+      ],
+      "explanation": "To solve this problem, first determine the annual increase in the house's value between 2005 and 2013. The house was bought for $280,000 in 2005 and sold for $334,000 in 2013, which is an increase of $54,000 over 8 years. This gives an annual increase of $54,000 / 8 = $6,750.From 2013 to 2018, there are 5 years. Thus, the increase in value over these 5 years is $6,750 x 5 = $33,750.Adding this increase to the 2013 value gives the 2018 value: $334,000 + $33,750 = $367,750. Therefore, Option C is correct.Options A, B, and D are incorrect because they do not match the calculated increase based on the constant annual rate.",
+      "explanationImage": null,
+      "hints": [
+        "house",
+        "constant",
+        "annual"
+      ]
+    },
+    {
+      "text": "7, 12, 22, 42, 82 Which of the following gives a rule for finding each term in the sequence after the first?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Progression (AP, GP)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Add 5 to the preceding number.",
+          "isCorrect": false,
+          "explanation": "If you add 5 to the first term, you get 12, which matches the second term. However, adding 5 to 12 does not give 22, so this rule does not consistently apply."
+        },
+        {
+          "letter": "B",
+          "text": "Add 5 to the sum of all of the preceding terms.",
+          "isCorrect": false,
+          "explanation": "This rule does not apply to the sequence since the sum of preceding terms plus 5 does not yield any subsequent term in the sequence."
+        },
+        {
+          "letter": "C",
+          "text": "Double the preceding term and then subtract 2 from the result.",
+          "isCorrect": true,
+          "explanation": "This rule matches the sequence: Double 7 to get 14, and subtract 2 to get 12. Repeat for 12 to get 22, etc., which matches the entire sequence."
+        },
+        {
+          "letter": "D",
+          "text": "Add 14 to the preceding term and divide that result by 2",
+          "isCorrect": false,
+          "explanation": "Applying this rule to 7 gives 10.5, which does not match the next term, 12. Thus, this rule does not fit the sequence."
+        }
+      ],
+      "explanation": "The correct rule to find the next term in the sequence is to double the preceding term and then subtract 2 from the result (Option C). This is verified as follows: Doubling 7 gives 14, and subtracting 2 gives 12, the next term. Continuing this process accurately predicts the sequence: 12 to 22, 22 to 42, and so on.Option A is incorrect because adding 5 works only for the first step, but fails subsequently. Option B is incorrect because adding 5 to the sum of all preceding terms does not produce the next term. Option D is incorrect because adding 14 and dividing by 2 gives results not consistent with the sequence.",
+      "explanationImage": null,
+      "hints": [
+        "rule",
+        "first",
+        "sequence"
+      ]
+    },
+    {
+      "text": "A boy puts a fixed amount of money in a box every week after his birthday. Find ‘p’",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Progression (AP, GP)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "34",
+          "isCorrect": false,
+          "explanation": "This option represents the amount after the 7th week, not the 8th week."
+        },
+        {
+          "letter": "B",
+          "text": "37",
+          "isCorrect": true,
+          "explanation": "By identifying the fixed weekly increase of 3, the amount after the 8th week is calculated as 37.This is the correct answer."
+        },
+        {
+          "letter": "C",
+          "text": "40",
+          "isCorrect": false,
+          "explanation": "This option represents the amount after the 9th week, not the 8th week."
+        },
+        {
+          "letter": "D",
+          "text": "43",
+          "isCorrect": false,
+          "explanation": "This option represents the amount after the 10th week, not the 8th week."
+        }
+      ],
+      "explanation": "The problem describes a scenario where a boy puts a fixed amount of money in a box every week. By examining the differences between the amounts for consecutive weeks, we determine that the weekly increase is 3. Starting from the 5th week amount of 28, the amount after the 8th week is calculated as follows:After 6th week: 28 + 3 = 31After 7th week: 31 + 3 = 34After 8th week: 34 + 3 = 37Therefore, the correct answer is 37. The other options represent amounts after different numbers of weeks, hence they are incorrect.",
+      "explanationImage": null,
+      "hints": [
+        "fixed amount",
+        "every week"
+      ]
+    },
+    {
+      "text": "The sum of the Series will be i) Tn = 7n -5 ii) 𝑑 = −5 iii) 𝑎 = 2 iv) 𝑛 = 16 Which two statements are sufficient to solve the given question?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Progression (AP, GP)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "(i) and (iv)",
+          "isCorrect": true,
+          "explanation": "Statement (i) provides a formula for the nth term, and statement (iv) gives the value of n. Together, they allow you to calculate the value of Tn, which is crucial for solving the series sum."
+        },
+        {
+          "letter": "B",
+          "text": "(i) and (iii)",
+          "isCorrect": false,
+          "explanation": "Although statement (i) gives the formula for Tn, statement (iii) provides the initial term a, which is not directly needed for calculating Tn using the given formula."
+        },
+        {
+          "letter": "C",
+          "text": "(ii) and (iv)",
+          "isCorrect": false,
+          "explanation": "Statement (ii) provides the common difference d, and statement (iv) gives the value of n. However, without a formula for Tn, these alone are insufficient to determine the series sum."
+        },
+        {
+          "letter": "D",
+          "text": "(iii) and (iv)",
+          "isCorrect": false,
+          "explanation": "Statement (iii) gives the initial term a, and statement (iv) provides the value of n. However, without the formula for Tn, these do not allow you to calculate the series sum."
+        }
+      ],
+      "explanation": "The correct answer is Option A: (i) and (iv). Statement (i) provides the formula for the nth term Tn = 7n - 5, and statement (iv) gives the specific value of n = 16. Using these, you can calculate Tn as 7(16) - 5 = 107, which is essential for solving the series sum.Option B is incorrect because the initial term a from statement (iii) is not needed with the given Tn formula.Option C is incorrect because the common difference d from statement (ii) and n from statement (iv) do not provide enough information to calculate the series sum without a formula for Tn.Option D is incorrect because the initial term a and n alone do not provide the necessary information without the Tn formula.",
+      "explanationImage": null,
+      "hints": [
+        "Tn = 7n - 5",
+        "n = 16"
+      ]
+    },
+    {
+      "text": "Six consecutive integers are given. The sum of the first three is 27.What is the sum of the last three?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Basic Algebra (BODMAS, LCM, HCF, Prime Number, > and < than, Fractions)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "29",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "30",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "32",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "36",
+          "isCorrect": true,
+          "explanation": "Using the number sequence formula a number sequence can be written down for the six consecutive integers; N being the first integer N,N+1,N+2,N+3,N+4,N+5 If the sum of the first three integers = 27 I.e N+N+1+N+2 = 27 3N+3 = 27 3N = 27-3 = 24 N = 24/3 = 8 N = 8 For the sum of last three integers, the formula is; N+3+N+4+N+5 N = 8 i.e. 8 + 3 + 8 + 4 + 8 + 5 = 36"
+        }
+      ],
+      "explanation": "Using the number sequence formula a number sequence can be written down for the six consecutive integers; N being the first integer N,N+1,N+2,N+3,N+4,N+5 If the sum of the first three integers = 27 I.e N+N+1+N+2 = 27 3N+3 = 27 3N = 27-3 = 24 N = 24/3 = 8 N = 8 For the sum of last three integers, the formula is; N+3+N+4+N+5 N = 8 i.e. 8 + 3 + 8 + 4 + 8 + 5 = 36",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is an arithmetic progression (AP)﻿",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Progression (AP, GP)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2, 4, 8, 16",
+          "isCorrect": false,
+          "explanation": "Incorrect. This sequence is a geometric progression where each term is multiplied by 2. The differences (4−2=2, 8−4=4, 16−8=8) are not constant, so it is not an AP."
+        },
+        {
+          "letter": "B",
+          "text": "3, 6, 9, 12",
+          "isCorrect": true,
+          "explanation": "Correct. This sequence is an arithmetic progression (AP) with a constant difference of 3 between terms (6−3=3, 9−6=3, 12−9=3)."
+        },
+        {
+          "letter": "C",
+          "text": "1, 3, 6, 10",
+          "isCorrect": false,
+          "explanation": "Incorrect. The differences between terms (3−1=2, 6−3=3, 10−6=4) are not constant, increasing with each step. Therefore, it is not an AP."
+        },
+        {
+          "letter": "D",
+          "text": "5, 10, 20, 40",
+          "isCorrect": false,
+          "explanation": "Incorrect. This is a geometric progression where each term doubles the previous one. The differences (10−5=5, 20−10=10, 40−20=20) are not constant, indicating it is not an AP."
+        }
+      ],
+      "explanation": "The correct answer is Option B: 3, 6, 9, 12. This sequence is an arithmetic progression (AP) because the difference between consecutive terms is constant at 3. All other options either have increasing differences or represent geometric progressions, where terms are multiplied by a constant factor rather than added.",
+      "explanationImage": null,
+      "hints": [
+        "following",
+        "arithmetic",
+        "progression"
+      ]
+    },
+    {
+      "text": "What will be the 10th term in the given sequence?3, 7, 11, 15, 19, 23",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Progression (AP, GP)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "27",
+          "isCorrect": false,
+          "explanation": "27 is the 7th term in the sequence. The terms increase by 4 each, so the 7th term after the first term (3) is 27."
+        },
+        {
+          "letter": "B",
+          "text": "35",
+          "isCorrect": false,
+          "explanation": "35 is the 9th term in the sequence. Each term increases by 4, so starting from 3, the 9th term is 35."
+        },
+        {
+          "letter": "C",
+          "text": "39",
+          "isCorrect": true,
+          "explanation": "39 is the correct 10th term. The sequence is an arithmetic progression with a common difference of 4."
+        },
+        {
+          "letter": "D",
+          "text": "43",
+          "isCorrect": false,
+          "explanation": "43 is the 11th term in the sequence. Starting from 3 and increasing by 4 each term, you reach 43 at the 11th term."
+        }
+      ],
+      "explanation": "The given sequence is an arithmetic progression (AP) with the first term a = 3 and a common difference d = 4. The formula for the nth term of an AP is given by an = a + (n-1)d. To find the 10th term:a10 = 3 + (10-1) * 4 = 3 + 36 = 39Therefore, the 10th term is 39.The other options are incorrect because they either do not follow the arithmetic progression or represent terms other than the 10th, as explained in their respective explanations.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The arithmetic mean of the 9 consecutive integers starting with m is 24. What is the arithmetic mean of 7 consecutive integers that also start with m ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Progression (AP, GP)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "m",
+          "isCorrect": false,
+          "explanation": "The arithmetic mean of 7 consecutive integers starting with m cannot be equal to m because the average must account for all integers in the sequence."
+        },
+        {
+          "letter": "B",
+          "text": "m + 1",
+          "isCorrect": false,
+          "explanation": "The arithmetic mean of these integers is not m + 1. This would imply each integer is only 1 unit greater than m, which is inconsistent with the given data."
+        },
+        {
+          "letter": "C",
+          "text": "m + 2",
+          "isCorrect": false,
+          "explanation": "The arithmetic mean being m + 2 suggests a different sequence pattern not supported by the information given in the question."
+        },
+        {
+          "letter": "D",
+          "text": "m + 3",
+          "isCorrect": true,
+          "explanation": "This is correct. The arithmetic mean of 7 consecutive integers starting with m is m + 3, based on the patterns of 9 consecutive integers."
+        }
+      ],
+      "explanation": "The arithmetic mean of 9 consecutive integers starting with m is calculated as the middle integer, which is the 5th integer in the sequence. Therefore, the arithmetic mean is m + 4, and given that this is 24, we have m + 4 = 24, leading to m = 20. For the 7 consecutive integers starting with m, the arithmetic mean is the 4th integer, which is m + 3. Substituting m = 20, the mean is 23. Therefore, the correct answer is m + 3. Other options are incorrect as they do not align with the arithmetic mean calculation based on the sequence length provided.",
+      "explanationImage": null,
+      "hints": [
+        "arithmetic mean",
+        "9 consecutive integers",
+        "starting with m"
+      ]
+    },
+    {
+      "text": "An empty 1,200 gallon tank is filled with water at a rate of 6 gallons of water per minute. At the same time, another 1,200 gallon tank full of water is being drained at a rate of 9 gallons per minute. How many minutes will it take for the amount of water in both tanks to become the same?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Progression (AP, GP)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "60",
+          "isCorrect": false,
+          "explanation": "At 60 minutes, the first tank would have 360 gallons and the second tank would have 660 gallons, which are not equal."
+        },
+        {
+          "letter": "B",
+          "text": "80",
+          "isCorrect": true,
+          "explanation": "At 80 minutes, both tanks will have 480 gallons of water, making them equal."
+        },
+        {
+          "letter": "C",
+          "text": "100",
+          "isCorrect": false,
+          "explanation": "At 100 minutes, the first tank would have 600 gallons and the second tank would have 300 gallons, which are not equal."
+        },
+        {
+          "letter": "D",
+          "text": "120",
+          "isCorrect": false,
+          "explanation": "At 120 minutes, the first tank would have 720 gallons and the second tank would have 0 gallons, which are not equal."
+        }
+      ],
+      "explanation": "To solve this problem, we need to equate the amount of water in both tanks after a certain time m minutes.Tank 1 starts empty and fills at 6 gallons per minute, so the amount of water in Tank 1 after m minutes is 6m.Tank 2 starts full at 1200 gallons and drains at 9 gallons per minute, so the amount of water in Tank 2 after m minutes is 1200 - 9m.Setting these equal gives: 6m = 1200 - 9mSolving for m gives:6m + 9m = 120015m = 1200m = 80Thus, after 80 minutes, both tanks will contain 480 gallons of water each. The other options do not satisfy this condition as calculated above.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "From 1990 to 2000, the population of city A rose from 12,000 to 28,000 and the population of city B rose from 18,000 to 24,000. If the population of the two cities increased at a constant rate, in what year was the population of both cities the same?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Progression (AP, GP)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1996",
+          "isCorrect": true,
+          "explanation": "Correct! By calculating the yearly increase for both cities and equating their population expressions, you find that they equal in 1996."
+        },
+        {
+          "letter": "B",
+          "text": "1997",
+          "isCorrect": false,
+          "explanation": "Incorrect. Re-evaluate the annual increase for each city and the year they match. 1997 is one year too late."
+        },
+        {
+          "letter": "C",
+          "text": "1994",
+          "isCorrect": false,
+          "explanation": "Incorrect. This year is too early. Ensure you are calculating the population increase correctly for both cities."
+        },
+        {
+          "letter": "D",
+          "text": "1999",
+          "isCorrect": false,
+          "explanation": "Incorrect. This year is too late. Check your calculations of the yearly increase and the year in which the populations are equal."
+        }
+      ],
+      "explanation": "To find the year when the populations of the two cities are equal, first calculate the annual increase in population for each city.For City A, the population increased from 12,000 to 28,000 over 10 years, which is an increase of 16,000. Therefore, the annual increase is 16,000 / 10 = 1,600 people per year.For City B, the population increased from 18,000 to 24,000 over 10 years, which is an increase of 6,000. Therefore, the annual increase is 6,000 / 10 = 600 people per year.The population of City A after x years from 1990 is given by 1,600x + 12,000, and for City B, it is 600x + 18,000. Set these two expressions equal:1,600x + 12,000 = 600x + 18,000Solving for x gives 1,000x = 6,000, hence x = 6.Adding 6 years to 1990 gives 1996 as the year when the populations are equal. Therefore, the correct answer is Option A, 1996. The other options are incorrect because they do not satisfy the condition where both populations are equal.",
+      "explanationImage": null,
+      "hints": [
+        "population",
+        "increased",
+        "constant rate"
+      ]
+    },
+    {
+      "text": "In AP: 1, 4, 7, ..., the common difference is:",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Progression (AP, GP)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "Incorrect. The difference between consecutive terms is not 2. For example, 4−1 = 3."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": true,
+          "explanation": "Correct. The common difference is 3, calculated as 4−1 = 3 and 7−4 = 3."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "Incorrect. The difference of 4 is greater than the actual difference. For instance, 4−1 = 3."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "Incorrect. The difference of 5 exceeds the actual common difference. For example, 4−1 = 3."
+        }
+      ],
+      "explanation": "The correct answer is 3. In an arithmetic progression (AP), the common difference is the difference between consecutive terms. Here, the sequence is 1, 4, 7,... The differences between the terms are 4−1 = 3 and 7−4 = 3. Hence, the common difference is 3. Option A (2) is incorrect because the difference is greater than 2. Option C (4) and Option D (5) are incorrect as they overestimate the difference.",
+      "explanationImage": null,
+      "hints": [
+        "AP",
+        "common difference"
+      ]
+    },
+    {
+      "text": "First term = 5, common difference = 3. What is the 10th term?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Progression (AP, GP)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "32",
+          "isCorrect": true,
+          "explanation": "Correct. Use the formula: First term + (n−1)×common difference = 5 + (10−1)×3 = 5 + 27 = 32."
+        },
+        {
+          "letter": "B",
+          "text": "30",
+          "isCorrect": false,
+          "explanation": "Incorrect. This calculation represents the 9th term: 5 + (9−1)×3 = 5 + 24 = 29."
+        },
+        {
+          "letter": "C",
+          "text": "35",
+          "isCorrect": false,
+          "explanation": "Incorrect. This is the 11th term: 5 + (11−1)×3 = 5 + 30 = 35."
+        },
+        {
+          "letter": "D",
+          "text": "36",
+          "isCorrect": false,
+          "explanation": "Incorrect. This doesn't fit the arithmetic progression formula for the 10th term."
+        }
+      ],
+      "explanation": "The 10th term of an arithmetic progression can be found using the formula: First term + (n−1)×common difference. Here, the first term is 5, and the common difference is 3. Therefore, the 10th term is calculated as: 5 + (10−1)×3 = 5 + 27 = 32. Option A is correct. Option B is incorrect because 30 represents the 9th term. Option C incorrectly calculates for the 11th term. Option D does not adhere to the formula for calculating the 10th term.",
+      "explanationImage": null,
+      "hints": [
+        "First term",
+        "common difference",
+        "10th term"
+      ]
+    },
+    {
+      "text": "Which term of the AP 4, 7, 10, … is 31?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Progression (AP, GP)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "8",
+          "isCorrect": false,
+          "explanation": "If n = 8, the term would be 4 + (8 - 1) × 3 = 4 + 21 = 25, which is not 31."
+        },
+        {
+          "letter": "B",
+          "text": "9",
+          "isCorrect": false,
+          "explanation": "If n = 9, the term would be 4 + (9 - 1) × 3 = 4 + 24 = 28, which is not 31."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "isCorrect": true,
+          "explanation": "If n = 10, the term would be 4 + (10 - 1) × 3 = 4 + 27 = 31, which is correct."
+        },
+        {
+          "letter": "D",
+          "text": "11",
+          "isCorrect": false,
+          "explanation": "If n = 11, the term would be 4 + (11 - 1) × 3 = 4 + 30 = 34, which is not 31."
+        }
+      ],
+      "explanation": "To find which term of the AP 4, 7, 10, ... is 31, use the n-th term formula for an AP: Tₙ = a + (n – 1)d. Here, a = 4 (the first term) and d = 3 (the common difference).Set Tₙ = 31 and solve for n:31 = 4 + (n – 1) × 331 - 4 = (n – 1) × 327 = (n – 1) × 3Divide both sides by 3:9 = n – 1n = 10Therefore, the 10th term of the AP is 31. The other options are incorrect because they do not satisfy the equation for n when the term is 31.",
+      "explanationImage": null,
+      "hints": [
+        "term",
+        "AP",
+        "31"
+      ]
+    },
+    {
+      "text": "If a = 3, d = 2, what is the 6th term?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Progression (AP, GP)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "11",
+          "isCorrect": false,
+          "explanation": "Incorrect. The formula an = a + (n−1)d leads to 3 + 10, which equals 13, not 11."
+        },
+        {
+          "letter": "B",
+          "text": "13",
+          "isCorrect": true,
+          "explanation": "Correct. Using the formula an = a + (n−1)d, we have 3 + 5×2 = 3 + 10 = 13."
+        },
+        {
+          "letter": "C",
+          "text": "15",
+          "isCorrect": false,
+          "explanation": "Incorrect. This would be the result if you mistakenly calculated for the 7th term."
+        },
+        {
+          "letter": "D",
+          "text": "17",
+          "isCorrect": false,
+          "explanation": "Incorrect. This result does not align with the calculation for any term based on the given formula."
+        }
+      ],
+      "explanation": "The 6th term of an arithmetic progression (AP) is calculated using the formula: an = a + (n−1)d. Here, a = 3 and d = 2. Plugging these values into the formula gives: 3 + (6−1)×2 = 3 + 10 = 13. Thus, the correct answer is 13. Option A (11) results from an incorrect calculation. Option C (15) is the 7th term, not the 6th. Option D (17) is not derived from this progression with the given parameters.",
+      "explanationImage": null,
+      "hints": [
+        "a = 3",
+        "d = 2",
+        "6th term"
+      ]
+    },
+    {
+      "text": "What is the 5th term of the AP: 2, 5, 8, … ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Progression (AP, GP)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "11",
+          "isCorrect": false,
+          "explanation": "Incorrect. This is the 4th term of the sequence, not the 5th."
+        },
+        {
+          "letter": "B",
+          "text": "14",
+          "isCorrect": true,
+          "explanation": "Correct. The common difference is 3. To find the 5th term, use the formula a + (n−1)d = 2 + (5−1)×3 = 14."
+        },
+        {
+          "letter": "C",
+          "text": "17",
+          "isCorrect": false,
+          "explanation": "Incorrect. This value corresponds to the 6th term, not the 5th term."
+        },
+        {
+          "letter": "D",
+          "text": "20",
+          "isCorrect": false,
+          "explanation": "Incorrect. This value appears later in the sequence, specifically the 7th term."
+        }
+      ],
+      "explanation": "The sequence is an arithmetic progression (AP) with a common difference of 3 (5 - 2 = 3). The nth term of an AP is given by the formula: a + (n−1)d. Here, a = 2 (the first term), n = 5 (we are looking for the 5th term), and d = 3. Plugging these values into the formula, we get:a + (n−1)d = 2 + (5−1)×3 = 2 + 12 = 14.Therefore, the 5th term is 14.Other options are incorrect because:11 is the 4th term.17 is the 6th term.20 is the 7th term.",
+      "explanationImage": null,
+      "hints": [
+        "5th",
+        "AP",
+        "2, 5, 8"
+      ]
+    },
+    {
+      "text": "In AP, a = 2, d = 5. Find 8th term.",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Progression (AP, GP)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "30",
+          "isCorrect": false,
+          "explanation": "Incorrect. This value is calculated using an incorrect formula or a wrong value for n."
+        },
+        {
+          "letter": "B",
+          "text": "31",
+          "isCorrect": false,
+          "explanation": "Incorrect. This is the 7th term, not the 8th term."
+        },
+        {
+          "letter": "C",
+          "text": "32",
+          "isCorrect": false,
+          "explanation": "Incorrect. This number is not a term in this specific AP sequence."
+        },
+        {
+          "letter": "D",
+          "text": "37",
+          "isCorrect": true,
+          "explanation": "Correct. This is the calculated 8th term using the AP formula."
+        }
+      ],
+      "explanation": "To find the 8th term in an Arithmetic Progression (AP), use the formula: aₙ = a + (n - 1)d. Here, a = 2 and d = 5. Plugging these values into the formula gives: a₈ = 2 + (8 - 1)×5 = 2 + 35 = 37. Therefore, the 8th term is 37, which is why Option D is correct.Options A, B, and C are incorrect because they either use the wrong formula, wrong arithmetic, or incorrect position in the sequence.",
+      "explanationImage": null,
+      "hints": [
+        "a = 2",
+        "d = 5",
+        "8th term"
+      ]
+    },
+    {
+      "text": "If first term = 6 and 10th term = 33, d = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Progression (AP, GP)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "Incorrect. Using d = 2, the 10th term would be calculated as 6 + 9×2 = 24, which does not equal 33."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": true,
+          "explanation": "Correct. Using d = 3, the 10th term is 6 + 9×3 = 33, which matches the given term."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "Incorrect. Using d = 4, the 10th term would be 6 + 9×4 = 42, which is greater than 33."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "Incorrect. Using d = 5, the 10th term would be 6 + 9×5 = 51, which is much greater than 33."
+        }
+      ],
+      "explanation": "The formula for the nth term of an arithmetic progression (AP) is given by a_n = a_1 + (n-1) * d, where a_1 is the first term and d is the common difference. Here, the first term a_1 = 6 and the 10th term a_10 = 33. Substituting into the formula, we get 33 = 6 + 9d. Solving for d gives d = 3. Therefore, option B is correct. Options A, C, and D are incorrect because they do not satisfy the equation 6 + 9d = 33.",
+      "explanationImage": null,
+      "hints": [
+        "first term",
+        "10th term",
+        "d"
+      ]
+    },
+    {
+      "text": "If nth term of AP is 2n + 3, what is 5th term?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Progression (AP, GP)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "13",
+          "isCorrect": true,
+          "explanation": "Correct. Substitute n = 5 into the formula: 2×5 + 3 = 10 + 3 = 13."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "isCorrect": false,
+          "explanation": "Incorrect. This value results from calculating only 2×5 and missing the addition of 3."
+        },
+        {
+          "letter": "C",
+          "text": "11",
+          "isCorrect": false,
+          "explanation": "Incorrect. This value is less than the actual value of the 5th term."
+        },
+        {
+          "letter": "D",
+          "text": "12",
+          "isCorrect": false,
+          "explanation": "Incorrect. This value is close but slightly lower than the correct value."
+        }
+      ],
+      "explanation": "The nth term of an arithmetic progression (AP) is given by the formula 2n + 3. To find the 5th term, substitute n = 5 into the formula:2×5 + 3 = 10 + 3 = 13.Therefore, the correct answer is 13.Option B (10) is incorrect because it misses the addition of 3, Option C (11) is incorrect as it is calculated incorrectly and is lower than the actual value, and Option D (12) is incorrect as it is just slightly less than the correct result.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the sum of first 3 terms of the AP: 1, 5, 9, ...?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Progression (AP, GP)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "15",
+          "isCorrect": true,
+          "explanation": "Correct. The sum of the first three terms, 1 + 5 + 9, is indeed 15."
+        },
+        {
+          "letter": "B",
+          "text": "12",
+          "isCorrect": false,
+          "explanation": "Incorrect. The sum of the terms is greater than 12. You might have missed one of the terms."
+        },
+        {
+          "letter": "C",
+          "text": "18",
+          "isCorrect": false,
+          "explanation": "Incorrect. 18 would be the sum if an additional term was included. Check the number of terms you summed."
+        },
+        {
+          "letter": "D",
+          "text": "14",
+          "isCorrect": false,
+          "explanation": "Incorrect. 14 is slightly less than the correct sum. Double-check your addition."
+        }
+      ],
+      "explanation": "The sum of the first three terms of the arithmetic progression (AP) 1, 5, 9 is calculated by adding the terms: 1 + 5 + 9 = 15. Option A is correct because it accurately represents this sum. Option B, 12, is too low because it omits or miscalculates one or more terms. Option C, 18, is too high, suggesting an additional term was added. Option D, 14, is close but still incorrect, indicating a slight miscalculation in the addition process.",
+      "explanationImage": null,
+      "hints": [
+        "first",
+        "3",
+        "AP"
+      ]
+    },
+    {
+      "text": "Which is NOT an AP?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Progression (AP, GP)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2, 4, 6, 8",
+          "isCorrect": false,
+          "explanation": "This is an AP. The common difference is 2 (4-2 = 2, 6-4 = 2, 8-6 = 2)."
+        },
+        {
+          "letter": "B",
+          "text": "5, 10, 15, 20",
+          "isCorrect": false,
+          "explanation": "This is an AP. The common difference is 5 (10-5 = 5, 15-10 = 5, 20-15 = 5)."
+        },
+        {
+          "letter": "C",
+          "text": "3, 6, 11, 14",
+          "isCorrect": true,
+          "explanation": "This is NOT an AP. The differences between consecutive terms are not constant: 6-3 = 3, 11-6 = 5, 14-11 = 3."
+        },
+        {
+          "letter": "D",
+          "text": "10, 20, 30, 40",
+          "isCorrect": false,
+          "explanation": "This is an AP. The common difference is 10 (20-10 = 10, 30-20 = 10, 40-30 = 10)."
+        }
+      ],
+      "explanation": "The sequence 3, 6, 11, 14 is not an Arithmetic Progression (AP) because the differences between consecutive terms are not constant: 6-3 = 3, 11-6 = 5, and 14-11 = 3. For a sequence to be an AP, the difference between each pair of consecutive terms must be the same. In contrast, the sequences 2, 4, 6, 8, 5, 10, 15, 20, and 10, 20, 30, 40 all have constant differences between terms, making them valid APs.",
+      "explanationImage": null,
+      "hints": [
+        "NOT",
+        "AP"
+      ]
+    },
+    {
+      "text": "AP: 2, 5, 8. Find sum of first 4 terms.",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Progression (AP, GP)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "24",
+          "isCorrect": false,
+          "explanation": "Incorrect. You added the first three terms only."
+        },
+        {
+          "letter": "B",
+          "text": "26",
+          "isCorrect": true,
+          "explanation": "Correct. This is the sum of the first four terms: 2 + 5 + 8 + 11."
+        },
+        {
+          "letter": "C",
+          "text": "28",
+          "isCorrect": false,
+          "explanation": "Incorrect. You overestimated the sum."
+        },
+        {
+          "letter": "D",
+          "text": "30",
+          "isCorrect": false,
+          "explanation": "Incorrect. This exceeds the actual sum."
+        }
+      ],
+      "explanation": "The sequence given is an arithmetic progression (AP) with a common difference of 3 (5 - 2 = 3, 8 - 5 = 3). The first term (a) is 2. To find the sum of the first four terms, calculate the fourth term using the formula for the nth term of an AP: an = a + (n-1)d, where d is the common difference. Therefore, the fourth term is 2 + 3*3 = 11. The sum of the first four terms is 2 + 5 + 8 + 11 = 26. Option B is correct. Options A, C, and D are incorrect as they miscalculate the sum of the series.",
+      "explanationImage": null,
+      "hints": [
+        "AP",
+        "2, 5, 8",
+        "first 4 terms"
+      ]
+    },
+    {
+      "text": "Which formula is used to find nth term in AP?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Progression (AP, GP)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "an = a × n",
+          "isCorrect": false,
+          "explanation": "Incorrect. This formula is for calculating terms in a geometric progression, not an arithmetic progression."
+        },
+        {
+          "letter": "B",
+          "text": "an = a + (n - 1)d",
+          "isCorrect": true,
+          "explanation": "Correct. This is the formula for the nth term in an arithmetic progression (AP), where 'a' is the first term and 'd' is the common difference."
+        },
+        {
+          "letter": "C",
+          "text": "an = a - (n + 1)d",
+          "isCorrect": false,
+          "explanation": "Incorrect. The signs and structure in this formula are incorrect for AP; it should be a plus with (n - 1) times the difference."
+        },
+        {
+          "letter": "D",
+          "text": "None of the above",
+          "isCorrect": false,
+          "explanation": "Incorrect. Option B provides the correct formula for the nth term in an arithmetic progression."
+        }
+      ],
+      "explanation": "The formula for the nth term in an arithmetic progression (AP) is an = a + (n - 1)d. Here, 'a' represents the first term, 'd' is the common difference between consecutive terms, and 'n' is the term number. Option B correctly represents this relationship, making it the correct choice. Option A is invalid as it uses multiplication, appropriate for a geometric progression. Option C is incorrect due to the wrong arithmetic operation and arrangement of terms. Option D is incorrect as Option B provides the correct formula.",
+      "explanationImage": null,
+      "hints": [
+        "formula",
+        "nth term",
+        "AP"
+      ]
+    },
+    {
+      "text": "Find the 2nd term of AP: a = 7, d = 2",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Progression (AP, GP)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "9",
+          "isCorrect": true,
+          "explanation": "Correct. The calculation is a + d, which equals 7 + 2."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "isCorrect": false,
+          "explanation": "Incorrect. This would be the value of the 3rd term, calculated as a + 2d."
+        },
+        {
+          "letter": "C",
+          "text": "11",
+          "isCorrect": false,
+          "explanation": "Incorrect. This is too high for the 2nd term, as it implies an incorrect calculation of a + 4."
+        },
+        {
+          "letter": "D",
+          "text": "12",
+          "isCorrect": false,
+          "explanation": "Incorrect. This number is not relevant to the given progression formula for the 2nd term."
+        }
+      ],
+      "explanation": "The 2nd term of an arithmetic progression (AP) is calculated using the formula a₂ = a + (n-1) * d. Here, a is the first term, which is 7, and d is the common difference, which is 2. Substituting these values into the formula gives a₂ = 7 + 1*2 = 9. Therefore, the 2nd term is 9.Option A is correct as it accurately reflects this calculation. Option B (10) is incorrect because it represents the 3rd term. Option C (11) and Option D (12) are incorrect, as they do not correspond to any term calculated with the given values for the 2nd term of the sequence.",
+      "explanationImage": null,
+      "hints": [
+        "2nd term",
+        "a = 7",
+        "d = 2"
+      ]
+    },
+    {
+      "text": "Which is the 1st term of the AP: 3, 6, 9, 12?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Progression (AP, GP)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "Incorrect. The sequence begins with a positive number."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "Incorrect. This number does not appear in the sequence."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "isCorrect": true,
+          "explanation": "Correct. This is the first term in the given arithmetic progression (AP)."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": "Incorrect. This is the second term of the sequence, not the first."
+        }
+      ],
+      "explanation": "The correct answer is 3, as it is the first term in the arithmetic progression (AP) sequence provided: 3, 6, 9, 12. An AP sequence is a set of numbers in which the difference between consecutive terms is constant. Here, each term increases by 3, starting with 3. Option A (0) and Option B (2) do not appear anywhere in the sequence. Option D (6) is the second term, not the first.",
+      "explanationImage": null,
+      "hints": [
+        "1st",
+        "term",
+        "AP"
+      ]
+    },
+    {
+      "text": "Find common difference: 20, 16, 12, …",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Progression (AP, GP)",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-4",
+          "isCorrect": true,
+          "explanation": "Correct! The common difference is obtained by subtracting a subsequent term from the preceding one: 16 - 20 = -4 and 12 - 16 = -4."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "Incorrect. The difference should be calculated as the second term minus the first, not the other way around."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "Incorrect. The magnitude is correct, but remember that the sequence is decreasing, so the difference should be negative."
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "Incorrect. This value is too large to be the difference between consecutive terms in this sequence."
+        }
+      ],
+      "explanation": "The common difference in an arithmetic progression is found by subtracting the previous term from the current term. For this sequence (20, 16, 12, ...), subtract 20 from 16 to get -4 and 16 from 12 to get -4. Therefore, the common difference is -4. Options 3 and 4 are incorrect because they do not account for the correct direction or magnitude of the sequence change. Option 5 is too large and does not fit any of the differences in the sequence.",
+      "explanationImage": null,
+      "hints": [
+        "common",
+        "difference"
+      ]
+    }
+  ]
+}

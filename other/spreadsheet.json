@@ -1,0 +1,3754 @@
+{
+  "questions": [
+    {
+      "text": "How many columns are in an MS Excel sheet 2016?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "255",
+          "isCorrect": false,
+          "explanation": "This was the maximum number of columns for Excel 2003 and earlier versions. Excel 2016 significantly increased the column limit."
+        },
+        {
+          "letter": "B",
+          "text": "16,384",
+          "isCorrect": true,
+          "explanation": "The correct answer is B 16,384."
+        },
+        {
+          "letter": "C",
+          "text": "65,535",
+          "isCorrect": false,
+          "explanation": "This is a common limit for older computer systems and software, but Excel 2016 offers a much higher column limit."
+        },
+        {
+          "letter": "D",
+          "text": "1,048,576",
+          "isCorrect": false,
+          "explanation": "This is the number of rows in an Excel 2016 sheet, not the columns. Excel has many more rows than columns."
+        }
+      ],
+      "explanation": "The correct answer is B 16,384.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A cell in a spreadsheet can contain",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "label",
+          "isCorrect": false,
+          "explanation": "A label is text that identifies a particular piece of data in a spreadsheet. For example, a label might be placed in a cell at the top of a column to identify the data in that column, such as \"Name\" or \"Price.\""
+        },
+        {
+          "letter": "B",
+          "text": "value",
+          "isCorrect": false,
+          "explanation": "A value is a number, date, time, or other piece of data that can be used in calculations. For example, a value might be entered into a cell to represent the sales amount for a particular product."
+        },
+        {
+          "letter": "C",
+          "text": "command",
+          "isCorrect": false,
+          "explanation": "A command (or formula) is an instruction that tells the spreadsheet program how to perform a calculation. Formulas typically begin with an equal sign (=) and can reference other cells in the spreadsheet. For example, a formula might be entered into a cell to calculate the total sales amount by adding the values in several other cells."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": "Spreadsheets are powerful tools because they allow you to combine labels, values, and commands in a single worksheet to create informative and interactive models"
+        }
+      ],
+      "explanation": "Spreadsheets are powerful tools because they allow you to combine labels, values, and commands in a single worksheet to create informative and interactive models",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which keys are used to close the selected workbook in MS Excel?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ctrl+U",
+          "isCorrect": false,
+          "explanation": "is used for underlining text."
+        },
+        {
+          "letter": "B",
+          "text": "Ctrl+S",
+          "isCorrect": false,
+          "explanation": "is used for saving the workbook"
+        },
+        {
+          "letter": "C",
+          "text": "Ctrl+P",
+          "isCorrect": false,
+          "explanation": "is used for printing the workbook."
+        },
+        {
+          "letter": "D",
+          "text": "Ctrl+W",
+          "isCorrect": true,
+          "explanation": "is the keyboard shortcut for closing the selected workbook in MS Excel."
+        }
+      ],
+      "explanation": "is the keyboard shortcut for closing the selected workbook in MS Excel.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In a spreadsheet, the default alignment of text in cell S2 is",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Left",
+          "isCorrect": true,
+          "explanation": "The correct answer is A) Left. Most spreadsheet programs, including Microsoft Excel, apply left alignment by default to text entries in cells. This left alignment makes it easier to read and compare text data within a spreadsheet, especially when working with multiple columns"
+        },
+        {
+          "letter": "B",
+          "text": "Right",
+          "isCorrect": false,
+          "explanation": "While you can manually format text to be right-aligned, it's not the default setting. Right alignment is often used for numerical data, such as currency or percentages"
+        },
+        {
+          "letter": "C",
+          "text": "Center",
+          "isCorrect": false,
+          "explanation": "Center and Middle alignment and middle alignment are not typical default settings for text in spreadsheets. These alignments might be used for specific design purposes or to center headings, but they are not the standard for text data."
+        },
+        {
+          "letter": "D",
+          "text": "Middle",
+          "isCorrect": false,
+          "explanation": "Center and Middlealignment and middle alignment are not typical default settings for text in spreadsheets. These alignments might be used for specific design purposes or to center headings, but they are not the standard for text data."
+        }
+      ],
+      "explanation": "is the keyboard shortcut for closing the selected workbook in MS Excel.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following function is used to find maximum value in an Excel sheet?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "MAX (C1:C100) (This is the correct answer)",
+          "isCorrect": true,
+          "explanation": "MAX is a function in Excel that returns the largest numeric value within a range of cells. In the example provided (MAX (C1:C100)), the function would find the highest value among the cells C1 to C100"
+        },
+        {
+          "letter": "B",
+          "text": "MIN(D1:100)",
+          "isCorrect": false,
+          "explanation": "The MIN function returns the smallest numeric value within a range of cells. So, it would find the lowest value, not the maximum."
+        },
+        {
+          "letter": "C",
+          "text": "SORT (D1:D100)",
+          "isCorrect": false,
+          "explanation": "The SORT function sorts the data in a range of cells in ascending or descending order. It doesn't specifically identify the maximum value."
+        },
+        {
+          "letter": "D",
+          "text": "MAX (C1:C100) (This is a duplicate of option A)",
+          "isCorrect": false,
+          "explanation": "This is a duplicate of option A and would also return the maximum value within the range C1:C100"
+        }
+      ],
+      "explanation": "MAX is a function in Excel that returns the largest numeric value within a range of cells. In the example provided (MAX (C1:C100)), the function would find the highest value among the cells C1 to C100",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of these keys are used in MS Excel for undo to reverse the last command or to delete the last entry",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ctrl+N",
+          "isCorrect": false,
+          "explanation": "is used to create a new workbook in MS Excel."
+        },
+        {
+          "letter": "B",
+          "text": "Ctrl+V",
+          "isCorrect": false,
+          "explanation": "is used to paste copied content into the spreadsheet"
+        },
+        {
+          "letter": "C",
+          "text": "Ctrl+K",
+          "isCorrect": false,
+          "explanation": "doesn't have a default function in MS Excel but can be assigned a custom macro function"
+        },
+        {
+          "letter": "D",
+          "text": "Ctrl+Z",
+          "isCorrect": true,
+          "explanation": "Ctrl+Z is the universally used keyboard shortcut for undo in many applications, including MS Excel. It allows you to reverse the last action or entry you made."
+        }
+      ],
+      "explanation": "Ctrl+Z is the universally used keyboard shortcut for undo in many applications, including MS Excel. It allows you to reverse the last action or entry you made.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In Excel, which feature is used to express mathematical relationships between cells?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Formula",
+          "isCorrect": false,
+          "explanation": "A formula is an expression that performs calculations using cell references, operators, and functions. It's the core way to establish mathematical relationships in Excel."
+        },
+        {
+          "letter": "B",
+          "text": "Commands",
+          "isCorrect": false,
+          "explanation": "While not as common as formulas, some Excel commands can indirectly establish mathematical relationships. For instance, the AutoSum command can insert a formula that calculates the sum of a range of cells."
+        },
+        {
+          "letter": "C",
+          "text": "Functions",
+          "isCorrect": false,
+          "explanation": "Functions are pre-built formulas that perform specific calculations. They are a powerful way to express complex mathematical relationships within a spreadsheet."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": "The correct answer is D) All of the above.In conclusion, formulas, commands, and functions all play a role in expressing mathematical relationships between cells in Excel. Formulas are the most direct method, while commands and functions can be supplementary tools to achieve the desired calculations."
+        }
+      ],
+      "explanation": "The correct answer is D) All of the above.In conclusion, formulas, commands, and functions all play a role in expressing mathematical relationships between cells in Excel. Formulas are the most direct method, while commands and functions can be supplementary tools to achieve the desired calculations.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which keys are used to display the print dialog box in MS Excel",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ctrl+U",
+          "isCorrect": false,
+          "explanation": "Correct answer is Ctrl+U.This is not the shortcut for the print dialog box. Ctrl+U is commonly used for underlining text in various applications, including MS Excel."
+        },
+        {
+          "letter": "B",
+          "text": "Ctrl+p",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. Ctrl+P is the keyboard shortcut for opening the print dialog box in MS Excel. This shortcut allows you to quickly access printing options like selecting a printer, specifying the print range, and adjusting print settings"
+        },
+        {
+          "letter": "C",
+          "text": "Ctrl+O",
+          "isCorrect": false,
+          "explanation": "Ctrl+O is the keyboard shortcut for opening a file in MS Excel. It is used to open existing spreadsheets."
+        },
+        {
+          "letter": "D",
+          "text": "Ctrl+G",
+          "isCorrect": false,
+          "explanation": "Ctrl+G is the keyboard shortcut for opening the \"Go To\" dialog box in MS Excel. This dialog box allows you to jump to a specific cell or range of cells within the worksheet."
+        }
+      ],
+      "explanation": "This is the correct answer. Ctrl+P is the keyboard shortcut for opening the print dialog box in MS Excel. This shortcut allows you to quickly access printing options like selecting a printer, specifying the print range, and adjusting print settings",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which function in Excel tells you how many numeric entries are there",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "COUNT(*)",
+          "isCorrect": true,
+          "explanation": "counts all cells that contain numbers, logical values (TRUE or FALSE), and text entries in a range of cells. In most cases, when you use COUNT without an argument within the parenthesis, it behaves the same as COUNT(*).The answer is (A) COUNT(*)"
+        },
+        {
+          "letter": "B",
+          "text": "NUM",
+          "isCorrect": false,
+          "explanation": "NUM is not a built-in function in Excel."
+        },
+        {
+          "letter": "C",
+          "text": "SUM",
+          "isCorrect": false,
+          "explanation": "SUM adds all numeric values in a range of cells."
+        },
+        {
+          "letter": "D",
+          "text": "CHKNUM",
+          "isCorrect": false,
+          "explanation": "CHKNUM is not a built-in function in Excel."
+        }
+      ],
+      "explanation": "counts all cells that contain numbers, logical values (TRUE or FALSE), and text entries in a range of cells. In most cases, when you use COUNT without an argument within the parenthesis, it behaves the same as COUNT(*).The answer is (A) COUNT(*)",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which feature of MS Excel allows to represent data in graphical form for comparison and analysis",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Charts",
+          "isCorrect": true,
+          "explanation": "Excel charts are a powerful tool for transforming numerical data into visual representations like bar graphs, line graphs, pie charts, and many more. These charts allow you to see patterns, trends, and relationships within your data that might be difficult to identify by just looking at raw numbers in a spreadsheet."
+        },
+        {
+          "letter": "B",
+          "text": "Flowcharts",
+          "isCorrect": false,
+          "explanation": "Flowcharts are typically used to visually represent workflows or processes, not data analysis."
+        },
+        {
+          "letter": "C",
+          "text": "Function Wizard",
+          "isCorrect": false,
+          "explanation": "The Function Wizard helps you insert pre-built functions into your spreadsheets, but it doesn't directly create charts. While some functions can be used to generate data that can be used in charts, the Wizard itself doesn't create charts."
+        },
+        {
+          "letter": "D",
+          "text": "Tally Table",
+          "isCorrect": false,
+          "explanation": "Tally tables are simple tables used to track the frequency of occurrences. While they can be a basic way to organize data, they are not for complex data visualization and comparison."
+        }
+      ],
+      "explanation": "Excel charts are a powerful tool for transforming numerical data into visual representations like bar graphs, line graphs, pie charts, and many more. These charts allow you to see patterns, trends, and relationships within your data that might be difficult to identify by just looking at raw numbers in a spreadsheet.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A file that contains one or more worksheets to organize data is known as:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "workbook",
+          "isCorrect": true,
+          "explanation": "A workbook is the primary file format used in Microsoft Excel. It acts as a container that holds one or more worksheets. Each worksheet within a workbook functions like a separate spreadsheet for organizing and manipulating data. Workbooks allow you to segregate different aspects of your data analysis within a single file."
+        },
+        {
+          "letter": "B",
+          "text": "Excel book",
+          "isCorrect": false,
+          "explanation": "\"Excel book\" is not a standard term used in Microsoft Excel. While some users might refer to workbooks as Excel books conversationally, the official terminology is workbook."
+        },
+        {
+          "letter": "C",
+          "text": "Datasheet",
+          "isCorrect": false,
+          "explanation": "Datasheet can be a general term for a table containing data. In the context of spreadsheet applications like Microsoft Excel, a datasheet often refers to a single worksheet within a workbook, not the entire file containing multiple worksheets."
+        },
+        {
+          "letter": "D",
+          "text": "Spreadsheet",
+          "isCorrect": false,
+          "explanation": "Spreadsheet can also refer to a single worksheet within a workbook, similar to a datasheet. While a workbook can contain multiple spreadsheets (worksheets), it itself is not technically a spreadsheet but rather a container for them."
+        }
+      ],
+      "explanation": "A workbook is the primary file format used in Microsoft Excel. It acts as a container that holds one or more worksheets. Each worksheet within a workbook functions like a separate spreadsheet for organizing and manipulating data. Workbooks allow you to segregate different aspects of your data analysis within a single file.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which key is used for help in MS Excel?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "F2F2",
+          "isCorrect": false,
+          "explanation": "F2 edits the active cell and puts the insertion point at the end of its contents."
+        },
+        {
+          "letter": "B",
+          "text": "F1",
+          "isCorrect": true,
+          "explanation": "F1 displays the Excel Help task pane, which provides access to a variety of help resources, including articles, tutorials, and videos."
+        },
+        {
+          "letter": "C",
+          "text": "F3",
+          "isCorrect": false,
+          "explanation": "F3 displays the Paste Name dialog box."
+        },
+        {
+          "letter": "D",
+          "text": "F4",
+          "isCorrect": false,
+          "explanation": "F4 cycles through various combinations of formula reference types, such as absolute, relative, or mixed."
+        }
+      ],
+      "explanation": "F1 displays the Excel Help task pane, which provides access to a variety of help resources, including articles, tutorials, and videos.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is an absolute address?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "A1$",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "$A1",
+          "isCorrect": false,
+          "explanation": "Similar to option B, this only fixes the row reference (1). Copying $A1 to B1 would change the column reference to B.By using absolute addresses ($A$1) in formulas, you ensure that the formula always refers to the specific cell A1 regardless of where it's copied or moved within the spreadsheet. This is particularly useful when you want a formula to reference a constant value or cell in another sheet."
+        },
+        {
+          "letter": "D",
+          "text": "",
+          "isCorrect": true,
+          "explanation": "The correct answer is D) $A$1.An absolute address in Microsoft Excel refers to a cell location that remains unchanged even when copied or referenced in formulas. It includes both the column letter and row number preceded by a dollar sign .Here′swhytheotheroptionsareincorrect:∗∗∗A)A1∗∗:Thisisarelativeaddress.Whencopiedtoadifferentlocationinthespreadsheet,thecellreferencewilladjustaccordingly.Forinstance,ifyoucopyA1toB2,thereferencewillchangetoB2.∗∗∗B)A1**: This only fixes the column reference (A). If copied to a different row, the row number would still change. Copying A1$ to C2 would result in C2, not the absolute location A1."
+        }
+      ],
+      "explanation": "The correct answer is D) $A$1.An absolute address in Microsoft Excel refers to a cell location that remains unchanged even when copied or referenced in formulas. It includes both the column letter and row number preceded by a dollar sign .Here′swhytheotheroptionsareincorrect:∗∗∗A)A1∗∗:Thisisarelativeaddress.Whencopiedtoadifferentlocationinthespreadsheet,thecellreferencewilladjustaccordingly.Forinstance,ifyoucopyA1toB2,thereferencewillchangetoB2.∗∗∗B)A1**: This only fixes the column reference (A). If copied to a different row, the row number would still change. Copying A1$ to C2 would result in C2, not the absolute location A1.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is a correct address of a cell in a worksheet?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": "These options only contain one part of a cell address. A correct cell address requires both a column letter and a row number. Option C (\"3B\") uses a number and a letter, but the letter needs to represent a column (A, B, C, etc.) and not a numbe"
+        },
+        {
+          "letter": "B",
+          "text": "25",
+          "isCorrect": false,
+          "explanation": "These options only contain one part of a cell address. A correct cell address requires both a column letter and a row number. Option C (\"3B\") uses a number and a letter, but the letter needs to represent a column (A, B, C, etc.) and not a numbe"
+        },
+        {
+          "letter": "C",
+          "text": "3B",
+          "isCorrect": false,
+          "explanation": "These options only contain one part of a cell address. A correct cell address requires both a column letter and a row number. Option C (\"3B\") uses a number and a letter, but the letter needs to represent a column (A, B, C, etc.) and not a number."
+        },
+        {
+          "letter": "D",
+          "text": "C5",
+          "isCorrect": true,
+          "explanation": "A cell address in a worksheet is a combination of a letter and a number that uniquely identifies a specific cell. In cell address C5, \"C\" represents the column and \"5\" represents the row. So, cell C5 is located at the intersection of column C and row 5 in the worksheet."
+        }
+      ],
+      "explanation": "A cell address in a worksheet is a combination of a letter and a number that uniquely identifies a specific cell. In cell address C5, \"C\" represents the column and \"5\" represents the row. So, cell C5 is located at the intersection of column C and row 5 in the worksheet.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The intersection of rows and columns in MS Excel is called",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Data",
+          "isCorrect": false,
+          "explanation": "Data is a general term for information stored in a spreadsheet and can encompass cells, rows, columns, and worksheets."
+        },
+        {
+          "letter": "B",
+          "text": "Cell",
+          "isCorrect": true,
+          "explanation": "Cell is the correct term for the intersection of a row and column in MS Excel. A cell is the basic building block of a worksheet and can hold various types of data, including numbers, text, formulas, and dates"
+        },
+        {
+          "letter": "C",
+          "text": "Field",
+          "isCorrect": false,
+          "explanation": "Field is a term more commonly used in databases to represent a specific category of data."
+        },
+        {
+          "letter": "D",
+          "text": "Row",
+          "isCorrect": false,
+          "explanation": "Row refers to a horizontal arrangement of cells in a worksheet."
+        }
+      ],
+      "explanation": "Cell is the correct term for the intersection of a row and column in MS Excel. A cell is the basic building block of a worksheet and can hold various types of data, including numbers, text, formulas, and dates",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The default number format assigned to a cell in Excel is the",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Excel format",
+          "isCorrect": false,
+          "explanation": "\"Excel format\" is a general term for any formatting applied to a cell, not a specific default format."
+        },
+        {
+          "letter": "B",
+          "text": "General format",
+          "isCorrect": true,
+          "explanation": "Excel's General format is a versatile default setting that attempts to display your entries in a clear and concise way. Here's a breakdown of how it works:Numbers: Numbers are typically displayed exactly as you enter them.Large numbers: If a number entered in a cell has too many digits to fit comfortably in the column width, Excel might switch to scientific notation (e.g., 1.23E+07).Dates and times: Excel interprets entries that resemble dates or times and formats them accordingly (e.g., 01/31/2024)."
+        },
+        {
+          "letter": "C",
+          "text": "Scientific notation",
+          "isCorrect": false,
+          "explanation": "Scientific notation is a way to represent very large or small numbers using exponents. While Excel might use it for General format"
+        },
+        {
+          "letter": "D",
+          "text": "Exponential",
+          "isCorrect": false,
+          "explanation": "Exponential format is similar to scientific notation but uses a different notation (e.g., 1.23e+07). It's not the default format in Excel."
+        }
+      ],
+      "explanation": "Excel's General format is a versatile default setting that attempts to display your entries in a clear and concise way. Here's a breakdown of how it works:Numbers: Numbers are typically displayed exactly as you enter them.Large numbers: If a number entered in a cell has too many digits to fit comfortably in the column width, Excel might switch to scientific notation (e.g., 1.23E+07).Dates and times: Excel interprets entries that resemble dates or times and formats them accordingly (e.g., 01/31/2024).",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Pre-defined formulas in Excel are called?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Operators",
+          "isCorrect": false,
+          "explanation": "Operators are symbols that perform basic mathematical operations like addition (+), subtraction (-), multiplication (*), and division (/). While operators are used within formulas, they are not the complete formulas themselves."
+        },
+        {
+          "letter": "B",
+          "text": "Calculator",
+          "isCorrect": false,
+          "explanation": "While a basic calculator can perform simple calculations, Excel functions offer a much wider range of capabilities and can manipulate data in more sophisticated ways."
+        },
+        {
+          "letter": "C",
+          "text": "Functions",
+          "isCorrect": true,
+          "explanation": "In Microsoft Excel, functions are pre-defined formulas that perform specific calculations or manipulations on data. They offer a variety of functionalities, including mathematical calculations, statistical analysis, logical operations, text manipulation, and more. Functions are essential for automating calculations and data analysis in spreadsheets."
+        },
+        {
+          "letter": "D",
+          "text": "Formula",
+          "isCorrect": false,
+          "explanation": "While technically correct, \"formula\" is a more general term. \"Function\" is a specific type of formula that is pre-defined in Excel and offers a specific functionality"
+        }
+      ],
+      "explanation": "In Microsoft Excel, functions are pre-defined formulas that perform specific calculations or manipulations on data. They offer a variety of functionalities, including mathematical calculations, statistical analysis, logical operations, text manipulation, and more. Functions are essential for automating calculations and data analysis in spreadsheets.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Calling a cell by its address is known as",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Relative reference",
+          "isCorrect": false,
+          "explanation": "Relative reference is the default type of cell reference in Excel. When you copy a formula that contains relative references, the offsets between the referenced cell and the formula cell are maintained. For example, if you copy the formula =A1+B1 one cell to the right, the formula will automatically change to =B2+C2."
+        },
+        {
+          "letter": "B",
+          "text": "Direct reference",
+          "isCorrect": false,
+          "explanation": "Direct reference is not a standard term in Excel. It might be confused with absolute reference, but \"absolute\" is the more widely used term."
+        },
+        {
+          "letter": "C",
+          "text": "Absolute reference",
+          "isCorrect": true,
+          "explanation": "Absolute reference refers to a cell address that always refers to the same specific cell location in a worksheet, regardless of where the formula is copied or moved. An absolute reference is created by placing a dollar sign ($) before both the column letter and the row number (e.g., $A$1)."
+        },
+        {
+          "letter": "D",
+          "text": "Calling reference",
+          "isCorrect": false,
+          "explanation": "Calling reference is not a term used in Excel."
+        }
+      ],
+      "explanation": "Absolute reference refers to a cell address that always refers to the same specific cell location in a worksheet, regardless of where the formula is copied or moved. An absolute reference is created by placing a dollar sign ($) before both the column letter and the row number (e.g., $A$1).",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A group of adjacent cells in a worksheet is called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Range",
+          "isCorrect": true,
+          "explanation": "Range is the correct term for a rectangular area of one or more cells in a worksheet. You can use ranges to perform operations on groups of cells, such as copying, formatting, or applying formulas."
+        },
+        {
+          "letter": "B",
+          "text": "Group",
+          "isCorrect": false,
+          "explanation": "Group is a general term used in various software applications to categorize or organize items. In Excel, grouping refers to collapsing rows or columns to hide their details. It doesn't specifically refer to a selection of cells."
+        },
+        {
+          "letter": "C",
+          "text": "Merging",
+          "isCorrect": false,
+          "explanation": "Merging refers to combining two or more cells into a single larger cell. While merging cells can create a range of sorts, it's not the standard term for selecting adjacent cells."
+        },
+        {
+          "letter": "D",
+          "text": "Reference in Excel",
+          "isCorrect": false,
+          "explanation": "refers to a cell address or a range of cells used in formulas. It doesn't refer to the selection of cells itself"
+        }
+      ],
+      "explanation": "Range is the correct term for a rectangular area of one or more cells in a worksheet. You can use ranges to perform operations on groups of cells, such as copying, formatting, or applying formulas.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which shortcut key in MS Excel is used for hiding rows?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ctrl+9",
+          "isCorrect": true,
+          "explanation": "In MS Excel, pressing Ctrl+9 is the shortcut key for hiding the selected rows. This can be a useful way to temporarily hide data that you don't need to see while you're working on your spreadsheet."
+        },
+        {
+          "letter": "B",
+          "text": "Ctrl+7",
+          "isCorrect": false,
+          "explanation": "Ctrl+7 is not shortcut keys for hiding rows in MS Excel. These keyboard shortcuts might be used for other purposes in Excel, but they don't hide rows"
+        },
+        {
+          "letter": "C",
+          "text": "Ctrl+6",
+          "isCorrect": false,
+          "explanation": "Ctrl+6 is not shortcut keys for hiding rows in MS Excel. These keyboard shortcuts might be used for other purposes in Excel, but they don't hide rows"
+        },
+        {
+          "letter": "D",
+          "text": "Ctrl+5",
+          "isCorrect": false,
+          "explanation": "Ctrl+5 is not shortcut keys for hiding rows in MS Excel. These keyboard shortcuts might be used for other purposes in Excel, but they don't hide rows"
+        }
+      ],
+      "explanation": "In MS Excel, pressing Ctrl+9 is the shortcut key for hiding the selected rows. This can be a useful way to temporarily hide data that you don't need to see while you're working on your spreadsheet.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which function is used to find current date in MS Excel?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Calendar",
+          "isCorrect": false,
+          "explanation": "While Excel has a calendar view you can access, it's not a function to insert the current date into a cell."
+        },
+        {
+          "letter": "B",
+          "text": "Date",
+          "isCorrect": false,
+          "explanation": "Date The Date function in Excel allows you to create a date using specific year, month, and day values. It's not designed to automatically insert the current date. For instance, you could use \"=Date(2023,12,31)\" to enter December 31st, 2023, but it wouldn't update automatically."
+        },
+        {
+          "letter": "C",
+          "text": "Today",
+          "isCorrect": true,
+          "explanation": "The correct answer is C) Today.The Today function is the most efficient way to insert the current date into an Excel spreadsheet cell. It automatically updates whenever the worksheet is recalculated or opened, ensuring you always have the most recent date"
+        },
+        {
+          "letter": "D",
+          "text": "Current Date",
+          "isCorrect": false,
+          "explanation": "\"Current Date\" is not a built-in function in Excel."
+        }
+      ],
+      "explanation": "The correct answer is C) Today.The Today function is the most efficient way to insert the current date into an Excel spreadsheet cell. It automatically updates whenever the worksheet is recalculated or opened, ensuring you always have the most recent date",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which software tool is used for editing, calculating, manipulating and analyzing sets of numbers?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Spread Sheet",
+          "isCorrect": true,
+          "explanation": "The correct answer is A) Spread Sheet.Spreadsheets are specifically designed for working with numerical data. They offer features like:Cells: A spreadsheet is organized into a grid of cells, where each cell can hold a number, text, formula, or other data type.Formulas: You can create formulas to perform calculations on data in other cells. This allows you to automate repetitive tasks and perform complex analyses.Formatting: Spreadsheets allow you to format the appearance of your data, including fonts, number formats, and conditional formatting. This helps you to present your data clearly and effectively.Charts and graphs: Spreadsheets can be used to create charts and graphs that visually represent your data. This can be a powerful way to identify trends and patterns."
+        },
+        {
+          "letter": "B",
+          "text": "Word Processor",
+          "isCorrect": false,
+          "explanation": "Word processors are designed for creating and editing text documents. While they can include tables for basic data organization, they lack the advanced features for calculations, formulas, and data analysis specific to spreadsheets."
+        },
+        {
+          "letter": "C",
+          "text": "Power Point",
+          "isCorrect": false,
+          "explanation": "Presentation software like PowerPoint is used to create presentations with slides that can include text, images, charts, and videos. While it can incorporate data from spreadsheets, it's not designed for in-depth numerical analysis."
+        },
+        {
+          "letter": "D",
+          "text": "Data Base",
+          "isCorrect": false,
+          "explanation": "Databases are designed to store and manage large collections of data. While they can handle numbers, their primary function is to organize and retrieve information based on queries, not for complex calculations and data manipulation like spreadsheets"
+        }
+      ],
+      "explanation": "The correct answer is A) Spread Sheet.Spreadsheets are specifically designed for working with numerical data. They offer features like:Cells: A spreadsheet is organized into a grid of cells, where each cell can hold a number, text, formula, or other data type.Formulas: You can create formulas to perform calculations on data in other cells. This allows you to automate repetitive tasks and perform complex analyses.Formatting: Spreadsheets allow you to format the appearance of your data, including fonts, number formats, and conditional formatting. This helps you to present your data clearly and effectively.Charts and graphs: Spreadsheets can be used to create charts and graphs that visually represent your data. This can be a powerful way to identify trends and patterns.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which is the basic unit of MS-Excel where data is entered?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Row",
+          "isCorrect": false,
+          "explanation": "A row is a horizontal line of cells in a worksheet. It does not represent the fundamental unit where data is entered; instead, it groups cells together."
+        },
+        {
+          "letter": "B",
+          "text": "cell",
+          "isCorrect": true,
+          "explanation": "A cell is the basic unit of a worksheet in MS Excel. It is the intersection of a horizontal row and a vertical column, identified by a unique cell address formed by the column letter and row number (e.g., A1, C5). Cells are where you enter data (text, numbers, dates, etc.) and formulas in an Excel spreadsheet."
+        },
+        {
+          "letter": "C",
+          "text": "Column",
+          "isCorrect": false,
+          "explanation": "Similar to rows, a column is a vertical sequence of cells identified by a letter (A, B, C, etc.). It represents a group of cells, not the basic unit for data input."
+        },
+        {
+          "letter": "D",
+          "text": "Worksheet",
+          "isCorrect": false,
+          "explanation": "A worksheet is a single sheet within an Excel workbook that contains rows and columns of cells. It acts as a container for your data and is not the fundamental unit itself"
+        }
+      ],
+      "explanation": "A cell is the basic unit of a worksheet in MS Excel. It is the intersection of a horizontal row and a vertical column, identified by a unique cell address formed by the column letter and row number (e.g., A1, C5). Cells are where you enter data (text, numbers, dates, etc.) and formulas in an Excel spreadsheet.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In MS Excel, the alignment of content can be changed up to",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "45 degrees",
+          "isCorrect": false,
+          "explanation": "45 degrees is not supported rotation angles for cell content alignment in MS Excel."
+        },
+        {
+          "letter": "B",
+          "text": "90 degrees",
+          "isCorrect": true,
+          "explanation": "90 degrees is the maximum rotation angle available for cell content alignment in MS Excel. You can align text either horizontally (left, center, right) or vertically (top, middle, bottom)."
+        },
+        {
+          "letter": "C",
+          "text": "180 degrees",
+          "isCorrect": false,
+          "explanation": "180 degrees is not supported rotation angles for cell content alignment in MS Excel."
+        },
+        {
+          "letter": "D",
+          "text": "360 degrees",
+          "isCorrect": false,
+          "explanation": "360 degrees is a full circle and wouldn't be a practical option for text alignment within a cell. It would effectively reverse the text back to its original orientation"
+        }
+      ],
+      "explanation": "90 degrees is the maximum rotation angle available for cell content alignment in MS Excel. You can align text either horizontally (left, center, right) or vertically (top, middle, bottom).",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is an example of a spreadsheet?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lotus 123",
+          "isCorrect": false,
+          "explanation": "Lotus 123 was an influential spreadsheet program introduced in 1983. While not as widely used today as other options, it was a major spreadsheet application in the early days of personal computers."
+        },
+        {
+          "letter": "B",
+          "text": "MS Excel",
+          "isCorrect": false,
+          "explanation": "Microsoft Excel is a dominant spreadsheet application included in the Microsoft Office suite. It offers a comprehensive set of features for data organization, calculations, analysis, and visualization."
+        },
+        {
+          "letter": "C",
+          "text": "Google Sheets",
+          "isCorrect": false,
+          "explanation": "Google Sheets is a web-based spreadsheet application included in Google Workspace. It allows collaborative editing in real-time and integrates seamlessly with other Google services."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": "In conclusion, spreadsheets are a category of software designed for working with data in a tabular format. The image you sent lists three popular spreadsheet programs, but there are other spreadsheet applications available as well."
+        }
+      ],
+      "explanation": "In conclusion, spreadsheets are a category of software designed for working with data in a tabular format. The image you sent lists three popular spreadsheet programs, but there are other spreadsheet applications available as well.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In Microsoft Excel spreadsheets, rows are labeled as",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1, 2, 3,.....",
+          "isCorrect": true,
+          "explanation": "By default, Microsoft Excel uses the A1 referencing style, which refers to columns with capital letters (A, B, C, D, etc.) and rows with numbers (1, 2, 3, 4, etc.). The cell at the intersection of column A and row 1 is called cell A1. This naming convention allows you to easily identify and reference specific cells within your spreadsheet."
+        },
+        {
+          "letter": "B",
+          "text": "A, B, C,...",
+          "isCorrect": false,
+          "explanation": "This option refers to column labels, not row labels."
+        },
+        {
+          "letter": "C",
+          "text": "A1, B1, C1....",
+          "isCorrect": false,
+          "explanation": "This option shows cell addresses, which combine a column letter and a row number. While helpful for identifying specific cells, it is not how rows themselves are labeled."
+        },
+        {
+          "letter": "D",
+          "text": "I, II, III,.....:",
+          "isCorrect": false,
+          "explanation": "This is not a standard row labeling system used in Microsoft Excel"
+        }
+      ],
+      "explanation": "By default, Microsoft Excel uses the A1 referencing style, which refers to columns with capital letters (A, B, C, D, etc.) and rows with numbers (1, 2, 3, 4, etc.). The cell at the intersection of column A and row 1 is called cell A1. This naming convention allows you to easily identify and reference specific cells within your spreadsheet.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Formulas in Excel always begin with:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A/",
+          "isCorrect": false,
+          "explanation": "A/,, Bf, and C are not valid ways to initiate a formula in Excel. These could potentially be typos or errors in the formula itself, but they would not be the correct way to begin a formula"
+        },
+        {
+          "letter": "B",
+          "text": "Bf",
+          "isCorrect": false,
+          "explanation": "A/,, Bf, and C are not valid ways to initiate a formula in Excel. These could potentially be typos or errors in the formula itself, but they would not be the correct way to begin a formula"
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": "A/,, Bf, and C are not valid ways to initiate a formula in Excel. These could potentially be typos or errors in the formula itself, but they would not be the correct way to begin a formula"
+        },
+        {
+          "letter": "D",
+          "text": "D) =",
+          "isCorrect": true,
+          "explanation": "is the correct answer. A formula in Excel always starts with an equal sign (=). This symbol tells Excel that the following characters are a formula and not just text."
+        }
+      ],
+      "explanation": "is the correct answer. A formula in Excel always starts with an equal sign (=). This symbol tells Excel that the following characters are a formula and not just text.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "On an Excel sheet, the active cell is indicated by",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "dotted border",
+          "isCorrect": false,
+          "explanation": "A dotted border is not used to indicate the active cell in Excel. Dotted borders might be used for specific formatting purposes, but not to highlight the active cell."
+        },
+        {
+          "letter": "B",
+          "text": "A dark wide border",
+          "isCorrect": true,
+          "explanation": "black border, which distinguishes it from other cells on the spreadsheet. This visual cue helps you identify the cell where you can enter or edit data."
+        },
+        {
+          "letter": "C",
+          "text": "A blinking border",
+          "isCorrect": false,
+          "explanation": "A blinking border is also not used to indicate the active cell in Excel. While some applications use a blinking cursor to show focus, Excel relies on the black border for this purpose."
+        },
+        {
+          "letter": "D",
+          "text": "Italic text",
+          "isCorrect": false,
+          "explanation": "Italic text is not a way to identify the active cell in Excel. Font styles like italic are used for formatting purposes and don't indicate which cell is currently selected. A dark wide border is the correct answer. The active cell in Excel is surrounded by a thick"
+        }
+      ],
+      "explanation": "black border, which distinguishes it from other cells on the spreadsheet. This visual cue helps you identify the cell where you can enter or edit data.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "How many rows does MS Excel 2003 contain?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "256",
+          "isCorrect": false,
+          "explanation": "This is the number of columns in Excel 2003, not the number of rows."
+        },
+        {
+          "letter": "B",
+          "text": "16348",
+          "isCorrect": false,
+          "explanation": "This is not a standard limitation for rows in Excel 2003."
+        },
+        {
+          "letter": "C",
+          "text": "65,536",
+          "isCorrect": true,
+          "explanation": "Microsoft Excel 2003 has a limitation of 65,536 rows per worksheet. This means that you can enter data or formulas in up to 65,536 rows in a single spreadsheet."
+        },
+        {
+          "letter": "D",
+          "text": "1048576",
+          "isCorrect": false,
+          "explanation": "This is the number of rows found in later versions of Excel, starting from Excel 2007"
+        }
+      ],
+      "explanation": "Microsoft Excel 2003 has a limitation of 65,536 rows per worksheet. This means that you can enter data or formulas in up to 65,536 rows in a single spreadsheet.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following wildcards used to show how many digits display on either side of a decimal number?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "This would likely represent a single digit to the right of the decimal, not necessarily on both sides."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "Similar to option A, this would likely represent a single digit, but not necessarily on both sides of the decimal"
+        },
+        {
+          "letter": "C",
+          "text": "#",
+          "isCorrect": true,
+          "explanation": "The correct answer is C) #.The hashtag (#) symbol is a wildcard that typically represents one or more digits in the context of formatting numbers. In this case, it indicates that the wildcard can be used for any number of digits on either side of the decimal point. For instance, if a number format is specified as \"#.##\", it could display numbers like 3.14, 123.456, or 10 (with a trailing decimal and zero"
+        },
+        {
+          "letter": "D",
+          "text": "?",
+          "isCorrect": false,
+          "explanation": "A question mark is often used as a wildcard to represent any single character, but it's not commonly used in this context for specifying decimal places."
+        }
+      ],
+      "explanation": "The correct answer is C) #.The hashtag (#) symbol is a wildcard that typically represents one or more digits in the context of formatting numbers. In this case, it indicates that the wildcard can be used for any number of digits on either side of the decimal point. For instance, if a number format is specified as \"#.##\", it could display numbers like 3.14, 123.456, or 10 (with a trailing decimal and zero",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Features of Spreadsheet SoftwareBy default, values are aligned in a cell at:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Left",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Top",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Bottom",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Right",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Explanation: TopIn Excel, by default, text and numbers are aligned to the top of the cell. This means the content appears at the top of the cell within its borders. You can change the alignment to left, right, center, or justify as needed.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Each row in Excel is assigned with a:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Row and Column",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Cell",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Auto Format",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Number",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is an absolute address?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A1",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Cell A1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "SAS1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "$A1",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following are applied only on values in Excel?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "File Handling",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Wizard",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Format Cell",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Formulas",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Explanation: Format Cell The \"Format Cell\" option allows you to modify the appearance of cell values, including font style, color, number format (e.g., currency, percentages), and alignment. It primarily affects how the value is displayed.File Handling deals with managing and organizing Excel files themselves, not formatting values within cells.Wizards are guided processes that help users complete specific tasks in Excel, not directly formatting values.Formulas are used to perform calculations and generate new values based on existing data in the spreadsheet. They can interact with formatting to display results in a specific way.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Budgeting is called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Function",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Wizard",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Electronic sheet which can be used for mathematical purposes like accounting",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Work Space",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Explanation: Electronic sheet which can be used for mathematical purposes like accountingA spreadsheet program like Excel is a powerful tool for creating electronic sheets (worksheets) that can be used for various purposes, including budgeting. You can organize income and expenses, create formulas to calculate totals and balances, and track financial data over time.Function refers to specific built-in calculations within Excel that can be used in formulas.Wizards are guided processes that help users complete specific tasks, not directly related to budgeting.Work Space is a broader term that could encompass the entire Excel program window, not specific to budgeting functionality.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Calling cells by their address is known as:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decimal Place",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Relative Referencing",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Sheet Tab",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Header and Footer",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Explanation: Relative referencing Calling cells by their address (e.g., A1, B3) is a fundamental concept in Excel. This is not related to:Decimal Place, which refers to the number of digits displayed to the right of the decimal point in a number.Sheet Tab, which refers to the labeled tabs at the bottom of the window that allow you to switch between different worksheets in a workbook.Header and Footer, which are elements at the top and bottom of each printed page, not related to cell referencing.So, the answer is Relative Referencing, a way of using cell addresses in formulas that adjust when copied or moved within the worksheet.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following are used to identify a value or a series of values?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Labels",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Formula",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Explanation: Labels Labels in Excel are text entries that provide descriptive information within a worksheet. They are used to identify values or categories of data, making the spreadsheet easier to understand.Formulas are instructions that perform calculations on existing data in the spreadsheet. While formulas can generate values, they themselves are not labels.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "How many worksheets exist in a workbook?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct answer is 3No explanation requiredExplanation:The image you sent contains questions and answers about Microsoft Excel, but it doesn't show the specific spreadsheet you're working with. The number of worksheets in a workbook depends on the workbook itself. In Excel, workbooks can have one or more worksheets, but without seeing the actual file, it's impossible to say for sure how many worksheets exist in this particular case.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which is correct cell address of worksheet?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "AA",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "2S",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "3B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "C5",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is not a valid data type in excel?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Number",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "﻿Character",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Label",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Date/Time",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Answer: (c) LabelThe answer is (c) Label. While Excel can store text in cells, it categorizes text entries as labels, which are distinct from data types like numbers, dates, and times. Labels are essentially plain text strings that Excel doesn't perform calculations on.(a) Number, (b) Character, and (d) Date/Time are all valid data types in Excel.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Group of adjacent cells in a worksheet is called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Absolute",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Range",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Relative",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Group",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Answer: (c) LabelThe answer is (c) Label. While Excel can store text in cells, it categorizes text entries as labels, which are distinct from data types like numbers, dates, and times. Labels are essentially plain text strings that Excel doesn't perform calculations on.(a) Number, (b) Character, and (d) Date/Time are all valid data types in Excel.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The actual working area in Microsoft Excel is:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Workbook",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Worksheet",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Spreadsheet",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Note sheet",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Answer: (b) WorksheetThe answer is (b) Worksheet. A worksheet is the actual grid of cells where you enter and manipulate data in Excel. A workbook is a file that can contain one or more worksheets.(a) Workbook is the entire Excel file, which can contain multiple worksheets.(c) Spreadsheet is a general term for a computer program used for creating and manipulating tabular data. Excel is a specific spreadsheet program.(d) Note sheet is not a part of Microsoft Excel.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following function is used to get the current date?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exact",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Today",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Month",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Year",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Answer: (b) Today The answer is (b) Today . The TODAY function in Excel is used to retrieve the current date.(a) Exact is not a function in Excel.(c) Month returns the month as a number (1-12) from a date.(d) Year returns the year as a four-digit number from a date.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Main window of excel is known as:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Work Sheet",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Format Cell",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Work Space",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Auto Format",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Answer: (c) Work SpaceThe answer is (c) Work Space. The main window of Excel is generally referred to as the workspace. It encompasses all the elements of the Excel window, including the menu bar, ribbon, formula bar, and the worksheet grid.(a) Worksheet refers to the specific spreadsheet where you enter and manage data.(b) Format Cell is a menu option used to format the appearance of cells.(d) AutoFormat is a feature in Excel that applies predefined formatting styles to cells.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following contains labels or values?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Work Space",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Sheet Tab",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Row and Column",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Explanation: Row and Column In Excel, both rows and columns can contain labels or values.Labels are text entries that provide descriptive information within a worksheet. For instance, you might have a column labeled \"Product Name\" or a row labeled \"Quarter 1\".Values can be numbers, dates, or even logical values (TRUE or FALSE). For example, you might have a column containing product prices or a row with sales figures for each quarter.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The cell whose address is used in formula is known as:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cell Format",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Absolute Referencing",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Page Reference",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Reference Cell",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Explanation: Reference Cell In Excel formulas, you reference cells that contain the data you want to use in the calculation. The cell being referenced by the formula's address is called the reference cell.Cell Format refers to the way a cell's value is displayed (font style, color, etc.) and doesn't directly relate to referencing in formulas.Absolute Referencing and Page Reference are less common ways of locking cell addresses within formulas, but the general term \"reference cell\" is more widely used.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A formula in Excel is combination of:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Operands",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Operator",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Both (a) and (b)",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Keyword",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Explanation: Both (a) and (b) A formula in Excel is an expression that performs a calculation on one or more values. It combines two key elements:Operands: These are the values or cell references that the formula manipulates. They can be numbers, text, or references to other cells.Operators: These are symbols that specify the operation to be performed on the operands. Common operators include addition (+), subtraction (-), multiplication (*), and division (/).Therefore, a formula requires both operands and operators to function correctly. Option (c) is the most accurate answer.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Each column in excel is assigned a:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Letter",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Sheet Tab",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Wizard",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Header and Footer",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Explanation: LetterIn Excel, each column is identified by a letter, starting from A and continuing alphabetically (B, C, D, etc.). This letter designation is part of the cell address that uniquely locates each cell within the worksheet (e.g., cell A1, cell B3, etc.)Sheet Tabs are labeled at the bottom of the Excel window and allow you to switch between different worksheets in a workbook.Wizards are guided processes that help users complete specific tasks in Excel, not related to column identification.Headers and Footers are elements at the top and bottom of each printed page, not relevant to column assignments",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A single worksheet contains how many columns?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "65536",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "256",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "2365",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "128",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Answer: (a) 65536The answer is (a) 65536. A single worksheet in Microsoft Excel can contain a maximum of 65536 columns.(b) 256, (c) 2365, and (d) 128 are all lower than the actual number of columns supported in Excel.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Orientation of the contents of a cell can be set up to:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "45 degrees",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "180 degrees",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "90 degrees",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "25 degrees",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Answer: (b) 180 degreesThe answer is (b) 180 degrees. In Microsoft Excel, you can format the alignment of cell contents to be horizontal (left-aligned), right-aligned, center-aligned, or justified. You can also rotate the text within a cell by up to 180 degrees.(a) 45 degrees, (c) 90 degrees, and (d) 25 degrees are not supported rotation angles for cell content in Excel.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Data can only be entered in a cell when it is",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Active",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Passive",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Answer: (b) PassiveThe answer is (b) Passive. You can only enter or edit data in a cell when it is the active cell. The active cell is typically highlighted with a border, indicating where your typing will be directed. However, cells can contain data even when they are not active.(a) Active: This refers to the state of the cell that is currently selected and ready for input.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "To get the lowest number, function is:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "low (A 10: A 20)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "lowest (A10: A 20)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "min (A10: A 20)",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "minimum (A10: A 20)",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Spreadsheet is a grid of:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Auto format",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Sheet Tab",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Rows and Columns",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Active Cell",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The distinguishing feature of a spreadsheet program is that:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is large table use to display only text",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "You create mathematical formula & execute function",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "MACROS are used here",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Thesauri feature also used here",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The intersection of a row and column is called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Data",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Field",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Cell",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Row",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "To activate the function wizard, select:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Insert",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "File",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Inset",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "View",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In MS-Excel, group of Worksheets is called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cell",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Workbook",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Status bar",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "nswer: (b) WorkbookThe answer is (b) Workbook. A workbook is a file in Microsoft Excel that can contain one or more worksheets. Each worksheet functions as a separate spreadsheet within the same file.(a) Cell refers to the individual intersection of a row and column in a worksheet.(d) Status bar is the bar at the bottom of the Excel window that displays information about the current selection or actions.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If custom formation #, ### then 1500 will be displayed as:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1,500",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "15,00",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "15,000",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "1,500,00",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Answer: (a) 1,500The answer is (a) 1,500. The custom format #,### adds commas to separate thousands in a number. So, 1500 would be displayed as 1,500 with this format applied.(a) 15,00 would result if the format only had one comma (#,##).(c) 15,000 would result if there were three commas (#,###,###).(d) 1,500,00 would display two decimal places if the format included a decimal and two zeros after the comma (#,###.00).",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is spreadsheet software?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "MS-Excel",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "MS-Word",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Both (a) and (b)",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Answer: (b) MS-ExcelThe answer is (b) MS-Excel. Microsoft Excel is a spreadsheet software application that allows you to create and manipulate data in worksheets.(a) MS-Word is a word processing application used for creating and editing text documents.(d) While both MS Word and MS Excel are Microsoft products, they serve different purposes.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Each cell in a spreadsheet has a unique:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Row",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Column",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "none of these",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Row and column",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Answer: (d) Row and columnThe answer is (d) Row and column. The unique location of each cell in a spreadsheet is determined by its row and column. The combination of a letter (for the column) and a number (for the row) creates a cell address, such as A1 or B23.Row and Column on their own don't uniquely identify a cell. You need both the row and column to pinpoint a specific cell.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The horizontal dimension of a spreadsheet is called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cell",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Dimension",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Column",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Explanation: Dimension In a spreadsheet, the horizontal dimension refers to the rows. Rows are numbered sequentially starting from 1 and extend across the spreadsheet from left to right.Cell, column, and row are all related parts of a spreadsheet, but \"dimension\" specifically refers to the overall layout.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In spreadsheet software, the default alignment of text in a cell is:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Right",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "General",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Fill",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Left",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Explanation: GeneralBy default, spreadsheet software like Microsoft Excel aligns text in a cell to the left. This means the text starts at the left edge of the cell and wraps to the next line if it exceeds the cell width.Right alignment positions the text flush against the right border of the cell.Fill is a pattern or color you can add to the background of a cell, not related to text alignment.General is the default text format that allows for both numbers and text within the cell.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Another name of an electronic spreadsheet is:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Worksheet",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Workbook",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Document",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Database",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Explanation: WorksheetAn electronic spreadsheet is also commonly called a worksheet. A worksheet is a single page within a workbook, which can contain multiple worksheets.Workbook is the entire file that contains one or more worksheets.Database is a program designed to store and manage large sets of structured data, different from the grid-based structure of spreadsheets.Document is a more general term for a computer file and isn't specific to spreadsheets.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is indicated for manipulating numbers?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Active cell",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Adjacent cell",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Alternate cell",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Advance cell",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is a software for manipulating numbers?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Word processor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Database",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Spreadsheet",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A cell in a spreadsheet can contain:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Labels",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Values",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Formulas",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A cell in a spreadsheet cannot contain",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Value",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Labels",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Formulas",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Commands",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is the basic unit of a worksheet where data is entered?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Workbook",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Cell",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Spreadsheet",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Interface",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which is not a valid cell address?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "5B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "AA 85",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "D9",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A formula in MS-Excel begins with symbol:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "+",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "-",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "=",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "/",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Answer: (c) =The answer is (c) =. A formula in Excel always begins with an equal sign (=). This symbol tells the program that the following text is a formula and not just data to be displayed.(a) +, -, and / can be operators within a formula, but they don't initiate the formula itself.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The cell addresses B4, C4, D4 and E4 can be shown as:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "B: E",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B:4",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "B:4",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "48:4E",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In order to merge the selected cells, you select merge cells from which of the following format cells dialog box?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Page orientation tab",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Margins tab",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Header/Footer tab",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Alignment tab",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is a valid formula is MS-Excel?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "(=B7C7)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "(=B9+C10)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "(C7=d7)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "(A_{2}+B_{2})",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following function adds cell B5 to B50 in worksheet?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Add (B 5: B 50)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Sum (5B: 50 B)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "=Sum(B5;B50)",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "=Sum(B5:B50)",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Explanation: =Sum(B5:B50) The SUM function in Excel is used to add values in a range of cells. Here, you want to add cells B5 to B50.The provided options have some syntax errors:Add is not a standard function for addition in Excel. The correct function is SUM.5B: 50 B and Sum(B5;B50) use incorrect separators between cell references.The correct formula is =Sum(B5:B50). This instructs Excel to calculate the sum of the values from cell B5 to cell B50.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The average of cells C10 to C40 can be calculated using function:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Avg (C10: C 40)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "average (10 C:40 C)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Avg (C10:C40)",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "maxi (A 5:A 20)",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Answer: (c) Avg (C10:C40)The answer is (c) Avg (C10:C40). The AVERAGE function in Excel calculates the arithmetic mean of a range of cells. The syntax is AVG(range), where \"range\" refers to the cells you want to average. In this case, you want to find the average of cells C10 to C40, so the correct formula is Avg (C10:C40).(a) and (c) are both correct ways to write the formula for average.(b) average (10 C:40 C) has incorrect spacing and order of cell references.(d) maxi (A 5:A 20) is the function for finding the maximum value, not the average.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following functions returns the highest number?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "maximum (A 5: A 20)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "maximum (A5:20 A)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "maximum (A5:20 A)",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "maxi (A 5:A 20)",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The function that returns the total number of non-empty cells?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "sum (A1:B5)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "sum (A1:B5)",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "min (A 10: A20)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "min (A 10: A20)",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In MS-Excel, the function count only counts the:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Non empty cells",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Empty cells",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Labels",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Values",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "To view and apply functions available in Excel:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Function wizard",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Function wizard",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Function dialog box",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Charts allow you to present data entered into the worksheet in a:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Graphic form",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Visual form",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is a placeholder that determines how many digits to display on either side of a decimal number?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "#",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "?",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the value of formula (7-3)* (1+6)/4?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "7",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "15",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "34",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "7i9",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Let's break down the formula and calculate it step by step:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "7 - 3 = 4",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "1 + 6 = 7",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "4 * 7 = 28",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "28 / 4 = 7",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In spreadsheets which of the following are built-in formulas.",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Value",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Label",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Functions",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Parameter",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "\"5 students\" As a cell value will be treated as:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Number",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Text",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Both a and b",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The function used to count number of entries in a given range is called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Length",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Counter",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Counting",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Count",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In a workbook, the default name of the first worksheet is:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sheet 1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Sheet One",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "First",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "First Sheet",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The identification of row in a spreadsheet is by:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alphabet",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Number",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Name",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The numeric values in a cell are called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Formula",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Value",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Address",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Function",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Sum function needs how many arguments for its working?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "SQRT function needs how many arguments for its working?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If custom format is ####, the number 1578 will be displayed as:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.587",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "1,587",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "1587",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "15.87",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Second part of number format tells about:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Positive number",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Negative number",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Text",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which type of chart cannot be created in MS Excel?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Plot Area",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Bubble",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Surface",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Radar",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following are elements of the chart?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Plot Area",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Series",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Surface",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Horizontal axis in Excel chart is called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "X-axis",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Y-axis",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Z-axis",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which menu contains wrap text feature:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "File",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Edit",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Insert",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Format",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which function is used to count values in a given range?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Counter",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Total",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Count",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which function is used to calculate average in a given range?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ave",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Mid",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Medium",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Average",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Predefined formulas in Excel are called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Functions",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Operators",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Calculator",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Formulas",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is/are spreadsheet software?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lotus 123",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Both b, c",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "LiLil23",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "MS-Excel",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The distinguishing feature of a spreadsheet program is that:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "You create mathematical formula & execute function",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "MACROS are used here",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "It is large table use to display only text",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Thesauri feature also used here",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following can be more efficient way of performing mathematical operations than formulas?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Formula, function",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Value,label",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Label, value",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Function,formula",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "To activate the function wizard, select:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inset ---- Formula - Function",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Insert",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "File",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "View ---- insert",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If custom formation #, ### then 1500 will be displayed as:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "15,000",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "1,500",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "1500",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If the custom format is #,###.00 then 1.2 will be displayed as:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Spreadsheet",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.20",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "1.200",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "1.2",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    }
+  ]
+}

@@ -1,0 +1,1558 @@
+{
+  "questions": [
+    {
+      "text": "The feasible solution which maximizes or minimizes the objective function is called:",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Optimal solution",
+          "isCorrect": true,
+          "explanation": "The correct option is a) Optimal solution.The optimal solution is the feasible solution that maximizes or minimizes the objective function. It represents the best possible outcome or decision that can be made within the given constraints of the problem.The objective function is a mathematical expression that needs to be optimized (maximized or minimized) in an optimization problem. The optimal solution is the point or set of values that provides the maximum or minimum value of the objective function while satisfying all the constraints.In mathematical form, the optimal solution can be represented as:Maximize/Minimize Z = f(x1, x2, ..., xn)Subject to:g1(x1, x2, ..., xn) ≤ b1g2(x1, x2, ..., xn) ≤ b2...gm(x1, x2, ..., xn) ≤ bmx1, x2, ..., xn ≥ 0Where:Z is the objective functionf(x1, x2, ..., xn) is the objective functiong1, g2, ..., gm are the constraint functionsb1, b2, ..., bm are the constraint valuesx1, x2, ..., xn are the decision variablesThe optimal solution is the set of values for the decision variables (x1, x2, ..., xn) that maximizes or minimizes the objective function Z while satisfying all the constraints."
+        },
+        {
+          "letter": "B",
+          "text": "Feasible solution",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Linear solution",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Quintic solution",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct option is a) Optimal solution.The optimal solution is the feasible solution that maximizes or minimizes the objective function. It represents the best possible outcome or decision that can be made within the given constraints of the problem.The objective function is a mathematical expression that needs to be optimized (maximized or minimized) in an optimization problem. The optimal solution is the point or set of values that provides the maximum or minimum value of the objective function while satisfying all the constraints.In mathematical form, the optimal solution can be represented as:Maximize/Minimize Z = f(x1, x2, ..., xn)Subject to:g1(x1, x2, ..., xn) ≤ b1g2(x1, x2, ..., xn) ≤ b2...gm(x1, x2, ..., xn) ≤ bmx1, x2, ..., xn ≥ 0Where:Z is the objective functionf(x1, x2, ..., xn) is the objective functiong1, g2, ..., gm are the constraint functionsb1, b2, ..., bm are the constraint valuesx1, x2, ..., xn are the decision variablesThe optimal solution is the set of values for the decision variables (x1, x2, ..., xn) that maximizes or minimizes the objective function Z while satisfying all the constraints.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The statement \"Feasible solution for a system of inequalities is restricted to 1st quadrant\" is True or False.",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "True",
+          "isCorrect": true,
+          "explanation": "The correct answer is a) True.The feasible region for a system of inequalities in two variables (x and y) is the set of all points (x, y) that satisfy all the inequalities simultaneously. The feasible region is always bounded by the constraints, which are the lines or curves representing the inequalities.When the constraints are linear inequalities in the form ax + by ≤ c, where a, b, and c are constants, the feasible region is bounded by straight lines. In this case, the feasible region is restricted to the first quadrant, as both x and y must be non-negative (x ≥ 0 and y ≥ 0) for the solution to be feasible.Therefore, the statement \"Feasible solution for a system of inequalities is restricted to 1st quadrant\" is True."
+        },
+        {
+          "letter": "B",
+          "text": "False",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "none of these",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "both",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is a) True.The feasible region for a system of inequalities in two variables (x and y) is the set of all points (x, y) that satisfy all the inequalities simultaneously. The feasible region is always bounded by the constraints, which are the lines or curves representing the inequalities.When the constraints are linear inequalities in the form ax + by ≤ c, where a, b, and c are constants, the feasible region is bounded by straight lines. In this case, the feasible region is restricted to the first quadrant, as both x and y must be non-negative (x ≥ 0 and y ≥ 0) for the solution to be feasible.Therefore, the statement \"Feasible solution for a system of inequalities is restricted to 1st quadrant\" is True.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Find the solution set of |3 - 2x| ≤ 5.",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "x ≤ 4",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "-4 ≤ x ≤ -1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "1 ≤ x ≤ 4",
+          "isCorrect": true,
+          "explanation": "The correct answer is c) 1 ≤ x ≤ 4.To find the solution set, we need to solve the inequality |3 - 2x| ≤ 5.Solving the inequality:|3 - 2x| ≤ 5-5 ≤ 3 - 2x ≤ 5-8 ≤ -2x ≤ 24 ≥ x ≥ 1Therefore, the solution set is 1 ≤ x ≤ 4.Explanation:The given inequality |3 - 2x| ≤ 5 can be interpreted as the set of values of x for which the absolute value of (3 - 2x) is less than or equal to 5.This means that the values of x must satisfy the following two conditions:3 - 2x ≤ 5-(3 - 2x) ≤ 5Solving these conditions, we get:3 - 2x ≤ 5-2x ≤ 2x ≥ 1-(3 - 2x) ≤ 52x - 3 ≥ -52x ≥ -2x ≤ 4Therefore, the solution set is the intersection of these two conditions, which is 1 ≤ x ≤ 4."
+        },
+        {
+          "letter": "D",
+          "text": "x ≥ 4",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is c) 1 ≤ x ≤ 4.To find the solution set, we need to solve the inequality |3 - 2x| ≤ 5.Solving the inequality:|3 - 2x| ≤ 5-5 ≤ 3 - 2x ≤ 5-8 ≤ -2x ≤ 24 ≥ x ≥ 1Therefore, the solution set is 1 ≤ x ≤ 4.Explanation:The given inequality |3 - 2x| ≤ 5 can be interpreted as the set of values of x for which the absolute value of (3 - 2x) is less than or equal to 5.This means that the values of x must satisfy the following two conditions:3 - 2x ≤ 5-(3 - 2x) ≤ 5Solving these conditions, we get:3 - 2x ≤ 5-2x ≤ 2x ≥ 1-(3 - 2x) ≤ 52x - 3 ≥ -52x ≥ -2x ≤ 4Therefore, the solution set is the intersection of these two conditions, which is 1 ≤ x ≤ 4.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "4. 4 and an unknown number have average smaller than 10, the greatest possible value of unknown number is?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "14",
+          "isCorrect": false,
+          "explanation": "If x=14, then the average would be better possible option. 4+14 2 = 9, which is smaller than 10 but we have a"
+        },
+        {
+          "letter": "B",
+          "text": "15",
+          "isCorrect": true,
+          "explanation": "Let's denote the unknown number as xThe average of 4 and x being smaller than 10 can be expressed as:4+x/2= 10Files sale with genuine Chce todayNow, let's solve for4+x < 20Subtracting 4 from both sides:x<16So, the greatest possible value for x is 15, making option (b) 15 the correct answer."
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "isCorrect": false,
+          "explanation": "If x =20, then the average would be 12, which is not smaller than 10. 2"
+        },
+        {
+          "letter": "D",
+          "text": "16",
+          "isCorrect": false,
+          "explanation": "If x =16, then the average would be 20, which is equals to 10 not smaller than 10. 2"
+        }
+      ],
+      "explanation": "Let's denote the unknown number as xThe average of 4 and x being smaller than 10 can be expressed as:4+x/2= 10Files sale with genuine Chce todayNow, let's solve for4+x < 20Subtracting 4 from both sides:x<16So, the greatest possible value for x is 15, making option (b) 15 the correct answer.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The graph of linear equation of the form ax+by=c is a line which divides theplane into",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "two disjoint regions",
+          "isCorrect": false,
+          "explanation": "The graph of a linear equation of the form + = ax+by=c represents a straight line on the plane. This line divides the plane into two disjoint regions: the left halfplane and the right halfplane. This is because any point on one side of the line satisfies the inequality + < ax+by<c, while any point on the other side satisfies + > ax+by>c."
+        },
+        {
+          "letter": "B",
+          "text": "four disjoint regions",
+          "isCorrect": false,
+          "explanation": "This option suggests that the graph divides the plane into four disjoint regions. However, a single straight line can only divide the plane into two regions, not four."
+        },
+        {
+          "letter": "C",
+          "text": "left and right half planes",
+          "isCorrect": true,
+          "explanation": "This option suggests that the graph divides the plane into left and right halfplanes, which is actually the correct explanation."
+        },
+        {
+          "letter": "D",
+          "text": "four planes",
+          "isCorrect": false,
+          "explanation": "This option is confusing as it mentions \"four planes,\" which doesn't accurately describe the division of the plane by a single linear equation. A linear equation divides the plane into two regions, not into four separate planes."
+        }
+      ],
+      "explanation": "The graph of a linear equation of the form + = ax+by=c represents a straight line on the plane. This line divides the plane into two disjoint regions: the left halfplane and the right halfplane. This is because any point on one side of the line satisfies the inequality + < ax+by<c, while any point on the other side satisfies + > ax+by>c.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A nonvertical line divides the plane into",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "left and right half planes",
+          "isCorrect": false,
+          "explanation": "This option suggests that a non vertical line divides the plane into left and right half planes. However, this is not generally true. Left and right half planes are divided by vertical lines, not non vertical ones."
+        },
+        {
+          "letter": "B",
+          "text": "upper and lower half planes",
+          "isCorrect": true,
+          "explanation": "A nonvertical line divides the plane into upper and lower half planes. This is because any nonvertical line can be represented by an equation of the form \\(y = mx + c\\), where \\(m\\) is the slope of the line. Depending on the sign of \\(m\\), the line will divide the plane into upper and lower halves. If \\(m > 0\\), the line has a positive slope and separates the plane into upper and lower halves; if \\(m < 0\\), it has a negative slope and divides the plane into lower and upper halves."
+        },
+        {
+          "letter": "C",
+          "text": "four planes",
+          "isCorrect": false,
+          "explanation": "This option implies that a nonvertical line divides the plane into four separate planes, which is incorrect. A single nonvertical line divides the plane into two regions, not four."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "This option suggests that none of the given options are correct, which is incorrect. A nonvertical line indeed divides the plane into upper and lower half planes."
+        }
+      ],
+      "explanation": "A nonvertical line divides the plane into upper and lower half planes. This is because any nonvertical line can be represented by an equation of the form \\(y = mx + c\\), where \\(m\\) is the slope of the line. Depending on the sign of \\(m\\), the line will divide the plane into upper and lower halves. If \\(m > 0\\), the line has a positive slope and separates the plane into upper and lower halves; if \\(m < 0\\), it has a negative slope and divides the plane into lower and upper halves.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A non vertical line divides the plane into",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "left and right half planes",
+          "isCorrect": false,
+          "explanation": "This is incorrect because left and right half planes are typically associated with vertical lines. Nonvertical lines divide the plane into upper and lower half planes."
+        },
+        {
+          "letter": "B",
+          "text": "upper and lower half planes",
+          "isCorrect": true,
+          "explanation": "When a nonvertical line divides the plane, it separates the plane into two distinct regions or half planes. However, the distinction between left and right half planes occurs when dealing with vertical lines. In the case of a nonvertical line, it divides the plane into upper and lower half planes. One side of the line is considered the upper half plane, and the other side is considered the lower half plane."
+        },
+        {
+          "letter": "C",
+          "text": "four planes",
+          "isCorrect": false,
+          "explanation": "This is incorrect because a single line divides the plane into only two half planes, not four. It is possible to divide the plane into four regions with two intersecting lines, but that is not what this question is describing."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "This is incorrect because a nonvertical line indeed divides the plane into upper and lower half planes. So, option (b) is the correct choice. Thank you for pointing out the mistake."
+        }
+      ],
+      "explanation": "When a nonvertical line divides the plane, it separates the plane into two distinct regions or half planes. However, the distinction between left and right half planes occurs when dealing with vertical lines. In the case of a nonvertical line, it divides the plane into upper and lower half planes. One side of the line is considered the upper half plane, and the other side is considered the lower half plane.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If the inequality involves the symbols> or <, then corresponding equation of theinequality is graphed by using",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "solid line",
+          "isCorrect": false,
+          "explanation": "Solid lines are typically used for graphing equations involving the symbols ≥ or ≤, representing nonstrict inequalities. In such cases, the points on the line itself are included in the solution set. However, the question specifically asks about inequalities involving the symbols > or <, for which solid lines are not appropriate."
+        },
+        {
+          "letter": "B",
+          "text": "dashes",
+          "isCorrect": true,
+          "explanation": "When the inequality involves the symbols > or <, it represents strict inequalities. The corresponding equations for these strict inequalities are graphed using dashed lines. This is because the dashed lines indicate that the points on the line itself are not included in the solution set of the inequality. For example, if we have the inequality \\(y > mx + c\\), where \\(m\\) is the slope and \\(c\\) is the yintercept, its corresponding equation would be graphed using a dashed line."
+        },
+        {
+          "letter": "C",
+          "text": "dots",
+          "isCorrect": false,
+          "explanation": "Dots are not used to graph equations or inequalities. They are typically used to represent specific points on a graph, such as points of intersection or key points, but they do not indicate the graphing style for inequalities involving > or < symbols"
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "This option suggests that none of the given options are correct, but that is not accurate. Inequalities involving > or < symbols are indeed graphed using dashed lines."
+        }
+      ],
+      "explanation": "When the inequality involves the symbols > or <, it represents strict inequalities. The corresponding equations for these strict inequalities are graphed using dashed lines. This is because the dashed lines indicate that the points on the line itself are not included in the solution set of the inequality. For example, if we have the inequality \\(y > mx + c\\), where \\(m\\) is the slope and \\(c\\) is the yintercept, its corresponding equation would be graphed using a dashed line.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If the inequality involves the symbols≥ or ≤, then the corresponding equation ofthe inequality is graphed by using",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "solid line",
+          "isCorrect": true,
+          "explanation": "When the inequality involves the symbols ≥ or ≤, it represents nonstrict inequalities. The corresponding equations for these nonstrict inequalities are graphed using solid lines. This is because solid lines indicate that the points on the line itself are included in the solution set of the inequality. For example, if we have the inequality \\(y ≥ mx + c\\), where \\(m\\) is the slope and \\(c\\) is the yintercept, its corresponding equation would be graphed using a solid line."
+        },
+        {
+          "letter": "B",
+          "text": "dashes",
+          "isCorrect": false,
+          "explanation": "Dashes are used for graphing equations involving strict inequalities, such as > or <. In such cases, the points on the line itself are not included in the solution set. However, the question specifically asks about inequalities involving the symbols ≥ or ≤, for which solid lines are appropriate."
+        },
+        {
+          "letter": "C",
+          "text": "dots",
+          "isCorrect": false,
+          "explanation": "Dots are not typically used to graph equations or inequalities. They are usually used to represent specific points on a graph, such as points of intersection or key points, but they do not indicate the graphing style for inequalities involving ≥ or ≤ symbols."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "This option suggests that none of the given options are correct, but that is not accurate. Inequalities involving ≥ or ≤ symbols are indeed graphed using solid lines."
+        }
+      ],
+      "explanation": "When the inequality involves the symbols ≥ or ≤, it represents nonstrict inequalities. The corresponding equations for these nonstrict inequalities are graphed using solid lines. This is because solid lines indicate that the points on the line itself are included in the solution set of the inequality. For example, if we have the inequality \\(y ≥ mx + c\\), where \\(m\\) is the slope and \\(c\\) is the yintercept, its corresponding equation would be graphed using a solid line.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The set of ordered pairs (x, y) such that ax+by <c form the region called",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "boundary line",
+          "isCorrect": false,
+          "explanation": "Options (a) provide specific labels for the regions, which could be correct in certain contexts but are not generally applicable without additional information."
+        },
+        {
+          "letter": "B",
+          "text": "right half plane",
+          "isCorrect": false,
+          "explanation": "Option (b) provide specific labels for the regions, which could be correct in certain contexts but are not generally applicable without additional information."
+        },
+        {
+          "letter": "C",
+          "text": "left half plane",
+          "isCorrect": false,
+          "explanation": "Option (c) provide specific labels for the regions, which could be correct in certain contexts but are not generally applicable without additional information."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": true,
+          "explanation": "The set of ordered pairs \\((x, y)\\) such that \\(ax + by < c\\) forms a region known as a halfplane. However, this region is not specifically labeled as the \"right half plane\" or \"left half plane\" without additional context. Instead, it depends on the signs of \\(a\\) and \\(b\\), which determine whether the region is to the left, right, above, or below the boundary line. If \\(a > 0\\), the halfplane will be above the boundary line. If \\(a < 0\\), the halfplane will be below the boundary line. If \\(b > 0\\), the halfplane will be to the right of the boundary line. If \\(b < 0\\), the halfplane will be to the left of the boundary line.So, without knowing the signs of \\(a\\) and \\(b\\), we cannot specifically label the region as the \"right half plane\" or \"left half plane.\""
+        }
+      ],
+      "explanation": "The set of ordered pairs \\((x, y)\\) such that \\(ax + by < c\\) forms a region known as a halfplane. However, this region is not specifically labeled as the \"right half plane\" or \"left half plane\" without additional context. Instead, it depends on the signs of \\(a\\) and \\(b\\), which determine whether the region is to the left, right, above, or below the boundary line. If \\(a > 0\\), the halfplane will be above the boundary line. If \\(a < 0\\), the halfplane will be below the boundary line. If \\(b > 0\\), the halfplane will be to the right of the boundary line. If \\(b < 0\\), the halfplane will be to the left of the boundary line.So, without knowing the signs of \\(a\\) and \\(b\\), we cannot specifically label the region as the \"right half plane\" or \"left half plane.\"",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The graph of the inequalities ax+by sc, ax+by zc are",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "open half planes",
+          "isCorrect": false,
+          "explanation": "Open half planes are not applicable here because the inequalities involve the symbols ≤ and ≥, representing closed intervals."
+        },
+        {
+          "letter": "B",
+          "text": "closed half planes",
+          "isCorrect": true,
+          "explanation": "The graph of the inequalities \\(ax + by \\leq c\\) and \\(ax + by \\geq c\\) represent closed half planes. When the inequality is of the form \\(ax + by \\leq c\\), it represents a closed half plane including the boundary line (the line represented by \\(ax + by = c\\)). Similarly, when the inequality is of the form \\(ax + by \\geq c\\), it also represents a closed half plane including the boundary line."
+        },
+        {
+          "letter": "C",
+          "text": "open and closed half planes",
+          "isCorrect": false,
+          "explanation": "This option suggests that the graph includes both open and closed half planes. However, both inequalities represent closed half planes, so there are no open half planes in this scenario."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "This option suggests that none of the given options are correct, but that is not accurate. The correct answer is indeed one of the provided options."
+        }
+      ],
+      "explanation": "The graph of the inequalities \\(ax + by \\leq c\\) and \\(ax + by \\geq c\\) represent closed half planes. When the inequality is of the form \\(ax + by \\leq c\\), it represents a closed half plane including the boundary line (the line represented by \\(ax + by = c\\)). Similarly, when the inequality is of the form \\(ax + by \\geq c\\), it also represents a closed half plane including the boundary line.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A point of a solution region where two of its boundary lines interest, is called a",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "stationary point",
+          "isCorrect": false,
+          "explanation": "A stationary point typically refers to a point where the gradient or derivative of a function is zero. It is not relevant in the context of solution regions bounded by lines."
+        },
+        {
+          "letter": "B",
+          "text": "test point",
+          "isCorrect": false,
+          "explanation": "A test point is a point chosen to determine the truth of an inequality. It is typically chosen within a region to check if it satisfies the given inequalities. However, it is not specifically related to the intersection of boundary lines in the solution region."
+        },
+        {
+          "letter": "C",
+          "text": "corner point",
+          "isCorrect": true,
+          "explanation": "A point of a solution region where two of its boundary lines intersect is called a corner point. In geometric terms, these corner points represent the vertices of the polygonal region formed by the intersection of the boundary lines."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "This option suggests that none of the given options are correct, but that is not accurate. The term \"corner point\" is commonly used in mathematics to describe the points where boundary lines of a solution region intersect."
+        }
+      ],
+      "explanation": "A point of a solution region where two of its boundary lines intersect is called a corner point. In geometric terms, these corner points represent the vertices of the polygonal region formed by the intersection of the boundary lines.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The system of linear inequalities involved in the problem concerned are called",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "problem constraints",
+          "isCorrect": true,
+          "explanation": "The system of linear inequalities involved in a problem are called problem constraints. These constraints define the limitations or restrictions on the variables in the problem. They determine the feasible region where potential solutions can lie."
+        },
+        {
+          "letter": "B",
+          "text": "feasible region",
+          "isCorrect": false,
+          "explanation": "The feasible region refers to the set of all possible solutions that satisfy all of the given constraints. It is determined by the intersection of the solution sets of the individual inequalities in the system. The system of inequalities themselves represent the constraints, but the feasible region is the geometric representation of these constraints."
+        },
+        {
+          "letter": "C",
+          "text": "feasible solution",
+          "isCorrect": false,
+          "explanation": "Feasible solutions are the specific points or solutions within the feasible region that satisfy all of the constraints in the system. These solutions are found by identifying points within the feasible region that satisfy all of the given inequalities."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "This option suggests that none of the given options are correct, but that is not accurate. The system of linear inequalities is indeed referred to as problem constraints in the context of optimization and linear programming problems."
+        }
+      ],
+      "explanation": "The system of linear inequalities involved in a problem are called problem constraints. These constraints define the limitations or restrictions on the variables in the problem. They determine the feasible region where potential solutions can lie.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Decision variables are",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "negative constraints",
+          "isCorrect": false,
+          "explanation": "Negative constraints would imply that the decision variables must be negative, which is not a common requirement in optimization or linear programming problems. Decision variables often represent quantities such as quantities of goods, production levels, or resource allocations, which typically cannot be negative."
+        },
+        {
+          "letter": "B",
+          "text": "positive constraints",
+          "isCorrect": false,
+          "explanation": "Similarly, positive constraints would imply that the decision variables must be positive. While some optimization problems may have positive constraints on decision variables, it is not as common as nonnegative constraints. Moreover, positive constraints do not necessarily encompass the possibility of zero values for decision variables."
+        },
+        {
+          "letter": "C",
+          "text": "nonnegative constraints",
+          "isCorrect": true,
+          "explanation": "Decision variables are typically subject to nonnegative constraints. This means that the values of decision variables must be greater than or equal to zero. Nonnegative constraints are commonly used in optimization and linear programming problems to ensure that decision variables represent quantities that cannot be negative."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "This option suggests that none of the given options are correct, but that is not accurate. Decision variables are indeed subject to constraints, and nonnegativity constraints are a common requirement in optimization and linear programming problems."
+        }
+      ],
+      "explanation": "Decision variables are typically subject to nonnegative constraints. This means that the values of decision variables must be greater than or equal to zero. Nonnegative constraints are commonly used in optimization and linear programming problems to ensure that decision variables represent quantities that cannot be negative.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Each point of the feasible region is called",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "decision variables",
+          "isCorrect": false,
+          "explanation": "Decision variables are the variables that need to be determined in an optimization problem. They represent the quantities to be optimized or decided upon. Decision variables are not individual points within the feasible region; rather, they are the variables whose values need to be determined to find a feasible solution."
+        },
+        {
+          "letter": "B",
+          "text": "problem constraints",
+          "isCorrect": false,
+          "explanation": "Problem constraints are the limitations or restrictions placed on the decision variables in an optimization problem. They define the boundaries within which feasible solutions must lie. Problem constraints do not refer to individual points within the feasible region."
+        },
+        {
+          "letter": "C",
+          "text": "feasible solution",
+          "isCorrect": true,
+          "explanation": "Each point of the feasible region is called a feasible solution. A feasible solution is a point within the feasible region that satisfies all of the problem constraints. In optimization and linear programming problems, the goal is often to find the optimal feasible solution that maximizes or minimizes the objective function while adhering to the problem constraints."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "This option suggests that none of the given options are correct, but that is not accurate. Feasible solutions are indeed the points within the feasible region that satisfy all of the problem constraints."
+        }
+      ],
+      "explanation": "Each point of the feasible region is called a feasible solution. A feasible solution is a point within the feasible region that satisfies all of the problem constraints. In optimization and linear programming problems, the goal is often to find the optimal feasible solution that maximizes or minimizes the objective function while adhering to the problem constraints.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A function which is to be maximized or minimized is called",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "objective function",
+          "isCorrect": true,
+          "explanation": "A function which is to be maximized or minimized in optimization problems is called the objective function. The objective function represents the quantity that the problem seeks to optimize or minimize. It is typically denoted as \\(f(x)\\), where \\(x\\) represents the decision variables."
+        },
+        {
+          "letter": "B",
+          "text": "explicit function",
+          "isCorrect": false,
+          "explanation": "An explicit function is a function that is defined by an algebraic expression where the dependent variable is expressed explicitly in terms of the independent variable(s). It is not directly related to optimization problems or the maximization/minimization of functions."
+        },
+        {
+          "letter": "C",
+          "text": "feasible function",
+          "isCorrect": false,
+          "explanation": "The feasible region refers to the set of all possible solutions that satisfy all of the given constraints in an optimization problem. It is the region where feasible solutions can lie but is not the function to be maximized or minimized."
+        },
+        {
+          "letter": "D",
+          "text": "optimal solution",
+          "isCorrect": false,
+          "explanation": "An optimal solution is the solution that maximizes or minimizes the objective function while satisfying all of the problem constraints. It is not the function itself but rather the specific point or set of points that achieve the maximum or minimum value of the objective function."
+        }
+      ],
+      "explanation": "A function which is to be maximized or minimized in optimization problems is called the objective function. The objective function represents the quantity that the problem seeks to optimize or minimize. It is typically denoted as \\(f(x)\\), where \\(x\\) represents the decision variables.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "(2,1) is one of the solutions if inequality.",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "xy>1",
+          "isCorrect": false,
+          "explanation": "the inequality �−�>1x−y>1 is not satisfied."
+        },
+        {
+          "letter": "B",
+          "text": "3x+5≤6",
+          "isCorrect": false,
+          "explanation": "the inequality 3�+5≤63x+5≤6 is not satisfied."
+        },
+        {
+          "letter": "C",
+          "text": "2x+y<7",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "2x+5y<7",
+          "isCorrect": false,
+          "explanation": "the inequality 2�+5�<72x+5y<7 is not satisfied."
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "There are feasible solutions in feasible solution region.",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "infinite",
+          "isCorrect": true,
+          "explanation": "In some theoretical scenarios or special cases, the feasible solution region may be unbounded or extend infinitely in some directions. In such cases, there could be an infinite number of feasible solutions within the feasible solution region."
+        },
+        {
+          "letter": "B",
+          "text": "finite",
+          "isCorrect": false,
+          "explanation": "While in many practical optimization problems, the feasible solution region is bounded, leading to a finite number of feasible solutions, it's important to recognize that in theoretical contexts or special cases, the feasible solution region could indeed be unbounded, resulting in an infinite number of feasible solutions."
+        },
+        {
+          "letter": "C",
+          "text": "two",
+          "isCorrect": false,
+          "explanation": "These options suggest specific finite numbers of feasible solutions, which may not hold true in general. The number of feasible solutions can vary widely depending on the problem constraints and the shape of the feasible region. Therefore, these options are too restrictive and don't account for the possibility of an infinite number of solutions in some cases."
+        },
+        {
+          "letter": "D",
+          "text": "three",
+          "isCorrect": false,
+          "explanation": "These options suggest specific finite numbers of feasible solutions, which may not hold true in general. The number of feasible solutions can vary widely depending on the problem constraints and the shape of the feasible region. Therefore, these options are too restrictive and don't account for the possibility of an infinite number of solutions in some cases."
+        }
+      ],
+      "explanation": "In some theoretical scenarios or special cases, the feasible solution region may be unbounded or extend infinitely in some directions. In such cases, there could be an infinite number of feasible solutions within the feasible solution region.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "ax+by <c is linear inequality in variable,",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests that the inequality involves three variables, which is not the case. The inequality involves only \\(x\\) and \\(y\\)."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This option suggests that the inequality involves only one variable, which is not correct. The inequality involves two variables."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "This option suggests that the inequality involves no variables, which is not correct. The inequality does involve variables, specifically \\(x\\) and \\(y\\)."
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "One is not a solution of inequality 2x+3y<0",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1,2)",
+          "isCorrect": false,
+          "explanation": "Incorrect option as explained in correct option."
+        },
+        {
+          "letter": "B",
+          "text": "(4,1)",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "(3,2)",
+          "isCorrect": false,
+          "explanation": "Incorrect option as explained in correct option."
+        },
+        {
+          "letter": "D",
+          "text": "(0,1)",
+          "isCorrect": false,
+          "explanation": "Incorrect option as explained in correct option."
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The feasible solution which maximized or minimized the objective function is called",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "simple solution",
+          "isCorrect": false,
+          "explanation": "This term is not commonly used in the context of optimization problems. It does not specifically refer to the solution that maximizes or minimizes the objective function."
+        },
+        {
+          "letter": "B",
+          "text": "feasible solution",
+          "isCorrect": false,
+          "explanation": "While feasible solutions are important in optimization problems, not all feasible solutions are optimal. Feasible solutions are those that satisfy all the problem constraints, but the optimal solution is the one that achieves the best possible outcome in terms of the objective function."
+        },
+        {
+          "letter": "C",
+          "text": "optimal solution",
+          "isCorrect": true,
+          "explanation": "The feasible solution that maximizes or minimizes the objective function is called the optimal solution. In optimization problems, the goal is often to find the optimal solution that optimizes the objective function while satisfying all the problem constraints. The optimal solution represents the best possible outcome according to the given criteria."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "This option suggests that none of the given options are correct, but that is not accurate. The concept of an optimal solution is fundamental in optimization theory and practice."
+        }
+      ],
+      "explanation": "The feasible solution that maximizes or minimizes the objective function is called the optimal solution. In optimization problems, the goal is often to find the optimal solution that optimizes the objective function while satisfying all the problem constraints. The optimal solution represents the best possible outcome according to the given criteria.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "At point function f(x,y)=3x+2y have minimum value",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "(4,1)",
+          "isCorrect": false,
+          "explanation": "Incorrect option as explained in correct option."
+        },
+        {
+          "letter": "B",
+          "text": "(1,4)",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "(2,3)",
+          "isCorrect": false,
+          "explanation": "Incorrect option as explained in correct option."
+        },
+        {
+          "letter": "D",
+          "text": "(3,2)",
+          "isCorrect": false,
+          "explanation": "Incorrect option as explained in correct option."
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The graph of inequality 3x+2y>3 is.",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "closed half plane",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the inequality is not inclusive of the boundary line. A closed half plane includes the boundary line, which is not the case here."
+        },
+        {
+          "letter": "B",
+          "text": "open half plane",
+          "isCorrect": true,
+          "explanation": "The graph of the inequality \\(3x + 2y > 3\\) represents an open half plane. In this case, the inequality is not inclusive of the boundary line \\(3x + 2y = 3\\), meaning that the points on this line are not solutions. Therefore, the region above the boundary line, not including the line itself, forms the open half plane."
+        },
+        {
+          "letter": "C",
+          "text": "line only",
+          "isCorrect": false,
+          "explanation": "While the inequality represents a line (\\(3x + 2y = 3\\)), the graph of the inequality also includes the region either above or below this line. Therefore, it's not just a line; it's a half plane."
+        },
+        {
+          "letter": "D",
+          "text": "full plane",
+          "isCorrect": false,
+          "explanation": "This option suggests that the graph covers the entire plane, which is not accurate. The graph is restricted to the region either above or below the boundary line, depending on the inequality sign, but it does not cover the entire plane."
+        }
+      ],
+      "explanation": "The graph of the inequality \\(3x + 2y > 3\\) represents an open half plane. In this case, the inequality is not inclusive of the boundary line \\(3x + 2y = 3\\), meaning that the points on this line are not solutions. Therefore, the region above the boundary line, not including the line itself, forms the open half plane.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "(0,0) is a solution of inequality.",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "x+7y<2",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "3x+5≤6",
+          "isCorrect": false,
+          "explanation": "Incorrect option as explained in correct option."
+        },
+        {
+          "letter": "C",
+          "text": "5x+3y>0",
+          "isCorrect": false,
+          "explanation": "Incorrect option as explained in correct option."
+        },
+        {
+          "letter": "D",
+          "text": "x+y>5",
+          "isCorrect": false,
+          "explanation": "Incorrect option as explained in correct option."
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The solution set of the inequality ax+by <c is,",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Circle",
+          "isCorrect": false,
+          "explanation": "A circle is not typically the solution set of a linear inequality involving \\(x\\) and \\(y\\). Circles are usually represented by equations involving squared terms, such as \\(x^2 + y^2 = r^2\\)."
+        },
+        {
+          "letter": "B",
+          "text": "Open half plane",
+          "isCorrect": true,
+          "explanation": "The solution set of the inequality \\(ax + by < c\\) is an open half plane. In a twodimensional coordinate system, this inequality represents a region of the plane that lies on one side of the line defined by the equation \\(ax + by = c\\), excluding the points on the line itself. Depending on the signs of \\(a\\) and \\(b\\), the half plane can be above, below, to the left, or to the right of the line."
+        },
+        {
+          "letter": "C",
+          "text": "Parabola",
+          "isCorrect": false,
+          "explanation": "A parabola is also not typically the solution set of a linear inequality. Parabolas are usually represented by quadratic equations, such as \\(y = ax^2 + bx + c\\)."
+        },
+        {
+          "letter": "D",
+          "text": "Plane",
+          "isCorrect": false,
+          "explanation": "While the solution set of the inequality \\(ax + by < c\\) exists within a plane (the twodimensional coordinate system), it does not encompass the entire plane. Instead, it represents a specific region within the plane, namely, the open half plane defined by the inequality."
+        }
+      ],
+      "explanation": "The solution set of the inequality \\(ax + by < c\\) is an open half plane. In a twodimensional coordinate system, this inequality represents a region of the plane that lies on one side of the line defined by the equation \\(ax + by = c\\), excluding the points on the line itself. Depending on the signs of \\(a\\) and \\(b\\), the half plane can be above, below, to the left, or to the right of the line.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In xyplane the graph of inequality 2x2 - 3<0 is.",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "lower half plane",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "upper half plane",
+          "isCorrect": false,
+          "explanation": "Incorrect option as explained in correct option."
+        },
+        {
+          "letter": "C",
+          "text": "right half plane",
+          "isCorrect": false,
+          "explanation": "Incorrect option as explained in correct option."
+        },
+        {
+          "letter": "D",
+          "text": "left half plane",
+          "isCorrect": false,
+          "explanation": "Incorrect option as explained in correct option."
+        },
+        {
+          "letter": "E",
+          "text": "None",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A statement that contains at least one of the symbols <, >, is called",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "an equation",
+          "isCorrect": false,
+          "explanation": "Equations are mathematical statements that assert the equality of two expressions. They typically contain an equals sign (=). In contrast, inequalities express relationships where the two quantities are not necessarily equal, so they are distinct from equations."
+        },
+        {
+          "letter": "B",
+          "text": "an inequality",
+          "isCorrect": true,
+          "explanation": "A statement that contains at least one of the symbols < (less than), > (greater than), ≤ (less than or equal to), or ≥ (greater than or equal to) is called an inequality. Inequalities express a relationship between two quantities that are not necessarily equal."
+        },
+        {
+          "letter": "C",
+          "text": "both a and b",
+          "isCorrect": false,
+          "explanation": "While some statements can be both equations and inequalities (e.g., \\(x = 5\\) is both an equation and an inequality if we consider it as \\(x \\leq 5\\) and \\(x \\geq 5\\)), this is not generally the case for all statements. Therefore, this option is not always correct."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "This option suggests that the statement described does not fit into either category, but it clearly fits the definition of an inequality."
+        }
+      ],
+      "explanation": "A statement that contains at least one of the symbols < (less than), > (greater than), ≤ (less than or equal to), or ≥ (greater than or equal to) is called an inequality. Inequalities express a relationship between two quantities that are not necessarily equal.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The nonnegative constraints are also known as",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "variables",
+          "isCorrect": true,
+          "explanation": "Nonnegative constraints often refer to constraints on variables in optimization problems, requiring them to be nonnegative. In this context, \"nonnegative\" means the variables must be zero or positive. Therefore, these constraints are closely associated with the variables themselves."
+        },
+        {
+          "letter": "B",
+          "text": "constraints",
+          "isCorrect": false,
+          "explanation": "While nonnegative constraints are indeed constraints in optimization problems, referring to the restrictions placed on the variables, they specifically pertain to the nature of the variables (i.e., their nonnegativity) rather than being a general term for constraints."
+        },
+        {
+          "letter": "C",
+          "text": "solution",
+          "isCorrect": false,
+          "explanation": "Nonnegative constraints are not solutions but rather conditions that the solutions must satisfy. Solutions are the values of the variables that optimize the objective function while meeting all the constraints."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "This option suggests that the term \"nonnegative constraints\" does not fit into any of the provided categories, which is incorrect. Nonnegative constraints are indeed related to variables in optimization problems."
+        }
+      ],
+      "explanation": "Nonnegative constraints often refer to constraints on variables in optimization problems, requiring them to be nonnegative. In this context, \"nonnegative\" means the variables must be zero or positive. Therefore, these constraints are closely associated with the variables themselves.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The graph of a linear inequality with two variables represents,",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ellipse",
+          "isCorrect": false,
+          "explanation": "An ellipse is a closed curve in the plane, characterized by the property that the sum of the distances from any point on the curve to two fixed points (the foci) is constant. The graph of a linear inequality does not typically represent an ellipse, as it usually involves straight lines or regions bounded by straight lines."
+        },
+        {
+          "letter": "B",
+          "text": "Circle",
+          "isCorrect": false,
+          "explanation": "A circle is a closed curve consisting of all points in a plane that are at a given distance from a fixed center point. The graph of a linear inequality does not usually represent a circle, as circles are defined by quadratic equations rather than linear inequalities."
+        },
+        {
+          "letter": "C",
+          "text": "Region",
+          "isCorrect": true,
+          "explanation": "The graph of a linear inequality with two variables represents a region in the coordinate plane. This region consists of all the points (x, y) that satisfy the inequality. For example, if the inequality is \\(ax + by < c\\), the graph represents the region below the line \\(ax + by = c\\). This region may be bounded or unbounded, depending on the specific inequality."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "This option suggests that the graph of a linear inequality does not represent any specific geometric shape, which is not accurate. Linear inequalities do represent specific regions in the coordinate plane, so this option is incorrect."
+        }
+      ],
+      "explanation": "The graph of a linear inequality with two variables represents a region in the coordinate plane. This region consists of all the points (x, y) that satisfy the inequality. For example, if the inequality is \\(ax + by < c\\), the graph represents the region below the line \\(ax + by = c\\). This region may be bounded or unbounded, depending on the specific inequality.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A feasible region is always",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "convex",
+          "isCorrect": true,
+          "explanation": "A feasible region is typically defined as convex, meaning that any line segment connecting two points within the region lies entirely within the region itself. This property is important in optimization because it simplifies the analysis and facilitates the identification of optimal solutions."
+        },
+        {
+          "letter": "B",
+          "text": "bounded",
+          "isCorrect": false,
+          "explanation": "While feasible regions can be bounded, meaning they are enclosed within a finite region of the coordinate plane, this is not a universal property. Feasible regions can also be unbounded, extending infinitely in one or more directions."
+        },
+        {
+          "letter": "C",
+          "text": "unbounded",
+          "isCorrect": false,
+          "explanation": "While feasible regions can indeed be unbounded, extending infinitely in one or more directions, this is not a universal property. Feasible regions can also be bounded, enclosed within a finite region of the coordinate plane."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "This option suggests that feasible regions do not have any specific characteristics, which is incorrect. Feasible regions do have certain properties, such as convexity, that are important in optimization."
+        }
+      ],
+      "explanation": "A feasible region is typically defined as convex, meaning that any line segment connecting two points within the region lies entirely within the region itself. This property is important in optimization because it simplifies the analysis and facilitates the identification of optimal solutions.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Set of values of decision variable which satisfied the constraint of linear programming",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vertex",
+          "isCorrect": false,
+          "explanation": "In linear programming, a vertex refers to a corner point of the feasible region, where two or more constraint boundaries intersect. While vertices can be solutions if they satisfy all constraints and optimize the objective function, not all solutions are necessarily vertices."
+        },
+        {
+          "letter": "B",
+          "text": "solution",
+          "isCorrect": true,
+          "explanation": "In linear programming, the set of values of decision variables that satisfy all the constraints is referred to as a solution. These solutions represent feasible points within the feasible region, meaning they adhere to all constraints while optimizing the objective function."
+        },
+        {
+          "letter": "C",
+          "text": "boundary",
+          "isCorrect": false,
+          "explanation": "The boundary of the feasible region consists of the lines or surfaces that define the constraints in the linear programming problem. While points on the boundary may be solutions, not all solutions lie on the boundary. Solutions are found within the feasible region, not necessarily on its boundary."
+        },
+        {
+          "letter": "D",
+          "text": "none of these",
+          "isCorrect": false,
+          "explanation": "This option suggests that the term \"solution\" does not accurately describe the set of values of decision variables that satisfy the constraints, which is incorrect. In linear programming, finding solutions that satisfy the constraints is a fundamental aspect of the optimization process."
+        }
+      ],
+      "explanation": "In linear programming, the set of values of decision variables that satisfy all the constraints is referred to as a solution. These solutions represent feasible points within the feasible region, meaning they adhere to all constraints while optimizing the objective function.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The number of ordered pairs that satisfy the inequality is",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "finite",
+          "isCorrect": false,
+          "explanation": "While it's possible for the number of ordered pairs to satisfy an inequality to be finite, this is not always the case. In many situations, especially involving strict inequalities (\\(<\\) or \\(>\\)), the number of solutions is infinite."
+        },
+        {
+          "letter": "B",
+          "text": "infinite",
+          "isCorrect": true,
+          "explanation": "In many cases, the number of ordered pairs that satisfy an inequality is infinite. For instance, in the inequality \\(x > 0\\), there are infinitely many ordered pairs \\((x, y)\\) that satisfy the inequality, as long as \\(x\\) is positive. This is because for any positive value of \\(x\\), there is a corresponding value of \\(y\\) that satisfies the inequality."
+        },
+        {
+          "letter": "C",
+          "text": "unique",
+          "isCorrect": false,
+          "explanation": "In general, solutions to inequalities are not necessarily unique. There can be multiple ordered pairs that satisfy an inequality, especially when the inequality allows for a range of values that satisfy the condition."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "This option suggests that the number of ordered pairs satisfying the inequality cannot be categorized as either finite or infinite, which is incorrect. In many cases, the number of solutions is clearly either finite or infinite."
+        }
+      ],
+      "explanation": "In many cases, the number of ordered pairs that satisfy an inequality is infinite. For instance, in the inequality \\(x > 0\\), there are infinitely many ordered pairs \\((x, y)\\) that satisfy the inequality, as long as \\(x\\) is positive. This is because for any positive value of \\(x\\), there is a corresponding value of \\(y\\) that satisfies the inequality.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A point which is used to determine position of half plane is called",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "corner point",
+          "isCorrect": false,
+          "explanation": "This option suggests that there is no specific term used to describe the point used to determine the position of a half plane, which is incorrect. In the context of linear inequalities, the term \"test point\" is commonly used for this purpose."
+        },
+        {
+          "letter": "B",
+          "text": "test point",
+          "isCorrect": true,
+          "explanation": "In the context of linear inequalities and half planes, a test point is a point used to determine which side of the boundary line (or plane) constitutes the solution set. By substituting the coordinates of the test point into the inequality, we can determine whether it satisfies the inequality and thus lies in the solution set of the half plane."
+        },
+        {
+          "letter": "C",
+          "text": "boundary point",
+          "isCorrect": false,
+          "explanation": "This option suggests that there is no specific term used to describe the point used to determine the position of a half plane, which is incorrect. In the context of linear inequalities, the term \"test point\" is commonly used for this purpose."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "This option suggests that there is no specific term used to describe the point used to determine the position of a half plane, which is incorrect. In the context of linear inequalities, the term \"test point\" is commonly used for this purpose."
+        }
+      ],
+      "explanation": "In the context of linear inequalities and half planes, a test point is a point used to determine which side of the boundary line (or plane) constitutes the solution set. By substituting the coordinates of the test point into the inequality, we can determine whether it satisfies the inequality and thus lies in the solution set of the half plane.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Feasible region is region restricted to the quadrant.",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "I",
+          "isCorrect": true,
+          "explanation": "The feasible region in the context of linear programming is the region of the coordinate plane that satisfies all the constraints of the problem. In most cases, these constraints define a bounded region in the first quadrant (quadrant I) of the coordinate plane, where both the \\(x\\) and \\(y\\) coordinates are positive."
+        },
+        {
+          "letter": "B",
+          "text": "II",
+          "isCorrect": false,
+          "explanation": "Quadrant II contains points where the \\(x\\) coordinate is negative and the \\(y\\) coordinate is positive. Feasible regions are typically not restricted to this quadrant."
+        },
+        {
+          "letter": "C",
+          "text": "III",
+          "isCorrect": false,
+          "explanation": "Quadrant III contains points where both the \\(x\\) and \\(y\\) coordinates are negative. Feasible regions are typically not restricted to this quadrant."
+        },
+        {
+          "letter": "D",
+          "text": "IV",
+          "isCorrect": false,
+          "explanation": "Quadrant IV contains points where the \\(x\\) coordinate is positive and the \\(y\\) coordinate is negative. Feasible regions are typically not restricted to this quadrant."
+        }
+      ],
+      "explanation": "The feasible region in the context of linear programming is the region of the coordinate plane that satisfies all the constraints of the problem. In most cases, these constraints define a bounded region in the first quadrant (quadrant I) of the coordinate plane, where both the \\(x\\) and \\(y\\) coordinates are positive.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The process used to maximize or minimize a quantity is called,",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "optimization",
+          "isCorrect": true,
+          "explanation": "The process of maximizing or minimizing a quantity, often subject to certain constraints, is known as optimization. In various fields such as mathematics, engineering, economics, and computer science, optimization plays a crucial role in finding the best possible solution to a given problem."
+        },
+        {
+          "letter": "B",
+          "text": "solution",
+          "isCorrect": false,
+          "explanation": "While finding a solution is a part of the optimization process, it does not encompass the entire process itself. Optimization involves more than just finding a solution; it involves determining the best possible solution among many alternatives."
+        },
+        {
+          "letter": "C",
+          "text": "both a & b",
+          "isCorrect": false,
+          "explanation": "While finding a solution is indeed a component of the optimization process, the term \"optimization\" specifically refers to the overall process of maximizing or minimizing a quantity. Therefore, option (c) is partially correct but not the best choice as it does not fully capture the essence of optimization."
+        },
+        {
+          "letter": "D",
+          "text": "none of these",
+          "isCorrect": false,
+          "explanation": "This option suggests that there is no specific term used to describe the process of maximizing or minimizing a quantity, which is incorrect. \"Optimization\" is the established term used to describe this process in various fields."
+        }
+      ],
+      "explanation": "The process of maximizing or minimizing a quantity, often subject to certain constraints, is known as optimization. In various fields such as mathematics, engineering, economics, and computer science, optimization plays a crucial role in finding the best possible solution to a given problem.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Convex region is not",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "bounded",
+          "isCorrect": false,
+          "explanation": "Convex regions can be either bounded or unbounded. The property of being bounded or unbounded is not a defining characteristic of convexity. Convexity refers to the shape of the region, not its size or extent."
+        },
+        {
+          "letter": "B",
+          "text": "unbounded",
+          "isCorrect": false,
+          "explanation": "Similar to the previous option, convex regions can indeed be unbounded. The property of being bounded or unbounded is independent of convexity. Convexity refers to the shape of the region, not its size or extent."
+        },
+        {
+          "letter": "C",
+          "text": "dashed line",
+          "isCorrect": true,
+          "explanation": "A convex region is characterized by the property that the line segment connecting any two points within the region lies entirely within the region itself. It is a continuous and unbroken area. Therefore, a convex region typically does not contain dashed lines as part of its boundary. Dashed lines are typically associated with nonconvex or discontinuous regions."
+        },
+        {
+          "letter": "D",
+          "text": "closed",
+          "isCorrect": false,
+          "explanation": "Convex regions are typically closed, meaning they include their boundary. However, closedness is not a defining characteristic of convexity. There can be closed nonconvex regions as well."
+        }
+      ],
+      "explanation": "A convex region is characterized by the property that the line segment connecting any two points within the region lies entirely within the region itself. It is a continuous and unbroken area. Therefore, a convex region typically does not contain dashed lines as part of its boundary. Dashed lines are typically associated with nonconvex or discontinuous regions.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The variables used in the system of linear inequalities are",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "negative",
+          "isCorrect": false,
+          "explanation": "While variables could theoretically take negative values, in many optimization problems, particularly those involving quantities like quantities of goods, resources, or decision choices, negative values are not meaningful. Therefore, the variables are often constrained to be nonnegative."
+        },
+        {
+          "letter": "B",
+          "text": "non negative",
+          "isCorrect": true,
+          "explanation": "In the context of linear inequalities and optimization problems, the variables used typically represent quantities that cannot be negative. These variables are often constrained to be nonnegative, meaning their values must be zero or positive. This restriction is common in many practical scenarios, such as quantities representing quantities of goods, resources, or decision choices, where negative values do not make sense."
+        },
+        {
+          "letter": "C",
+          "text": "feasible region",
+          "isCorrect": false,
+          "explanation": "The feasible region represents the set of all feasible combinations of values for the variables that satisfy all the constraints of the problem. The variables themselves are not the feasible region; they define the feasible region."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "This option suggests that there is no specific term to describe the nature of the variables in linear inequalities, which is incorrect. In many optimization problems, the variables are explicitly constrained to be nonnegative due to their interpretation in the context of the problem."
+        }
+      ],
+      "explanation": "In the context of linear inequalities and optimization problems, the variables used typically represent quantities that cannot be negative. These variables are often constrained to be nonnegative, meaning their values must be zero or positive. This restriction is common in many practical scenarios, such as quantities representing quantities of goods, resources, or decision choices, where negative values do not make sense.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Option A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Option B",
+          "isCorrect": false,
+          "explanation": "Incorrect option as explained in correct option."
+        },
+        {
+          "letter": "C",
+          "text": "Option C",
+          "isCorrect": false,
+          "explanation": "Incorrect option as explained in correct option."
+        },
+        {
+          "letter": "D",
+          "text": "Option D",
+          "isCorrect": false,
+          "explanation": "Incorrect option as explained in correct option."
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "How many points can be the solution of the inequality x+4y<8?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "only one",
+          "isCorrect": false,
+          "explanation": "Incorrect option as explained in correct option."
+        },
+        {
+          "letter": "B",
+          "text": "all points in 4th quadrant",
+          "isCorrect": false,
+          "explanation": "Incorrect option as explained in correct option."
+        },
+        {
+          "letter": "C",
+          "text": "infinite",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "(0,0)",
+          "isCorrect": false,
+          "explanation": "Incorrect option as explained in correct option."
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The graph of the inequality x+2>0 is.",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "open right half plane",
+          "isCorrect": true,
+          "explanation": "The inequality \\(x + 2 > 0\\) represents all points \\(x\\) that are greater than 2. Graphically, this represents a halfplane to the right of the vertical line \\(x = 2\\), excluding the line itself because the inequality is strict (\\(>\\)). Since the line \\(x = 2\\) is not included, the half plane is open on that side."
+        },
+        {
+          "letter": "B",
+          "text": "closed right half plane",
+          "isCorrect": false,
+          "explanation": "This option suggests that the halfplane includes the line \\(x = 2\\), making it a closed region. However, since the inequality is strict (\\(>\\)), the line is not included, and therefore the region is not closed."
+        },
+        {
+          "letter": "C",
+          "text": "open left half plane",
+          "isCorrect": false,
+          "explanation": "This option incorrectly describes the left half plane, which would involve points to the left of the line \\(x = 2\\). However, the inequality \\(x + 2 > 0\\) pertains to the right side of the line \\(x = 2\\), not the left side."
+        },
+        {
+          "letter": "D",
+          "text": "closed left half",
+          "isCorrect": false,
+          "explanation": "Similar to option (c), this option incorrectly describes the left half of the coordinate plane. The inequality \\(x + 2 > 0\\) pertains to the right side of the line \\(x = 2\\), not the left side."
+        }
+      ],
+      "explanation": "The inequality \\(x + 2 > 0\\) represents all points \\(x\\) that are greater than 2. Graphically, this represents a halfplane to the right of the vertical line \\(x = 2\\), excluding the line itself because the inequality is strict (\\(>\\)). Since the line \\(x = 2\\) is not included, the half plane is open on that side.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0,0)",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "(1,1)",
+          "isCorrect": false,
+          "explanation": "Incorrect option as explained in correct option."
+        },
+        {
+          "letter": "C",
+          "text": "(2,1)",
+          "isCorrect": false,
+          "explanation": "Incorrect option as explained in correct option."
+        },
+        {
+          "letter": "D",
+          "text": "(1,-1)",
+          "isCorrect": false,
+          "explanation": "Incorrect option as explained in correct option."
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1,0)",
+          "isCorrect": false,
+          "explanation": "Incorrect option as explained in correct option."
+        },
+        {
+          "letter": "B",
+          "text": "(3,0)",
+          "isCorrect": false,
+          "explanation": "Incorrect option as explained in correct option."
+        },
+        {
+          "letter": "C",
+          "text": "(0,2)",
+          "isCorrect": false,
+          "explanation": "Incorrect option as explained in correct option."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Values of x and y which maximize the objective function f(x, y)=x+3y, subject to the constraints 2x+5y ≤30,5x+4y ≤20,x20y 20 are,",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Linear Inequalities and Linear Programming",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "(0,0)",
+          "isCorrect": false,
+          "explanation": "Incorrect option as explained in correct option."
+        },
+        {
+          "letter": "B",
+          "text": "(0,5)",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "(5,0)",
+          "isCorrect": false,
+          "explanation": "Incorrect option as explained in correct option."
+        },
+        {
+          "letter": "D",
+          "text": "(5,5)",
+          "isCorrect": false,
+          "explanation": "Incorrect option as explained in correct option."
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    }
+  ]
+}

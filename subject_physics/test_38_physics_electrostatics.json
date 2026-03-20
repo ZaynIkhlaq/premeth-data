@@ -1,0 +1,2010 @@
+{
+  "questions": [
+    {
+      "text": "If we double the separation between two charges, then coulomb's force will become?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2020,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Doubled",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        },
+        {
+          "letter": "B",
+          "text": "Half",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        },
+        {
+          "letter": "C",
+          "text": "4-times",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        },
+        {
+          "letter": "D",
+          "text": "1/4th",
+          "isCorrect": true,
+          "explanation": "According to Coloumbs law, F=kq1q2/d² where F is the force, k=1/4πε0 , q1 and q2 are the charges and d is the distance of separation of charges.So F is inversely proportional to 1/d²If the separation is doubled, d becomes 2dthen the force decreases by 4 times and becomes F/4."
+        }
+      ],
+      "explanation": "The size of the force varies inversely as the square of the distance between the two charges. Therefore, if the distance between the two charges is doubled, the attraction or repulsion becomes weaker, decreasing to one-fourth of the original value.",
+      "explanationImage": null,
+      "hints": [
+        "double the separation between two charges",
+        "coulomb's force"
+      ]
+    },
+    {
+      "text": "You have two identical capacitors. They can be connected in series or parallel. If you want the smallest equivalent capacitance for the combination, how should you connect them?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "In parallel",
+          "isCorrect": false,
+          "explanation": "When capacitors are connected in parallel, their equivalent capacitance is the sum of the individual capacitances, which means the total capacitance will be larger than either individual capacitor."
+        },
+        {
+          "letter": "B",
+          "text": "In series",
+          "isCorrect": true,
+          "explanation": "In series, the net capacitance of the capacitors is less than the individual capacitances. Ct = 1/C1+1/C2 + 1/C3Thus any values for C1, C2, and C3 will become less than the original as they are each divided by 1."
+        },
+        {
+          "letter": "C",
+          "text": "Either way because both combinations have the same capacitance",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because both combinations do not have the same capacitance."
+        },
+        {
+          "letter": "D",
+          "text": "We can not determine, because presence of resistance in the circuit determines capacitance",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the presence of resistance in the circuit does not affect the calculation of the equivalent capacitance of the capacitors, as long as the resistance is not in series with the capacitors or parallel with the capacitor combination."
+        }
+      ],
+      "explanation": "In series, the net capacitance of the capacitors is less than the individual capacitances. Ct = 1/C1 + 1/C2 + 1/C3Thus any values for C1, C2, and C3 will become less than the original as they are each divided by 1.",
+      "explanationImage": null,
+      "hints": [
+        "two identical",
+        "smallest equivalent capacitance",
+        "combination"
+      ]
+    },
+    {
+      "text": "A hollow charged metal sphere has radius r. If the potential difference between its surface and a point at a distance 3r from the centre is V, then electric field intensity at distance 3r from the centre is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "V/3r",
+          "isCorrect": false,
+          "explanation": "This option incorrectly assumes a direct relationship without considering the full electrostatic balance. For a point at 3r, the uniform field outside should be considered, leading to V/6r."
+        },
+        {
+          "letter": "B",
+          "text": "V/4r",
+          "isCorrect": false,
+          "explanation": "This choice doesn't apply the correct formula for calculating electric field intensity from potential difference at the specified distance. The correct relationship is V/6r, not V/4r."
+        },
+        {
+          "letter": "C",
+          "text": "V/6r",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. For a hollow charged sphere, the electric field intensity at a distance 3r from the center is V divided by the effective distance 3r, resulting in V/6r."
+        },
+        {
+          "letter": "D",
+          "text": "V/2r",
+          "isCorrect": false,
+          "explanation": "This option overestimates the field intensity by not accounting for the total distance from the center. The correct calculation uses the full distance (3r), resulting in V/6r, not V/2r."
+        }
+      ],
+      "explanation": "For a hollow charged metal sphere, the electric field intensity outside the sphere is determined by the potential difference V and the radial distance from the center. The potential difference V between the sphere's surface and a point at distance 3r is calculated using the formula for electric field intensity E = V/d, where d = 3r. Therefore, the correct electric field intensity is E = V/6r. Option C correctly identifies this relationship. Options A, B, and D provide incorrect calculations either by misapplying the formula or using incorrect distances.",
+      "explanationImage": null,
+      "hints": [
+        "hollow",
+        "charged",
+        "distance 3r"
+      ]
+    },
+    {
+      "text": "The electric potential at infinite distance is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Infinity",
+          "isCorrect": false,
+          "explanation": "This option means that the electric potential at infinite distance from any charge is infinity. In reality, the electric potential at infinite distance is considered to be zero, not infinity."
+        },
+        {
+          "letter": "B",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "The electric potential at infinite distance is zero.Electric potential is the amount of electric potential energy per unit charge at a given point in space. It is measured in volts (V). At infinite distance from a charge or collection of charges, the electric field strength becomes negligible, and the electric potential approaches zero."
+        },
+        {
+          "letter": "C",
+          "text": "Negative",
+          "isCorrect": false,
+          "explanation": "This option is not true. Electric potential can be negative near a negatively charged particle, but it is not negative at infinite distance."
+        },
+        {
+          "letter": "D",
+          "text": "Positive",
+          "isCorrect": false,
+          "explanation": "This option is not true either. Electric potential can be positive near a positively charged particle, but it is not positive at infinite distance."
+        }
+      ],
+      "explanation": "Option B is correct since the electric potential at infinite distance is zero.Electric potential is the amount of electric potential energy per unit charge at a given point in space. It is measured in volts (V). At infinite distance from a charge or collection of charges, the electric field strength becomes negligible, and the electric potential approaches zero.",
+      "explanationImage": null,
+      "hints": [
+        "electric potential",
+        "infinite distance"
+      ]
+    },
+    {
+      "text": "Two capacitors C1=3µF and C2=6µF are in series across a 90 volts D.C. supply. The total capacitance is given by:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "9 µF",
+          "isCorrect": false,
+          "explanation": "1/Ceq=1/C1+1/C2=1/3µF+1/6µF=1/2µFCeq=2µF"
+        },
+        {
+          "letter": "B",
+          "text": "2 µF",
+          "isCorrect": true,
+          "explanation": "1/Ceq=1/C1+1/C2=1/3µF+1/6µF=1/2µFCeq=2µF"
+        },
+        {
+          "letter": "C",
+          "text": "10 µF",
+          "isCorrect": false,
+          "explanation": "1/Ceq=1/C1+1/C2=1/3µF+1/6µF=1/2µFCeq=2µF"
+        },
+        {
+          "letter": "D",
+          "text": "90 µF",
+          "isCorrect": false,
+          "explanation": "1/Ceq=1/C1+1/C2=1/3µF+1/6µF=1/2µFCeq=2µF"
+        },
+        {
+          "letter": "E",
+          "text": "5 µF",
+          "isCorrect": false,
+          "explanation": "1/Ceq=1/C1+1/C2=1/3µF+1/6µF=1/2µFCeq=2µF"
+        }
+      ],
+      "explanation": "1/C1 + 1/C2 = 1/C⅓ + ⅙ = 1/C2 + 1 /6 = 1/C3/6 = 1/C½ =1 /CC = 2 µF",
+      "explanationImage": null,
+      "hints": [
+        "C1=3µF",
+        "C2=6µF",
+        "series",
+        "90 volts",
+        "total capacitance"
+      ]
+    },
+    {
+      "text": "The value for εr for air is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.6",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "1.06",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "1.006",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "1.0006",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Option D is correct since it is the actual value for the dielectric constant of air. Option A is incorrect since 1.6 is the dielectric constant of foam polyethylene. Option B is incorrect since it is not the correct value of the dielectric constant of air Option C is incorrect since it is not the correct value of the dielectric constant of air.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Two bodies are charged by rubbing one against the other. During the process, one becomes positively charged while the other becomes negatively charged. Then:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mass of each body remains unchanged",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the transfer of electrons actually causes a slight change in the mass of each body."
+        },
+        {
+          "letter": "B",
+          "text": "Mass of each body changes marginally",
+          "isCorrect": false,
+          "explanation": "While this option acknowledges a change in mass, it does not address the conservation of total mass in the system."
+        },
+        {
+          "letter": "C",
+          "text": "Mass of each body changes slightly and hence the total mass",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it contradicts the law of conservation of mass, which states that the total mass should remain constant."
+        },
+        {
+          "letter": "D",
+          "text": "Mass of each body changes slightly but the total mass remains the same",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The transfer of electrons between the bodies results in a slight change in their individual masses, but the total mass of the system remains unchanged due to the conservation of mass."
+        }
+      ],
+      "explanation": "When two bodies are charged by rubbing, electrons are transferred from one body to the other. This leads to one body becoming negatively charged (gaining electrons) and the other positively charged (losing electrons). In this process, the mass of the negatively charged body slightly increases, while the mass of the positively charged body slightly decreases. However, according to the law of conservation of mass, the total mass of the system remains the same because the electrons are merely transferred from one body to the other, not created or destroyed.Option A is incorrect because it overlooks the mass change due to electron transfer. Option B notes a mass change but fails to recognize that the total mass remains constant. Option C incorrectly suggests that the total mass changes, which violates the conservation of mass. Option D correctly identifies that individual masses change while the total mass remains constant.",
+      "explanationImage": null,
+      "hints": [
+        "charged",
+        "rubbing",
+        "positively"
+      ]
+    },
+    {
+      "text": "One coulomb charge is carried by:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6.25 x 1018 electrons",
+          "isCorrect": true,
+          "explanation": "One Coulomb of charge is equivalent to the charge possessed by approximately 6.25 × 1018 electrons. A Coulomb is the SI unit of electric charge, representing a large amount of charge. It is defined as the charge that flows through a conductor when one Ampere (1 A) of current passes through it in one second."
+        },
+        {
+          "letter": "B",
+          "text": "One electron",
+          "isCorrect": false,
+          "explanation": "This option is not correct. As mentioned above, one electron carries a charge of approximately 1.6 x 10^-19 coulombs. To make up one coulomb of charge, we would need many electrons (about 6.25 x 10^18 electrons)."
+        },
+        {
+          "letter": "C",
+          "text": "One proton",
+          "isCorrect": false,
+          "explanation": "This option is also not correct. Protons are positively charged particles, and each proton carries a fundamental unit of positive charge, which is also approximately 1.6 x 10^-19 coulombs. To make up one coulomb of charge, we would need many protons (about 6.25 x 10^18 protons)."
+        },
+        {
+          "letter": "D",
+          "text": "1.6 x 1019 electrons",
+          "isCorrect": false,
+          "explanation": "This option is not correct. As mentioned earlier, one coulomb of charge is equivalent to the charge carried by about 6.25 x 10^18 electrons, not 1.6 x 10^19 electrons."
+        }
+      ],
+      "explanation": "Remember that 1 coulomb charge is carried by 6.25 × 1018 electrons.",
+      "explanationImage": null,
+      "hints": [
+        "One coulomb",
+        "carried"
+      ]
+    },
+    {
+      "text": "The formula for electric field strength is ‘E = F/Q’, where E is electric field strength and F is force and Q is the charge. Which one of the following options gives the correct base units for electric field strength?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "kg m s-3 A-1",
+          "isCorrect": true,
+          "explanation": "Force-mass x acceleration-kg x ms-2.Q=current(1) x time(t)=IT=A.sE=F/Q-kg ms-2/As .E=kgms-3A-1As it is a numerical, it can have only one possible answer."
+        },
+        {
+          "letter": "B",
+          "text": "kg s-2A-3",
+          "isCorrect": false,
+          "explanation": "Force-mass x acceleration-kg x ms-2.Q=current(1) x time(t)=IT=A.sE=F/Q-kg ms-2/As .E=kgms-3A-1"
+        },
+        {
+          "letter": "C",
+          "text": "kg2 s-3A-2",
+          "isCorrect": false,
+          "explanation": "Force-mass x acceleration-kg x ms-2.Q=current(1) x time(t)=IT=A.sE=F/Q-kg ms-2/As .E=kgms-3A-1"
+        },
+        {
+          "letter": "D",
+          "text": "m s-1 A-3",
+          "isCorrect": false,
+          "explanation": "Force-mass x acceleration-kg x ms-2.Q=current(1) x time(t)=IT=A.sE=F/Q-kg ms-2/As .E=kgms-3A-1"
+        }
+      ],
+      "explanation": "Force-mass x acceleration-kg x ms-2.Q=current(1) x time(t)=IT=A.sE=F/Q-kg ms-2/As .E=kgms-3A-1As it is a numerical, it can have only one possible answer.",
+      "explanationImage": null,
+      "hints": [
+        "electric field strength",
+        "‘E = F/Q",
+        "correct",
+        "base units"
+      ]
+    },
+    {
+      "text": "A particle carrying a charge 3e accelerates through a potential difference of 2V. The energy acquired by it is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 eV",
+          "isCorrect": true,
+          "explanation": "Option A is correct since electric potential (V) is defined as the potential energy per unit charge(q).Potential energy= Vq3e x 2v = 6eV"
+        },
+        {
+          "letter": "B",
+          "text": "1.5 eV",
+          "isCorrect": false,
+          "explanation": "This option is incorrect.Electric potential (V) is defined as the potential energy per unit charge(q).Potential energy= Vq3e x 2v = 6eV"
+        },
+        {
+          "letter": "C",
+          "text": "0.66 eV",
+          "isCorrect": false,
+          "explanation": "This option is incorrect.Electric potential (V) is defined as the potential energy per unit charge(q).Potential energy= Vq3e x 2v = 6eV"
+        },
+        {
+          "letter": "D",
+          "text": "12 eV",
+          "isCorrect": false,
+          "explanation": "This option is incorrect.Electric potential (V) is defined as the potential energy per unit charge(q).Potential energy= Vq3e x 2v = 6eV"
+        }
+      ],
+      "explanation": "Option A is correct since electric potential (V) is defined as the potential energy per unit charge(q).Potential energy= Vq3e x 2v = 6eV",
+      "explanationImage": null,
+      "hints": [
+        "charge 3e",
+        "2V",
+        "energy acquired"
+      ]
+    },
+    {
+      "text": "The value of K depends upon _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Charges",
+          "isCorrect": false,
+          "explanation": "Charges: While the magnitude of charges is important in equations involving K, K itself doesn't change based on the charges."
+        },
+        {
+          "letter": "B",
+          "text": "System of units and nature of medium",
+          "isCorrect": true,
+          "explanation": "K depends on •System of units •Nature of medium separating charges"
+        },
+        {
+          "letter": "C",
+          "text": "The distance between charges",
+          "isCorrect": false,
+          "explanation": "The distance between charges: Similar to charges, distance affects the overall force or field, but not the value of K."
+        },
+        {
+          "letter": "D",
+          "text": "Nature of medium",
+          "isCorrect": false,
+          "explanation": "Nature of medium: This is partially correct, but it doesn't include the system of units, which is also a crucial factor for the value of K."
+        }
+      ],
+      "explanation": "K depends on •System of units •Nature of medium separating charges",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the charge stored on a 5 μF capacitor charged to a potential difference of 12 V?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2013,
+      "options": [
+        {
+          "letter": "A",
+          "text": "60 μC",
+          "isCorrect": true,
+          "explanation": "Given:Capacitance = C = 5 μF = 5 × 10-6Potential difference = V = 12 VCharge = Q =?Formula:As we know that: Q = CV = 5 × 10-6 × 12 = 60 × 10-6 Q = 60 μC."
+        },
+        {
+          "letter": "B",
+          "text": "2.4 C",
+          "isCorrect": false,
+          "explanation": "Given:Capacitance = C = 5 μF = 5 × 10-6Potential difference = V = 12 VCharge = Q =?Formula:As we know that: Q = CV = 5 × 10-6 × 12 = 60 × 10-6 Q = 60 μC."
+        },
+        {
+          "letter": "C",
+          "text": "2.4 μC",
+          "isCorrect": false,
+          "explanation": "Given:Capacitance = C = 5 μF = 5 × 10-6Potential difference = V = 12 VCharge = Q =?Formula:As we know that: Q = CV = 5 × 10-6 × 12 = 60 × 10-6 Q = 60 μC."
+        },
+        {
+          "letter": "D",
+          "text": "60 C",
+          "isCorrect": false,
+          "explanation": "Given:Capacitance = C = 5 μF = 5 × 10-6Potential difference = V = 12 VCharge = Q =?Formula:As we know that: Q = CV = 5 × 10-6 × 12 = 60 × 10-6 Q = 60 μC."
+        }
+      ],
+      "explanation": "Use formula Q=CV, where C is .005 F and V is 12 V, and then convert the answer to μC by dividing it with 1000.0.005 x 12 / 1000 = 60 μC.",
+      "explanationImage": null,
+      "hints": [
+        "5 μF capacitor",
+        "potential difference of 12 V",
+        "charge"
+      ]
+    },
+    {
+      "text": "Farad is defined as:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Newton / volt",
+          "isCorrect": false,
+          "explanation": "Newton per volt is not a unit of capacitance. It is the SI unit of electric field strength, also known as voltage gradient or electric field gradient. The electric field strength is defined as the force per unit charge experienced by a small test charge placed in an electric field. The unit of electric field strength is newton per coulomb (N/C), but it can also be expressed as volt per meter (V/m) because the volt is equivalent to a joule per coulomb (J/C)."
+        },
+        {
+          "letter": "B",
+          "text": "Coulomb / volt",
+          "isCorrect": true,
+          "explanation": "A farad is the SI unit of capacitance. It is defined as the amount of electric charge that can be stored per unit of voltage in a capacitor. One farad is equal to one coulomb of electric charge per volt of potential difference. So, it's Coulomb/volt."
+        },
+        {
+          "letter": "C",
+          "text": "Coulomb / joule",
+          "isCorrect": false,
+          "explanation": "Coulomb per joule is the SI unit of electric potential difference, also known as voltage. The electric potential difference between two points in an electric field is defined as the work done per unit charge in moving a positive test charge from one point to the other. The unit of electric potential difference is the volt (V), which is equivalent to one joule of energy per coulomb of charge."
+        },
+        {
+          "letter": "D",
+          "text": "Coulomb / newton",
+          "isCorrect": false,
+          "explanation": "Coulomb per newton is the SI unit of electric charge to mass ratio, also known as a specific charge. It is defined as the electric charge of a particle divided by its mass. The unit of specific charge is coulomb per kilogram (C/kg) or coulomb per gram (C/g), but it can also be expressed as newton to tesla (N/T) because the tesla is equivalent to a newton per ampere per meter (N/A.m). The specific charge is a fundamental property of a charged particle and is used to identify and study various types of particles, such as electrons, protons, and ions."
+        }
+      ],
+      "explanation": "A farad is the SI unit of capacitance. It is defined as the amount of electric charge that can be stored per unit of voltage in a capacitor. One farad is equal to one coulomb of electric charge per volt of potential difference. So, it's Coulomb/volt.",
+      "explanationImage": null,
+      "hints": [
+        "Farad",
+        "defined"
+      ]
+    },
+    {
+      "text": "A capacitor of capacitance C is connected with resistance R. The time constant of the circuit would be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "RC",
+          "isCorrect": true,
+          "explanation": "Yes because of givThe RC time constant, also called tau, the time constant (in seconds) of an RC circuit, is equal to the product of the circuit resistance (in ohms) and the circuit capacitance (in farads)"
+        },
+        {
+          "letter": "B",
+          "text": "R/C",
+          "isCorrect": false,
+          "explanation": "This is not true as per the Explanation."
+        },
+        {
+          "letter": "C",
+          "text": "e^RC",
+          "isCorrect": false,
+          "explanation": "This is not true as per the Explanation."
+        },
+        {
+          "letter": "D",
+          "text": "R+C",
+          "isCorrect": false,
+          "explanation": "This is not true as per the Explanation."
+        }
+      ],
+      "explanation": "yes because of givThe RC time constant, also called tau, the time constant (in seconds) of an RC circuit, is equal to the product of the circuit resistance (in ohms) and the circuit capacitance (in farads)",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Two capacitors C1=3µF and C2=6µF are in series across a 90 volts D.C. supply. The total capacitance is given by:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "9 µF",
+          "isCorrect": false,
+          "explanation": "1/Ceq=1/C1+1/C2=1/3µF+1/6µF=1/2µFCeq=2µF"
+        },
+        {
+          "letter": "B",
+          "text": "2 µF",
+          "isCorrect": true,
+          "explanation": "1/Ceq=1/C1+1/C2=1/3µF+1/6µF=1/2µFCeq=2µF"
+        },
+        {
+          "letter": "C",
+          "text": "10 µF",
+          "isCorrect": false,
+          "explanation": "1/Ceq=1/C1+1/C2=1/3µF+1/6µF=1/2µFCeq=2µF"
+        },
+        {
+          "letter": "D",
+          "text": "90 µF",
+          "isCorrect": false,
+          "explanation": "1/Ceq=1/C1+1/C2=1/3µF+1/6µF=1/2µFCeq=2µF"
+        },
+        {
+          "letter": "E",
+          "text": "5 µF",
+          "isCorrect": false,
+          "explanation": "1/Ceq=1/C1+1/C2=1/3µF+1/6µF=1/2µFCeq=2µF"
+        }
+      ],
+      "explanation": "1/C1 + 1/C2 = 1/C⅓ + ⅙ = 1/C2 + 1 /6 = 1/C3/6 = 1/C½ =1 /CC = 2 µF",
+      "explanationImage": null,
+      "hints": [
+        "C1=3µF",
+        "C2=6µF",
+        "series",
+        "90 volts",
+        "total capacitance"
+      ]
+    },
+    {
+      "text": "You have three capacitors, each of 2 C. In which of the following combinations of the three capacitors is the resultant capacitance 6 C?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "All three capacitors are in series",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formulaCeq = nC= 3 x 2 µF= 6 µF"
+        },
+        {
+          "letter": "B",
+          "text": "Two capacitors are in series, one in parallel",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formulaCeq = nC= 3 x 2 µF= 6 µF"
+        },
+        {
+          "letter": "C",
+          "text": "Two capacitors are in parallel, one in series",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formulaCeq = nC= 3 x 2 µF= 6 µF"
+        },
+        {
+          "letter": "D",
+          "text": "All three capacitors are in parallel",
+          "isCorrect": true,
+          "explanation": "Ceq = nC= 3 x 2 µF= 6 µFAs only option D gives the required value, this option is the correct option."
+        }
+      ],
+      "explanation": "When capacitors are connected in parallel, the equivalent capacitance is the sum of the individual capacitances.",
+      "explanationImage": null,
+      "hints": [
+        "e three capacitors, each of 2 C",
+        "following combinations of the three capacitors is the resultant capacitance 6 C"
+      ]
+    },
+    {
+      "text": "The electric field strength between a pair of plates is \"E\". If the separation of the plates is doubled and the potential difference between the plates is increased by a factor of four, the new field strength is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "E",
+          "isCorrect": false,
+          "explanation": "Option A suggests that the electric field strength remains unchanged. However, this is incorrect. When the separation of the plates is doubled and the potential difference between the plates is increased by a factor of four, the electric field strength is not expected to remain the same. Therefore, option A is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "2E",
+          "isCorrect": true,
+          "explanation": "Option B correctly indicates that the new electric field strength is twice the original electric field strength. Doubling the separation of the plates while quadrupling the potential difference between them results in an electric field strength that is proportional to 4V/2d=2E. Therefore, option B is the correct choice."
+        },
+        {
+          "letter": "C",
+          "text": "4E",
+          "isCorrect": false,
+          "explanation": "Option C suggests that the new electric field strength is four times the original electric field strength. However, this is not the case. Doubling the separation of the plates and quadrupling the potential difference between them does not result in an electric field strength that is directly proportional to 4V/2d=2E. Therefore, option C is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "8E",
+          "isCorrect": false,
+          "explanation": "Option D suggests that the new electric field strength is eight times the original electric field strength. However, this is not the case. Doubling the separation of the plates and quadrupling the potential difference between them does not result in an electric field strength that is directly proportional to 4V/2d =2E. Therefore, option D is incorrect."
+        }
+      ],
+      "explanation": "Electric field is calculated by the formula = Voltage / Distance so doubling the separation of plates decreases the electric field by 2 times and increasing pd between plates by factor of four, increases electric field 4 times so the over all increase is 2E",
+      "explanationImage": null,
+      "hints": [
+        "electric field strength",
+        "E",
+        "separation",
+        "doubled",
+        "potential difference",
+        "increased by a factor of four",
+        "new field strength"
+      ]
+    },
+    {
+      "text": "A negatively charged particle initially at rest is placed in an electric field that varies from point to point. There are no other fields. Then:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The particle moves along the electric line of force passing through it.",
+          "isCorrect": false,
+          "explanation": "A negatively charged particle experiences a force opposite to the direction of the electric field (or electric lines of force).Since it starts from rest, it accelerates opposite to the field direction, following the line of force but in the opposite sense.The acceleration is along the line of force, not tangential or normal"
+        },
+        {
+          "letter": "B",
+          "text": "The particle moves opposite to the electric line of force passing through it.",
+          "isCorrect": true,
+          "explanation": "A negatively charged particle experiences a force opposite to the direction of the electric field (or electric lines of force).Since it starts from rest, it accelerates opposite to the field direction, following the line of force but in the opposite sense.The acceleration is along the line of force, not tangential or normal"
+        },
+        {
+          "letter": "C",
+          "text": "The direction of acceleration of the particle is tangential to the electric line of force at every instant.",
+          "isCorrect": false,
+          "explanation": "A negatively charged particle experiences a force opposite to the direction of the electric field (or electric lines of force).Since it starts from rest, it accelerates opposite to the field direction, following the line of force but in the opposite sense.The acceleration is along the line of force, not tangential or normal"
+        },
+        {
+          "letter": "D",
+          "text": "The direction of acceleration of the particle is normal to the electric line of force at every instant.",
+          "isCorrect": false,
+          "explanation": "A negatively charged particle experiences a force opposite to the direction of the electric field (or electric lines of force).Since it starts from rest, it accelerates opposite to the field direction, following the line of force but in the opposite sense.The acceleration is along the line of force, not tangential or normal"
+        }
+      ],
+      "explanation": "A negatively charged particle experiences a force opposite to the direction of the electric field (or electric lines of force).Since it starts from rest, it accelerates opposite to the field direction, following the line of force but in the opposite sense.The acceleration is along the line of force, not tangential or normal",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The study of electric charges at rest in an electric field is known as:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electromagnetism",
+          "isCorrect": false,
+          "explanation": "Electromagnetism is a branch of physics that deals with the study of electric and magnetic phenomena, including their interactions with each other. While electromagnetism encompasses a broader range of topics beyond just electric charges at rest, it includes phenomena such as electromagnetic induction, Maxwell's equations, and electromagnetic waves. Therefore, while electromagnetism includes electrostatics as a subset, it is not specifically focused on the study of electric charges at rest in an electric field."
+        },
+        {
+          "letter": "B",
+          "text": "Electrostatics",
+          "isCorrect": true,
+          "explanation": "Electrostatics is the branch of physics concerned with the study of stationary electric charges and the electric fields they create. It focuses on understanding the behavior of electric charges when they are at rest and the interactions between them. Topics in electrostatics include Coulomb's law, electric fields, electric potential, capacitance, and the behavior of conductors and insulators. Therefore, electrostatics is specifically dedicated to the study of electric charges at rest in an electric field."
+        },
+        {
+          "letter": "C",
+          "text": "Quantum physics",
+          "isCorrect": false,
+          "explanation": "Quantum physics, also known as quantum mechanics, is a branch of physics that deals with phenomena at the smallest scales, typically at the level of atoms, molecules, and subatomic particles. While quantum physics encompasses a wide range of topics, including the behavior of particles with electric charge, it is not specifically focused on the study of electric charges at rest in an electric field. Instead, it addresses phenomena such as wave-particle duality, quantum superposition, and quantum entanglement."
+        },
+        {
+          "letter": "D",
+          "text": "Magnetism",
+          "isCorrect": false,
+          "explanation": "Magnetism is the branch of physics that deals with the study of magnetic fields, magnetic forces, and magnetic materials. While magnetism is closely related to electricity, particularly through the electromagnetic force described by Maxwell's equations, it is not specifically focused on the study of electric charges at rest in an electric field. Instead, magnetism primarily concerns the behavior of magnetic fields and magnetic materials, including phenomena such as magnetic induction, magnetic dipoles, and magnetic domains."
+        }
+      ],
+      "explanation": "Electrostatics is the branch of physics concerned with the study of stationary electric charges and the electric fields they create. It focuses on understanding the behavior of electric charges when they are at rest and the interactions between them. Topics in electrostatics include Coulomb's law, electric fields, electric potential, capacitance, and the behavior of conductors and insulators. Therefore, electrostatics is specifically dedicated to the study of electric charges at rest in an electric field.",
+      "explanationImage": null,
+      "hints": [
+        "electric charges",
+        "rest",
+        "electric field"
+      ]
+    },
+    {
+      "text": "For a parallel plate capacitor, the energy density is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "½ εᵣ.ε₀.E",
+          "isCorrect": false,
+          "explanation": "This option represents half of the product of the relative permittivity (εᵣ), vacuum permittivity (ε₀), and the magnitude of the electric field (E). However, the correct expression for energy density in a parallel plate capacitor involves the square of the electric field (E²), not just E. Therefore, option A is not the correct choice for the energy density of a parallel plate capacitor."
+        },
+        {
+          "letter": "B",
+          "text": "½ ε₀.εᵣ.E2",
+          "isCorrect": true,
+          "explanation": "U/V= ½ ε. εr E2 ﻿This option correctly represents the energy density (u) for a parallel plate capacitor. It considers the square of the magnitude of the electric field (E²), which is consistent with the correct formula for energy density. Additionally, it accounts for the relative permittivity (εᵣ) and vacuum permittivity (ε₀). Therefore, option B is the correct choice."
+        },
+        {
+          "letter": "C",
+          "text": "ε₀.εᵣ.E",
+          "isCorrect": false,
+          "explanation": "This option only includes the relative permittivity (εᵣ), vacuum permittivity (ε₀), and the magnitude of the electric field (E), but it lacks the necessary factor of ½ and the square of the electric field (E²) required for the correct expression of energy density. Therefore, option C is not the correct choice."
+        },
+        {
+          "letter": "D",
+          "text": "ε₀.εᵣ.E2",
+          "isCorrect": false,
+          "explanation": "This option includes the relative permittivity (εᵣ), vacuum permittivity (ε₀), and the square of the magnitude of the electric field (E²). However, it is missing the necessary factor of ½ in front of the expression. The correct formula for energy density in a parallel plate capacitor includes this factor of ½. Therefore, option D is not the correct choice."
+        }
+      ],
+      "explanation": "Energy density is the total energy per unit volume of the capacitor, as the electrostatic energy stored in a parallel plate capacitor is U=½ CV2for a parallel plate capacitor, C=(ε0εrA)/d and V = Ed; so,U=½ (ε0εrA/d)(Ed)2=½ ε0εrE2(Ad),Where Ad = Volume of the capacitor (V). ThenEnergy density U/V = ½ ε0εrE2.",
+      "explanationImage": null,
+      "hints": [
+        "parallel",
+        "capacitor",
+        "energy density"
+      ]
+    },
+    {
+      "text": "The number of electrons in one coulomb of charge are:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6.25 × 1021",
+          "isCorrect": false,
+          "explanation": "This is incorrect. This number is much larger than the actual count of electrons in one coulomb of charge."
+        },
+        {
+          "letter": "B",
+          "text": "1.6 × 1019",
+          "isCorrect": false,
+          "explanation": "This is incorrect. This value is related to the charge of a single electron in coulombs, not the number of electrons."
+        },
+        {
+          "letter": "C",
+          "text": "6.25 × 1018",
+          "isCorrect": true,
+          "explanation": "This is correct. There are 6.25 × 1018 electrons in one coulomb of charge based on the charge of a single electron."
+        },
+        {
+          "letter": "D",
+          "text": "9.1 × 1031",
+          "isCorrect": false,
+          "explanation": "This is incorrect. This number is related to the mass of an electron in kilograms, not the number of electrons in a coulomb of charge."
+        }
+      ],
+      "explanation": "6.25×1018 are the number of electrons in one coulomb of charge.",
+      "explanationImage": null,
+      "hints": [
+        "electrons",
+        "coulomb",
+        "charge"
+      ]
+    },
+    {
+      "text": "When a charge experience a force, there will be a _ field developed.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Magnetic",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as magnetic fields are generated by moving charges, not by static charges experiencing a force."
+        },
+        {
+          "letter": "B",
+          "text": "Electric",
+          "isCorrect": true,
+          "explanation": "This option is correct. An electric field is produced by a charge, and when it experiences a force, it is due to the presence of an electric field."
+        },
+        {
+          "letter": "C",
+          "text": "Static",
+          "isCorrect": false,
+          "explanation": "This option is somewhat misleading. While 'static' can refer to charges at rest, it does not specifically refer to a field generated when a charge experiences a force."
+        },
+        {
+          "letter": "D",
+          "text": "All of these options are correct",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because not all fields mentioned are applicable to the scenario described in the question."
+        },
+        {
+          "letter": "E",
+          "text": "Both A and B",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While option B (Electric) is correct, option A (Magnetic) does not apply to a charge experiencing a force in the context of the question."
+        }
+      ],
+      "explanation": "The correct answer is Electric (Option B). An electric field is created around a charge, and when that charge experiences a force, it is due to the influence of this electric field. A magnetic field, on the other hand, is produced by moving charges, and therefore does not apply in this context. 'Static' refers to charges that are not in motion, and while they can create electric fields, the question specifically relates to the force experienced by a charge. Thus, the other options do not accurately reflect the relationship between force and the fields generated by charges.",
+      "explanationImage": null,
+      "hints": [
+        "charge",
+        "force",
+        "field"
+      ]
+    },
+    {
+      "text": "The difference between the plates of a parallel plate capacitor is 2.0 mm and the area of each plate is 2.0 m2. The plates are in a vacuum. A potential difference of 1.0x104 V is applied across the plates. Find the capacitance.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2014,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.0 x 10-3 F",
+          "isCorrect": false,
+          "explanation": "This option suggests that the capacitance is 4x10^-3 F but using the formula C=ЄA/d, we get a capacitance of 8.85x10^-9 F."
+        },
+        {
+          "letter": "B",
+          "text": "3.54 x 10-9 F",
+          "isCorrect": false,
+          "explanation": "This option suggests that the capacitance is 3.54x10^-9 F but using the formula C=ЄA/d, we get a capacitance of 8.85x10^-9 F."
+        },
+        {
+          "letter": "C",
+          "text": "8.85 x 10-9 F",
+          "isCorrect": true,
+          "explanation": "The capacitance of a parallel plate capacitor isC=ЄA/dC=(8.85x10^-12)x(2)/(2x10^-3)=8.85 x 10^-9CAs it is a numerical, it can have only one possible answer."
+        },
+        {
+          "letter": "D",
+          "text": "9.0 x 10-9 F",
+          "isCorrect": false,
+          "explanation": "This option suggests that the capacitance is 9x10^-9 F but using the formula C=ЄA/d, we get a capacitance of 8.85x10^-9 F."
+        }
+      ],
+      "explanation": "The capacitance of a parallel plate capacitor isC=ЄA/dC=(8.85x10^-12)x(2)/(2x10^-3)=8.85 x 10^-9CAs it is numerical, it can have only one possible answer.",
+      "explanationImage": null,
+      "hints": [
+        "difference",
+        "plates",
+        "2.0 mm",
+        "area of each plate",
+        "2.0 m2",
+        "vacuum",
+        "1.0x104 V",
+        "capacitance"
+      ]
+    },
+    {
+      "text": "Three times decrease in the distance between the plates of a parallel plate, capacitor will _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decrease the capacitance three times",
+          "isCorrect": false,
+          "explanation": "Incorrect. Capacitance is inversely proportional to the distance between the plates. Reducing the distance increases capacitance."
+        },
+        {
+          "letter": "B",
+          "text": "Decrease the capacitance nine times",
+          "isCorrect": false,
+          "explanation": "Incorrect. This is a misunderstanding of the relationship between capacitance and distance. Capacitance does not decrease when plate distance is reduced."
+        },
+        {
+          "letter": "C",
+          "text": "Increase the capacitance three times",
+          "isCorrect": true,
+          "explanation": "Correct. Since capacitance (C) is inversely proportional to the distance (d) between the plates, reducing the distance to one-third triples the capacitance."
+        },
+        {
+          "letter": "D",
+          "text": "Increase the capacitance six times",
+          "isCorrect": false,
+          "explanation": "Incorrect. The increase in capacitance is directly proportional to the reduction in distance, which in this case is three times, not six."
+        }
+      ],
+      "explanation": "Capacitance of a parallel plate capacitor is given by the formula C = ε₀(A/d), where C is the capacitance, ε₀ is the permittivity of free space, A is the area of the plates, and d is the distance between the plates. When the distance d is decreased to one-third, the capacitance C increases by a factor of three. Therefore, a three times decrease in the distance results in a threefold increase in capacitance. Other options are incorrect as they either misinterpret or miscalculate the relationship between capacitance and distance.",
+      "explanationImage": null,
+      "hints": [
+        "parallel plate",
+        "capacitance",
+        "distance"
+      ]
+    },
+    {
+      "text": "Capacitance is given by:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "C = εₒA/d",
+          "isCorrect": true,
+          "explanation": "In this formula:C represents the capacitance of the capacitor.ε0 is the permittivity of free space, also known as vacuum permittivity. It is a fundamental constant with a value of approximately 8.854×10^−12 F/m. It describes how easily electric fields can pass through a vacuum.A represents the area of overlap between the plates of the capacitor. It is the surface area of one of the plates that is facing the other plate.d represents the separation distance between the plates. It is the distance between the plates.This formula states that the capacitance (C) of a parallel plate capacitor is directly proportional to the area of overlap between the plates (A) and inversely proportional to the separation distance between the plates (d). The larger the area of overlap and the smaller the separation distance, the higher the capacitance."
+        },
+        {
+          "letter": "B",
+          "text": "C = dA/εₒ",
+          "isCorrect": false,
+          "explanation": "This formula for capacitance is incorrect. It suggests that capacitance (C) is proportional to the product of the separation distance (d) and the area of overlap between the plates (A), divided by the permittivity of free space (ε0). However, the correct formula for capacitance involves ε0 in the numerator, not the denominator. Therefore, option B is not the correct formula for capacitance."
+        },
+        {
+          "letter": "C",
+          "text": "C = d/Aεₒ",
+          "isCorrect": false,
+          "explanation": "Similar to option B, this formula for capacitance is incorrect. It suggests that capacitance (C) is inversely proportional to the product of the separation distance (d) and the area of overlap between the plates (A), multiplied by the permittivity of free space (ε0 ). However, the correct formula for capacitance involves ε0 in the numerator, not the denominator. Therefore, option C is not the correct formula for capacitance."
+        },
+        {
+          "letter": "D",
+          "text": "C = dεₒ/A",
+          "isCorrect": false,
+          "explanation": "This formula for capacitance is also incorrect. It suggests that capacitance (C) is proportional to the product of the separation distance (d) and the permittivity of free space (ε0), divided by the area of overlap between the plates (A). However, the correct formula for capacitance involves ε0 in the numerator and the separation distance in the denominator. Therefore, option D is not the correct formula for capacitance."
+        }
+      ],
+      "explanation": "The capacitance of a parallel plate capacitor is directly proportional to the area of the plates (A) and the permittivity of free space (εₒ). It is inversely proportional to the distance (d) between the two plates. Hence, capacitance is given by: C = εₒA/d.",
+      "explanationImage": null,
+      "hints": [
+        "Capacitance"
+      ]
+    },
+    {
+      "text": "A sphere of charge +Q is fixed in a position. A smaller sphere of charge +q is placed near the larger sphere and released from rest. The small sphere will move away from the large sphere with:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decreasing velocity and increasing acceleration",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The velocity cannot decrease because the small sphere is repelled, causing it to accelerate."
+        },
+        {
+          "letter": "B",
+          "text": "Decreasing velocity and constant acceleration",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The velocity increases, and the acceleration is not constant due to the changing distance between the charges."
+        },
+        {
+          "letter": "C",
+          "text": "Increasing velocity and decreasing acceleration",
+          "isCorrect": true,
+          "explanation": "This is correct. The small sphere moves away from the larger one due to repulsion, causing its velocity to increase. However, as it moves further away, the force and thus the acceleration decrease according to the inverse square law."
+        },
+        {
+          "letter": "D",
+          "text": "Increasing velocity and increasing acceleration",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Although the velocity increases, the acceleration decreases because the repulsive force weakens with distance."
+        }
+      ],
+      "explanation": "When the smaller charge is placed, it undergoes repulsion as ‘like’ charges repel. Since it was at zero velocity, the velocity increases. But as the charge moves further away, the force of repulsion decreases, and according to the formula, F= kQq/r2, acceleration decreases.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If there is a frictional force between two surfaces, then which of the following will be created?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electric field",
+          "isCorrect": false,
+          "explanation": "Friction between two surfaces can lead to the separation of charges, resulting in the creation of an electric field. This occurs due to the transfer of electrons from one surface to another, creating a charge imbalance."
+        },
+        {
+          "letter": "B",
+          "text": "Charge",
+          "isCorrect": true,
+          "explanation": "When two surfaces experience friction, charge separation occurs, leading to the generation of static electricity. This is the correct answer as it directly results from the frictional force between the surfaces."
+        },
+        {
+          "letter": "C",
+          "text": "Magnetic field",
+          "isCorrect": false,
+          "explanation": "Friction between surfaces does not directly produce a magnetic field. While magnetic fields can arise from moving charges, friction does not involve such movement in a way that would create a magnetic field."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because, while friction can create an electric field, it does not directly lead to the generation of a magnetic field. Therefore, it cannot be true that all these effects occur due to friction."
+        }
+      ],
+      "explanation": "Friction between two surfaces causes charge separation as electrons are transferred from one material to another. This results in one surface becoming positively charged and the other negatively charged, thus creating an electric field between them. The process does not involve the creation of new charges, as they are simply redistributed from one surface to the other. Option A is incorrect because while friction creates charge, it does not directly create an electric field in the traditional sense. Option C is incorrect because there is no direct relationship between friction and the generation of a magnetic field. Option D is also incorrect since it includes the creation of a magnetic field, which does not occur due to friction.",
+      "explanationImage": null,
+      "hints": [
+        "frictional force",
+        "two surfaces",
+        "created"
+      ]
+    },
+    {
+      "text": "Which statement describes the electric potential difference between two points in the electric field of charge Q?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The difference of electric field between the points per unit charge.",
+          "isCorrect": false,
+          "explanation": "This statement describes the electric field, not the electric potential difference. Electric field (E) is the force experienced by a unit positive charge at a point in space. Electric potential difference, on the other hand, refers to the difference in electric potential (voltage) between two points in an electric field. While electric field is measured in units of force per unit charge (N/C), electric potential difference is measured in volts (V)."
+        },
+        {
+          "letter": "B",
+          "text": "The ratio of the power dissipated between the points to the mass of charge.",
+          "isCorrect": false,
+          "explanation": "This statement describes neither electric field nor electric potential difference accurately. Power is the rate at which work is done or energy is transferred, typically measured in watts (W). The concept of power dissipation may relate to energy loss in a circuit, but it doesn't directly define electric potential difference."
+        },
+        {
+          "letter": "C",
+          "text": "The work done in moving a test charge between points divided by the magnitude of the test charge.",
+          "isCorrect": true,
+          "explanation": "This statement correctly defines electric potential difference. Electric potential difference (V) between two points is the work done per unit charge (Q) in moving a test charge from one point to the other. Mathematically, it is expressed as V=W/Q​, where V is the potential difference, W is the work done, and Q is the magnitude of the test charge."
+        },
+        {
+          "letter": "D",
+          "text": "The force required to move a unit positive charge between the points per unit charge.",
+          "isCorrect": false,
+          "explanation": "This statement describes electric field strength, not electric potential difference. Electric field strength (E) is the force experienced by a unit positive charge at a point in an electric field. It's measured in newtons per coulomb (N/C). While electric potential difference is related to electric field, they represent different aspects of the electric field."
+        }
+      ],
+      "explanation": "This question is simply revising how the electric potential is defined as it is work done per unit charge in moving that charge from one place to the other in the electric field.All other options are not the definitions of electric potential.",
+      "explanationImage": null,
+      "hints": [
+        "describes the electric potential difference between two points in the electric field of charge Q"
+      ]
+    },
+    {
+      "text": "Electric Flux through the surface of a sphere which has constant charge at its center depends on:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The radius of the sphere",
+          "isCorrect": false,
+          "explanation": "The electric flux through the surface of a sphere is not influenced by the radius the sphere. Gauss's law tells us that the charge enclosed within the surface determines the electric flux."
+        },
+        {
+          "letter": "B",
+          "text": "The surface area of the sphere",
+          "isCorrect": false,
+          "explanation": "The electric flux through the surface of a sphere is not influenced by the surface area of the sphere. Gauss's law tells us that the charge enclosed within the surface determines the electric flux."
+        },
+        {
+          "letter": "C",
+          "text": "The amount of charge inside the sphere",
+          "isCorrect": true,
+          "explanation": "As per Gauss's theorem in electrostatics, the electric flux through a surface depends only on the amount of charge enclosed by the surface. It does not depend on size and shape of the surface. Therefore, electric flux through the surface is the same for all figures."
+        },
+        {
+          "letter": "D",
+          "text": "The amount of charge outside the sphere",
+          "isCorrect": false,
+          "explanation": "The electric flux through the surface of a sphere is not influenced by the amount of charge outside the sphere. Gauss's law tells us that the charge enclosed within the surface determines the electric flux."
+        }
+      ],
+      "explanation": "As per Gauss's theorem in electrostatics, the electric flux through a surface depends only on the amount of charge enclosed by the surface. It does not depend on size and shape of the surface. Therefore, electric flux through the surface is the same for all figures.",
+      "explanationImage": null,
+      "hints": [
+        "Electric Flux",
+        "surface of a sphere",
+        "constant charge",
+        "center",
+        "depends"
+      ]
+    },
+    {
+      "text": "What is the magnitude of a point charge which produces an electric field of 2 N/C at a distance of 60 cm?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "8 × 10−11C",
+          "isCorrect": true,
+          "explanation": "This option is correct as using the formula E = k * |q| / r2 and substituting the given values, the magnitude of the charge is calculated to be 8 × 10−11C."
+        },
+        {
+          "letter": "B",
+          "text": "2 × 10−12C",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests the magnitude of the charge as 2 × 10−12C. Recalculate using the formula to see the correct result."
+        },
+        {
+          "letter": "C",
+          "text": "3 × 10−11C",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests the magnitude of the charge as 3 × 10−11C. The correct calculation yields a different result."
+        },
+        {
+          "letter": "D",
+          "text": "6 × 10−10C",
+          "isCorrect": false,
+          "explanation": "This option overestimates the charge magnitude as 6 × 10−10C. Follow the correct formula to find the accurate value."
+        }
+      ],
+      "explanation": "The electric field (E) due to a point charge (q) at a distance (r) is given by the formula E = k * |q| / r2, where k is the electrostatic constant (approximately 8.99 × 109 N m2/C2). Here, E = 2 N/C and r = 60 cm = 0.6 m. Rearranging the formula to solve for |q|, we have |q| = E * r2 / k. Substituting the values, |q| = (2 N/C) * (0.6 m)2 / (8.99 × 109 N m2/C2) = 8 × 10−11C. Therefore, the correct answer is 8 × 10−11C. The other options fail to provide the correct magnitude as they either miscalculate or misinterpret the formula and given values.",
+      "explanationImage": null,
+      "hints": [
+        "electric field formula",
+        "distance conversion",
+        "calculate charge"
+      ]
+    },
+    {
+      "text": "The SI unit of charge is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Newton",
+          "isCorrect": false,
+          "explanation": "Newton is SI unit for force."
+        },
+        {
+          "letter": "B",
+          "text": "Coulomb",
+          "isCorrect": true,
+          "explanation": "SI unit for charge is coulomb symbolized as ‘C’."
+        },
+        {
+          "letter": "C",
+          "text": "Pascal",
+          "isCorrect": false,
+          "explanation": "Pascal is SI unit for pressure."
+        },
+        {
+          "letter": "D",
+          "text": "Ampere",
+          "isCorrect": false,
+          "explanation": "Ampere is SI unit for current."
+        }
+      ],
+      "explanation": "The SI unit of electric charge is the coulomb which is represented by the symbol ‘C’. A coulomb is defined as the amount of charge that passes through an electrical conductor carrying one ampere per second.",
+      "explanationImage": null,
+      "hints": [
+        "SI unit",
+        "charge"
+      ]
+    },
+    {
+      "text": "Force on a static charge q in uniform electric field E is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "qE",
+          "isCorrect": true,
+          "explanation": "This option suggests that the force on a static charge q in a uniform electric field E is qE. This is correct. The force (F) on a charge (q) in a uniform electric field (E) is given by the formula F = qE. The direction of the force is the same as the direction of the electric field if the charge is positive, and it is opposite to the direction of the electric field if the charge is negative."
+        },
+        {
+          "letter": "B",
+          "text": "-qE",
+          "isCorrect": false,
+          "explanation": "This option suggests that the force on a static charge q in a uniform electric field E is -qE. This is incorrect. The correct formula for the force on the charge q in the electric field E is F = qE, and the direction of the force depends on the sign of the charge."
+        },
+        {
+          "letter": "C",
+          "text": "qE2",
+          "isCorrect": false,
+          "explanation": "This option suggests that the force on a static charge q in a uniform electric field E is qE^2. This is incorrect. The correct formula for the force on the charge q in the electric field E is F = qE, and there is no square involved in this formula."
+        },
+        {
+          "letter": "D",
+          "text": "-qE-2",
+          "isCorrect": false,
+          "explanation": "This option suggests that the force on a static charge q in a uniform electric field E is -qE-2. This is incorrect. The correct formula for the force on the charge q in the electric field E is F = qE, and no exponent of -2 is involved in this formula."
+        }
+      ],
+      "explanation": "Option A is correct since an electric field exerts a force on charged particles. The magnitude of the electric field E produced by a charged particle at a point P is the electric force per unit positive charge it exerts on another charged particle located at that point. The actual force on a particle with charge q is given by F = qE.",
+      "explanationImage": null,
+      "hints": [
+        "Force",
+        "static",
+        "q",
+        "uniform",
+        "E"
+      ]
+    },
+    {
+      "text": "The time constant is defined as the time required by the capacitor _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "To deposit 63% of the equilibrium charge",
+          "isCorrect": true,
+          "explanation": "In a charging or discharging capacitor-resistor circuit, the time constant (τ) is defined as the time it takes for the capacitor voltage (or charge) to reach approximately 63.2% of its final (equilibrium) value. This value corresponds to approximately 1 - 1/e, where e is Euler's number (approximately 2.71828). This definition is widely used in electronics and circuit analysis. Therefore, option a) To deposit 63% of the equilibrium charge, is the correct choice for defining the time constant of a capacitor."
+        },
+        {
+          "letter": "B",
+          "text": "To deposit 36% of the equilibrium charge",
+          "isCorrect": false,
+          "explanation": "This option suggests that the time constant is the time required for the capacitor to reach 36% of its equilibrium charge. However, this is not consistent with the standard definition of the time constant. In capacitor charging or discharging circuits, the time constant corresponds to approximately 63.2% of the equilibrium charge, not 36%. Therefore, option b is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "To deposit 63 times of the equilibrium charge",
+          "isCorrect": false,
+          "explanation": "This option suggests that the time constant is related to depositing 63 times the equilibrium charge, which is not accurate. The time constant is a measure of time, not a multiplier of charge. It is defined as the time it takes for the capacitor voltage (or charge) to reach approximately 63.2% of its final (equilibrium) value, not 63 times the equilibrium charge. Therefore, option c is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "To deposit 36 times of the equilibrium charge",
+          "isCorrect": false,
+          "explanation": "Similar to option c, this option suggests an incorrect relationship between the time constant and the charge. The time constant is not defined in terms of a multiplier of the equilibrium charge. Instead, it represents the time it takes for the capacitor voltage (or charge) to reach approximately 63.2% of its final (equilibrium) value. Therefore, option d is incorrect."
+        }
+      ],
+      "explanation": "The meaning of time constant is the time taken by the capacitor to be charged to about 63.2% of its full value through a resistor connected to it in series. Hence option A is correct.",
+      "explanationImage": null,
+      "hints": [
+        "time constant",
+        "defined",
+        "required",
+        "capacitor"
+      ]
+    },
+    {
+      "text": "The device used to store a charge is called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electric box",
+          "isCorrect": false,
+          "explanation": "Electric box protects the connections, which usually contain vulnerable points such as wire splices, from environmental conditions and accidental contact."
+        },
+        {
+          "letter": "B",
+          "text": "Capacitor",
+          "isCorrect": true,
+          "explanation": "A capacitor is a device used to store an electric charge, consisting of one or more pairs of conductors separated by an insulator."
+        },
+        {
+          "letter": "C",
+          "text": "Inductor",
+          "isCorrect": false,
+          "explanation": "An inductor is a passive two-terminal electrical component that stores energy in a magnetic field when electric current flows through it."
+        },
+        {
+          "letter": "D",
+          "text": "Transistor",
+          "isCorrect": false,
+          "explanation": "A transistor is a semiconductor device used to amplify or switch electrical signals and power."
+        }
+      ],
+      "explanation": "It is the function of capacitors to store charge.",
+      "explanationImage": null,
+      "hints": [
+        "device",
+        "store",
+        "charge"
+      ]
+    },
+    {
+      "text": "Two plates are at potentials 20V and -20V respectively with a separation of 2cm between them. The electric field between them is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2000 V/m",
+          "isCorrect": true,
+          "explanation": "We know formulaE=V/dWhere V is V1-V2V1 is 20VV2 is -20Vd is 2cm , 0.02 in mSoE = 20-(-20) / 0.02m= 20+20 /0.02= 40 / 0.02= 2000 V/mSo A option is right"
+        },
+        {
+          "letter": "B",
+          "text": "1000 V/m",
+          "isCorrect": false,
+          "explanation": "This is not correct as per calculations"
+        },
+        {
+          "letter": "C",
+          "text": "500 V/m",
+          "isCorrect": false,
+          "explanation": "This is not correct as per calculations"
+        },
+        {
+          "letter": "D",
+          "text": "300 V/m",
+          "isCorrect": false,
+          "explanation": "This is not correct as per calculations"
+        }
+      ],
+      "explanation": "We know formulaE=V/dWhere V is V1-V2V1 is 20VV2 is -20Vd is 2cm , 0.02 in mSoE = 20-(-20) / 0.02m= 20+20 /0.02= 40 / 0.02= 2000 V/m",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Two unlike charges attract each other with a force of 10 N. If the distance between them is doubled, the force between them is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "40 N",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        },
+        {
+          "letter": "B",
+          "text": "20 N",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        },
+        {
+          "letter": "C",
+          "text": "5 N",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        },
+        {
+          "letter": "D",
+          "text": "2.5 N",
+          "isCorrect": true,
+          "explanation": "The following is the solution:"
+        }
+      ],
+      "explanation": "Correct option is '2.5 N'.",
+      "explanationImage": null,
+      "hints": [
+        "Two unlike charges attract each other with a force of 10 N",
+        "distance between them is doubled,",
+        "force between them"
+      ]
+    },
+    {
+      "text": "If there are \"n\" capacitors each of capacity \"c\" connected in parallel to \"V\" volts source then the energy stored is equal to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "CV",
+          "isCorrect": false,
+          "explanation": "This is not the formula for energy it is formula for charge on a capacitor (Q=CV)"
+        },
+        {
+          "letter": "B",
+          "text": "½ nCV2",
+          "isCorrect": true,
+          "explanation": "In parallel combination, Capacitance is added so,CT = nCEnergy stored = ½ CV2= ½ (nC) (V2)"
+        },
+        {
+          "letter": "C",
+          "text": "CV2",
+          "isCorrect": false,
+          "explanation": "This is the formula for energy supplied by the battery to the capacitor."
+        },
+        {
+          "letter": "D",
+          "text": "CV2/2n",
+          "isCorrect": false,
+          "explanation": "In series combination, CT = C/nEnergy stored = ½ (C/n) (V2)So, option B is correct."
+        }
+      ],
+      "explanation": "The energy of a capacitor is calculated using the formula = ½ C V2 multiplied by n i.e number of capacitors",
+      "explanationImage": null,
+      "hints": [
+        "each",
+        "connected in parallel",
+        "energy stored"
+      ]
+    },
+    {
+      "text": "There are two charges +2𝜇𝐶 and -3𝜇𝐶. The ratio of the force acting on them will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 ∶ 1",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The force on each charge is equal in magnitude due to Newton's third law."
+        },
+        {
+          "letter": "B",
+          "text": "1 ∶ 1",
+          "isCorrect": true,
+          "explanation": "This is the correct option. According to Newton's third law, the forces exerted by the charges on each other are equal in magnitude and opposite in direction."
+        },
+        {
+          "letter": "C",
+          "text": "11 ∶ 8",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. There is no calculation involving these numbers that pertains to the forces between the charges."
+        },
+        {
+          "letter": "D",
+          "text": "3 ∶ 8",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The forces are not calculated based on these numbers but are equal and opposite according to electrostatic principles."
+        }
+      ],
+      "explanation": "Electrostatic force is a mutual force that will not act on a single charge.",
+      "explanationImage": null,
+      "hints": [
+        "charges",
+        "force",
+        "ratio"
+      ]
+    },
+    {
+      "text": "Change in P.E per unit charge in the electric field is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electric potential",
+          "isCorrect": true,
+          "explanation": "Electric potential at any point in an electric field is equal to work done in bringing a unit positive charge from infinity to that point keeping it in equilibrium. I.eV= W/Q"
+        },
+        {
+          "letter": "B",
+          "text": "Power",
+          "isCorrect": false,
+          "explanation": "Power is given as work done per unit time. P=W/t."
+        },
+        {
+          "letter": "C",
+          "text": "K.E",
+          "isCorrect": false,
+          "explanation": "K.E or Kinetic energy is work done by a body by virtue of its motion."
+        },
+        {
+          "letter": "D",
+          "text": "Work done",
+          "isCorrect": false,
+          "explanation": "Work done -> W=V.Q or W=F.d."
+        }
+      ],
+      "explanation": "As; V= W/q V = P.E/q",
+      "explanationImage": null,
+      "hints": [
+        "Change",
+        "P.E per unit charge",
+        "electric field"
+      ]
+    },
+    {
+      "text": "If a dielectric material is placed between two plates of a capacitor, the net capacitance of the capacitor:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decreases",
+          "isCorrect": false,
+          "explanation": "When a dielectric material is placed between two plates of a capacitor, the presence of the dielectric reduces the electric field between the plates. This is because the polarized molecules in the dielectric material align themselves with the electric field, weakening it. As a result, the capacitance of the capacitor increases. Therefore, option (a) is not correct."
+        },
+        {
+          "letter": "B",
+          "text": "Increases",
+          "isCorrect": true,
+          "explanation": "○The strength of the electric field is reduced due to the presence of dielectric. If the total charge on the plates is kept constant, then the potential difference is reduced across the capacitor plates. In this way, dielectric increases the capacitance of the capacitor.So, option A,C,D is wrong ."
+        },
+        {
+          "letter": "C",
+          "text": "Remains constant",
+          "isCorrect": false,
+          "explanation": "If a dielectric material is placed between the plates of a capacitor and the separation distance between the plates remains the same, the capacitance will increase due to the dielectric constant of the material. Therefore, the net capacitance of the capacitor does not remain constant. Hence, option (c) is not correct."
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "If the dielectric material completely fills the space between the plates of a capacitor, the electric field between the plates is essentially eliminated. In this case, the capacitance of the capacitor becomes zero because there is no potential difference between the plates. However, in most practical scenarios, the dielectric material is not in direct contact with the plates but is inserted between them. Therefore, the option (d) is not correct"
+        }
+      ],
+      "explanation": "○The strength of the electric field is reduced due to the presence of dielectric. If the total charge on the plates is kept constant, then the potential difference is reduced across the capacitor plates. In this way, dielectric increases the capacitance of the capacitor.So, option A,C,D is wrong .",
+      "explanationImage": null,
+      "hints": [
+        "dielectric material is placed between two plates of a capacitor",
+        "net capacitance of the capacitor"
+      ]
+    },
+    {
+      "text": "Each sentence below has a blank indicating that something has been omitted. Choose the word that best fits in with the meaning of the sentence as a whole.The foreman’s clemency, particularly in being candid, had its _, one of which was _workmanship.",
+      "image": null,
+      "subject": "English",
+      "topic": "Combination Mistake",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Damages ... intolerable",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Ambiguities ...superior",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Shortcomings ...shoddy",
+          "isCorrect": true,
+          "explanation": "The sentence can be completed with the following words:\"Shortcomings\" and \"shoddy\"So the completed sentence is:\"The foreman’s clemency, particularly in being candid, had its shortcomings, one of which was shoddy workmanship.\""
+        },
+        {
+          "letter": "D",
+          "text": "Occurrences ...attractive",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        }
+      ],
+      "explanation": "The sentence can be completed with the following words:\"Shortcomings\" and \"shoddy\" So the completed sentence is:\"The foreman’s clemency, particularly in being candid, had its shortcomings, one of which was shoddy workmanship.\"",
+      "explanationImage": null,
+      "hints": [
+        "clemency"
+      ]
+    },
+    {
+      "text": "Choose the correct option.",
+      "image": null,
+      "subject": "English",
+      "topic": "Pronoun",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lizzy told to her mother that her mother's sweater had a hole in it.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the phrase \"told to her mother\" is not idiomatic in English. The correct structure is \"told her mother.\""
+        },
+        {
+          "letter": "B",
+          "text": "Lizzy told her mother that Lizzy's sweater had a hole in it.",
+          "isCorrect": true,
+          "explanation": "This sentence is both grammatically correct and clear in meaning. The phrase “Lizzy’s sweater” removes any confusion about whose sweater had the hole."
+        },
+        {
+          "letter": "C",
+          "text": "Lizzy said her mother that the sweater had a hole in it.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it lacks the conjunction \"that\" before \"the sweater,\" which is needed to introduce indirect speech."
+        },
+        {
+          "letter": "D",
+          "text": "Lizzy told her mother that her sweater had a hole in it.",
+          "isCorrect": false,
+          "explanation": "This option is ambiguous."
+        }
+      ],
+      "explanation": "This sentence is both grammatically correct and clear in meaning. The phrase “Lizzy’s sweater” removes any confusion about whose sweater had the hole.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Choose the correct one.",
+      "image": null,
+      "subject": "English",
+      "topic": "Article",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The Johnson were not wealthy.",
+          "isCorrect": false,
+          "explanation": "The sentence is missing the plural form \"-s\" on the surname \"Johnson\"."
+        },
+        {
+          "letter": "B",
+          "text": "The Johnsons were not wealthy.",
+          "isCorrect": true,
+          "explanation": "The sentence is structured correctly, using the plural form \"The Johnsons\" with the verb \"were\"."
+        },
+        {
+          "letter": "C",
+          "text": "Johnsons were not wealthy.",
+          "isCorrect": false,
+          "explanation": "The sentence is missing the definite article \"The\" before the surname \"Johnsons\"."
+        },
+        {
+          "letter": "D",
+          "text": "The Johnsons was not wealthy.",
+          "isCorrect": false,
+          "explanation": "The sentence is using the singular verb \"was\" instead of the plural verb \"were\" to match the subject \"The Johnsons\"."
+        }
+      ],
+      "explanation": "The sentence is structured correctly, using the plural form \"The Johnsons\" with the verb \"were\".",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Here -- the tomb of Allama Iqbal.",
+      "image": null,
+      "subject": "English",
+      "topic": "Subject Verb Agreement",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "lies",
+          "isCorrect": true,
+          "explanation": "This option is correct because \"lies\" is the present tense form of the verb \"lie,\" which means to be located or situated. Example: \"Here lies the tomb of Allama Iqbal.\"Therefore, option A) lies is the correct choice. It accurately states the current location of the tomb of Allama Iqbal using the present tense verb \"lies.\""
+        },
+        {
+          "letter": "B",
+          "text": "lying",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because \"lying\" is the present participle form of the verb \"lie,\" which indicates an ongoing action or state. It does not fit the sentence structure where a simple statement about the location of the tomb is needed."
+        },
+        {
+          "letter": "C",
+          "text": "lied",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because \"lied\" is the past tense form of the verb \"lie,\" which refers to telling an untruth. It does not fit the sentence context where the current location of the tomb is being described."
+        },
+        {
+          "letter": "D",
+          "text": "lay",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because \"lay\" is the past tense form of the verb \"lie,\" but in this sentence, we need the present tense form to describe the current location of the tomb."
+        }
+      ],
+      "explanation": "This option is correct because \"lies\" is the present tense form of the verb \"lie,\" which means to be located or situated. Example: \"Here lies the tomb of Allama Iqbal.\"Therefore, option A) lies is the correct choice. It accurately states the current location of the tomb of Allama Iqbal using the present tense verb \"lies.\"",
+      "explanationImage": null,
+      "hints": [
+        "Here",
+        "tomb"
+      ]
+    },
+    {
+      "text": "Identify errors in sentences:",
+      "image": null,
+      "subject": "English",
+      "topic": "Identify errors in sentence",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Neither the men who are listed as administrators nor the woman who is also listed has been appointed to the board.",
+          "isCorrect": true,
+          "explanation": "When the subjects joined by or, nor, either ........ or, neither .........nor are of different persons, the verb is placed according to nearer subject."
+        },
+        {
+          "letter": "B",
+          "text": "Neither the men who are listed as administrators nor the woman who is also listed have been appointed to the board.",
+          "isCorrect": false,
+          "explanation": "According to subject verb agreement, has been should be used instead of have been."
+        },
+        {
+          "letter": "C",
+          "text": "Neither the men who are listed as administrators nor the women who is also listed has being appointed to the board.",
+          "isCorrect": false,
+          "explanation": "According to subject verb agreement, has been should be used instead of has being."
+        },
+        {
+          "letter": "D",
+          "text": "Neither the men who is listed as administrators nor has the woman who is also listed been appointed to the board.",
+          "isCorrect": false,
+          "explanation": "According to subject verb agreement, are should be placed with men."
+        }
+      ],
+      "explanation": "When the subjects joined by or, nor, either ........ or, neither .........nor are of different persons, verb is placed according to nearer subject.",
+      "explanationImage": null,
+      "hints": [
+        "errors"
+      ]
+    },
+    {
+      "text": "In this section of logical deduction, the question consists of a brief passage (usually a report containing certain data regarding some social or economic problem), followed by certain inferences based on it. The student is required to analyze the contents (or data) of the passage and grasp the desirable facts from it. Then, student has to consider each of the given inferences in the context of the given passage. decide upon its degree of truth or falsity and then choose the hest alternative provided accordingly.Primary education in Sindh is in a poor shape. Pupils in over 50 percent of the schools read in the open throughout the year. Over six million children born to lower Income group parents remain unlettered. Not even one percent of the 63,000 primary schools have facilities of furniture, toilet, drinking water and games. 3 113 new teachers have been appointed in the current financial year out of which 2747 are women. Now each of the 13,270 primary schools have at least two teachers.630 primary schools in Sindh have all the facilities like furniture, toilet, drinking water, games.",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Definitely true",
+          "isCorrect": false,
+          "explanation": "The statement cannot be definitely true because the passage clearly indicates that significantly fewer than 630 schools have all the facilities, making this option incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Probably true",
+          "isCorrect": false,
+          "explanation": "Given the specific statistics provided, the statement is unlikely to be true, as the number of schools with facilities is a very small fraction of the total, making this option incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Data inadequate",
+          "isCorrect": false,
+          "explanation": "The passage provides explicit data about the number of schools with facilities, so this option is incorrect due to sufficient data being available."
+        },
+        {
+          "letter": "D",
+          "text": "Probably false",
+          "isCorrect": false,
+          "explanation": "Although the passage suggests a lack of facilities in the majority of schools, the statement is not just probably false but definitely false, as the specific data disproves it."
+        },
+        {
+          "letter": "E",
+          "text": "Definitely false",
+          "isCorrect": true,
+          "explanation": "The passage clearly states that less than one percent of the 63,000 primary schools have all the facilities, meaning the statement that 630 schools have them is definitely false."
+        }
+      ],
+      "explanation": "The statement '630 primary schools in Sindh have all the facilities like furniture, toilet, drinking water, games' is definitely false. The passage states that less than one percent of 63,000 schools are equipped with these facilities, which translates to significantly fewer than 630 schools. Therefore, the statement directly contradicts the passage. The options suggesting it could be true or that data is inadequate are incorrect since the passage provides clear and sufficient data to reach a definitive conclusion.",
+      "explanationImage": null,
+      "hints": [
+        "less than one percent",
+        "63,000 primary schools",
+        "facilities"
+      ]
+    },
+    {
+      "text": "Directions: In the following question, a number sequence is given with one term missing. Choose the correct term that will continue the same pattern and replace the question mark in the given sequence.Q.5 2,20,42,68,98,?",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "132",
+          "isCorrect": true,
+          "explanation": "The differences between consecutive terms are increasing by 4 each time: 18, 22, 26, 30. The next difference should be 34. Adding this to the last number, 98 + 34 equals 132."
+        },
+        {
+          "letter": "B",
+          "text": "130",
+          "isCorrect": false,
+          "explanation": "This option incorrectly assumes a different pattern in the differences, leading to an answer that doesn't fit the established sequence."
+        },
+        {
+          "letter": "C",
+          "text": "134",
+          "isCorrect": false,
+          "explanation": "This option mistakenly assumes an increase of 36 instead of 34, which breaks the pattern of increasing differences by 4."
+        },
+        {
+          "letter": "D",
+          "text": "136",
+          "isCorrect": false,
+          "explanation": "This option assumes an incorrect difference of 38, which doesn't align with the consistent increase of 4 in the differences."
+        }
+      ],
+      "explanation": "The sequence is 2, 20, 42, 68, 98, ?. Calculate the differences: 20 - 2 = 18, 42 - 20 = 22, 68 - 42 = 26, and 98 - 68 = 30. The pattern in the differences is 18, 22, 26, 30, each increasing by 4. Therefore, the next difference should be 34. Adding 34 to 98 gives 132. Options 130, 134, and 136 do not adhere to this consistent pattern of increasing differences and are thus incorrect.",
+      "explanationImage": null,
+      "hints": [
+        "sequence",
+        "differences"
+      ]
+    },
+    {
+      "text": "Directions: Read the following information and give answer.In the Olympic games, the flags of six nations were flown on the masts in the following way:The flag of America was to the left of Pakistan and to the right of t flag of France. The flag of England was on the right of the Pakistan flag but was to the t of the flag of Japan, which was to the left of the flag of China.Find the two flags which are in the centre.",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pakistan and England",
+          "isCorrect": true,
+          "explanation": "The flags are arranged as follows: France - America - Pakistan - England - Japan - China. The flags in the center of this sequence are Pakistan and England."
+        },
+        {
+          "letter": "B",
+          "text": "America and Pakistan",
+          "isCorrect": false,
+          "explanation": "Though America and Pakistan are next to each other, they are not in the center of the sequence. They are the second and third flags from the left."
+        },
+        {
+          "letter": "C",
+          "text": "Japan and England",
+          "isCorrect": false,
+          "explanation": "Japan is not adjacent to England; instead, Japan is to the right of England, making them not in the center of the sequence."
+        },
+        {
+          "letter": "D",
+          "text": "America and England",
+          "isCorrect": false,
+          "explanation": "America and England are separated by Pakistan in the sequence, hence they cannot be the two center flags."
+        }
+      ],
+      "explanation": "The flags are arranged as follows, based on the clues provided:1. 'The flag of America was to the left of Pakistan and to the right of France.' This gives us France - America - Pakistan.2. 'The flag of England was on the right of the Pakistan flag but was to the left of the flag of Japan.' This adds England and Japan in the order: France - America - Pakistan - England - Japan.3. '...which was to the left of the flag of China.' Finally, we place China: France - America - Pakistan - England - Japan - China.The two flags in the center of this arrangement are Pakistan and England. Other options include flags that are either not adjacent or not centrally located in the sequence.",
+      "explanationImage": null,
+      "hints": [
+        "left of",
+        "right of",
+        "center"
+      ]
+    },
+    {
+      "text": "In the following question, two statements numbered I and II are given. There may be cause and effect relationship between the two statements. These two statements may be the effect of the same cause or independent causes. These statements may be independent causes without saving any relationship. Read both the statements in question and mark your answer as:A. If statement I is the cause and statement II is its effect;B. If statement II is the cause and statement, I is its effect;C. If both the statements I and II are independent causes;D. If both the statements I and II are effects of independent causes;E. If both the statements I and II are effects of some common causes;I. The Government has imported large quantities of sugar as per trade agreement with other countries.IL The prices of sugar in the domestic market have fallen sharply in the recent months.",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A. If statement I is the cause and statement II is its effect;",
+          "isCorrect": true,
+          "explanation": "The import of sugar increased supply, likely leading to a decrease in prices in the domestic market."
+        },
+        {
+          "letter": "B",
+          "text": "B. If statement II is the cause and statement I is its effect;",
+          "isCorrect": false,
+          "explanation": "It is unlikely that the fall in sugar prices would directly cause the government to import sugar, as imports typically result from trade agreements or shortages."
+        },
+        {
+          "letter": "C",
+          "text": "C. If both the statements I and II are independent causes;",
+          "isCorrect": false,
+          "explanation": "The statements are not independent, as the import of sugar directly influences its market price."
+        },
+        {
+          "letter": "D",
+          "text": "D. If both the statements I and II are effects of independent causes;",
+          "isCorrect": false,
+          "explanation": "Both statements are not effects of independent causes, as the import of sugar likely caused the price drop."
+        },
+        {
+          "letter": "E",
+          "text": "E. If both the statements I and II are effects of some common cause;",
+          "isCorrect": false,
+          "explanation": "The common cause scenario doesn't fit, as the import of sugar is directly linked to the drop in prices, not due to a separate underlying cause."
+        }
+      ],
+      "explanation": "The correct answer is Option A. Statement I, which mentions the government's import of large quantities of sugar, is the cause leading to Statement II, the effect, where the prices of sugar in the domestic market have fallen sharply. This is because an increase in the supply of sugar due to imports would naturally lead to a decrease in its prices as per the supply-demand principle.Option B is incorrect because a fall in prices is not likely to cause the government to import sugar; typically, imports are based on agreements or supply needs. Option C is incorrect as the two statements are not independent; they are related through cause and effect. Option D is incorrect because the statements are not effects of independent causes; they are linked. Option E is incorrect, as the statements are directly related rather than resulting from a shared cause.",
+      "explanationImage": null,
+      "hints": [
+        "Trade agreement",
+        "Domestic market",
+        "Prices of sugar"
+      ]
+    },
+    {
+      "text": "In this question, a statement is given followed by two courses of action numbered I and II. It is required to grasp the statement, analyze the problem or policy it mentions and then decide which of the courses of action logically follow / most appropriate.Statement:Every year, at the beginning or at the end of the monsoons, we have some cases or conjunctivitis, but this year it seems to be a major epidemic witnessed after nearly four years.Courses of action:I) Precautionary measures should be taken after every four years to check this epidemic.II) People should be advised to drink boiled water during rainy season.",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "If only I follows",
+          "isCorrect": false,
+          "explanation": "Course of action I suggests taking precautionary measures every four years, but the statement does not mention that the epidemic occurs every four years. Therefore, this course of action does not logically follow."
+        },
+        {
+          "letter": "B",
+          "text": "If only II follows",
+          "isCorrect": false,
+          "explanation": "Course of action II advises drinking boiled water during the rainy season, which may help prevent waterborne diseases but is not directly related to preventing conjunctivitis, which is primarily spread through contact."
+        },
+        {
+          "letter": "C",
+          "text": "If either I or II follows",
+          "isCorrect": false,
+          "explanation": "Neither course of action directly addresses the spread of conjunctivitis, so they do not individually or alternatively follow from the statement."
+        },
+        {
+          "letter": "D",
+          "text": "If neither I nor II follows",
+          "isCorrect": true,
+          "explanation": "Neither course of action is directly related to preventing the spread of conjunctivitis, making this the correct choice."
+        },
+        {
+          "letter": "E",
+          "text": "If both I and II follow",
+          "isCorrect": false,
+          "explanation": "Both courses of action fail to directly address the specific issue of conjunctivitis as described in the statement."
+        }
+      ],
+      "explanation": "The statement highlights an epidemic of conjunctivitis, which is typically spread through direct contact rather than through water. Course of action I suggests taking precautionary measures every four years, but the epidemic's timing is not indicated to be predictable in this way. Course of action II recommends drinking boiled water, which is more relevant for preventing waterborne diseases, not conjunctivitis. Therefore, neither course of action is appropriate, making Option D the correct answer.",
+      "explanationImage": null,
+      "hints": [
+        "epidemic",
+        "conjunctivitis",
+        "precautionary measures"
+      ]
+    }
+  ]
+}

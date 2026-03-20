@@ -1,0 +1,3582 @@
+{
+  "questions": [
+    {
+      "text": "Which one of the following is correct?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "V0=1.414 Vrms",
+          "isCorrect": true,
+          "explanation": "This statement is correct. V0 represents the peak value of an alternating voltage, while Vrms represents the root mean square (RMS) value of that voltage. The relationship between the peak value and RMS value in an ideal sinusoidal waveform is V0 = 1.414 Vrms. This is a fundamental relationship in A.C circuit analysis."
+        },
+        {
+          "letter": "B",
+          "text": "V0=10.10Vrms",
+          "isCorrect": false,
+          "explanation": "This statement is not correct. The value of 10.70 for V0 in relation to Vrms is not accurate. The correct relationship, as mentioned in option a), is V0 = 1.414 Vrms."
+        },
+        {
+          "letter": "C",
+          "text": "V0=10.70 Vrms",
+          "isCorrect": false,
+          "explanation": "This statement is not correct. The value of 10.70 for V0 in relation to Vrms is not accurate. The correct relationship, as mentioned in option a), is V0 = 1.414 Vrms."
+        },
+        {
+          "letter": "D",
+          "text": "Both A and B",
+          "isCorrect": false,
+          "explanation": "This statement is not correct. The value of 10.70 for V0 in relation to Vrms is not accurate. The correct relationship, as mentioned in option a), is V0 = 1.414 Vrms."
+        }
+      ],
+      "explanation": "This statement is correct. V0 represents the peak value of an alternating voltage, while Vrms represents the root mean square (RMS) value of that voltage. The relationship between the peak value and RMS value in an ideal sinusoidal waveform is V0 = 1.414 Vrms. This is a fundamental relationship in A.C. circuit analysis.Vrms=0.707V0So V0=1/0.707 Vrms=1.414 Vrms",
+      "explanationImage": null,
+      "hints": [
+        "correct",
+        "following"
+      ]
+    },
+    {
+      "text": "A resonance curve for RLC series circuit is a plot of frequency versus:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Voltage",
+          "isCorrect": false,
+          "explanation": "Voltage: While voltage does play a role in the behavior of the circuit, the resonance curve primarily focuses on how the current amplitude (or magnitude) varies with frequency."
+        },
+        {
+          "letter": "B",
+          "text": "Current",
+          "isCorrect": true,
+          "explanation": "Current: The current is a critical parameter in an RLC series circuit, and the resonance curve illustrates how the current amplitude changes as the frequency of the applied alternating current varies. At the resonant frequency, the current is often at its maximum, which is a characteristic feature of resonance in such circuits."
+        },
+        {
+          "letter": "C",
+          "text": "Impedance",
+          "isCorrect": false,
+          "explanation": "Impedance: Impedance is the overall opposition to the flow of current in the circuit and is affected by the frequency. However, the resonance curve specifically shows the behavior of current concerning frequency, and impedance is related to this behavior."
+        },
+        {
+          "letter": "D",
+          "text": "Reactance",
+          "isCorrect": false,
+          "explanation": "Reactance: Reactance is a component of impedance, but the resonance curve doesn't directly plot reactance against frequency. It focuses on the broader behavior of current."
+        }
+      ],
+      "explanation": "Current: The current is a critical parameter in an RLC series circuit, and the resonance curve illustrates how the current amplitude changes as the frequency of the applied alternating current varies. At the resonant frequency, the current is often at its maximum, which is a characteristic feature of resonance in such circuits.",
+      "explanationImage": null,
+      "hints": [
+        "resonance curve",
+        "RLC series circuit",
+        "versus",
+        "plot of frequency"
+      ]
+    },
+    {
+      "text": "The power factor of resonant series circuit is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. In a resonant series circuit, the power factor is equal to 1, which represents a perfect or unity power factor. This occurs because, at the resonant frequency, the inductive reactance and capacitive reactance cancel each other out, resulting in a net impedance that is purely resistive. As a result, the current and voltage are in phase, and there is no phase difference between them. This leads to a power factor of 1, indicating that all the power is real and is used to do useful work."
+        },
+        {
+          "letter": "B",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "This option is not correct. A power factor of 0 indicates that all the power is reactive, which is not the case in a resonant series circuit at its resonant frequency."
+        },
+        {
+          "letter": "C",
+          "text": "-1",
+          "isCorrect": false,
+          "explanation": "This option is not correct. A power factor of -1 is not a physically meaningful value in the context of power factor analysis."
+        },
+        {
+          "letter": "D",
+          "text": "0.5",
+          "isCorrect": false,
+          "explanation": "This option is not correct. A power factor of 0.5 represents a lagging power factor, indicating a phase difference between current and voltage. In a resonant series circuit, the power factor is unity (1), and there is no phase difference.In summary, the power factor of a resonant series circuit is 1, indicating a perfect or unity power factor with no phase difference between current and voltage."
+        }
+      ],
+      "explanation": "This is the correct answer. In a resonant series circuit, the power factor is equal to 1, which represents a perfect or unity power factor. This occurs because, at the resonant frequency, the inductive reactance and capacitive reactance cancel each other out, resulting in a net impedance that is purely resistive. As a result, the current and voltage are in phase, and there is no phase difference between them. This leads to a power factor of 1, indicating that all the power is real and is used to do useful work.P=VI cosθ Cosθ is called the power factor. Power is max when cosθ = 1",
+      "explanationImage": null,
+      "hints": [
+        "power factor of resonant series circuit"
+      ]
+    },
+    {
+      "text": "When either L or C is increased, the resonant frequency of the RLC series circuit:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increases",
+          "isCorrect": false,
+          "explanation": "This option is not correct. Capacitive reactance (Xc) decreases as the frequency of alternating current increases. The relationship between capacitive reactance and frequency is inversely proportional. As the frequency goes up, the capacitive reactance goes down."
+        },
+        {
+          "letter": "B",
+          "text": "Decreases",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. At higher frequencies, capacitive reactance decreases. The formula for capacitive reactance is Xc = 1 / (2πfC), where f is the frequency and C is the capacitance. As f increases, Xc decreases."
+        },
+        {
+          "letter": "C",
+          "text": "Remains the same",
+          "isCorrect": false,
+          "explanation": "This option is not correct. Capacitive reactance changes with the frequency of the alternating current. It is not constant."
+        },
+        {
+          "letter": "D",
+          "text": "Becomes zero",
+          "isCorrect": false,
+          "explanation": "This option is not correct. The frequency of the alternating current is the primary factor affecting capacitive reactance. While voltage may affect the current in the circuit, it does not directly impact capacitive reactance.In summary, as the frequency of the alternating current increases, the capacitive reactance decreases, making option (b) the correct answer."
+        }
+      ],
+      "explanation": "This is the correct answer. At higher frequencies, capacitive reactance decreases. The formula for capacitive reactance is Xc = 1 / (2πfC), where f is the frequency and C is the capacitance. As f increases, Xc decreases.",
+      "explanationImage": null,
+      "hints": [
+        "either L or C is increased",
+        "resonant frequency of the RLC series circuit"
+      ]
+    },
+    {
+      "text": "To design a resonant circuit of frequency 100 kHz with an inductor of inductance 5 mH, we need a capacitor of capacitance:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "5.07 pF",
+          "isCorrect": false,
+          "explanation": "Incorrect. This value is too small. Recalculate using the resonant frequency formula."
+        },
+        {
+          "letter": "B",
+          "text": "50 pF",
+          "isCorrect": false,
+          "explanation": "Incorrect. This value does not satisfy the formula for resonant frequency with the given values."
+        },
+        {
+          "letter": "C",
+          "text": "0.507 pF",
+          "isCorrect": false,
+          "explanation": "Incorrect. This value is orders of magnitude too small according to the formula."
+        },
+        {
+          "letter": "D",
+          "text": "507 pF",
+          "isCorrect": true,
+          "explanation": "Correct. This value satisfies the formula for the resonant frequency with the given inductor."
+        }
+      ],
+      "explanation": "Following is the explanation:f=1/2π(LC)½Squaring on both sides f²=1/2²π²(LC)C=1/f²2²π²LC=1/(10⁵)²×4×(3.14)²×(5×10-3)C= 5.07×10-10FC=507×10-12FC=507pF",
+      "explanationImage": null,
+      "hints": [
+        "resonant circuit",
+        "frequency",
+        "inductor of inductance"
+      ]
+    },
+    {
+      "text": "An A.C voltmeter reads 250 volts. The frequency of alternating is 50 Hz, the peak value of voltage is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3525.0 volts",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The calculation for peak voltage involves multiplying the RMS value by √2, not by such a large factor."
+        },
+        {
+          "letter": "B",
+          "text": "35.35 volts",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The peak voltage should be greater than the RMS value, not less."
+        },
+        {
+          "letter": "C",
+          "text": "353.5 volts",
+          "isCorrect": true,
+          "explanation": "This is correct. The peak voltage (Vpeak) can be calculated using the formula Vpeak = VRMS × √2 = 250 × √2 ≈ 353.5 volts."
+        },
+        {
+          "letter": "D",
+          "text": "3.535 volts",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The peak voltage should be much greater than this value, as it results from multiplying the RMS value by √2."
+        }
+      ],
+      "explanation": "The correct answer is 353.5 volts. The A.C. voltmeter reads the RMS (Root Mean Square) value of the voltage, which is 250 volts in this case. To find the peak voltage (Vpeak), we use the formula Vpeak = VRMS × √2. Thus, Vpeak = 250 × √2 ≈ 353.5 volts. This calculation shows why Option C is correct. Options A, B, and D are incorrect as they do not accurately apply this formula, leading to values that do not make sense in the context of RMS and peak relationships.",
+      "explanationImage": null,
+      "hints": [
+        "A.C voltmeter",
+        "250 volts",
+        "50 Hz"
+      ]
+    },
+    {
+      "text": "The phase angle of a series RLC circuit at resonance is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "180o",
+          "isCorrect": false,
+          "explanation": "This option is not correct. A phase angle of 180 degrees would imply that the current and voltage are in opposite phases, but at resonance in a series RLC circuit, the phase angle is 0 degrees."
+        },
+        {
+          "letter": "B",
+          "text": "90o",
+          "isCorrect": false,
+          "explanation": "This option is not correct. A phase angle of 90 degrees indicates a quarter-cycle phase shift between current and voltage, but at resonance, the phase angle is 0 degrees."
+        },
+        {
+          "letter": "C",
+          "text": "0o",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. At resonance in a series RLC circuit, the phase angle between the current and voltage is 0 degrees. This means that the current is in phase with the voltage, and they reach their maximum and minimum values simultaneously."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "The correct answer is not \"None of these.\" The phase angle at resonance is indeed 0 degrees, as explained in option c.In summary, at resonance in a series RLC circuit, the phase angle is 0 degrees, indicating that the current and voltage are in phase with each other."
+        }
+      ],
+      "explanation": "This is the correct answer. At resonance in a series RLC circuit, the phase angle between the current and voltage is 0 degrees. This means that the current is in phase with the voltage, and they reach their maximum and minimum values simultaneously.",
+      "explanationImage": null,
+      "hints": [
+        "phase angle of a series RLC circuit at resonance"
+      ]
+    },
+    {
+      "text": "When electrons in the transmitting antenna vibrate 94000 times per second, they produce radiowaves having frequency:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "9.4 kHz",
+          "isCorrect": false,
+          "explanation": "This option is not correct. 9.4 kHz is an order of magnitude lower than the provided vibration frequency of 94,000 times per second, so it does not match the described scenario."
+        },
+        {
+          "letter": "B",
+          "text": "940 kHz",
+          "isCorrect": false,
+          "explanation": "This option is not correct. 940 kHz is an order of magnitude higher than the provided vibration frequency of 94,000 times per second, so it does not match the described scenario."
+        },
+        {
+          "letter": "C",
+          "text": "94 kHz",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. When electrons in the transmitting antenna vibrate at a frequency of 94,000 times per second, the resulting radio waves have a frequency of 94 kHz. The unit \"kHz\" stands for kilohertz, which represents a frequency of 1,000 cycles per second. Therefore, 94 kHz corresponds to 94000 cycles per second, which is close to the given vibration frequency."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "The correct answer is not \"None of these.\" The correct frequency of the radio waves in this scenario is 94 kHz, as explained in option c.In summary, when electrons in a transmitting antenna vibrate at a rate of 94,000 times per second, the radio waves they produce have a frequency of 94 kHz (kilohertz)."
+        }
+      ],
+      "explanation": "This is the correct answer. When electrons in the transmitting antenna vibrate at a frequency of 94,000 times per second, the resulting radio waves have a frequency of 94 kHz. The unit \"kHz\" stands for kilohertz, which represents a frequency of 1,000 cycles per second. Therefore, 94 kHz corresponds to 94000 cycles per second, which is close to the given vibration frequency. f=94000 Cs-1f=94 x 103 Hz = 94 kHz",
+      "explanationImage": null,
+      "hints": [
+        "transmitting antenna",
+        "94000 times",
+        "frequency"
+      ]
+    },
+    {
+      "text": "If 1/2 = 50 sin Irms ?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100",
+          "isCorrect": false,
+          "explanation": "Incorrect. This value does not consider the conversion factor between peak and RMS values."
+        },
+        {
+          "letter": "B",
+          "text": "0.707",
+          "isCorrect": false,
+          "explanation": "Incorrect. This value is the conversion factor itself, not the Irms value."
+        },
+        {
+          "letter": "C",
+          "text": "70.7",
+          "isCorrect": true,
+          "explanation": "Correct. This is the correct Irms value when considering the conversion factor."
+        },
+        {
+          "letter": "D",
+          "text": "50",
+          "isCorrect": false,
+          "explanation": "Incorrect. This is the peak value, not the RMS value."
+        }
+      ],
+      "explanation": "In alternating current (AC) circuits, the RMS (Root Mean Square) value is a measure of the effective value of the AC current or voltage. For a sinusoidal waveform, the RMS value is equal to the peak value divided by the square root of 2 (approximately 0.707). Given that the peak current (Ipeak) is 50, the RMS current (Irms) is calculated as Irms = Ipeak × 0.707. Therefore, the correct answer is 70.7. Option A is incorrect as it represents a simple doubling of the peak value. Option B is incorrect as it refers to the conversion factor, not the actual RMS value. Option D is incorrect as it represents the peak value rather than the RMS value.",
+      "explanationImage": null,
+      "hints": [
+        "50",
+        "sin"
+      ]
+    },
+    {
+      "text": "Number of peaks in sinusoidal power curve is, (where f is the frequency of AC).",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2f",
+          "isCorrect": true,
+          "explanation": "Correct. The power curve of an AC signal completes two peaks for each cycle because power is proportional to the square of the current, which oscillates sinusoidally."
+        },
+        {
+          "letter": "B",
+          "text": "3f",
+          "isCorrect": false,
+          "explanation": "Incorrect. There's no basis for having three peaks per cycle in a sinusoidal power curve."
+        },
+        {
+          "letter": "C",
+          "text": "f",
+          "isCorrect": false,
+          "explanation": "Incorrect. This would imply the power curve has only one peak per cycle, which is not correct for a sinusoidal signal."
+        },
+        {
+          "letter": "D",
+          "text": "4f",
+          "isCorrect": false,
+          "explanation": "Incorrect. This would imply the power curve has four peaks per cycle, which is not characteristic of sinusoidal power."
+        }
+      ],
+      "explanation": "In alternating current (AC), the current and voltage follow a sinusoidal pattern. The power in an AC circuit is proportional to the square of the current (or voltage), resulting in a frequency that is double that of the current or voltage. If the frequency of the AC is 'f', then the power curve will have a frequency of '2f', hence there will be two peaks for each cycle of the AC current or voltage. Therefore, the correct answer is 2f. This understanding helps in recognizing that options 'f' would imply only one peak per cycle, and '3f' or '4f' would suggest an incorrect number of peaks based on the sinusoidal nature of the AC power.",
+      "explanationImage": null,
+      "hints": [
+        "Number",
+        "peaks",
+        "frequency"
+      ]
+    },
+    {
+      "text": "Dissipation of heat does not depend upon.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Direction of I",
+          "isCorrect": true,
+          "explanation": "Correct: Heat dissipation depends on the magnitude and nature of the current, not its direction."
+        },
+        {
+          "letter": "B",
+          "text": "Magnitude of I",
+          "isCorrect": false,
+          "explanation": "Incorrect: The magnitude of the current is directly related to the amount of heat dissipated, following Joule's law."
+        },
+        {
+          "letter": "C",
+          "text": "Nature of current",
+          "isCorrect": false,
+          "explanation": "Incorrect: The type of current (AC or DC) can affect the heat dissipation, as the behavior and interaction with resistive elements differ."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "Incorrect: This implies that all factors are relevant, which is not true because the direction of the current does not affect heat dissipation."
+        }
+      ],
+      "explanation": "Dissipation of Heat in Electrical Circuits: Heat dissipation in an electrical circuit is primarily governed by Joule's Law, which states that the heat produced by a current flowing through a conductor is proportional to the square of the current (I²), the resistance (R) of the conductor, and the time (t) for which the current flows. The formula is given by H = I²Rt. This means that the magnitude of the current is crucial in determining the amount of heat dissipated. Additionally, the nature of the current (whether it's alternating current (AC) or direct current (DC)) can influence the heat dissipation due to different resistive behaviors of circuits under AC or DC. However, the direction of the current does not impact the amount of heat dissipated, making Option A the correct answer. Other options are incorrect because they describe factors that do influence heat dissipation.",
+      "explanationImage": null,
+      "hints": [
+        "Dissipation",
+        "heat",
+        "depend"
+      ]
+    },
+    {
+      "text": "Which of them does not depend on direction of I.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Chemical effect",
+          "isCorrect": false,
+          "explanation": "Incorrect. The chemical effect of current, such as electrolysis, is dependent on the direction of current flow."
+        },
+        {
+          "letter": "B",
+          "text": "Heating effect",
+          "isCorrect": true,
+          "explanation": "Correct. The heating effect of current (Joule heating) is independent of the direction of current flow."
+        },
+        {
+          "letter": "C",
+          "text": "Magnetic effect",
+          "isCorrect": false,
+          "explanation": "Incorrect. The magnetic effect of current, which creates a magnetic field around the conductor, depends on the direction of current flow."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "Incorrect. There is an effect that does not depend on the direction of the current."
+        }
+      ],
+      "explanation": "The question asks which effect of electric current does not depend on the direction of current (I). The heating effect is the correct answer because it is governed by Joule's law of heating, which states that the heat produced in a resistor is proportional to the square of the current, the resistance, and the time for which the current flows. This means the heating effect is the same regardless of current direction.In contrast, the chemical effect (such as electrolysis) depends on the direction, as the movement and deposition of ions are directed by current flow. Similarly, the magnetic effect also depends on the current direction, as it determines the orientation of the magnetic field produced around the conductor.",
+      "explanationImage": null,
+      "hints": [
+        "does",
+        "not",
+        "direction"
+      ]
+    },
+    {
+      "text": "In case of AC circuit power loss in resistive circuit.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Must be positive",
+          "isCorrect": true,
+          "explanation": "Correct: In a purely resistive AC circuit, the voltage and current are in-phase, resulting in consistent power dissipation as heat, which is always positive."
+        },
+        {
+          "letter": "B",
+          "text": "Never be positive",
+          "isCorrect": false,
+          "explanation": "Incorrect: Power loss cannot be negative in a resistive AC circuit because it denotes energy being converted to heat."
+        },
+        {
+          "letter": "C",
+          "text": "May or may not be positive",
+          "isCorrect": false,
+          "explanation": "Incorrect: The power loss is always positive due to the in-phase relationship of voltage and current in a resistive AC circuit."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "Incorrect: This option does not address the correct characteristics of power loss in a resistive AC circuit."
+        }
+      ],
+      "explanation": "In an AC circuit, power refers to the average rate of energy dissipation. In a purely resistive circuit, voltage and current are in-phase, meaning they reach their peak values simultaneously. This in-phase relationship ensures that the instantaneous power, calculated as P = VI, remains positive throughout the cycle. Resistors convert electrical energy into heat, a process that cannot result in negative power loss. Therefore, the power loss must be positive, making Option A correct. Options B and C are incorrect because they misinterpret the nature of power loss in resistive circuits. Option D is incorrect as it fails to provide any relevant information about power loss in such circuits.",
+      "explanationImage": null,
+      "hints": [
+        "AC",
+        "resistive",
+        "power loss"
+      ]
+    },
+    {
+      "text": "Ratio of average power to the peak power in resistive AC circuit is?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1:2",
+          "isCorrect": true,
+          "explanation": "Correct. In a resistive AC circuit, the ratio of average power to peak power is 1:2."
+        },
+        {
+          "letter": "B",
+          "text": "2:1",
+          "isCorrect": false,
+          "explanation": "Incorrect. This ratio would imply that average power is greater than peak power, which is not the case in a resistive AC circuit."
+        },
+        {
+          "letter": "C",
+          "text": "1:1",
+          "isCorrect": false,
+          "explanation": "Incorrect. This ratio suggests that average power equals peak power, which is not true for a sinusoidal waveform."
+        },
+        {
+          "letter": "D",
+          "text": "none",
+          "isCorrect": false,
+          "explanation": "Incorrect. There is a defined ratio of 1:2 for average to peak power in a purely resistive AC circuit."
+        }
+      ],
+      "explanation": "In a resistive AC circuit, the voltage and current are sinusoidal and in phase. The average power (Pavg) in such a circuit can be calculated using the formula Pavg = (1/2)Ppeak, where Ppeak is the peak power. This is because the average value of a sine wave over a complete cycle is zero, but since power is proportional to the square of the sine (which is always positive), the average power is half of the peak power. Therefore, the ratio of average power to peak power is 1:2. This explains why Option A is correct, while Options B, C, and D are incorrect as they do not represent the correct relationship between average and peak power in a sinusoidal AC circuit.",
+      "explanationImage": null,
+      "hints": [
+        "average power",
+        "peak power"
+      ]
+    },
+    {
+      "text": "Peak current is increased by a factor of 2 then percentage change in <p> is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100%",
+          "isCorrect": true,
+          "explanation": "Correct. Doubling the peak current results in a 100% increase in the peak value."
+        },
+        {
+          "letter": "B",
+          "text": "200%",
+          "isCorrect": false,
+          "explanation": "Incorrect. This would imply a tripling, not doubling, of the peak current."
+        },
+        {
+          "letter": "C",
+          "text": "50%",
+          "isCorrect": false,
+          "explanation": "Incorrect. This would be relevant if the peak current increased by 50%, not 100%."
+        },
+        {
+          "letter": "D",
+          "text": "No change",
+          "isCorrect": false,
+          "explanation": "Incorrect. There is a significant percentage change when the peak current is doubled."
+        }
+      ],
+      "explanation": "In alternating current (AC) circuits, when the peak current is doubled, this results in a 100% increase in the peak current. The percentage increase is calculated as follows: [(New Value - Original Value) / Original Value] x 100% = [(2I - I) / I] x 100% = [I / I] x 100% = 100%. Therefore, doubling the peak current results in a 100% increase. The other options are incorrect because they do not accurately reflect the percentage change resulting from doubling the peak value.",
+      "explanationImage": null,
+      "hints": [
+        "Peak",
+        "percentage",
+        "change"
+      ]
+    },
+    {
+      "text": "If the peak value of current and voltage are doubled then percentage change in <p>?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "300%",
+          "isCorrect": true,
+          "explanation": "Correct. Doubling both the peak current and peak voltage results in a 300% increase in power."
+        },
+        {
+          "letter": "B",
+          "text": "200%",
+          "isCorrect": false,
+          "explanation": "Incorrect. This option does not account for the exponential nature of power change with both current and voltage doubling."
+        },
+        {
+          "letter": "C",
+          "text": "100%",
+          "isCorrect": false,
+          "explanation": "Incorrect. This suggests a linear change which is not the case when both current and voltage are doubled."
+        },
+        {
+          "letter": "D",
+          "text": "none",
+          "isCorrect": false,
+          "explanation": "Incorrect. There is a significant change in power, as calculated by the percentage change."
+        }
+      ],
+      "explanation": "In an electrical circuit, the power (P) is given by the formula P = Vpeak * Ipeak, where Vpeak is the peak voltage and Ipeak is the peak current. If both the peak voltage and peak current are doubled, the new power becomes (2Vpeak)*(2Ipeak) = 4Vpeak*Ipeak. This results in a fourfold increase in power, which translates to a 300% increase (since the original power was 100%, and now it is 400%). Therefore, the correct answer is Option A, which reflects a 300% increase in power. Other options do not correctly capture this exponential power increase.",
+      "explanationImage": null,
+      "hints": [
+        "peak value",
+        "current",
+        "voltage"
+      ]
+    },
+    {
+      "text": "If the frequency of A.C generator is increased by a factor of 2 then frequency of <p>?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 times",
+          "isCorrect": true,
+          "explanation": "This is the correct answer because if the frequency of the A.C. generator is doubled, the output frequency will also be doubled, resulting in a frequency that is 2 times the original."
+        },
+        {
+          "letter": "B",
+          "text": "3 times",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because an increase by a factor of 2 does not correspond to a frequency that is 3 times the original. The relationship is directly proportional, not additive."
+        },
+        {
+          "letter": "C",
+          "text": "4 times",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as well. Doubling the frequency of the generator does not quadruple the output frequency; it only doubles it."
+        },
+        {
+          "letter": "D",
+          "text": "none",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it implies that the frequency remains unchanged. However, doubling the generator's frequency results in a clear increase in output frequency."
+        }
+      ],
+      "explanation": "The correct answer is that the frequency of the output alternating current becomes 2 times if the frequency of the A.C. generator is increased by a factor of 2. This is because the output frequency of an A.C. generator is directly proportional to its operational frequency. Therefore, when the generator's frequency increases, the output frequency follows suit in the same proportion. Options B and C are incorrect as they suggest a frequency increase that does not align with the direct proportionality principle. Option D is also incorrect as it suggests no change in frequency, which contradicts the premise of the question.",
+      "explanationImage": null,
+      "hints": [
+        "frequency",
+        "A.C. generator"
+      ]
+    },
+    {
+      "text": "The internal Resistance of pure inductor is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "Correct: A pure inductor ideally has zero internal resistance, allowing current to pass through without any opposition."
+        },
+        {
+          "letter": "B",
+          "text": "Infinite",
+          "isCorrect": false,
+          "explanation": "Incorrect: If the internal resistance were infinite, it would completely block current flow, which is not characteristic of a pure inductor."
+        },
+        {
+          "letter": "C",
+          "text": "Finite",
+          "isCorrect": false,
+          "explanation": "Incorrect: A pure inductor ideally has zero resistance, though practical inductors may have a small finite resistance due to imperfections."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "Incorrect: This option is vague and does not accurately describe the nature of internal resistance in a pure inductor."
+        }
+      ],
+      "explanation": "An inductor is a passive electrical component that stores energy in a magnetic field when electric current flows through it. In the ideal case, a pure inductor is considered to have zero internal resistance, meaning it does not impede the flow of current by resisting it. However, in practical scenarios, inductors may have some small resistance due to the material of the wire and other factors, but this is outside the scope of the ideal model discussed in this question. Thus, the internal resistance of a pure inductor is best described as zero. Other options, like infinite or finite, do not accurately reflect the characteristics of an ideal inductor.",
+      "explanationImage": null,
+      "hints": [
+        "internal",
+        "Resistance",
+        "pure inductor"
+      ]
+    },
+    {
+      "text": "When frequency of DC source is double XL:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Doubles",
+          "isCorrect": false,
+          "explanation": "Incorrect. The frequency of a DC source does not affect the reactance of an inductor, as DC does not have a frequency."
+        },
+        {
+          "letter": "B",
+          "text": "Quadrupled",
+          "isCorrect": false,
+          "explanation": "Incorrect. The frequency of a DC source does not affect the reactance of an inductor, as DC does not have a frequency."
+        },
+        {
+          "letter": "C",
+          "text": "Tripled",
+          "isCorrect": false,
+          "explanation": "Incorrect. The frequency of a DC source does not affect the reactance of an inductor, as DC does not have a frequency."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": true,
+          "explanation": "Correct. The reactance of an inductor (XL) depends on frequency, but since DC has no frequency, doubling a non-existent frequency has no effect."
+        }
+      ],
+      "explanation": "In electrical circuits, the inductive reactance (XL) of an inductor is calculated using the formula XL = 2πfL, where f is the frequency and L is the inductance. Direct Current (DC) does not alternate and has a frequency of zero. Since DC has no frequency, altering or doubling the frequency does not apply. Therefore, the reactance remains unaffected by changes in 'frequency' when dealing with DC, as it inherently lacks this characteristic. This is why the correct answer is 'None'.",
+      "explanationImage": null,
+      "hints": [
+        "frequency",
+        "DC source"
+      ]
+    },
+    {
+      "text": "The slope of inductive reactance versus frequency graph in inductive AC circuit is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Constant inductance",
+          "isCorrect": true,
+          "explanation": "Correct. The slope of the inductive reactance versus frequency graph is constant, as inductive reactance (XL) is directly proportional to frequency (f)."
+        },
+        {
+          "letter": "B",
+          "text": "Decreasing inductance",
+          "isCorrect": false,
+          "explanation": "Incorrect. Inductance does not decrease with frequency; rather, the inductive reactance increases as frequency increases."
+        },
+        {
+          "letter": "C",
+          "text": "Increasing inductance",
+          "isCorrect": false,
+          "explanation": "Incorrect. Inductance is a constant property of the coil and does not change with frequency, although inductive reactance increases with frequency."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "Incorrect. The relationship between inductive reactance and frequency is well-defined and not 'none'."
+        }
+      ],
+      "explanation": "Inductive Reactance (XL): In an AC circuit, inductive reactance is the opposition offered by an inductor to the change of current, calculated as XL = 2πfL, where f is the frequency and L is the inductance.Key Concept: The slope of the inductive reactance versus frequency graph is determined by the constant proportionality factor (2πL), making the relationship linear. Therefore, as frequency increases, inductive reactance increases linearly.Logic: Since the graph represents a linear relationship, the slope remains constant, indicating constant inductance, which is why Option A is correct. Options B and C are incorrect because they imply a change in inductance, which is constant. Option D is incorrect as it suggests no relationship, which is not true.",
+      "explanationImage": null,
+      "hints": [
+        "slope",
+        "inductive reactance",
+        "frequency"
+      ]
+    },
+    {
+      "text": "Inductor is also known as:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Low pass filter",
+          "isCorrect": true,
+          "explanation": "Correct. An inductor can act as a low pass filter because it allows low-frequency signals to pass while attenuating higher-frequency signals."
+        },
+        {
+          "letter": "B",
+          "text": "Medium part filter",
+          "isCorrect": false,
+          "explanation": "Incorrect. There is no standard electronic component known as a 'medium part filter'."
+        },
+        {
+          "letter": "C",
+          "text": "High pass filter",
+          "isCorrect": false,
+          "explanation": "Incorrect. An inductor does not act as a high pass filter, as it does not favor high-frequency signal passage over low-frequency ones in simple configurations."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "Incorrect. An inductor can indeed function as a low pass filter in certain configurations."
+        }
+      ],
+      "explanation": "In electronics, a low pass filter is a circuit that allows signals with a frequency lower than a certain cutoff frequency to pass through and attenuates frequencies higher than the cutoff frequency. An inductor, due to its ability to resist changes in current, naturally blocks high-frequency signals while allowing low-frequency signals to pass. This makes it suitable for use as a low pass filter in some circuit designs. On the other hand, a high pass filter is not typically associated with an inductor but rather with capacitors in simple RC circuits. The term 'medium part filter' is not a recognized component in electronics.",
+      "explanationImage": null,
+      "hints": [
+        "Inductor",
+        "known"
+      ]
+    },
+    {
+      "text": "In inductor",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Emf leads the current by 90°",
+          "isCorrect": true,
+          "explanation": "Correct. In a purely inductive AC circuit, the voltage (Emf) leads the current by 90 degrees."
+        },
+        {
+          "letter": "B",
+          "text": "current leads the voltage by 90°",
+          "isCorrect": false,
+          "explanation": "Incorrect. In an inductor, it is the voltage that leads the current, not the other way around."
+        },
+        {
+          "letter": "C",
+          "text": "Both are in phase",
+          "isCorrect": false,
+          "explanation": "Incorrect. In an inductor, the voltage and current are not in phase; the voltage leads the current by 90 degrees."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "Incorrect. There is a specific phase relationship between voltage and current in an inductor."
+        }
+      ],
+      "explanation": "In an AC circuit, an inductor causes the current to lag behind the voltage because it resists changes in current. This phase difference is due to the inductor's property of inducing an electromotive force (Emf) that opposes changes in current. As a result, the Emf leads the current by 90 degrees. The other options are incorrect because they either reverse this relationship or suggest the voltage and current are in phase, which is not the case for an inductor.",
+      "explanationImage": null,
+      "hints": [
+        "inductor",
+        "Emf",
+        "current"
+      ]
+    },
+    {
+      "text": "Which of them are leading in capacitive circuit when connected to D.C:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Current",
+          "isCorrect": false,
+          "explanation": "Incorrect. In a capacitive circuit connected to DC, the current initially flows as the capacitor charges, but it does not continuously lead once the capacitor is fully charged."
+        },
+        {
+          "letter": "B",
+          "text": "Voltage",
+          "isCorrect": false,
+          "explanation": "Incorrect. Voltage does not lead in a capacitive circuit connected to DC. Instead, it stabilizes across the capacitor once charged."
+        },
+        {
+          "letter": "C",
+          "text": "Resistance",
+          "isCorrect": false,
+          "explanation": "Incorrect. Resistance is not a factor in leading or lagging in a capacitive circuit connected to DC."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": true,
+          "explanation": "Correct. In a capacitive circuit connected to DC, once the capacitor is fully charged, no component leads or lags."
+        }
+      ],
+      "explanation": "In a capacitive circuit connected to DC, the capacitor initially allows current to pass as it charges up. During this charging phase, the current can be said to 'lead' the voltage because the current flows before the capacitor is fully charged and voltage stabilizes across it. However, once the capacitor is fully charged, no further current flows, and there is no leading or lagging between current and voltage.For option A, current initially flows but does not continuously lead. Option B is incorrect because the voltage eventually stabilizes and does not lead. Option C is irrelevant in the context of leading or lagging in a capacitive circuit with DC. Therefore, option D is correct, as neither current nor voltage leads in a fully charged capacitive circuit connected to DC.",
+      "explanationImage": null,
+      "hints": [
+        "capacitive",
+        "circuit",
+        "D.C"
+      ]
+    },
+    {
+      "text": "If power factor =1 power dissipation in the circuit will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The circuit is dissipating maximum power",
+          "isCorrect": true,
+          "explanation": "When the power factor is 1, the circuit operates at maximum efficiency, meaning all the power supplied is being used effectively."
+        },
+        {
+          "letter": "B",
+          "text": "The circuit may or may not be dissipating maximum power",
+          "isCorrect": false,
+          "explanation": "This is incorrect because a power factor of 1 indicates that the circuit is indeed dissipating maximum power."
+        },
+        {
+          "letter": "C",
+          "text": "The circuit is not dissipating any power",
+          "isCorrect": false,
+          "explanation": "This is incorrect because a power factor of 1 means that power is being fully dissipated or utilized."
+        },
+        {
+          "letter": "D",
+          "text": "None of the above",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because there is an appropriate answer among the provided choices."
+        }
+      ],
+      "explanation": "In an AC circuit, the power factor is a measure of how effectively the current is being converted into useful work. A power factor of 1 means that the circuit is purely resistive and there is no reactive power, leading to maximum power dissipation. In this scenario, all the power supplied is being used effectively, which means the circuit is dissipating maximum power (Option A). Option B is incorrect because it suggests uncertainty in power dissipation, which is not the case with a power factor of 1. Option C is incorrect because it states no power dissipation, contrary to the definition of a power factor of 1. Option D is incorrect as there is a valid answer provided.",
+      "explanationImage": null,
+      "hints": [
+        "power factor",
+        "power dissipation"
+      ]
+    },
+    {
+      "text": "When Soft iron is placed inside a solenoid with which the bulb is connected in series, then glow of filament of bulb connected in that A.C circuit is?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increases",
+          "isCorrect": false,
+          "explanation": "The glow would increase if the inductance decreased, causing more current to flow through the bulb."
+        },
+        {
+          "letter": "B",
+          "text": "Decreases",
+          "isCorrect": true,
+          "explanation": "The glow decreases because soft iron enhances the magnetic field, increasing the inductance and reducing the current through the bulb."
+        },
+        {
+          "letter": "C",
+          "text": "Same",
+          "isCorrect": false,
+          "explanation": "The glow remains the same only if the inductance is unaffected, which is not the case when soft iron is introduced."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "This would imply that the bulb has no response, which is incorrect as the inductance change directly affects the bulb's brightness."
+        }
+      ],
+      "explanation": "When soft iron is placed inside a solenoid, it increases the solenoid's magnetic field strength, thereby increasing the inductance of the circuit. In an AC circuit, increased inductance results in a decrease in current flow through the circuit. As a result, the bulb connected in series with the solenoid experiences a reduced current, causing its glow to decrease. Option A is incorrect as it suggests an increase in glow, which would happen only if inductance decreased. Option C is incorrect because the glow does not remain the same; it changes with the current. Option D is incorrect because the bulb does respond to the change in inductance.",
+      "explanationImage": null,
+      "hints": [
+        "Soft iron",
+        "solenoid"
+      ]
+    },
+    {
+      "text": "Power factor (cos) depends on",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inductance",
+          "isCorrect": false,
+          "explanation": "Inductance affects the phase difference between current and voltage, impacting the power factor."
+        },
+        {
+          "letter": "B",
+          "text": "Capacitance",
+          "isCorrect": false,
+          "explanation": "Capacitance also affects the phase difference between current and voltage, impacting the power factor."
+        },
+        {
+          "letter": "C",
+          "text": "Resistance",
+          "isCorrect": false,
+          "explanation": "Resistance influences the power factor by determining the real power in the circuit."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": "All these components (inductance, capacitance, and resistance) together determine the overall power factor in an AC circuit."
+        }
+      ],
+      "explanation": "The power factor (cos φ) in an AC circuit measures the phase difference between voltage and current, and it depends on the presence of inductance, capacitance, and resistance. Inductance and capacitance cause the current to lead or lag the voltage, respectively, affecting the phase angle. Resistance affects the real power consumed, thus influencing the power factor. Therefore, all these components collectively determine the power factor, making Option D the correct choice. Options A, B, and C are incorrect when considered individually because the power factor is not solely dependent on any one of these elements, but rather the interplay of all three.",
+      "explanationImage": null,
+      "hints": [
+        "Power",
+        "factor",
+        "depends"
+      ]
+    },
+    {
+      "text": "At resonance in R.L.C series A.C circuit which is correct:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The impedance is minimum",
+          "isCorrect": true,
+          "explanation": "At resonance, the impedance of the RLC circuit is at its minimum value because the inductive and capacitive reactances cancel each other out."
+        },
+        {
+          "letter": "B",
+          "text": "The voltage across the inductor (VL) is greater than the applied voltage",
+          "isCorrect": false,
+          "explanation": "At resonance, the voltage across the inductor can be greater than the applied voltage due to the resonance effect, but this is not the defining characteristic of resonance."
+        },
+        {
+          "letter": "C",
+          "text": "The voltage across the capacitor (VC) is greater than the applied voltage",
+          "isCorrect": false,
+          "explanation": "Similar to the inductor, the voltage across the capacitor at resonance can exceed the applied voltage, yet it is not a defining feature of resonance."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": false,
+          "explanation": "While some conditions, like minimum impedance, are true at resonance, not all options are correct under typical resonance conditions. Therefore, 'All' is not the correct choice here."
+        }
+      ],
+      "explanation": "In an RLC series AC circuit at resonance, the impedance is at its minimum. This occurs because the inductive reactance (XL) equals the capacitive reactance (XC), thus canceling each other out, leaving only the resistive component. Therefore, the circuit behaves as if it only has resistance, leading to the lowest possible impedance. Options B and C discuss phenomena that can occur at resonance due to voltage magnification, but they do not define resonance. Option D is incorrect because not all statements are correct in the context of resonance definition.",
+      "explanationImage": null,
+      "hints": [
+        "resonance",
+        "R.L.C series",
+        "A.C circuit"
+      ]
+    },
+    {
+      "text": "Resonance frequency is possible at how many combination of inductor & capacitor.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Two",
+          "isCorrect": false,
+          "explanation": "Incorrect. Resonance frequency is not limited to just two specific combinations of inductor and capacitor values."
+        },
+        {
+          "letter": "B",
+          "text": "Three",
+          "isCorrect": false,
+          "explanation": "Incorrect. There are more than three possible combinations of inductor and capacitor values that can achieve resonance frequency."
+        },
+        {
+          "letter": "C",
+          "text": "Four",
+          "isCorrect": false,
+          "explanation": "Incorrect. Resonance frequency is not constrained to four specific combinations of inductor and capacitor values."
+        },
+        {
+          "letter": "D",
+          "text": "Infinite",
+          "isCorrect": true,
+          "explanation": "Correct. The resonance frequency can be achieved with an infinite number of combinations of inductor and capacitor values, as long as the product of their values satisfies the resonance condition."
+        }
+      ],
+      "explanation": "The resonance frequency of an LC circuit is determined by the formula f = 1 / (2π√(LC)), where 'L' is the inductance and 'C' is the capacitance. This means that for any given resonance frequency, there are infinite combinations of inductance and capacitance values that can satisfy this equation, as long as their product remains constant. Therefore, the correct answer is that there are infinite combinations. The other options are incorrect because they suggest a limited number of combinations, which is not the case.",
+      "explanationImage": null,
+      "hints": [
+        "Resonance",
+        "inductor",
+        "capacitor"
+      ]
+    },
+    {
+      "text": "At resonance if the capacitance is doubled then what should be the inductance to maintain resonance frequency?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Doubled",
+          "isCorrect": false,
+          "explanation": "Doubling the inductance would decrease the resonance frequency, as it disrupts the required balance with the increased capacitance."
+        },
+        {
+          "letter": "B",
+          "text": "Quadrupled",
+          "isCorrect": false,
+          "explanation": "Quadrupling the inductance would further decrease the resonance frequency, making it even more difficult to maintain resonance."
+        },
+        {
+          "letter": "C",
+          "text": "Tripled",
+          "isCorrect": false,
+          "explanation": "Tripling the inductance also disrupts the balance needed to maintain the resonance frequency with doubled capacitance."
+        },
+        {
+          "letter": "D",
+          "text": "Halved",
+          "isCorrect": true,
+          "explanation": "Halving the inductance compensates for the doubled capacitance, maintaining the resonance condition since the product of capacitance and inductance stays constant."
+        }
+      ],
+      "explanation": "In an RLC circuit at resonance, the resonance frequency is determined by the formula f = 1 / (2π√(LC)). To maintain the same resonance frequency when the capacitance C is doubled, the inductance L must be halved. This keeps the product LC constant, ensuring the resonance condition is met. Option D is correct because halving the inductance balances the effect of doubling the capacitance. The other options incorrect because doubling, tripling, or quadrupling the inductance would disrupt this balance, resulting in a different resonance frequency.",
+      "explanationImage": null,
+      "hints": [
+        "resonance",
+        "capacitance"
+      ]
+    },
+    {
+      "text": "Which of following is possible combination for resonance?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4L, C/4",
+          "isCorrect": true,
+          "explanation": "Correct. In this combination, the inductive reactance and capacitive reactance can be equal, satisfying the condition for resonance."
+        },
+        {
+          "letter": "B",
+          "text": "2C, 2L",
+          "isCorrect": false,
+          "explanation": "Incorrect. While both values are doubled, this does not change the ratio of reactance required for resonance."
+        },
+        {
+          "letter": "C",
+          "text": "4L, 4C",
+          "isCorrect": false,
+          "explanation": "Incorrect. This combination simply scales both reactances equally, maintaining their ratio but not necessarily achieving resonance."
+        },
+        {
+          "letter": "D",
+          "text": "2L, 4C",
+          "isCorrect": false,
+          "explanation": "Incorrect. This combination changes the balance between inductive and capacitive reactance, which can disrupt resonance conditions."
+        }
+      ],
+      "explanation": "Resonance in an RLC circuit occurs when the inductive reactance (XL = ωL) is equal to the capacitive reactance (XC = 1/ωC). For resonance, the product of inductance (L) and capacitance (C) should remain constant. In Option A, changing L to 4L and C to C/4 keeps LC constant, making this the correct option for achieving resonance. The other options do not maintain this balance:Option B changes both L and C equally, which does not affect the ratio needed for resonance.Option C scales both L and C equally, maintaining the same ratio as before.Option D disrupts the balance needed for resonance by mismatching the inductance and capacitance scaling.",
+      "explanationImage": null,
+      "hints": [
+        "possible",
+        "combination",
+        "resonance"
+      ]
+    },
+    {
+      "text": "In RLC series AC circuit if the applied frequency is less than the resonance frequency then the circuit will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Inductive",
+          "isCorrect": false,
+          "explanation": "At frequencies below resonance, the capacitive reactance is greater than the inductive reactance, thus the circuit behaves more capacitive."
+        },
+        {
+          "letter": "B",
+          "text": "Capacitive",
+          "isCorrect": true,
+          "explanation": "Below the resonance frequency, the capacitive reactance dominates over the inductive reactance, making the circuit behave capacitive."
+        },
+        {
+          "letter": "C",
+          "text": "Positive",
+          "isCorrect": false,
+          "explanation": "This option is not relevant to the behavior of an RLC circuit at frequencies below resonance."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "This option does not accurately describe the behavior of the circuit at frequencies below resonance."
+        }
+      ],
+      "explanation": "In an RLC series AC circuit, the behavior of the circuit is determined by the relative magnitudes of the capacitive and inductive reactances. When the applied frequency is less than the resonance frequency, the capacitive reactance (XC = 1/ωC) is greater than the inductive reactance (XL = ωL), causing the circuit to behave as a capacitive circuit. As a result, Option B is correct. Options A and C are incorrect because they do not accurately describe the behavior of the circuit under these conditions. Option D is incorrect because it suggests no behavior, which is not applicable.",
+      "explanationImage": null,
+      "hints": [
+        "applied frequency",
+        "less than",
+        "resonance frequency"
+      ]
+    },
+    {
+      "text": "In RLC series AC circuit if the applied frequency is less than the resonance frequency then which is true?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The circuit behaves as a capacitive circuit",
+          "isCorrect": false,
+          "explanation": "When the frequency is below resonance, capacitive reactance dominates, making the circuit behave as a capacitive circuit."
+        },
+        {
+          "letter": "B",
+          "text": "Xc > XL",
+          "isCorrect": false,
+          "explanation": "Below resonance frequency, capacitive reactance (Xc) is greater than inductive reactance (XL)."
+        },
+        {
+          "letter": "C",
+          "text": "Current leads the voltage",
+          "isCorrect": false,
+          "explanation": "In a capacitive circuit, the current leads the voltage, which occurs when the frequency is below resonance."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": "All the statements are true when the applied frequency is less than the resonance frequency in an RLC circuit."
+        }
+      ],
+      "explanation": "In an RLC series circuit, when the applied frequency is less than the resonance frequency, the capacitive reactance is greater than the inductive reactance (Xc > XL), causing the circuit to behave as a capacitive circuit. In such scenarios, the current leads the voltage. Thus, all the options provided are correct, which makes Option D the correct choice. Each of the other options individually describes an aspect of the circuit's behavior under these conditions.",
+      "explanationImage": null,
+      "hints": [
+        "RLC series AC circuit",
+        "applied frequency",
+        "resonance frequency"
+      ]
+    },
+    {
+      "text": "When maximum power is transferred to load then efficiency will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100%",
+          "isCorrect": false,
+          "explanation": "This would mean all power is converted to useful work without any losses, which is not possible in real-world scenarios."
+        },
+        {
+          "letter": "B",
+          "text": "50%",
+          "isCorrect": true,
+          "explanation": "In the case of maximum power transfer, the load resistance equals the source resistance, leading to an efficiency of 50%."
+        },
+        {
+          "letter": "C",
+          "text": "99.9%",
+          "isCorrect": false,
+          "explanation": "An efficiency of 99.9% would imply negligible losses, which is unrealistic for maximum power transfer."
+        },
+        {
+          "letter": "D",
+          "text": "70%",
+          "isCorrect": false,
+          "explanation": "This efficiency level does not correspond to the condition of maximum power transfer, where efficiency is typically 50%."
+        }
+      ],
+      "explanation": "In the scenario of maximum power transfer, the load resistance is equal to the source resistance. This results in an equal division of voltage across the load and source resistances, leading to an efficiency of 50%. This is because only half of the power supplied by the source is delivered to the load, with the other half dissipated in the source resistance. Therefore, the correct answer is 50%. The other options are incorrect because they represent efficiencies that are not consistent with the maximum power transfer theorem.",
+      "explanationImage": null,
+      "hints": [
+        "maximum power",
+        "efficiency"
+      ]
+    },
+    {
+      "text": "When the efficiency of RLC circuit is 50% then the circuit will be in:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Resonance",
+          "isCorrect": false,
+          "explanation": "At resonance, an RLC circuit is expected to have maximum efficiency, not 50%."
+        },
+        {
+          "letter": "B",
+          "text": "Not in resonance",
+          "isCorrect": false,
+          "explanation": "When an RLC circuit is not at resonance, various losses can result in lower efficiency, such as 50%."
+        },
+        {
+          "letter": "C",
+          "text": "Not possible",
+          "isCorrect": true,
+          "explanation": "A 50% efficiency in an RLC circuit is theoretically possible under certain conditions, such as when there are significant resistive losses."
+        },
+        {
+          "letter": "D",
+          "text": "None of the above",
+          "isCorrect": false,
+          "explanation": "This option does not provide a valid state for the circuit given the question context."
+        }
+      ],
+      "explanation": "The correct answer is Not possible. In an RLC circuit, efficiency is typically maximized at resonance due to minimized impedance, allowing maximum power transfer. However, a 50% efficiency implies significant power losses, which can occur in non-ideal conditions with substantial resistance or other non-ideal factors. Therefore, the statement that the circuit is in resonance with 50% efficiency is not feasible under normal circumstances, as resonance would imply higher efficiency. The option 'Not in resonance' could potentially be correct if the question was about what conditions might lead to 50% efficiency, but given the options, 'Not possible' is the most accurate choice. The option 'None of the above' is incorrect because the question does provide a possible scenario even if not ideal.",
+      "explanationImage": null,
+      "hints": [
+        "efficiency",
+        "RLC circuit"
+      ]
+    },
+    {
+      "text": "Analogues of chock coil in DC is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rheostat",
+          "isCorrect": true,
+          "explanation": "A rheostat is a variable resistor used to control current in DC circuits, similar to how a choke coil controls current in AC circuits."
+        },
+        {
+          "letter": "B",
+          "text": "Potential divider",
+          "isCorrect": false,
+          "explanation": "A potential divider is used to divide voltage, not control current, so it is not an analogue of a choke coil in a DC circuit."
+        },
+        {
+          "letter": "C",
+          "text": "Thermistor",
+          "isCorrect": false,
+          "explanation": "A thermistor is a temperature-sensitive resistor, which is not generally used to control current in the same way a choke coil does."
+        },
+        {
+          "letter": "D",
+          "text": "Resistor",
+          "isCorrect": false,
+          "explanation": "A resistor can limit current but does not have the variable control function similar to a choke coil."
+        }
+      ],
+      "explanation": "In AC circuits, a choke coil is used to limit the current without causing a significant loss of energy, thanks to its inductive properties. In DC circuits, a rheostat performs a similar function by providing variable resistance and thereby controlling the current flow. While a potential divider manages voltage and a thermistor responds to temperature changes, neither functions like a choke coil in controlling current. A simple resistor also lacks the variable control necessary to be an analogue to a choke coil.",
+      "explanationImage": null,
+      "hints": [
+        "Analogues",
+        "chock coil"
+      ]
+    },
+    {
+      "text": "Quality factor shows us:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energy stored per cycle",
+          "isCorrect": false,
+          "explanation": "This option only considers the energy stored, which is part of what the quality factor indicates."
+        },
+        {
+          "letter": "B",
+          "text": "Energy dissipated per cycle",
+          "isCorrect": false,
+          "explanation": "This option only considers the energy dissipated, which is also part of what the quality factor indicates."
+        },
+        {
+          "letter": "C",
+          "text": "Both energy stored and dissipated per cycle",
+          "isCorrect": true,
+          "explanation": "Correct. The quality factor is a measure of how much energy is stored versus how much is dissipated in each cycle."
+        },
+        {
+          "letter": "D",
+          "text": "Power loss",
+          "isCorrect": false,
+          "explanation": "Power loss is related to energy dissipation but does not directly define the quality factor."
+        }
+      ],
+      "explanation": "The quality factor (Q-factor) of an oscillating system is defined as the ratio of the energy stored to the energy dissipated per cycle. It indicates how underdamped an oscillator is and quantifies the sharpness of its resonance peak. A higher quality factor means the system retains energy for more cycles before it is dissipated as heat. Option A focuses solely on energy storage, while Option B focuses solely on energy dissipation. Option D refers to power loss, which is associated with energy dissipation but does not comprehensively define the quality factor. Therefore, Option C is correct as it covers both aspects.",
+      "explanationImage": null,
+      "hints": [
+        "Quality",
+        "factor"
+      ]
+    },
+    {
+      "text": "what is the quality factor of resistance?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "For a purely resistive circuit, the quality factor is zero because there is no reactive component to store energy."
+        },
+        {
+          "letter": "B",
+          "text": "∞",
+          "isCorrect": false,
+          "explanation": "Infinite quality factor is characteristic of an ideal LC circuit with no resistance, which is not the case here."
+        },
+        {
+          "letter": "C",
+          "text": "Infinite",
+          "isCorrect": false,
+          "explanation": "This is incorrect because a purely resistive circuit cannot have infinite quality factor."
+        },
+        {
+          "letter": "D",
+          "text": "Maximum but finite",
+          "isCorrect": false,
+          "explanation": "A maximum but finite quality factor would imply some form of energy storage, which is not present in a purely resistive circuit."
+        }
+      ],
+      "explanation": "The quality factor, or Q factor, is a measure of how underdamped an oscillator or resonator is, and characterizes a resonator's bandwidth relative to its center frequency. In a purely resistive circuit, there is no energy storage element (such as an inductor or capacitor) to create oscillations. Therefore, the quality factor is zero. Options B and C suggest infinite quality factors, which are incorrect as they would require an ideal LC circuit with no resistance. Option D suggests a finite but maximum quality factor, which would imply some energy storage capability, also not applicable to a purely resistive circuit.",
+      "explanationImage": null,
+      "hints": [
+        "quality",
+        "factor",
+        "resistance"
+      ]
+    },
+    {
+      "text": "Q factor depends on:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Resistance (R)",
+          "isCorrect": false,
+          "explanation": "Resistance (R) affects the Q factor by determining the rate of energy dissipation in the circuit."
+        },
+        {
+          "letter": "B",
+          "text": "Frequency",
+          "isCorrect": false,
+          "explanation": "Frequency impacts the Q factor as it is related to how quickly the circuit oscillates."
+        },
+        {
+          "letter": "C",
+          "text": "Inductance (L)",
+          "isCorrect": false,
+          "explanation": "Inductance (L) influences the Q factor as it affects the energy stored in the magnetic field of the circuit."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": "The Q factor depends on resistance, frequency, and inductance as they all contribute to the energy dynamics in the circuit."
+        }
+      ],
+      "explanation": "The Q factor, or quality factor, of an RLC circuit is a measure of how underdamped the circuit is and is defined as the ratio of the resonant frequency to the bandwidth of the circuit. It depends on several factors:Resistance (R): Higher resistance means greater energy loss, thus lowering the Q factor.Frequency: The Q factor is directly related to the resonant frequency, as it influences how sharply the circuit can resonate.Inductance (L): Inductance affects how much energy is stored in the magnetic field of the circuit and influences the Q factor.Therefore, the correct answer is All of the above, as the Q factor depends on all these parameters. The other options are not correct by themselves as they only consider one factor in isolation.",
+      "explanationImage": null,
+      "hints": [
+        "Q factor",
+        "depends"
+      ]
+    },
+    {
+      "text": "Sharpness of resonance is directly proportional to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Q factor",
+          "isCorrect": false,
+          "explanation": "The Q factor, or quality factor, is a measure of how underdamped an oscillator or resonator is, and it is directly proportional to the sharpness of resonance."
+        },
+        {
+          "letter": "B",
+          "text": "Inductance",
+          "isCorrect": false,
+          "explanation": "Inductance alone does not directly determine the sharpness of resonance; it is the combination of inductance and resistance that affects the Q factor."
+        },
+        {
+          "letter": "C",
+          "text": "Both A and B",
+          "isCorrect": true,
+          "explanation": "Both the Q factor and inductance influence the sharpness of resonance. The Q factor directly measures it, while inductance affects it through the circuit's overall impedance and energy storage capabilities."
+        },
+        {
+          "letter": "D",
+          "text": "R",
+          "isCorrect": false,
+          "explanation": "Resistance (R) is inversely proportional to the sharpness of resonance. Higher resistance leads to lower Q factor and thus a less sharp resonance."
+        }
+      ],
+      "explanation": "The sharpness of resonance in an electrical circuit is primarily determined by the Q factor, which is influenced by both inductance (L) and resistance (R). A higher Q factor indicates a sharper resonance, meaning the system is more selective in its frequency response. Inductance plays a role in determining the Q factor as it relates to energy storage in the magnetic field, while resistance relates to energy loss. Therefore, option C is correct because both the Q factor and inductance contribute to the sharpness of resonance. Option A is incorrect because it does not account for the role of inductance. Option B is incorrect as inductance alone is not sufficient. Option D is incorrect because resistance is inversely related to sharpness of resonance.",
+      "explanationImage": null,
+      "hints": [
+        "sharpness",
+        "resonance"
+      ]
+    },
+    {
+      "text": "A series combination of L and R is connected to a battery of emf E and negligible internal resistance, then the final value of AC current depends upon:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "L and R",
+          "isCorrect": false,
+          "explanation": "This option incorrectly assumes that only the inductor and resistor affect the final current, neglecting the role of the battery's emf."
+        },
+        {
+          "letter": "B",
+          "text": "E and L",
+          "isCorrect": false,
+          "explanation": "This option overlooks the influence of the resistor on the circuit's total impedance and resulting current."
+        },
+        {
+          "letter": "C",
+          "text": "E and R",
+          "isCorrect": false,
+          "explanation": "This option ignores the impact of the inductor on the circuit's behavior, especially in transient states."
+        },
+        {
+          "letter": "D",
+          "text": "L, R, and E",
+          "isCorrect": true,
+          "explanation": "This is the correct option because all three components—the emf (E), resistance (R), and inductance (L)—determine the final value of current in the circuit."
+        }
+      ],
+      "explanation": "In a series R-L circuit connected to a DC battery, the final value of the current is determined by the battery's emf (E), the resistance (R), and the inductance (L). When the circuit reaches a steady state, the inductor behaves like a short circuit, and the current is determined by Ohm's law, I = E/R. However, during transient states, the inductor affects the time it takes to reach this steady state. Therefore, all three components—L, R, and E—play a role in determining the final current. Option A is incorrect because it ignores the battery's emf, Option B neglects the resistor, and Option C disregards the inductor's effect.",
+      "explanationImage": null,
+      "hints": [
+        "series combination",
+        "battery",
+        "final value"
+      ]
+    },
+    {
+      "text": "A direct current of 5A is superimposed on an alternating current I = 10 sin ωt flowing through the wire. The effective value of the resulting current will be",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "15/√2 A",
+          "isCorrect": false,
+          "explanation": "This option incorrectly assumes a simple addition of peak AC and DC values, divided by √2."
+        },
+        {
+          "letter": "B",
+          "text": "5/√3 A",
+          "isCorrect": true,
+          "explanation": "This is the correct answer, calculated by considering both the DC and the RMS value of the AC component."
+        },
+        {
+          "letter": "C",
+          "text": "5/√5 A",
+          "isCorrect": false,
+          "explanation": "This is the incorrect answer, calculated by considering both the DC and the RMS value of the AC component."
+        },
+        {
+          "letter": "D",
+          "text": "15 A",
+          "isCorrect": false,
+          "explanation": "This option incorrectly assumes the total current is just the sum of the DC and peak AC currents without considering RMS."
+        }
+      ],
+      "explanation": "To find the effective current when DC and AC are combined:DC current = 5 AAC current = 10sin⁡(ωt)10/sin(omega t) → RMS = 10/√2 =5√2 AEffective current:Ieff=52+(52)2=25+50=75=53 AI_{eff} = √[5²+ (5/√2)²] = √{25 + 50} =√{75} = 5/√{3} A✅ Correct answer: 5/√3 A.",
+      "explanationImage": null,
+      "hints": [
+        "direct current",
+        "alternating current"
+      ]
+    },
+    {
+      "text": "A choke coil has:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "High inductance and high resistance",
+          "isCorrect": false,
+          "explanation": "A choke coil is designed to have high inductance but typically low resistance to minimize energy loss as heat."
+        },
+        {
+          "letter": "B",
+          "text": "Low inductance and low resistance",
+          "isCorrect": false,
+          "explanation": "A choke coil should have high inductance to effectively limit the current in AC circuits, making this option incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "High inductance and low resistance",
+          "isCorrect": true,
+          "explanation": "Correct. A choke coil is characterized by high inductance to impede changes in current and low resistance to reduce power loss."
+        },
+        {
+          "letter": "D",
+          "text": "Low inductance and high resistance",
+          "isCorrect": false,
+          "explanation": "A choke coil with low inductance would not effectively limit current, and high resistance would lead to significant energy loss."
+        }
+      ],
+      "explanation": "A choke coil is specifically designed to have high inductance so that it can resist changes in current, particularly in AC circuits. This property is crucial for its role in filtering and controlling alternating currents. The coil is made with low resistance to ensure that it does not dissipate much energy as heat, maintaining efficiency within the circuit. Options A and D are incorrect because a choke coil should not have high resistance, which would lead to power loss. Option B is incorrect because low inductance would not serve the purpose of limiting current fluctuations effectively.",
+      "explanationImage": null,
+      "hints": [
+        "choke",
+        "coil"
+      ]
+    },
+    {
+      "text": "If in a series L-C-R AC circuit, the voltages across L, C and R are V1, V2 and V3 respectively, then the voltage of the source is always:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Equal to V1 + V2 + V3",
+          "isCorrect": false,
+          "explanation": "This option assumes that voltages in a series circuit simply add up, which is not valid in an AC circuit with reactive components."
+        },
+        {
+          "letter": "B",
+          "text": "Equal to V1 - V2 + V3",
+          "isCorrect": false,
+          "explanation": "This option suggests a subtraction of voltages, which does not appropriately account for the phase differences in an AC circuit."
+        },
+        {
+          "letter": "C",
+          "text": "More than V1 + V2 + V3",
+          "isCorrect": false,
+          "explanation": "This suggests that the source voltage is more than the sum of individual voltages, which misunderstands how voltage behaves in an AC circuit."
+        },
+        {
+          "letter": "D",
+          "text": "none of these",
+          "isCorrect": true,
+          "explanation": "Correct. In a series L-C-R AC circuit, due to phase differences between voltages across L, C, and R, the source voltage is not simply the sum or difference of these voltages."
+        }
+      ],
+      "explanation": "In a series L-C-R AC circuit, the voltages across the inductor (L), capacitor (C), and resistor (R) have phase differences due to their reactive nature. The voltage across the inductor leads the current by 90 degrees, the voltage across the capacitor lags the current by 90 degrees, and the voltage across the resistor is in phase with the current. Therefore, the source voltage is not just the arithmetic sum of V1, V2, and V3 because of the phase differences. Instead, it is calculated using vector addition (phasor sum). The correct option is 'none of these' because the simple addition or subtraction of voltages without accounting for phase is incorrect. The incorrect options fail to consider these phase differences.",
+      "explanationImage": null,
+      "hints": [
+        "series",
+        "L-C-R",
+        "voltages"
+      ]
+    },
+    {
+      "text": "The value of quality factor is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "ωL/R",
+          "isCorrect": true,
+          "explanation": "This is the correct formula for the quality factor (Q-factor) in an RLC circuit, where ω is the angular frequency, L is the inductance, and R is the resistance."
+        },
+        {
+          "letter": "B",
+          "text": "1/ωRC",
+          "isCorrect": false,
+          "explanation": "This formula is related to the time constant of an RC circuit, not the quality factor."
+        },
+        {
+          "letter": "C",
+          "text": "√LC",
+          "isCorrect": false,
+          "explanation": "This expression relates to the resonant frequency of an LC circuit, not the quality factor."
+        },
+        {
+          "letter": "D",
+          "text": "L/R",
+          "isCorrect": false,
+          "explanation": "This formula neglects the angular frequency; hence it is not the correct expression for the quality factor."
+        }
+      ],
+      "explanation": "The quality factor, or Q-factor, of an RLC circuit is a dimensionless parameter that describes how underdamped the circuit is and its bandwidth relative to its center frequency. The correct formula is Q = ωL/R, where ω is the angular frequency, L is the inductance, and R is the resistance. This option correctly reflects the dependency of the quality factor on these parameters. Option B (1/ωRC) is incorrect because it pertains to the time constant in an RC circuit, not the quality factor. Option C (√LC) is incorrect because it represents the resonant frequency of an LC circuit. Option D (L/R) is incorrect because it omits the angular frequency, which is crucial in the formula for the quality factor.",
+      "explanationImage": null,
+      "hints": [
+        "value",
+        "quality",
+        "factor"
+      ]
+    },
+    {
+      "text": "For a series RLC circuit the power loss at resonance is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "V²/ωL",
+          "isCorrect": false,
+          "explanation": "This formula is not applicable for calculating power loss at resonance as it involves inductance."
+        },
+        {
+          "letter": "B",
+          "text": "I²Lω",
+          "isCorrect": false,
+          "explanation": "This expression includes the inductance and angular frequency, which are not relevant for calculating power loss at resonance."
+        },
+        {
+          "letter": "C",
+          "text": "I²R",
+          "isCorrect": true,
+          "explanation": "Correct. At resonance, the impedance of the circuit is purely resistive, and the power loss is given by the formula I²R."
+        },
+        {
+          "letter": "D",
+          "text": "V²/ωC",
+          "isCorrect": false,
+          "explanation": "This formula is not applicable for calculating power loss at resonance as it involves capacitance."
+        }
+      ],
+      "explanation": "In a series RLC circuit at resonance, the inductive and capacitive reactances cancel each other out, leaving only the resistance to determine the impedance. Therefore, the power loss at resonance is purely due to the resistance, and is calculated using the formula I2R. Option A and D involve inductance and capacitance, which are not relevant at resonance. Option B includes inductive reactance, which is not a factor in power loss at resonance.",
+      "explanationImage": null,
+      "hints": [
+        "series",
+        "RLC",
+        "resonance"
+      ]
+    },
+    {
+      "text": "To reduce the resonant frequency in an LCR circuit with a generator:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The generator frequency should be reduced",
+          "isCorrect": false,
+          "explanation": "Changing the generator frequency does not directly alter the circuit's resonant frequency, but it can help match the circuit to the generator frequency to achieve resonance."
+        },
+        {
+          "letter": "B",
+          "text": "Another capacitor should be added in parallel to the first",
+          "isCorrect": true,
+          "explanation": "Adding a capacitor in parallel increases the total capacitance, which decreases the resonant frequency of the circuit, as the resonant frequency is inversely proportional to the square root of capacitance."
+        },
+        {
+          "letter": "C",
+          "text": "The iron core of the inductor should be removed",
+          "isCorrect": false,
+          "explanation": "Removing the iron core from an inductor reduces the inductance, which would actually increase the resonant frequency, not decrease it."
+        },
+        {
+          "letter": "D",
+          "text": "The dielectric in the capacitor should be removed",
+          "isCorrect": false,
+          "explanation": "Removing the dielectric decreases the capacitance, which would lead to an increase in the resonant frequency, contrary to the desired effect."
+        }
+      ],
+      "explanation": "The resonant frequency of an LCR circuit is given by the formula f=1/2π√LC, where L is the inductance and C is the capacitance. To reduce the resonant frequency, the capacitance should be increased, which can be achieved by adding another capacitor in parallel, thus increasing the total capacitance. Option B is correct because it addresses this directly. Option A is incorrect because altering the generator frequency does not change the circuit's inherent resonant frequency. Option C is incorrect because removing the iron core decreases inductance and increases the resonant frequency. Option D is incorrect because removing the dielectric reduces capacitance, which also increases the resonant frequency.",
+      "explanationImage": null,
+      "hints": [
+        "resonant frequency",
+        "LCR circuit",
+        "generator"
+      ]
+    },
+    {
+      "text": "Which of the following parameters in series LCR circuit is analogous to driving force F(t) in mechanics?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Voltage V",
+          "isCorrect": true,
+          "explanation": "Voltage in an electrical circuit is similar to the driving force in a mechanical system as it is the source that provides energy to the system."
+        },
+        {
+          "letter": "B",
+          "text": "Inductance L",
+          "isCorrect": false,
+          "explanation": "Inductance L relates to the property of a circuit to oppose changes in current, not the driving force."
+        },
+        {
+          "letter": "C",
+          "text": "Capacitance C",
+          "isCorrect": false,
+          "explanation": "Capacitance C stores energy in the electric field, analogous to mass in mechanics, but not the driving force."
+        },
+        {
+          "letter": "D",
+          "text": "V2/L",
+          "isCorrect": false,
+          "explanation": "This expression represents energy, not the direct driving force in the circuit."
+        }
+      ],
+      "explanation": "In a series LCR circuit, the voltage V is analogous to the driving force F(t) in mechanics. Just as a force is needed to set a mass into motion in a mechanical system, voltage is needed to drive current through a circuit. The other options are components or expressions related to energy storage or resistance to change in the circuit but do not serve as the driving force.",
+      "explanationImage": null,
+      "hints": [
+        "series LCR circuit",
+        "driving force F(t)"
+      ]
+    },
+    {
+      "text": "Electromagnetic waves travel only through:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Material medium",
+          "isCorrect": false,
+          "explanation": "Electromagnetic waves do not require a material medium to travel. They can propagate through empty space, making this option incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Vacuum",
+          "isCorrect": false,
+          "explanation": "This option is partially correct as electromagnetic waves can travel through a vacuum, but it does not encompass other forms of propagation."
+        },
+        {
+          "letter": "C",
+          "text": "Oscillating electric and magnetic field",
+          "isCorrect": false,
+          "explanation": "This option describes the nature of electromagnetic waves but does not specify the mediums through which they can travel, making it incomplete."
+        },
+        {
+          "letter": "D",
+          "text": "All",
+          "isCorrect": true,
+          "explanation": "This is the correct answer because electromagnetic waves can propagate through a vacuum, through oscillating electric and magnetic fields, and do not require a material medium."
+        }
+      ],
+      "explanation": "Electromagnetic waves can propagate through a vacuum and do not need a material medium for their transmission. They consist of oscillating electric and magnetic fields that are perpendicular to each other and to the direction of wave propagation. Thus, although options A, B,and C may contain partial truths, they do not fully capture the breadth of how electromagnetic waves propagate. Therefore, the correct answer is 'All' since it encompasses all the mentioned forms of propagation.",
+      "explanationImage": null,
+      "hints": [
+        "Electromagnetic",
+        "travel"
+      ]
+    },
+    {
+      "text": "Electromagnetic waves do not transport:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energy",
+          "isCorrect": false,
+          "explanation": "Electromagnetic waves indeed transport energy. For example, sunlight carries energy from the sun to the Earth."
+        },
+        {
+          "letter": "B",
+          "text": "Charge",
+          "isCorrect": true,
+          "explanation": "Electromagnetic waves do not transport electric charge. They can affect charges, but do not carry them themselves."
+        },
+        {
+          "letter": "C",
+          "text": "Information",
+          "isCorrect": false,
+          "explanation": "Electromagnetic waves can transport information, such as in communication systems where they carry broadcast signals."
+        },
+        {
+          "letter": "D",
+          "text": "Momentum",
+          "isCorrect": false,
+          "explanation": "Electromagnetic waves can carry momentum. This is evident in phenomena such as radiation pressure."
+        }
+      ],
+      "explanation": "The correct answer is Option B: charge. Electromagnetic waves are oscillations of electric and magnetic fields and do not carry electric charge. While they can influence charged particles by inducing currents or forces, they themselves do not transport charge.Option A: energy is incorrect because electromagnetic waves do transport energy. For instance, light from the sun is energy that travels through space.Option C: information is incorrect because electromagnetic waves can be used to transmit information, as seen in radio and television signals.Option D: momentum is incorrect because electromagnetic waves also carry momentum, impacting objects they encounter, as demonstrated by the pressure exerted by sunlight on solar sails.",
+      "explanationImage": null,
+      "hints": [
+        "Electromagnetic",
+        "waves"
+      ]
+    },
+    {
+      "text": "Displacement current is continuous:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "When the electric field is changing in the circuit",
+          "isCorrect": true,
+          "explanation": "This is the correct option because displacement current arises when there is a change in the electric field over time, as described by Maxwell's equations."
+        },
+        {
+          "letter": "B",
+          "text": "When the magnetic field is changing in the circuit",
+          "isCorrect": false,
+          "explanation": "This is incorrect because a changing magnetic field induces an electromotive force and a conventional current, not a displacement current."
+        },
+        {
+          "letter": "C",
+          "text": "In both types of fields",
+          "isCorrect": false,
+          "explanation": "This is incorrect because displacement current specifically relates to changing electric fields, not both electric and magnetic fields."
+        },
+        {
+          "letter": "D",
+          "text": "Through wires and resistance only",
+          "isCorrect": false,
+          "explanation": "This is incorrect because displacement current is not associated with physical movement of charges through wires and resistances, but rather with changes in the electric field."
+        }
+      ],
+      "explanation": "The correct answer is Option A: When the electric field is changing in the circuit. Displacement current is a concept introduced by James Clerk Maxwell, which occurs when there is a time-varying electric field. It allows Maxwell's equations to describe electromagnetic waves, including light, as it accounts for the continuity of current in circuits with capacitors. Option B is incorrect because a changing magnetic field relates to Faraday's law of induction, not displacement current. Option C is incorrect because displacement current is specifically for changing electric fields only. Option D is incorrect because displacement current is not about the flow of charge through wires or resistance but about the change in the electric field.",
+      "explanationImage": null,
+      "hints": [
+        "Displacement current",
+        "continuous"
+      ]
+    },
+    {
+      "text": "According to Maxwell's hypothesis, a changing electric field gives rise to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Magnetic field",
+          "isCorrect": true,
+          "explanation": "According to Maxwell's hypothesis, a changing electric field induces a magnetic field, which is a fundamental principle of electromagnetism."
+        },
+        {
+          "letter": "B",
+          "text": "Electric field",
+          "isCorrect": false,
+          "explanation": "A changing electric field does not give rise to another electric field; instead, it can induce a magnetic field."
+        },
+        {
+          "letter": "C",
+          "text": "An e.m.f",
+          "isCorrect": false,
+          "explanation": "Electromotive force (e.m.f) is induced by a changing magnetic field, not by a changing electric field."
+        },
+        {
+          "letter": "D",
+          "text": "Pressure radiant",
+          "isCorrect": false,
+          "explanation": "Pressure radiant is not a recognized concept related to Maxwell's hypothesis or electromagnetism."
+        }
+      ],
+      "explanation": "Maxwell's hypothesis postulates that a changing electric field generates a magnetic field. This is a core concept in electromagnetism, encapsulated in one of Maxwell's equations, which describes how time-varying electric fields are related to magnetic fields. Option A, 'Magnetic field,' is correct because it directly aligns with this principle. Option B is incorrect because a changing electric field does not produce another electric field. Option C is incorrect because an electromotive force (e.m.f) is typically induced by a changing magnetic field, not a changing electric field. Option D is incorrect as 'pressure radiant' is not relevant to electromagnetic theory.",
+      "explanationImage": null,
+      "hints": [
+        "Maxwell's",
+        "changing",
+        "electric field"
+      ]
+    },
+    {
+      "text": "What is the average value of sinusoidal voltage that has a peak value of 15 volts?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0 V",
+          "isCorrect": true,
+          "explanation": "The average value of a sinusoidal voltage over a complete cycle is 0 V because the positive and negative halves of the cycle cancel each other out."
+        },
+        {
+          "letter": "B",
+          "text": "9.56 V",
+          "isCorrect": false,
+          "explanation": "This value might be confused with the RMS (Root Mean Square) value of the sinusoidal voltage, but it is not correct for the average."
+        },
+        {
+          "letter": "C",
+          "text": "10.6 V",
+          "isCorrect": false,
+          "explanation": "This value is incorrect as it does not represent the average value of a sinusoidal waveform over a complete cycle."
+        },
+        {
+          "letter": "D",
+          "text": "19.1 V",
+          "isCorrect": false,
+          "explanation": "This value is incorrect and does not relate to any standard calculations for sinusoidal waveforms."
+        }
+      ],
+      "explanation": "The average value of a sinusoidal voltage over a complete cycle is 0 V. This is because the positive half-cycle exactly cancels out the negative half-cycle. Therefore, when you calculate the average over a full period, the result is zero. Option A is correct. Other options such as 9.56 V, 10.6 V, and 19.1 V do not apply to the average value of a sinusoidal waveform. They might confuse with other calculations like RMS values or peak values, but they do not represent the average over a full cycle.",
+      "explanationImage": null,
+      "hints": [
+        "average value",
+        "sinusoidal voltage"
+      ]
+    },
+    {
+      "text": "In pure inductance, the average power dissipated is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This is incorrect. In a pure inductive circuit, the power factor is zero, leading to zero average power dissipation."
+        },
+        {
+          "letter": "B",
+          "text": "Greater than 1",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Power values in a purely inductive circuit do not exceed 1."
+        },
+        {
+          "letter": "C",
+          "text": "Less than 1",
+          "isCorrect": false,
+          "explanation": "This is incorrect. While the peak power can vary, the average power dissipated in a pure inductive circuit is actually zero."
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "Correct. In a pure inductive circuit, the average power dissipated is zero because the voltage and current are 90 degrees out of phase."
+        }
+      ],
+      "explanation": "In a purely inductive circuit, the current lags the voltage by 90 degrees, resulting in a power factor of cos(90°) = 0. This means that no real power is consumed, and the average power dissipation is zero. Option D is correct because it accurately represents this scenario. The other options are incorrect because they suggest that power is dissipated, which is not the case in pure inductance.",
+      "explanationImage": null,
+      "hints": [
+        "pure",
+        "inductance",
+        "average power"
+      ]
+    },
+    {
+      "text": "An A.C varies with time (t) sec as I=4 sin(200πt), the r.m.s value of current in \"A\" is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it does not account for the peak value of the current in the calculation of the r.m.s. value."
+        },
+        {
+          "letter": "B",
+          "text": "4√2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it represents the peak current multiplied by √2, rather than divided by it, leading to an overestimation of the r.m.s. value."
+        },
+        {
+          "letter": "C",
+          "text": "4/√2",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The r.m.s. value is calculated by dividing the peak current (4 A) by √2, yielding 4/√2 A."
+        },
+        {
+          "letter": "D",
+          "text": "2/√2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it does not correctly apply the formula for r.m.s. value and uses an incorrect peak current value."
+        }
+      ],
+      "explanation": "The root mean square (r.m.s.) value of an alternating current is derived from its peak value using the formula Irms = Ipeak / √2. In this case, the peak current is given as 4 A (from the equation I=4 sin(200πt)). Thus, the calculation for the r.m.s. value is:Irms = 4 / √2 = 4/√2 A.Option A (2) is incorrect because it does not reflect the proper calculation. Option B (4√2) incorrectly applies multiplication instead of division. Option D (2/√2) also misrepresents the peak value, leading to an inaccurate result.",
+      "explanationImage": null,
+      "hints": [
+        "A.C varies",
+        "I=4 sin(200πt)"
+      ]
+    },
+    {
+      "text": "The resonance frequency of an LCR circuit is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/2π√LC",
+          "isCorrect": true,
+          "explanation": "This is the correct formula for the resonance frequency of an LCR circuit, where 'L' is the inductance and 'C' is the capacitance."
+        },
+        {
+          "letter": "B",
+          "text": "2π√LC",
+          "isCorrect": false,
+          "explanation": "This formula is incorrect. It does not accurately represent the relationship between inductance, capacitance, and resonance frequency."
+        },
+        {
+          "letter": "C",
+          "text": "1/2πLC",
+          "isCorrect": false,
+          "explanation": "This formula is incorrect because it lacks the square root operation, which is crucial for calculating resonance frequency."
+        },
+        {
+          "letter": "D",
+          "text": "1/2π√L",
+          "isCorrect": false,
+          "explanation": "This is not correct answer as it is not the correct formula of resonance frequency."
+        }
+      ],
+      "explanation": "The resonance frequency of an LCR circuit is given by the formulaf = 1/2π√(LC)This formula arises from the balance of inductive and capacitive reactance at resonance, where 'L' is the inductance and 'C' is the capacitance. Option A correctly represents this relationship. Option B incorrectly places the 2π factor outside the fraction, which is not standard for resonance frequency. Option C omits the square root, which is essential for the correct computation of resonance frequency. Option D is a duplicate of Option A and is not considered correct in this context due to redundancy.",
+      "explanationImage": null,
+      "hints": [
+        "resonance frequency",
+        "LCR circuit"
+      ]
+    },
+    {
+      "text": "The phase angle between the voltage and current in A.C through a pure inductor is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0°",
+          "isCorrect": false,
+          "explanation": "This would be the phase angle for a purely resistive AC circuit, where voltage and current are in phase."
+        },
+        {
+          "letter": "B",
+          "text": "90°",
+          "isCorrect": true,
+          "explanation": "In a pure inductive circuit, the current lags the voltage by 90° because the inductor opposes changes in current."
+        },
+        {
+          "letter": "C",
+          "text": "60°",
+          "isCorrect": false,
+          "explanation": "A 60° phase difference is not characteristic of a pure inductor but might be seen in circuits with both reactive and resistive elements."
+        },
+        {
+          "letter": "D",
+          "text": "180°",
+          "isCorrect": false,
+          "explanation": "A 180° phase difference would indicate that voltage and current are completely out of phase, which occurs in a purely capacitive circuit."
+        }
+      ],
+      "explanation": "The correct answer is 90°. In a purely inductive AC circuit, the current lags the voltage by 90 degrees. This is because inductors resist changes in current, creating a phase difference where the peak current occurs after the peak voltage. Option A (0°) would be correct for a purely resistive circuit, where voltage and current are in phase. Option C (60°) might occur in more complex circuits that have both resistive and inductive components. Option D (180°) describes a purely capacitive circuit, where current leads voltage by 180 degrees.",
+      "explanationImage": null,
+      "hints": [
+        "phase angle",
+        "pure inductor"
+      ]
+    },
+    {
+      "text": "Which one of the following is not electromagnetic in nature?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "X-rays",
+          "isCorrect": false,
+          "explanation": "X-rays follow the properties of EMW. Hence, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Gamma rays",
+          "isCorrect": false,
+          "explanation": "Gamma rays follow all the properties of EMW. Hence, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Cathode rays",
+          "isCorrect": true,
+          "explanation": "EM waves travel with a constant velocity of 3.00x10⁸ ms-1 in vacuum. They are deflected neither by the electric field, nor by the magnetic field. These waves do not require a medium to travel from one place to another. As cathode rays negate all these properties, they are not considered as EM waves. Hence, this option is correct."
+        },
+        {
+          "letter": "D",
+          "text": "Infrared rays",
+          "isCorrect": false,
+          "explanation": "Infrared rays follow all the properties of EMW. Hence, this option is incorrect."
+        }
+      ],
+      "explanation": "Cathode rays EM waves travel with a constant velocity of 3.00x10⁸ ms-1 in vacuum. They are deflected neither by the electric field, nor by the magnetic field. These waves do not require a medium to travel from one place to another. As cathode rays negate all these properties, they are not considered as EM waves.",
+      "explanationImage": null,
+      "hints": [
+        "not",
+        "electromagnetic"
+      ]
+    },
+    {
+      "text": "The wavelength associated with an electron accelerated through a potential difference of 100V is nearly:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Dawn of Modern Physics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 Ao",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It's a common distractor that simply uses the numerical value of the voltage (100 V) as the wavelength. The relationship between accelerating voltage and wavelength is an inverse square root, not a direct one-to-one match. A wavelength of 100 Å would correspond to a very small accelerating voltage of about 0.015 V."
+        },
+        {
+          "letter": "B",
+          "text": "123 Ao",
+          "isCorrect": true,
+          "explanation": "This is considered the intended answer, although it contains a typographical error. The correct calculation yields 1.23 Å. This option has the correct digits (\"123\") but is 100 times too large, likely due to a misplaced decimal point. On a multiple-choice test, this would be the expected choice despite the error."
+        },
+        {
+          "letter": "C",
+          "text": "135 Ao",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It is a distractor value that does not result from the correct application of the de Broglie wavelength formula. A wavelength of 135 Å would correspond to an extremely low accelerating voltage of about 0.008 V, which is not what the problem states."
+        },
+        {
+          "letter": "D",
+          "text": "140 Ao",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect. Like option C, it is an arbitrary value designed to be a distractor. It does not align with the calculated wavelength of 1.23 Å and would correspond to a voltage of less than 0.01 V."
+        }
+      ],
+      "explanation": "This is the following solution:",
+      "explanationImage": null,
+      "hints": [
+        "wavelength",
+        "potential difference"
+      ]
+    },
+    {
+      "text": "If λv, λx and λm represent the wavelengths of visible light, X-rays and microwaves respectively, then:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "λm > λx > λv",
+          "isCorrect": false,
+          "explanation": "This statement says microwaves have a greater wavelength than X-rays, which is correct.But it also says X-rays have a greater wavelength than visible light, which is incorrect.X-rays have a much shorter wavelength than visible light."
+        },
+        {
+          "letter": "B",
+          "text": "λm > λv > λx",
+          "isCorrect": true,
+          "explanation": "The wavelength (λ) of electromagnetic waves follows the order:Radio waves > Microwaves > Infrared > Visible light > Ultraviolet > X-rays > Gamma rays."
+        },
+        {
+          "letter": "C",
+          "text": "λv > λx > λm",
+          "isCorrect": false,
+          "explanation": "This statement says that the wavelength of visible light is greater than that of X-rays, which is correct.But it also says that visible light has a greater wavelength than microwaves, which is wrong because microwaves have a much longer wavelength than visible light."
+        },
+        {
+          "letter": "D",
+          "text": "λv > λm > λx",
+          "isCorrect": false,
+          "explanation": "This statement says visible light has a greater wavelength than microwaves, which is incorrect.Microwaves have a wavelength in the range of millimeters to centimeters, whereas visible light has a much smaller wavelength (in nanometers)."
+        }
+      ],
+      "explanation": "The electromagnetic spectrum is generally divided into seven regions, in order of decreasing wavelength and increasing energy and frequency. The decreasing order of the wavelengths of electromagnetic waves would be; radio waves, microwaves, infrared (IR), visible light, ultraviolet (UV) light, X-rays, and gamma-rays. Hence the correct answer would be λm>λv>λx",
+      "explanationImage": null,
+      "hints": [
+        "wavelengths",
+        "represent"
+      ]
+    },
+    {
+      "text": "An electromagnetic wave is propagating along Y-axis. Then:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Oscillating electric field is along X-axis and oscillating magnetic field is along Y-axis",
+          "isCorrect": false,
+          "explanation": "An electromagnetic wave is propagating along Y-axis, then oscillating electric field is along Z-axis and oscillating magnetic field is along X-axis. So this is incorrect ."
+        },
+        {
+          "letter": "B",
+          "text": "Oscillating electric field is along Z-axis and oscillating magnetic field is along X-axis",
+          "isCorrect": true,
+          "explanation": "An electromagnetic wave is propagating along Y-axis, then oscillating electric field is along Z-axis and oscillating magnetic field is along X-axis. Hence, this option is correct."
+        },
+        {
+          "letter": "C",
+          "text": "Both oscillating electric and magnetic fields are along Y-axis, but phase difference between them is 90°",
+          "isCorrect": false,
+          "explanation": "An electromagnetic wave is propagating along Y-axis, then oscillating electric field is along Z-axis and oscillating magnetic field is along X-axis. So this is incorrect ."
+        },
+        {
+          "letter": "D",
+          "text": "Both oscillating electric and magnetic fields are mutually perpendicular in arbitrary directions",
+          "isCorrect": false,
+          "explanation": "An electromagnetic wave is propagating along Y-axis, then oscillating electric field is along Z-axis and oscillating magnetic field is along X-axis. So this is incorrect ."
+        }
+      ],
+      "explanation": "An electromagnetic wave is propagating along Y-axis, then oscillating electric field is along Z-axis and oscillating magnetic field is along X-axis.",
+      "explanationImage": null,
+      "hints": [
+        "Y-axis",
+        "electromagnetic"
+      ]
+    },
+    {
+      "text": "Which of the following has zero average value in a plane electromagnetic wave:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kinetic energy",
+          "isCorrect": false,
+          "explanation": "Kinetic energy is the energy possessed by an object due to its motion. It depends on both the mass of the object and its velocity. Any object in motion, whether it's a car, a planet, or a particle, has kinetic energy."
+        },
+        {
+          "letter": "B",
+          "text": "Magnetic field",
+          "isCorrect": false,
+          "explanation": "A magnetic field is a region of space where a magnetic force can be experienced by a moving electric charge or magnetic material. It is produced by magnetic sources such as magnets, electric currents, and changing electric fields."
+        },
+        {
+          "letter": "C",
+          "text": "Electric field",
+          "isCorrect": false,
+          "explanation": "An electric field is a region of space around a charged particle or object where other charged particles experience a force. It represents the influence that a charge exerts on the space around it. The strength and direction of the electric field at any point is determined by the amount of charge and the distance from the charge."
+        },
+        {
+          "letter": "D",
+          "text": "Both (b) and (c)",
+          "isCorrect": true,
+          "explanation": "In an electromagnetic wave, the average value of the electric field or magnetic field is zero, because electromagnetic waves are sinusoids and the average of a sinusoid over 1 period is zero."
+        }
+      ],
+      "explanation": "In an electromagnetic wave, the average value of the electric field or magnetic field is zero, because electromagnetic waves are sinusoids and the average of a sinusoid over 1 period is zero.",
+      "explanationImage": null,
+      "hints": [
+        "average value",
+        "electromagnetic"
+      ]
+    },
+    {
+      "text": "Electromagnetic waves are transverse in nature is evident by:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Polarization",
+          "isCorrect": true,
+          "explanation": "Only transverse waves can be polarized. Longitudinal waves cannot be polarized. The reason behind this is that the transverse waves can vibrate in all directions perpendicular to the direction of propagation. It is therefore feasible to continue the vibration to a single plane. On the other hand, longitudinal waves have vibrations along a single line only, and it is therefore not feasible to confine them to a single plane."
+        },
+        {
+          "letter": "B",
+          "text": "Interference",
+          "isCorrect": false,
+          "explanation": "Only transverse waves can be polarized. Longitudinal waves cannot be polarized. Other also follow interference so this make this option incorrect as it is not evident."
+        },
+        {
+          "letter": "C",
+          "text": "Reflection",
+          "isCorrect": false,
+          "explanation": "Only transverse waves can be polarized. Longitudinal waves cannot be polarized. Other also show reflection this make this option incorrect as it is not evident."
+        },
+        {
+          "letter": "D",
+          "text": "Diffraction",
+          "isCorrect": false,
+          "explanation": "Only transverse waves can be polarized. Longitudinal waves cannot be polarized. Other also follow diffraction so this make this option incorrect as itis not evident."
+        }
+      ],
+      "explanation": "Only transverse waves can be polarized. Longitudinal waves cannot be polarized. The reason behind this is that the transverse waves can vibrate in all directions perpendicular to the direction of propagation. It is therefore feasible to continue the vibration to a single plane. On the other hand, longitudinal waves have vibrations along a single line only, and it is therefore not feasible to confine them to a single plane.",
+      "explanationImage": null,
+      "hints": [
+        "Electromagnetic",
+        "transverse"
+      ]
+    },
+    {
+      "text": "An electric charge oscillating with a frequency of 1 kilo cycles second can radiate electromagnetic waves of wavelength:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 km",
+          "isCorrect": false,
+          "explanation": "It is incorrect as it is not according to calculations."
+        },
+        {
+          "letter": "B",
+          "text": "200 km",
+          "isCorrect": false,
+          "explanation": "It is incorrect as it is not according to calculations."
+        },
+        {
+          "letter": "C",
+          "text": "300 km",
+          "isCorrect": true,
+          "explanation": "This is the following solution:Wavelength = c/v=3×10⁸ms-¹/1000s-¹=3×10⁵=300Km"
+        },
+        {
+          "letter": "D",
+          "text": "400 km",
+          "isCorrect": false,
+          "explanation": "It is incorrect as it is not according to calculations."
+        }
+      ],
+      "explanation": "This is the following solution:Wavelength = c/v=3×10⁸ms-¹/1000s-¹=3×10⁵=300Km",
+      "explanationImage": null,
+      "hints": [
+        "electric charge oscillating",
+        "frequency of 1 kilo cycles second",
+        "wavelength"
+      ]
+    },
+    {
+      "text": "The waves which can travel directly along surface of the earth are known as:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ground waves",
+          "isCorrect": true,
+          "explanation": "The waves which can travel directly along surface of the earth are known as ground waves. The ground wave is the preferred propagation type for long distance communication using frequencies below 3 MHz (the earth behaves as a conductor for all frequencies below 5 MHz). The ground wave is also used for short distance communications using frequencies between 3 and 30 MHz.Hence, this option is correct."
+        },
+        {
+          "letter": "B",
+          "text": "X-ray",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given. X-rays are a type of EMW waves."
+        },
+        {
+          "letter": "C",
+          "text": "α − rays",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as they are particle wave."
+        },
+        {
+          "letter": "D",
+          "text": "Sky waves",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given.They are type of electromagnetic waves."
+        }
+      ],
+      "explanation": "The waves which can travel directly along surface of the earth are known as ground waves. The ground wave is the preferred propagation type for long distance communication using frequencies below 3 MHz (the earth behaves as a conductor for all frequencies below 5 MHz). The ground wave is also used for short distance communications using frequencies between 3 and 30 MHz.",
+      "explanationImage": null,
+      "hints": [
+        "directly",
+        "surface",
+        "along"
+      ]
+    },
+    {
+      "text": "The distance upto which T.V. signals can be received depend upon:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Radius of the earth",
+          "isCorrect": false,
+          "explanation": "The distance upto which T.V. signals D=√ 2hR. Where R =radius of the earth and h = height of the antenna.This option is correct according to formula."
+        },
+        {
+          "letter": "B",
+          "text": "Height of the antenna",
+          "isCorrect": false,
+          "explanation": "The distance upto which T.V. signals D=√ 2hR. Where R =radius of the earth and h = height of the antenna. So this is also correct according to the formula."
+        },
+        {
+          "letter": "C",
+          "text": "Radius of the earth and also height of the antenna",
+          "isCorrect": true,
+          "explanation": "The distance upto which T.V. signals D=√ 2hR. Where R =radius of the earth and h = height of the antenna.So both option A and B are coreect."
+        },
+        {
+          "letter": "D",
+          "text": "None of above",
+          "isCorrect": false,
+          "explanation": "As Option C is correct so it can't be correct."
+        }
+      ],
+      "explanation": "The distance upto which T.V. signals D=√ 2hR. Where R =radius of the earth and h = height of the antenna.",
+      "explanationImage": null,
+      "hints": [
+        "distance",
+        "T.V. signals"
+      ]
+    },
+    {
+      "text": "The infra-red spectrum lies between:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Radio wave and micro-wave region",
+          "isCorrect": false,
+          "explanation": "The infrared (IR) spectrum lies between visible light and the micro-waves on the electromagnetic spectrum. It has a longer wavelength and lower frequency than visible light but a shorter wavelength and higher frequency than micro-waves.So it is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "The micro-wave and visible region",
+          "isCorrect": true,
+          "explanation": "The infrared (IR) spectrum lies between visible light and the micro-waves on the electromagnetic spectrum. It has a longer wavelength and lower frequency than visible light but a shorter wavelength and higher frequency than micro-waves."
+        },
+        {
+          "letter": "C",
+          "text": "The visible and ultra violet region",
+          "isCorrect": false,
+          "explanation": "The infrared (IR) spectrum lies between visible light and the micro-waves on the electromagnetic spectrum. It has a longer wavelength and lower frequency than visible light but a shorter wavelength and higher frequency than micro-waves.So it is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "The ultra violet and the X-ray region",
+          "isCorrect": false,
+          "explanation": "The infrared (IR) spectrum lies between visible light and the micro-waves on the electromagnetic spectrum. It has a longer wavelength and lower frequency than visible light but a shorter wavelength and higher frequency than micro-waves.So it is incorrect."
+        }
+      ],
+      "explanation": "The infrared (IR) spectrum lies between visible light and the micro-waves on the electromagnetic spectrum. It has a longer wavelength and lower frequency than visible light but a shorter wavelength and higher frequency than micro-waves.",
+      "explanationImage": null,
+      "hints": [
+        "infra-red",
+        "spectrum"
+      ]
+    },
+    {
+      "text": "Which of the following electromagnetic waves has minimum frequency?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Radio wave",
+          "isCorrect": true,
+          "explanation": "Radio waves have a least frequency that is about 10 Hz. So this option is correct."
+        },
+        {
+          "letter": "B",
+          "text": "Ultrasonic wave",
+          "isCorrect": false,
+          "explanation": "Radio waves have a least frequency that is about 10 Hz. So it is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Microwave",
+          "isCorrect": false,
+          "explanation": "It is incorrect according to given explanation."
+        },
+        {
+          "letter": "D",
+          "text": "Audible wave",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the value of frequencies of waves."
+        }
+      ],
+      "explanation": "Radio waves have a least frequency that is about 10 Hz.",
+      "explanationImage": null,
+      "hints": [
+        "electromagnetic waves",
+        "minimum frequency?"
+      ]
+    },
+    {
+      "text": "Which of the following statements about electromagnetic waves is/are correct? (1) X-rays in vacuum travel faster than light waves in vacuum.(2) The energy of X-ray photon is greater than that of a light photon(3) Light can be polarised but X-ray cannot.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 and 2",
+          "isCorrect": false,
+          "explanation": "Statement 2 is correct and 1 is incorrect so this option is wrong."
+        },
+        {
+          "letter": "B",
+          "text": "2 and 3",
+          "isCorrect": false,
+          "explanation": "Statement 2 is correct and Statement 3 is incorrect so this option is wrong."
+        },
+        {
+          "letter": "C",
+          "text": "1, 2 and 3",
+          "isCorrect": false,
+          "explanation": "Only 1 of the given statement is correct so this option is also wrong."
+        },
+        {
+          "letter": "D",
+          "text": "2 only",
+          "isCorrect": true,
+          "explanation": "Since X-ray is an electromagnetic wave, they travel with same speed of light in the vacuum that is 3x106 m/s"
+        }
+      ],
+      "explanation": "Since X-ray is an electromagnetic wave, they travel with same speed of light in the vacuum that is 3x106 m/s",
+      "explanationImage": null,
+      "hints": [
+        "electromagnetic",
+        "waves",
+        "statements"
+      ]
+    },
+    {
+      "text": "To double the covering range of a T.V. transmitter tower, its height should be made:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Two times",
+          "isCorrect": false,
+          "explanation": "It is incorrect according to related calculations."
+        },
+        {
+          "letter": "B",
+          "text": "Four times",
+          "isCorrect": true,
+          "explanation": "Here is the explanation:D=√2hr where D=range of wave transmitted, h=height of the tower.Hence we can conclude that D is directly proportional to √h therefore we have to increase the height 4 times in order to increase the distance 2 times."
+        },
+        {
+          "letter": "C",
+          "text": "√2 times",
+          "isCorrect": false,
+          "explanation": "It is incorrect according to related calculations."
+        },
+        {
+          "letter": "D",
+          "text": "8 times",
+          "isCorrect": false,
+          "explanation": "It is incorrect according to related calculations."
+        }
+      ],
+      "explanation": "This is the following solution:D=√2hr where D=range of wave transmitted, h=height of the tower.Hence we can conclude that D is directly proportional to √h therefore we have to increase the height 4 times in order to increase the distance 2 times.",
+      "explanationImage": null,
+      "hints": [
+        "covering range of a T.V. transmitter",
+        "height"
+      ]
+    },
+    {
+      "text": "In an electromagnetic wave:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Power is transmitted along the magnetic field",
+          "isCorrect": false,
+          "explanation": "Since the propagation of the wave is in direction perpendicular both electricand magnetic field therefore the transmission of power is also in the direction of perpendicular to both magnetic and electric field."
+        },
+        {
+          "letter": "B",
+          "text": "Power is transmitted along the electric field",
+          "isCorrect": false,
+          "explanation": "Since the propagation of the wave is in direction perpendicular both electric and magnetic field therefore the transmission of power is also in the direction of perpendicular to both magnetic and electric field."
+        },
+        {
+          "letter": "C",
+          "text": "Power is equally transferred along the electric and magnetic fields",
+          "isCorrect": false,
+          "explanation": "Since the propagation of the wave is in direction perpendicular both electric and magnetic field therefore the transmission of power is also in the direction of perpendicular to both magnetic and electric field."
+        },
+        {
+          "letter": "D",
+          "text": "Power is transmitted in a direction perpendicular to both the fields",
+          "isCorrect": true,
+          "explanation": "Since the propagation of the wave is in direction perpendicular both electric and magnetic field therefore the transmission of power is also in the direction of perpendicular to both magnetic and electric field."
+        }
+      ],
+      "explanation": "Since the propagation of the wave is in direction perpendicular both electric and magnetic field therefore the transmission of power is also in the direction of perpendicular to both magnetic and electric field.",
+      "explanationImage": null,
+      "hints": [
+        "electromagnetic",
+        "wave"
+      ]
+    },
+    {
+      "text": "The electric field 'E' and magnetic field 'B' in electromagnetic waves are:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parallel to each other",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as both fields are perpendicular to each other."
+        },
+        {
+          "letter": "B",
+          "text": "Inclined at an angle of 45o",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as both fields are perpendicular to each other."
+        },
+        {
+          "letter": "C",
+          "text": "Perpendicular to each other",
+          "isCorrect": true,
+          "explanation": "The electric and magnetic fields (E and B) are in phase, and they are perpendicular to one another and the direction of propagation. For clarity, the waves are shown only along one direction, but they propagate out in other directions too."
+        },
+        {
+          "letter": "D",
+          "text": "Opposite to each other",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as both fields are perpendicular to each other."
+        }
+      ],
+      "explanation": "The electric and magnetic fields (E and B) are in phase, and they are perpendicular to one another and the direction of propagation. For clarity, the waves are shown only along one direction, but they propagate out in other directions too.",
+      "explanationImage": null,
+      "hints": [
+        "electric field",
+        "magnetic field"
+      ]
+    },
+    {
+      "text": "Source of an electromagnetic wave is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A charge moving with constant velocity",
+          "isCorrect": false,
+          "explanation": "A charge moving with constant velocity has zero acceleration and the condition for production of EMW is an accelerated change. Hence this option is incorrect. It produces a constant magnetic field but the field does not radiate out."
+        },
+        {
+          "letter": "B",
+          "text": "A charge at rest",
+          "isCorrect": false,
+          "explanation": "A charge at rest cannot be a source of EMW. Hence, this option is incorrect. An accelerated charge can be a source of EMW. A charge at rest only produces electric field."
+        },
+        {
+          "letter": "C",
+          "text": "A charge moving in a circular orbit",
+          "isCorrect": true,
+          "explanation": "Charge moving in a circular orbit will have a variable acceleration as well as variable direction producing magnetic as well as electric field. Hence, this option is correct."
+        },
+        {
+          "letter": "D",
+          "text": "Charges cannot produce an EM wave",
+          "isCorrect": false,
+          "explanation": "A charge at rest cannot produce EMW but an oscillating or accelerated charge can produce EMW. Hence, this option is incorrect."
+        }
+      ],
+      "explanation": "Charge moving in a circular orbit will have a variable acceleration as well as variable direction producing magnetic as well as electric field.",
+      "explanationImage": null,
+      "hints": [
+        "Source",
+        "electromagnetic"
+      ]
+    },
+    {
+      "text": "The electromagnetic radiations are in descending order of wavelength in the following sequence:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Infra-red waves, radio waves, X-rays, visible light rays",
+          "isCorrect": false,
+          "explanation": "Radiowaves (103), infrared waves (10–5), visible light rays (10–6), X-rays (10–10).Hence it is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Radio-waves, infra-red waves, visible light rays, X-rays",
+          "isCorrect": true,
+          "explanation": "Radiowaves (103), infrared waves (10–5), visible light rays (10–6), X-rays (10–10)."
+        },
+        {
+          "letter": "C",
+          "text": "Radio waves, visible light rays, infra-red waves, X-rays",
+          "isCorrect": false,
+          "explanation": "Radiowaves (103), infrared waves (10–5), visible light rays (10–6), X-rays (10–10).Hence it is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "X-rays, visible light rays, infra-red wave, Radio-waves",
+          "isCorrect": false,
+          "explanation": "Radiowaves (103), infrared waves (10–5), visible light rays (10–6), X-rays (10–10).Hence it is not correct."
+        }
+      ],
+      "explanation": "Radio-waves (103), infra-red waves (10–5), visible light rays (10–6), X-rays (10–10).",
+      "explanationImage": null,
+      "hints": [
+        "descending order",
+        "electromagnetic radiations"
+      ]
+    },
+    {
+      "text": "Find the wavelength of electromagnetic waves of frequency 3x1012 Hz in free space.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10-4 m",
+          "isCorrect": true,
+          "explanation": "We use the formula v=fλ. For EMW v=c=3×10⁸m/s. Rearranging for λ and putting values we get,λ = c/f = 3×10⁸/3×10¹² = 10-4m.Hence, this option is correct."
+        },
+        {
+          "letter": "B",
+          "text": "104 m",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the calculation given."
+        },
+        {
+          "letter": "C",
+          "text": "10-2 m",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the calculation given."
+        },
+        {
+          "letter": "D",
+          "text": "102 m",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the calculation given."
+        }
+      ],
+      "explanation": "This is the following solution: We use the formula v=fλ. For EMW v=c=3×10⁸m/s. Rearranging for λ and putting values we get,λ = c/f = 3×10⁸/3×10¹² = 10-4m.Hence, this option is correct.",
+      "explanationImage": null,
+      "hints": [
+        "wavelength",
+        "free space"
+      ]
+    },
+    {
+      "text": "The value of total energy density of electromagnetic waves in vacuum will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Option A",
+          "isCorrect": false,
+          "explanation": "The value of total energy density of electromagnetic waves in vacuum = e0E2."
+        },
+        {
+          "letter": "B",
+          "text": "Option B",
+          "isCorrect": false,
+          "explanation": "The value of total energy density of electromagnetic waves in vacuum = e0E2."
+        },
+        {
+          "letter": "C",
+          "text": "Option C",
+          "isCorrect": true,
+          "explanation": "The value of total energy density of electromagnetic waves in vacuum = e0E2."
+        },
+        {
+          "letter": "D",
+          "text": "Option D",
+          "isCorrect": false,
+          "explanation": "The value of total energy density of electromagnetic waves in vacuum = e0E2."
+        }
+      ],
+      "explanation": "The value of total energy density of electromagnetic waves in vacuum = e0E2.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The waves related to tele-communication are:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Infrared radiations",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given."
+        },
+        {
+          "letter": "B",
+          "text": "Visible light",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given."
+        },
+        {
+          "letter": "C",
+          "text": "Microwaves",
+          "isCorrect": true,
+          "explanation": "Microwaves are radiations whose wavelengths pass through the Earth's atmosphere and can be used to transmit information to and from satellites in orbit. Satellite television signals use microwaves."
+        },
+        {
+          "letter": "D",
+          "text": "Ultraviolet rays",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given."
+        }
+      ],
+      "explanation": "Microwaves are radiations whose wavelengths pass through the Earth's atmosphere and can be used to transmit information to and from satellites in orbit. Satellite television signals use microwaves.",
+      "explanationImage": null,
+      "hints": [
+        "communication",
+        "tele"
+      ]
+    },
+    {
+      "text": "A plane electromagnetic wave of frequency 40 MHz travels in free space in the x-direction. At some point and at some instant, the electric field E has its maximum value of 750 N/C in y-direction. The wavelength of the wave is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.5 m",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the formula v=fλ and the explanation given."
+        },
+        {
+          "letter": "B",
+          "text": "5.5 m",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the formula v=fλ and the explanation given."
+        },
+        {
+          "letter": "C",
+          "text": "7.5 m",
+          "isCorrect": true,
+          "explanation": "We use the formula v=fλ. For EMW v=c=3×10⁸m/s. Rearranging for λ and putting values we get,λ = c/f = 3×10⁸/40×10⁸ = 7.5m.Hence, this option is correct."
+        },
+        {
+          "letter": "D",
+          "text": "9.5 m",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the formula v=fλ and the explanation given."
+        }
+      ],
+      "explanation": "We use the formula v=fλ. For EMW v=c=3×10⁸m/s. Rearranging for λ and putting values we get,λ = c/f = 3×10⁸/40×10⁸ = 7.5m.Hence, this option is correct.",
+      "explanationImage": null,
+      "hints": [
+        "x-direction",
+        "y-direction"
+      ]
+    },
+    {
+      "text": "A T.V. tower has a height of 100 m. How much population is covered by T.V. broadcast, if the average population density around the tower is 1000 / km2 ?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "39.5 x105",
+          "isCorrect": true,
+          "explanation": "This is the following solution:Radius of the area covered by T.V.telecast d=√2hReTotal population covered = πpd2×population density = 2πhRe × population density =2×3014×100×_.4×10⁶×(1000/10⁶)=39.503×10⁵"
+        },
+        {
+          "letter": "B",
+          "text": "19.5x106",
+          "isCorrect": false,
+          "explanation": "It is incorrect according to calculations."
+        },
+        {
+          "letter": "C",
+          "text": "29.5x107",
+          "isCorrect": false,
+          "explanation": "It is incorrect according to calculations."
+        },
+        {
+          "letter": "D",
+          "text": "9x104",
+          "isCorrect": false,
+          "explanation": "It is incorrect according to calculations."
+        }
+      ],
+      "explanation": "This is the following solution:Radius of the area covered by T.V.telecastd=√2hRe Total population covered=πpd2×population density= 2πhRe × population density =2×3.14×100×6.4×10⁶×(1000/10⁶)=39.503×10⁵",
+      "explanationImage": null,
+      "hints": [
+        "population",
+        "average population density"
+      ]
+    },
+    {
+      "text": "The frequencies of X-rays, γ − rays and ultraviolet rays are respectively a, b and c. Then:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "a<b,b<c",
+          "isCorrect": false,
+          "explanation": "This is the following solution: a(frequency of X-rays =10¹⁸),b(frequency of gamma rays)=10²⁰and c(frequency of ultraviolet rays)=10¹⁶.So according to these values the given option is incorrect"
+        },
+        {
+          "letter": "B",
+          "text": "a>b,b>c",
+          "isCorrect": false,
+          "explanation": "This is the following solution: a(frequency of X-rays =10¹⁸),b(frequency of gamma rays)=10²⁰and c(frequency of ultraviolet_rays)=10¹⁶.So according to these values the given option is incorrect"
+        },
+        {
+          "letter": "C",
+          "text": "a>b, b>a",
+          "isCorrect": false,
+          "explanation": "This is the following solution: a(frequency of X-rays =10¹⁸),b(frequency of gamma rays)=10²⁰and c(frequency of ultraviolet_rays)=10¹⁶.So according to these values the given option is incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "a<b, b>c",
+          "isCorrect": true,
+          "explanation": "This is the following solution: a(frequency of X-rays =10¹⁸),b(frequency of gamma rays)=10²⁰and c(frequency of ultraviolet rays)=10¹⁶.So the order is correct."
+        }
+      ],
+      "explanation": "This is the following solution: a(frequency of X-rays =10¹⁸),b(frequency of gamma rays)=10²⁰and c(frequency of ultraviolet rays)=10¹⁶.",
+      "explanationImage": null,
+      "hints": [
+        "frequencies",
+        "X-rays, γ − rays and ultraviolet ray"
+      ]
+    },
+    {
+      "text": "The maximum distance upto which TV transmission from a TV tower of height h can be received is proportional to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "h1/2",
+          "isCorrect": true,
+          "explanation": "This is the following solution:D=√2hr where D = range h= height of the tower and r = radius of the earth there D is directly proportional to √h."
+        },
+        {
+          "letter": "B",
+          "text": "h",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to given formula."
+        },
+        {
+          "letter": "C",
+          "text": "h3",
+          "isCorrect": false,
+          "explanation": "D is directly proportional to √h.So it is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "h2",
+          "isCorrect": false,
+          "explanation": "D is directly proportional to √h.So it is incorrect."
+        }
+      ],
+      "explanation": "This is the following solution:D=√2hr where D = range h= height of the tower and r = radius of the earth there D is directly proportional to √h.",
+      "explanationImage": null,
+      "hints": [
+        "maximum distance",
+        "TV transmission"
+      ]
+    },
+    {
+      "text": "The charging current for a capacitor is 0.2 A. Find displacement current:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electronics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.2 A",
+          "isCorrect": true,
+          "explanation": "According to Ampere's Law, the sum of the conduction current and displacement current through any closed surface is zero. Therefore, since the charging current for the capacitor is 0.2A, the displacement current must also be 0.2A in the opposite direction, Displacement current = charging current"
+        },
+        {
+          "letter": "B",
+          "text": "0.4 A",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given."
+        },
+        {
+          "letter": "C",
+          "text": "0.1 A",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given."
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given."
+        }
+      ],
+      "explanation": "According to Ampere's Law, the sum of the conduction current and displacement current through any closed surface is zero. Therefore, since the charging current for the capacitor is 0.2A, the displacement current must also be 0.2A in the opposite direction, Displacement current = charging current",
+      "explanationImage": null,
+      "hints": [
+        "charging current",
+        "capacitor"
+      ]
+    },
+    {
+      "text": "Which of the following is not an electromagnetic wave?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Radio waves",
+          "isCorrect": false,
+          "explanation": "Radiowaves,X-rays,gamma rays all lie in the electromagnetic spectra, at different frequencies and wavelength regions."
+        },
+        {
+          "letter": "B",
+          "text": "X-rays",
+          "isCorrect": false,
+          "explanation": "Radiowaves,X-rays,gamma rays all lie in the electromagnetic spectra, at different frequencies and wavelength regions."
+        },
+        {
+          "letter": "C",
+          "text": "Earthquake P-waves",
+          "isCorrect": true,
+          "explanation": "Radiowaves,X-rays,gamma rays all lie in the electromagnetic spectra, at different frequencies and wavelength regions. However Earthquake P-waves re not electromagnetic waves."
+        },
+        {
+          "letter": "D",
+          "text": "Gamma rays",
+          "isCorrect": false,
+          "explanation": "Radiowaves,X-rays,gamma rays all lie in the electromagnetic spectra, at different frequencies and wavelength regions."
+        }
+      ],
+      "explanation": "Radio waves, X-rays, gamma rays all lie in the electromagnetic spectra, at different frequencies and wavelength regions. However Earthquake P-waves are not electromagnetic waves.",
+      "explanationImage": null,
+      "hints": [
+        "electromagnetic",
+        "not"
+      ]
+    },
+    {
+      "text": "In an electromagnetic wave, the direction of the magnetic field induction B is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parallel to electric field E",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as electric field is perpendicular to magnetic field."
+        },
+        {
+          "letter": "B",
+          "text": "Perpendicular to electric field E",
+          "isCorrect": true,
+          "explanation": "In an electromagnetic wave, the direction of the magnetic field induction B perpendicular to electric field E."
+        },
+        {
+          "letter": "C",
+          "text": "Antiparallel to Pointing vector S",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as electric field is perpendicular to magnetic field."
+        },
+        {
+          "letter": "D",
+          "text": "Random",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as electric field is perpendicular to magnetic field."
+        }
+      ],
+      "explanation": "In an electromagnetic wave, the direction of the magnetic field induction B﻿ perpendicular to electric field E.",
+      "explanationImage": null,
+      "hints": [
+        "direction",
+        "electromagnetic"
+      ]
+    },
+    {
+      "text": "Consider an electric charge oscillating with a frequency of 10 MHz. The radiation emitted will have a wavelength equal to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 m",
+          "isCorrect": false,
+          "explanation": "It is incorrect according to calculations."
+        },
+        {
+          "letter": "B",
+          "text": "30 m",
+          "isCorrect": true,
+          "explanation": "This is the following solution:Frequency =10 MHzSo wavelength =3×10⁸/10×10⁶=30m"
+        },
+        {
+          "letter": "C",
+          "text": "40 m",
+          "isCorrect": false,
+          "explanation": "It is incorrect according to calculations."
+        },
+        {
+          "letter": "D",
+          "text": "10 m",
+          "isCorrect": false,
+          "explanation": "It is incorrect according to calculations."
+        }
+      ],
+      "explanation": "This is the following solution:Frequency =10 MHzSo wavelength =3×10⁸/10×10⁶=30m",
+      "explanationImage": null,
+      "hints": [
+        "wavelength",
+        "electric charge"
+      ]
+    },
+    {
+      "text": "The area to be covered for T.V. telecast is doubled, then the height of transmitting antenna (T.V. tower) will have to be :",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Halved",
+          "isCorrect": false,
+          "explanation": "Correct answer is 'doubled'.So this option is wrong."
+        },
+        {
+          "letter": "B",
+          "text": "Doubled",
+          "isCorrect": true,
+          "explanation": "Correct answer is 'doubled'.The relation between the height of the transmission antenna and the area covered by the TV telecast is given as:dmax = √(2RHT)⇒ HT ∝ d²max ∝ AThus, if the area to be covered is to be doubled, the height of the antenna has to be doubled."
+        },
+        {
+          "letter": "C",
+          "text": "Quardupled",
+          "isCorrect": false,
+          "explanation": "This option is wrong according to formula."
+        },
+        {
+          "letter": "D",
+          "text": "Kept unchanged",
+          "isCorrect": false,
+          "explanation": "Thus option is also incorrect according to formula."
+        }
+      ],
+      "explanation": "Correct answer is 'doubled'.The relation between the height of the transmission antenna and the area covered by the TV telecast is given as:dmax = √(2RHT)⇒ HT ∝ d²max ∝ AThus, if the area to be covered is to be doubled, the height of the antenna has to be doubled.",
+      "explanationImage": null,
+      "hints": [
+        "area to be covered",
+        "height"
+      ]
+    },
+    {
+      "text": "In an apparatus, the electric field was found to oscillate with an amplitude of 18 V/m. The magnitude of the oscillating magnetic field will be :",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4x10-6 T",
+          "isCorrect": false,
+          "explanation": "It is incorrect according to calculations."
+        },
+        {
+          "letter": "B",
+          "text": "6x10-8 T",
+          "isCorrect": true,
+          "explanation": "This is the following solution:B0=E0/cSince B0=E0/c therefore B0=18/3×10⁸=6×10-8"
+        },
+        {
+          "letter": "C",
+          "text": "9x10-9 T",
+          "isCorrect": false,
+          "explanation": "It is incorrect according to calculations."
+        },
+        {
+          "letter": "D",
+          "text": "11 x 10-11 T",
+          "isCorrect": false,
+          "explanation": "It is incorrect according to calculations."
+        }
+      ],
+      "explanation": "This is the following solution:B0=E0/cSince B0=E0/c therefore B0=18/3×10⁸=6×10-8",
+      "explanationImage": null,
+      "hints": [
+        "magnitude of the oscillating magnetic field",
+        "amplitude"
+      ]
+    },
+    {
+      "text": "The dimension of E/H is that of :",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Impedance",
+          "isCorrect": true,
+          "explanation": "The dimension of E/H is ML-4T-1. ML-4T-1 is dimension for Impedance.So this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Inductance",
+          "isCorrect": false,
+          "explanation": "Dimension of Inductance are not equal to E/H so this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Capacitance",
+          "isCorrect": false,
+          "explanation": "ML-4T-1 is dimension for E/H and it is not equal to capacitor so this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Inductance × Capacitance",
+          "isCorrect": false,
+          "explanation": "This option is wrong according to given dimension."
+        }
+      ],
+      "explanation": "ML-4T-1 is dimension for Impedance.",
+      "explanationImage": null,
+      "hints": [
+        "dimension",
+        "E/H"
+      ]
+    },
+    {
+      "text": "The waves related to tele-communication are :",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Infrared",
+          "isCorrect": false,
+          "explanation": "Microwave radiation wavelengths pass through the Earth's atmosphere and can be used to transmit information to and from satellites in orbit. Satellite television signals use microwaves."
+        },
+        {
+          "letter": "B",
+          "text": "Visible light",
+          "isCorrect": false,
+          "explanation": "Microwave radiation wavelengths pass through the Earth's atmosphere and can be used to transmit information to and from satellites in orbit. Satellite television signals use microwaves."
+        },
+        {
+          "letter": "C",
+          "text": "Microwaves",
+          "isCorrect": true,
+          "explanation": "Microwave radiation wavelengths pass through the Earth's atmosphere and can be used to transmit information to and from satellites in orbit. Satellite television signals use microwaves."
+        },
+        {
+          "letter": "D",
+          "text": "Ultraviolet rays",
+          "isCorrect": false,
+          "explanation": "Microwave radiation wavelengths pass through the Earth's atmosphere and can be used to transmit information to and from satellites in orbit. Satellite television signals use microwaves."
+        }
+      ],
+      "explanation": "Microwave radiation wavelengths pass through the Earth's atmosphere and can be used to transmit information to and from satellites in orbit. Satellite television signals use microwaves.",
+      "explanationImage": null,
+      "hints": [
+        "waves",
+        "tele-communication"
+      ]
+    },
+    {
+      "text": "A plane electromagnetic wave of frequency 40 MHz travels in free space in the x-direction. At some point and at some instant, the electric field E→ has its maximum value of 750 N/C in y-direction. The wavelength of the wave is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.5 m",
+          "isCorrect": false,
+          "explanation": "It is incorrect according to calculations."
+        },
+        {
+          "letter": "B",
+          "text": "5.5 m",
+          "isCorrect": false,
+          "explanation": "It is incorrect according to calculations."
+        },
+        {
+          "letter": "C",
+          "text": "7.5 m",
+          "isCorrect": true,
+          "explanation": "Speed of light = 3×10⁸ Frequency =40nMHz=40×10⁶Since λ=c/v=3×10⁸/40×10⁶=7.5"
+        },
+        {
+          "letter": "D",
+          "text": "9.5 m",
+          "isCorrect": false,
+          "explanation": "It is incorrect according to calculations."
+        }
+      ],
+      "explanation": "This is the following solution:Speed of light = 3×10⁸ Frequency =40nMHz=40×10⁶Since λ=c/v=3×10⁸/40×10⁶=7.5",
+      "explanationImage": null,
+      "hints": [
+        "plane electromagnetic wave",
+        "wavelength"
+      ]
+    },
+    {
+      "text": "A TV tower has a height of 100m. The average population density around the tower is 1000 per km2 . The radius of the earth is 6.4x106 m. × The population covered by the tower is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2x106",
+          "isCorrect": false,
+          "explanation": "This is not correct as per the Calculations."
+        },
+        {
+          "letter": "B",
+          "text": "3x106",
+          "isCorrect": false,
+          "explanation": "This is not correct as per the Calculations."
+        },
+        {
+          "letter": "C",
+          "text": "4x106",
+          "isCorrect": true,
+          "explanation": "d = √(2Rh)where:• d = maximum distance covered by the tower• R = radius of the Earth = 6.4 * 10 ^ 6 m• h = height of the tower = 100mStep 1: Calculate the Coverage Radiusd = √(2(6.4 ×10 ^ 6) × 100) d = √{1.2×10^9}]A = πd ^ 2A = 3.14 × (35.8) ^ 2A = 3.14 × 1280A = 4020 km ^ 2Given that the population density is 1000 people per km², the total population covered is:Population = Area × Density4020 × 1000= 4.02 × 10^6"
+        },
+        {
+          "letter": "D",
+          "text": "6x106",
+          "isCorrect": false,
+          "explanation": "This is not correct as per the Calculations."
+        }
+      ],
+      "explanation": "d = √(2Rh)where:• d = maximum distance covered by the tower• R = radius of the Earth = 6.4 * 10 ^ 6 m• h = height of the tower = 100mStep 1: Calculate the Coverage Radiusd = √(2(6.4 ×10 ^ 6) × 100) d = √{1.2×10^9}]A = πd ^ 2A = 3.14 × (35.8) ^ 2A = 3.14 × 1280A = 4020 km ^ 2Given that the population density is 1000 people per km², the total population covered is:Population = Area × Density4020 × 1000= 4.02 × 10^6",
+      "explanationImage": null,
+      "hints": [
+        "height",
+        "radius of the earth",
+        "population"
+      ]
+    },
+    {
+      "text": "The existence of electromagnetic waves was theoretically predicted by:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electromagnetic Waves",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Newton",
+          "isCorrect": false,
+          "explanation": "The existence of electromagnetic waves was theoretically predicted by Maxwell. James Clerk Maxwell (13 June 1831 – 5 November 1879) was a Scottish scientist in the field of mathematical physics. His most notable achievement was to formulate the classical theory of electromagnetic radiation.Thus it is not correct."
+        },
+        {
+          "letter": "B",
+          "text": "Maxwell",
+          "isCorrect": true,
+          "explanation": "The existence of electromagnetic waves was theoretically predicted by Maxwell. James Clerk Maxwell (13 June 1831 – 5 November 1879) was a Scottish scientist in the field of mathematical physics. His most notable achievement was to formulate the classical theory of electromagnetic radiation."
+        },
+        {
+          "letter": "C",
+          "text": "Hertz",
+          "isCorrect": false,
+          "explanation": "The existence of electromagnetic waves was theoretically predicted by Maxwell. James Clerk Maxwell (13 June 1831 – 5 November 1879) was a Scottish scientist in the field of mathematical physics. His most notable achievement was to formulate the classical theory of electromagnetic radiation.Thus it is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Huygen",
+          "isCorrect": false,
+          "explanation": "The existence of electromagnetic waves was theoretically predicted by Maxwell. James Clerk Maxwell (13 June 1831 – 5 November 1879) was a Scottish scientist in the field of mathematical physics. His most notable achievement was to formulate the classical theory of electromagnetic radiation.Thus it is incorrect."
+        }
+      ],
+      "explanation": "The existence of electromagnetic waves was theoretically predicted by Maxwell. James Clerk Maxwell (13 June 1831 – 5 November 1879) was a Scottish scientist in the field of mathematical physics. His most notable achievement was to formulate the classical theory of electromagnetic radiation.",
+      "explanationImage": null,
+      "hints": [
+        "electromagnetic",
+        "waves",
+        "existence"
+      ]
+    }
+  ]
+}

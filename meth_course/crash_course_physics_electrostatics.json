@@ -1,0 +1,751 @@
+{
+  "questions": [
+    {
+      "text": "Two capacitors C1 ( 12 uf ) and C2 (24 uf) are in series connected across a 360 volts d.c. supply. Calculate the charges on C1 and C2 respectively.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2016,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2880 x 10-6 C , 2880 x 10-6",
+          "isCorrect": true,
+          "explanation": "This is correct. The charge on capacitors in series is the same, and the total capacitance in series is calculated correctly, leading to this charge."
+        },
+        {
+          "letter": "B",
+          "text": "4770 x 10-6 C, 4770 x 10-6",
+          "isCorrect": false,
+          "explanation": "Incorrect. The calculation of total capacitance is incorrect, leading to an incorrect charge value."
+        },
+        {
+          "letter": "C",
+          "text": "5810 x 10-6 , 6610 x 10-6",
+          "isCorrect": false,
+          "explanation": "Incorrect. This option provides different charges for the capacitors, which is not possible in series configuration."
+        },
+        {
+          "letter": "D",
+          "text": "7170 x 10-6 , 8140 x 10-6",
+          "isCorrect": false,
+          "explanation": "Incorrect. The charges are different, which is impossible for capacitors in series."
+        },
+        {
+          "letter": "E",
+          "text": "9090 x 10-6 , 8880 x 10-6",
+          "isCorrect": false,
+          "explanation": "Incorrect. The charges provided are inconsistent with the principle that capacitors in series have the same charge."
+        }
+      ],
+      "explanation": "Charge throughout the circuit is the same so either the answer is A or B, as only these options have the same charge throughout.Q=CVCapacitance in series can be calculated as:1/C=1/C1 + 1/C21/C=1/12 + 1/241/C=2+1/241/C=⅛C=8 microfarads.->Q=CVQ=(8x10^-6)(360) Q=2880 x 10-6 C",
+      "explanationImage": null,
+      "hints": [
+        "series",
+        "total capacitance",
+        "charge"
+      ]
+    },
+    {
+      "text": "The total outward flux over any closed hypothetical surface called _ is equal to the total charge enclosed divided by ε irrespective of how the charge is distributed.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Coulomb surface",
+          "isCorrect": false,
+          "explanation": "The term 'Coulomb surface' is not used in physics. Coulomb relates to the unit of electric charge and does not define a surface relevant to Gauss's law."
+        },
+        {
+          "letter": "B",
+          "text": "Gaussian surface",
+          "isCorrect": true,
+          "explanation": "Correct! A Gaussian surface is an imaginary closed surface used in Gauss's law to calculate the electric flux, facilitating the computation by aligning with the symmetry of the charge distribution."
+        },
+        {
+          "letter": "C",
+          "text": "Ohm surface",
+          "isCorrect": false,
+          "explanation": "'Ohm' refers to electrical resistance and is unrelated to defining surfaces in the context of electric flux or Gauss's law."
+        },
+        {
+          "letter": "D",
+          "text": "Faraday surface",
+          "isCorrect": false,
+          "explanation": "While 'Faraday' is a well-known name in electromagnetism, it is not used to describe surfaces relevant to Gauss's law for electric flux."
+        }
+      ],
+      "explanation": "Gauss's law states that the total electric flux through a closed surface, also known as a Gaussian surface, is equal to the total charge enclosed by the surface divided by the permittivity of the medium (ε). This law helps in calculating electric fields around charge distributions with symmetry. The other terms, 'Coulomb surface', 'Ohm surface', and 'Faraday surface', do not apply to this context. Coulomb is related to charge, Ohm to resistance, and Faraday to electromagnetic induction, none of which define such a surface for Gauss's law.",
+      "explanationImage": null,
+      "hints": [
+        "total outward flux",
+        "closed hypothetical surface",
+        "total charge enclosed"
+      ]
+    },
+    {
+      "text": "Two positive point charges Q1 = 16 micro-coulombs and Q2 = 4 micro-coulombs are separated in a line by a distance of 3 meters. Find the spot on the line between the charges where the electric field is zero.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 m",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        },
+        {
+          "letter": "B",
+          "text": "5 m",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        },
+        {
+          "letter": "C",
+          "text": "4 m",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        },
+        {
+          "letter": "D",
+          "text": "2 m",
+          "isCorrect": true,
+          "explanation": "To find the spot on the line between the charges where the electric field is zero, we can make use of the principle of superposition and Coulomb's law. The electric field at a point due to a single point charge is given by:E = k (Q / r2),where E is the electric field, k is the electrostatic constant (k ≈ 9 × 109 N m2/C2), Q is the charge, and r is the distance from the charge to the point.Let's assume that the positive charge Q1 is at the origin (0 meters), and the positive charge Q2 is at a distance of 3 meters. We want to find the point on the line between the charges where the electric field is zero.Let x represent the distance from the origin to the point on the line where the electric field is zero. The distance from this point to Q1 is x, and the distance from this point to Q2 is (3 - x).According to the principle of superposition, the electric field at this point due to Q1 and Q2 will add up to zero. Mathematically, we can write this as:E1 + E2 = 0,where E1 is the electric field due to Q1 at the point and E2 is the electric field due to Q2 at the point.Using Coulomb's law, we can express the electric field for each charge:E1 = k (Q1 / x2),E2 = k (Q2 / (3 - x)2).Now, we can substitute these equations into the principle of superposition equation:k (Q1 / x2) + k (Q2 / (3 - x)2) = 0.Simplifying this equation, we get:(Q1 / x2) + (Q2 / (3 - x)2) = 0.Let's substitute the given values:Q1 = 16 μC = 16 × 10(-6) C,Q2 = 4 μC = 4 × 10(-6) C.The equation becomes:(16 × 10(-6) / x2) + (4 × 10(-6) / (3 - x)2) = 0.Now, we can solve this equation to find the value of x that satisfies it."
+        }
+      ],
+      "explanation": "We have to search for the null point where the resultant field is zero. Since the two point charges are of similar nature (both positive), there cannot be a null point on the line lying either left of point A or right of point B as in these regions the individual fields produced by the charges are parallel and hence cannot nullify each other. However there is a possibility of a null point between the points A and B. Let P be that point (lying at a distance x from point A).Therefore, the resultant electrostatic field is zero at a point (on the line joining the two charges) lying 2m right of the charge 16 μC or 1m left of the charge 4μC.",
+      "explanationImage": null,
+      "hints": [
+        "Two positive point charges Q1 = 16 micro-coulombs and Q2 = 4 micro-coulombs are separated in a line by a distance of 3 meters",
+        "spot on the line between the charges where the electric field is zero"
+      ]
+    },
+    {
+      "text": "Three times decrease in the distance between the plates of a parallel plate, capacitor will _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decrease the capacitance three times",
+          "isCorrect": false,
+          "explanation": "Incorrect. Capacitance is inversely proportional to the distance between the plates. Reducing the distance increases capacitance."
+        },
+        {
+          "letter": "B",
+          "text": "Decrease the capacitance nine times",
+          "isCorrect": false,
+          "explanation": "Incorrect. This is a misunderstanding of the relationship between capacitance and distance. Capacitance does not decrease when plate distance is reduced."
+        },
+        {
+          "letter": "C",
+          "text": "Increase the capacitance three times",
+          "isCorrect": true,
+          "explanation": "Correct. Since capacitance (C) is inversely proportional to the distance (d) between the plates, reducing the distance to one-third triples the capacitance."
+        },
+        {
+          "letter": "D",
+          "text": "Increase the capacitance six times",
+          "isCorrect": false,
+          "explanation": "Incorrect. The increase in capacitance is directly proportional to the reduction in distance, which in this case is three times, not six."
+        }
+      ],
+      "explanation": "Capacitance of a parallel plate capacitor is given by the formula C = ε₀(A/d), where C is the capacitance, ε₀ is the permittivity of free space, A is the area of the plates, and d is the distance between the plates. When the distance d is decreased to one-third, the capacitance C increases by a factor of three. Therefore, a three times decrease in the distance results in a threefold increase in capacitance. Other options are incorrect as they either misinterpret or miscalculate the relationship between capacitance and distance.",
+      "explanationImage": null,
+      "hints": [
+        "parallel plate",
+        "capacitance",
+        "distance"
+      ]
+    },
+    {
+      "text": "Which two or more of the following actions would increase the energy stored in a parallel plate capacitor when a constant potential difference is applied across the plates:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decreasing the area of the plates & decreasing the separation between the plates",
+          "isCorrect": false,
+          "explanation": "a) Decreasing the area of the plates & decreasing the separation between the plates:When the area of the plates is decreased and the separation between the plates is also decreased, the capacitance of the capacitor will decrease. The energy stored in a capacitor is given by the formula: E = (1/2) * C * V^2, where C is the capacitance and V is the potential difference across the plates. As capacitance decreases, the energy stored in the capacitor will also decrease."
+        },
+        {
+          "letter": "B",
+          "text": "Decreasing the area of the plates & increasing the separation between the plates & inserting a dielectric between the plates",
+          "isCorrect": false,
+          "explanation": "b) Decreasing the area of the plates & increasing the separation between the plates & inserting a dielectric between the plates:When the area of the plates is decreased and the separation between the plates is increased, the capacitance of the capacitor will decrease, reducing the energy stored in the capacitor. However, when a dielectric (insulating material) is inserted between the plates, it increases the capacitance, which will then increase the energy stored in the capacitor. The effect of the dielectric is stronger than the effect of decreasing the area and increasing the separation, so the overall effect will be an increase in energy."
+        },
+        {
+          "letter": "C",
+          "text": "Increasing the area of the plates & decreasing the separation between the plates & inserting a dielectric between the plates",
+          "isCorrect": true,
+          "explanation": "c) Increasing the area of the plates & decreasing the separation between the plates & inserting a dielectric between the plates:When the area of the plates is increased and the separation between the plates is decreased, the capacitance of the capacitor will increase, which increases the energy stored in the capacitor. Inserting a dielectric between the plates further increases the capacitance and, therefore, the energy stored in the capacitor."
+        },
+        {
+          "letter": "D",
+          "text": "Increasing the area of the plates & increasing the separation between the plates",
+          "isCorrect": false,
+          "explanation": "d) Increasing the area of the plates & increasing the separation between the plates:When both the area of the plates and the separation between the plates are increased, the capacitance of the capacitor will decrease, which decreases the energy stored in the capacitor."
+        }
+      ],
+      "explanation": "The energy stored by a parallel plate capacitor depends upon the area of the plates, the distance between the plates, and the presence of dielectric between the plates. The energy stored will increase by increasing the Aaea of the plates, decreasing the distance between them, and by placing a dielectric between the plates.",
+      "explanationImage": null,
+      "hints": [
+        "two or more of the following actions would increase the energy stored in a parallel plate capacitor",
+        "constant potential difference is applied across the plates"
+      ]
+    },
+    {
+      "text": "A cable 4 km long and of total resistance 1 Ohm carries electric current from a generator producing 100kW at 10,000 Volts. The current in amperes in the cable is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "isCorrect": true,
+          "explanation": "The power (P) is 100 kW, which is equal to 100,000 W. The voltage (V) is 10,000 V. We can use the formula P = IV, where I is the current.Solving for I, we get I = P/V = 100,000 W / 10,000 V = 10 A.Therefore, the correct answer is 10 A."
+        },
+        {
+          "letter": "B",
+          "text": "10,000",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formulaThe power (P) is 100 kW, which is equal to 100,000 W. The voltage (V) is 10,000 V. We can use the formula P = IV, where I is the current.Solving for I, we get I = P/V = 100,000 W / 10,000 V = 10 A.Therefore, the correct answer is 10 A."
+        },
+        {
+          "letter": "C",
+          "text": "1000",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formulaThe power (P) is 100 kW, which is equal to 100,000 W. The voltage (V) is 10,000 V. We can use the formula P = IV, where I is the current.Solving for I, we get I = P/V = 100,000 W / 10,000 V = 10 A.Therefore, the correct answer is 10 A."
+        },
+        {
+          "letter": "D",
+          "text": "100,000",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formulaThe power (P) is 100 kW, which is equal to 100,000 W. The voltage (V) is 10,000 V. We can use the formula P = IV, where I is the current.Solving for I, we get I = P/V = 100,000 W / 10,000 V = 10 A.Therefore, the correct answer is 10 A."
+        }
+      ],
+      "explanation": "The explanation for this question is given below:",
+      "explanationImage": null,
+      "hints": [
+        "cable 4 km long",
+        "total resistance 1 Ohm",
+        "electric current from a generator producing 100kW at 10,000 Volts",
+        "current in amperes in the cable"
+      ]
+    },
+    {
+      "text": "Consider a capacitor has vacuum in the space between the conductors. If we double the amount of charge on each conductor, what happens to the capacitance?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "It increases",
+          "isCorrect": false,
+          "explanation": "It increases. This is incorrect because the capacitance of a capacitor is determined by the geometry of the capacitor, not by the amount of charge on the conductors."
+        },
+        {
+          "letter": "B",
+          "text": "It decreases",
+          "isCorrect": false,
+          "explanation": "It decreases. This is also incorrect because the capacitance of a capacitor is determined by the geometry of the capacitor, not by the amount of charge on the conductors. It depends on the size or shape of the conductors. This is incorrect because the capacitance of a capacitor with vacuum in the space between the conductors only depends on the area of the plates and the distance between the plates. The size or shape of the conductors does not affect the capacitance."
+        },
+        {
+          "letter": "C",
+          "text": "It remains same",
+          "isCorrect": true,
+          "explanation": "The capacitance of a capacitor with vacuum in the space between the conductors will remain the same if we double the amount of charge on each conductor. The capacitance of a capacitor is determined by the geometry of the capacitor, not by the amount of charge on the conductors.The formula for the capacitance of a parallel plate capacitor with vacuum in the space between the plates is:C = E0A/{d}where:C is the capacitance in faradsA is the area of each plate in square metersd is the distance between the plates in metersε0 is the permittivity of free space, which is a constant equal to 8.854 × 10^-12 F/mAs you can see, the capacitance only depends on the area of the plates and the distance between the plates. The amount of charge on the conductors does not affect the capacitance.So, if we double the amount of charge on each conductor, the capacitance will stay the same."
+        },
+        {
+          "letter": "D",
+          "text": "It depends on the size or shape of the conductors",
+          "isCorrect": false,
+          "explanation": "It depends on the size or shape of the conductors. This is incorrect because the capacitance of a capacitor with vacuum in the space between the conductors only depends on the area of the plates and the distance between the plates. The size or shape of the conductors does not affect the capacitance."
+        }
+      ],
+      "explanation": "When the charge given to the capacitor becomes double the capacitance of the capacitor remains the same .The capacitance depends only on the geometrical configuration of the conductors.The capacitance of a capacitor is affected by the area of the plates, the distance between the plates, and the ability of the dielectric to support electrostatic forces.",
+      "explanationImage": null,
+      "hints": [
+        "capacitor has vacuum in the space between the conductors",
+        "double the amount of charge on each conductor",
+        "capacitance"
+      ]
+    },
+    {
+      "text": "You have three capacitors, each of 2 µC. In which of the following combinations of the three capacitors, the resultant capacitance is 3µC?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "All three capacitors in series",
+          "isCorrect": false,
+          "explanation": "Two capacitors are in series, one in parallel: Let's say C_a and C_b are the two capacitors in series, and C_c is the capacitor in parallel. The total capacitance (C_total) in this combination is given by:1 / C_total = 1 / (C_a + C_b) +C_cSubstituting the values:1 / C_total = (1 /2 µC + 1/2µC) + 2 µC= 4/4 µC + 2 µC= 3 µCC_total = 3µCThe total capacitance when two capacitors are in series and one in parallel is 3 µCso this option is not correct."
+        },
+        {
+          "letter": "B",
+          "text": "Two capacitors are in series, one in parallel",
+          "isCorrect": true,
+          "explanation": "b) Two capacitors are in series, one in parallel: Let's say C_a and C_b are the two capacitors in series, and C_c is the capacitor in parallel. The total capacitance (C_total) in this combination is given by:1 / C_total = 1 / (C_a + C_b) +C_cSubstituting the values:1 / C_total = (1 /2 µC + 1/2µC) + 2 µC= 4/4 µC + 2 µC= 3 µCC_total = 3µCThe total capacitance when two capacitors are in series and one in parallel is 3 µCso this option is not correct."
+        },
+        {
+          "letter": "C",
+          "text": "Two capacitors are in parallel, one in series",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formulaTwo capacitors are in series, one in parallel: Let's say C_a and C_b are the two capacitors in series, and C_c is the capacitor in parallel. The total capacitance (C_total) in this combination is given by:1 / C_total = 1 / (C_a + C_b) +C_cSubstituting the values:1 / C_total = (1 /2 µC + 1/2µC) + 2 µC= 4/4 µC + 2 µC= 3 µCC_total = 3µCThe total capacitance when two capacitors are in series and one in parallel is 3 µCso this option is not correct."
+        },
+        {
+          "letter": "D",
+          "text": "All three capacitors in parallel",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formulaTwo capacitors are in series, one in parallel: Let's say C_a and C_b are the two capacitors in series, and C_c is the capacitor in parallel. The total capacitance (C_total) in this combination is given by:1 / C_total = 1 / (C_a + C_b) +C_cSubstituting the values:1 / C_total = (1 /2 µC + 1/2µC) + 2 µC= 4/4 µC + 2 µC= 3 µCC_total = 3µCThe total capacitance when two capacitors are in series and one in parallel is 3 µCso this option is not correct."
+        }
+      ],
+      "explanation": "b) Two capacitors are in series, one in parallel: Let's say C_a and C_b are the two capacitors in series, and C_c is the capacitor in parallel. The total capacitance (C_total) in this combination is given by:1 / C_total = 1 / (C_a + C_b) +C_cSubstituting the values:1 / C_total = (1 /2 µC + 1/2µC) + 2 µC= 4/4 µC + 2 µC= 3 µCC_total = 3µC The total capacitance when two capacitors are in series and one in parallel is 3 µC so this option is correct.",
+      "explanationImage": null,
+      "hints": [
+        "three capacitors, each of 2 µC",
+        "combinations of the three capacitors",
+        "resultant capacitance is 3µC"
+      ]
+    },
+    {
+      "text": "Ceq =C1+ C2 + C3 + ... + Cn is the combination in _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parallel",
+          "isCorrect": true,
+          "explanation": "Option A: The combination C = C + C + C + ... + C represents the combination of multiple capacitors connected in parallel.Therefore, the correct answer is A) Parallel.In a parallel combination of capacitors, the positive terminals of all capacitors are connected together, and the negative terminals are connected together. This results in the same potential difference across each capacitor. The total capacitance of the combination is the sum of the individual capacitances.In the given expression, since all the capacitors are added together, it represents a parallel combination."
+        },
+        {
+          "letter": "B",
+          "text": "Series",
+          "isCorrect": false,
+          "explanation": "The combination C = C + C + C + ... + C represents the combination of multiple capacitors connected in parallel.Therefore, the correct answer is A) Parallel.In a parallel combination of capacitors, the positive terminals of all capacitors are connected together, and the negative terminals are connected together. This results in the same potential difference across each capacitor. The total capacitance of the combination is the sum of the individual capacitances.In the given expression, since all the capacitors are added together, it represents a parallel combination."
+        },
+        {
+          "letter": "C",
+          "text": "Both of them",
+          "isCorrect": false,
+          "explanation": "As only option A is correct, this cannot be the correct option."
+        },
+        {
+          "letter": "D",
+          "text": "None of them",
+          "isCorrect": false,
+          "explanation": "This is incorrect."
+        }
+      ],
+      "explanation": "Option A: The combination C = C + C + C + ... + C represents the combination of multiple capacitors connected in parallel.Therefore, the correct answer is A) Parallel.In a parallel combination of capacitors, the positive terminals of all capacitors are connected together, and the negative terminals are connected together. This results in the same potential difference across each capacitor. The total capacitance of the combination is the sum of the individual capacitances.In the given expression, since all the capacitors are added together, it represents a parallel combination.Option B: In a series combination of capacitors, the positive terminal of one capacitor is connected to the negative terminal of the next capacitor. The total capacitance in a series combination is given by the reciprocal of the sum of the reciprocals of the individual capacitances.",
+      "explanationImage": null,
+      "hints": [
+        "combination in"
+      ]
+    },
+    {
+      "text": "A charge is moving with velocity v, it enters a uniform magnetic field B. The direction of v is perpendicular to B. What is the path of the charge particle inside the magnetic field?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parabolic",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Circular",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Parallel to v",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Parallel to B",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The magnetic force will act perpendicular to velocity at every instant ,path will be circle. Due to change in direction momentum will change but the total energy will remain same.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The greek word \"xeros\" and \"graphos\" means:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sharp graphics",
+          "isCorrect": false,
+          "explanation": "This option suggests the combination of \"xeros\" and \"graphos\" implies something related to clear or defined images. However, the literal meaning of the Greek words does not directly correspond to \"sharp graphics.\""
+        },
+        {
+          "letter": "B",
+          "text": "Dry writing",
+          "isCorrect": true,
+          "explanation": "Xerography is a dry photocopying technique that was developed by Chester Carlson in the 1930s. In xerography, an electrostatically charged photoreceptor drum is used to attract toner particles, which are then transferred to paper to create a copy of the original document. This process does not involve any liquid ink, hence the term \"dry writing.\""
+        },
+        {
+          "letter": "C",
+          "text": "Wet writing",
+          "isCorrect": false,
+          "explanation": "This option seems to suggest the opposite of \"dry writing,\" implying writing that involves liquid ink. However, the Greek words do not convey this meaning."
+        },
+        {
+          "letter": "D",
+          "text": "Wet graphics",
+          "isCorrect": false,
+          "explanation": "Similar to option c, this option suggests a contrast to \"dry writing\" and implies graphics created using liquid media. However, the Greek words do not align with this interpretation."
+        }
+      ],
+      "explanation": "Charles Carlson lived in that time and saw a need for a quick and easy way to make copies. He created a process called electrophotography in 1937; the process was later renamed Xerography, which comes from the Greek words xeros, meaning dry and graphos, meaning writing.",
+      "explanationImage": null,
+      "hints": [
+        "greek word \"xeros",
+        "graphos"
+      ]
+    },
+    {
+      "text": "The minimum indivisible unit of charge is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 coloumb",
+          "isCorrect": false,
+          "explanation": "coulomb is unit of electric charge thus this option is incorrect"
+        },
+        {
+          "letter": "B",
+          "text": "charge on on alpha particle",
+          "isCorrect": false,
+          "explanation": "Charge on alpha particle is twice of proton charge therefore this is not correct"
+        },
+        {
+          "letter": "C",
+          "text": "charge on one proton",
+          "isCorrect": true,
+          "explanation": "The minimum net charge that an object can get is one electron's charge, which is 1. 6×10−19 coulomb."
+        },
+        {
+          "letter": "D",
+          "text": "1 micro coloumb",
+          "isCorrect": false,
+          "explanation": "1 micro coulomb is a unit of electrical charge equal to one millionth of a coulomb. Hence this option is incorrect ."
+        }
+      ],
+      "explanation": "The smallest indivisible unit of charge is one electron, which is equal to charge of one proton. So the option is C.The minimum charge is that of an electron: 1.6 x 10-19 C.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The presence of dielectric between two charged particles:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reduces the electrostatic force",
+          "isCorrect": true,
+          "explanation": "The presence of a dielectric between the two plates decreases the electric field inside the capacitor."
+        },
+        {
+          "letter": "B",
+          "text": "Increases the electrostatic force",
+          "isCorrect": false,
+          "explanation": "The presence of dielectric will not increase the electrostatic force."
+        },
+        {
+          "letter": "C",
+          "text": "Does not change electrostatic force",
+          "isCorrect": false,
+          "explanation": "The presence of dielectric does change electrostatic force."
+        },
+        {
+          "letter": "D",
+          "text": "Doubles the electrostatic force",
+          "isCorrect": false,
+          "explanation": "The presence of dielectric will not double the electrostatic force."
+        }
+      ],
+      "explanation": "Option: A The presence of a dielectric between the two plates actually decreases the electric field inside the capacitor. Option B : The presence of dielectric will not increase the electrostatic force. Option C : The presence of dielectric does change electrostatic force. Option D : The presence of dielectric will not double the electrostatic force.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Coulomb's law is only applicable for _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Big charges",
+          "isCorrect": false,
+          "explanation": "According to Physics Sindh Textbook pg 40.It clearly states “..... two static point charges…..” , i.e the charge is at a single point in space."
+        },
+        {
+          "letter": "B",
+          "text": "Small charges",
+          "isCorrect": false,
+          "explanation": "According to Physics Sindh Textbook pg 40.It clearly states “..... two static point charges…..” , i.e the charge is at a single point in space."
+        },
+        {
+          "letter": "C",
+          "text": "Point charges",
+          "isCorrect": true,
+          "explanation": "According to Physics Sindh Textbook pg 40.It clearly states “..... two static point charges…..” , i.e the charge is at a single point in space."
+        },
+        {
+          "letter": "D",
+          "text": "Any charges",
+          "isCorrect": false,
+          "explanation": "According to Physics Sindh Textbook pg 40.It clearly states “..... two static point charges…..” , i.e the charge is at a single point in space."
+        }
+      ],
+      "explanation": "According to Physics Sindh Textbook pg 40.It clearly states “..... two static point charges…..” , i.e the charge is at a single point in space.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If the potential difference across the two plates of a parallel plate capacitor is doubled, then the energy stored in the capacitor would be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Remains same",
+          "isCorrect": false,
+          "explanation": "The energy stored in a capacitor is directly proportional to the square of the potential difference, so doubling the potential difference will not keep the energy the same."
+        },
+        {
+          "letter": "B",
+          "text": "Two times",
+          "isCorrect": false,
+          "explanation": "Doubling the potential difference results in four times the energy, not two times, because energy is proportional to the square of the potential difference."
+        },
+        {
+          "letter": "C",
+          "text": "Four times",
+          "isCorrect": true,
+          "explanation": "C is correct.Energy = CV2/2E∝ V2E’ ∝ (2V)2E’ ∝ 4V2E’ ∝ 4 (V2)E’ ∝ 4 E"
+        },
+        {
+          "letter": "D",
+          "text": "Three times",
+          "isCorrect": false,
+          "explanation": "As explained earlier, doubling the potential difference results in four times the energy, not three times, because energy is proportional to the square of the potential difference."
+        }
+      ],
+      "explanation": "C is correct.Energy = CV2/2E∝ V2E’ ∝ (2V)2E’ ∝ 4V2E’ ∝ 4 (V2)E’ ∝ 4 E",
+      "explanationImage": null,
+      "hints": [
+        "potential difference",
+        "parallel plate",
+        "doubled",
+        "energy stored"
+      ]
+    },
+    {
+      "text": "Electric field at a point varies as r^0 for",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "a plane infinite sheet of charge",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "A point charge",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Electric dipole",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Line charge of infinite length",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Option A is correct since there is no relation of the electric field of an infinite plane sheet of charge with distance according to the formula provided by Gauss’s law: E = sigma/2 epsilon knot. Option B is incorrect since the electric field for a point charge varies as 1/r^2 Option C is incorrect since the electric field for a dipole varies as 1/r^3. Option D is incorrect since the electric field for an infinite line of charge does not vary as r^0 over large distances.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If a particle having a charge q is accelerated through a potential difference V, then the energy acquired by the particle is _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "V/2",
+          "isCorrect": false,
+          "explanation": "The energy acquired by a particle with charge q when accelerated through a potential difference V is given by the formula:U=qV"
+        },
+        {
+          "letter": "B",
+          "text": "V/q",
+          "isCorrect": false,
+          "explanation": "The energy acquired by a particle with charge q when accelerated through a potential difference V is given by the formula:U=qV"
+        },
+        {
+          "letter": "C",
+          "text": "qV/2",
+          "isCorrect": false,
+          "explanation": "The energy acquired by a particle with charge q when accelerated through a potential difference V is given by the formula:U=qV"
+        },
+        {
+          "letter": "D",
+          "text": "qV",
+          "isCorrect": true,
+          "explanation": "The energy acquired by a particle with charge q when accelerated through a potential difference V is given by the formula:U=qV"
+        }
+      ],
+      "explanation": "The energy acquired by a particle with charge q when accelerated through a potential difference V is given by the formula:U=qVThis is shown in option D so, option D is the correct choice.",
+      "explanationImage": null,
+      "hints": [
+        "charge q",
+        "potential difference V",
+        "energy acquired"
+      ]
+    },
+    {
+      "text": "To determine the resistance of a voltmeter by discharging a capacitor through it, the instantaneous voltage is then given by the relation:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "V(t) = V0e-t/RC",
+          "isCorrect": true,
+          "explanation": "This is the correct option because the formula represents the exponential decay of voltage across a discharging capacitor, where V0 is the initial voltage, t is time, R is resistance, and C is capacitance."
+        },
+        {
+          "letter": "B",
+          "text": "V(t) = V0(1 - e-t/RC)",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it represents the charging of a capacitor over time, not discharging."
+        },
+        {
+          "letter": "C",
+          "text": "V(t) = V0et/RC",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as the presence of a positive exponent suggests an increase in voltage, which does not occur during discharging."
+        },
+        {
+          "letter": "D",
+          "text": "V(t) = V0t/RC",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it implies a linear relationship, which does not describe the exponential nature of capacitor discharge."
+        }
+      ],
+      "explanation": "Option A is the correct option since Voe-t/RC gives the correct instantaneous voltage.",
+      "explanationImage": null,
+      "hints": [
+        "resistance",
+        "discharging capacitor",
+        "instantaneous voltage"
+      ]
+    },
+    {
+      "text": "The electric field strength between a pair of plates is \"E\". If the separation of the plates is doubled and the potential difference between the plates is increased by a factor of four, the new field strength is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "E",
+          "isCorrect": false,
+          "explanation": "Option A suggests that the electric field strength remains unchanged. However, this is incorrect. When the separation of the plates is doubled and the potential difference between the plates is increased by a factor of four, the electric field strength is not expected to remain the same. Therefore, option A is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "2E",
+          "isCorrect": true,
+          "explanation": "Option B correctly indicates that the new electric field strength is twice the original electric field strength. Doubling the separation of the plates while quadrupling the potential difference between them results in an electric field strength that is proportional to 4V/2d=2E. Therefore, option B is the correct choice."
+        },
+        {
+          "letter": "C",
+          "text": "4E",
+          "isCorrect": false,
+          "explanation": "Option C suggests that the new electric field strength is four times the original electric field strength. However, this is not the case. Doubling the separation of the plates and quadrupling the potential difference between them does not result in an electric field strength that is directly proportional to 4V/2d=2E. Therefore, option C is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "8E",
+          "isCorrect": false,
+          "explanation": "Option D suggests that the new electric field strength is eight times the original electric field strength. However, this is not the case. Doubling the separation of the plates and quadrupling the potential difference between them does not result in an electric field strength that is directly proportional to 4V/2d =2E. Therefore, option D is incorrect."
+        }
+      ],
+      "explanation": "Electric field is calculated by the formula = Voltage / Distance so doubling the separation of plates decreases the electric field by 2 times and increasing pd between plates by factor of four, increases electric field 4 times so the over all increase is 2E",
+      "explanationImage": null,
+      "hints": [
+        "electric field strength",
+        "E",
+        "separation",
+        "doubled",
+        "potential difference",
+        "increased by a factor of four",
+        "new field strength"
+      ]
+    }
+  ]
+}

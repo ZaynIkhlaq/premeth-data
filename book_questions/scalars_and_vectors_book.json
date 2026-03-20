@@ -1,0 +1,4102 @@
+{
+  "questions": [
+    {
+      "text": "The magnitude of a given vector with end points (4,–4, 0) and (–2,–2, 0) must be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The distance between the points (4, -4, 0) and (-2, -2, 0) does not equal 6 when calculated using the distance formula."
+        },
+        {
+          "letter": "B",
+          "text": "5√2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as well. While it might seem reasonable, it does not match the calculated distance based on the given endpoints."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The result of applying the distance formula does not yield a magnitude of 4 for the vector defined by the endpoints."
+        },
+        {
+          "letter": "D",
+          "text": "2√10",
+          "isCorrect": true,
+          "explanation": "This option is correct. The magnitude is calculated correctly as √(x2-x1)² + (y2-y1)² + (z2-z1)²). Substituting the values gives √((-2-4)² + (-2+4)² + (0-0)²) = √(36 + 4) = √40 = 2√10."
+        }
+      ],
+      "explanation": "The magnitude of a vector is calculated using the formula √(x2-x1)² + (y2-y1)² + (z2-z1)²). Substituting: √((-2-4)²+ (-2+4)²+ (0-0)2) = √(36 + 4) = √40 = 2√10.",
+      "explanationImage": null,
+      "hints": [
+        "magnitude",
+        "end points"
+      ]
+    },
+    {
+      "text": "The angle made by the vector A= iˆ+ jˆ with x-axis is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "90°",
+          "isCorrect": false,
+          "explanation": "While a 90° angle indicates a vertical direction, vector A has both x and y components, thus it is not correct."
+        },
+        {
+          "letter": "B",
+          "text": "45°",
+          "isCorrect": true,
+          "explanation": "For a vector A = i^ + j^, the x and y components are equal. The angle with the x-axis is given by tan-'(y/x) = tan-1(1/1) = 45°, making option B correct."
+        },
+        {
+          "letter": "C",
+          "text": "22.5°",
+          "isCorrect": false,
+          "explanation": "This angle is less than the correct angle of 45°, indicating that the vector is not steep enough to correspond to vector A."
+        },
+        {
+          "letter": "D",
+          "text": "30°",
+          "isCorrect": false,
+          "explanation": "A 30° angle would imply a different ratio of components, which does not match the equal contributions of vector A."
+        }
+      ],
+      "explanation": "For a vector A = i^ + j^, the x and y components are equal. The angle with the x-axis is given by tan-1 (y/x) = tan-1(1/1) = 45°, making option B correct.",
+      "explanationImage": null,
+      "hints": [
+        "vector A",
+        "x-axis",
+        "angle"
+      ]
+    },
+    {
+      "text": "The resultant of the two vectors having magnitude 2 and 3 is 1. What is the magnitude of their cross product?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": "This option incorrectly assumes that the magnitude of the cross product can be directly calculated from the magnitudes of the vectors. The cross product depends on the sine of the angle between the vectors, not just their magnitudes."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect. While it may seem reasonable, it does not take into account the angle between the vectors, which is crucial for calculating the cross product."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This option misjudges the relationship between the magnitudes and the cross product. The magnitude of the cross product is zero when the vectors are parallel or when one vector has zero magnitude."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "isCorrect": true,
+          "explanation": "The cross product magnitude is |A×B| = AB sine. Here, the resultant is less than either magnitude, implying vectors are parallel or anti-parallel, so sine = 0. The cross product is 0."
+        }
+      ],
+      "explanation": "The cross product magnitude is |A×B| = AB sine. Here, the resultant is less than either magnitude, implying vectors are parallel or anti-parallel, so sine = 0. The cross product is 0.",
+      "explanationImage": null,
+      "hints": [
+        "resultant",
+        "magnitude",
+        "cross product"
+      ]
+    },
+    {
+      "text": "The angles which a vector iˆ +jˆ +√2kˆ makes with the X, Y and Z axis respectively are:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "60° , 60° , 60°",
+          "isCorrect": false,
+          "explanation": "This option suggests that the vector makes equal angles with all three axes, which is not possible given the specific components of the vector."
+        },
+        {
+          "letter": "B",
+          "text": "45° , 45° , 45°",
+          "isCorrect": false,
+          "explanation": "This option implies symmetry in the vector's orientation, but the components of the vector do not yield such angles with the axes."
+        },
+        {
+          "letter": "C",
+          "text": "60° , 60° , 45°",
+          "isCorrect": true,
+          "explanation": "Direction cosines are calculated as cosa = x/|v|, cosB = y/v. cosy = z/v. Substituting components i,j, √2k yields angles 60°, 60°, 45° with X, Y, Z axes respectively."
+        },
+        {
+          "letter": "D",
+          "text": "45° , 45° , 60°",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests a different configuration of angles that does not match the vector's components."
+        }
+      ],
+      "explanation": "Direction cosines are calculated as cosa = x/|v|, cosB = y/v. cosy = z/v. Substituting components i,j, √2k yields angles 60°, 60°, 45° with X, Y, Z axes respectively.",
+      "explanationImage": null,
+      "hints": [
+        "vector",
+        "angles",
+        "X, Y and Z axis"
+      ]
+    },
+    {
+      "text": "If the angle between two forces increases, the magnitude of their resultant:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decreases",
+          "isCorrect": true,
+          "explanation": "The resultant of two vectors is R = √(F1² + F2² + 2F1F2 cose). As increases, cose decreases, causing R to decrease."
+        },
+        {
+          "letter": "B",
+          "text": "Increases",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because as the angle increases, the components of the forces work against each other, resulting in a smaller resultant."
+        },
+        {
+          "letter": "C",
+          "text": "Remains unchanged",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the resultant is affected by the angle between the two forces; it does not remain constant as the angle changes."
+        },
+        {
+          "letter": "D",
+          "text": "Decreases & then increases",
+          "isCorrect": false,
+          "explanation": "This option is misleading. The resultant will consistently decrease as the angle increases from 0° to 90°, after which it will only be a function of one force and will not increase again."
+        }
+      ],
+      "explanation": "The resultant of two vectors is R = √(F1² + F2² + 2F1F2 cosθ). As θ increases, cosθ decreases, causing R to decrease.",
+      "explanationImage": null,
+      "hints": [
+        "angle between",
+        "two forces",
+        "resultant"
+      ]
+    },
+    {
+      "text": "The resultant of two forces, one double the other in magnitude, is perpendicular to the smaller of the two forces. The angle between the two forces is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "60°",
+          "isCorrect": false,
+          "explanation": "This angle does not satisfy the condition of the resultant being perpendicular to the smaller force when one force is double the other in magnitude."
+        },
+        {
+          "letter": "B",
+          "text": "120°",
+          "isCorrect": true,
+          "explanation": "This is the correct angle. The configuration allows the resultant to be perpendicular to the smaller force, satisfying the conditions of the problem."
+        },
+        {
+          "letter": "C",
+          "text": "150°",
+          "isCorrect": false,
+          "explanation": "This angle would result in a configuration where the resultant is not perpendicular to the smaller force, hence it is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "90°",
+          "isCorrect": false,
+          "explanation": "This angle implies that the forces are acting at right angles, which does not meet the condition of one force being double the other in magnitude."
+        }
+      ],
+      "explanation": "For R ⊥ Fsmaller, R2 = F12+ F22. Let F2= 2F1. Using law of cosines: R2= F12 + (2F1)2+ 2F12F1cosθ = 5F12 + 4F12 cosθ. Set R2 = (2F1)2 = 4F12 cosθ = -1/4 θ ≈ 120°.",
+      "explanationImage": null,
+      "hints": [
+        "resultant",
+        "perpendicular",
+        "double the other",
+        "angle"
+      ]
+    },
+    {
+      "text": "The greatest and smallest resultant of two forces acting at a point is 10 N and 6 N respectively. If each force is increased by 3 N, find the magnitude of the new resultant forces when acting at a point while being perpendicular to each other:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "8N",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it underestimates the effect of both forces when they are increased and combined."
+        },
+        {
+          "letter": "B",
+          "text": "12.1N",
+          "isCorrect": true,
+          "explanation": "This is the correct option. When each force is increased by 3 N, the new forces become 6 N and 10 N, and applying the Pythagorean theorem yields a resultant of approximately 12.1 N."
+        },
+        {
+          "letter": "C",
+          "text": "9.8N",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it does not account for the correct application of the Pythagorean theorem with the new force magnitudes."
+        },
+        {
+          "letter": "D",
+          "text": "7.4N",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it significantly underestimates the resultant of the two forces when calculated correctly."
+        }
+      ],
+      "explanation": "For perpendicular forces, R = √(F12 + F22). Original forces can be determined from Rmax and Rmin, then adding 3 N to each and using Pythagoras gives √(new F12 + new F22) ≈ 12.1 N.",
+      "explanationImage": null,
+      "hints": [
+        "resultant",
+        "forces",
+        "perpendicular"
+      ]
+    },
+    {
+      "text": "A vector is described by magnitude as well as:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Angle",
+          "isCorrect": false,
+          "explanation": "While an angle can be related to the direction of a vector, it does not fully encapsulate the concept of direction as required in this context."
+        },
+        {
+          "letter": "B",
+          "text": "Distance",
+          "isCorrect": false,
+          "explanation": "Distance refers to how far an object has moved but does not include any information about direction, making it irrelevant to the definition of a vector."
+        },
+        {
+          "letter": "C",
+          "text": "Direction",
+          "isCorrect": true,
+          "explanation": "Direction is a fundamental characteristic of a vector, alongside magnitude, as it defines where the vector points in space."
+        },
+        {
+          "letter": "D",
+          "text": "Height",
+          "isCorrect": false,
+          "explanation": "Height is a measure of vertical distance and is a scalar quantity; it does not provide directional information, which is essential for vectors."
+        }
+      ],
+      "explanation": "A vector is completely defined by its magnitude and direction. These two parameters uniquely describe the vector in space.",
+      "explanationImage": null,
+      "hints": [
+        "described",
+        "vector"
+      ]
+    },
+    {
+      "text": "The direction of a vector in a plane is measured with respect to two straight lines which are_ to each other.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parallel",
+          "isCorrect": false,
+          "explanation": "Parallel lines do not intersect and therefore cannot be used to define the direction of a vector in a plane."
+        },
+        {
+          "letter": "B",
+          "text": "Perpendicular",
+          "isCorrect": true,
+          "explanation": "Perpendicular lines intersect at a right angle (90 degrees), making them ideal for defining the direction of a vector in a plane."
+        },
+        {
+          "letter": "C",
+          "text": "At an angle of 60o",
+          "isCorrect": false,
+          "explanation": "While measuring angles is important, stating a specific angle does not address the requirement of the lines being perpendicular to each other."
+        },
+        {
+          "letter": "D",
+          "text": "Equal",
+          "isCorrect": false,
+          "explanation": "Equal lines do not provide a clear reference for measuring direction, as they imply a lack of angular difference."
+        }
+      ],
+      "explanation": "In a plane, vector direction is measured with respect to two perpendicular reference lines (x and y axes). These lines form a right-angled reference system for angles.",
+      "explanationImage": null,
+      "hints": [
+        "direction",
+        "vector",
+        "each other"
+      ]
+    },
+    {
+      "text": "A unit vector is obtained by dividing the given vector by:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Its magnitude",
+          "isCorrect": true,
+          "explanation": "A unit vector is defined as a vector with a magnitude of 1. To convert any vector into a unit vector, you divide it by its own magnitude. This ensures the resulting vector retains the same direction but has a magnitude of 1."
+        },
+        {
+          "letter": "B",
+          "text": "Its angle",
+          "isCorrect": false,
+          "explanation": "Dividing a vector by its angle does not yield a unit vector. The angle is a measure of direction and does not directly relate to the magnitude of the vector."
+        },
+        {
+          "letter": "C",
+          "text": "Another vector",
+          "isCorrect": false,
+          "explanation": "Dividing a vector by another vector is not a standard operation in vector mathematics for creating a unit vector. This option does not align with the definition of a unit vector."
+        },
+        {
+          "letter": "D",
+          "text": "Ten",
+          "isCorrect": false,
+          "explanation": "Dividing a vector by a constant number like ten does not generally result in a unit vector unless that constant is equal to the magnitude of the vector. This option does not correctly address the definition of a unit vector."
+        }
+      ],
+      "explanation": "A unit vector has magnitude 1 and same direction as the original vector. Dividing a vector by its magnitude normalizes it to obtain a unit vector.",
+      "explanationImage": null,
+      "hints": [
+        "unit vector",
+        "dividing"
+      ]
+    },
+    {
+      "text": "Negative of a vector has direction _ that of the original vector.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Same as",
+          "isCorrect": false,
+          "explanation": "This option suggests that the negative of a vector has the same direction as the original. This is incorrect, as the negative vector reverses the direction."
+        },
+        {
+          "letter": "B",
+          "text": "Perpendicular to",
+          "isCorrect": false,
+          "explanation": "This option implies that the negative vector is at a right angle to the original vector. This is not accurate, as the negative vector is aligned with the original vector but in the opposite direction."
+        },
+        {
+          "letter": "C",
+          "text": "Opposite to",
+          "isCorrect": true,
+          "explanation": "This option correctly states that the negative of a vector has a direction opposite to that of the original vector, while keeping the same magnitude."
+        },
+        {
+          "letter": "D",
+          "text": "Inclined to",
+          "isCorrect": false,
+          "explanation": "This option suggests that the negative vector is inclined at an angle to the original vector. This is not correct, as the negative vector is strictly in the opposite direction of the original vector."
+        }
+      ],
+      "explanation": "Negating a vector reverses its direction while keeping its magnitude unchanged, resulting in a vector opposite to the original.",
+      "explanationImage": null,
+      "hints": [
+        "Negative",
+        "direction",
+        "original vector"
+      ]
+    },
+    {
+      "text": "The vector obtained by adding two or more vectors is called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Product vector",
+          "isCorrect": false,
+          "explanation": "This term refers to the result of multiplying vectors, not adding them. It does not describe the outcome of vector addition."
+        },
+        {
+          "letter": "B",
+          "text": "Sum vector",
+          "isCorrect": false,
+          "explanation": "While this term suggests the idea of adding vectors, it is not the standard terminology used in vector mathematics. The correct term is 'resultant vector'."
+        },
+        {
+          "letter": "C",
+          "text": "Resultant vector",
+          "isCorrect": true,
+          "explanation": "This is the correct term that refers to the single vector that results from adding two or more vectors together. It encapsulates the total effect of the original vectors."
+        },
+        {
+          "letter": "D",
+          "text": "Final vector",
+          "isCorrect": false,
+          "explanation": "This term is not commonly used in vector mathematics to describe the outcome of vector addition. It lacks the specificity of the term 'resultant vector'."
+        }
+      ],
+      "explanation": "The resultant vector is the vector sum of two or more vectors, representing the combined magnitude and direction of all contributing vectors.",
+      "explanationImage": null,
+      "hints": [
+        "adding",
+        "vectors"
+      ]
+    },
+    {
+      "text": "Vectors are added according to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Left hand rule",
+          "isCorrect": false,
+          "explanation": "The left hand rule is primarily used to determine the direction of force on a charged particle in a magnetic field, not for vector addition."
+        },
+        {
+          "letter": "B",
+          "text": "Right hand rule",
+          "isCorrect": false,
+          "explanation": "The right hand rule is similar to the left hand rule and is used for determining directions in physics, but it does not apply to the addition of vectors in the context of this question."
+        },
+        {
+          "letter": "C",
+          "text": "Head to tail rule",
+          "isCorrect": true,
+          "explanation": "The head to tail rule is a technique used in vector addition where the tail of one vector is placed at the head of the previous vector, allowing for accurate representation of the resultant vector."
+        },
+        {
+          "letter": "D",
+          "text": "None of the above",
+          "isCorrect": false,
+          "explanation": "This option is incorrect, as the head to tail rule is a valid method for vector addition."
+        }
+      ],
+      "explanation": "The head-to-tail method is a graphical way to add vectors, placing the tail of each vector at the head of the previous to obtain the resultant.",
+      "explanationImage": null,
+      "hints": [
+        "Vectors",
+        "added"
+      ]
+    },
+    {
+      "text": "In two-dimensional coordinate system, the components of the origin are taken as:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1, 1)",
+          "isCorrect": false,
+          "explanation": "This option represents a point that is one unit away from the origin in both the x and y directions, not the origin itself."
+        },
+        {
+          "letter": "B",
+          "text": "(1, 0)",
+          "isCorrect": false,
+          "explanation": "This option indicates a point on the x-axis, one unit away from the origin, but does not represent the origin."
+        },
+        {
+          "letter": "C",
+          "text": "(0, 1)",
+          "isCorrect": false,
+          "explanation": "This option shows a point on the y-axis, one unit away from the origin, which is not the origin itself."
+        },
+        {
+          "letter": "D",
+          "text": "(0, 0)",
+          "isCorrect": true,
+          "explanation": "This option correctly identifies the origin in a Cartesian coordinate system, where both x and y components are zero."
+        }
+      ],
+      "explanation": "The origin (0,0) has x and y coordinates both zero. It is the intersection point of the x and y axes.",
+      "explanationImage": null,
+      "hints": [
+        "two-dimensional",
+        "origin",
+        "components"
+      ]
+    },
+    {
+      "text": "The resultant of two or more vectors is obtained by:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Joining the tail of the first vector with the head of the last vector",
+          "isCorrect": true,
+          "explanation": "This option correctly describes how the resultant vector is formed by connecting the starting point of the first vector to the ending point of the last vector, following the proper vector addition method."
+        },
+        {
+          "letter": "B",
+          "text": "Joining the head of the first vector with the tail of the last vector.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it does not follow the proper sequence for vector addition. The head of the first vector should connect to the tail of the next vector, not the last one."
+        },
+        {
+          "letter": "C",
+          "text": "Joining the tail of the last vector with the head of the first vector",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it suggests connecting the last vector's tail to the first vector's head, which does not accurately reflect the proper order of addition."
+        },
+        {
+          "letter": "D",
+          "text": "Joining the head of the last vector with the tail of the first vector",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect because it implies connecting the end of the last vector to the start of the first vector, which does not follow the vector addition process."
+        }
+      ],
+      "explanation": "The head-to-tail method connects vectors sequentially, joining the tail of the first vector with the head of the last vector to determine the resultant accurately.",
+      "explanationImage": null,
+      "hints": [
+        "resultant",
+        "vectors"
+      ]
+    },
+    {
+      "text": "To subtract a given vector from another, its _vector is added to the other one.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Double",
+          "isCorrect": false,
+          "explanation": "Adding a double vector is not relevant to vector subtraction, as it does not address the concept of negation needed for subtraction."
+        },
+        {
+          "letter": "B",
+          "text": "Half",
+          "isCorrect": false,
+          "explanation": "Using half of a vector does not relate to the operation of subtracting a vector, as it does not account for the direction or magnitude needed."
+        },
+        {
+          "letter": "C",
+          "text": "Negative",
+          "isCorrect": true,
+          "explanation": "Correct! To subtract a vector, its negative vector must be added to the other vector, effectively reversing its direction."
+        },
+        {
+          "letter": "D",
+          "text": "Positive",
+          "isCorrect": false,
+          "explanation": "Adding a positive vector would not help in performing subtraction, as it would result in the addition of two vectors rather than the intended operation."
+        }
+      ],
+      "explanation": "Vector subtraction is performed by adding the negative of the vector. The negative vector has same magnitude but opposite direction.",
+      "explanationImage": null,
+      "hints": [
+        "subtract",
+        "added",
+        "vector"
+      ]
+    },
+    {
+      "text": "The sine of an angle is positive in _ quadrants.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "First and Second",
+          "isCorrect": true,
+          "explanation": "Correct! In the first quadrant, all trigonometric functions are positive, and in the second quadrant, sine remains positive while cosine is negative."
+        },
+        {
+          "letter": "B",
+          "text": "Second and Fourth",
+          "isCorrect": false,
+          "explanation": "Incorrect. While sine is positive in the second quadrant, it is negative in the fourth quadrant."
+        },
+        {
+          "letter": "C",
+          "text": "First and Third",
+          "isCorrect": false,
+          "explanation": "Incorrect. Sine is positive in the first quadrant, but it is negative in the third quadrant."
+        },
+        {
+          "letter": "D",
+          "text": "Third and Fourth",
+          "isCorrect": false,
+          "explanation": "Incorrect. Sine is negative in both the third and fourth quadrants."
+        }
+      ],
+      "explanation": "Sine is positive where the y-coordinate is positive. This occurs in the first quadrant (x>0, y>0) and second quadrant (x<0, y>0).",
+      "explanationImage": null,
+      "hints": [
+        "sine",
+        "positive",
+        "quadrants"
+      ]
+    },
+    {
+      "text": "The tangent of an angle is positive in _quadrants.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "First and last",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because while the tangent is positive in the first quadrant, it is negative in the fourth quadrant."
+        },
+        {
+          "letter": "B",
+          "text": "First only",
+          "isCorrect": false,
+          "explanation": "This option is partially correct. The tangent is indeed positive in the first quadrant, but it is also positive in the third quadrant."
+        },
+        {
+          "letter": "C",
+          "text": "Second and fourth",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The tangent is negative in both the second (where sine is positive and cosine is negative) and fourth quadrants (where sine is negative and cosine is positive)."
+        },
+        {
+          "letter": "D",
+          "text": "First and third",
+          "isCorrect": true,
+          "explanation": "This option is correct. The tangent function is positive in both the first quadrant (where both sine and cosine are positive) and the third quadrant (where both sine and cosine are negative)."
+        }
+      ],
+      "explanation": "Tangent = y/x is positive when x and y have same sign, i.e., in the first (x>0,y>0) and third (x<0,y<0) quadrants.",
+      "explanationImage": null,
+      "hints": [
+        "tangent",
+        "positive"
+      ]
+    },
+    {
+      "text": "If the x-component of the resultant of two vectors is positive and its y-component is negative, the resultant subtends an angle of _ on x-axes.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "360° - θ",
+          "isCorrect": true,
+          "explanation": "This option suggests that the angle is measured clockwise from the positive x-axis. However, since the y-component is negative, the resultant is in the fourth quadrant, making this option incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "180° + θ",
+          "isCorrect": false,
+          "explanation": "This option would place the resultant in the third quadrant, where both components are negative. Since the x-component is positive in this case, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "90° - θ",
+          "isCorrect": false,
+          "explanation": "This option implies a position in the first quadrant where both components would be positive, contradicting the negative y-component given in the question. Therefore, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "θ",
+          "isCorrect": false,
+          "explanation": "This option suggests the angle is directly equal to θ, which does not account for the negative y-component. Since the resultant is in the fourth quadrant, this option is incorrect."
+        }
+      ],
+      "explanation": "Positive x and negative y components place the vector in the fourth quadrant. The angle with x-axis is 360° - θ.",
+      "explanationImage": null,
+      "hints": [
+        "x-component",
+        "y-component",
+        "resultant"
+      ]
+    },
+    {
+      "text": "If two vectors are perpendicular to each other, their dot product is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Product of their magnitude",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The dot product of two vectors is not simply the product of their magnitudes unless they are in the same direction. For perpendicular vectors, the dot product is zero."
+        },
+        {
+          "letter": "B",
+          "text": "Product of their x-components",
+          "isCorrect": false,
+          "explanation": "This option is misleading. The dot product is determined by both components of the vectors, not just the x-components. Additionally, for perpendicular vectors, this product will also result in zero."
+        },
+        {
+          "letter": "C",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "This is the correct option. The dot product of two vectors that are perpendicular to each other is always zero, as the cosine of 90 degrees (the angle between them) is zero."
+        },
+        {
+          "letter": "D",
+          "text": "One",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The result of the dot product cannot be one for perpendicular vectors as the cosine of 90 degrees is zero, resulting in a dot product of zero."
+        }
+      ],
+      "explanation": "Dot product A·B = ABcosθ. For perpendicular vectors, θ = 90° cos90° = 0. Therefore, dot product is zero.",
+      "explanationImage": null,
+      "hints": [
+        "perpendicular",
+        "dot product",
+        "vectors"
+      ]
+    },
+    {
+      "text": "If dot product of two vectors which are not perpendicular to each other is zero, then either of the vectors is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A unit vector",
+          "isCorrect": false,
+          "explanation": "A unit vector has a magnitude of one and can be in any direction, but it cannot be zero. Therefore, it does not satisfy the condition described in the question."
+        },
+        {
+          "letter": "B",
+          "text": "Opposite to the other",
+          "isCorrect": false,
+          "explanation": "While two vectors can be opposites and still have a dot product that is not zero, this option does not address the condition of the dot product being zero. Thus, it is not the correct answer."
+        },
+        {
+          "letter": "C",
+          "text": "A null vector",
+          "isCorrect": true,
+          "explanation": "A null vector, or zero vector, has a magnitude of zero and is the only vector that can result in a dot product of zero with any other vector, regardless of their direction."
+        },
+        {
+          "letter": "D",
+          "text": "Position vector",
+          "isCorrect": false,
+          "explanation": "A position vector represents a specific point in space. It can have a non-zero magnitude and can be perpendicular to another vector, thus it does not meet the condition of the dot product being zero."
+        }
+      ],
+      "explanation": "Only a null vector can produce a zero-dot product with a non-perpendicular vector. A null vector has magnitude zero.",
+      "explanationImage": null,
+      "hints": [
+        "dot product",
+        "zero",
+        "not perpendicular"
+      ]
+    },
+    {
+      "text": "In vector product, the direction of product vector can be found by the:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Right hand rule",
+          "isCorrect": true,
+          "explanation": "This rule states that if you point your right thumb in the direction of the first vector and curl your fingers toward the second vector, your thumb points in the direction of the resulting product vector."
+        },
+        {
+          "letter": "B",
+          "text": "Left hand rule",
+          "isCorrect": false,
+          "explanation": "The left hand rule is not applicable in this context as it is often used for motors and does not determine the direction of the vector product."
+        },
+        {
+          "letter": "C",
+          "text": "Head to tail rule",
+          "isCorrect": false,
+          "explanation": "The head to tail rule is used for vector addition, not for finding the direction of the vector product."
+        },
+        {
+          "letter": "D",
+          "text": "None of the above",
+          "isCorrect": false,
+          "explanation": "This option is incorrect since the right hand rule is indeed the correct method for determining the direction of the vector product."
+        }
+      ],
+      "explanation": "The right-hand rule determines the direction of a cross- product vector. Curl fingers from A to B; thumb points in direction of A×B.",
+      "explanationImage": null,
+      "hints": [
+        "vector product",
+        "direction"
+      ]
+    },
+    {
+      "text": "The magnitude of vector product of two vectors A & B is given by:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "AB sin θ",
+          "isCorrect": true,
+          "explanation": "This is the correct formula for the magnitude of the vector product of two vectors A and B, where θ is the angle between them."
+        },
+        {
+          "letter": "B",
+          "text": "AB",
+          "isCorrect": false,
+          "explanation": "This option represents the product of the magnitudes of A and B but does not account for the angle between the vectors, making it incorrect for the vector product."
+        },
+        {
+          "letter": "C",
+          "text": "AB cos θ",
+          "isCorrect": false,
+          "explanation": "This formula represents the scalar (dot) product of two vectors, not the vector (cross) product, hence it is incorrect for this question."
+        },
+        {
+          "letter": "D",
+          "text": "A/B tan θ",
+          "isCorrect": false,
+          "explanation": "This expression does not represent either the vector product or any relevant operation involving vectors A and B. It is incorrect."
+        }
+      ],
+      "explanation": "The magnitude of A×B is AB sinθ, perpendicular to both vectors, with direction given by the right-hand rule.",
+      "explanationImage": null,
+      "hints": [
+        "magnitude",
+        "vector product"
+      ]
+    },
+    {
+      "text": "The scalar quantities are described by their magnitude and",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Direction",
+          "isCorrect": false,
+          "explanation": "This option incorrectly describes scalar quantities, which do not have a direction associated with them. Direction is a defining characteristic of vector quantities."
+        },
+        {
+          "letter": "B",
+          "text": "Proper unit",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. Scalar quantities are described solely by their magnitude and the units used to express that magnitude. For example, temperature can be expressed in degrees Celsius or Fahrenheit, which are proper units."
+        },
+        {
+          "letter": "C",
+          "text": "With graph",
+          "isCorrect": false,
+          "explanation": "This option suggests a visual representation, which is not necessary for scalar quantities. Scalars can be represented numerically without the need for graphical representation."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as there is a valid answer among the provided choices, specifically that scalar quantities are described by their magnitude and proper unit."
+        }
+      ],
+      "explanation": "Scalars are fully defined by magnitude and proper unit, without any directional information.",
+      "explanationImage": null,
+      "hints": [
+        "scalar quantities",
+        "magnitude"
+      ]
+    },
+    {
+      "text": "All of the following is/are scalar quantities except:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Temperature",
+          "isCorrect": false,
+          "explanation": "Temperature is a scalar quantity as it only has magnitude (degree of heat) and no direction."
+        },
+        {
+          "letter": "B",
+          "text": "Density",
+          "isCorrect": false,
+          "explanation": "Density is a scalar quantity that describes mass per unit volume, without any directional component."
+        },
+        {
+          "letter": "C",
+          "text": "Volume",
+          "isCorrect": false,
+          "explanation": "Volume is a scalar quantity that measures the amount of space an object occupies, having only magnitude."
+        },
+        {
+          "letter": "D",
+          "text": "Force",
+          "isCorrect": true,
+          "explanation": "Force is a vector quantity because it has both magnitude (the strength of the push or pull) and direction (the direction in which the force is applied)."
+        }
+      ],
+      "explanation": "Force is a vector quantity because it has both magnitude and direction, while temperature, density, and volume are scalar quantities.",
+      "explanationImage": null,
+      "hints": [
+        "scalar quantities",
+        "except"
+      ]
+    },
+    {
+      "text": "Speed is a _quantity.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vector",
+          "isCorrect": false,
+          "explanation": "A vector is a quantity that has both magnitude and direction. Speed does not have a direction, so this is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Scalar",
+          "isCorrect": true,
+          "explanation": "A scalar is a quantity that only has magnitude and no direction. Speed is a perfect example of a scalar quantity, making this the correct answer."
+        },
+        {
+          "letter": "C",
+          "text": "Negative",
+          "isCorrect": false,
+          "explanation": "Negative refers to a sign indicating a loss or below a zero value, not a type of quantity. Speed cannot be classified as negative; it can have negative values, but that doesn’t define its nature."
+        },
+        {
+          "letter": "D",
+          "text": "Null",
+          "isCorrect": false,
+          "explanation": "Null implies the absence of value or quantity. Speed is a measurable quantity and cannot be classified as null."
+        }
+      ],
+      "explanation": "Speed has magnitude only, no direction, hence it is a scalar quantity.",
+      "explanationImage": null,
+      "hints": [
+        "Speed",
+        "quantity"
+      ]
+    },
+    {
+      "text": "When the product of two vectors gives us a vector quantity then the product is termed as:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cross product",
+          "isCorrect": true,
+          "explanation": "The cross product of two vectors results in a vector that is perpendicular to the plane formed by the original vectors. It represents both magnitude and direction, making it the correct answer to this question."
+        },
+        {
+          "letter": "B",
+          "text": "Scalar product",
+          "isCorrect": false,
+          "explanation": "The scalar product, also known as the dot product, yields a scalar quantity and is calculated based on the magnitudes of the vectors and the cosine of the angle between them. Hence, it is not the correct answer."
+        },
+        {
+          "letter": "C",
+          "text": "Dot product",
+          "isCorrect": false,
+          "explanation": "The dot product is synonymous with the scalar product and results in a scalar value. It does not produce a vector quantity, making this option incorrect as well."
+        },
+        {
+          "letter": "D",
+          "text": "None of the above",
+          "isCorrect": false,
+          "explanation": "This option suggests that there is no appropriate product of two vectors that results in a vector quantity. However, the cross product does exist, rendering this option incorrect."
+        }
+      ],
+      "explanation": "Cross product of two vectors yields a vector perpendicular to both original vectors.",
+      "explanationImage": null,
+      "hints": [
+        "product",
+        "two vectors",
+        "vector quantity"
+      ]
+    },
+    {
+      "text": "The module is another name of _ of the vector.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Magnitude",
+          "isCorrect": true,
+          "explanation": "This is the correct answer, as 'magnitude' is synonymous with 'module' in the context of vectors, representing the length or size of the vector."
+        },
+        {
+          "letter": "B",
+          "text": "Null",
+          "isCorrect": false,
+          "explanation": "This option refers to the concept of a null vector, which is a vector with zero magnitude, but it does not represent the term 'module.'"
+        },
+        {
+          "letter": "C",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "This option indicates a vector with zero length (the zero vector), which is not what is meant by 'module' or 'magnitude.'"
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because one of the options (Magnitude) is indeed a synonym for the term 'module.'"
+        }
+      ],
+      "explanation": "Module refers to the magnitude of a vector, representing its length regardless of direction.",
+      "explanationImage": null,
+      "hints": [
+        "module",
+        "vector"
+      ]
+    },
+    {
+      "text": "The vector whose magnitude is equal to one is called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Unit vector",
+          "isCorrect": true,
+          "explanation": "A unit vector is defined as a vector that has a magnitude of exactly one. It is often used to indicate direction without regard to magnitude."
+        },
+        {
+          "letter": "B",
+          "text": "Null vector",
+          "isCorrect": false,
+          "explanation": "The null vector (or zero vector) has a magnitude of zero, meaning it has no direction or length."
+        },
+        {
+          "letter": "C",
+          "text": "Zero vector",
+          "isCorrect": false,
+          "explanation": "The zero vector also has zero magnitude and does not represent a specific direction."
+        },
+        {
+          "letter": "D",
+          "text": "Positive vector",
+          "isCorrect": false,
+          "explanation": "A positive vector refers to a vector that has a positive direction in a given coordinate system but does not necessarily have a magnitude of one."
+        }
+      ],
+      "explanation": "A unit vector has magnitude 1 and indicates only direction.",
+      "explanationImage": null,
+      "hints": [
+        "vector",
+        "magnitude",
+        "one"
+      ]
+    },
+    {
+      "text": "If vector a lies in the 4th quadrant and makes an angle of 60 with y axis, what is its direction given by?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "30°",
+          "isCorrect": false,
+          "explanation": "This option represents an angle measured from the positive x-axis, which does not correspond to the direction of vector a in the 4th quadrant."
+        },
+        {
+          "letter": "B",
+          "text": "270°",
+          "isCorrect": false,
+          "explanation": "This angle points directly downwards along the negative y-axis, which is not the direction of vector a that is located in the 4th quadrant."
+        },
+        {
+          "letter": "C",
+          "text": "330°",
+          "isCorrect": true,
+          "explanation": "This is the correct option. An angle of 330° is measured clockwise from the positive x-axis, placing it in the 4th quadrant, which aligns with the information provided in the question."
+        },
+        {
+          "letter": "D",
+          "text": "60°",
+          "isCorrect": false,
+          "explanation": "An angle of 60° is measured from the positive y-axis, which does not accurately describe the direction of vector a in the 4th quadrant."
+        }
+      ],
+      "explanation": "In the fourth quadrant, angle with positive x-axis = 360° - 30° = 330°, giving the vector direction.",
+      "explanationImage": null,
+      "hints": [
+        "4th quadrant",
+        "angle of 60",
+        "y axis"
+      ]
+    },
+    {
+      "text": "In negative of a vector, a vector has same magnitude but _direction.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Positive",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because a positive vector has the same direction as the original vector, not the opposite direction."
+        },
+        {
+          "letter": "B",
+          "text": "Negative",
+          "isCorrect": false,
+          "explanation": "This option is misleading, as it implies the vector's direction is merely 'negative', without specifying that it is the opposite direction of the original vector."
+        },
+        {
+          "letter": "C",
+          "text": "Opposite",
+          "isCorrect": true,
+          "explanation": "This is the correct option because the negative of a vector indeed has the same magnitude but points in the opposite direction."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as there is a valid answer among the provided options."
+        }
+      ],
+      "explanation": "The negative vector has the same magnitude but opposite direction to the original vector.",
+      "explanationImage": null,
+      "hints": [
+        "negative",
+        "direction"
+      ]
+    },
+    {
+      "text": "A.B = B.A =.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "AB Cos θ",
+          "isCorrect": true,
+          "explanation": "This is the correct expression for the dot product of two vectors A and B, where θ is the angle between them."
+        },
+        {
+          "letter": "B",
+          "text": "AB Sin θ",
+          "isCorrect": false,
+          "explanation": "This expression represents the sine function, which is used in calculating the cross product of two vectors, not the dot product."
+        },
+        {
+          "letter": "C",
+          "text": "AB",
+          "isCorrect": false,
+          "explanation": "This option lacks the necessary angle factor. The dot product requires a cosine relationship to account for the angle between the vectors."
+        },
+        {
+          "letter": "D",
+          "text": "|A||B| Tan θ",
+          "isCorrect": false,
+          "explanation": "This expression is incorrect as it suggests a relationship involving the tangent function, which is not applicable for the dot product of vectors."
+        }
+      ],
+      "explanation": "The dot product is commutative: A·B = B·A = AB cosθ.",
+      "explanationImage": null,
+      "hints": [
+        "A.B",
+        "B.A"
+      ]
+    },
+    {
+      "text": "Symbol “ Σ ” is known as",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pi",
+          "isCorrect": false,
+          "explanation": "Pi (π) is a mathematical constant representing the ratio of a circle's circumference to its diameter, and is not related to the concept of summation."
+        },
+        {
+          "letter": "B",
+          "text": "Resultant",
+          "isCorrect": false,
+          "explanation": "The term 'resultant' refers to the vector sum of two or more vectors, which is different from the summation symbol."
+        },
+        {
+          "letter": "C",
+          "text": "Power",
+          "isCorrect": false,
+          "explanation": "Power is a physical quantity that represents the rate of doing work or transferring energy, and does not relate to the concept of summation."
+        },
+        {
+          "letter": "D",
+          "text": "Summation",
+          "isCorrect": true,
+          "explanation": "The symbol 'Σ' is used in mathematics to denote the summation of a series of numbers or terms, making it the correct choice."
+        }
+      ],
+      "explanation": "Σ denotes summation, representing addition of multiple terms.",
+      "explanationImage": null,
+      "hints": [
+        "Σ",
+        "known"
+      ]
+    },
+    {
+      "text": "The process of replacing one vector by two or more parts is called_",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Addition of two vectors",
+          "isCorrect": false,
+          "explanation": "This process involves combining two vectors to produce a resultant vector, rather than breaking a single vector down into parts."
+        },
+        {
+          "letter": "B",
+          "text": "Subtraction of vectors",
+          "isCorrect": false,
+          "explanation": "Subtraction results in a vector that is directed from the end of one vector to the end of another, but does not involve breaking down a vector into multiple components."
+        },
+        {
+          "letter": "C",
+          "text": "Resolution of vectors",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. It refers to the process of breaking a vector into its components or parts, typically along specified axes."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the correct term for the process described in the question is indeed 'Resolution of vectors.'"
+        }
+      ],
+      "explanation": "Resolution of vectors splits a vector into components along specified directions.",
+      "explanationImage": null,
+      "hints": [
+        "replacing",
+        "two or more parts"
+      ]
+    },
+    {
+      "text": "If the x-component of the resultant is negative and its y-component is positive, the result is true for:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "An angle of (180° - θ) with the x-axis",
+          "isCorrect": true,
+          "explanation": "This option is correct because an angle of (180° - θ) places the vector in the second quadrant, where the x-component is negative and the y-component is positive."
+        },
+        {
+          "letter": "B",
+          "text": "An angle of (180° - θ) with the y-axis",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because measuring (180° - θ) from the y-axis would position the vector in the fourth quadrant, where the y-component would be negative."
+        },
+        {
+          "letter": "C",
+          "text": "An angle of 90°",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as an angle of 90° indicates a vector pointing straight up along the y-axis, which would give a positive y-component and a zero x-component."
+        },
+        {
+          "letter": "D",
+          "text": "An angle of 180°",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because an angle of 180° points directly left along the negative x-axis, resulting in a negative x-component and a zero y-component."
+        }
+      ],
+      "explanation": "Negative x and positive y components place vector in second quadrant; angle with x-axis = 180° - θ.",
+      "explanationImage": null,
+      "hints": [
+        "negative",
+        "positive"
+      ]
+    },
+    {
+      "text": "The x-component of the resultant is positive and its y-component is negative, then the result is true for:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "An angle of (180° - θ) with y-axis",
+          "isCorrect": false,
+          "explanation": "This option suggests a position in the second quadrant where the x-component would be negative and the y-component positive, which contradicts the given condition."
+        },
+        {
+          "letter": "B",
+          "text": "An angle of (90° - θ) with x-axis",
+          "isCorrect": false,
+          "explanation": "This option implies a third quadrant angle where the x-component is negative and the y-component is positive, which again does not match the conditions provided."
+        },
+        {
+          "letter": "C",
+          "text": "An angle of (360° - θ) with x-axis",
+          "isCorrect": true,
+          "explanation": "This option correctly places the resultant vector in the fourth quadrant, where the x-component is positive and the y-component is negative, matching the conditions given."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect since one of the provided angles does satisfy the condition of a positive x-component and a negative y-component."
+        }
+      ],
+      "explanation": "Positive x, negative y → fourth quadrant → angle with x-axis = 360° - θ.",
+      "explanationImage": null,
+      "hints": [
+        "positive",
+        "negative"
+      ]
+    },
+    {
+      "text": "The product of two vectors is called scalar or dot product when they give",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vector quantity",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the product of two vectors is not a vector quantity; it results in a scalar value instead."
+        },
+        {
+          "letter": "B",
+          "text": "Scalar quantity",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The dot product of two vectors yields a scalar value, representing the extent to which the vectors align with each other."
+        },
+        {
+          "letter": "C",
+          "text": "Negative quantity",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as the dot product can be negative, zero, or positive, depending on the angle between the vectors, but it does not define the nature of the result as solely negative."
+        },
+        {
+          "letter": "D",
+          "text": "Positive quantity",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect because the dot product can be positive, negative, or zero depending on the angle between the two vectors, hence it cannot be categorically defined as only positive."
+        }
+      ],
+      "explanation": "Dot-product produces scalar magnitude = AB cosθ.",
+      "explanationImage": null,
+      "hints": [
+        "scalar or dot product",
+        "give"
+      ]
+    },
+    {
+      "text": "When the multiplication of two vectors result into a vector quantity, then the product is called",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cross product",
+          "isCorrect": true,
+          "explanation": "The cross product of two vectors yields a vector quantity that is perpendicular to the plane formed by the two original vectors. This operation is often used in physics to calculate torque and angular momentum."
+        },
+        {
+          "letter": "B",
+          "text": "Dot product",
+          "isCorrect": false,
+          "explanation": "The dot product of two vectors results in a scalar quantity, not a vector. It measures how much one vector extends in the direction of another and is calculated as the product of their magnitudes and the cosine of the angle between them."
+        },
+        {
+          "letter": "C",
+          "text": "Magnitude of two vectors",
+          "isCorrect": false,
+          "explanation": "The magnitude of a vector is a measure of its length and does not involve multiplying two vectors. It is a scalar quantity and does not represent a product of vectors."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect since the cross product is indeed a valid operation that yields a vector from the multiplication of two vectors."
+        }
+      ],
+      "explanation": "Cross-product (vector product) gives vector perpendicular to original vectors.",
+      "explanationImage": null,
+      "hints": [
+        "result into a vector quantity",
+        "multiplication"
+      ]
+    },
+    {
+      "text": "“Cos θ ” is positive in first and _ quadrant.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Fourth",
+          "isCorrect": true,
+          "explanation": "In the fourth quadrant, cosine values are positive since the x-coordinates are positive while y-coordinates are negative. Therefore, cos θ is positive in this quadrant."
+        },
+        {
+          "letter": "B",
+          "text": "Second",
+          "isCorrect": false,
+          "explanation": "In the second quadrant, cosine values are negative because the x-coordinates are negative while y-coordinates are positive. Thus, cos θ is not positive in this quadrant."
+        },
+        {
+          "letter": "C",
+          "text": "Third",
+          "isCorrect": false,
+          "explanation": "In the third quadrant, both x and y coordinates are negative, making cosine values negative. Therefore, cos θ is not positive in this quadrant."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "This option suggests that cos θ is never positive in any quadrant, which is incorrect. Cos θ is positive in both the first and fourth quadrants."
+        }
+      ],
+      "explanation": "Cos θ = x/r. Positive x in 1st and 4th quadrants cosθ → positive.",
+      "explanationImage": null,
+      "hints": [
+        "Cos θ",
+        "positive"
+      ]
+    },
+    {
+      "text": "Which of the following is the only vector quantity?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Temperature",
+          "isCorrect": false,
+          "explanation": "Temperature is a scalar quantity, as it only has magnitude (e.g., degrees Celsius) and no direction."
+        },
+        {
+          "letter": "B",
+          "text": "Energy",
+          "isCorrect": false,
+          "explanation": "Energy is also a scalar quantity, measured in joules, and does not involve a directional component."
+        },
+        {
+          "letter": "C",
+          "text": "Power",
+          "isCorrect": false,
+          "explanation": "Power, measured in watts, is a scalar quantity that indicates the rate of energy transfer without a directional aspect."
+        },
+        {
+          "letter": "D",
+          "text": "Momentum",
+          "isCorrect": true,
+          "explanation": "Momentum is a vector quantity defined as the product of an object's mass and its velocity, possessing both magnitude and direction."
+        }
+      ],
+      "explanation": "Momentum = mass × velocity; velocity is a vector →momentum is a vector.",
+      "explanationImage": null,
+      "hints": [
+        "vector quantity"
+      ]
+    },
+    {
+      "text": "Which of the following list of physical quantities consists only of vectors?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Time, temperature, velocity",
+          "isCorrect": false,
+          "explanation": "Time and temperature are scalar quantities because they have magnitude but no direction. Velocity, however, is a vector. Thus, this option contains both scalars and a vector."
+        },
+        {
+          "letter": "B",
+          "text": "Force, volume, momentum",
+          "isCorrect": false,
+          "explanation": "Force and momentum are vectors, but volume is a scalar quantity. Therefore, this option does not consist only of vectors."
+        },
+        {
+          "letter": "C",
+          "text": "Velocity, acceleration, mass",
+          "isCorrect": false,
+          "explanation": "Velocity and acceleration are vectors, but mass is a scalar quantity. This option also includes a scalar, making it incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Force, acceleration, velocity",
+          "isCorrect": true,
+          "explanation": "All three quantities—force, acceleration, and velocity—are vectors. They have both magnitude and direction, making this the correct option."
+        }
+      ],
+      "explanation": "Force, acceleration, velocity all have magnitude and direction.",
+      "explanationImage": null,
+      "hints": [
+        "consists only of vectors"
+      ]
+    },
+    {
+      "text": "A vector which specifies the direction is called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A null vector",
+          "isCorrect": false,
+          "explanation": "A null vector is a vector with a magnitude of zero and no specific direction. It does not specify a direction, making it an incorrect choice for this question."
+        },
+        {
+          "letter": "B",
+          "text": "A unit vector",
+          "isCorrect": true,
+          "explanation": "A unit vector has a magnitude of one and indicates direction. It is specifically designed to denote direction in vector notation, making it the correct answer."
+        },
+        {
+          "letter": "C",
+          "text": "A position vector",
+          "isCorrect": false,
+          "explanation": "A position vector defines the position of a point in space relative to a reference point. While it has direction, it is not specifically defined as a vector that solely specifies direction."
+        },
+        {
+          "letter": "D",
+          "text": "A resultant vector",
+          "isCorrect": false,
+          "explanation": "A resultant vector is the vector sum of two or more vectors. It may represent the overall direction but is not limited to specifying direction alone, making it an incorrect option for this question."
+        }
+      ],
+      "explanation": "Unit vector has magnitude 1 and indicates direction only.",
+      "explanationImage": null,
+      "hints": [
+        "vector",
+        "direction"
+      ]
+    },
+    {
+      "text": "If a vector is divided by its magnitude, we get",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A resultant vector",
+          "isCorrect": false,
+          "explanation": "A resultant vector is the vector that results from the vector addition of two or more vectors. It is not obtained by dividing a vector by its magnitude."
+        },
+        {
+          "letter": "B",
+          "text": "A null vector",
+          "isCorrect": false,
+          "explanation": "A null vector, or zero vector, has a magnitude of zero and no direction. Dividing any vector by its magnitude will not yield a null vector, as the magnitude must be non-zero."
+        },
+        {
+          "letter": "C",
+          "text": "A unit vector",
+          "isCorrect": true,
+          "explanation": "A unit vector is a vector that has a magnitude of 1 and indicates direction. Dividing a vector by its magnitude normalizes it to a unit vector."
+        },
+        {
+          "letter": "D",
+          "text": "A position vector",
+          "isCorrect": false,
+          "explanation": "A position vector represents the position of a point in space relative to an origin. It is not obtained by dividing by the vector's magnitude."
+        }
+      ],
+      "explanation": "Dividing vector by its magnitude normalizes it unit vector.",
+      "explanationImage": null,
+      "hints": [
+        "vector",
+        "magnitude"
+      ]
+    },
+    {
+      "text": "The rectangular components of a vector have angle between them",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0°",
+          "isCorrect": false,
+          "explanation": "This option suggests that the components are aligned in the same direction. However, this is not the case for rectangular components, which must be perpendicular."
+        },
+        {
+          "letter": "B",
+          "text": "60°",
+          "isCorrect": false,
+          "explanation": "This angle indicates that the components are at an angle to each other, but they must be perpendicular to qualify as rectangular components."
+        },
+        {
+          "letter": "C",
+          "text": "90°",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. Rectangular components of a vector are always at a right angle (90°) to each other, which is essential for vector addition using this method."
+        },
+        {
+          "letter": "D",
+          "text": "120°",
+          "isCorrect": false,
+          "explanation": "This option indicates that the components are at an obtuse angle to each other, which does not satisfy the condition for rectangular components."
+        }
+      ],
+      "explanation": "Rectangular components in Cartesian system are perpendicular 90°.",
+      "explanationImage": null,
+      "hints": [
+        "rectangular components",
+        "angle",
+        "vector"
+      ]
+    },
+    {
+      "text": "A force of 10N is acting along y-axis. Its component along x-axis is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 N",
+          "isCorrect": false,
+          "explanation": "This option suggests that the entire force is acting along the x-axis, which is incorrect since the force is specified to act along the y-axis."
+        },
+        {
+          "letter": "B",
+          "text": "20 N",
+          "isCorrect": false,
+          "explanation": "This option incorrectly assumes a larger force component along the x-axis without justification from the given force direction."
+        },
+        {
+          "letter": "C",
+          "text": "100 N",
+          "isCorrect": false,
+          "explanation": "This option suggests an exaggerated force component along the x-axis, which does not align with the statement that the force acts solely along the y-axis."
+        },
+        {
+          "letter": "D",
+          "text": "0 N",
+          "isCorrect": true,
+          "explanation": "This is the correct answer, indicating that there is no component of the force acting along the x-axis since the force is entirely directed along the y-axis."
+        }
+      ],
+      "explanation": "Force along y-axis has x-component = 0.",
+      "explanationImage": null,
+      "hints": [
+        "force",
+        "y-axis",
+        "x-axis"
+      ]
+    },
+    {
+      "text": "Two forces are acting together on an object. The magnitude of their resultant is minimum when the angle between force is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0°",
+          "isCorrect": false,
+          "explanation": "This angle indicates that the two forces are acting in the same direction, resulting in a maximum resultant, not a minimum."
+        },
+        {
+          "letter": "B",
+          "text": "60°",
+          "isCorrect": false,
+          "explanation": "This angle results in a resultant that is greater than the minimum value, as the forces are partially aligned."
+        },
+        {
+          "letter": "C",
+          "text": "120°",
+          "isCorrect": false,
+          "explanation": "This angle provides a resultant that is smaller than at 60°, but it is still not the minimum possible resultant."
+        },
+        {
+          "letter": "D",
+          "text": "180°",
+          "isCorrect": true,
+          "explanation": "At this angle, the two forces act in opposite directions, leading to the minimum possible resultant, which is the difference in their magnitudes."
+        }
+      ],
+      "explanation": "Minimum resultant occurs when forces are opposite → angle = 180°.",
+      "explanationImage": null,
+      "hints": [
+        "forces",
+        "resultant",
+        "angle"
+      ]
+    },
+    {
+      "text": "Geometrical method of addition of vectors is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Head-to-tail rule method",
+          "isCorrect": true,
+          "explanation": "This method involves placing the tail of one vector at the head of another vector, effectively illustrating how the two vectors combine in terms of direction and magnitude."
+        },
+        {
+          "letter": "B",
+          "text": "Rectangular components method",
+          "isCorrect": false,
+          "explanation": "This method involves breaking vectors into their horizontal and vertical components, which is useful for analytical calculations but not a geometrical method."
+        },
+        {
+          "letter": "C",
+          "text": "Right hand rule method",
+          "isCorrect": false,
+          "explanation": "This technique is used primarily in physics to determine the direction of angular momentum or magnetic fields, not for the geometrical addition of vectors."
+        },
+        {
+          "letter": "D",
+          "text": "Hit and trial method",
+          "isCorrect": false,
+          "explanation": "This approach is not a systematic method for vector addition; it suggests a trial-and-error process, which is not effective in geometrical contexts."
+        }
+      ],
+      "explanation": "Head-to-tail rule aligns vectors sequentially to determine resultant.",
+      "explanationImage": null,
+      "hints": [
+        "Geometrical method"
+      ]
+    },
+    {
+      "text": "A force F of magnitude 20N is acting on an object making an angle of 30° with the X-axis. Its Fy component is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "This option suggests that there is no vertical component of the force, which is incorrect as there is a component due to the angle."
+        },
+        {
+          "letter": "B",
+          "text": "10 N",
+          "isCorrect": true,
+          "explanation": "This is the correct option. The vertical component (Fy) is calculated as Fy = 20 N sin(30°) = 10 N."
+        },
+        {
+          "letter": "C",
+          "text": "20 N",
+          "isCorrect": false,
+          "explanation": "This option represents the total magnitude of the force, not the vertical component. The vertical component is less than the total force when at an angle."
+        },
+        {
+          "letter": "D",
+          "text": "60 N",
+          "isCorrect": false,
+          "explanation": "This option is incorrect and does not relate to any calculation from the information given in the question."
+        }
+      ],
+      "explanation": "Fy = F sinθ = 20 sin30° = 10 N.",
+      "explanationImage": null,
+      "hints": [
+        "force F",
+        "angle of 30°",
+        "Fy component"
+      ]
+    },
+    {
+      "text": "The resultant of two forces each of magnitude F is 2F, then the angle between them will be",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "120°",
+          "isCorrect": false,
+          "explanation": "For an angle of 120°, the resultant would be less than the sum of the magnitudes due to the forces acting in opposite directions."
+        },
+        {
+          "letter": "B",
+          "text": "30°",
+          "isCorrect": false,
+          "explanation": "At an angle of 30°, the resultant would also be less than the sum of the magnitudes, indicating that the forces are not aligned."
+        },
+        {
+          "letter": "C",
+          "text": "60°",
+          "isCorrect": false,
+          "explanation": "With a 60° angle, the resultant is still less than the maximum possible value (2F), as the forces are not fully aligned."
+        },
+        {
+          "letter": "D",
+          "text": "0°",
+          "isCorrect": true,
+          "explanation": "At an angle of 0°, the forces are perfectly aligned, and the resultant is the sum of the magnitudes, which is 2F. This is the correct answer."
+        }
+      ],
+      "explanation": "R = 2F forces act in same direction angle = 0°.",
+      "explanationImage": null,
+      "hints": [
+        "resultant",
+        "forces",
+        "angle"
+      ]
+    },
+    {
+      "text": "When we take scalar product of a vector by itself (self product) the result gives the:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Magnitude of the vector",
+          "isCorrect": false,
+          "explanation": "This option suggests that the result is simply the magnitude of the vector, which is incorrect. The scalar product of a vector with itself actually results in a different value."
+        },
+        {
+          "letter": "B",
+          "text": "Square root of the magnitude of the vector",
+          "isCorrect": false,
+          "explanation": "This option is misleading, as the scalar product does not yield the square root of the magnitude; rather, it gives the square of the magnitude."
+        },
+        {
+          "letter": "C",
+          "text": "Square of the magnitude of the vector",
+          "isCorrect": true,
+          "explanation": "This is the correct option. The scalar product of a vector with itself equals the square of its magnitude, which is a fundamental property of vectors."
+        },
+        {
+          "letter": "D",
+          "text": "Same vector",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the result of the scalar product is not the vector itself, but a scalar value derived from its magnitude."
+        }
+      ],
+      "explanation": "The self dot product of vector A is A·A = |A|2.",
+      "explanationImage": null,
+      "hints": [
+        "scalar product",
+        "vector",
+        "result"
+      ]
+    },
+    {
+      "text": "A vector in space has",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "One component",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because a vector in space requires more than one component to represent its direction and magnitude."
+        },
+        {
+          "letter": "B",
+          "text": "Two components",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect as vectors in a three-dimensional space require three components to fully define their position and orientation."
+        },
+        {
+          "letter": "C",
+          "text": "Three components",
+          "isCorrect": true,
+          "explanation": "This is the correct option. A vector in space is represented by three components corresponding to the x, y, and z axes, which define its direction and magnitude in three-dimensional space."
+        },
+        {
+          "letter": "D",
+          "text": "No component",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because a vector must have at least one component to exist; without components, it cannot represent any direction or magnitude."
+        }
+      ],
+      "explanation": "3D vector in space has 3 components which are x, y, z components.",
+      "explanationImage": null,
+      "hints": [
+        "vector",
+        "space"
+      ]
+    },
+    {
+      "text": "The scalar or Dot product of Vectors (3iˆ- 2jˆ+4kˆ) and (2iˆ+ 2jˆ- 3kˆ) is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-9",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "-10",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "-11",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Explanation:(3) (2) + (-2) (2) + (4) (-3) 6 - 4 - 12= -10.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A vector whose magnitude is same as that of A, but opposite in direction is known as",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Null vector",
+          "isCorrect": false,
+          "explanation": "A null vector is a vector with zero magnitude and no direction, which does not have the same magnitude as vector A."
+        },
+        {
+          "letter": "B",
+          "text": "Negative vector",
+          "isCorrect": true,
+          "explanation": "A negative vector has the same magnitude as the original vector but points in the opposite direction, making it the correct answer."
+        },
+        {
+          "letter": "C",
+          "text": "Addition of vector",
+          "isCorrect": false,
+          "explanation": "Addition of vectors involves combining two or more vectors, which does not relate to reversing the direction of a single vector."
+        },
+        {
+          "letter": "D",
+          "text": "Subtraction of vector",
+          "isCorrect": false,
+          "explanation": "Subtraction of vectors involves finding the resultant vector when one vector is taken away from another, which is not the same as reversing a vector's direction."
+        }
+      ],
+      "explanation": "Negative vector has same magnitude, opposite direction.",
+      "explanationImage": null,
+      "hints": [
+        "magnitude",
+        "opposite",
+        "direction"
+      ]
+    },
+    {
+      "text": "Evaluate the scalar product of the following: kˆ.( iˆ+ jˆ) ?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": true,
+          "explanation": "This option is correct because kˆ is perpendicular to both iˆ and jˆ, resulting in a dot product of zero."
+        },
+        {
+          "letter": "B",
+          "text": "45",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as the dot product does not yield 45; it only calculates the cosine of the angle between vectors, which is zero in this case."
+        },
+        {
+          "letter": "C",
+          "text": "90",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the scalar product does not equal 90; the result is zero since kˆ is perpendicular to the other two vectors."
+        },
+        {
+          "letter": "D",
+          "text": "180",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as well; the scalar product cannot equal 180. The correct result is zero due to perpendicularity."
+        }
+      ],
+      "explanation": "The scalar (dot) product of two vectors is zero if they are perpendicular. Here,kˆ is perpendicular to both iˆand jˆ, so:kˆ⋅(iˆ+jˆ) =kˆ.iˆ+ kˆ⋅jˆ=0+0=0.",
+      "explanationImage": null,
+      "hints": [
+        "kˆ",
+        "iˆ+ jˆ",
+        "scalar product"
+      ]
+    },
+    {
+      "text": "Two vectors having different magnitudes:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Have their direction opposite",
+          "isCorrect": false,
+          "explanation": "This statement is not necessarily true. Two vectors can have opposite directions, but they can also have the same direction, leading to different resultant magnitudes."
+        },
+        {
+          "letter": "B",
+          "text": "May have their resultant zero",
+          "isCorrect": false,
+          "explanation": "This option is misleading. Two vectors can only have a resultant of zero if they have the same magnitude and are in opposite directions, which contradicts the premise that the vectors have different magnitudes."
+        },
+        {
+          "letter": "C",
+          "text": "Cannot have their resultant zero",
+          "isCorrect": true,
+          "explanation": "This is correct. Two vectors with different magnitudes cannot add up to a resultant of zero, as their magnitudes do not cancel each other out."
+        },
+        {
+          "letter": "D",
+          "text": "None of the above",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the correct statement is that two vectors with different magnitudes cannot have a resultant of zero."
+        }
+      ],
+      "explanation": "Only equal and opposite vectors can have zero resultant.",
+      "explanationImage": null,
+      "hints": [
+        "vectors",
+        "different magnitudes"
+      ]
+    },
+    {
+      "text": "If A and B are two vectors, then the correct statement is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A + B = B + A",
+          "isCorrect": true,
+          "explanation": "This statement reflects the commutative property of vector addition, which is always true for any vectors A and B."
+        },
+        {
+          "letter": "B",
+          "text": "A - B = B - A",
+          "isCorrect": false,
+          "explanation": "This statement is incorrect because vector subtraction is not commutative; changing the order changes the result."
+        },
+        {
+          "letter": "C",
+          "text": "A x B = B x A",
+          "isCorrect": false,
+          "explanation": "This statement is misleading as vector multiplication (cross product) is not commutative; A x B is equal to - (B x A)."
+        },
+        {
+          "letter": "D",
+          "text": "None of the above",
+          "isCorrect": false,
+          "explanation": "This option is incorrect since option A is indeed a valid statement regarding vectors."
+        }
+      ],
+      "explanation": "Vector addition is commutative, which means changing the order of the vectors does not change the resultant vector.However, vector subtraction and cross product depend on direction, so their order changes.",
+      "explanationImage": null,
+      "hints": [
+        "vectors",
+        "correct"
+      ]
+    },
+    {
+      "text": "When three forces acting at a point are in equilibrium:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Each force is numerically equal to the sum of the other two.",
+          "isCorrect": true,
+          "explanation": "This is the correct statement that reflects the principle of equilibrium of forces. In a state of equilibrium, each force must balance the others, meaning the vector sum of the forces is zero."
+        },
+        {
+          "letter": "B",
+          "text": "Each force is numerically greater than the sum of the other two.",
+          "isCorrect": false,
+          "explanation": "This statement is incorrect. If each force were greater than the sum of the other two, they would not be in equilibrium, as this would create a net force in one direction."
+        },
+        {
+          "letter": "C",
+          "text": "Each force is numerically greater than the difference of the other two.",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect. If a force is greater than the difference of the other two, it implies an imbalance, contradicting the condition of equilibrium."
+        },
+        {
+          "letter": "D",
+          "text": "None of these.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because one of the previous statements (Option A) is indeed true, making this option invalid."
+        }
+      ],
+      "explanation": "Each force is numerically greater than the difference of the other two — this follows from the triangle law of forces for equilibrium. Equilibrium condition: F1 = F2+ F3 in magnitude (triangle of forces).",
+      "explanationImage": null,
+      "hints": [
+        "three forces",
+        "in equilibrium"
+      ]
+    },
+    {
+      "text": "A vector such as the velocity of a body undergoing uniform translational motion, which can be displaced parallel to itself and applied to any point known as:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Unit vector",
+          "isCorrect": false,
+          "explanation": "A unit vector has a magnitude of one and indicates direction only. It does not represent the ability to be applied to different points in space."
+        },
+        {
+          "letter": "B",
+          "text": "Free vector",
+          "isCorrect": true,
+          "explanation": "A free vector is one that can be translated parallel to itself without changing its properties, making it applicable at any point in space. This matches the description given in the question."
+        },
+        {
+          "letter": "C",
+          "text": "Null vector",
+          "isCorrect": false,
+          "explanation": "A null vector has a magnitude of zero and thus does not represent any direction or velocity, making it irrelevant to the context of motion."
+        },
+        {
+          "letter": "D",
+          "text": "Position vector",
+          "isCorrect": false,
+          "explanation": "A position vector describes the location of a point relative to an origin. It does not reflect the ability to be applied freely at different points while maintaining its characteristics."
+        }
+      ],
+      "explanation": "A vector such as the velocity of a body undergoing uniform translational motion, which can be displaced parallel to itself and applied at any point, is known as a free vector.",
+      "explanationImage": null,
+      "hints": [
+        "velocity",
+        "uniform translational motion",
+        "displaced parallel"
+      ]
+    },
+    {
+      "text": "If a vector α makes an angle θ with the x-axis its x-component is given as:.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "a cos θ",
+          "isCorrect": true,
+          "explanation": "This option is correct because the x-component of a vector is calculated using the cosine of the angle it makes with the x-axis, which represents the adjacent side of the triangle formed."
+        },
+        {
+          "letter": "B",
+          "text": "a sin θ",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the sine function is used to find the y-component of the vector, which corresponds to the opposite side of the triangle."
+        },
+        {
+          "letter": "C",
+          "text": "a tan θ",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the tangent function relates the y-component to the x-component, but it does not directly give the x-component itself."
+        },
+        {
+          "letter": "D",
+          "text": "a sin α",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it uses the sine of the angle α, which does not correspond to the x-component of the vector; it is not the correct trigonometric function for this scenario."
+        }
+      ],
+      "explanation": "If angle is made within x axis then the angle is given as x- component = |α| cosθ.",
+      "explanationImage": null,
+      "hints": [
+        "vector",
+        "angle",
+        "x-component"
+      ]
+    },
+    {
+      "text": "A vector is multiplied by positive number then:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Its magnitude changes",
+          "isCorrect": true,
+          "explanation": "Correct! When a vector is multiplied by a positive number, its magnitude increases or decreases depending on the value of that number, but its direction remains unchanged."
+        },
+        {
+          "letter": "B",
+          "text": "Its direction changes but magnitude remains the same",
+          "isCorrect": false,
+          "explanation": "Incorrect. Multiplying a vector by a positive number does not change its direction; it only alters the magnitude."
+        },
+        {
+          "letter": "C",
+          "text": "Its magnitude as well as direction changes",
+          "isCorrect": false,
+          "explanation": "Incorrect. The direction of a vector remains the same when it is multiplied by a positive number. Only the magnitude changes."
+        },
+        {
+          "letter": "D",
+          "text": "Neither its magnitude nor direction changes",
+          "isCorrect": false,
+          "explanation": "Incorrect. A vector's magnitude does change when it is multiplied by a positive number, while its direction stays the same."
+        }
+      ],
+      "explanation": "Multiplying a vector by a positive number only increases or decreases its magnitude, while its direction stays the same.",
+      "explanationImage": null,
+      "hints": [
+        "vector",
+        "positive"
+      ]
+    },
+    {
+      "text": "If A.B = 0, we conclude that:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Either of the two vectors is a null vector",
+          "isCorrect": false,
+          "explanation": "This option is partially correct; if one vector is a null vector, the dot product will be zero. However, it does not account for the case where both vectors are non-null but perpendicular."
+        },
+        {
+          "letter": "B",
+          "text": "Both of the vectors are null vectors",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because while both vectors being null would yield a dot product of zero, it is not the only scenario that leads to this result."
+        },
+        {
+          "letter": "C",
+          "text": "The vectors are mutually perpendicular",
+          "isCorrect": false,
+          "explanation": "This is correct; if two non-zero vectors are perpendicular to each other, their dot product is zero. But this is not the only correct option."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": "This option is correct as it encompasses all scenarios where the dot product can equal zero, including cases where one or both vectors are null, or they are perpendicular."
+        }
+      ],
+      "explanation": "A·B = 0 can happen if a vector is null, both are null, or if they are perpendicular — so all options are possible.",
+      "explanationImage": null,
+      "hints": [
+        "A.B = 0",
+        "conclude"
+      ]
+    },
+    {
+      "text": "Two forces each of magnitude F act perpendicular to each other. The angle made by the resultant force with the horizontal will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "30°",
+          "isCorrect": false,
+          "explanation": "A 30° angle would suggest a significant imbalance between the two forces, which is not the case since they are equal and perpendicular."
+        },
+        {
+          "letter": "B",
+          "text": "45°",
+          "isCorrect": true,
+          "explanation": "This is the correct angle. When two equal forces are applied perpendicularly, the resultant forms a 45° angle with the horizontal, indicating symmetrical contribution from both forces."
+        },
+        {
+          "letter": "C",
+          "text": "60°",
+          "isCorrect": false,
+          "explanation": "A 60° angle would imply that one force is dominating over the other, which contradicts the condition that both forces are equal and perpendicular."
+        },
+        {
+          "letter": "D",
+          "text": "90°",
+          "isCorrect": false,
+          "explanation": "A 90° angle would suggest that the resultant force has no horizontal component, but since both forces are equal and perpendicular, they combine to form a diagonal at 45°."
+        }
+      ],
+      "explanation": "Resultant of equal perpendicular vectors makes 45° with either axis.",
+      "explanationImage": null,
+      "hints": [
+        "forces",
+        "magnitude F",
+        "perpendicular",
+        "angle"
+      ]
+    },
+    {
+      "text": "The scalar product of two vectors is negative when:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "They are parallel vectors",
+          "isCorrect": false,
+          "explanation": "When vectors are parallel, the angle between them is 0 degrees, resulting in a positive scalar product."
+        },
+        {
+          "letter": "B",
+          "text": "They are anti-parallel vectors",
+          "isCorrect": true,
+          "explanation": "When vectors are anti-parallel, they point in opposite directions, resulting in a negative scalar product because the angle between them is 180 degrees."
+        },
+        {
+          "letter": "C",
+          "text": "They are perpendicular vectors",
+          "isCorrect": false,
+          "explanation": "When vectors are perpendicular, the angle between them is 90 degrees, resulting in a scalar product of zero, not negative."
+        },
+        {
+          "letter": "D",
+          "text": "They are parallel with some magnitude",
+          "isCorrect": false,
+          "explanation": "Parallel vectors, regardless of their magnitudes, have an angle of 0 degrees between them, leading to a positive scalar product."
+        }
+      ],
+      "explanation": "Dot product = AB cosθ. For anti-parallel θ = 180° → cosθ = -1 →negative.",
+      "explanationImage": null,
+      "hints": [
+        "scalar product",
+        "negative"
+      ]
+    },
+    {
+      "text": "The y-component of a vector 100N force, making an angle of 30° with the x-axis is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "50N",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The y-component is calculated as 100N × sin(30°), which equals 100N × 0.5 = 50N."
+        },
+        {
+          "letter": "B",
+          "text": "20N",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It does not correctly apply the sine function to calculate the y-component of the vector."
+        },
+        {
+          "letter": "C",
+          "text": "10N",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The calculation does not account for the correct sine value for the angle given."
+        },
+        {
+          "letter": "D",
+          "text": "80N",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It overestimates the y-component and does not use the sine function properly."
+        }
+      ],
+      "explanation": "Fy = 100 sin30° = 50 N.",
+      "explanationImage": null,
+      "hints": [
+        "100N",
+        "30°",
+        "y-component"
+      ]
+    },
+    {
+      "text": "Dot or scalar product obeys the:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Associative law",
+          "isCorrect": false,
+          "explanation": "The associative law states that for any three vectors A, B, and C, (A · B) · C = A · (B · C). However, the dot product does not actually satisfy this law since the dot product is not associative in terms of vector multiplication."
+        },
+        {
+          "letter": "B",
+          "text": "Commutative law",
+          "isCorrect": false,
+          "explanation": "The commutative law states that the order of the vectors does not affect the result: A · B = B · A. This property holds true for the dot product."
+        },
+        {
+          "letter": "C",
+          "text": "Distributive law",
+          "isCorrect": false,
+          "explanation": "The distributive law indicates that the dot product distributes over vector addition: A · (B + C) = A · B + A · C. This property is also true for the dot product."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": "This option is correct because the dot product satisfies the commutative and distributive laws, but it does not satisfy the associative law. However, this is an acknowledgment of the properties that apply to the operation, even if one of the options doesn't hold."
+        }
+      ],
+      "explanation": "The dot or scalar product obeys the commutative law, the distributive law, and the associative law (with scalar multiplication).",
+      "explanationImage": null,
+      "hints": [
+        "Dot",
+        "obeys"
+      ]
+    },
+    {
+      "text": "The magnitude of a vector A= Axiˆ+ Ayjˆ+ Azkˆ is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ax2 + Ay2 + Az2",
+          "isCorrect": false,
+          "explanation": "This expression represents the sum of the squares of the vector components, but it does not account for the square root necessary to find the magnitude."
+        },
+        {
+          "letter": "B",
+          "text": "(Ax + Ay + Az)²",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests that the magnitude can be found by simply summing the components and squaring the result, which is not the correct method."
+        },
+        {
+          "letter": "C",
+          "text": "(Ax² + Ay² + Az²)¹/²",
+          "isCorrect": true,
+          "explanation": "This is the correct expression for the magnitude of vector A, as it correctly applies the formula |A| = √(Ax2 + Ay2 + Az2)."
+        },
+        {
+          "letter": "D",
+          "text": "A/√3",
+          "isCorrect": false,
+          "explanation": "This option is not a valid representation of the magnitude of vector A, as it does not correspond to the correct formula for calculating vector magnitude."
+        }
+      ],
+      "explanation": "Magnitude of vector A= |A|=√(Ax2+Ay2 +Az2).",
+      "explanationImage": null,
+      "hints": [
+        "magnitude",
+        "vector A",
+        "A<sub>x</sub>, A<sub>y</sub>, A<sub>z</sub>"
+      ]
+    },
+    {
+      "text": "Two forces of same magnitude F act on a body inclined at an angle of 90° , then the magnitude of their resultant is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "F√2",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. When two equal forces of magnitude F are acting at a right angle (90°) to each other, their resultant can be calculated using the formula R = √(F² + F²) = F√2."
+        },
+        {
+          "letter": "B",
+          "text": "2√2F",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it incorrectly multiplies the resultant by √2 and 2, which does not apply in this scenario."
+        },
+        {
+          "letter": "C",
+          "text": "2F",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it suggests that the forces simply add up linearly, which is not the case when they are at a right angle to each other."
+        },
+        {
+          "letter": "D",
+          "text": "F/2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it suggests that the resultant force is less than either individual force, which contradicts the principle of vector addition."
+        }
+      ],
+      "explanation": "Magnitude of resultant vector is R = √(F12 + F22) = F√2.",
+      "explanationImage": null,
+      "hints": [
+        "forces",
+        "magnitude",
+        "90°"
+      ]
+    },
+    {
+      "text": "If |F1| =3cm and |F2| =4cm, F1 is making an angle of 30° and F2 is making an angle of 120° with the x-axis, then their scalar product is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0 cm²",
+          "isCorrect": true,
+          "explanation": "The scalar product is zero when the vectors are perpendicular to each other or when one of the vectors has zero magnitude. In this case, the calculation shows that the scalar product is zero because the angle between the vectors leads to a cosine of 180°."
+        },
+        {
+          "letter": "B",
+          "text": "6 cm²",
+          "isCorrect": false,
+          "explanation": "This value may result from an incorrect calculation of the scalar product. It does not use the correct angle between the vectors and thus is not valid."
+        },
+        {
+          "letter": "C",
+          "text": "10.39 cm²",
+          "isCorrect": false,
+          "explanation": "This option likely arises from a misinterpretation of the angles or incorrect application of the scalar product formula. The correct calculation yields a different result."
+        },
+        {
+          "letter": "D",
+          "text": "12 cm²",
+          "isCorrect": false,
+          "explanation": "This answer does not correspond to the scalar product derived from the given magnitudes and angles. It results from an incorrect application of the formula."
+        }
+      ],
+      "explanation": "Angle between vectors = 90° → cos90°= 0→ scalar product = 0.",
+      "explanationImage": null,
+      "hints": [
+        "30°",
+        "120°",
+        "scalar product"
+      ]
+    },
+    {
+      "text": "The vector product between two vectors A and B is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "AB sinθ",
+          "isCorrect": false,
+          "explanation": "This option indicates the magnitude of the vector product but lacks the necessary directional component, which should include a unit vector."
+        },
+        {
+          "letter": "B",
+          "text": "AB cosθ",
+          "isCorrect": false,
+          "explanation": "This option uses cosine instead of sine, which is incorrect for the vector product. The cosine relates to the dot product, not the cross product."
+        },
+        {
+          "letter": "C",
+          "text": "AB sinθ n̂",
+          "isCorrect": true,
+          "explanation": "This is the correct representation of the vector product, where 'n̂' represents the unit vector in the direction perpendicular to the plane formed by vectors A and B."
+        },
+        {
+          "letter": "D",
+          "text": "AB cosθ n̂",
+          "isCorrect": false,
+          "explanation": "This option incorrectly uses cosine and does not reflect the nature of the vector product, which should involve sine, not cosine."
+        }
+      ],
+      "explanation": "Cross product magnitude = AB sinθ, direction = n̂ perpendicular to plane.",
+      "explanationImage": null,
+      "hints": [
+        "vector product",
+        "two vectors"
+      ]
+    },
+    {
+      "text": "A force of 10N is acting on a body making an angle of 45° with x-axis. Its x and y components are:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "7.07 N and 7.07 N",
+          "isCorrect": true,
+          "explanation": "This option is correct. The x-component is calculated as 10N cos(45°) = 7.07N, and the y-component is calculated as 10N * sin(45°) = 7.07N."
+        },
+        {
+          "letter": "B",
+          "text": "7.07 N and 5 N",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The y-component should be 7.07N, not 5N, when the angle is 45°."
+        },
+        {
+          "letter": "C",
+          "text": "5 N and 7.07 N",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The x-component should be 7.07N, not 5N, as calculated using the cosine function."
+        },
+        {
+          "letter": "D",
+          "text": "8.66 N and 5 N",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The components do not match the calculations for a 45° angle; the x-component is less than 10N."
+        }
+      ],
+      "explanation": "The force is resolved into its horizontal and vertical components using the formulas Fx=Fcosθ and Fy=Fsinθ. Substituting the given values, where the magnitude of the force is 10 and the angle is 45∘, the horizontal component is Fx=10cos45o=7.07, and the vertical component is Fy=10sin45o=7.07.",
+      "explanationImage": null,
+      "hints": [
+        "force of 10N",
+        "angle of 45°",
+        "x-axis"
+      ]
+    },
+    {
+      "text": "The magnitude of resultant of three vectors is 3. Its x-component is 2 and its y-component is 1. Its z- component will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "This option suggests a z-component of 4, which would give a magnitude greater than 3 when combined with the x and y components."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "A z-component of 1 would lead to a resultant magnitude calculated as √(2² + 1² + 1²) = √6, which is not equal to 3."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "This is the correct z-component. The resultant magnitude of the vector is calculated as √(2² + 1² + 2²) = √9 = 3."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "A z-component of 0 would yield a resultant magnitude of √(2² + 1²) = √5, which does not equal 3."
+        }
+      ],
+      "explanation": "|R| = √(Rx2 + Ry2 + Rz2)→ 3 = √(22+12+ Rz2) →Rz = 2.",
+      "explanationImage": null,
+      "hints": [
+        "magnitude of resultant",
+        "x-component",
+        "y-component"
+      ]
+    },
+    {
+      "text": "If two equal unit vectors are inclined at an angle of 90° , then magnitude of their resultant will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "This option suggests that the magnitude of the resultant is equal to the sum of the magnitudes of the vectors. This is incorrect because the vectors are at an angle and do not simply add linearly."
+        },
+        {
+          "letter": "B",
+          "text": "√2",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. When two equal unit vectors are inclined at an angle of 90°, the magnitude of the resultant is calculated as √(1² + 1²) = √2."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This option implies that the resultant magnitude is the same as the individual magnitudes of the unit vectors. This is incorrect because the vectors' directions affect the resultant."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "This option suggests that the vectors cancel each other out, resulting in a zero magnitude. This is incorrect, as the vectors are not opposite in direction."
+        }
+      ],
+      "explanation": "Magnitude of resultant is R = √(12 + 12) = √2.",
+      "explanationImage": null,
+      "hints": [
+        "equal unit vectors",
+        "angle of 90°",
+        "resultant"
+      ]
+    },
+    {
+      "text": "Unit vector is used to specify:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Magnitude of a vector",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because a unit vector does not specify the magnitude of a vector; instead, it has a fixed magnitude of 1."
+        },
+        {
+          "letter": "B",
+          "text": "Dimension of a vector",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the dimension of a vector refers to the number of components it has, not what a unit vector specifies."
+        },
+        {
+          "letter": "C",
+          "text": "Direction of a vector",
+          "isCorrect": true,
+          "explanation": "This option is correct because a unit vector is specifically defined to indicate the direction of a vector while having a magnitude of 1."
+        },
+        {
+          "letter": "D",
+          "text": "Position of a vector",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as the position of a vector refers to its location in space, not what a unit vector represents."
+        }
+      ],
+      "explanation": "A unit vector is a direction vector that has a magnitude of one and is used to indicate direction without affecting the size of a quantity.",
+      "explanationImage": null,
+      "hints": [
+        "Unit vector"
+      ]
+    },
+    {
+      "text": "The unit vector of a vector A of magnitude 2 is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A/3",
+          "isCorrect": false,
+          "explanation": "This option suggests dividing vector A by 3, which does not yield a unit vector since the magnitude of A is 2."
+        },
+        {
+          "letter": "B",
+          "text": "2A/2",
+          "isCorrect": false,
+          "explanation": "This option simplifies to A, which is not a unit vector as it retains the original magnitude of 2."
+        },
+        {
+          "letter": "C",
+          "text": "A/4",
+          "isCorrect": false,
+          "explanation": "This option divides vector A by 4, resulting in a vector with a magnitude of 0.5, which is still not a unit vector."
+        },
+        {
+          "letter": "D",
+          "text": "A/2",
+          "isCorrect": true,
+          "explanation": "This option correctly indicates that dividing vector A by its magnitude (which is 2) gives the unit vector in the direction of A."
+        }
+      ],
+      "explanation": "Unit vector = A / |A| = A / 2.",
+      "explanationImage": null,
+      "hints": [
+        "unit vector",
+        "vector A"
+      ]
+    },
+    {
+      "text": "A force of 20N is acting along x-axis, its component along x-axis is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "20N",
+          "isCorrect": true,
+          "explanation": "This is the correct answer because the entire force is acting along the x-axis, making its x-component equal to its magnitude."
+        },
+        {
+          "letter": "B",
+          "text": "10N",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it suggests that only half of the force is acting along the x-axis, which is not the case here."
+        },
+        {
+          "letter": "C",
+          "text": "5N",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it implies that only a small portion of the force is acting along the x-axis, which does not reflect the situation described."
+        },
+        {
+          "letter": "D",
+          "text": "0N",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it suggests that there is no component of the force acting along the x-axis, which contradicts the given information."
+        }
+      ],
+      "explanation": "If a force of 20 N acts along the x-axis, it is already directed entirely in that axis, so its component along the x-axis is equal to the force itself. Therefore, the x-component of the force is 20 N.",
+      "explanationImage": null,
+      "hints": [
+        "force",
+        "20N",
+        "x-axis"
+      ]
+    },
+    {
+      "text": "If two forces each of magnitude 5N act along the same line on a body, then the magnitude of their resultant will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 N",
+          "isCorrect": false,
+          "explanation": "This option represents the magnitude of only one of the forces, not the resultant of both forces acting together."
+        },
+        {
+          "letter": "B",
+          "text": "10 N",
+          "isCorrect": true,
+          "explanation": "This is the correct answer, as the two forces of 5 N each add up to a total of 10 N when acting in the same direction."
+        },
+        {
+          "letter": "C",
+          "text": "20 N",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it wrongly assumes an additional component or force that is not present in the problem statement."
+        },
+        {
+          "letter": "D",
+          "text": "30 N",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect as it exaggerates the resultant force by incorrectly adding more forces than are specified."
+        }
+      ],
+      "explanation": "When two forces of 5 N each act along the same line, they are called collinear forces. Collinear forces lie along a single straight line and may act in the same or opposite directions. In this case, since both forces act along the same line and in the same direction, their magnitudes add directly.Hence, the resultant force is 5+5=10 N.",
+      "explanationImage": null,
+      "hints": [
+        "forces",
+        "act along the same line",
+        "resultant"
+      ]
+    },
+    {
+      "text": "If A =Axiˆ+ Ayjˆand B = Bxiˆ+ Byjˆthen A.B will be equal to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "𝐴𝑥 Bx + AyBy",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "𝐴𝑥By + AyBx",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "𝐴𝑥2 By2 + Ay2 Bx2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "𝐴𝑥2 Bx2 + Ay2 By2",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If cross product between two non zero vectors A and B is zero, then their dot product is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "AB sin θ",
+          "isCorrect": false,
+          "explanation": "This option represents the magnitude of the cross product, which is not applicable here since the cross product is zero."
+        },
+        {
+          "letter": "B",
+          "text": "AB cos θ",
+          "isCorrect": false,
+          "explanation": "This represents the magnitude of the dot product, but since the cross product is zero, the vectors must be parallel, leading to a specific product rather than a general expression."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "This option implies that the dot product is zero, which is not necessarily true; the dot product could be non-zero if the vectors are parallel and non-zero."
+        },
+        {
+          "letter": "D",
+          "text": "AB",
+          "isCorrect": true,
+          "explanation": "This is correct if vectors A and B are parallel and non-zero, in which case their dot product equals the product of their magnitudes."
+        }
+      ],
+      "explanation": "A×B =0 → θ = 0° or 180° → A·B = AB.",
+      "explanationImage": null,
+      "hints": [
+        "cross product",
+        "zero",
+        "dot product"
+      ]
+    },
+    {
+      "text": "The cross product of a vector A with itself is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A²",
+          "isCorrect": false,
+          "explanation": "The expression A² suggests a scalar product, but the cross product of a vector with itself does not yield a scalar. This option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "2A",
+          "isCorrect": false,
+          "explanation": "This option implies that the output is a scaled version of vector A. However, the cross product of a vector with itself yields a different result, so this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "isCorrect": true,
+          "explanation": "The cross product of a vector with itself is always zero because the angle between the vector and itself is zero, leading to zero magnitude. This is the correct answer."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "The result of 1 does not apply to the cross product of vectors, which results in a vector or zero. Therefore, this option is incorrect."
+        }
+      ],
+      "explanation": "Self product of A = A×A =0.",
+      "explanationImage": null,
+      "hints": [
+        "cross product",
+        "vector A",
+        "itself"
+      ]
+    },
+    {
+      "text": "The product iˆ× jˆ is equal to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "The cross product of two parallel vectors is indeed zero. However, since the vectors i and j are perpendicular to each other, their cross product is not zero, making this option incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the cross product of vectors does not yield a scalar value like 1. The result of a cross product is a vector, not a scalar."
+        },
+        {
+          "letter": "C",
+          "text": "Kˆ",
+          "isCorrect": true,
+          "explanation": "This is the correct answer! The cross product iˆ × jˆ results in the unit vector kˆ, which is perpendicular to both i and j according to the right-hand rule."
+        },
+        {
+          "letter": "D",
+          "text": "-Kˆ",
+          "isCorrect": false,
+          "explanation": "This option suggests the opposite direction of the correct answer. While kˆ is indeed perpendicular to both i and j, the cross product iˆ × jˆ specifically yields kˆ, not -kˆ, making this option incorrect."
+        }
+      ],
+      "explanation": "iˆ× jˆ= k by right-hand rule.",
+      "explanationImage": null,
+      "hints": [
+        "iˆ",
+        "jˆ",
+        "cross product"
+      ]
+    },
+    {
+      "text": "If x-component of a vector is 3 N and y-component is -3 N, then angle of the resultant vector with x-axis will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "45°",
+          "isCorrect": false,
+          "explanation": "This angle is incorrect because it suggests equal positive x and y components, but the given y-component is negative."
+        },
+        {
+          "letter": "B",
+          "text": "315°",
+          "isCorrect": true,
+          "explanation": "This is the correct angle since it is in the fourth quadrant where the x-component is positive and the y-component is negative, thus fitting the given values."
+        },
+        {
+          "letter": "C",
+          "text": "135°",
+          "isCorrect": false,
+          "explanation": "This angle is incorrect as it corresponds to a situation where both components would be negative, which is not the case here."
+        },
+        {
+          "letter": "D",
+          "text": "225°",
+          "isCorrect": false,
+          "explanation": "This angle is also incorrect because it indicates both x and y components are negative, contrary to the given positive x-component."
+        }
+      ],
+      "explanation": "4th quadrant= 360-45=315°.",
+      "explanationImage": null,
+      "hints": [
+        "x-component",
+        "y-component",
+        "resultant vector"
+      ]
+    },
+    {
+      "text": "If A = 3iˆ+ 4jˆ, then the magnitude of A will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "7",
+          "isCorrect": false,
+          "explanation": "This option incorrectly states the magnitude. The value 7 is greater than the actual calculated magnitude of vector A."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The magnitude of vector A is calculated as √(3² + 4²) = √(9 + 16) = √25 = 5."
+        },
+        {
+          "letter": "C",
+          "text": "25",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests the square of the magnitude. The magnitude of A is not equal to the sum of the squares of its components."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it underestimates the magnitude of vector A significantly."
+        }
+      ],
+      "explanation": "Magnitude of A = |A| = √(32 +42)=5.",
+      "explanationImage": null,
+      "hints": [
+        "magnitude",
+        "A = 3iˆ + 4jˆ"
+      ]
+    },
+    {
+      "text": "When a force of 10 N is acting on a body making an angle of 60° with x-axis and displaces this body through 10 m, then scalar product of force and displacement is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 J",
+          "isCorrect": false,
+          "explanation": "This option incorrectly assumes the full magnitude of the force contributes to the work done without considering the angle of application."
+        },
+        {
+          "letter": "B",
+          "text": "50 J",
+          "isCorrect": true,
+          "explanation": "This is the correct answer, calculated using the scalar product formula: F · d = |F| |d| cos(θ) = 10 N x 10 m x cos(60°) = 10 x 10 x 0.5 = 50 J."
+        },
+        {
+          "letter": "C",
+          "text": "8.66 J",
+          "isCorrect": false,
+          "explanation": "This option results from a miscalculation of the cosine component or the use of the sine function instead of cosine."
+        },
+        {
+          "letter": "D",
+          "text": "50 N",
+          "isCorrect": false,
+          "explanation": "This option confuses the scalar product (work) with the force itself, which is not a valid answer in the context of work done."
+        }
+      ],
+      "explanation": "W = Fdcosθ = 100 x 0.5=50 J.",
+      "explanationImage": null,
+      "hints": [
+        "10 N",
+        "60°",
+        "10 m",
+        "scalar product"
+      ]
+    },
+    {
+      "text": "If A = 3iˆ+ 6jˆ, B = xiˆ+k and A.B = 12, then x will be equal to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "This option suggests that x = 2. When substituting x = 2 into the dot product equation, A.B would not equal 12, making this option incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. Substituting x = 4 into the equation A.B gives the correct dot product of 12, satisfying the condition provided."
+        },
+        {
+          "letter": "C",
+          "text": "12",
+          "isCorrect": false,
+          "explanation": "This option suggests that x = 12. However, substituting 12 into the dot product equation results in a value greater than 12, which is not valid."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "This option suggests that x = 3. Substituting x = 3 into the equation gives a dot product less than 12, making this option incorrect."
+        }
+      ],
+      "explanation": "The dot product A⋅B=(3)(x)+(6)(0)+(0)(1)=3x. Given A.B= 3 x= 12 x=4.",
+      "explanationImage": null,
+      "hints": [
+        "A.B",
+        "x",
+        "3i + 6j"
+      ]
+    },
+    {
+      "text": "In a right angled triangle, cosθ=",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Perpendicular / Hypotenuse",
+          "isCorrect": false,
+          "explanation": "This option incorrectly defines cosθ. Cosine relates to the adjacent side, not the perpendicular side."
+        },
+        {
+          "letter": "B",
+          "text": "Base / Hypotenuse",
+          "isCorrect": true,
+          "explanation": "This is the correct representation of cosθ, as it defines the cosine of an angle in a right triangle as the ratio of the length of the adjacent side (base) to the hypotenuse."
+        },
+        {
+          "letter": "C",
+          "text": "Perpendicular / Base",
+          "isCorrect": false,
+          "explanation": "This option describes the tangent function (tanθ), not cosine. Cosine does not involve the perpendicular side in its definition."
+        },
+        {
+          "letter": "D",
+          "text": "None of the above",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because option B provides the correct definition of cosθ."
+        }
+      ],
+      "explanation": "In a right-angled triangle, cosθ is defined as the ratio of the side adjacent to the angle (base) to the hypotenuse.",
+      "explanationImage": null,
+      "hints": [
+        "cosθ"
+      ]
+    },
+    {
+      "text": "For a force F, Fx= 6 N and Fy= 6 N. What is the angle between F and x-axis:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Less than 30°",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it underestimates the angle given that both components are equal."
+        },
+        {
+          "letter": "B",
+          "text": "60°",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While 60° is a significant angle, it does not reflect the equal contributions of the x and y components."
+        },
+        {
+          "letter": "C",
+          "text": "45°",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. When Fx and Fy are equal, the angle with the x-axis is 45°, as θ = arctan(6 N / 6 N) = 45°."
+        },
+        {
+          "letter": "D",
+          "text": "Greater than 60°",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it again suggests an angle that exceeds what is possible given the equal force components."
+        }
+      ],
+      "explanation": "The angle between x and y axis is given as tanθ = Fy / Fx = 6 / 6=1 θ=45°.",
+      "explanationImage": null,
+      "hints": [
+        "angle",
+        "F and x-axis"
+      ]
+    },
+    {
+      "text": "A simple example of a dot product is the",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Force",
+          "isCorrect": false,
+          "explanation": "Force is a vector quantity that represents the influence that causes an object to undergo a change in motion. While it can be related to work, it is not an example of a dot product itself."
+        },
+        {
+          "letter": "B",
+          "text": "Energy",
+          "isCorrect": false,
+          "explanation": "Energy is a scalar quantity that measures the capacity to do work. However, it is not directly the result of a dot product between two vectors."
+        },
+        {
+          "letter": "C",
+          "text": "Work",
+          "isCorrect": true,
+          "explanation": "Work is defined as the dot product of force and displacement vectors. It quantifies the energy transferred when a force acts on an object, making it a direct example of a dot product."
+        },
+        {
+          "letter": "D",
+          "text": "Momentum",
+          "isCorrect": false,
+          "explanation": "Momentum is a vector quantity that represents the product of an object's mass and velocity. It does not involve the dot product and is not a scalar."
+        }
+      ],
+      "explanation": "Work done is defined as a dot product of force and distance travelled in the direction of applied force.",
+      "explanationImage": null,
+      "hints": [
+        "dot product",
+        "example",
+        "scalar"
+      ]
+    },
+    {
+      "text": "In contrast of a scalar a vector must have a",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Direction",
+          "isCorrect": true,
+          "explanation": "This is correct because a vector is characterized by having both magnitude and direction."
+        },
+        {
+          "letter": "B",
+          "text": "Weight",
+          "isCorrect": false,
+          "explanation": "Weight is a scalar quantity that measures the force of gravity on an object. It does not define a vector."
+        },
+        {
+          "letter": "C",
+          "text": "Quantity",
+          "isCorrect": false,
+          "explanation": "Quantity is a general term that can refer to both scalars and vectors. It does not specifically indicate a vector's defining characteristic."
+        },
+        {
+          "letter": "D",
+          "text": "None of the above",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because a vector must have direction, which is listed as Option A."
+        }
+      ],
+      "explanation": "A vector requires both a magnitude and a direction.",
+      "explanationImage": null,
+      "hints": [
+        "scalar",
+        "vector",
+        "must have"
+      ]
+    },
+    {
+      "text": "A vector in space has _ dimensions:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "A vector cannot exist in zero dimensions as it requires at least one direction for its representation."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "A one-dimensional vector only has magnitude in a single direction, which does not represent a vector in space where multiple directions are needed."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "A two-dimensional vector can represent points on a plane, but it does not account for the third dimension typically found in spatial vectors."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "isCorrect": true,
+          "explanation": "A three-dimensional vector includes components in the x, y, and z directions, accurately representing a vector in space."
+        }
+      ],
+      "explanation": "A vector in space has three dimensions, corresponding to the x, y, and z directions.",
+      "explanationImage": null,
+      "hints": [
+        "space",
+        "dimensions"
+      ]
+    },
+    {
+      "text": "The vector quantity which is defined as the displacement of the particle during a time interval divided by that time interval is called",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Speed",
+          "isCorrect": false,
+          "explanation": "Speed is a scalar quantity that measures how fast an object is moving, but it does not account for the direction of the movement."
+        },
+        {
+          "letter": "B",
+          "text": "Average speed",
+          "isCorrect": false,
+          "explanation": "Average speed is the total distance traveled divided by the total time taken, without considering direction, making it a scalar quantity."
+        },
+        {
+          "letter": "C",
+          "text": "Average velocity",
+          "isCorrect": true,
+          "explanation": "Average velocity is a vector quantity defined as the displacement of an object divided by the time interval, incorporating both magnitude and direction."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the correct answer, average velocity, is provided among the options."
+        }
+      ],
+      "explanation": "Average velocity is defined as the displacement of a particle divided by the time interval.",
+      "explanationImage": null,
+      "hints": [
+        "displacement",
+        "time interval"
+      ]
+    },
+    {
+      "text": "Two vectors A = 3iˆ+ 4jˆ and B = 2iˆ - 3jˆ are added. What is the magnitude of the resultant vector?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The magnitude of the resultant vector is not equal to 3."
+        },
+        {
+          "letter": "B",
+          "text": "√26",
+          "isCorrect": true,
+          "explanation": "This option is correct. The magnitude of the resultant vector calculated from the components is √26."
+        },
+        {
+          "letter": "C",
+          "text": "√34",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The magnitude does not equal √34 based on the vector addition performed."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The resultant vector's magnitude does not equal 7."
+        }
+      ],
+      "explanation": "Resultant R = A + B = (3 + 2)iˆ+ (4 - 3)jˆ= 5iˆ+ jˆ. Magnitude = √(52+ 12) = √(25 + 1) = √26 ≈ 5.1.",
+      "explanationImage": null,
+      "hints": [
+        "resultant vector",
+        "magnitude",
+        "addition of vectors",
+        "added"
+      ]
+    },
+    {
+      "text": "A vector has components Ax = 6 and Ay= -8. What is the angle the vector makes with the positive x-axis?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "53.1°",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "126.9°",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "233.1°",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "306.9°",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "θ = tan−1(Ay / Ax) = tan-1(-8 / 6) = tan-1 (-4/3) ≈ -53.1°. Since Ax > 0, Ay < 0, the vector is in the 4th quadrant: θ = 360° - 53.1° = 306.9°.",
+      "explanationImage": null,
+      "hints": [
+        "angle",
+        "positive x-axis"
+      ]
+    },
+    {
+      "text": "The dot product of two vectors A = 2iˆ+ 3jˆ and B = 4iˆ - 2jˆ is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-2",
+          "isCorrect": false,
+          "explanation": "This result comes from incorrectly calculating the dot product. It could be a result of subtracting components instead of multiplying them."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The dot product is calculated as (2 x 4) + (3 x -2) = 8 - 6 = 2."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it may result from only multiplying the magnitudes of the vectors without considering the directions."
+        },
+        {
+          "letter": "D",
+          "text": "14",
+          "isCorrect": false,
+          "explanation": "This option results from an incorrect addition of the products of the components, ignoring the signs of the components."
+        }
+      ],
+      "explanation": "Dot product A·B = Ax Bx + Ay By = (2 × 4) + (3 × -2) = 8 - 6 = 2.",
+      "explanationImage": null,
+      "hints": [
+        "dot product",
+        "vectors A",
+        "vectors B"
+      ]
+    },
+    {
+      "text": "A boat moves with velocity 5iˆ+ 2jˆ m/s relative to water flowing at -3iˆ m/s. What is the boat’s velocity relative to the ground?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2iˆ + 2jˆ m/s",
+          "isCorrect": false,
+          "explanation": "This option incorrectly sums the i and j components. The addition does not account for the water's velocity properly."
+        },
+        {
+          "letter": "B",
+          "text": "8iˆ + 2jˆ m/s",
+          "isCorrect": true,
+          "explanation": "This is the correct option. It accurately calculates the boat's velocity relative to the ground by adding the water's current velocity to the boat's velocity in still water."
+        },
+        {
+          "letter": "C",
+          "text": "5iˆ - 1jˆ m/s",
+          "isCorrect": false,
+          "explanation": "This option fails to add the water's velocity correctly. The j component is miscalculated, resulting in an incorrect representation of the boat's total velocity."
+        },
+        {
+          "letter": "D",
+          "text": "2iˆ - 2jˆ m/s",
+          "isCorrect": false,
+          "explanation": "This option miscalculates both components of the velocity. The calculations do not reflect the correct addition of the water's current."
+        }
+      ],
+      "explanation": "Relative velocity = V boat-Vwater = (5iˆ+ 2jˆ) - (-3iˆ)= (5 + 3)iˆ+ 2jˆ= 8iˆ+ 2jˆ.",
+      "explanationImage": null,
+      "hints": [
+        "velocity",
+        "relative to water"
+      ]
+    },
+    {
+      "text": "The cross product of vectors A = 3iˆ+ 4jˆ and B = 2iˆ+ 5jˆ results in a vector in the:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "xy-plane",
+          "isCorrect": false,
+          "explanation": "The xy-plane is defined by vectors in the i and j directions. Since the cross product of A and B, which lie in this plane, would not yield a vector in this same plane, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "xz-plane",
+          "isCorrect": false,
+          "explanation": "The xz-plane consists of vectors that have components in the i and k directions. The vectors A and B do not have any k component, making this option also incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "yz-plane",
+          "isCorrect": false,
+          "explanation": "The yz-plane consists of vectors that lie in the j and k directions. Since both vectors A and B have no k component, their cross product cannot lie in this plane, thus this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "z-direction",
+          "isCorrect": true,
+          "explanation": "The cross product of vectors A and B results in a vector that points in the z-direction, as it is perpendicular to the plane formed by A and B. Therefore, this option is correct."
+        }
+      ],
+      "explanation": "Cross-product A × B = (Ax By - Ay Bx) k = (3 × 5 - 4 × 2)k = (15 - 8)k = 7k, which is along the z-direction.",
+      "explanationImage": null,
+      "hints": [
+        "cross product",
+        "vectors"
+      ]
+    },
+    {
+      "text": "A vector A = 4iˆ- 3jˆ + 5kˆ is projected onto the x-axis. What is the magnitude of the projection?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests a magnitude that does not correspond to the x-component of vector A."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "isCorrect": true,
+          "explanation": "This is the correct answer because it represents the magnitude of the x-component of vector A, which is 4."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "This option refers to the k-component of vector A, which is not relevant for the projection onto the x-axis."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it does not relate to any component of vector A and is not a valid projection magnitude."
+        }
+      ],
+      "explanation": "The projection of a vector onto the x-axis depends only on its x-component.For A = 4iˆ− 3jˆ+ 5kˆ, the x-component is 4, so the magnitude of the projection is 4.",
+      "explanationImage": null,
+      "hints": [
+        "vector A",
+        "projected onto the x-axis",
+        "projection"
+      ]
+    },
+    {
+      "text": "Two forces F₁ = 10iˆ+ 5jˆ N and F₂ = -5iˆ+ 15jˆ N act on a particle. What is the angle between the resultant force and the x-axis?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "45°",
+          "isCorrect": false,
+          "explanation": "This angle does not correspond to the calculated angle between the resultant force and the x-axis based on the given vector components."
+        },
+        {
+          "letter": "B",
+          "text": "63.4°",
+          "isCorrect": true,
+          "explanation": "This is the correct angle obtained from the arctangent of the ratio of the y-component to the x-component of the resultant vector."
+        },
+        {
+          "letter": "C",
+          "text": "71.6°",
+          "isCorrect": false,
+          "explanation": "This angle is higher than the correct angle and does not match the calculation from the resultant vector components."
+        },
+        {
+          "letter": "D",
+          "text": "90°",
+          "isCorrect": false,
+          "explanation": "An angle of 90° would indicate a purely vertical resultant vector, which is not the case here as both components contribute to the resultant vector's direction."
+        }
+      ],
+      "explanation": "Resultant F = F1 + F2 = (10 - 5)iˆ+ (5 + 15)jˆ= 5iˆ+ 20jˆ. θ = tan-1(Fy / Fx) =tan-1(20 / 5) = tan-1 (4) ≈ 63.4°.",
+      "explanationImage": null,
+      "hints": [
+        "resultant force",
+        "x-axis",
+        "Two forces"
+      ]
+    },
+    {
+      "text": "A particle moves with velocity v = 3iˆ+ 4jˆ m/s. What is the magnitude of its acceleration if it is acted upon by a force F = 2iˆ- 6jˆ N and its mass is 2 kg?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.5 m/s²",
+          "isCorrect": false,
+          "explanation": "This value is incorrect because it does not result from the calculation using the given force and mass."
+        },
+        {
+          "letter": "B",
+          "text": "3.2 m/s²",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. It is derived from the calculation of acceleration using the formula a = F/m, where F is the net force and m is the mass."
+        },
+        {
+          "letter": "C",
+          "text": "4.0 m/s²",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it does not accurately reflect the result of applying Newton's second law to the provided force and mass."
+        },
+        {
+          "letter": "D",
+          "text": "5.0 m/s²",
+          "isCorrect": false,
+          "explanation": "This value does not match the correct calculation of acceleration based on the given parameters."
+        }
+      ],
+      "explanation": "Acceleration a = F / m = (2iˆ- 6jˆ) / 2 = iˆ- 3jˆ m/s2. Magnitude = √(12 + (-3)2) = √(1 + 9) = √10 ≈ 3.16 m/s2, closest to 3.2 m/s2.",
+      "explanationImage": null,
+      "hints": [
+        "mass is 2 kg",
+        "particle",
+        "magnitude"
+      ]
+    },
+    {
+      "text": "The scalar triple product of vectors A = iˆ+ jˆ + kˆ, B = 2iˆ - jˆ+ 3kˆ and C = 3iˆ+ 2jˆ- kˆ is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "This option suggests that the scalar triple product is zero, which would indicate that the vectors are coplanar. However, after calculating the determinant, this value is not correct."
+        },
+        {
+          "letter": "B",
+          "text": "13",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The scalar triple product, calculated using the determinant of the matrix formed by the vectors A, B, and C, yields a value of 13."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "isCorrect": false,
+          "explanation": "This option indicates a scalar triple product that is greater than the correct answer. The calculation shows that the value does not reach 10."
+        },
+        {
+          "letter": "D",
+          "text": "15",
+          "isCorrect": false,
+          "explanation": "This option suggests an even higher scalar triple product than the correct answer. The determinant calculation does not support this value."
+        }
+      ],
+      "explanation": "Scalar triple product = A · (B × C).B × C = (-1 × -1) - (3 × 2) )iˆ - ( (2 × -1) - (3 × 3) )jˆ + ((2 × 2) - (-1 × 3) )kˆ = (-5)iˆ + 11jˆ + 7kˆ. A · (B × C) = 1 × -5 + 1 × 11 + 1 × 7 = -5 + 11 + 7 = 13.",
+      "explanationImage": null,
+      "hints": [
+        "scalar triple product"
+      ]
+    },
+    {
+      "text": "A vector A = 5iˆ+ 12jˆ is resolved into two perpendicular components, one along B = 3iˆ+ 4jˆ. What is the magnitude of the component along B?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10.5",
+          "isCorrect": false,
+          "explanation": "This option represents a value that is too low when calculating the projection of vector A onto vector B."
+        },
+        {
+          "letter": "B",
+          "text": "13.2",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect; it underestimates the magnitude of the vector component along B."
+        },
+        {
+          "letter": "C",
+          "text": "12.6",
+          "isCorrect": true,
+          "explanation": "This is the correct answer, calculated by using the projection of vector A onto vector B."
+        },
+        {
+          "letter": "D",
+          "text": "17.4",
+          "isCorrect": false,
+          "explanation": "This option is too high; it exceeds the possible magnitude of the component of vector A along vector B."
+        }
+      ],
+      "explanation": "Component of A along B = (A · B / |B|2)B. A· B = (5 × 3) + (12 × 4) = 15 + 48 = 63. |B|2 = 32 + 42 = 25. Scalar projection = 63 / 25 = 2.52. Magnitude of component = 2.52 × |B| = 2.52 × 5 ≈ 12.6.",
+      "explanationImage": null,
+      "hints": [
+        "resolved",
+        "perpendicular",
+        "component along B"
+      ]
+    },
+    {
+      "text": "Two vectors A = 4iˆ - 3jˆ+ 2kˆ and B = -2iˆ + 5jˆ - kˆ are added. What is the magnitude of the resultant vector?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "5.39",
+          "isCorrect": false,
+          "explanation": "This value does not reflect the correct calculation of the resultant vector's magnitude."
+        },
+        {
+          "letter": "B",
+          "text": "6.40",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect as it does not match the magnitude derived from the vector addition."
+        },
+        {
+          "letter": "C",
+          "text": "3.00",
+          "isCorrect": true,
+          "explanation": "This is the correct magnitude of the resultant vector obtained after adding the components of vectors A and B."
+        },
+        {
+          "letter": "D",
+          "text": "8.12",
+          "isCorrect": false,
+          "explanation": "This option exceeds the correct magnitude calculated from the given vectors."
+        }
+      ],
+      "explanation": "Resultant R = A + B = (4 - 2)iˆ + (-3 + 5)jˆ+ (2 - 1)kˆ = 2iˆ+ 2jˆ+ kˆ. Magnitude = √(22 + 22 + 12) = √(4 + 4 + 1) = √9 = 3.",
+      "explanationImage": null,
+      "hints": [
+        "resultant vector",
+        "magnitude"
+      ]
+    },
+    {
+      "text": "A vector A = 6iˆ+ 8jˆ - 4kˆ makes an angle with the z-axis. What is the cosine of this angle?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-0.33",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The calculation of the cosine of the angle requires using the z-component and the magnitude of the vector, yielding a different result."
+        },
+        {
+          "letter": "B",
+          "text": "-0.37",
+          "isCorrect": true,
+          "explanation": "This option is correct. It represents the cosine of the angle between the vector A and the z-axis, calculated from the z-component and the vector's magnitude."
+        },
+        {
+          "letter": "C",
+          "text": "0.33",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The value does not correspond to the cosine of the angle derived from the vector's components."
+        },
+        {
+          "letter": "D",
+          "text": "0.37",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While the value is close, it does not represent the correct cosine value calculated from the z-component of the vector."
+        }
+      ],
+      "explanation": "Magnitude of A = √(62 + 82 + (-4)2) = √(36 + 64 + 16) = √116 ≈ 10.77. Component along z-axis = -4. cos θz = Az / |A| = -4 / 10.77 ≈ -0.37.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The dot product of vectors A = 3iˆ - 2jˆ+4kˆ and B = 5iˆ + 6jˆ - 3kˆ is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-3",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The calculation involves multiplying the corresponding components of vectors A and B, then summing those products."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It does not reflect the correct sum of the products of the components of vectors A and B."
+        },
+        {
+          "letter": "C",
+          "text": "15",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The value does not match the result obtained from calculating the dot product of the given vectors."
+        },
+        {
+          "letter": "D",
+          "text": "25",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The sum of the products of the components of vectors A and B does not equal this value."
+        }
+      ],
+      "explanation": "Dot product A·B = Ax × Bx + Ay × By + Az × Bz = (3 × 5) + (-2 × 6) + (4 × -3) = 15 - 12 - 12 = -3.",
+      "explanationImage": null,
+      "hints": [
+        "dot product",
+        "vectors A",
+        "vectors B"
+      ]
+    },
+    {
+      "text": "Which diagram shows the addition of 4N and 3N vectors?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": true,
+          "explanation": "This option correctly represents the vector addition of 4N and 3N, taking into account their magnitudes and directions."
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": "This option incorrectly shows the vectors being added at an angle that does not accurately reflect the given magnitudes."
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": "This option fails to represent the correct resultant vector from the addition of 4N and 3N, as the magnitudes do not align properly."
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": false,
+          "explanation": "This option illustrates a scenario where the vectors are not accurately represented, leading to an incorrect resultant vector."
+        }
+      ],
+      "explanation": "The correct diagram is (A) because in vector addition, the second vector (3 N) is drawn from the head of the first vector (4 N), and the resultant (5 N) is drawn from the tail of the first to the head of the second, forming a right triangle.",
+      "explanationImage": null,
+      "hints": [
+        "addition",
+        "4N",
+        "3N"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,796 @@
+{
+  "questions": [
+    {
+      "text": "If A + B= 7i^ +7k^ and A-B= -i^ + k^, then the magnitude of A will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-1",
+          "isCorrect": false,
+          "explanation": "This option does not match the calculated magnitude of A, which is 5. Option a is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "This option does not match the calculated magnitude of A, which is 5. Option b is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "isCorrect": true,
+          "explanation": "Given: A + B = 7i^ + 7k^ A - B = -i^ + k^ To find the magnitude of A, we need to eliminate B from these equations. We can do this by adding the two equations together: (A + B) + (A - B) = (7i^ + 7k^) + (-i^ + k^) Simplifying the left side and right side separately: 2A = 6i^ + 8k^ Dividing both sides by 2: A = 3i^ + 4k^ Now we have the vector A. To find its magnitude, we can use the formula: |A| = √(Ax^2 + Ay^2 + Az^2) In this case, Ax = 3, Ay = 0, and Az = 4. Substituting these values into the formula: |A| = √(3^2 + 0^2 + 4^2) = √(9 + 0 + 16) = √25 = 5 Therefore, the magnitude of A is 5. Hence, option C is the correct answer."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "isCorrect": false,
+          "explanation": "This option does not match the calculated magnitude of A, which is 5. Option d is incorrect."
+        }
+      ],
+      "explanation": "Given:A + B = 7i^ + 7k^A - B = -i^ + k^To find the magnitude of A, we need to eliminate B from these equations. We can do this by adding the two equations together:(A + B) + (A - B) = (7i^ + 7k^) + (-i^ + k^)Simplifying the left side and right side separately:2A = 6i^ + 8k^Dividing both sides by 2:A = 3i^ + 4k^Now we have the vector A. To find its magnitude, we can use the formula:|A| = √(Ax^2 + Ay^2 + Az^2)Since i^,j^, and,k^ are the unit vectors for x,y, and z coordinate planes respectively.In this case, Ax = 3, Ay = 0, and Az = 4. Substituting these values into the formula:|A| = √(3^2 + 0^2 + 4^2)= √(9 + 0 + 16)= √25= 5Therefore, the magnitude of A is 5. Hence, option C is the correct answer.",
+      "explanationImage": null,
+      "hints": [
+        "A + B",
+        "A - B",
+        "magnitude of A"
+      ]
+    },
+    {
+      "text": "In the given figure, a force of 5 N is acting on an object towards East and then it moves towards North under the action of a 6 N force. The resultant force on the object is equal to",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 N",
+          "isCorrect": false,
+          "explanation": "This is incorrect. To determine the resultant force, we need to find the vector sum of the two forces. Adding the magnitudes of the forces (5 N and 6 N) will not give us the correct answer because we need to consider their directions as well."
+        },
+        {
+          "letter": "B",
+          "text": "7 N",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Adding the magnitudes of the forces (5 N and 6 N) will give us a total of 11 N. However, this answer does not consider the vector nature of the forces and their directions."
+        },
+        {
+          "letter": "C",
+          "text": "√61 N",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. To find the resultant force, we need to add the forces vectorially. The 5 N force acting towards the East and the 6 N force acting towards the North are at right angles to each other. We can use the Pythagorean theorem to find the magnitude of the resultant force: Resultant force = √((5 N)² + (6 N)²) = √(25 N² + 36 N²) = √(61 N²) = √61 N."
+        },
+        {
+          "letter": "D",
+          "text": "√11 N",
+          "isCorrect": false,
+          "explanation": "This is incorrect. As mentioned before, simply adding the magnitudes of the forces will not give us the correct answer. The resultant force depends on both the magnitudes and directions of the forces."
+        }
+      ],
+      "explanation": "To find the resultant force, we need to add the forces vectorially. The 5 N force acting towards the East and the 6 N force acting towards the North are at right angles to each other. We can use the Pythagorean theorem to find the magnitude of the resultant force: Resultant force = √((5 N)² + (6 N)²) = √(25 N² + 36 N²) = √(61 N²) = √ 61 N.",
+      "explanationImage": null,
+      "hints": [
+        "force",
+        "East",
+        "North"
+      ]
+    },
+    {
+      "text": "If two forces F1 and F2 act on a body and are balanced by a frictional force F3 so that the body is in equilibrium, then which of the following diagrams correctly represents the sum of vectors?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": "The three forces F₁, F₂, and F₃ are arranged tail-to-tail and pointing in different directions.There is no head-to-tail connection among the vectors.This does not represent vector addition or a closed triangle.So, it does not satisfy equilibrium condition.Conclusion: Incorrect"
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": "The vectors F₁ and F₂ are arranged head-to-tail.However, F₃ is also pointing outward rather than completing the triangle.The triangle does not close, and the resultant of F₁ + F₂ is not balanced by F₃.Again, this setup does not reflect zero net force.Conclusion: Incorrect"
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": "F₁ and F₂ are placed head-to-tail, but F₃ is pointing in the same general direction as the others.It fails to act as the opposing force to the resultant of F₁ + F₂.Therefore, it doesn’t complete the vector triangle properly.No equilibrium is achieved here either.Conclusion: Incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": true,
+          "explanation": "This is the correct vector representation.F₁ and F₂ are placed head-to-tail, and then F₃ starts from the head of F₂ and ends at the tail of F₁, forming a closed triangle.This means:F₁ + F₂ + F₃ = 0, indicating the body is in perfect equilibrium.The frictional force F₃ is correctly shown as the balancing force against the resultant of F₁ and F₂.Conclusion: Correct"
+        }
+      ],
+      "explanation": "This is the correct vector representation.F₁ and F₂ are placed head-to-tail, and then F₃ starts from the head of F₂ and ends at the tail of F₁, forming a closed triangle.This means:F₁ + F₂ + F₃ = 0, indicating the body is in perfect equilibrium.The frictional force F₃ is correctly shown as the balancing force against the resultant of F₁ and F₂.Conclusion: Correct",
+      "explanationImage": null,
+      "hints": [
+        "equilibrium"
+      ]
+    },
+    {
+      "text": "A force F= 6i + 2j - 3k acts on a particle and produces a displacement d = 2i -3j+xk, what is the value of \"x\". If work done is zero?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "We use the formula, W = F.d 0 = (6i + 2j - 3k)(2i -3j+xk) x = 12 - 6 -3x 3x = 6 x = 2 Hence, this option is correct."
+        },
+        {
+          "letter": "B",
+          "text": "-2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the solution."
+        },
+        {
+          "letter": "C",
+          "text": "1/2",
+          "isCorrect": false,
+          "explanation": "Incorrect as per calculations."
+        },
+        {
+          "letter": "D",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "Incorrect as per calculations."
+        }
+      ],
+      "explanation": "We use the formula, W = F.d0 = (6i + 2j - 3k)(2i -3j+xk)x = 12 - 6 -3x3x = 6x = 2",
+      "explanationImage": null,
+      "hints": [
+        "zero",
+        "work done"
+      ]
+    },
+    {
+      "text": "The resultant of the two vectors having magnitude 2 and 3 is 1. What is the magnitude of their cross product",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": "This would be the magnitude if the vectors were perpendicular, but they are not."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "This is not the correct magnitude for the cross product given the resultant vector is 1."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it does not satisfy the conditions given."
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "isCorrect": true,
+          "explanation": "The vectors are parallel or anti-parallel, resulting in a cross product magnitude of zero."
+        }
+      ],
+      "explanation": "To find the magnitude of the cross product of two vectors, we use the formula |A × B| = |A||B|sinθ, where θ is the angle between the vectors. Given that the resultant vector of magnitudes 2 and 3 is 1, this indicates that the vectors are parallel or anti-parallel, meaning θ is 0 or 180 degrees. At these angles, sinθ = 0, resulting in a cross product magnitude of 0. Therefore, option D is correct. Options A, B, and C are incorrect as they do not account for the angle at which the vectors are aligned.",
+      "explanationImage": null,
+      "hints": [
+        "resultant",
+        "magnitude 2 and 3"
+      ]
+    },
+    {
+      "text": "The angles which a vector iˆ + jˆ + √2kˆ makes with X, Y and Z axes respectively are:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "60°, 60°, 60°",
+          "isCorrect": false,
+          "explanation": "This option assumes equal angles with all axes, which is only the case for a symmetric vector like î + ĵ + k̂, not î + ĵ + √2k̂."
+        },
+        {
+          "letter": "B",
+          "text": "45°, 45°, 45°",
+          "isCorrect": false,
+          "explanation": "This option suggests equal angles for a vector with equal magnitude components, such as î + ĵ + k̂, which is not applicable here."
+        },
+        {
+          "letter": "C",
+          "text": "60°, 60°, 45°",
+          "isCorrect": true,
+          "explanation": "This is the correct answer, as these angles are calculated using the direction cosines for the vector î + ĵ + √2k̂."
+        },
+        {
+          "letter": "D",
+          "text": "45°, 45°, 60°",
+          "isCorrect": false,
+          "explanation": "This option incorrectly assumes the largest angle is with the Z-axis, which does not align with the magnitude of its component √2."
+        }
+      ],
+      "explanation": "To determine the angles a vector makes with the coordinate axes, we use the direction cosines. For a vector v = aî + bĵ + ck̂, the cosine of the angle θx with the X-axis is cos(θx) = a/|v|, the cosine of the angle θy with the Y-axis is cos(θy) = b/|v|, and the cosine of the angle θz with the Z-axis is cos(θz) = c/|v|. Here, the vector is î + ĵ + √2k̂, hence a = 1, b = 1, and c = √2. The magnitude |v| is √(1² + 1² + (√2)²) = 2. Therefore, we have: cos(θx) = 1/2 leading to θx = 60°, cos(θy) = 1/2 leading to θy = 60°, cos(θz) = √2/2 leading to θz = 45°. Thus, the angles are 60°, 60°, and 45° respectively. Options A and B are incorrect as they suggest equal angles, which do not match the vector's components. Option D incorrectly attributes the largest angle to the Z-axis, which does not match the vector's magnitude distribution.",
+      "explanationImage": null,
+      "hints": [
+        "angles",
+        "vector",
+        "axes"
+      ]
+    },
+    {
+      "text": "If the angle between two forces increases, the magnitude of their resultant:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decreases",
+          "isCorrect": true,
+          "explanation": "Correct. As the angle between two vectors increases, the magnitude of their resultant decreases according to the vector addition formula."
+        },
+        {
+          "letter": "B",
+          "text": "Increases",
+          "isCorrect": false,
+          "explanation": "Incorrect. An increase in angle between vectors leads to a smaller resultant magnitude, not a larger one."
+        },
+        {
+          "letter": "C",
+          "text": "Remains unchanged",
+          "isCorrect": false,
+          "explanation": "Incorrect. The resultant magnitude changes with the angle; it does not remain constant."
+        },
+        {
+          "letter": "D",
+          "text": "Decreases and then increases",
+          "isCorrect": false,
+          "explanation": "Incorrect. The resultant magnitude consistently decreases as the angle increases, up to 180 degrees."
+        }
+      ],
+      "explanation": "The magnitude of the resultant force in vector addition is given by the formula: R = √(A² + B² + 2ABcosθ), where A and B are the magnitudes of the two forces and θ is the angle between them. As the angle θ increases from 0 to 180 degrees, the cosine of the angle decreases from 1 to -1, thus reducing the value of the resultant force R. Therefore, the magnitude of the resultant decreases as the angle increases.",
+      "explanationImage": null,
+      "hints": [
+        "angle",
+        "forces",
+        "resultant"
+      ]
+    },
+    {
+      "text": "An object originally at the point (2, 5, 1) cm is given a displacement (8iˆ - 2jˆ + kˆ) cm . The co-ordinates of the new position are :",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "(10, 3, 2) cm",
+          "isCorrect": true,
+          "explanation": "The displacement (8i - 2j + k) cm is added to the original position (2, 5, 1) cm, resulting in (10, 3, 2) cm."
+        },
+        {
+          "letter": "B",
+          "text": "(8, –2, + 1) cm",
+          "isCorrect": false,
+          "explanation": "This option incorrectly applies the displacement. Each component should be added to the corresponding component of the initial position."
+        },
+        {
+          "letter": "C",
+          "text": "(0, 0, 0)",
+          "isCorrect": false,
+          "explanation": "This option suggests no displacement or incorrect subtraction, which is not the case here."
+        },
+        {
+          "letter": "D",
+          "text": "Data not correct.",
+          "isCorrect": false,
+          "explanation": "The data provided is correct and sufficient to find the new position."
+        }
+      ],
+      "explanation": "To find the new position after a displacement, add the displacement vector components to the original position vector components:Original position: (2, 5, 1) cmDisplacement: (8i - 2j + k) cm, which translates to (8, -2, 1) cmNew position: (2 + 8, 5 - 2, 1 + 1) cm = (10, 3, 2) cmOption A is correct because it correctly adds each component of the displacement to the corresponding component of the original position. Options B, C, and D are incorrect because they either misapply the displacement vector or suggest incorrect assumptions about the data.",
+      "explanationImage": null,
+      "hints": [
+        "originally at the point",
+        "displacement",
+        "new position"
+      ]
+    },
+    {
+      "text": "The resultant of two forces, one double the other in magnitude, is perpendicular to the smaller of the two forces. The angle between the two forces is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "600",
+          "isCorrect": false,
+          "explanation": "While 60 degrees is a common angle in vector problems, it does not satisfy the condition of the resultant being perpendicular to the smaller force when one force is double the other."
+        },
+        {
+          "letter": "B",
+          "text": "1200",
+          "isCorrect": true,
+          "explanation": "This is the correct option because when two forces are such that one is double the other, the angle between the forces must be 120 degrees for the resultant to be perpendicular to the smaller force."
+        },
+        {
+          "letter": "C",
+          "text": "1500",
+          "isCorrect": false,
+          "explanation": "An angle of 150 degrees is too large to achieve a perpendicular resultant under these conditions. It does not satisfy the perpendicular condition."
+        },
+        {
+          "letter": "D",
+          "text": "900",
+          "isCorrect": false,
+          "explanation": "While 90 degrees might seem like a plausible angle for vectors, in this scenario, it does not result in a perpendicular resultant with the given force magnitudes."
+        }
+      ],
+      "explanation": "To solve this question, consider the triangle of forces. Let the smaller force have magnitude F and the larger one have magnitude 2F. Since the resultant is perpendicular to the smaller force, we can use the cosine rule or vector resolution to find the angle between the forces. The cosine of the angle θ between the vectors can be determined by setting the dot product of the resultant and the smaller vector to zero, yielding cos(θ) = -1/2. This corresponds to an angle of 120 degrees. Therefore, the correct answer is 1200. Other angles like 600, 1500, and 900 do not satisfy these conditions.",
+      "explanationImage": null,
+      "hints": [
+        "resultant",
+        "perpendicular",
+        "angle"
+      ]
+    },
+    {
+      "text": "The angle between two vectors of magnitude 12 and 18 units when their resultant is 24 units, will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "89.16°",
+          "isCorrect": false,
+          "explanation": "This angle would result from a different combination of vector magnitudes and resultant, not matching the given values."
+        },
+        {
+          "letter": "B",
+          "text": "82.31°",
+          "isCorrect": false,
+          "explanation": "This calculation does not fit the given vector magnitudes and resultant."
+        },
+        {
+          "letter": "C",
+          "text": "75.52°",
+          "isCorrect": true,
+          "explanation": "Correct! This angle is calculated using the law of cosines based on the given magnitudes and resultant."
+        },
+        {
+          "letter": "D",
+          "text": "63.51°",
+          "isCorrect": false,
+          "explanation": "This angle is too small for the given vector magnitudes to result in a resultant of 24 units."
+        }
+      ],
+      "explanation": "To find the angle between the two vectors, we can use the formula for the resultant of two vectors: R2 = A2 + B2 + 2ABcosθ Here, R is the resultant vector (24 units), and A and B are the magnitudes of the vectors (12 and 18 units respectively). We rearrange the formula to solve for the angle θ: cosθ = (R2 - A2 - B2) / (2AB) Substituting the values, we get: cosθ = (242 - 122 - 182) / (2 * 12 * 18) cosθ = (576 - 144 - 324) / 432 cosθ = 0.258 θ = cos-1(0.258) = 75.52° Thus, the correct answer is 75.52°. The other options either overestimate or underestimate the angle required to achieve a resultant of 24 units with the given vector magnitudes.",
+      "explanationImage": null,
+      "hints": [
+        "magnitude",
+        "resultant",
+        "angle"
+      ]
+    },
+    {
+      "text": "The position vectors of P and Q are 5i+4j+ak and -i +2j - 2k respectively. If the distance between them is 7, then the value of a will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "–5, 1",
+          "isCorrect": true,
+          "explanation": "These are the correct values for 'a' that satisfy the distance condition between the vectors."
+        },
+        {
+          "letter": "B",
+          "text": "5, 1",
+          "isCorrect": false,
+          "explanation": "This option assumes incorrect modifications of the vectors or miscalculated the distance formula."
+        },
+        {
+          "letter": "C",
+          "text": "0, 5",
+          "isCorrect": false,
+          "explanation": "This set of values does not satisfy the given distance condition when calculated."
+        },
+        {
+          "letter": "D",
+          "text": "1, 0",
+          "isCorrect": false,
+          "explanation": "This option does not correctly solve the equation derived from the distance formula."
+        }
+      ],
+      "explanation": "To find the value of 'a', use the distance formula for points in 3D space: Distance = √((x2 - x1)2 + (y2 - y1)2 + (z2 - z1)2). Here, P = (5, 4, a) and Q = (-1, 2, -2). The distance is given as 7. Set up the equation: √((5 + 1)2 + (4 - 2)2 + (a + 2)2) = 7. Solving this gives (6)2 + (2)2 + (a + 2)2 = 49. Simplifying, 36 + 4 + (a + 2)2 = 49. Therefore, (a + 2)2 = 9, which gives a + 2 = ±3. Hence, a = 1 or a = -5. The correct answer is –5, 1. The other options result from incorrect calculations or assumptions.",
+      "explanationImage": null,
+      "hints": [
+        "position vectors",
+        "distance",
+        "7"
+      ]
+    },
+    {
+      "text": "The magnitude of a given vector with end points (4,–4, 0) and (–2,–2, 0) must be :",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Re-evaluate your calculations using the correct formula for magnitude."
+        },
+        {
+          "letter": "B",
+          "text": "5√2",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Ensure you apply the correct formula for finding the magnitude of a vector."
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Double-check the components of the vector and the formula used."
+        },
+        {
+          "letter": "D",
+          "text": "2√10",
+          "isCorrect": true,
+          "explanation": "Correct! The magnitude is found using the formula: √((x2-x1)² + (y2-y1)² + (z2-z1)²)."
+        }
+      ],
+      "explanation": "The magnitude of a vector is calculated using the formula: √((x2-x1)² + (y2-y1)² + (z2-z1)²). For the given endpoints (4, -4, 0) and (-2, -2, 0), the differences in coordinates are: Δx = -2 - 4 = -6, Δy = -2 + 4 = 2, Δz = 0 - 0 = 0. Substituting these into the formula gives: √((-6)² + (2)² + (0)²) = √(36 + 4 + 0) = √40 = 2√10. Therefore, the correct answer is 2√10. Options 6, 5√2, and 4 are incorrect as they do not match the result of the calculation using the formula.",
+      "explanationImage": null,
+      "hints": [
+        "magnitude",
+        "end points",
+        "vector"
+      ]
+    },
+    {
+      "text": "E / µ₁the dimensions (E = electric field, µ₁ = permeability μο of free spaceWhat is the dimensions of Electric field E",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Measurements",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "[MLT-3A-1]",
+          "isCorrect": true,
+          "explanation": "The electric field (E) is defined as force per unit charge, E = F/q. The dimensions of force (F) are [MLT-3] and charge (q) are [A]. Therefore, the dimensions of E are [MLT-3A-1]."
+        },
+        {
+          "letter": "B",
+          "text": "[ML3T-2]",
+          "isCorrect": false,
+          "explanation": "This option incorrectly includes the volume dimension (L3), which is not relevant to the electric field's dimensions. Therefore, this is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "[MLT-4]",
+          "isCorrect": false,
+          "explanation": "This option mistakenly changes the time dimension to T-4 instead of T-2, which does not correspond to the electric field's dimensions."
+        },
+        {
+          "letter": "D",
+          "text": "[M2L3T-2A2]",
+          "isCorrect": false,
+          "explanation": "This option incorrectly adds extra mass and charge dimensions, which are unnecessary for the electric field's dimensional formula."
+        }
+      ],
+      "explanation": "The correct answer is (A) [MLT-3A-1]. The electric field (E) is dimensionally represented as force (F) per charge (q), expressed as E = F/q. Force has dimensions of [MLT-3] and charge has dimensions of [A]. Thus, the dimensional formula for the electric field is [MLT-3A-1]. Option B is incorrect because it introduces an irrelevant volume dimension. Option C is incorrect as it erroneously modifies the time dimension. Option D is incorrect due to the inclusion of additional mass and charge dimensions that are not part of the electric field's formula.",
+      "explanationImage": null,
+      "hints": [
+        "dimensions",
+        "electric field"
+      ]
+    },
+    {
+      "text": "A vector is described by magnitude as well as:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Angle",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because while direction is a key component of a vector, the angle alone does not fully describe a vector. Magnitude is also needed."
+        },
+        {
+          "letter": "B",
+          "text": "Distance",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because distance is a scalar quantity, not a vector quantity. A vector requires both magnitude and direction for complete description."
+        },
+        {
+          "letter": "C",
+          "text": "Direction",
+          "isCorrect": true,
+          "explanation": "This is the correct option. A vector is completely described by its magnitude (or length) and its direction. These two components together convey all the necessary information about a vector."
+        },
+        {
+          "letter": "D",
+          "text": "Height",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because height is a scalar quantity and does not provide information about the direction associated with a vector."
+        }
+      ],
+      "explanation": "A vector is completely described by its magnitude (or length) and its direction. These two components together convey all the necessary information about a vector. The correct option is 'Direction' because it is essential to have both magnitude and direction to define a vector accurately. The other options are incorrect because they either do not consider direction or are scalar quantities that do not fully describe a vector.",
+      "explanationImage": null,
+      "hints": [
+        "vector",
+        "magnitude",
+        "direction"
+      ]
+    },
+    {
+      "text": "The direction of a vector in a plane is measured with respect to two straight lines which are _ to each other.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parallel",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the lines should be perpendicular to each other for measuring the direction of a vector in a plane."
+        },
+        {
+          "letter": "B",
+          "text": "Perpendicular",
+          "isCorrect": true,
+          "explanation": "This is the correct option. The direction of a vector in a plane is measured with respect to two straight lines that are perpendicular to each other. These two lines form a right angle, providing a reference for defining the angle and direction of the vector in the plane."
+        },
+        {
+          "letter": "C",
+          "text": "At an angle of 60o",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the lines should be perpendicular to each other for measuring the direction of a vector in a plane."
+        },
+        {
+          "letter": "D",
+          "text": "Equal",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the lines should be perpendicular to each other for measuring the direction of a vector in a plane."
+        }
+      ],
+      "explanation": "The correct answer is 'Perpendicular.' The direction of a vector in a plane is determined with respect to two straight lines that are perpendicular to each other. These perpendicular lines form a right angle, which serves as a reference for defining the angle and direction of the vector in the plane. Options A, C, and D are incorrect because the lines must be perpendicular, not parallel, at a specific angle, or equal for measuring the direction of a vector in a plane.",
+      "explanationImage": null,
+      "hints": [
+        "direction",
+        "plane"
+      ]
+    },
+    {
+      "text": "Negative of a vector has direction _ that of the original vector.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Same as",
+          "isCorrect": false,
+          "explanation": "This option is not correct. The negative of a vector has a direction opposite to the original vector."
+        },
+        {
+          "letter": "B",
+          "text": "Perpendicular to",
+          "isCorrect": false,
+          "explanation": "This option is not correct. The negative of a vector has a direction opposite to the original vector."
+        },
+        {
+          "letter": "C",
+          "text": "Opposite to",
+          "isCorrect": true,
+          "explanation": "Correct! The negative of a vector has a direction that is opposite to that of the original vector. When you negate a vector, you reverse its direction while maintaining its magnitude."
+        },
+        {
+          "letter": "D",
+          "text": "Inclined to",
+          "isCorrect": false,
+          "explanation": "This option is not correct. The negative of a vector has a direction opposite to the original vector."
+        }
+      ],
+      "explanation": "The negative of a vector has a direction that is opposite to that of the original vector. When you negate a vector, you reverse its direction while maintaining its magnitude. Options A, B, and D are incorrect because they do not reflect the fact that the negative of a vector changes its direction in relation to the original vector.",
+      "explanationImage": null,
+      "hints": [
+        "Negative",
+        "Direction"
+      ]
+    },
+    {
+      "text": "The vector obtained by adding two or more vectors is called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Product vector",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The vector obtained by adding two or more vectors is called the resultant vector, not a product vector."
+        },
+        {
+          "letter": "B",
+          "text": "Sum vector",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The vector obtained by adding two or more vectors is called the resultant vector, not a sum vector."
+        },
+        {
+          "letter": "C",
+          "text": "Resultant vector",
+          "isCorrect": true,
+          "explanation": "When you add two or more vectors together, you're combining their effects to find a single vector that represents the overall effect or sum of those individual vectors. This resulting vector is referred to as the 'resultant vector.' It encapsulates the combined impact of all the initial vectors in terms of both magnitude and direction."
+        },
+        {
+          "letter": "D",
+          "text": "Final vector",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The vector obtained by adding two or more vectors is called the resultant vector, not a final vector."
+        }
+      ],
+      "explanation": "When you add two or more vectors together, you're combining their effects to find a single vector that represents the overall effect or sum of those individual vectors. This resulting vector is referred to as the 'resultant vector.' It encapsulates the combined impact of all the initial vectors in terms of both magnitude and direction.",
+      "explanationImage": null,
+      "hints": [
+        "vector",
+        "adding",
+        "resultant"
+      ]
+    },
+    {
+      "text": "The scalar product of a vector A is given by:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A cos θ",
+          "isCorrect": false,
+          "explanation": "This option involves the cosine of the angle, which is not the correct method for finding the scalar product of a vector."
+        },
+        {
+          "letter": "B",
+          "text": "A sin θ",
+          "isCorrect": false,
+          "explanation": "This option involves the sine of the angle, which is not the correct method for finding the scalar product of a vector."
+        },
+        {
+          "letter": "C",
+          "text": "A tan θ",
+          "isCorrect": false,
+          "explanation": "This option involves the tangent of the angle, which is not the correct method for finding the scalar product of a vector."
+        },
+        {
+          "letter": "D",
+          "text": "None of the above",
+          "isCorrect": true,
+          "explanation": "The scalar product of a vector A can be found by multiplying its magnitude by itself, which is the square of the magnitude of vector A. Mathematically, if vector is denoted as A, then its scalar product is A.A = AA cos 0° = A²As none of the above options contain this answer, this option is correct."
+        }
+      ],
+      "explanation": "The scalar product of a vector A can be found by multiplying its magnitude by itself, which is the square of the magnitude of vector A. Mathematically, if vector is denoted as A, then its scalar product is A.A = AA cos 0° = A²None of the provided options correctly represent this calculation, making 'None of the above' the correct choice.",
+      "explanationImage": null,
+      "hints": [
+        "scalar",
+        "magnitude",
+        "multiplying"
+      ]
+    },
+    {
+      "text": "If two vectors are perpendicular to each other, their dot product is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Product of their magnitude",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the dot product of perpendicular vectors is zero, not the product of their magnitudes."
+        },
+        {
+          "letter": "B",
+          "text": "Product of their x-components",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as the dot product of perpendicular vectors is zero, not the product of their x-components."
+        },
+        {
+          "letter": "C",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "When two vectors are perpendicular to each other, their dot product (scalar product) is zero.A.B = ABcos90° = 0"
+        },
+        {
+          "letter": "D",
+          "text": "One",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the dot product of perpendicular vectors is zero, not one."
+        }
+      ],
+      "explanation": "When two vectors are perpendicular to each other, their dot product (scalar product) is zero. This is because the cosine of 90 degrees is zero, resulting in a dot product of zero. Therefore, Option C is correct. Options A, B, and D are incorrect because the dot product of perpendicular vectors is not the product of their magnitudes, x-components, or one, respectively.",
+      "explanationImage": null,
+      "hints": [
+        "perpendicular",
+        "dot product"
+      ]
+    },
+    {
+      "text": "If dot product of two vectors which are not perpendicular to each other is zero, then either of the vectors is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A unit vector",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the dot product being zero with non-perpendicular vectors indicates a null vector, not a unit vector."
+        },
+        {
+          "letter": "B",
+          "text": "Opposite to the other",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as the dot product being zero implies one of the vectors is a null vector, not necessarily opposite to the other."
+        },
+        {
+          "letter": "C",
+          "text": "A null vector",
+          "isCorrect": true,
+          "explanation": "Correct! If the dot product of non-perpendicular vectors is zero, then either of the vectors is a null vector. The product of any vector with a null vector is zero."
+        },
+        {
+          "letter": "D",
+          "text": "Position vector",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the property described in the question relates to null vectors, not position vectors."
+        }
+      ],
+      "explanation": "When the dot product of two vectors that are not perpendicular is zero, it means that one of the vectors is a null vector. This is because the dot product of any vector with a null vector results in zero due to the properties of null vectors. The other options are incorrect because they do not align with the concept of null vectors and their behavior in dot product calculations.",
+      "explanationImage": null,
+      "hints": [
+        "product",
+        "zero",
+        "null"
+      ]
+    }
+  ]
+}

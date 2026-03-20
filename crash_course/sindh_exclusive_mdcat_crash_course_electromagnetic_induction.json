@@ -1,0 +1,791 @@
+{
+  "questions": [
+    {
+      "text": "The current measuring part of the Avometer consists of a number of low resistors connected ...",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "At an angle of 180 degrees with the galvanometer",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Parallel with galvanometer",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "At an angle of 45 degrees With the galvanometer",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Perpendicular with the galvanometer",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Since Galvanometer is a very sensitive instrument therefore it can't measure heavy currents. In order to convert a Galvanometer into an Ammeter, a very low resistance known as \"shunt\" resistance is connected in parallel to the Galvanometer.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In a coil, when current changes from 10 A to 4 A in 1 s. An induced emf of 1.2 V is induced across the coil. The self - inductance of the coil is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 H",
+          "isCorrect": false,
+          "explanation": "This value is too large. The calculation of self-inductance using the given formula does not match this result."
+        },
+        {
+          "letter": "B",
+          "text": "0.2 H",
+          "isCorrect": true,
+          "explanation": "This is the correct value. The calculation using L = 1.2 V / (6 A/s) results in 0.2 H."
+        },
+        {
+          "letter": "C",
+          "text": "0.002 H",
+          "isCorrect": false,
+          "explanation": "This value is too small. The correct calculation does not produce this result."
+        },
+        {
+          "letter": "D",
+          "text": "5 H",
+          "isCorrect": false,
+          "explanation": "This value is incorrect and does not follow from the calculation based on the given formula."
+        },
+        {
+          "letter": "E",
+          "text": "6 H",
+          "isCorrect": false,
+          "explanation": "This value is excessively large and incorrect according to the calculation process."
+        }
+      ],
+      "explanation": "To find the self-inductance L of the coil, we use the formula L = V / (ΔI/Δt), where V is the induced emf, ΔI is the change in current, and Δt is the time duration over which this change occurs. The change in current ΔI is calculated as the initial current minus the final current, or 10 A - 4 A = 6 A. The rate of change of current is therefore 6 A/s, since it occurs over 1 second. The induced emf (V) is given as 1.2 V. Plugging these values into the formula gives us L = 1.2 V / 6 A/s = 0.2 H. Other options are incorrect because they do not correspond with the calculated self-inductance using the given values and formula.",
+      "explanationImage": null,
+      "hints": [
+        "current",
+        "induced emf",
+        "self - inductance"
+      ]
+    },
+    {
+      "text": "The magnetic force acting on a unit positive charge moving perpendicular to the magnetic field with a unit velocity is called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": 2017,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Magnetic flux",
+          "isCorrect": false,
+          "explanation": "Magnetic flux is defined as the number of magnetic field lines passing through a given closed surface."
+        },
+        {
+          "letter": "B",
+          "text": "Electric flux",
+          "isCorrect": false,
+          "explanation": "Electric flux is defined as the number of electric field lines passing through an area."
+        },
+        {
+          "letter": "C",
+          "text": "Magnetic induction",
+          "isCorrect": true,
+          "explanation": "The magnetic force acting on a unit positive charge moving perpendicular to the magnetic field with a unit velocity is called magnetic induction or magnetic field strength."
+        },
+        {
+          "letter": "D",
+          "text": "Self inductance",
+          "isCorrect": false,
+          "explanation": "Self-inductance is the tendency of a coil to resist changes in current in itself."
+        }
+      ],
+      "explanation": "The magnetic force acting on a unit positive charge moving perpendicular to the magnetic field with a unit vleocity is called magnetic induction of magnetic field strength.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A 3-cm length of wire is moved at right angles across a uniform magnetic field with a speed of 2.0 m/s . If the flux density is 5.0 teslas, what is the magnitude of the induced e.m.f?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": 2016,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.03 V",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Make sure to multiply the magnetic flux density, speed, and the length of the wire correctly."
+        },
+        {
+          "letter": "B",
+          "text": "0.3 V",
+          "isCorrect": true,
+          "explanation": "This is correct. Using the formula E = BVL, when B = 5.0 T, V = 2.0 m/s, and L = 0.03 m, the calculation gives E = 0.3 V."
+        },
+        {
+          "letter": "C",
+          "text": "0.6 V",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Recheck your calculations; the length of the wire should be converted to meters as 0.03 m."
+        },
+        {
+          "letter": "D",
+          "text": "10 V",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The result is too large. Ensure you use the formula correctly and with the right conversion for length."
+        },
+        {
+          "letter": "E",
+          "text": "20 V",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The calculation does not account for the length of the wire correctly. Verify your use of the formula E = BVL."
+        }
+      ],
+      "explanation": "E=BVLE=5*2*0.03E=0.3V",
+      "explanationImage": null,
+      "hints": [
+        "length of wire",
+        "speed",
+        "flux density"
+      ]
+    },
+    {
+      "text": "Two point charges of +5 C and -12 C attract each other with a force of 1.48 N. If charge of -5 C is added to each of these charges. Now the force will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.48 N (attractive)",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        },
+        {
+          "letter": "B",
+          "text": "1.48 N (repulsive)",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        },
+        {
+          "letter": "C",
+          "text": "2.96 (repulsive)",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "According to given data, this option is correct as explained below:The charges after adding -5C become:Q1 = +5-5 = 0CQ2 = -12-5 = -17CUsing formulaF= kq1q2/r21.48 = 9(109) (0)(17)/r2Since one charge is 0C, by muliplying it with other values the force will become zero."
+        }
+      ],
+      "explanation": "The charges after adding -5C become:Q1 = +5-5 = 0CQ2 = -12-5 = -17CUsing formulaF= kq1q2/r21.48 = 9(109) (0)(17)/r2Since one charge is 0C, by muliplying it with other values the force will become zero.",
+      "explanationImage": null,
+      "hints": [
+        "Two point charges of +5 C and -12 C",
+        "attract each other with a force of 1.48 N",
+        "charge of -5 C",
+        "added to each of these charges",
+        "force will be"
+      ]
+    },
+    {
+      "text": "A power line 8m high carries a current 100A. What is the magnetic field of wire at ground?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.002 T",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "2.5 x 10-6 T",
+          "isCorrect": true,
+          "explanation": "To find the magnetic field of the wire at ground, we can use the formula:B = (μ₀ * I) / (2 * π * r)where:- B is the magnetic field strength (in teslas, T)- μ₀ is the magnetic constant (4π x 10⁻⁷ T·m/A)- I is the current flowing through the wire (in amperes, A)- r is the distance from the wire (in meters, m)Given:- I = 100 A- r = 8 m (height of the power line)Plugging in the values, we get:B = (4π x 10⁻⁷ T·m/A * 100 A) / (2 * π * 8 m)B = (4π x 10⁻⁵ T·m) / (16π m)B = 2.5 x 10⁻⁵ TTherefore, the magnetic field of the wire at ground is approximately 2.5 x 10⁻⁵ T or 25 μT (microteslas).Answer: 25 μT."
+        },
+        {
+          "letter": "C",
+          "text": "0.005 T",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "4 x 10-6 T",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Since the magnetic field lines spread out in circular rings, the formula to calculate the magnetic field 8m below is: B = μo I / 2𝜋R Where B is the magnetic field. I is the current and R is the distance where the magnetic field is to be calculated. The value of μo is 4𝜋 x 10-7 H/m Substituting these values in the above equation gives us our answer: B = 4𝜋 x 10-7 x 100 / 2𝜋 x 8",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If a wire having current 10A has a 3T magnetic field, what will be the magnetic field at a point from the wire at double the distance?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": 2016,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reduces by factor 2",
+          "isCorrect": true,
+          "explanation": "Any current-carrying wire is surrounded by the magnetic field which is: B = µ0I/2πr It can be seen from the above equation that the magnetic field is inversely proportional to the distance and directly proportional to the current. When the distance from the wire becomes double, the magnetic field will become half, which is 1.5 T."
+        },
+        {
+          "letter": "B",
+          "text": "Becomes double",
+          "isCorrect": false,
+          "explanation": "When distance from the wire becomes double, the magnetic field will become half, which is 1.5 T."
+        },
+        {
+          "letter": "C",
+          "text": "Reduces by factor 4",
+          "isCorrect": false,
+          "explanation": "When the distance from the wire becomes double, the magnetic field will become half, which is 1.5 T."
+        },
+        {
+          "letter": "D",
+          "text": "Becomes triple",
+          "isCorrect": false,
+          "explanation": "When the distance from the wire becomes double, the magnetic field will become half, which is 1.5 T."
+        }
+      ],
+      "explanation": "Any current-carrying wire is surrounded by the magnetic field which is B = µ0I/2πr. It can be seen from the above equation that the magnetic field is inversely proportional to the distance and directly proportional to the current. When the distance from the wire becomes double, the magnetic field will reduce by a factor of two, which is 1.5 T.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "_ is a device which makes use of mutual induction for stepping up or down an alternating e.m.f.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": 2012,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sonometer",
+          "isCorrect": false,
+          "explanation": "SONOMETER:The device that is used for demonstrating the relationship between the frequency of the sound that is produced by the string when it is plucked and the tension, length, and mass per unit length of the string."
+        },
+        {
+          "letter": "B",
+          "text": "Transformer",
+          "isCorrect": true,
+          "explanation": "A transformer is an electrical device that uses the principle of electromagnetic induction to transfer energy from one electric circuit to another. It is designed to either increase or decrease AC voltage between the circuits while maintaining the frequency of the current."
+        },
+        {
+          "letter": "C",
+          "text": "Ammeter",
+          "isCorrect": false,
+          "explanation": "AMMETER :An ammeter is an instrument used to measure the current in a circuit."
+        },
+        {
+          "letter": "D",
+          "text": "Voltmeter",
+          "isCorrect": false,
+          "explanation": "VOLTMETER :A voltmeter is an instrument used for measuring electric potential difference between two points in an electric circuit. It is connected in parallel"
+        },
+        {
+          "letter": "E",
+          "text": "Potentiometer",
+          "isCorrect": false,
+          "explanation": "POTENTIOMETER:A potentiometer is a three-terminal resistor with a sliding or rotating contact that forms an adjustable voltage divider. If only two terminals are used, one end and the wiper, it acts as a variable resistor or rheostat."
+        }
+      ],
+      "explanation": "Attached below is the answer to the question above:",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The strength of the magnetic field at a point r near a long straight current carrying wire is B. The field at a distance r/2 will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "B/2",
+          "isCorrect": false,
+          "explanation": "So, this is an incorrect option."
+        },
+        {
+          "letter": "B",
+          "text": "B/4",
+          "isCorrect": false,
+          "explanation": "So, this is an incorrect option."
+        },
+        {
+          "letter": "C",
+          "text": "2B",
+          "isCorrect": true,
+          "explanation": "So, this is the correct option."
+        },
+        {
+          "letter": "D",
+          "text": "4B",
+          "isCorrect": false,
+          "explanation": "So, this is an incorrect option."
+        }
+      ],
+      "explanation": "Following is the solution to this question:",
+      "explanationImage": null,
+      "hints": [
+        "r/2"
+      ]
+    },
+    {
+      "text": "The unit of \"E/B\" is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Watt",
+          "isCorrect": false,
+          "explanation": "It is the unit of power."
+        },
+        {
+          "letter": "B",
+          "text": "Tesla",
+          "isCorrect": false,
+          "explanation": "it is the unit of magnetic flux density."
+        },
+        {
+          "letter": "C",
+          "text": "ms-1",
+          "isCorrect": true,
+          "explanation": "It is unit of velocity .v=E/B"
+        },
+        {
+          "letter": "D",
+          "text": "Weber",
+          "isCorrect": false,
+          "explanation": "It is the unit of magnetic flux."
+        }
+      ],
+      "explanation": "In velocity selector v= E/B thus unit of E/B is ms-1.",
+      "explanationImage": null,
+      "hints": [
+        "E/B",
+        "unit"
+      ]
+    },
+    {
+      "text": "The force exerted on a wire of one meter length carrying one ampere current placed at right angle to the field is called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Lorentz force",
+          "isCorrect": false,
+          "explanation": "It is the force when a charge experience both electric and magnetic field."
+        },
+        {
+          "letter": "B",
+          "text": "Self-inductance",
+          "isCorrect": false,
+          "explanation": "Self-inductance refers to the inherent property of a conductor or a circuit to induce an electromotive force (emf) in itself when the amount of current flowing through it changes. It occurs due to the magnetic field produced by the changing current within the conductor or coil."
+        },
+        {
+          "letter": "C",
+          "text": "Magnetic flux",
+          "isCorrect": false,
+          "explanation": "Magnetic flux is a measure of the amount of magnetic field penetrating a given surface. It is a fundamental concept in electromagnetism and is defined as the product of the magnetic field strength and the area it penetrates."
+        },
+        {
+          "letter": "D",
+          "text": "Magnetic induction",
+          "isCorrect": true,
+          "explanation": "Magnetic induction, also known as electromagnetic induction, refers to the process by which a changing magnetic field induces an electric current in a nearby conductor. This fundamental principle in physics was discovered by Michael Faraday in the early 19th century."
+        }
+      ],
+      "explanation": "Magnetic induction, also known as electromagnetic induction, refers to the process by which a changing magnetic field induces an electric current in a nearby conductor. This fundamental principle in physics was discovered by Michael Faraday in the early 19th century.",
+      "explanationImage": null,
+      "hints": [
+        "right angle",
+        "carrying one ampere current"
+      ]
+    },
+    {
+      "text": "Two parallel wires carrying currents in the opposite directions.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Repel each other",
+          "isCorrect": true,
+          "explanation": "Two parallel wires having currents in opposite directions always repel each other."
+        },
+        {
+          "letter": "B",
+          "text": "Have no effect upon each other",
+          "isCorrect": false,
+          "explanation": "Two parallel wires having currents in opposite directions always repel each other. If the current in both wires is in the same direction then they will attract each other."
+        },
+        {
+          "letter": "C",
+          "text": "Attract each other",
+          "isCorrect": false,
+          "explanation": "Two parallel wires having currents in opposite directions always repel each other. If the current in both wires is in the same direction then they will attract each other."
+        },
+        {
+          "letter": "D",
+          "text": "They cancel out their individual magnetic fields",
+          "isCorrect": false,
+          "explanation": "The magentic fields are not cancelled out."
+        }
+      ],
+      "explanation": "Two parallel wires having currents in opposite directions always repel each other.",
+      "explanationImage": null,
+      "hints": [
+        "parallel",
+        "opposite"
+      ]
+    },
+    {
+      "text": "Which one of the following particles moving in the magnetic field cannot be deflected:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "α-particle",
+          "isCorrect": false,
+          "explanation": "For a particle to be deflected it must have non-zero value for:B, q,vThe given option has all the above values as non zero so ,it will get deflected."
+        },
+        {
+          "letter": "B",
+          "text": "Electron",
+          "isCorrect": false,
+          "explanation": "For a particle to be deflected it must have non-zero value for:B, q,vThe given option has all the above values as non zero so ,it will get deflected."
+        },
+        {
+          "letter": "C",
+          "text": "β-particle",
+          "isCorrect": false,
+          "explanation": "For a particle to be deflected it must have non-zero value for:B, q,vThe given option has all the above values as non zero so ,it will get deflected."
+        },
+        {
+          "letter": "D",
+          "text": "Neutron",
+          "isCorrect": true,
+          "explanation": "For a particle to be deflected it must have non-zero value for:B, q,vbut for neutron q=0 so F will also equal to zero and it will not get deflected."
+        }
+      ],
+      "explanation": "For a particle to be deflected it must have non-zero value for:B, q,vbut for neutron q=0 so F will also equal to zero and it will not get deflected.",
+      "explanationImage": null,
+      "hints": [
+        "cannot be deflected:",
+        "magnetic field"
+      ]
+    },
+    {
+      "text": "The \"e/m\" of a proton is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Equal to that of electron",
+          "isCorrect": false,
+          "explanation": "It cannot be equal as both particle have unequal mass and equal charge."
+        },
+        {
+          "letter": "B",
+          "text": "Greater than that of electron",
+          "isCorrect": false,
+          "explanation": "No it is smaller than electron as its mass is greater."
+        },
+        {
+          "letter": "C",
+          "text": "Smaller than that of electron",
+          "isCorrect": true,
+          "explanation": "As mₚ > mₑso, (e/m)ₚ < (e/m)ₑ."
+        },
+        {
+          "letter": "D",
+          "text": "Sometime smaller and sometime great",
+          "isCorrect": false,
+          "explanation": "It is a constant value."
+        }
+      ],
+      "explanation": "As mₚ > mₑso, (e/m)ₚ < (e/m)ₑ.",
+      "explanationImage": null,
+      "hints": [
+        "proton",
+        "e/m"
+      ]
+    },
+    {
+      "text": "Force on a moving charge in a uniform magnetic field will be half of its maximum value, when the angle between \"v\" and \"B\" is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0o",
+          "isCorrect": false,
+          "explanation": "Incorrect as per calculations."
+        },
+        {
+          "letter": "B",
+          "text": "60o",
+          "isCorrect": false,
+          "explanation": "Incorrect as per calculations."
+        },
+        {
+          "letter": "C",
+          "text": "30o",
+          "isCorrect": true,
+          "explanation": "F = q v B sin θ = Fₘₐₓ sin θ = Fₘₐₓ sin 30° = 0.5 Fₘₐₓ"
+        },
+        {
+          "letter": "D",
+          "text": "900",
+          "isCorrect": false,
+          "explanation": "Incorrect as per calculations."
+        }
+      ],
+      "explanation": "F = q v B sin θ = Fₘₐₓ sin θ = Fₘₐₓ sin 30° = 0.5 Fₘₐₓ",
+      "explanationImage": null,
+      "hints": [
+        "half of its maximum",
+        "when the angle"
+      ]
+    },
+    {
+      "text": "An electron is travelling in the positive x direction. A uniform electric field \"E\" is in the negative y direction. If a uniform magnetic field with the appropriate magnitude and direction also exists in the region, the total force on the electron will be zero. The appropriate direction for the magnetic field is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The positive y direction",
+          "isCorrect": false,
+          "explanation": "Incorrect as per solution."
+        },
+        {
+          "letter": "B",
+          "text": "Into the page",
+          "isCorrect": true,
+          "explanation": "As the E along the -y-axis. It means the electric force on the electron will be in the +y-axis (against E). The net force on the electron will be zero if magnetic force must be along the neg y-axis (downward). So, the direction of the magnetic field will be:For magnetic force in the -y-axis, the magnetic field must be along the -z-axis (into the page)."
+        },
+        {
+          "letter": "C",
+          "text": "The negative y direction",
+          "isCorrect": false,
+          "explanation": "Incorrect as per solution."
+        },
+        {
+          "letter": "D",
+          "text": "Out of the page",
+          "isCorrect": false,
+          "explanation": "Incorrect as per solution."
+        }
+      ],
+      "explanation": "As the E along the -y-axis. It means the electric force on the electron will be in the +y-axis (against E). The net force on the electron will be zero if magnetic force must be along the neg y-axis (downward). So, the direction of the magnetic field will be:For magnetic force in the -y-axis, the magnetic field must be along the -z-axis (into the page)",
+      "explanationImage": null,
+      "hints": [
+        "positive x",
+        "negative y",
+        "zero"
+      ]
+    },
+    {
+      "text": "A constant current is sent through a helical coil. The coil:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tends to get shorter",
+          "isCorrect": true,
+          "explanation": "Each turn of helical coil carries current in same direction. Wire carrying current in same direction attract each other. So, the coil tends to get shorter."
+        },
+        {
+          "letter": "B",
+          "text": "Tends to rotate about its axis",
+          "isCorrect": false,
+          "explanation": "Wire does not start rotating but tends to get shorter."
+        },
+        {
+          "letter": "C",
+          "text": "Tends to get longer",
+          "isCorrect": false,
+          "explanation": "It is true if each turn of helical coil carries current in diffrent direction. Wire carrying current in diffrent direction repel each other. So, the coil tends to get longer."
+        },
+        {
+          "letter": "D",
+          "text": "Produces zero magnetic field at its center",
+          "isCorrect": false,
+          "explanation": "Wire produces a magnetic field in the center."
+        }
+      ],
+      "explanation": "Each turn of helical coil carries current in same direction. Wire carrying current in same direction attract each other. So, the coil tends to get shorter.",
+      "explanationImage": null,
+      "hints": [
+        "constant",
+        "helical"
+      ]
+    },
+    {
+      "text": "Amperean path is a:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Circular path",
+          "isCorrect": false,
+          "explanation": "Amperean path is any closed path.Circular path can be considered as an amperean path."
+        },
+        {
+          "letter": "B",
+          "text": "Elliptical path",
+          "isCorrect": false,
+          "explanation": "Amperean path is any closed path.Elliptical path can be considered as an amperean path."
+        },
+        {
+          "letter": "C",
+          "text": "Closed path",
+          "isCorrect": true,
+          "explanation": "Amperean path is any closed path.Wheather it is circular ellipical or triangular ,they all can be considered as an amperean path."
+        },
+        {
+          "letter": "D",
+          "text": "Spherical path",
+          "isCorrect": false,
+          "explanation": "Amperean path is any closed path.Spherical path can be considered as an amperean path."
+        }
+      ],
+      "explanation": "Amperean path is any closed path whether it is spherical circular or triangular.",
+      "explanationImage": null,
+      "hints": [
+        "Amperean",
+        "path"
+      ]
+    },
+    {
+      "text": "The value of_around a current carrying wire is found by Ampere circuital law.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Magnetic field strength",
+          "isCorrect": false,
+          "explanation": "Refer to main explanation box."
+        },
+        {
+          "letter": "B",
+          "text": "Magnetic flux density",
+          "isCorrect": false,
+          "explanation": "Refer to main explanation box."
+        },
+        {
+          "letter": "C",
+          "text": "Magnetic induction",
+          "isCorrect": false,
+          "explanation": "Refer to main explanation box."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": true,
+          "explanation": "Refer to main explanation box."
+        }
+      ],
+      "explanation": "Using Ampere's circuital law the magnetic flux density \"B\" at any point due to a current carrying conductor can be calculated",
+      "explanationImage": null,
+      "hints": [
+        "Ampere circuital"
+      ]
+    },
+    {
+      "text": "Alpha particles enter into a velocity selector where electric and magnetic field are mutually perpendicular and have strengths of 200Vm-1 and 0.4T respectively. To pass through the region un-deviated, they should move with a speed:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Magnetism and Electromagnetic Induction",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "80 ms-1",
+          "isCorrect": false,
+          "explanation": "Refer to main explanation box."
+        },
+        {
+          "letter": "B",
+          "text": "0.4/200 ms-1",
+          "isCorrect": false,
+          "explanation": "Refer to main explanation box."
+        },
+        {
+          "letter": "C",
+          "text": "500 ms-1",
+          "isCorrect": true,
+          "explanation": "Refer to main explanation box."
+        },
+        {
+          "letter": "D",
+          "text": "Impossible B and E should be parallel",
+          "isCorrect": false,
+          "explanation": "Refer to main explanation box."
+        }
+      ],
+      "explanation": "Explanation is given below:",
+      "explanationImage": null,
+      "hints": [
+        "Alpha",
+        "un-deviated"
+      ]
+    }
+  ]
+}

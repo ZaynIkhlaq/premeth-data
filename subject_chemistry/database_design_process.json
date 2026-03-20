@@ -1,0 +1,586 @@
+{
+  "questions": [
+    {
+      "text": "Which is used to indicate characteristics of an object?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Database Design Process",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Relationship",
+          "isCorrect": false,
+          "explanation": "A relationship describes the connection between two or more objects. For example, a customer might have a relationship with a particular order."
+        },
+        {
+          "letter": "B",
+          "text": "Cardinality",
+          "isCorrect": false,
+          "explanation": "Cardinality refers to the number of times one instance of an object can be associated with another instance of an object. For example, a customer can have many orders, but an order can only belong to one customer (one-to-many cardinality)"
+        },
+        {
+          "letter": "C",
+          "text": "Modality",
+          "isCorrect": false,
+          "explanation": "Modality refers to the possibility or necessity of something happening. For example, a database constraint might specify that a certain attribute must always have a value (mandatory), or it can be left blank (optional)"
+        },
+        {
+          "letter": "D",
+          "text": "Attribute",
+          "isCorrect": true,
+          "explanation": "An attribute is a property or characteristic of an object. In a database, attributes are used to define the columns in a table. For example, in a table of customers, some attributes might be customer name, address, and phone number"
+        }
+      ],
+      "explanation": "An attribute is a property or characteristic of an object. In a database, attributes are used to define the columns in a table. For example, in a table of customers, some attributes might be customer name, address, and phone number",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A relationship between books and book readers is an example of which relationship",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Database Design Process",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "One-to-one",
+          "isCorrect": false,
+          "explanation": "This type of relationship describes a scenario where one thing is connected to only one other thing. For example, a person can only have one social security number. In the case of books and readers, a single book can be read by many people, and a single person can read many books. So, it's not a one-to-one relationship"
+        },
+        {
+          "letter": "B",
+          "text": "One-to-many",
+          "isCorrect": false,
+          "explanation": "This describes a scenario where one thing is connected to many other things. For example, one teacher can have many students. A book can be read by many people (many), but a single reader can only read one book at a time (one). So, it's not a one-to-many relationship either"
+        },
+        {
+          "letter": "C",
+          "text": "Many-to-many",
+          "isCorrect": true,
+          "explanation": "A single book can be read by many different people (many). Likewise, a single person can read many different books (many). There is a reciprocal relationship between books and readers. A book doesn't become obsolete after being read by one person, and a reader can keep reading new books. So, it's a many-to-many relationship"
+        },
+        {
+          "letter": "D",
+          "text": "Many-to-one",
+          "isCorrect": false,
+          "explanation": "This describes a scenario where many things are connected to one thing. For example, many streets can lead to one city. In the case of books and readers, many books can be read by one person (many), but a single book can only be connected to a limited number of readers (one). So, it's not a many-to-one relationship"
+        }
+      ],
+      "explanation": "A single book can be read by many different people (many). Likewise, a single person can read many different books (many). There is a reciprocal relationship between books and readers. A book doesn't become obsolete after being read by one person, and a reader can keep reading new books. So, it's a many-to-many relationship",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is not a basic data distribution strategy",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Database Design Process",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Centralized",
+          "isCorrect": false,
+          "explanation": "In a centralized distribution strategy, all data is stored in a single location. This is a simple approach, but it can be a bottleneck for performance and scalability"
+        },
+        {
+          "letter": "B",
+          "text": "Partitioned",
+          "isCorrect": false,
+          "explanation": "In a partitioned distribution strategy, data is divided into smaller subsets based on a specific criteria, such as customer ID or product category. Each partition is then stored on a separate server or storage device. This approach can improve performance and scalability by allowing queries to be directed to the specific partition that contains the relevant data."
+        },
+        {
+          "letter": "C",
+          "text": "Hybrid",
+          "isCorrect": false,
+          "explanation": "A hybrid distribution strategy combines centralized and partitioned approaches. For instance, some critical data might be stored centrally for high availability, while less critical data might be partitioned for performance reasons"
+        },
+        {
+          "letter": "D",
+          "text": "Duplicated",
+          "isCorrect": true,
+          "explanation": "Duplication is not a basic data distribution strategy because it does not involve distributing data across multiple locations for performance or scalability benefits. While data may be duplicated for backup purposes, this is not considered a core data distribution strategy"
+        }
+      ],
+      "explanation": "Duplication is not a basic data distribution strategy because it does not involve distributing data across multiple locations for performance or scalability benefits. While data may be duplicated for backup purposes, this is not considered a core data distribution strategy",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "the fundamental concept of a relational database is",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Database Design Process",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Query",
+          "isCorrect": false,
+          "explanation": "A query is a statement used to retrieve, insert, update, or delete data from a database. While queries are essential for interacting with a database, they are not the fundamental structure itself"
+        },
+        {
+          "letter": "B",
+          "text": "Table",
+          "isCorrect": true,
+          "explanation": "A table is the fundamental structure of a relational database. It stores data in a grid-like format with rows and columns. Each row represents a record, and each column represents an attribute (characteristic) of that record. Tables allow data to be organized and efficiently accessed"
+        },
+        {
+          "letter": "C",
+          "text": "Form",
+          "isCorrect": false,
+          "explanation": "A form is a user interface element that allows users to input or view data in a database. Forms are built on top of tables and queries, but they are not the underlying structure for storing data"
+        },
+        {
+          "letter": "D",
+          "text": "Report",
+          "isCorrect": false,
+          "explanation": "A report is a formatted presentation of data retrieved from a database. Reports are generated from queries and don't represent the core structure for storing data"
+        }
+      ],
+      "explanation": "A table is the fundamental structure of a relational database. It stores data in a grid-like format with rows and columns. Each row represents a record, and each column represents an attribute (characteristic) of that record. Tables allow data to be organized and efficiently accessed",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is NOT a general characteristic of relations in the relational model",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Database Design Process",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Each relation name is distinct from the names of other relations in the schema",
+          "isCorrect": false,
+          "explanation": "This is a fundamental principle to avoid confusion and ensure data integrity."
+        },
+        {
+          "letter": "B",
+          "text": "Tuples in a relation are ordered",
+          "isCorrect": true,
+          "explanation": "Unlike sets, order does not matter in relations. Tuples can be returned or processed in any order without affecting the results"
+        },
+        {
+          "letter": "C",
+          "text": "None of the other options",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Each value in a tuple is atomic",
+          "isCorrect": false,
+          "explanation": "An atom is the smallest indivisible unit of data. This from the same atomic domain:** This means all values for a particular attribute type must be consistent (e.g., all dates or all integers)."
+        },
+        {
+          "letter": "E",
+          "text": "Values of a specific attribute arefrom the same atomic domain",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Unlike sets, order does not matter in relations. Tuples can be returned or processed in any order without affecting the results",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The columns of a table correspond to",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Database Design Process",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Table",
+          "isCorrect": false,
+          "explanation": "A table is the entire collection of data, including rows and columns"
+        },
+        {
+          "letter": "B",
+          "text": "Record",
+          "isCorrect": false,
+          "explanation": "A record is a single row in a table. It represents a single instance of the entity that the table is designed to represent. For instance, in a customer table, a record might represent a single customer, with all their details such as last name, city, etc"
+        },
+        {
+          "letter": "C",
+          "text": "Field",
+          "isCorrect": true,
+          "explanation": "In a relational database table, columns represent categories of data. Each column holds a specific type of information about the entities in the table. For instance, in a customer table, a column might be named \"Last Name\" to store the last names of customers. Another column might be named \"City\" to store the city in which each customer lives."
+        },
+        {
+          "letter": "D",
+          "text": "Cell",
+          "isCorrect": false,
+          "explanation": "A cell is the intersection of a row and a column in a table. It contains a single value. For instance, in a customer table, a specific cell might contain the value \"Smith\" within the \"Last Name\" column for a particular customer record"
+        }
+      ],
+      "explanation": "In a relational database table, columns represent categories of data. Each column holds a specific type of information about the entities in the table. For instance, in a customer table, a column might be named \"Last Name\" to store the last names of customers. Another column might be named \"City\" to store the city in which each customer lives.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The CREATE command is used to create",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Database Design Process",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Table",
+          "isCorrect": true,
+          "explanation": "The CREATE command is used in SQL (Structured Query Language) to create database objects, and one of the most fundamental objects is a table. Tables store data in a structured format with rows and columns. Each row represents a record, and each column represents an attribute (characteristic) of that record"
+        },
+        {
+          "letter": "B",
+          "text": "Report",
+          "isCorrect": false,
+          "explanation": "Reports are not created with the CREATE command. Instead, they are generated from queries that retrieve data from table"
+        },
+        {
+          "letter": "C",
+          "text": "Query",
+          "isCorrect": false,
+          "explanation": "Queries are not created with the CREATE command either. Queries are used to retrieve, insert, update, or delete data from existing tables"
+        },
+        {
+          "letter": "D",
+          "text": "Form",
+          "isCorrect": false,
+          "explanation": "Forms are also not created with the CREATE command. Forms are a user interface element that allows users to interact with data in tables and queries, but they are not database objects themselves"
+        }
+      ],
+      "explanation": "The CREATE command is used in SQL (Structured Query Language) to create database objects, and one of the most fundamental objects is a table. Tables store data in a structured format with rows and columns. Each row represents a record, and each column represents an attribute (characteristic) of that record",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Organizing the database in computer disk storage is done in",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Database Design Process",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Logical design",
+          "isCorrect": false,
+          "explanation": "This stage focuses on defining the data structures and relationships between data elements without considering the physical storage details"
+        },
+        {
+          "letter": "B",
+          "text": "Physical design",
+          "isCorrect": true,
+          "explanation": "Physical design deals with how the data will be physically stored and accessed on the storage media. It considers factors like file organization, indexing techniques, and storage allocation to optimize performance and storage utilization"
+        },
+        {
+          "letter": "C",
+          "text": "Analysis",
+          "isCorrect": false,
+          "explanation": "This is the initial phase where business needs are analyzed to understand the data requirements"
+        },
+        {
+          "letter": "D",
+          "text": "Implementation",
+          "isCorrect": false,
+          "explanation": "This stage involves creating the physical database objects based on the chosen design and populating them with data"
+        }
+      ],
+      "explanation": "Physical design deals with how the data will be physically stored and accessed on the storage media. It considers factors like file organization, indexing techniques, and storage allocation to optimize performance and storage utilization",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which technique is used for physically arranging the records of a file on secondary storage devices",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Database Design Process",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Indexes",
+          "isCorrect": false,
+          "explanation": "While indexes are data structures that improve the speed of data retrieval in databases, they are not directly related to how data is physically stored on disk. Indexes are typically stored in secondary storage themselves but point to the actual data location"
+        },
+        {
+          "letter": "B",
+          "text": "File organization",
+          "isCorrect": true,
+          "explanation": "File organization is a technique for physically arranging records of a file on a secondary storage device like a hard disk or solid-state drive. It determines how data is stored and accessed, impacting factors like storage efficiency, retrieval speed, and ease of updates"
+        },
+        {
+          "letter": "C",
+          "text": "Integrity constraints",
+          "isCorrect": false,
+          "explanation": "Integrity constraints are rules enforced by a database management system to ensure data accuracy and consistency. They are not directly related to the physical storage of data on disk"
+        },
+        {
+          "letter": "D",
+          "text": "Implementation",
+          "isCorrect": false,
+          "explanation": "Implementation refers to the process of putting a plan or design into practice. It's a broader concept that encompasses the creation of software or hardware systems, and file organization is just one aspect that might be considered during implementation"
+        }
+      ],
+      "explanation": "File organization is a technique for physically arranging records of a file on a secondary storage device like a hard disk or solid-state drive. It determines how data is stored and accessed, impacting factors like storage efficiency, retrieval speed, and ease of updates",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In hybrid distribution, which kind of fragments are stored at only one site?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Database Design Process",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Critical fragments",
+          "isCorrect": true,
+          "explanation": "These are fragments that are essential for the operation of the system or specific applications. Due to their importance, they are typically stored at only one site to ensure high availability and minimize the risk of data loss"
+        },
+        {
+          "letter": "B",
+          "text": "Non-critical fragments",
+          "isCorrect": false,
+          "explanation": "These are fragments that are less crucial for overall system functionality. They can be replicated across multiple sites for improved performance and accessibility, especially if they are frequently accessed from different locations"
+        },
+        {
+          "letter": "C",
+          "text": "Critical and non-critical fragments",
+          "isCorrect": false,
+          "explanation": "Not all fragments necessarily need to be stored at a single site. The decision depends on the criticality of the data"
+        },
+        {
+          "letter": "D",
+          "text": "Only large fragments",
+          "isCorrect": false,
+          "explanation": "Fragment size is not the sole determining factor for single-site storage. Critical fragments, regardless of size, are typically stored on one site for better control and manageability"
+        }
+      ],
+      "explanation": "These are fragments that are essential for the operation of the system or specific applications. Due to their importance, they are typically stored at only one site to ensure high availability and minimize the risk of data loss",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In RDBMS, an attribute is also known as",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Table",
+          "isCorrect": false,
+          "explanation": "A table is the entire collection of data, including rows and columns. So, it represents all the attributes (or fields) collectively"
+        },
+        {
+          "letter": "B",
+          "text": "Relation",
+          "isCorrect": false,
+          "explanation": "In relational databases, a table can also be referred to as a relation. However, relation is a more general term that can refer to any mathematical structure that satisfies certain properties"
+        },
+        {
+          "letter": "C",
+          "text": "Row",
+          "isCorrect": false,
+          "explanation": "A row in a table is a collection of values, each value corresponding to a specific attribute (or field) in the table. So, a row represents a single instance of an entity"
+        },
+        {
+          "letter": "D",
+          "text": "Field",
+          "isCorrect": true,
+          "explanation": "In a Relational Database Management System (RDBMS), an attribute is also known as a field. An attribute represents a specific characteristic or property of an entity that is stored in a table. For instance, in a customer table, \"Customer Name\" and \"Email Address\" would be considered attributes (or fields)."
+        }
+      ],
+      "explanation": "In a Relational Database Management System (RDBMS), an attribute is also known as a field. An attribute represents a specific characteristic or property of an entity that is stored in a table. For instance, in a customer table, \"Customer Name\" and \"Email Address\" would be considered attributes (or fields).",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which is used to associate entities with one another?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entity",
+          "isCorrect": false,
+          "explanation": "An entity itself is not used to associate entities. An entity is a real-world object or concept that we represent in a database."
+        },
+        {
+          "letter": "B",
+          "text": "Attribute",
+          "isCorrect": false,
+          "explanation": "An attribute is a property or characteristic of an entity. While attributes can be used to define the relationship between entities (e.g., a foreign key attribute referencing a primary key), they themselves are not relationships"
+        },
+        {
+          "letter": "C",
+          "text": "Identifier",
+          "isCorrect": false,
+          "explanation": "An identifier is a unique value that identifies a specific instance of an entity. While identifiers can be used to establish relationships between entities (e.g., using foreign keys), they are not the concept of relationships itsel"
+        },
+        {
+          "letter": "D",
+          "text": "Relationship",
+          "isCorrect": true,
+          "explanation": "In a database, a relationship is an association between two or more entities. It defines how the data in one table is linked to the data in another table. Relationships are essential for modeling real-world scenarios where data entities are not isolated but have connections with each other"
+        }
+      ],
+      "explanation": "In a database, a relationship is an association between two or more entities. It defines how the data in one table is linked to the data in another table. Relationships are essential for modeling real-world scenarios where data entities are not isolated but have connections with each other",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A two-dimensional table of data is called",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "File",
+          "isCorrect": false,
+          "explanation": "A file is a collection of data stored on a computer system. It can hold various types of data structures, not just two-dimensional tables"
+        },
+        {
+          "letter": "B",
+          "text": "Tuple",
+          "isCorrect": false,
+          "explanation": "A tuple is a single row in a relational table. It represents a collection of data values for the attributes (columns) defined in the table schema"
+        },
+        {
+          "letter": "C",
+          "text": "Relation",
+          "isCorrect": true,
+          "explanation": "In the context of relational databases, a relation refers to a two-dimensional table that holds data according to a specific structure. It consists of rows (tuples) and columns (attributes). Each table has a unique name, and the data values in a column must be from the same domain (data type)"
+        },
+        {
+          "letter": "D",
+          "text": "Attribute",
+          "isCorrect": false,
+          "explanation": "An attribute is a named column in a relational table. It represents a specific characteristic or property of the entities stored in the table"
+        }
+      ],
+      "explanation": "In the context of relational databases, a relation refers to a two-dimensional table that holds data according to a specific structure. It consists of rows (tuples) and columns (attributes). Each table has a unique name, and the data values in a column must be from the same domain (data type)",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following refers to the correctness and consistency of data?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Data independence",
+          "isCorrect": false,
+          "explanation": "This refers to the ability of a program to access and process data without being affected by changes to the physical storage or organization of the data. It's about logical separation"
+        },
+        {
+          "letter": "B",
+          "text": "Data integration",
+          "isCorrect": false,
+          "explanation": "This process involves combining data from multiple sources into a unified and consistent view. It focuses on merging data, while data integrity is about ensuring the accuracy and validity of the data itself"
+        },
+        {
+          "letter": "C",
+          "text": "Data integrity",
+          "isCorrect": true,
+          "explanation": "Data integrity refers to the overall accuracy, completeness, and consistency of data over its entire lifecycle. It ensures that the data in your database is reliable and trustworthy for making decisions. Data integrity involves enforcing rules and constraints to prevent invalid or inaccurate data from entering the database"
+        },
+        {
+          "letter": "D",
+          "text": "Data model",
+          "isCorrect": false,
+          "explanation": "This is a conceptual representation of the data structure, defining how data entities, attributes, and relationships are organized. It describes the structure, not the correctness of the data"
+        }
+      ],
+      "explanation": "Data integrity refers to the overall accuracy, completeness, and consistency of data over its entire lifecycle. It ensures that the data in your database is reliable and trustworthy for making decisions. Data integrity involves enforcing rules and constraints to prevent invalid or inaccurate data from entering the database",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is the correct association?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Database Design Process",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "File = Column",
+          "isCorrect": false,
+          "explanation": "A file is a collection of data stored on a computer storage device. Columns are attributes or fields within a table in a database"
+        },
+        {
+          "letter": "B",
+          "text": "Field = Row",
+          "isCorrect": false,
+          "explanation": "A field (or attribute) represents a specific characteristic or property of an entity that is stored in a table. A row is a record in the table"
+        },
+        {
+          "letter": "C",
+          "text": "Record = Occurrence",
+          "isCorrect": true,
+          "explanation": "• Record: A record in a database table represents a single instance of an entity. It’s a collection of values that correspond to the fields (or attributes) defined for the table. For instance, in a customer table, a record might represent a particular customer, with all their details such as last name, city, etc.• Occurrence: An occurrence is another term for a record in a database table"
+        },
+        {
+          "letter": "D",
+          "text": "Record = Table",
+          "isCorrect": false,
+          "explanation": "A table is the entire collection of data, including rows and columns. It represents all the records (or occurrences) collectively"
+        }
+      ],
+      "explanation": "• Record: A record in a database table represents a single instance of an entity. It’s a collection of values that correspond to the fields (or attributes) defined for the table. For instance, in a customer table, a record might represent a particular customer, with all their details such as last name, city, etc.• Occurrence: An occurrence is another term for a record in a database table",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Database development process involves mapping of conceptual data model into",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Database Design Process",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Object-oriented data",
+          "isCorrect": false,
+          "explanation": "Object-oriented data models focus on representing real-world objects and their relationships. While there can be similarities between this approach and conceptual data modeling, they are not the same for the purpose of database development"
+        },
+        {
+          "letter": "B",
+          "text": "Network data model",
+          "isCorrect": true,
+          "explanation": "A network data model is one type of logical data model that allows for more complex relationships between entities compared to the hierarchical model. It uses sets to link entities together, providing more flexibility for representing real-world scenarios. The conceptual data model captures the high-level entities and relationships, and the network data model refines this into a more detailed structure suitable for database implementation"
+        },
+        {
+          "letter": "C",
+          "text": "Implementation",
+          "isCorrect": false,
+          "explanation": "Implementation refers to the stage where the logical database design is translated into a physical database using a specific DBMS (Database Management System). It's a later stage that follows the mapping from the conceptual data model"
+        },
+        {
+          "letter": "D",
+          "text": "Hermetic model",
+          "isCorrect": false,
+          "explanation": "I couldn't find a definition of \"Hermetic model\" in the context of database design. It's possible this term is a misspelling or not commonly used in this field"
+        }
+      ],
+      "explanation": "A network data model is one type of logical data model that allows for more complex relationships between entities compared to the hierarchical model. It uses sets to link entities together, providing more flexibility for representing real-world scenarios. The conceptual data model captures the high-level entities and relationships, and the network data model refines this into a more detailed structure suitable for database implementation",
+      "explanationImage": null,
+      "hints": []
+    }
+  ]
+}

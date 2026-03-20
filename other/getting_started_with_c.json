@@ -1,0 +1,1348 @@
+{
+  "questions": [
+    {
+      "text": "Which of the following represents the preprocessor directive?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Void main (void)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "{}",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "#include<stdio.h>",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Include<std.h>",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct Answer is :(C) #include<stdio.h>Explanation:Preprocessor directives are instructions for the preprocessor, a program that processes the source code before it is compiled. Preprocessor directives begin with a hash symbol (#). In the given options, only #include<stdio.h> is a preprocessor directive.Option (A): Void main (void) is a function declaration that specifies the return type (void) and arguments (empty parentheses) of the main function.Option (B): {} are curly braces used to define the code block of a function or other code construct. They are not preprocessor directives.Option (D): Include<std.h> is not a valid preprocessor directive in C++. The correct syntax for including a header file is #include <header_name.h>. Here, <stdio.h> is a standard header file that provides input/output functions in C",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A programming language used for mathematical and engineering applications was:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "FORTRAN",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "BASIC",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Assembly",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "COBOL",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following language translator translates source code line by line?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compiler",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Assembler",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Interpreter",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Compilation",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct Answer is : C: Interpreter.Explanation:Interpreter: An interpreter translates source code line by line at runtime. This means that the code is executed one line at a time, and any errors are encountered immediately. Interpreters are often used for scripting languages like Python, JavaScript, and Ruby.Compiler: A compiler translates the entire source code program into a machine code representation all at once. This machine code can then be executed by the computer. Compilers are typically used for languages like C, C++, and Java.Assembler: An assembler translates assembly language code into machine code. Assembly language is a low-level programming language that is very close to the machine code of the processor. Assemblers are not typically used to translate high-level programming languages.Compilation: Compilation is the process of translating source code into machine code. This process is typically performed by a compiler.In short:Interpreters translate line by line.Compilers translate the entire program at once.Assemblers translate assembly language into machine code.Compilation is the process of translation",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Computer programs are also known as:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Software",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Procedure",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Hardware",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Algorithm",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct Answer is :(A) SoftwareExplanation:Software is a collection of instructions that tell a computer what to do. It is the opposite of hardware, which are the physical components of a computer.Option (B): A procedure is a set of instructions that performs a specific task. It can be part of a larger program, but it is not synonymous with the entire program itself.Option (C): Hardware is the physical components of a computer system, such as the CPU, memory, storage devices, and input/output devices.Option (D): An algorithm is a step-by-step process for solving a problem or accomplishing a task. It can be used to design a computer program, but it is not the program itself",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which type of error occurs if a file is not present in memory?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Syntax error",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Runtime error",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Logical error",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "File missing error",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "re are the options and why some are wrong:(A) Syntax errorA syntax error occurs when the code you write violates the rules of the programming language you are using. For example, forgetting a semicolon at the end of a statement would be a syntax error. A syntax error has nothing to do with the presence or absence of a file in memory.(B) Runtime errorThis is the most likely Correct Answer is . A runtime error is an error that occurs when a program is running, as opposed to a syntax error which is detected before the program even runs. A file not being present in memory would cause a runtime error because the program would be trying to access data that isn't there.(C) Logical errorA logical error is a mistake in the program's logic that causes it to produce incorrect results. For example, a bug in a program that calculates square footage might cause it to give the wrong Correct Answer is . A logical error wouldn't necessarily prevent the program from finding the file, it just means the program might use the file incorrectly.(D) File missing errorThis is a more descriptive term for the type of runtime error that would occur if a file is not present in memory, but it is not a standard technical term",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "C-language programs are divided into unit called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Section",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Syntax",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Function",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Sub form",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct Answer is : (C) Function.Explanation:Function: In C programming, a function is a reusable block of code that performs a specific task. Functions promote code modularity and reusability. They can take inputs (arguments) and return outputs (values).Section: This is not a standard term in C programming. C code can be organized into header files and source files, but these are not considered \"sections\" of a program.Syntax: This refers to the grammatical rules of a programming language. It is not a unit of code organization.Sub form: This term is not used in C programming. Subroutines are a concept in some programming languages, but they are typically synonymous with functions.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is true about C language as compared to machine language?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Less time consuming",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "More time consuming",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Less simple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "More complicated",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct Answer is :(D) More complicatedExplanation:C language is a high-level programming language that is closer to human language than machine language. It requires a compiler to translate the code into machine code that the computer can understand.Machine language is the lowest-level programming language specific to a particular computer architecture. It consists of binary instructions (0s and 1s) that the CPU can directly execute.Here's why the other options are wrong:(A) Less time consuming: While compiling C code adds an extra step, the development process in C is generally faster due to its readability and programmer-friendly features.(B) More time consuming: See explanation for (A).(C) Less simple: C is a simpler language to learn and understand compared to machine language which is specific to each CPU architecture and consists of complex binary instructions",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A command in a C program that gives instructions to the C compiler is:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Statement terminator",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Library file",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Pre-processor directive",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Linker",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct Answer is : (C) Pre-processor directiveExplanation:Pre-processor directives are lines of code that begin with a hash symbol (#) and are instructions to the C preprocessor. The C preprocessor is a program that runs before the actual C compiler. Pre-processor directives are used for a variety of purposes, including:Including header filesDefining constantsConditionally compiling codeStatement terminators (such as semicolons) are part of the C language syntax and do not directly instruct the compiler.Library files contain pre-written code that can be used by C programs. They are not instructions to the compiler.The linker is a program that combines the compiled object code from your C program with any necessary library code to create an executable file. It is not a part of the C program itself",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following errors is most difficult to find for the developer?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Syntax error",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Run-time error",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Logical error",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Computer error",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct Answer is : (C) Logical error.Explanation:Logical error: A logical error is a mistake in the program's logic that causes it to produce incorrect results. Logical errors can be difficult to find because they may not cause the program to crash or generate an error message. They can be especially hard to find if the program produces seemingly correct results for some test cases, but incorrect results for others.Syntax error: A syntax error is a violation of the grammar rules of a programming language. Syntax errors are typically easy to find because most compilers and interpreters will flag them during the translation process.Run-time error: A run-time error is an error that occurs while the program is executing. Run-time errors can sometimes be difficult to diagnose because they may depend on the specific data that the program is working with. However, they typically will cause the program to crash or generate an error message, which can help the developer identify the source of the problem.Computer error: A computer error is a hardware or software malfunction that can cause a program to produce incorrect results. Computer errors can be difficult to diagnose because they can be caused by a variety of factors. However, they are typically rare and do not happen predictably",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which is the native language of computer?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "C-language",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Pascal",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "DOS",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Machine language",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct Answer is :(D) Machine languageExplanation:Machine language is the native language of computers. It is a set of instructions that the computer's central processing unit (CPU) can directly understand and execute. Machine language is specific to a particular CPU architecture and consists of binary code (0s and 1s).Option (A): C language is a high-level programming language that is closer to human language than machine language. It needs to be compiled into machine code before the computer can understand it.Option (B): Pascal is another high-level programming language similar to C.Option (C): DOS (Disk Operating System) is an operating system that provides a user interface for interacting with the computer. It is not a programming language",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following are used to increase the readability of the program?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Getting Started with C",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "preprocessor",
+          "isCorrect": false,
+          "explanation": "Preprocessor directives (lines starting with #) can be used to include header files, define constants, and control compilation. Including header files with function prototypes and variable declarations improves readability by centralizing code and making it easier to understand what functions and variables are available"
+        },
+        {
+          "letter": "B",
+          "text": "function",
+          "isCorrect": false,
+          "explanation": "Breaking down complex logic into smaller, well-defined functions with meaningful names enhances code readability. Functions promote modularity and reusability, making the code easier to understand and maintain"
+        },
+        {
+          "letter": "C",
+          "text": "comments",
+          "isCorrect": false,
+          "explanation": "Comments are lines of text ignored by the compiler but provide explanations and annotations for human readers. Proper commenting explains the purpose of code sections, the logic behind algorithms, and non-obvious functionalities. Clear comments improve code readability and maintainability for both the author and future programmers working on the code"
+        },
+        {
+          "letter": "D",
+          "text": "all of the above",
+          "isCorrect": true,
+          "explanation": "All of the listed options contribute to improving the readability of a program:• Preprocessor: Preprocessor directives (lines starting with #) can be used to include header files, define constants, and control compilation. Including header files with function prototypes and variable declarations improves readability by centralizing code and making it easier to understand what functions and variables are available.• Function: Breaking down complex logic into smaller, well-defined functions with meaningful names enhances code readability. Functions promote modularity and reusability, making the code easier to understand and maintain.• Comments: Comments are lines of text ignored by the compiler but provide explanations and annotations for human readers. Proper commenting explains the purpose of code sections, the logic behind algorithms, and non-obvious functionalities. Clear comments improve code readability and maintainability for both the author and future programmers working on the code.In conclusion, preprocessor directives, functions, and comments all play a vital role in making code more readable and understandable"
+        }
+      ],
+      "explanation": "All of the listed options contribute to improving the readability of a program:• Preprocessor: Preprocessor directives (lines starting with #) can be used to include header files, define constants, and control compilation. Including header files with function prototypes and variable declarations improves readability by centralizing code and making it easier to understand what functions and variables are available.• Function: Breaking down complex logic into smaller, well-defined functions with meaningful names enhances code readability. Functions promote modularity and reusability, making the code easier to understand and maintain.• Comments: Comments are lines of text ignored by the compiler but provide explanations and annotations for human readers. Proper commenting explains the purpose of code sections, the logic behind algorithms, and non-obvious functionalities. Clear comments improve code readability and maintainability for both the author and future programmers working on the code.In conclusion, preprocessor directives, functions, and comments all play a vital role in making code more readable and understandable",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "the instructions written in machine language are in the form of",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Binary code",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "EBCDIC code",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "ASCII code",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Unicode",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In a programming environment, an IDE typically consists of:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Text editor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Compiler",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Debugger",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following programs requires a translator to execute the program?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Independent language",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "C++",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Machine Language",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Binary language",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is a compiler for C language?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "TC Compiler",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Java text editor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Python compiler",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Visual Studio",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The process of converting source code into object code is called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Creating",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Compiling",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Linking",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Executing",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is an example of high-level language?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Java",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "C/C++",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Python",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "An error in a program is known as:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Syntax",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Preprocessor",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Bug",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Debug",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The program written in a high level language is known as:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Source program",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Object program",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "﻿System program",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Application program",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which is the shortcut key to execute a C language program in Turbo C?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "F9",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Alt + F9",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "F5",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Ctrl + F9",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Function prototype for built-in functions are specified in:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Source files",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Header files",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Object files",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Image files",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The process of writing a program into programming language is called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Compiling",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Debugging",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Coding",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Flow chart",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct Answer is : (C) CodingExplanation:Coding is the process of writing instructions in a programming language to create a program. Coding involves understanding the problem that needs to be solved, designing a solution (algorithm), and then writing the code to implement the solution.Compiling is the process of translating source code written in a high-level programming language into machine code that can be executed by the computer's processor. Compiling happens after the coding phase.Debugging is the process of finding and fixing errors in code. Debugging typically occurs after the coding phase and after the program has been compiled or interpreted.Flowchart is a visual representation of a program's logic. A flowchart can be used to help plan the development of a program, but it is not the code itself. Flowcharts are created during the design phase of programming, before the coding phase begins",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "How many bytes/spaces occupied by void keyword in C-program?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In a C program, an executable file (.exe) is produced by the:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Linker",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Loader",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Compiler",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Interpreter",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In which part of the program, actual execution of program is started?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "First Statements",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Preprocessor Directive",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Body of main function",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Main Function",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is used at the end of a C statement?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Period",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Comma",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Semicolon",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Colon",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In programming, \"debug\" is the process of:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "creating bugs in program",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "identifying errors",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "removing errors",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "identifying and removing errors",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct Answer is : (D) identifying and removing errors.Explanation:Debugging is the process of finding and fixing errors, or bugs, in a program. It is an essential part of the software development process, as even the most careful programmer will make mistakes in their code. Debugging can involve a number of steps, such as:Identifying the symptoms of the bugTracing the code to see where the bug is occurringFixing the bug in the codeTesting the code to make sure the bug has been fixedCreating bugs in a program (option A) is the opposite of debugging. It is something that you would try to avoid!Identifying errors (option B) is part of the debugging process, but it is not the whole story. You also need to fix the errors once you have identified them.Removing errors (option C) is also part of the debugging process, but it is not the whole story. You also need to identify the errors in the first place.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The middle level of programming language is:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Assembly language",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Java language",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C language",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "C++ language",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is the extension of a header file?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "txt",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "hf",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "h",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which is the extension of C source program?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "h",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "obj",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "txt",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following function keys is used to expand the edit window in an IDE (Integrated Development Environment)?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "F2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "F5",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "F9",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "F11",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Explanation:While function keys can vary depending on the specific IDE, F11 is a common shortcut key used to expand the editor window to full screen mode in many IDEs. This maximizes the available space for viewing and editing code.F2 is frequently used for renaming functions or variables in code.F5 is often used to start or run a program within the IDE.F9 can be used for debugging purposes, such as setting breakpoints in code.It's important to note that these are general guidelines and the exact functionality of function keys can vary between IDEs. You can usually find a reference guide or help menu within your IDE that will detail the specific function key mappings",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The set of instructions given to a computer to solve a problem is called?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Getting Started with C",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hardware",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Program",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Assembler",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Computer programs are also called?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Getting Started with C",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hardware",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Process",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Assembler",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Who developed the C language?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Getting Started with C",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dennis Ritchie",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Van Neumann:",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Dr. Howard",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the extension of a header file?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Getting Started with C",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": ".c",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": ".h",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": ".hd",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": ".obj",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "To complete source code press:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Getting Started with C",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ctrl + F2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Alt + F9",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Ctrl + F5",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "none",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The C language was developed in which year?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Getting Started with C",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1976",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "1872",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "﻿1972",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "1947",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is used to combine different library files to the object file?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Getting Started with C",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Loader",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Linker",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Runner",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Debugger",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    }
+  ]
+}

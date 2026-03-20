@@ -1,0 +1,398 @@
+{
+  "questions": [
+    {
+      "text": "A parallel plate condenser with oil (dielectric constant 2) between the plates has capacitance C. If oil is removed, the capacitance of capacitor becomes;",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2√C",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The capacitance does not depend on a square root function with respect to the removal of the dielectric."
+        },
+        {
+          "letter": "B",
+          "text": "2C",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Removing the dielectric reduces the capacitance, rather than increasing it."
+        },
+        {
+          "letter": "C",
+          "text": "C/√2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The change in capacitance does not involve taking a square root of the dielectric constant."
+        },
+        {
+          "letter": "D",
+          "text": "C/2",
+          "isCorrect": true,
+          "explanation": "This option is correct. Removing the dielectric halves the capacitance because the dielectric constant of oil was 2."
+        }
+      ],
+      "explanation": "When a dielectric material with a dielectric constant K is placed between the plates of a capacitor, the capacitance is given by the formula: C = K(Aε₀/d)In this case, with oil between the plates, K = 2, so the capacitance is C = 2(Aε₀/d).When the oil is removed, the dielectric constant becomes 1 (as it is free space), so the new capacitance is C' = 1(Aε₀/d) = Aε₀/d.Comparing the two capacitances, C = 2C', which simplifies to C' = C/2. Hence, removing the oil halves the capacitance.The incorrect options suggest either an increase or an incorrect factor of change, which does not align with the relationship between the dielectric constant and capacitance.",
+      "explanationImage": null,
+      "hints": [
+        "parallel plate",
+        "dielectric constant",
+        "oil is removed"
+      ]
+    },
+    {
+      "text": "In the given figure, the value of the electric field between the plates is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.4 N/C from A to B",
+          "isCorrect": false,
+          "explanation": "To calculate the electric field (E), we use the formula:E = V / dSubstituting the given values:E = 120 V / 0.02 m = 6000 N/CSo, the correct answer is indeed 6000 N/C, not 2.4 N/C. The electric field between the plates is 6000 N/C."
+        },
+        {
+          "letter": "B",
+          "text": "2.4 N/C from B to A",
+          "isCorrect": false,
+          "explanation": "To calculate the electric field (E), we use the formula:E = V / dSubstituting the given values:E = 120 V / 0.02 m = 6000 N/CSo, the correct answer is indeed 6000 N/C, not 2.4 N/C. The electric field between the plates is 6000 N/C."
+        },
+        {
+          "letter": "C",
+          "text": "6000 N/C from A to B",
+          "isCorrect": true,
+          "explanation": "To calculate the electric field between the plates A and B, we can use the formula:Electric field (E) = Voltage (V) / Distance between plates (d)In this case, the voltage (V) is given as 120 V and the distance between the plates (d) is given as 2 cm. However, it is usually more convenient to work with SI units, so we need to convert the distance from centimeters to meters.Converting 2 cm to meters: 2 cm * (1 meter / 100 centimeters) = 0.02 metersNow we can calculate the electric field:E = 120 V / 0.02 m = 6000 V/mTherefore, the value of the electric field between the plates A and B is 6000 V/m."
+        },
+        {
+          "letter": "D",
+          "text": "6000 N/C from B to A",
+          "isCorrect": false,
+          "explanation": "The electric field is a vector quantity that represents the direction and magnitude of the force experienced by a positive test charge placed in the field. The direction of the electric field is from higher potential (A) to lower potential (B).Therefore, the correct answer is that the electric field between the plates is 6000 N/C from A to B"
+        }
+      ],
+      "explanation": "To calculate the electric field between the plates A and B, we can use the formula:Electric field (E) = Voltage (V) / Distance between plates (d)In this case, the voltage (V) is given as 120 V and the distance between the plates (d) is given as 2 cm. However, it is usually more convenient to work with SI units, so we need to convert the distance from centimeters to meters.Converting 2 cm to meters: 2 cm * (1 meter / 100 centimeters) = 0.02 metersNow we can calculate the electric field:E = 120 V / 0.02 m = 6000 V/mTherefore, the value of the electric field between the plates A and B is 6000 V/m.",
+      "explanationImage": null,
+      "hints": [
+        "value",
+        "electric field",
+        "plates"
+      ]
+    },
+    {
+      "text": "In bringing an electron towards another electron, the electrostatic potential energy of the system will",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "increase",
+          "isCorrect": true,
+          "explanation": "Electrostatic potential energy is the energy associated with the interaction between charged particles due to their electric fields. The electrostatic potential energy depends on the distance between the charges and their magnitudes.When two electrons are brought closer together, their like charges result in a repulsive force between them. Work must be done to overcome this repulsion and bring the electrons closer. This work is stored as an increase in the electrostatic potential energy of the system.Therefore, as the electrons are brought closer together, the electrostatic potential energy increases. This is because the work done to overcome the repulsive force between the electrons is converted into potential energy."
+        },
+        {
+          "letter": "B",
+          "text": "decrease",
+          "isCorrect": false,
+          "explanation": "\"decrease\" is incorrect because the electrostatic potential energy increases as work is done to overcome the repulsion between the electrons."
+        },
+        {
+          "letter": "C",
+          "text": "become zero",
+          "isCorrect": false,
+          "explanation": "\"become zero\" is incorrect because the electrostatic potential energy does not become zero. The repulsive force between the electrons still exists, and work is required to bring them closer together."
+        },
+        {
+          "letter": "D",
+          "text": "remain unchanged",
+          "isCorrect": false,
+          "explanation": "\"remain unchanged\" is incorrect because the electrostatic potential energy increases as work is done to overcome the repulsion between the electrons."
+        }
+      ],
+      "explanation": "Electrostatic potential energy is the energy associated with the interaction between charged particles due to their electric fields. When two electrons are brought closer together, their like charges result in a repulsive force between them. Work must be done to overcome this repulsion and bring the electrons closer, increasing the electrostatic potential energy of the system. Option A is correct because the potential energy increases as the electrons are brought closer together. Options B, C, and D are incorrect because they do not accurately reflect the increase in potential energy that occurs in this scenario.",
+      "explanationImage": null,
+      "hints": [
+        "electron",
+        "electrostatic potential energy"
+      ]
+    },
+    {
+      "text": "How many electrons should be removed from a coin of mass 1.6 g, so that it may float in an electric field intensity of 109 N/C which is directed upwards?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "9.8 × 107",
+          "isCorrect": true,
+          "explanation": "This option is correct because it correctly calculates the number of electrons that need to be removed to balance the gravitational force with the electric force."
+        },
+        {
+          "letter": "B",
+          "text": "9.8 × 105",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It underestimates the number of electrons needed to create an electric force equal to the gravitational force, leading to an incorrect balance."
+        },
+        {
+          "letter": "C",
+          "text": "9.8 × 103",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It significantly underestimates the number of electrons, resulting in an insufficient electric force to counteract gravity."
+        },
+        {
+          "letter": "D",
+          "text": "9.8 × 101",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It dramatically underestimates the number of electrons, failing to provide enough electric force to make the coin float."
+        }
+      ],
+      "explanation": "To make the coin float, the upward electric force must equal the downward gravitational force. The gravitational force can be calculated using Fgravity = mg, where m = 1.6 g = 0.0016 kg and g = 9.8 m/s2. The electric force is Felectric = QE, where Q is the charge and E = 109 N/C. Setting Fgravity equal to Felectric, we have mg = QE. Solving for Q gives Q = (mg)/E = (0.0016 kg × 9.8 m/s2) / (109 N/C) = 1.568 × 10-8 C. The charge of an electron is approximately 1.6 × 10-19 C, so the number of electrons is Q/e = (1.568 × 10-8 C) / (1.6 × 10-19 C/electron) ≈ 9.8 × 107 electrons. Therefore, the correct answer is 9.8 × 107. The other options incorrectly calculate the number of electrons, leading to an imbalance of forces.",
+      "explanationImage": null,
+      "hints": [
+        "removed",
+        "float",
+        "electric field intensity"
+      ]
+    },
+    {
+      "text": "Two bodies are charged by rubbing one against the other. During the process, one becomes positively charged while the other becomes negatively charged. Then:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mass of each body remains unchanged",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the transfer of electrons actually causes a slight change in the mass of each body."
+        },
+        {
+          "letter": "B",
+          "text": "Mass of each body changes marginally",
+          "isCorrect": false,
+          "explanation": "While this option acknowledges a change in mass, it does not address the conservation of total mass in the system."
+        },
+        {
+          "letter": "C",
+          "text": "Mass of each body changes slightly and hence the total mass",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it contradicts the law of conservation of mass, which states that the total mass should remain constant."
+        },
+        {
+          "letter": "D",
+          "text": "Mass of each body changes slightly but the total mass remains the same",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The transfer of electrons between the bodies results in a slight change in their individual masses, but the total mass of the system remains unchanged due to the conservation of mass."
+        }
+      ],
+      "explanation": "When two bodies are charged by rubbing, electrons are transferred from one body to the other. This leads to one body becoming negatively charged (gaining electrons) and the other positively charged (losing electrons). In this process, the mass of the negatively charged body slightly increases, while the mass of the positively charged body slightly decreases. However, according to the law of conservation of mass, the total mass of the system remains the same because the electrons are merely transferred from one body to the other, not created or destroyed.Option A is incorrect because it overlooks the mass change due to electron transfer. Option B notes a mass change but fails to recognize that the total mass remains constant. Option C incorrectly suggests that the total mass changes, which violates the conservation of mass. Option D correctly identifies that individual masses change while the total mass remains constant.",
+      "explanationImage": null,
+      "hints": [
+        "charged",
+        "rubbing",
+        "positively"
+      ]
+    },
+    {
+      "text": "Two plates are at potentials –20 V and +20 V. If the separation between the plates is 2 cm, the electric field between them will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2000 V/m",
+          "isCorrect": true,
+          "explanation": "The potential difference is 40 V, and the separation is 0.02 m. The electric field is the potential difference divided by the separation, which is 2000 V/m."
+        },
+        {
+          "letter": "B",
+          "text": "1000 V/m",
+          "isCorrect": false,
+          "explanation": "This would be correct if the potential difference was 20 V and separation was 0.02 m, which is not the case here."
+        },
+        {
+          "letter": "C",
+          "text": "500 V/m",
+          "isCorrect": false,
+          "explanation": "This option assumes both a smaller potential difference and a larger separation, neither of which apply here."
+        },
+        {
+          "letter": "D",
+          "text": "3000 V/m",
+          "isCorrect": false,
+          "explanation": "This would require either a larger potential difference or a smaller separation than given."
+        }
+      ],
+      "explanation": "The electric field E between two plates is calculated using the formula E = V/d, where V is the potential difference and d is the separation between the plates. Here, the potential difference V is (20 V - (-20 V)) = 40 V, and the separation d is 2 cm or 0.02 m. Thus, E = 40 V / 0.02 m = 2000 V/m. Therefore, the correct answer is 2000 V/m. The other options are incorrect as they result from incorrect calculations of either the potential difference or the separation distance.",
+      "explanationImage": null,
+      "hints": [
+        "potentials",
+        "separation"
+      ]
+    },
+    {
+      "text": "The position of the point where net electric field will be zero:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "(1+a) m from 4Q",
+          "isCorrect": true,
+          "explanation": "This is the position where the electric field due to the 4Q charge and the -Q charge balance each other, resulting in a net electric field of zero."
+        },
+        {
+          "letter": "B",
+          "text": "a/2 m from – Q",
+          "isCorrect": false,
+          "explanation": "This position does not account for the relative magnitudes of the charges 4Q and -Q, and therefore does not result in a net electric field of zero."
+        },
+        {
+          "letter": "C",
+          "text": "1 m from 4Q",
+          "isCorrect": false,
+          "explanation": "This position is arbitrary and does not account for the balancing of electric fields from the two charges."
+        },
+        {
+          "letter": "D",
+          "text": "Neutral point hence not possible",
+          "isCorrect": false,
+          "explanation": "The term 'neutral point' is not applicable in this context as we are looking for a point where the electric fields cancel each other, not a point of zero potential."
+        }
+      ],
+      "explanation": "The correct answer is (1+a) m from 4Q. This position indicates that the point where the net electric field is zero takes into account the influence of both the 4Q and -Q charges. For the net electric field to be zero, the electric field created by the 4Q charge must be equal in magnitude and opposite in direction to the electric field created by the -Q charge. This occurs at a specific distance from each charge determined by the ratio of their magnitudes. Options B and C are incorrect because they do not accurately represent this balance. Option D is incorrect because the concept of a 'neutral point' is misapplied here; we are interested in electric field cancellation, not potential neutrality.",
+      "explanationImage": null,
+      "hints": [
+        "net",
+        "electric",
+        "field"
+      ]
+    },
+    {
+      "text": "On moving a charge of 2C from a point A where potential is +12V to a point B where potential is –12V, the work done is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "+24 J",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The potential difference must be multiplied by the charge, and both the signs and magnitudes must be considered."
+        },
+        {
+          "letter": "B",
+          "text": "–24 J",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The potential difference calculation was not correctly applied to the entire formula."
+        },
+        {
+          "letter": "C",
+          "text": "48 J",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The correct calculation involves both the sign and magnitude of the potential difference."
+        },
+        {
+          "letter": "D",
+          "text": "–48 J",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The calculation considers the sign and magnitude of the potential difference correctly."
+        }
+      ],
+      "explanation": "The work done in moving a charge in an electric field is given by the formula W = q (Vf – Vi), where q is the charge and Vf and Vi are the final and initial potentials, respectively.Here, q = 2C, Vi = +12V, and Vf = –12V. The potential difference (Vf – Vi) is –12V – (+12V) = –24V.Therefore, W = 2C × (–24V) = –48 J.The negative sign indicates that work is done by the electric field during the movement of the charge. Options A, B, and C do not correctly apply the formula or consider the sign of the potential difference.",
+      "explanationImage": null,
+      "hints": [
+        "charge of 2C",
+        "potential is +12V",
+        "potential is –12V"
+      ]
+    },
+    {
+      "text": "What is the area of the plates of a 3F parallel plate capacitor, if the seperation between the plates is 5mm?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.694×109 m2",
+          "isCorrect": true,
+          "explanation": "This is the correct area calculated using the formula for capacitance, considering the dielectric constant and plate separation."
+        },
+        {
+          "letter": "B",
+          "text": "9.281×109 m2",
+          "isCorrect": false,
+          "explanation": "This option results from an incorrect calculation of the capacitance without using the correct values for permittivity or separation."
+        },
+        {
+          "letter": "C",
+          "text": "4.529×109 m2",
+          "isCorrect": false,
+          "explanation": "This choice is due to an error in applying the formula, possibly confusing the units of separation."
+        },
+        {
+          "letter": "D",
+          "text": "12.981×109 m2",
+          "isCorrect": false,
+          "explanation": "This incorrect answer results from miscalculating the area by using the wrong permittivity or separation values."
+        }
+      ],
+      "explanation": "To find the area of the plates of a parallel plate capacitor, use the formula for capacitance: C = ε₀(A/d), where C is the capacitance, ε₀ is the permittivity of free space, A is the area, and d is the separation between the plates. Given C = 3F and d = 5mm = 0.005m, rearrange the formula to find A = C * d / ε₀. With ε₀ ≈ 8.854 × 10-12 F/m, calculate the area to be approximately 1.694 × 109 m2. The other options result from incorrect calculations or assumptions about the constants used.",
+      "explanationImage": null,
+      "hints": [
+        "3F",
+        "separation",
+        "5mm"
+      ]
+    },
+    {
+      "text": "The capacitor with air is 10F, if a dielectric of ε,=100 is inserted then a new capacitance :",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1000F",
+          "isCorrect": true,
+          "explanation": "Option A is correct according to calculations"
+        },
+        {
+          "letter": "B",
+          "text": "10 µF",
+          "isCorrect": false,
+          "explanation": "Option B is incorrect according to calculations"
+        },
+        {
+          "letter": "C",
+          "text": "10 F",
+          "isCorrect": false,
+          "explanation": "Option C is incorrect according to calculations"
+        },
+        {
+          "letter": "D",
+          "text": "100 F",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect according to calculations"
+        }
+      ],
+      "explanation": "Explanation is given below:",
+      "explanationImage": null,
+      "hints": []
+    }
+  ]
+}

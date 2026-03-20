@@ -1,0 +1,868 @@
+{
+  "questions": [
+    {
+      "text": "The root-mean-square value of the alternating current is equal to",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "twice the peak value",
+          "isCorrect": false,
+          "explanation": "The rms value is not twice the peak value."
+        },
+        {
+          "letter": "B",
+          "text": "(1/√2 ) times the peak value",
+          "isCorrect": true,
+          "explanation": "The root-mean-square (rms) value of an alternating current is given by Irms​=Ipeak/√2​​. This means that the rms value is equal to the peak value divided by the square root of 2"
+        },
+        {
+          "letter": "C",
+          "text": "half the peak value",
+          "isCorrect": false,
+          "explanation": "The rms value is not half the peak value"
+        },
+        {
+          "letter": "D",
+          "text": "equal to the peak value",
+          "isCorrect": false,
+          "explanation": "The rms value is not equal to the peak value"
+        }
+      ],
+      "explanation": "The root-mean-square (rms) value of an alternating current is given by Irms​=Ipeak/√2​​. This means that the rms value is equal to the peak value divided by the square root of 2",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If the instantaneous current in a circuit is given by I=2cos(wt+θ) ampere, the rms value of the current is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2A",
+          "isCorrect": false,
+          "explanation": "This is the peak value, not the rms value."
+        },
+        {
+          "letter": "B",
+          "text": "2√2 A",
+          "isCorrect": false,
+          "explanation": "This value is the peak value, not the rms value"
+        },
+        {
+          "letter": "C",
+          "text": "√2 A",
+          "isCorrect": true,
+          "explanation": "To find the rms value of the given current, we need to use the relationship between the rms value and the peak value of an AC current. The rms value of a current waveform I(t) is given by Irms​=Ipeak/√2. In the given current equation I=2cos(wt+θ), the peak value of the current is Ipeak​=2 A. Therefore, the rms value is Irms​=​(2/√2 ) ​= √2 ​ A"
+        },
+        {
+          "letter": "D",
+          "text": "zero",
+          "isCorrect": false,
+          "explanation": "The given current function represents an alternating current; it is not zero"
+        }
+      ],
+      "explanation": "To find the rms value of the given current, we need to use the relationship between the rms value and the peak value of an AC current. The rms value of a current waveform I(t) is given by Irms​=Ipeak/√2. In the given current equation I=2cos(wt+θ), the peak value of the current is Ipeak​=2 A. Therefore, the rms value is Irms​=​(2/√2 ) ​= √2 ​ A",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "in the following circuit diagram if the frequency of the source is double then the value of current flowing in R will become",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "double",
+          "isCorrect": true,
+          "explanation": "As the frequency increases, the impedance of the resistor (which is effectively its resistance in the context of AC circuits) remains constant, so the current will increase proportionally if the voltage amplitude is held constant"
+        },
+        {
+          "letter": "B",
+          "text": "half",
+          "isCorrect": false,
+          "explanation": "this option is not correct, it doesn’t show a direct linear relation"
+        },
+        {
+          "letter": "C",
+          "text": "√2 A",
+          "isCorrect": false,
+          "explanation": "remains unchanged: not correct, the current is changed due to change in frequency."
+        },
+        {
+          "letter": "D",
+          "text": "four times",
+          "isCorrect": false,
+          "explanation": "this overestimates the value of current generated"
+        }
+      ],
+      "explanation": "As the frequency increases, the impedance of the resistor (which is effectively its resistance in the context of AC circuits) remains constant, so the current will increase proportionally if the voltage amplitude is held constant",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The capacitive reactance of a capacitor in a D.C. circuit is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "The capacitive reactance is not 0 in a DC circuit; it is infinite"
+        },
+        {
+          "letter": "B",
+          "text": "ω⋅C",
+          "isCorrect": false,
+          "explanation": "This formula represents the capacitive reactance in an AC (alternating current) circuit, where ω is the angular frequency and C is the capacitance"
+        },
+        {
+          "letter": "C",
+          "text": "1/ω⋅C1",
+          "isCorrect": false,
+          "explanation": "This is the formula for capacitive reactance in an AC circuit, not in a DC circuit"
+        },
+        {
+          "letter": "D",
+          "text": "∞",
+          "isCorrect": true,
+          "explanation": "Explanation: In a DC (direct current) circuit, the frequency ω is considered to be 0, because DC does not vary with time. The capacitive reactance (XC​) of a capacitor is given by the formula XC​=1/ ω⋅C ​. Since ω is 0 for a DC circuit, the capacitive reactance (XC​) becomes infinite."
+        }
+      ],
+      "explanation": "Explanation: In a DC (direct current) circuit, the frequency ω is considered to be 0, because DC does not vary with time. The capacitive reactance (XC​) of a capacitor is given by the formula XC​=1/ ω⋅C ​. Since ω is 0 for a DC circuit, the capacitive reactance (XC​) becomes infinite.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "When an AC source is connected across a resistor",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "the current leads the voltage",
+          "isCorrect": false,
+          "explanation": "This situation occurs in capacitive circuits, where the current leads the voltage."
+        },
+        {
+          "letter": "B",
+          "text": "the current and voltage are in phase",
+          "isCorrect": true,
+          "explanation": "In a purely resistive AC circuit, such as when an AC source is connected across a resistor, the current and voltage are in phase with each other. This means that the peak of the current waveform occurs at the same time as the peak of the voltage waveform"
+        },
+        {
+          "letter": "C",
+          "text": "the current lags behind the voltage",
+          "isCorrect": false,
+          "explanation": "the current lags behind the voltage - This situation occurs in inductive circuits, where the current lags behind the voltage"
+        },
+        {
+          "letter": "D",
+          "text": "any one of the above may be true depending upon the value of the resistance",
+          "isCorrect": false,
+          "explanation": "any one of the above may be true depending upon the value of the resistance - The phase relationship between current and voltage in an AC circuit depends on the circuit components. However, for a purely resistive circuit, the current and voltage are in phase"
+        }
+      ],
+      "explanation": "In a purely resistive AC circuit, such as when an AC source is connected across a resistor, the current and voltage are in phase with each other. This means that the peak of the current waveform occurs at the same time as the peak of the voltage waveform",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In resonance, the condition is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "XL​+XC​=0",
+          "isCorrect": false,
+          "explanation": "This equation doesn't represent the condition for resonance; it would result in XL​=−XC​, which is not correct"
+        },
+        {
+          "letter": "B",
+          "text": "XL​−XC​=0",
+          "isCorrect": true,
+          "explanation": "In resonance, the inductive reactance (XL​) and capacitive reactance (XC​) in an AC circuit cancel each other out. Mathematically, XL​=XC​, which means XL​−XC​=0."
+        },
+        {
+          "letter": "C",
+          "text": "XL​+XC​=0",
+          "isCorrect": false,
+          "explanation": "This equation is incorrect; it would also result in XL​=−XC​, which is not the condition for resonance"
+        },
+        {
+          "letter": "D",
+          "text": "X L​+_ XC​=∞",
+          "isCorrect": false,
+          "explanation": "This equation is incorrect and doesn't represent the condition for resonance."
+        }
+      ],
+      "explanation": "In resonance, the inductive reactance (XL​) and capacitive reactance (XC​) in an AC circuit cancel each other out. Mathematically, XL​=XC​, which means XL​−XC​=0.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "An LCR series circuit contains L=8 H,C=0.5μF, and R=100Ω. The resonant frequency of the circuit is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1000/π​ Hz",
+          "isCorrect": true,
+          "explanation": "The resonant frequency of an LCR series circuit is given by the formula f0​=1/2πLC​​. Substituting the given values, we get: f0​=1/2π[(8)(0.5×10−6)]^1/2​​"
+        },
+        {
+          "letter": "B",
+          "text": "250/π​ Hz",
+          "isCorrect": false,
+          "explanation": "This value is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "500/π​ Hz",
+          "isCorrect": false,
+          "explanation": "This value is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "125/π​ Hz",
+          "isCorrect": false,
+          "explanation": "This value is incorrect."
+        }
+      ],
+      "explanation": "The resonant frequency of an LCR series circuit is given by the formula f0​=1/2πLC​​. Substituting the given values, we get: f0​=1/2π[(8)(0.5×10−6)]^1/2​​",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The value of impedance in a series LCR circuit at resonance is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "minimum",
+          "isCorrect": true,
+          "explanation": "Impedance in a Series LCR Circuit:Impedance (Z) in a series LCR circuit represents the total opposition to the flow of alternating current (AC) and is calculated as:Z = √(R² + (XL - XC)²)where:R: ResistanceXL: Inductive reactanceXC: Capacitive reactanceResonance in a Series LCR Circuit:Resonance occurs at a specific frequency (f_r) where the inductive reactance (XL) exactly cancels out the capacitive reactance (XC). Mathematically, this means:XL = XCDuring resonance, the imaginary component of the impedance equation (XL - XC) becomes zero. As a result, the square root operation in the impedance formula simplifies to:Z = √(R²)Therefore, at resonance, the impedance of the series LCR circuit reduces to:Z = RConclusion:Since resistance (R) is a positive value, the impedance of the series LCR circuit at resonance becomes minimum and equal to the resistance (R) of the circuit"
+        },
+        {
+          "letter": "B",
+          "text": "maximum",
+          "isCorrect": false,
+          "explanation": "Impedance is minimized, not maximized, at resonance"
+        },
+        {
+          "letter": "C",
+          "text": "infinity",
+          "isCorrect": false,
+          "explanation": "This would occur only in open circuits (infinite resistance), not during resonance"
+        },
+        {
+          "letter": "D",
+          "text": "zero",
+          "isCorrect": false,
+          "explanation": "Impedance becomes equal to the resistance (R), which is not zero"
+        }
+      ],
+      "explanation": "Impedance in a Series LCR Circuit:Impedance (Z) in a series LCR circuit represents the total opposition to the flow of alternating current (AC) and is calculated as:Z = √(R² + (XL - XC)²)where:R: ResistanceXL: Inductive reactanceXC: Capacitive reactanceResonance in a Series LCR Circuit:Resonance occurs at a specific frequency (f_r) where the inductive reactance (XL) exactly cancels out the capacitive reactance (XC). Mathematically, this means:XL = XCDuring resonance, the imaginary component of the impedance equation (XL - XC) becomes zero. As a result, the square root operation in the impedance formula simplifies to:Z = √(R²)Therefore, at resonance, the impedance of the series LCR circuit reduces to:Z = RConclusion:Since resistance (R) is a positive value, the impedance of the series LCR circuit at resonance becomes minimum and equal to the resistance (R) of the circuit",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "As the charging potential alternates, the charge on the antenna",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "remain same",
+          "isCorrect": false,
+          "explanation": "The charge on the antenna changes as the potential alternates."
+        },
+        {
+          "letter": "B",
+          "text": "constantly reverses",
+          "isCorrect": true,
+          "explanation": "As the charging potential alternates, the charge on the antenna also alternates in polarity. When the potential is positive, the charge on the antenna becomes positive, and when the potential is negative, the charge on the antenna becomes negative. Therefore, the charge constantly reverses its polarity."
+        },
+        {
+          "letter": "C",
+          "text": "always positive",
+          "isCorrect": false,
+          "explanation": "The charge on the antenna changes polarity as the potential alternates."
+        },
+        {
+          "letter": "D",
+          "text": "always negative",
+          "isCorrect": false,
+          "explanation": "The charge on the antenna changes polarity as the potential alternates."
+        }
+      ],
+      "explanation": "As the charging potential alternates, the charge on the antenna also alternates in polarity. When the potential is positive, the charge on the antenna becomes positive, and when the potential is negative, the charge on the antenna becomes negative. Therefore, the charge constantly reverses its polarity.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In R.L series circuit with an increase in frequency of A.C source, the impedance of the circuit",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "increases",
+          "isCorrect": true,
+          "explanation": "Components of Impedance:The impedance (Z) in an R-L circuit is the total opposition to the flow of AC current and is calculated as:Z = √(R² + XL²)where:R: Resistance (Ω)XL: Inductive Reactance (Ω)Impact of Frequency on Inductive Reactance:Inductive reactance (XL) is directly proportional to the frequency (f) of the AC source:XL = 2πfLTherefore, as the frequency (f) increases, the inductive reactance (XL) also increases.Effect on Impedance:Since XL is squared in the impedance formula, its increase due to rising frequency has a greater impact on the overall impedance (Z) compared to the constant resistance (R). This leads to an increase in the total impedance of the circuit.Conclusion:With a higher frequency, the inductive reactance dominates the opposition, causing the total impedance of the R-L circuit to increase"
+        },
+        {
+          "letter": "B",
+          "text": "remains the same",
+          "isCorrect": false,
+          "explanation": "The dependence of XL on frequency ensures that the impedance won't stay constant"
+        },
+        {
+          "letter": "C",
+          "text": "decreases",
+          "isCorrect": false,
+          "explanation": "As explained, the increase in XL leads to a rise in impedance, not a decrease"
+        },
+        {
+          "letter": "D",
+          "text": "may increase or decrease",
+          "isCorrect": false,
+          "explanation": "While the impedance can change direction under specific conditions (like resonance in an LCR circuit), the general trend in an R-L"
+        }
+      ],
+      "explanation": "Components of Impedance:The impedance (Z) in an R-L circuit is the total opposition to the flow of AC current and is calculated as:Z = √(R² + XL²)where:R: Resistance (Ω)XL: Inductive Reactance (Ω)Impact of Frequency on Inductive Reactance:Inductive reactance (XL) is directly proportional to the frequency (f) of the AC source:XL = 2πfLTherefore, as the frequency (f) increases, the inductive reactance (XL) also increases.Effect on Impedance:Since XL is squared in the impedance formula, its increase due to rising frequency has a greater impact on the overall impedance (Z) compared to the constant resistance (R). This leads to an increase in the total impedance of the circuit.Conclusion:With a higher frequency, the inductive reactance dominates the opposition, causing the total impedance of the R-L circuit to increase",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In the case of an R.C series circuitser",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "I leads v by π/2",
+          "isCorrect": true,
+          "explanation": "Capacitive Reactance:In an AC circuit, a capacitor offers opposition to current flow through the property of capacitive reactance (XC), measured in ohms (Ω). It is given by:XC = 1 / (2πfC)where:f: frequency (Hz)C: capacitance (F)Phase Difference in RC Circuit:The current (I) in an RC circuit leads the voltage (V) by a phase angle (φ) given by:φ = -tan⁻¹(XC / R)A negative sign indicates the current leading the voltage.R: resistance (Ω)Reasoning:In a capacitor, the current leads the voltage by 90 degrees (π/2) because the charging and discharging processes of the capacitor are not in sync with the voltage across it.As the voltage across the capacitor increases, the current initially rises to charge the plates. However, as the capacitor gets charged, the current starts decreasing even though the voltage continues to rise. This creates a phase shift between the voltage and current waveforms.Therefore, in an RC series circuit, the current leads the voltage by π/2"
+        },
+        {
+          "letter": "B",
+          "text": "I and v are in phase",
+          "isCorrect": false,
+          "explanation": "This is only true for a purely resistive circuit, not an RC circuit."
+        },
+        {
+          "letter": "C",
+          "text": "I lags V by π/2",
+          "isCorrect": false,
+          "explanation": "This is the opposite of what happens in an RC circuit"
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "As explained above, there is a specific phase difference between I and V in an RC circuit."
+        }
+      ],
+      "explanation": "Capacitive Reactance:In an AC circuit, a capacitor offers opposition to current flow through the property of capacitive reactance (XC), measured in ohms (Ω). It is given by:XC = 1 / (2πfC)where:f: frequency (Hz)C: capacitance (F)Phase Difference in RC Circuit:The current (I) in an RC circuit leads the voltage (V) by a phase angle (φ) given by:φ = -tan⁻¹(XC / R)A negative sign indicates the current leading the voltage.R: resistance (Ω)Reasoning:In a capacitor, the current leads the voltage by 90 degrees (π/2) because the charging and discharging processes of the capacitor are not in sync with the voltage across it.As the voltage across the capacitor increases, the current initially rises to charge the plates. However, as the capacitor gets charged, the current starts decreasing even though the voltage continues to rise. This creates a phase shift between the voltage and current waveforms.Therefore, in an RC series circuit, the current leads the voltage by π/2",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Power in an AC circuit is given by",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "P = VI",
+          "isCorrect": false,
+          "explanation": "This expression does not account for the power factor and the phase difference between voltage and current"
+        },
+        {
+          "letter": "B",
+          "text": "P=VIcos",
+          "isCorrect": true,
+          "explanation": "In an AC circuit, the real power (P) is given by the product of voltage (V), current (I), and the power factor (cosine of the phase angle between voltage and current, θ). Therefore, the correct expression for power in an AC circuit is P=VIcos(θ)."
+        },
+        {
+          "letter": "C",
+          "text": "P=VIsin(θ)",
+          "isCorrect": false,
+          "explanation": "This expression does not account for the power factor and the phase difference between voltage and current"
+        },
+        {
+          "letter": "D",
+          "text": "P=VItan(θ)",
+          "isCorrect": false,
+          "explanation": "The tangent function is not used to calculate power in an AC circuit"
+        }
+      ],
+      "explanation": "In an AC circuit, the real power (P) is given by the product of voltage (V), current (I), and the power factor (cosine of the phase angle between voltage and current, θ). Therefore, the correct expression for power in an AC circuit is P=VIcos(θ).",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In a three-phase AC supply, the P.D across two live wires is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "√2V",
+          "isCorrect": false,
+          "explanation": "This value does not represent the relationship between phase voltage and line voltage in a three-phase system"
+        },
+        {
+          "letter": "B",
+          "text": "√5 V",
+          "isCorrect": false,
+          "explanation": "This value is not a standard relationship in three-phase systems"
+        },
+        {
+          "letter": "C",
+          "text": "√3V",
+          "isCorrect": true,
+          "explanation": "In a three-phase AC supply, the phase voltage (V) is the voltage between any one of the live wires and the neutral wire. The line voltage (P.D across two live wires) is √3 times the phase voltage. Therefore, the correct option is √3V"
+        },
+        {
+          "letter": "D",
+          "text": "√7V",
+          "isCorrect": false,
+          "explanation": "This value is not relevant to the relationship between phase voltage and line voltage in a three-phase system."
+        }
+      ],
+      "explanation": "In a three-phase AC supply, the phase voltage (V) is the voltage between any one of the live wires and the neutral wire. The line voltage (P.D across two live wires) is √3 times the phase voltage. Therefore, the correct option is √3V",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In alternating current the average value of current in cycle is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": true,
+          "explanation": "In an alternating current (AC) circuit, the flow of electric current periodically changes direction. The current oscillates back and forth, completing one full cycle when it returns to its original direction. The average value of the current over one complete cycle is zero. The average value of the current in an AC circuit over one complete cycle is zero due to the continuous oscillation and symmetrical nature of the alternating current waveform. The average current is given by the formula:Iavg= 1/T∫0Ti(t)dtIavg is the average current,T is the total time period,i(t) is the instantaneous current at time tThe integral represents the area under the current vs. time curve over one complete cycle."
+        },
+        {
+          "letter": "B",
+          "text": "Constant",
+          "isCorrect": false,
+          "explanation": "Due to the reason stated above, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "+ive",
+          "isCorrect": false,
+          "explanation": "Due to the reason stated above, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Max",
+          "isCorrect": false,
+          "explanation": "Due to the reason stated above, this option is incorrect."
+        }
+      ],
+      "explanation": "In an alternating current (AC) circuit, the flow of electric current periodically changes direction. The current oscillates back and forth, completing one full cycle when it returns to its original direction. The average value of the current over one complete cycle is zero. The average value of the current in an AC circuit over one complete cycle is zero due to the continuous oscillation and symmetrical nature of the alternating current waveform. The average current is given by the formula:Iavg= 1/T∫0Ti(t)dtIavg is the average current,T is the total time period,i(t) is the instantaneous current at time tThe integral represents the area under the current vs. time curve over one complete cycle.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In L.C.R series A.C circuit, the phase angle between current and voltage is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Any angle between 0 and ±π/2",
+          "isCorrect": false,
+          "explanation": "This is a general statement that includes all possible phase angles, not specific to the LCR circuit. The phase angle in an LCR circuit can vary based on the values of L, C, and R."
+        },
+        {
+          "letter": "B",
+          "text": "π/2",
+          "isCorrect": false,
+          "explanation": "This is not necessarily true for all LCR circuits. The phase angle can be greater or less than π/2, depending on the circuit parameters."
+        },
+        {
+          "letter": "C",
+          "text": "π",
+          "isCorrect": false,
+          "explanation": "This is not necessarily true. The phase angle depends on the reactance and resistance in the circuit."
+        },
+        {
+          "letter": "D",
+          "text": "Any angle between 0 and π/2",
+          "isCorrect": true,
+          "explanation": "In an LCR (inductor, capacitor, resistor) series AC circuit, the phase angle between current and voltage depends on the values of inductance, capacitance, and resistance in the circuit. The phase angle is given by the arc tangent of the ratio of the reactance difference to the resistance:Tan (ϕ)= XL-XC/RWhere:XL is the inductive resistance.XC is the conductive resistance.R is the resistance."
+        }
+      ],
+      "explanation": "In an LCR (inductor, capacitor, resistor) series AC circuit, the phase angle between current and voltage depends on the values of inductance, capacitance, and resistance in the circuit. The phase angle is given by the arc tangent of the ratio of the reactance difference to the resistance:Tan (ϕ)= XL-XC/RWhere:XL is the inductive resistance.XC is the conductive resistance.R is the resistance.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "in RLC series circuit when the frequency of AC source is very low the circuit is a/an",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "resistive circuit",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "capacitive circuit",
+          "isCorrect": true,
+          "explanation": "In an RLC series circuit, when the frequency of the AC source is very low, the circuit behaves like a capacitor-dominated circuit, also known as a capacitive circuit.At low frequencies, the capacitive reactance (Xc) is high, and the inductive reactance (Xl) is low. Since Xc is high, it impedes the flow of current, causing the circuit to behave primarily as a capacitive circuit. The total impedance (Z) of the circuit is close to the capacitive reactance.The formula for capacitive reactance is:Xc = 1 / (2 * π * f * C)where f is the frequency and C is the capacitance. As the frequency decreases, the capacitive reactance increases, making it the dominant factor in the circuit"
+        },
+        {
+          "letter": "C",
+          "text": "inductive circuit",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "resonant circuit",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "In an RLC series circuit, when the frequency of the AC source is very low, the circuit behaves like a capacitor-dominated circuit, also known as a capacitive circuit.At low frequencies, the capacitive reactance (Xc) is high, and the inductive reactance (Xl) is low. Since Xc is high, it impedes the flow of current, causing the circuit to behave primarily as a capacitive circuit. The total impedance (Z) of the circuit is close to the capacitive reactance.The formula for capacitive reactance is:Xc = 1 / (2 * π * f * C)where f is the frequency and C is the capacitance. As the frequency decreases, the capacitive reactance increases, making it the dominant factor in the circuit",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "in AC through capacitor circuit the v and q are as",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "V leads q",
+          "isCorrect": true,
+          "explanation": "In an AC circuit with a capacitor, the relationship between voltage (V) and charge (Q) is as follows:a. Voltage (V) leads charge (Q) by 90 degrees.This is because in a capacitor, the current (I) leads the voltage (V) by 90 degrees, and the current (I) is directly proportional to the rate of change of charge (Q). Mathematically, this can be represented as:I = C * (dV/dt)Where C is the capacitance, dV/dt is the rate of change of voltage with respect to time, and I is the current.Since current (I) is in phase with the rate of change of charge (dQ/dt), it means that the charge (Q) lags the current (I) by 90 degrees. As a result, voltage (V) leads charge (Q) by 90 degrees"
+        },
+        {
+          "letter": "B",
+          "text": "V legs q",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "V and q are in phase",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "none of these",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "In an AC circuit with a capacitor, the relationship between voltage (V) and charge (Q) is as follows:a. Voltage (V) leads charge (Q) by 90 degrees.This is because in a capacitor, the current (I) leads the voltage (V) by 90 degrees, and the current (I) is directly proportional to the rate of change of charge (Q). Mathematically, this can be represented as:I = C * (dV/dt)Where C is the capacitance, dV/dt is the rate of change of voltage with respect to time, and I is the current.Since current (I) is in phase with the rate of change of charge (dQ/dt), it means that the charge (Q) lags the current (I) by 90 degrees. As a result, voltage (V) leads charge (Q) by 90 degrees",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "at resonance, the phase angle for RLC series resonance circuit equals",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": true,
+          "explanation": "In an RLC series resonance circuit, at resonance, the phase angle between the voltage and current equals:a. 0 degrees (in-phase)Resonance in an RLC series circuit occurs when the inductive reactance (Xl) and capacitive reactance (Xc) are equal in magnitude but opposite in direction. This happens at the resonant frequency (fr), which can be calculated as:fr = 1 / (2 * π * √(LC))Where L is the inductance and C is the capacitance.At resonance, the net reactance (Xl - Xc) becomes zero, and the total impedance (Z) of the circuit is equal to the resistance (R) of the resistor. Since the impedance is purely resistive, the voltage (V) and current (I) are in phase with each other, resulting in a phase angle of 0 degrees. This means that the voltage and current waveforms reach their maximum and minimum values at the same time"
+        },
+        {
+          "letter": "B",
+          "text": "90",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "180",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "270",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "In an RLC series resonance circuit, at resonance, the phase angle between the voltage and current equals:a. 0 degrees (in-phase)Resonance in an RLC series circuit occurs when the inductive reactance (Xl) and capacitive reactance (Xc) are equal in magnitude but opposite in direction. This happens at the resonant frequency (fr), which can be calculated as:fr = 1 / (2 * π * √(LC))Where L is the inductance and C is the capacitance.At resonance, the net reactance (Xl - Xc) becomes zero, and the total impedance (Z) of the circuit is equal to the resistance (R) of the resistor. Since the impedance is purely resistive, the voltage (V) and current (I) are in phase with each other, resulting in a phase angle of 0 degrees. This means that the voltage and current waveforms reach their maximum and minimum values at the same time",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In alternating current the average value of current in cycle is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "The average value of current in an alternating current (AC) cycle is not zero; it is generally nonzero."
+        },
+        {
+          "letter": "B",
+          "text": "Constant",
+          "isCorrect": false,
+          "explanation": "The average value of current in an AC cycle varies, and it is not constant."
+        },
+        {
+          "letter": "C",
+          "text": "+",
+          "isCorrect": false,
+          "explanation": "The average value of current in an AC cycle is not equal to the positive amplitude of the current."
+        },
+        {
+          "letter": "D",
+          "text": "max:",
+          "isCorrect": true,
+          "explanation": "The average value of current in an AC cycle is equal to the maximum current (amplitude) divided by the square root of 2."
+        }
+      ],
+      "explanation": "The average value of current in an AC cycle is equal to the maximum current (amplitude) divided by the square root of 2.In summary, option (d) \"max\" is the correct statement for the average value of current in an alternating current cycle.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In L.C.R series A.C circuit, the phase angle between current and voltage is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Any angle between 0 and π/2",
+          "isCorrect": false,
+          "explanation": "Incorrect. The phase angle in an L.C.R circuit is specific"
+        },
+        {
+          "letter": "B",
+          "text": "π/2",
+          "isCorrect": false,
+          "explanation": "Incorrect. The phase angle is not necessarily π/2 in an L.C.R circuit"
+        },
+        {
+          "letter": "C",
+          "text": "𝜋",
+          "isCorrect": false,
+          "explanation": "Incorrect. The phase angle is not necessarily 𝜋 in an L.C.R circuit"
+        },
+        {
+          "letter": "D",
+          "text": "Any angle between 0 and 𝜋/2",
+          "isCorrect": true,
+          "explanation": "Correct. In an L.C.R circuit, the phase angle can be any angle between 0 and 𝜋/2.In summary, the correct option is **d. Any angle between 0 and 𝜋/2** for the phase angle in an L.C.R circuit."
+        }
+      ],
+      "explanation": "Correct. In an L.C.R circuit, the phase angle can be any angle between 0 and 𝜋/2.In summary, the correct option is **d. Any angle between 0 and 𝜋/2** for the phase angle in an L.C.R circuit.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The inductive reactance of the coil having inductance of 0.5 henry in which AC of 50 Hz flows is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "94.2 ohm",
+          "isCorrect": false,
+          "explanation": "The inductive reactance of a coil is given by \\(X_L = 2πfL\\), where \\(f\\) is the frequency of the AC and \\(L\\) is the inductance of the coil. Substituting the given values, \\(X_L = 2π(50)(0.5) ≈ 157\\, \\Omega\\)."
+        },
+        {
+          "letter": "B",
+          "text": "1.57 ohm",
+          "isCorrect": false,
+          "explanation": "The calculation for inductive reactance is incorrect. The correct value is \\(X_L ≈ 157\\, \\Omega\\), not 1.57 ohm."
+        },
+        {
+          "letter": "C",
+          "text": "157 ohm",
+          "isCorrect": true,
+          "explanation": "The inductive reactance of a coil is given by \\(X_L = 2πfL\\), where \\(f\\) is the frequency of the AC and \\(L\\) is the inductance of the coil. Substituting the given values, \\(X_L = 2π(50)(0.5) = 157\\, \\Omega\\)."
+        },
+        {
+          "letter": "D",
+          "text": "9.4 ohm",
+          "isCorrect": false,
+          "explanation": "The calculation for inductive reactance is incorrect. The correct value is \\(X_L ≈ 157\\, \\Omega\\), not 9.4 ohm."
+        }
+      ],
+      "explanation": "The inductive reactance of a coil is given by \\(X_L = 2πfL\\), where \\(f\\) is the frequency of the AC and \\(L\\) is the inductance of the coil. Substituting the given values, \\(X_L = 2π(50)(0.5) = 157\\, \\Omega\\).",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In an RLC series circuit, when the frequency of the AC source is very low, the circuit is a/an",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Resistive circuit",
+          "isCorrect": true,
+          "explanation": "When the frequency of the AC source is very low, the inductive reactance (\\(X_L\\)) and capacitive reactance (\\(X_C\\)) in the circuit become negligible compared to the resistance (\\(R\\)). In this case, the circuit behaves almost like a pure resistive circuit."
+        },
+        {
+          "letter": "B",
+          "text": "Capacitive circuit",
+          "isCorrect": false,
+          "explanation": "When the frequency of the AC source is very low, the inductive reactance (\\(X_L\\)) becomes negligible compared to the resistance (\\(R\\)), but the capacitive reactance (\\(X_C\\)) may still have an effect on the circuit. Therefore, the circuit is not purely capacitive."
+        },
+        {
+          "letter": "C",
+          "text": "Inductive circuit",
+          "isCorrect": false,
+          "explanation": "When the frequency of the AC source is very low, the capacitive reactance (\\(X_C\\)) becomes negligible compared to the resistance (\\(R\\)), but the inductive reactance (\\(X_L\\)) may still have an effect on the circuit. Therefore, the circuit is not purely inductive."
+        },
+        {
+          "letter": "D",
+          "text": "Resonant circuit",
+          "isCorrect": false,
+          "explanation": "A resonant circuit is one in which the inductive reactance (\\(X_L\\)) is equal to the capacitive reactance (\\(X_C\\)), resulting in resonance. This condition does not apply when the frequency of the AC source is very low."
+        }
+      ],
+      "explanation": "When the frequency of the AC source is very low, the inductive reactance (\\(X_L\\)) and capacitive reactance (\\(X_C\\)) in the circuit become negligible compared to the resistance (\\(R\\)). In this case, the circuit behaves almost like a pure resistive circuit.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following makes the motion of a perpetual motion machine a physical impossibility",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "First law of thermodynamics",
+          "isCorrect": false,
+          "explanation": "The first law of thermodynamics, also known as the law of conservation of energy, states that energy cannot be created or destroyed, only transformed from one form to another. While perpetual motion machines violate the first law by producing energy indefinitely without an external source, this law alone does not make perpetual motion machines physically impossible."
+        },
+        {
+          "letter": "B",
+          "text": "Second law of thermodynamics",
+          "isCorrect": true,
+          "explanation": "The second law of thermodynamics states that in any energy transfer or transformation, there will always be an increase in the entropy of the universe. Perpetual motion machines violate this law because they aim to produce energy indefinitely without any input, which would decrease entropy over time, contradicting the second law."
+        },
+        {
+          "letter": "C",
+          "text": "Third law of thermodynamics",
+          "isCorrect": false,
+          "explanation": "The third law of thermodynamics states that the entropy of a perfect crystal at absolute zero temperature is zero. While this law provides insight into the behavior of systems at absolute zero, it does not directly relate to the impossibility of perpetual motion machines."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "Both the first and second laws of thermodynamics contribute to the understanding of why perpetual motion machines are impossible. While the first law addresses the conservation of energy, the second law specifically addresses the increase in entropy and the impossibility of achieving perpetual motion."
+        }
+      ],
+      "explanation": "The second law of thermodynamics states that in any energy transfer or transformation, there will always be an increase in the entropy of the universe. Perpetual motion machines violate this law because they aim to produce energy indefinitely without any input, which would decrease entropy over time, contradicting the second law.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The process of combining low-frequency signal with high-frequency carrier waves is called",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Alternating Current",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rectification",
+          "isCorrect": false,
+          "explanation": "Rectification is the process of converting alternating current (AC) to direct current (DC), typically by using a diode or a rectifier circuit."
+        },
+        {
+          "letter": "B",
+          "text": "Amplification",
+          "isCorrect": false,
+          "explanation": "Amplification is the process of increasing the magnitude of a signal, typically done using electronic amplifiers."
+        },
+        {
+          "letter": "C",
+          "text": "Modulation",
+          "isCorrect": true,
+          "explanation": "Modulation is the process of varying the characteristics of a carrier wave (high-frequency signal) in proportion to the information signal (low-frequency signal) being transmitted. Common types of modulation include amplitude modulation (AM), frequency modulation (FM), and phase modulation (PM)."
+        },
+        {
+          "letter": "D",
+          "text": "Magnification",
+          "isCorrect": false,
+          "explanation": "Magnification is not a term commonly used in the context of combining signals. It typically refers to the process of enlarging or making something appear larger."
+        }
+      ],
+      "explanation": "Modulation is the process of varying the characteristics of a carrier wave (high-frequency signal) in proportion to the information signal (low-frequency signal) being transmitted. Common types of modulation include amplitude modulation (AM), frequency modulation (FM), and phase modulation (PM).",
+      "explanationImage": null,
+      "hints": []
+    }
+  ]
+}

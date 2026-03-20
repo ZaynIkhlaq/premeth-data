@@ -1,0 +1,996 @@
+{
+  "questions": [
+    {
+      "text": "The cost of two dozen apples is $3.60. At this rate, what is the cost of 10 apples?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Ratio",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "$1.75",
+          "isCorrect": false,
+          "explanation": "If each apple cost more than $0.15, the total for 10 apples would exceed the correct total."
+        },
+        {
+          "letter": "B",
+          "text": "$1.60",
+          "isCorrect": false,
+          "explanation": "This option assumes a slightly higher per-apple cost than the actual $0.15."
+        },
+        {
+          "letter": "C",
+          "text": "$1.55",
+          "isCorrect": false,
+          "explanation": "This is incorrect due to a minor calculation error in the per-apple cost."
+        },
+        {
+          "letter": "D",
+          "text": "$1.50",
+          "isCorrect": true,
+          "explanation": "Correct! 24 apples cost $3.60, so each apple costs $0.15. Therefore, 10 apples cost $1.50."
+        }
+      ],
+      "explanation": "To find the cost of 10 apples, begin by determining the cost of one apple. Since 24 apples cost $3.60, divide $3.60 by 24 to find the cost per apple: $3.60 ÷ 24 = $0.15 per apple.Now, multiply the cost per apple by the number of apples you want to buy: $0.15 × 10 = $1.50. So, the cost of 10 apples is $1.50.Option A ($1.75), Option B ($1.60), and Option C ($1.55) all overestimate the cost per apple or involve calculation errors, leading to incorrect total costs for 10 apples.To find the cost of 10 apples, let's break it down:Two dozen apples = 24 applesCost of 24 apples = $3.60Step 1: Find the cost of 1 apple3.6024=0.15\\frac{3.60}{24} = 0.15So, 1 apple costs $0.15.Step 2: Find the cost of 10 apples10×0.15=1.5010 \\times 0.15 = 1.50✅ Final Answer: $1.50 for 10 apples.",
+      "explanationImage": null,
+      "hints": [
+        "two dozen",
+        "cost",
+        "rate"
+      ]
+    },
+    {
+      "text": "John and Peter are hostel fellows too. Each of them pays the rent, according to their room’s size. Peter’s room is twice as big as John. How much rent does Peter pay if the total rent of two rooms is $600?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Ratio",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "$600",
+          "isCorrect": false,
+          "explanation": "This would mean Peter pays the entire rent, which contradicts the information that both pay according to room size."
+        },
+        {
+          "letter": "B",
+          "text": "$400",
+          "isCorrect": true,
+          "explanation": "Peter's room is twice as big as John's, so he pays twice as much. If the total rent is $600, then Peter pays $400."
+        },
+        {
+          "letter": "C",
+          "text": "$200",
+          "isCorrect": false,
+          "explanation": "This would mean Peter pays the same as John, which contradicts the information that his room is bigger and therefore more expensive."
+        },
+        {
+          "letter": "D",
+          "text": "$240",
+          "isCorrect": false,
+          "explanation": "This amount does not fit the given information that Peter's room is twice as big as John's and thus not twice the rent."
+        }
+      ],
+      "explanation": "To solve this, we set John's rent as $x and Peter's rent as $2x because his room is twice as big. Therefore, the equation is:$x + $2x = $600Solving for x gives:$3x = $600x = $200Thus, Peter pays $2x, which is $400.Option A ($600) suggests Peter pays all the rent, which is incorrect. Option C ($200) suggests Peter pays the same as John, which contradicts the problem. Option D ($240) does not align with the proportional rent based on room size. ORWe’re told:Peter’s room is twice as big as John’sTotal rent = $600Rent is proportional to room sizeStep 1: Let John’s rent be xSince Peter's room is twice as big, his rent is 2xStep 2: Set up the equationx+2x=600⇒3x=600⇒x=200x + 2x = 600 , 3x = 600 , x = 200Step 3: Find Peter’s rent2x=2×200=4002x = 2 x 200 = 400✅ Final Answer: Peter pays $400 in rent.",
+      "explanationImage": null,
+      "hints": [
+        "room size",
+        "total rent",
+        "twice as big"
+      ]
+    },
+    {
+      "text": "In a recipe two liters of milk required 3 spoons of chocolate powder and whenever 4 spoons of chocolate is used there should by 5 spoons of sugar. What is the relationship b/w milk and sugar?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Ratio",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "For 3 litres of 2 spoons of sugar",
+          "isCorrect": false,
+          "explanation": "This is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "For 2 litres of milk 5 spoons of sugar",
+          "isCorrect": false,
+          "explanation": "This is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "For 4 litres of 2 spoons of sugar",
+          "isCorrect": false,
+          "explanation": "This is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "For 8 litres of milk 15 spoons of sugar",
+          "isCorrect": true,
+          "explanation": "D is correct as 4 Spoon of the chocolate powder require 5 spoon of the sugarFor 1 spoon chocolate, we need 5/4 spoons of sugarFor 3 spoon chocolate, we need 15 / 4 spoons of sugarFor 2 liters of milk, we need 3 spoon chocolate then need 15/4 spoons sugarFor 8 liter milk, we need 15 spoons of the sugar."
+        }
+      ],
+      "explanation": "A, B, C are wrong as 15 spoons of sugar are required for 8 litres of milk. D is correct as 4 Spoon of the chocolate powder require 5 spoon of the sugar For 1 spoon chocolate, we need 5/4 spoons of sugar For 3 spoon chocolate, we need 15 / 4 spoons of sugar For 2 liters of milk, we need 3 spoon chocolate then need 15/4 spoons sugar For 8 liter milk, we need 15 spoons of the sugar.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In a garrison there is enough food for 800 men for 20 days. After 5 days 200 men desert. How would the food will last now:",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Ratio",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The food lasts longer than 10 days after the reduction in the number of men."
+        },
+        {
+          "letter": "B",
+          "text": "20",
+          "isCorrect": true,
+          "explanation": "This option is correct. After accounting for the men who left, the food will last for 20 days in total."
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The food lasts more than 8 days after accounting for the changes in the number of men."
+        },
+        {
+          "letter": "D",
+          "text": "40",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The food will not last for as long as 40 days given the number of men remaining."
+        }
+      ],
+      "explanation": "Initially, there's enough food for 800 men for 20 days, meaning the total food available is 800 men x 20 days = 16,000 man-days of food.After 5 days, 800 men have consumed 800 men x 5 days = 4,000 man-days of food, leaving 12,000 man-days of food.With 200 men deserting, 600 men remain. The remaining food will now last for 12,000 man-days / 600 men = 20 days.Options A, C, and D are incorrect because the calculations show that the food lasts for 20 days after the changes. Option B is correct because it reflects this outcome accurately.",
+      "explanationImage": null,
+      "hints": [
+        "garrison",
+        "800 men",
+        "5 days"
+      ]
+    },
+    {
+      "text": "David used 1/10 of his monthly salary for groceries and 3/18 of his remaining money for his car payment. He also paid twice as much money for rent as for his car payment. If David has $1,620 left after paying for groceries, car payment, and rent, how much is his monthly salary?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Ratio",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "$3,240",
+          "isCorrect": false,
+          "explanation": "This calculation does not correctly account for the total expenses and the remaining amount. Double-check the fractions used for expenses."
+        },
+        {
+          "letter": "B",
+          "text": "$3,320",
+          "isCorrect": false,
+          "explanation": "This option results from a miscalculation in the distribution of expenses. Review how each expense fraction is applied."
+        },
+        {
+          "letter": "C",
+          "text": "$3,480",
+          "isCorrect": false,
+          "explanation": "This option is close but incorrect. Re-evaluate the fractions used for rent and car payment, and ensure the remaining amount matches the given $1,620."
+        },
+        {
+          "letter": "D",
+          "text": "$3,600",
+          "isCorrect": true,
+          "explanation": "This is the correct monthly salary. The calculations for groceries, car payment, and rent align correctly to leave a balance of $1,620."
+        }
+      ],
+      "explanation": "Let's denote David's monthly salary as x. He spends 1/10 of his salary on groceries, so the amount spent on groceries is x * 1/10 = x/10. After groceries, he has 9/10 of his salary left.From this remaining amount, he spends 3/18 on his car payment. The car payment is calculated as (9/10)x * 3/18 = x/20.Rent is twice the car payment, so rent is 2 * (x/20) = x/10.After all these expenses, David has $1,620 left. Therefore, the equation becomes:x/10 (groceries) + x/20 (car) + x/10 (rent) + $1,620 = x.Combining terms gives x/10 + x/20 + x/10 = x - $1,620.Finding a common denominator for the fractions, we have (2x + x + 2x)/20 = x - $1,620.This simplifies to 5x/20 = x - $1,620, or x/4 = x - $1,620.So, x - x/4 = $1,620, which simplifies to 3x/4 = $1,620. Solving for x gives x = $3,600.Thus, David's monthly salary is $3,600. The other options miscalculate the expenses or the remaining balance.",
+      "explanationImage": null,
+      "hints": [
+        "monthly salary",
+        "remaining money",
+        "car payment"
+      ]
+    },
+    {
+      "text": "The ratio of 1 ¾ to 2 ½ is equal to the ratio of 14 to what number?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Ratio",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "18",
+          "isCorrect": false,
+          "explanation": "This option results from a calculation error when setting up the proportion equation. You might have made a mistake in cross-multiplying or simplifying."
+        },
+        {
+          "letter": "B",
+          "text": "20",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. By converting the mixed numbers to improper fractions and cross-multiplying, you get the correct proportional value."
+        },
+        {
+          "letter": "C",
+          "text": "22",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Double-check your conversion of mixed numbers and ensure you set up and solve the proportion correctly."
+        },
+        {
+          "letter": "D",
+          "text": "24",
+          "isCorrect": false,
+          "explanation": "This is an incorrect result, possibly from miscalculating the product during cross-multiplication."
+        }
+      ],
+      "explanation": "To solve the problem, start by converting the mixed numbers to improper fractions. 1 ¾ becomes 7/4, and 2 ½ becomes 5/2. Set up the ratio as 7/4 : 5/2 = 14 : x. Cross-multiply to find x: (7/4)x = (5/2) * 14. Simplify to find x = (5/2) * 14 / (7/4) = (5 * 14) / (2 * 7/4). Simplifying further gives x = 20. Thus, the correct answer is Option B: 20. The other options result from errors in conversion, cross-multiplication, or simplification.",
+      "explanationImage": null,
+      "hints": [
+        "ratio",
+        "improper fractions",
+        "cross-multiply"
+      ]
+    },
+    {
+      "text": "If 2(x-y)=3y, what is the ratio x/y?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Ratio",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2/5",
+          "isCorrect": false,
+          "explanation": "This assumes the equation was rearranged incorrectly, leading to a miscalculation in expressing x in terms of y."
+        },
+        {
+          "letter": "B",
+          "text": "4/3",
+          "isCorrect": false,
+          "explanation": "This results from an incorrect manipulation of the equation, leading to an incorrect ratio."
+        },
+        {
+          "letter": "C",
+          "text": "5/2",
+          "isCorrect": true,
+          "explanation": "This is the correct solution, derived by isolating x and expressing it in terms of y."
+        },
+        {
+          "letter": "D",
+          "text": "8/3",
+          "isCorrect": false,
+          "explanation": "This value results from a misstep in solving the equation or interpreting the ratio incorrectly."
+        }
+      ],
+      "explanation": "Start with the equation: 2(x-y) = 3y. Expand the left side to get 2x - 2y = 3y. Next, add 2y to both sides: 2x = 5y. Divide both sides by y to isolate x: x/y = 5/2. Thus, the correct ratio is 5/2, which corresponds to Option C.Other options are incorrect due to errors in algebraic manipulation or misinterpretation of the equation. Option A (2/5) and Option B (4/3) arise from incorrect steps in rearranging and solving. Option D (8/3) results from a miscalculation.",
+      "explanationImage": null,
+      "hints": [
+        "2(x-y)",
+        "3y",
+        "ratio x/y"
+      ]
+    },
+    {
+      "text": "If ¾ quart of lemonade concentrate is mixed with 6 ⅔ quarts of water to make lemonade for 40 people, how many quarts of lemonade concentrate are needed to make the lemonade for 24 people?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Ratio",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3/10",
+          "isCorrect": false,
+          "explanation": "This result is incorrect because it does not correctly apply the ratio for 24 people based on the original ratio for 40 people."
+        },
+        {
+          "letter": "B",
+          "text": "7/20",
+          "isCorrect": false,
+          "explanation": "This answer assumes an incorrect ratio change and does not consider the correct proportional reduction from 40 to 24 people."
+        },
+        {
+          "letter": "C",
+          "text": "2/5",
+          "isCorrect": false,
+          "explanation": "This answer overestimates the amount of concentrate needed, failing to maintain the correct proportion between the original and new quantities of people."
+        },
+        {
+          "letter": "D",
+          "text": "9/20",
+          "isCorrect": true,
+          "explanation": "This is the correct answer because it accurately applies the ratio from the original mixture to the reduced number of people, maintaining the proportion of concentrate needed."
+        }
+      ],
+      "explanation": "To solve this problem, we need to set up a proportion based on the original mixture for 40 people. We have ¾ quart of concentrate for 40 people. We want to find out how much concentrate is needed for 24 people.Set up the proportion: (¾ quart / 40 people) = (x quart / 24 people).By cross-multiplying, we get: 40x = 24 × ¾. Simplifying this gives x = 18/40 = 9/20.Therefore, 9/20 quarts of concentrate are needed for 24 people. This maintains the same ratio of concentrate to people as the original mixture.The other options are incorrect because they do not maintain the correct proportion based on the original recipe.",
+      "explanationImage": null,
+      "hints": [
+        "lemonade",
+        "40 people",
+        "24 people"
+      ]
+    },
+    {
+      "text": "A 32-acre field yields 768 bushels of corn each year. How many more acres are needed to yield 960 bushels of corn each year?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Ratio",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": "Using the proportion method, 6 acres are insufficient for the desired yield of 960 bushels. This calculation results in a yield of less than 960 bushels, making this option incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "isCorrect": true,
+          "explanation": "Correct! By setting up the proportion 32 acres/768 bushels = (32+x) acres/960 bushels, you find that 8 additional acres are needed to achieve a total yield of 960 bushels."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "isCorrect": false,
+          "explanation": "This option overestimates the number of additional acres needed. Solving the proportion shows that 10 acres would yield more than 960 bushels, making this option incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "12",
+          "isCorrect": false,
+          "explanation": "This option greatly overestimates the required additional acres. Calculation through the proportion reveals that 12 acres would produce significantly more than 960 bushels, thus incorrect."
+        }
+      ],
+      "explanation": "To determine the additional acres required, set up a proportion based on the initial data: a 32-acre field yields 768 bushels. Express this as a ratio: 32 acres/768 bushels = (32 + x) acres/960 bushels, where 'x' is the number of additional acres needed.Cross-multiply to obtain: 32 * 960 = (32 + x) * 768.Upon solving, you get 30,720 = 24,576 + 768x.Further simplification gives 6,144 = 768x, leading to x = 8.Therefore, 8 more acres are required to reach the desired yield of 960 bushels. Other options either underestimate or overestimate the necessary acres based on incorrect calculations of the proportion.",
+      "explanationImage": null,
+      "hints": [
+        "32-acre",
+        "768 bushels",
+        "960 bushels"
+      ]
+    },
+    {
+      "text": "A tree is 8 feet tall and grows 8 inches each year. In how many years will the tree reach a height of 30 feet?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Ratio",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "27",
+          "isCorrect": false,
+          "explanation": "This assumes an incorrect conversion of inches to feet or miscalculating the number of years."
+        },
+        {
+          "letter": "B",
+          "text": "33",
+          "isCorrect": true,
+          "explanation": "This is the correct answer, calculated by dividing the required growth in feet by the annual growth rate in feet."
+        },
+        {
+          "letter": "C",
+          "text": "45",
+          "isCorrect": false,
+          "explanation": "This overestimates the time needed by using an incorrect annual growth rate."
+        },
+        {
+          "letter": "D",
+          "text": "52",
+          "isCorrect": false,
+          "explanation": "This result comes from a significant overestimation of the time required, possibly misunderstanding the conversion or growth rate."
+        }
+      ],
+      "explanation": "The tree currently stands at 8 feet tall and needs to reach 30 feet, which means it must grow an additional 22 feet.The tree grows 8 inches per year. Since there are 12 inches in a foot, 8 inches equals 2/3 of a foot per year.To find the number of years required for the tree to grow those 22 feet, divide the total feet needed by the annual growth in feet:Number of years = 22 feet / (2/3 feet/year) = 33 years.Therefore, it will take 33 years for the tree to reach a height of 30 feet. Option B is correct. The other options result from errors in conversion or in calculating the growth period.",
+      "explanationImage": null,
+      "hints": [
+        "tree",
+        "grows",
+        "height"
+      ]
+    },
+    {
+      "text": "In a certain room the ratio of males to females is 4 to 5. After 8 males enter the room, the ratio of males to females is 6 to 5. What is the total number of people in the room before the additional males enter the room?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Ratio",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "27",
+          "isCorrect": false,
+          "explanation": "This option assumes incorrect values for the initial setup. Recheck the ratio calculations."
+        },
+        {
+          "letter": "B",
+          "text": "36",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. By solving the equations derived from the given ratios, we find the total number of people initially was 36."
+        },
+        {
+          "letter": "C",
+          "text": "45",
+          "isCorrect": false,
+          "explanation": "This option assumes an incorrect calculation in setting up the equations. Verify the cross-multiplication step."
+        },
+        {
+          "letter": "D",
+          "text": "54",
+          "isCorrect": false,
+          "explanation": "This result comes from an error in the setup or solving process. Revisit the initial conditions and equations."
+        }
+      ],
+      "explanation": "To solve this problem, start by defining variables for the number of males and females in the room. Let the number of males be 4x and the number of females be 5x, based on the initial ratio of 4 to 5.The equation for the initial setup is: 4x / 5x = 4 / 5 (which holds true by definition)When 8 additional males enter, the number of males becomes 4x + 8. The new ratio of males to females is given as 6 to 5:(4x + 8) / 5x = 6 / 5Cross-multiply to solve for x: 5(4x + 8) = 6(5x) 20x + 40 = 30x 10x = 40 x = 4Substitute x back to find the number of males and females: Number of males = 4x = 16 Number of females = 5x = 20The total number of people initially in the room is 16 + 20 = 36. Thus, the correct answer is (B) 36.Options A, C, and D result from incorrect calculations or assumptions in setting up the problem or solving the equations.",
+      "explanationImage": null,
+      "hints": [
+        "ratio",
+        "males",
+        "females"
+      ]
+    },
+    {
+      "text": "The table gives the typical amounts of energy per gram, expressed in both food calories and kilojoules, of the three macronutrients in food.If x food calories are equivalent to k kilojoules, of the following, which best represents the relationship between x and k?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Ratio",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "k = 0.24x",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It could result from incorrectly calculating the rate of change by reversing the numerator and denominator in the formula."
+        },
+        {
+          "letter": "B",
+          "text": "k = 4.2x",
+          "isCorrect": true,
+          "explanation": "This option is correct. The relationship between x food calories and k kilojoules is proportional. Using the formula for the rate of change from the table values, you find that k = 4.2x best represents the relationship."
+        },
+        {
+          "letter": "C",
+          "text": "x = 4.2k",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It results from confusing the dependent variable (k) with the independent variable (x)."
+        },
+        {
+          "letter": "D",
+          "text": "xk = 4.2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It likely results from an error in setting up the equation, mistaking a direct proportional relationship for a product relationship."
+        }
+      ],
+      "explanation": "Choice B is correct because the relationship between x food calories and k kilojoules is best described by a proportional relationship. By considering the data points (4.0, 16.7) and (9.0, 37.7) from the table, we calculate the rate of change as (37.7 - 16.7) / (9.0 - 4.0) = 21/5 = 4.2, leading to the equation k = 4.2x. Other options are incorrect due to errors in setting up the relationship or reversing variables.",
+      "explanationImage": null,
+      "hints": [
+        "relationship",
+        "proportional",
+        "rate of change"
+      ]
+    },
+    {
+      "text": "In 1854, during the California gold rush, each ounce of gold was worth $20, and the largest known mass of gold found in California was worth $62,400 in that year. What was the weight, in pounds, of this mass of gold?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Ratio",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "188",
+          "isCorrect": false,
+          "explanation": "This option assumes an incorrect conversion factor or arithmetic error in calculating ounces to pounds."
+        },
+        {
+          "letter": "B",
+          "text": "190",
+          "isCorrect": false,
+          "explanation": "This option might result from rounding errors when converting ounces to pounds."
+        },
+        {
+          "letter": "C",
+          "text": "195",
+          "isCorrect": true,
+          "explanation": "The correct answer is 195. To find the mass in ounces, divide the total value ($62,400) by the price per ounce ($20), resulting in 3120 ounces. Convert ounces to pounds by dividing by 16, yielding 195 pounds."
+        },
+        {
+          "letter": "D",
+          "text": "198",
+          "isCorrect": false,
+          "explanation": "This option could arise from a miscalculation involving incorrect division or multiplication."
+        }
+      ],
+      "explanation": "The correct answer is 195 pounds. First, determine the mass in ounces by dividing the total value of the gold ($62,400) by the value per ounce ($20), resulting in 3120 ounces. Since 1 pound equals 16 ounces, divide 3120 by 16 to convert ounces to pounds, yielding 195 pounds. Option A (188) and Option B (190) result from calculation errors in the conversion process. Option D (198) reflects a potential arithmetic mistake when performing the division.",
+      "explanationImage": null,
+      "hints": [
+        "gold",
+        "ounce",
+        "pounds"
+      ]
+    },
+    {
+      "text": "A certain package requires 3 centimeters of tape to be closed securely. What is the maximum number of packages of this type that can be secured with 6 meters of tape?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Ratio",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100",
+          "isCorrect": false,
+          "explanation": "Choice A is incorrect and may be the result of incorrect interpretations of the given information or computation errors."
+        },
+        {
+          "letter": "B",
+          "text": "150",
+          "isCorrect": false,
+          "explanation": "Choice B is incorrect and may be the result of incorrect interpretations of the given information or computation errors."
+        },
+        {
+          "letter": "C",
+          "text": "200",
+          "isCorrect": true,
+          "explanation": "Choice C is correct. Multiplying each side of 1 meter = 100 cm by 6 gives 6 meters = 600 cm. Each package requires 3 centimeters of tape. The number of packages that can be secured with 600 cm of tape is 600/3, or 200 packages."
+        },
+        {
+          "letter": "D",
+          "text": "300",
+          "isCorrect": false,
+          "explanation": "Choice D is incorrect and may be the result of incorrect interpretations of the given information or computation errors."
+        }
+      ],
+      "explanation": "Choice C is correct. Multiplying each side of 1 meter = 100 cm by 6 gives 6 meters = 600 cm. Each package requires 3 centimeters of tape. The number of packages that can be secured with 600 cm of tape is 600/3, or 200 packages.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If 50 one-cent coins were stacked on top of each other in a column, the column would be approximately 3 (7/8) inches tall. At this rate, which of the following is closest to the number of one-cent coins it would take to make an 8-inch-tall column?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Ratio",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "75",
+          "isCorrect": false,
+          "explanation": "Choice A is incorrect. A column of 75 stacked one-cent coins would be slightly less than 6 inches tall. This is not close to 8 inches, as it falls short by a significant margin."
+        },
+        {
+          "letter": "B",
+          "text": "100",
+          "isCorrect": true,
+          "explanation": "Choice B is correct. A column of 50 stacked one-cent coins is approximately 3(7/8) inches tall, nearly 4 inches. So for a column to be 8 inches tall, we would need about twice the number of coins, which is close to 100 coins."
+        },
+        {
+          "letter": "C",
+          "text": "200",
+          "isCorrect": false,
+          "explanation": "Choice C is incorrect. A column of 200 stacked one-cent coins would be more than 15 inches tall, which is significantly taller than 8 inches."
+        },
+        {
+          "letter": "D",
+          "text": "390",
+          "isCorrect": false,
+          "explanation": "Choice D is incorrect. A column of 390 stacked one-cent coins would exceed 30 inches in height, far exceeding 8 inches."
+        }
+      ],
+      "explanation": "Choice B is correct. The height of a column of 50 one-cent coins is approximately 3(7/8) inches, which is nearly 4 inches. To find the number of coins needed for an 8-inch-tall column, we can set up a proportion: (3(7/8) inches / 50 coins) = (8 inches / x coins). Solving this gives x = 400 x 8 / 31, approximately 103. Therefore, 100 is the closest option. Choice A underestimates the height, as 75 coins would only reach about 6 inches. Choice C overestimates the number, resulting in more than 15 inches, and Choice D results in a height exceeding 30 inches, which are both clearly beyond 8 inches.",
+      "explanationImage": null,
+      "hints": [
+        "50 one-cent coins",
+        "3 (7/8) inches",
+        "8-inch-tall column"
+      ]
+    },
+    {
+      "text": "At a particular track meet, the ratio of coaches to athletes is 1 to 26. If there are x coaches at the track meet, which of the following expressions represents the number of athletes at the track meet?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Ratio",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "x/26",
+          "isCorrect": false,
+          "explanation": "This choice is incorrect. Dividing x by 26 would suggest that there are fewer athletes than coaches, which contradicts the given ratio of 1 to 26."
+        },
+        {
+          "letter": "B",
+          "text": "26x",
+          "isCorrect": true,
+          "explanation": "This choice is correct. The problem states that the ratio of coaches to athletes is 1 to 26. If there are x coaches, multiplying the ratio by x gives 1(x) to 26(x), or x to 26x, indicating 26x athletes."
+        },
+        {
+          "letter": "C",
+          "text": "x+26",
+          "isCorrect": false,
+          "explanation": "This choice is incorrect. Adding 26 to x does not maintain the original ratio of 1 to 26, and does not correctly calculate the number of athletes."
+        },
+        {
+          "letter": "D",
+          "text": "26/x",
+          "isCorrect": false,
+          "explanation": "This choice is incorrect. Dividing 26 by x does not reflect the relationship given by a ratio of 1 to 26, where 26 times the number of coaches will give the number of athletes."
+        }
+      ],
+      "explanation": "The correct answer is 26x. The ratio of coaches to athletes is 1 to 26, meaning for every coach, there are 26 athletes. If there are x coaches, you multiply both sides of the ratio by x to maintain the ratio, resulting in x coaches and 26x athletes. The other options are incorrect because they do not maintain this ratio. x/26 implies fewer athletes than coaches, x+26 adds rather than multiplies, and 26/x suggests a division that is not relevant to finding the number of athletes.",
+      "explanationImage": null,
+      "hints": [
+        "ratio",
+        "coaches",
+        "athletes"
+      ]
+    },
+    {
+      "text": "Scott selected 20 employees at random from all 400 employees at a company. He found that 16 of the employees in this sample are enrolled in exactly three professional development courses this year. Based on Scott’s findings, which of the following is the best estimate of the number of employees at the company who are enrolled in exactly three professional development courses this year?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Ratio",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "Choice A is incorrect. The number 4 represents the employees in the sample who are not enrolled in exactly three professional development courses this year."
+        },
+        {
+          "letter": "B",
+          "text": "320",
+          "isCorrect": true,
+          "explanation": "Choice B is correct. With 16 out of 20 employees in the sample enrolled in exactly three courses, this represents 80% of the sample. Applying this proportion to the whole company (80% of 400 employees) gives an estimate of 320 employees."
+        },
+        {
+          "letter": "C",
+          "text": "380",
+          "isCorrect": false,
+          "explanation": "Choice C is incorrect. This number corresponds to the employees who were not selected in the sample, not those enrolled in the courses."
+        },
+        {
+          "letter": "D",
+          "text": "384",
+          "isCorrect": false,
+          "explanation": "Choice D is incorrect. This number does not align with the 80% proportion derived from the sample and likely arises from a miscalculation of the percentage."
+        }
+      ],
+      "explanation": "Choice B is correct because the sample indicates that 80% of the employees are enrolled in exactly three professional development courses. By applying this percentage to the total company population of 400 employees, we estimate that 320 employees are enrolled in these courses. Other options are incorrect: 4 represents those not enrolled in the courses within the sample, 380 represents employees not selected for the sample, and 384 is an erroneous result from misapplying the percentage.",
+      "explanationImage": null,
+      "hints": [
+        "sample",
+        "estimate",
+        "percentage"
+      ]
+    },
+    {
+      "text": "There are 108 passengers in a railway coach. The ratio of males to females is 5 : 4. The number of females on the coach is",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Ratio",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "46",
+          "isCorrect": false,
+          "explanation": "46 is incorrect. When applying the ratio, 46 does not align with the required number of females from the total."
+        },
+        {
+          "letter": "B",
+          "text": "48",
+          "isCorrect": true,
+          "explanation": "48 is correct. The calculation based on the ratio correctly divides the passengers into males and females, resulting in 48 females."
+        },
+        {
+          "letter": "C",
+          "text": "60",
+          "isCorrect": false,
+          "explanation": "60 is incorrect. This option miscalculates the division of passengers and does not adhere to the given ratio."
+        },
+        {
+          "letter": "D",
+          "text": "62",
+          "isCorrect": false,
+          "explanation": "62 is incorrect. This option overestimates the number of females and does not correspond to the ratio provided."
+        }
+      ],
+      "explanation": "The problem states a ratio of males to females as 5:4. This means for every 9 passengers, there are 5 males and 4 females. To find the total number of females, first determine the number of groups of 9 in the total 108 passengers: 108 ÷ 9 = 12. Each group contains 4 females, so multiply the number of groups by the number of females per group: 12 × 4 = 48. Thus, the correct answer is 48 females.Options 46, 60, and 62 are incorrect as they don't accurately reflect the distribution given by the ratio.",
+      "explanationImage": null,
+      "hints": [
+        "ratio",
+        "males",
+        "females"
+      ]
+    },
+    {
+      "text": "The value of 7! Divided by 3! Is:",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Ratio",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.33",
+          "isCorrect": false,
+          "explanation": "This option results from incorrect division, likely by not fully expanding the factorials."
+        },
+        {
+          "letter": "B",
+          "text": "840",
+          "isCorrect": true,
+          "explanation": "We are asked to find the value of 7! ÷ 3!Step 1: Recall the factorial values7! = 7 × 6 × 5 × 4 × 3 × 2 × 1 = 50403! = 3 × 2 × 1 = 6Step 2: Divide5040 ÷ 6 = 840Final Answer: 840"
+        },
+        {
+          "letter": "C",
+          "text": "210",
+          "isCorrect": false,
+          "explanation": "This result could occur from a miscalculation in dividing the factorials."
+        },
+        {
+          "letter": "D",
+          "text": "1320",
+          "isCorrect": false,
+          "explanation": "We are asked to find the value of 7! ÷ 3!Step 1: Recall the factorial values7! = 7 × 6 × 5 × 4 × 3 × 2 × 1 = 50403! = 3 × 2 × 1 = 6Step 2: Divide5040 ÷ 6 = 840Final Answer: 840"
+        }
+      ],
+      "explanation": "The factorial of a number n, denoted as n!, is the product of all positive integers up to n. Therefore, 7! = 7 × 6 × 5 × 4 × 3 × 2 × 1 and 3! = 3 × 2 × 1. To calculate 7! divided by 3!, you can simplify as follows:7! / 3! = (7 × 6 × 5 × 4 × 3 × 2 × 1) / (3 × 2 × 1) = 7 × 6 × 5 × 4 = 840.",
+      "explanationImage": null,
+      "hints": [
+        "value",
+        "7!",
+        "3!"
+      ]
+    },
+    {
+      "text": "To estimate the proportion of a population that has a certain characteristic, a random sample was selected from the population. Based on the sample, it is estimated that the proportion of the population that has the characteristic is 0.49, with an associated margin of error of 0.04. Based on this estimate and margin of error, which of the following is the most appropriate conclusion about the proportion of the population that has the characteristic?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Ratio",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is plausible that the proportion is between 0.45 and 0.53.",
+          "isCorrect": true,
+          "explanation": "This option is correct. The estimated proportion is 0.49, and the margin of error is 0.04. Therefore, the plausible range is calculated by subtracting and adding the margin of error to the estimate, resulting in the interval 0.45 to 0.53."
+        },
+        {
+          "letter": "B",
+          "text": "It is plausible that the proportion is less than 0.45.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A proportion less than 0.45 falls outside the calculated interval of plausible values, which is from 0.45 to 0.53."
+        },
+        {
+          "letter": "C",
+          "text": "The proportion is exactly 0.49.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While 0.49 is the estimated proportion, the presence of a margin of error implies that the true proportion could reasonably lie within a range, not at a single point."
+        },
+        {
+          "letter": "D",
+          "text": "It is plausible that the proportion is greater than 0.53.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A proportion greater than 0.53 is outside the plausible range of 0.45 to 0.53, which is determined by the margin of error."
+        }
+      ],
+      "explanation": "Choice A is correct because the estimated proportion of 0.49 with a margin of error of 0.04 leads to a plausible range of 0.45 to 0.53. This interval accounts for the uncertainty inherent in estimation. Choices B and D are incorrect because they suggest values outside this interval. Choice C is incorrect because the true proportion is not necessarily exactly 0.49, given the margin of error.",
+      "explanationImage": null,
+      "hints": [
+        "random sample",
+        "margin of error",
+        "plausible range"
+      ]
+    },
+    {
+      "text": "A granite block in the shape of a right rectangular prism has dimensions 30 centimeters by 40 centimeters by 50 centimeters. The block has a density of 2.8 grams per cubic centimeter. What is the mass of the block, in grams? (Density is mass per unit volume.)",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Ratio",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "336",
+          "isCorrect": false,
+          "explanation": "Choice A is incorrect. This error may occur if you add the dimensions instead of multiplying them to find the volume."
+        },
+        {
+          "letter": "B",
+          "text": "3,360",
+          "isCorrect": false,
+          "explanation": "Choice B is incorrect. This answer likely stems from the same mistake as Choice A, with an additional place value error when calculating the volume."
+        },
+        {
+          "letter": "C",
+          "text": "16,800",
+          "isCorrect": false,
+          "explanation": "Choice C is incorrect. This result may arise from a miscalculation of the place value during the volume computation."
+        },
+        {
+          "letter": "D",
+          "text": "168,000",
+          "isCorrect": true,
+          "explanation": "Choice D is correct. The mass is found by multiplying the density by the volume of the prism. The volume is calculated by multiplying its dimensions: 30 cm × 40 cm × 50 cm = 60,000 cubic centimeters. Multiplying this volume by the density, 2.8 grams per cubic centimeter, gives the correct mass: 168,000 grams."
+        }
+      ],
+      "explanation": "Choice D is correct. To find the mass of the granite block, first calculate its volume as a right rectangular prism. The volume is the product of its dimensions: 30 cm × 40 cm × 50 cm = 60,000 cubic centimeters. Given the density is 2.8 grams per cubic centimeter, multiply the volume by the density to find the mass: (2.8 grams per cubic centimeter) × (60,000 cubic centimeters) = 168,000 grams.Choices A, B, and C are incorrect due to errors in calculating the volume, either by adding dimensions, using incorrect place values, or both.",
+      "explanationImage": null,
+      "hints": [
+        "right rectangular prism",
+        "density",
+        "mass"
+      ]
+    },
+    {
+      "text": "In 2015 the populations of City X and City Y were equal. From 2010 to 2015, the population of City X increased by 20% and the population of City Y decreased by 10%. If the population of City X was 120,000 in 2010, what was the population of City Y in 2010?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Ratio",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "60,000",
+          "isCorrect": false,
+          "explanation": "Choice A is incorrect. If the population of City Y in 2010 was 60,000, then after a decrease of 10%, the population in 2015 would be 60,000 × 0.90 = 54,000, which is not equal to City X's 2015 population of 144,000."
+        },
+        {
+          "letter": "B",
+          "text": "90,000",
+          "isCorrect": false,
+          "explanation": "Choice B is incorrect because if City Y's population in 2010 was 90,000, then after a 10% decrease, the 2015 population would be 90,000 × 0.90 = 81,000, which does not match City X's 2015 population of 144,000."
+        },
+        {
+          "letter": "C",
+          "text": "160,000",
+          "isCorrect": true,
+          "explanation": "Choice C is correct. Given City X's 2010 population was 120,000, a 20% increase would result in a 2015 population of 120,000 × 1.20 = 144,000. For City Y, a decrease of 10% means the 2015 population is 0.90 times its 2010 population. Hence, 0.90y = 144,000, solving gives y = 144,000 / 0.90 = 160,000."
+        },
+        {
+          "letter": "D",
+          "text": "240,000",
+          "isCorrect": false,
+          "explanation": "Choice D is incorrect because if City Y's population in 2010 was 240,000, then after a 10% decrease, the 2015 population would be 240,000 × 0.90 = 216,000, which is far greater than City X's population of 144,000 in 2015."
+        }
+      ],
+      "explanation": "To solve the problem, start with City X. It had a population of 120,000 in 2010, and with a 20% increase, its population in 2015 was 120,000 × 1.20 = 144,000. For City Y, let y represent the population in 2010. A 10% decrease means the 2015 population is y × 0.90. Since both populations are equal in 2015: y × 0.90 = 144,000. Solving this gives y = 144,000 / 0.90 = 160,000. Thus, City Y's population in 2010 was 160,000. The other options do not match this outcome when recalculated with the given percentage changes.",
+      "explanationImage": null,
+      "hints": [
+        "population",
+        "increased",
+        "decreased"
+      ]
+    },
+    {
+      "text": "What is the simplified form of 20:30?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Ratio",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2:3",
+          "isCorrect": true,
+          "explanation": "By dividing both numbers by their GCD, which is 10, we get the simplest form, 2:3."
+        },
+        {
+          "letter": "B",
+          "text": "4:6",
+          "isCorrect": false,
+          "explanation": "This ratio is a simplification of 40:60, but it is not the simplest form of 20:30."
+        },
+        {
+          "letter": "C",
+          "text": "5:7",
+          "isCorrect": false,
+          "explanation": "5:7 has no relation to the numbers 20 and 30, as they do not share a common factor that reduces to this ratio."
+        },
+        {
+          "letter": "D",
+          "text": "3:5",
+          "isCorrect": false,
+          "explanation": "3:5 is the result of simplifying 30:50, not 20:30."
+        }
+      ],
+      "explanation": "The correct answer is 2:3. To simplify the ratio 20:30, we must divide both numbers by their greatest common divisor (GCD). The factors of 20 are 1, 2, 4, 5, 10, and 20, and the factors of 30 are 1, 2, 3, 5, 6, 10, 15, and 30. The greatest common factor is 10. By dividing both 20 and 30 by 10, we get the simplified ratio of 2:3. The other options, such as 4:6, 5:7, and 3:5, are incorrect as they do not represent the simplest form of 20:30.",
+      "explanationImage": null,
+      "hints": [
+        "simplified form",
+        "greatest common divisor",
+        "divide both numbers"
+      ]
+    },
+    {
+      "text": "If a:b = 3:4, then b:a = ?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Ratio",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4:3",
+          "isCorrect": true,
+          "explanation": "This is the correct inverse of the given ratio a:b = 3:4. By swapping the positions of a and b, we get b:a = 4:3."
+        },
+        {
+          "letter": "B",
+          "text": "3:4",
+          "isCorrect": false,
+          "explanation": "This is the original ratio, not the inverse. The question asks for the inverse ratio."
+        },
+        {
+          "letter": "C",
+          "text": "7:1",
+          "isCorrect": false,
+          "explanation": "This ratio has no relation to the given ratio a:b = 3:4. It is neither the original nor the inverse of the given ratio."
+        },
+        {
+          "letter": "D",
+          "text": "1:7",
+          "isCorrect": false,
+          "explanation": "This ratio is also unrelated to the given ratio a:b = 3:4. It is neither the original nor the inverse of the given ratio."
+        }
+      ],
+      "explanation": "To solve the problem, we need to find the inverse of the given ratio a:b = 3:4.Step 1: Understanding the given ratioThe given ratio a:b = 3:4 indicates that for every 3 units of a, there are 4 units of b.Step 2: Finding the inverse ratioTo find the ratio b:a, we invert the given ratio by swapping the positions of a and b.Step 3: Calculating the inverse ratioThe inverse of a:b = 3:4 is b:a = 4:3.Option A (4:3) is correct because it reflects the proper inversion of the given ratio. Option B (3:4) is incorrect as it is the original ratio, not the inverse. Options C (7:1) and D (1:7) are incorrect because they are unrelated to the original ratio.",
+      "explanationImage": null,
+      "hints": [
+        "a:b",
+        "ratio",
+        "inverse"
+      ]
+    },
+    {
+      "text": "If 5:8 = x:24, what is the value of x?",
+      "image": null,
+      "subject": "Mathematics Reasoning",
+      "topic": "Ratio",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "12",
+          "isCorrect": false,
+          "explanation": "If x = 12, the ratio would be 12:24, which simplifies to 1:2. This does not match the original ratio of 5:8."
+        },
+        {
+          "letter": "B",
+          "text": "15",
+          "isCorrect": true,
+          "explanation": "By setting up the equation 5/8 = x/24 and cross-multiplying, 5 × 24 = 8 × x, we get 120 = 8x. Dividing both sides by 8, x = 15."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "isCorrect": false,
+          "explanation": "If x = 10, the ratio would be 10:24, which simplifies to approximately 5:12. This does not match the original ratio of 5:8."
+        },
+        {
+          "letter": "D",
+          "text": "18",
+          "isCorrect": false,
+          "explanation": "If x = 18, the ratio would be 18:24, which simplifies to 3:4. This does not match the original ratio of 5:8."
+        }
+      ],
+      "explanation": "The problem gives a proportion: 5:8 = x:24. To find x, set up the equation 5/8 = x/24. Cross-multiply to get 5 × 24 = 8 × x, which simplifies to 120 = 8x. Dividing both sides by 8, we find x = 15, making Option B the correct choice.Option A, x = 12, simplifies the ratio to 1:2, which is not equal to 5:8. Option C, x = 10, simplifies to 5:12, also not matching 5:8. Option D, x = 18, simplifies to 3:4, again not matching 5:8.",
+      "explanationImage": null,
+      "hints": [
+        "proportion",
+        "cross-multiply",
+        "solve"
+      ]
+    }
+  ]
+}

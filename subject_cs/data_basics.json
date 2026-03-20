@@ -1,0 +1,3430 @@
+{
+  "questions": [
+    {
+      "text": "A feature of a database management system which stores data definition is:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Data Dictionary",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Backup recovery",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Report generator",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Report generator",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "All records in a file have the same:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Contents",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Structure",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Data",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "File type",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is B. Structure.File Structure refers to the way data is organized within a file. This includes:Data types: The kind of data stored in each field (e.g., numbers, text, dates).Field length: The maximum number of characters allowed for each data field.Delimiters: Special characters used to separate fields (e.g., comma, tab).Record order: How the records are arranged within the file (e.g., chronological, alphabetical).Having a consistent structure allows for efficient storage, retrieval, and manipulation of data within the file.Here's why the other options are incorrect:A. Contents: While all records may contain similar data, they won't necessarily have identical content. For instance, a customer file might have the same structure for storing names, addresses, and phone numbers, but the content of each field will vary between different customer records.C. Data: Data refers to the specific values stored within a file, which can vary between records even if the structure remains the same.D. File type: The file type (.txt, .csv, .docx) specifies the format of the entire file, not necessarily the structure of individual records within the file. Different file types can have different structures for storing data",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following objectives relate with database management system software?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Data Integrity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Data Integrity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Availability",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The answer is D. All of these.Here's why each option is a valid objective of database management system software:A. Data Integrity: Database management systems (DBMS) ensure data integrity by maintaining the accuracy and consistency of data within the database. This includes preventing unauthorized data modification and ensuring data adheres to defined rules.B. Data Integration: DBMS software facilitates data integration by allowing you to combine data from multiple sources into a single, unified database. This makes it easier to retrieve and analyze data from different systems.C. Availability: DBMS software strives to make data readily available to authorized users whenever needed. This includes ensuring high uptime, data recovery in case of failures, and efficient data retrieval processes.Therefore, all of the listed objectives (Data Integrity, Data Integration, and Availability) are crucial aspects of database management systems",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following are disadvantages of DBMS?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "System overhead",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Training of staff",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Need of data dictionary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Here are the options, along with explanations for why each option is correct:(A) System overhead - This is correct. DBMS software can require significant computing resources, which can slow down other applications running on the same system. Additionally, the complexity of DBMS software can make it more expensive to maintain than simpler file-based systems.(B) Training of staff - This is correct. Because DBMS software is complex, it can require specialized training for users and administrators. This can be a time-consuming and expensive process.(C) Need of data dictionary - This is correct. A data dictionary is a catalog that stores information about the data in a DBMS, such as data types, constraints, and relationships between tables. While a data dictionary is essential for managing a DBMS effectively, it adds to the complexity of the system and requires additional effort to maintain.(D) All of these - This is also correct. All of the above options (system overhead, training of staff, and need for a data dictionary) are disadvantages of DBMS.So, the best answer is (D) All of these",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following data models is more flexible?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Network data model",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Hierarchical data model",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Relational data model",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Object-oriented data model",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The most flexible data model among the choices is:C. Relational data modelHere's why relational data models are considered more flexible:Tables with defined relationships: Data is stored in two-dimensional tables with rows and columns, allowing for efficient organization and easy retrieval. Relationships between tables are established through foreign keys, enabling connections between related data points across tables.Schema changes: The structure (schema) of a relational database can be modified relatively easily to accommodate new data requirements. You can add new tables, columns, or modify existing ones without impacting the entire database structure.Data normalization: Relational databases follow principles of data normalization to minimize redundancy and improve data integrity. This reduces the risk of errors and inconsistencies.SQL queries: Structured Query Language (SQL) is a powerful and versatile language for querying, manipulating, and managing data in relational databases. SQL makes it easy to retrieve specific data based on complex criteria.Here's why the other options are less flexible:A. Network data model: Offers more flexibility than hierarchical models but still has limitations. It allows one child record to have many parent records, but the structure can become complex for representing intricate relationships.B. Hierarchical data model: Enforces a strict parent-child tree-like structure where each child record can have only one parent. This rigidity makes it less suitable for modeling complex relationships between data entities.D. Object-oriented data model: While powerful for representing complex data objects and their relationships, object-oriented data models can be more complex to design and implement compared to relational models",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following database models is often referred to as an inverted tree?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hierarchical",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Network",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Relational",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Object-oriented",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The answer is A. Hierarchical.Hierarchical database models organize data in a tree-like structure, where each record (except the root) has one parent record. This parent-child relationship resembles an upside-down tree, hence the nickname \"inverted tree\". Data is accessed by traversing the tree from the root down to the specific child record.Here's why the other options are incorrect:B. Network model: While network models also represent data structures with parent-child relationships, they allow a child record to have multiple parents. This creates a more complex web-like structure, unlike the single-parent hierarchy.C. Relational model: Relational database models store data in tables with rows and columns. There's no inherent hierarchical structure in relational databases. Data is retrieved using queries that join related tables based on common fields.D. Object-oriented model: Object-oriented database models focus on storing objects that encapsulate data and related functionalities. Similar to relational models, they don't inherently represent data in a hierarchical structure",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A database is an organized collection of which type of related data?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Logically",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Physically",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Loosely",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Badly",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Here are the options, along with explanations for why each option is correct or incorrect:(A) Logically - This is the correct answer. A database is designed to store data in a logical way, with relationships between different pieces of data. This makes it easier to find, manage, and update the data. For example, a database of customers might include tables for customer information, orders, and products. The tables would be linked together so that you could easily find all of the orders for a particular customer, or all of the customers who have purchased a particular product.(B) Physically - This is incorrect. While data in a database is stored physically on a storage device, the logical organization is more important. The physical structure of the data is not important to users or applications that interact with the database.(C) Loosely - This is incorrect. A database is designed to have a strict structure to minimize data redundancy and inconsistencies. Loosely structured data would be more difficult to manage and query.(D) Badly - This is incorrect. A database is designed to store data in a well-organized way, not badly",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following objectives of a database enables the user to modify data structures without affecting existing programs?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Data independence",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Data dependence",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Data integration",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Data relationship",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following type of file requires longest processing time?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sequential file",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Random file",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Indexed sequential file",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Direct access file",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Answer: C. Indexed sequential fileIndexed sequential files typically require the longest processing time among the listed options. Here's why:Sequential file: In a sequential file, data records are stored in a specific order, one after the other. Processing this file requires reading each record sequentially until the desired record is found. This can be fast for reading data in the order it's stored, but slow for finding specific records.Random file: Random access files allow direct access to any record using a specific key (like an ID number). This eliminates the need to read through all preceding records, making retrieval of specific records faster.Indexed sequential file: Indexed sequential files combine features of both sequential and random access files. They store data sequentially but also maintain an index that maps data values to physical locations on the storage device. This speeds up retrieval of specific records compared to purely sequential files, but it may involve maintaining the index and potentially searching both the index and the data file, leading to potentially more processing time than direct access files.Direct access file: Direct access files allow direct access to any record using its physical address on the storage device. This enables the fastest retrieval time among the listed options, as there's no need to search through other records or an index.In summary:Random access files and direct access files provide the fastest retrieval times for specific records.Sequential files are fast for reading data in the order it's stored but slow for finding specific records.Indexed sequential files offer a balance between ordered access and faster retrieval of specific records compared to sequential files, but they may involve more processing time than direct access files due to index management",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is not an advantage of database?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reliability",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Data sharing",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Centralized storage of data",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "﻿User training",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A collection of raw facts and figures is called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Files",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Data",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Data Processing",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Information",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The answer is B. Data.Here's why the other options are incorrect:A. Files: Files are collections of data stored on a computer system, but data itself is the raw, unprocessed information within those files.C. Data Processing: Data processing refers to the process of manipulating and organizing data to extract meaningful insights. It's an action performed on data, not the data itself.D. Information: Information is data that has been processed, organized, and interpreted to provide context and meaning. It represents the understanding gained from raw data.Therefore, data is the unprocessed collection of facts and figures.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following data models stores data in rows and columns?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Network data model",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Object data model",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Relational data model",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Hierarchical data model",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is C. Relational data model.Relational data models store data in two-dimensional tables with rows and columns. Each table represents a specific entity or concept, and each row (also called a tuple) represents a record or instance of that entity. Columns (also called attributes) define the characteristics or properties of the entity.Here's why the other options are incorrect:A. Network data model stores data in a more complex structure where records can have multiple parent records. It doesn't use a simple tabular format with rows and columns.B. Object data model represents data using objects, which encapsulate data and the associated operations. While objects can have properties and methods similar to table columns, they don't directly map to a row-and-column structure.D. Hierarchical data model organizes data in a tree-like structure where child records are linked to a single parent record. This parent-child hierarchy differs from the two-dimensional table format used in relational models.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The manipulation and processed data are called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Object",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Information",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Data",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Data",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is (B) Information.Data is raw, unprocessed facts or figures. Information is data that has been processed and organized into a meaningful form. It is information that is useful for decision-making or problem-solving.Here's why the other options are incorrect:(A) Object - An object is a container for data and the methods that manipulate that data. It's a programming concept, not a general term for processed data.(C) Data - As mentioned before, data is raw and unprocessed.(D) File - A file is a collection of data stored on a computer system. It can contain data, information, or even programs. While a file can hold information, it is not the same thing as information",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is handled by DBMS?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Data integrity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Data security",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Data independence",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is D. All of the above.A Database Management System (DBMS) plays a crucial role in managing data effectively. Here's how DBMS handles each of the aspects mentioned in the options:Data integrity: DBMS enforces data integrity by defining data types, constraints, and validation rules. This ensures data accuracy and consistency within the database.Data security: DBMS provides security features like access control, encryption, and auditing to protect data from unauthorized access, modification, or deletion.Data independence: DBMS allows modifying the database structure (tables, columns) without affecting applications (programs) that access the data. This is achieved through a layer of abstraction provided by the DBMS.Let's look at why the other options individually are also important functionalities of a DBMS:A. Data integrity is essential for maintaining reliable and trustworthy data in the database.B. Data security protects sensitive data from unauthorized access and potential breaches.C. Data independence simplifies database maintenance and reduces the impact of structural changes on applications.In conclusion, a DBMS plays an integral role in managing data integrity, security, and independence within a database system",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is an example of a database?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Phonebook",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Library catalog",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Library catalog",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The answer is D. All of the above.Here's why each option is a valid example of a database:A. Phonebook: A phonebook is a collection of organized information about people, including their names and phone numbers. This data can be stored and retrieved electronically, making it a type of database.B. Library catalog: A library catalog electronically stores information about library holdings, including books, articles, and other media. This information can be searched and accessed by users, making it a database.C. Student records: Student records contain information about students, such as their grades, transcripts, and contact details. This data can be electronically stored and managed in a database system, allowing for efficient access and updates.Therefore, all of the listed options (phonebook, library catalog, and student records) are examples of databases because they represent organized collections of data that can be electronically stored, managed, and accessed.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In DBMS, the major components are",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hardware",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Software",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Data",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is (D) All of these.A Database Management System (DBMS) relies on all three of these components to function:Hardware refers to the physical components of the computer system that store and access the database. This includes things like hard drives, solid state drives, CPUs, and memory.Software refers to the DBMS software itself, which provides the tools and functionality to manage the database. This includes things like the database engine, query language processor, and utilities for managing users, security, and backups.Data is the actual information that is stored in the database. This can include things like customer information, product information, financial data, and more.All three of these components are essential for a DBMS to function effectively. The hardware provides the platform for storing and accessing the data, the software provides the tools for managing the data, and the data is the resource that the DBMS is designed to manage.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A database containing all students in a class would store basic data of students in:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Record",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Field",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Cell",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "File",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is A. Record.In a database, a record refers to a collection of related data fields that represents a single entity or instance within a table. In the context of a student database, a record would contain all the information about a particular student, such as their name, ID number, grades, etc.Here's why the other options are incorrect:B. Field refers to an individual data point within a record. For instance, \"Student Name\" would be a field, and the value in that field could be \"Alice Smith\".C. Cell is a term sometimes used interchangeably with field, but it can also refer to the intersection of a row and column in a spreadsheet. While relational databases can be viewed as similar to spreadsheets, the technical term for the data container is a record.D. File is a general term for a collection of data stored on a computer. A database can be a type of file, but a database is typically structured with tables, records, and fields to organize data efficiently",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is also known as a data set?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Record",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Field",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Cell",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "File",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The answer is D. File.Here's why the other options are incorrect:A. Record: A record is a single entry in a database table containing a collection of fields with values specific to that entry. While records can be part of a data set, a data set itself is not a single record.B. Field: A field represents a specific attribute or characteristic within a record. For instance, in a student record database, a field might be \"student_name\" or \"gpa\". Fields are data elements within a data set, but they don't encompass the entire collection of data.C. Cell: A cell is the intersection of a row and a column in a spreadsheet or table. It can hold a single value of data. Similar to fields, cells are components of a data set, not the entire data set itself.Therefore, a data set, also known as a file in this context, refers to a collection of related data points organized electronically. It can include multiple records, each containing various fields and data values",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A request for information from a database in database terminology is called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Report",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Letter",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Table",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Query",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is (D) A Query.In database terminology, a query is a formal request for data from a database. It specifies what data you want to retrieve, and optionally how you want it filtered or sorted. Queries are written in a special language called a query language, such as SQL (Structured Query Language).Here's why the other options are incorrect:(A) A Report - A report is a formatted presentation of data retrieved from a database. It is the output of a query, not the query itself.(B) A Letter - A letter is a written communication between two or more parties. It is not a term used in database terminology.(C) A Table - A table is a data structure in a database that stores data in rows and columns. It is part of the database itself, not a request for information from the database",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which one of the following is an advantage of database management approach?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Programs are independent of data format",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Reduces security and the control of data",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Increases duplication of data",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is (D) All of the above.Database management systems (DBMS) offer several advantages over traditional file-based systems for managing data. Here's a breakdown of why each option is a benefit of using a DBMS:(A) Programs are independent of data format: In a DBMS, the data is stored in a central repository with a defined structure (schema). This schema acts as an interface between the data and the programs that access it. Programs can interact with the data using a query language (like SQL) without needing to know the specific physical storage format of the data. This simplifies program development and maintenance, as any changes to the data storage format won't necessarily require modifying the programs themselves.(B) Reduces security and the control of data: A DBMS provides security features like access control mechanisms, user authentication, and data encryption. These features help restrict unauthorized access to data and ensure only authorized users can modify or delete it. This improves data security and control compared to file-based systems where data might be more vulnerable.(C) Increases duplication of data: A well-designed database minimizes data redundancy by storing each piece of data only once. Data integrity rules can be enforced to prevent inconsistencies. This reduces storage requirements and the risk of errors that can occur when the same data is duplicated across multiple files.In conclusion, database management systems offer significant advantages for data management, including data independence, improved security, and reduced data redundancy",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In a database environment, duplication of same data represented in two different files is known as:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Data inconsistency",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Data redundancy",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Data overflow",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Data overflow",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The answer is B. Data redundancy.Here's why the other options are incorrect:A. Data inconsistency: Data inconsistency refers to situations where the same data has different values in different parts of a database. This can lead to errors and confusion. While data redundancy can contribute to data inconsistency, it's not the same thing.C. Data overflow: Data overflow occurs when a data type cannot hold a value that is too large or too small for its designated range. This is a specific issue related to data storage capacity, not the duplication of data across files.D. Invalid data: Invalid data refers to information that does not meet the defined criteria for a particular field. It's unrelated to the presence of duplicate data in multiple files.Data redundancy is the correct answer because it refers to the unnecessary duplication of the same data in multiple locations within a database system. This can waste storage space, increase the risk of inconsistencies, and complicate data maintenance",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "SQL stands for",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Structure Query Language",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Sort Query Language",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Self Query Language",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Seek Query Language",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is (A) Structure Query Language.SQL is a standardized language used to manage relational databases. It allows you to perform various tasks such as:Retrieving data from a databaseInserting data into a databaseUpdating data in a databaseDeleting data from a databaseCreating and modifying database tablesHere's why the other options are incorrect:(B) Sort Query Language - SQL can be used to sort data, but it is not limited to sorting. It is a more general-purpose language for managing relational databases.(C) Self Query Language - This is not a standard term for SQL. SQL can be used to query a database, but it is not specific to querying oneself.(D) Seek Query Language - SQL can be used to search for data in a database, but it is not limited to seeking. It is a more general-purpose language for managing relational databases",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is NOT a file type from a usage point of view?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Master file",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Transaction file",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Backup file",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Index sequential file",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is (D) Index sequential file.Here's why the other options are considered file types from a usage point of view:(A) Master file: A master file is a central file that contains essential data records. Other files might be created based on or refer to the data in the master file. For instance, a customer database could be considered a master file.(B) Transaction file: A transaction file holds temporary data related to changes or updates made to a master file. Transaction files are typically used to update the master file periodically, ensuring that changes are incorporated accurately.(C) Backup file: A backup file is a copy of an original file or set of files used for disaster recovery purposes. In case the original data is lost or corrupted, the backup file can be used to restore it.Explanation for (D) Index sequential file:An index sequential file (ISAM) is a specific type of file organization for storing data records on a disk. It provides an indexing mechanism to enable faster retrieval of specific records based on a key field. However, ISAM itself is not a distinct file type from a usage perspective. An ISAM file can be a master file, transaction file, or any other type of file depending on how the data within it's used",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The process of getting data from DBMS:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Summarizing",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Sorting",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Classifying",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Data retrieval",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The answer is D. Data retrieval.Here's why the other options are incorrect:A. Summarizing: Summarizing involves processing data to generate concise representations, such as statistical summaries or reports. While data retrieval is often a prerequisite for summarization, it's a separate process focused on fetching data from the database.B. Sorting: Sorting refers to arranging data in a specific order based on defined criteria. Data retrieval retrieves data, but it doesn't necessarily involve sorting it. Sorting is typically a subsequent step performed on the retrieved data.C. Classifying: Classifying involves grouping data based on shared characteristics. Similar to sorting, data retrieval precedes classification, as you need to get the data first before organizing it into categories.Data retrieval is the fundamental process of accessing and extracting data from a database management system (DBMS). It allows users and applications to query the database and obtain the specific data they require",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is NOT a file extension for a database file?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "dat",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "dbf",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "wks",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "mdb",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is (D) .mdb.Here's why the other options are file extensions for database files:.dat is a generic data file extension that can be used to store any type of data, including database files. Some database management systems use .dat as a file extension for their data files..dbf is a file extension commonly used by dBase, a popular database management system for DOS and early Windows operating systems. There are also other database management systems that use the .dbf extension..wks is a file extension used by Microsoft Excel spreadsheets. Excel can also be used to store and manage data in a way that is similar to a database, so .wks files can be considered a type of database file..mdb was a file extension used by Microsoft Access, a popular database management system for Windows. Microsoft Access versions 2007 and later use the .accdb file extension instead",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The problem of synonyms occurs in:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sequential files",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Direct or random files",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Indexed sequential files",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Master files",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is C. Indexed sequential files.Indexed sequential files (ISAM) use an indexing technique to improve the speed of data retrieval. However, this indexing mechanism can introduce the issue of synonyms.Synonyms arise when multiple records have the same value in the key field used for indexing. While each record itself might be unique (containing different data in other fields), the indexing scheme may not be able to differentiate between them based solely on the key field. This can result in retrieving incorrect records during searches.Here's why the other options are incorrect:A. Sequential files: Sequential files process data records in a linear order, one after the other. The concept of synonyms doesn't apply to sequential file organization because data isn't retrieved using an index based on a key field.B. Direct or random files: Direct or random access files allow direct access to any data record using its physical address (like a record number). Similar to sequential files, there's no indexing mechanism susceptible to synonyms in this approach.D. Master files: A master file is a central repository that stores essential data records. It doesn't have a specific file organization structure and can be implemented using various file types, including sequential, indexed sequential, or direct access files. So, the concept of synonyms is not inherently tied to master files themselves",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which software is used to maintain the database by manipulating the data, record, and files?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Query language",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Utilities",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Data dictionary",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Database Management System (DBMS}",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The answer is (D) Database Management System (DBMS).Here's why the other options are incorrect:A. Query language - A query language like SQL is a tool used to interact with a DBMS and retrieve or manipulate data. It's not the software that manages the database itself.B) Utilities - Utilities are programs that perform specific tasks related to data management, such as data backup or reorganization. They are tools used with a DBMS, not the core software for managing the database.C) Data dictionary - A data dictionary is a collection of metadata that defines and describes the data structures and elements within a database. It's part of the DBMS but not the overall software for managing the database.A Database Management System (DBMS) is the software application that enables users to create, manage, and access data in a centralized repository. It provides a comprehensive suite of functionalities for data definition, manipulation, retrieval, and security. It essentially acts as the control center for your database, handling various tasks such as:Data storage and organization: The DBMS stores data in a structured format, using tables, columns, and data types. It efficiently organizes and indexes data for faster retrieval.Data manipulation: The DBMS allows users to insert, update, and delete data through queries or a graphical user interface.Data retrieval: The DBMS facilitates fetching specific data based on user queries using a query language like SQL.Data security and access control: The DBMS implements security measures to restrict unauthorized access and ensure data integrity.Data concurrency control: The DBMS manages access to shared data by multiple users to prevent conflicts and maintain data consistency.Data backup and recovery: The DBMS provides mechanisms for backing up data and recovering it in case of system failures or data corruption.In essence, a DBMS is the core software for creating, maintaining, and interacting with electronic databases. It offers a comprehensive environment for managing all aspects of your data",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following data models is used to store data in the form of tables/relations?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Network Model",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Hierarchical Model",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Relational Model",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Object Data Model",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is (C) Relational Model.The relational model is a type of data model that stores data in tables (also called relations). These tables consist of rows and columns. Each row represents a record in the database, and each column represents an attribute (or characteristic) of that record.Here's why the other options are incorrect:(A) Network Model - The network model allows for a many-to-many relationship between data points. This means a single data point can be connected to multiple other data points, but the connections can become complex and difficult to manage.(B) Hierarchical Model - The hierarchical model organizes data in a tree-like structure, with a parent-child relationship between data points. This means a data point can have one parent, but can have many children. However, this model is not very flexible for representing complex relationships between data points.(D) Object Data Model - The object data model stores data in objects, which encapsulate both data and the procedures that operate on that data. This model is well-suited for object-oriented programming, but it can be more complex to manage than the relational model",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The data can be recovered in case of loss by using:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Master file",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Master file",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Transaction file",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Data file",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is B. Backup file.A backup file is a copy of the original data stored on a separate storage device. In the event of data loss due to corruption, deletion, or hardware failure, the backup file can be used to restore the data.Here's why the other options are incorrect:A. Master file: A master file is the main file that contains important data records. While the master file itself might be essential for data recovery, it wouldn't be helpful if the master file itself is lost or corrupted.C. Transaction file: A transaction file holds temporary changes made to the master file. Transaction files are typically used to update the master file periodically, but they wouldn't contain a complete copy of the data for full data recovery in case of loss.D. Data file: This is a general term for any file that stores data. Data files themselves can be lost, and there isn't a guarantee that another data file would exist to recover the lost information",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The process of storing and retrieval of data from files is called",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Data capturing",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Data manipulation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Managing output results",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Data Analysis",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The answer is C. Managing output results.Here's why the other options are incorrect:A. Data capturing refers to the process of collecting data from various sources. This could involve manual entry, automated data collection from sensors or instruments, or web scraping techniques. While data capturing might precede storing data in files, it's a separate process.B. Data manipulation involves modifying and transforming data to fit specific purposes. This could include cleaning, sorting, filtering, or aggregating data. Similar to data capturing, data manipulation is a distinct process from storing and retrieving data from files.D. Data analysis refers to the process of examining and interpreting data to extract insights and knowledge. Data analysis typically occurs after data has been retrieved from storage.Managing output results is not a typical term used in data management. However, considering the context of the question and the limited answer choices, it can be interpreted as broadly referring to the process of retrieving data from storage and potentially formatting or presenting it in a desired output format. In this sense, it might be a less precise way of phrasing \"data retrieval\".In conclusion, while the answer choices aren't perfect, the closest option based on the image is C. Managing output results. A more precise term for this process would be data retrieval.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The manipulation and processed data are called",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Object",
+          "isCorrect": false,
+          "explanation": "In the context of computing, an object is a self-contained unit of data that combines the data itself with additional information about the data, known as metadata."
+        },
+        {
+          "letter": "B",
+          "text": "Information",
+          "isCorrect": true,
+          "explanation": "The manipulated and processed form of data is called information."
+        },
+        {
+          "letter": "C",
+          "text": "Data",
+          "isCorrect": false,
+          "explanation": "Data is the collection of raw facts and figures."
+        },
+        {
+          "letter": "D",
+          "text": "File",
+          "isCorrect": false,
+          "explanation": "File is actually collection of data and information."
+        }
+      ],
+      "explanation": "The manipulated and processed form of data is called information.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A collection of raw facts and figures is called",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Files",
+          "isCorrect": false,
+          "explanation": "Files are collection of data and information."
+        },
+        {
+          "letter": "B",
+          "text": "Data",
+          "isCorrect": true,
+          "explanation": "Data is a collection of facts, figures and statistics related to an object."
+        },
+        {
+          "letter": "C",
+          "text": "Data processing",
+          "isCorrect": false,
+          "explanation": "Data processing is a process of converting data into useful information."
+        },
+        {
+          "letter": "D",
+          "text": "Information",
+          "isCorrect": false,
+          "explanation": "Processed form of data is called information."
+        }
+      ],
+      "explanation": "Data is a collection of facts, figures and statistics related to an object.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is an example of database?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Phonebook",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Library catalog",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Student records",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": "A database is a collection of logically related data sets or files.All the above mentioned examples satisfy the Database requirements."
+        }
+      ],
+      "explanation": "A database is a collection of logically related data sets or files.All the above mentioned examples satisfy the Database requirements.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "SQL stands for:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Structured Query Language",
+          "isCorrect": true,
+          "explanation": "It is a basic abbreviation. SQL is used to create databases. It is a structured programming language."
+        },
+        {
+          "letter": "B",
+          "text": "Sort Query Language",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Self Query Language",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Seek Query Language",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct answer is: Structured Query LanguageIt is a basic abbreviation.SQL is used to create databases.It is a structured programming language.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The data can be recovered in case of loss by using:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Master File",
+          "isCorrect": false,
+          "explanation": "A type of data file containing permanent records of static information."
+        },
+        {
+          "letter": "B",
+          "text": "Backup File",
+          "isCorrect": true,
+          "explanation": "Backup is used to store a copy of important data in a database. The recovery process uses the data in backup if the original data is damaged due to any reason."
+        },
+        {
+          "letter": "C",
+          "text": "Transaction File",
+          "isCorrect": false,
+          "explanation": "A type of data file containing records of individual transactions or events."
+        },
+        {
+          "letter": "D",
+          "text": "Data File",
+          "isCorrect": false,
+          "explanation": "A collection of related records or data elements stored together for easy access and retrieval."
+        }
+      ],
+      "explanation": "Backup is used to store a copy of important data in a database. The recovery process uses the data in backup if the original data is damaged due to any reason.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The process of arranging data in a logical sequence is called",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Summarizing",
+          "isCorrect": false,
+          "explanation": "Concisely representing the main points or essence of something."
+        },
+        {
+          "letter": "B",
+          "text": "Sorting",
+          "isCorrect": true,
+          "explanation": "Arranging items in a particular order or sequence."
+        },
+        {
+          "letter": "C",
+          "text": "Classifying",
+          "isCorrect": false,
+          "explanation": "Categorizing or grouping items based on shared characteristics."
+        },
+        {
+          "letter": "D",
+          "text": "Data Capturing",
+          "isCorrect": false,
+          "explanation": "Recording or documenting information or data."
+        }
+      ],
+      "explanation": "Correct answer is: sortingArranging items in a particular order or sequence.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following type of file require longest processing time?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sequential file",
+          "isCorrect": true,
+          "explanation": "Sequential files require longer processing times compared to other types of files because they are accessed in a linear fashion, from start to end. To find a specific record, the system must read through all preceding records sequentially, which can be time-consuming, especially for large files. Additionally, inserting or deleting records in a sequential file may require reorganizing the entire file, further increasing processing time."
+        },
+        {
+          "letter": "B",
+          "text": "Random file",
+          "isCorrect": false,
+          "explanation": "A file organization method that allows direct access to any record within the file, typically using a unique key or record number."
+        },
+        {
+          "letter": "C",
+          "text": "Indexed sequential file",
+          "isCorrect": false,
+          "explanation": "A file organization method that combines the features of sequential and random access."
+        },
+        {
+          "letter": "D",
+          "text": "Direct acess file",
+          "isCorrect": false,
+          "explanation": "Direct access means to access files data directly."
+        }
+      ],
+      "explanation": "Sequential files require longer processing times compared to other types of files because they are accessed in a linear fashion, from start to end. To find a specific record, the system must read through all preceding records sequentially, which can be time-consuming, especially for large files. Additionally, inserting or deleting records in a sequential file may require reorganizing the entire file, further increasing processing time.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following type is not a file type from usage point of veiw?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Master file",
+          "isCorrect": false,
+          "explanation": "A file containing permanent records of static information, such as customer or product data, used as a primary source of data in an organization."
+        },
+        {
+          "letter": "B",
+          "text": "Transaction file",
+          "isCorrect": false,
+          "explanation": "A file containing records of individual transactions or events that occur within a specific period, used to record changes to the master file data and processed periodically to update the master file with the latest information."
+        },
+        {
+          "letter": "C",
+          "text": "Backup file",
+          "isCorrect": false,
+          "explanation": "A copy of a master or transaction file created to protect against data loss or corruption, typically stored in a separate location or medium."
+        },
+        {
+          "letter": "D",
+          "text": "Indexed sequential file",
+          "isCorrect": true,
+          "explanation": "A file organization method that combines sequential and random access by using an index to allow direct access to records while maintaining the sequential order of the file, providing efficient access for both sequential and random operations."
+        }
+      ],
+      "explanation": "Correct answer is: Index sequential fileA file organization method that combines sequential and random access by using an index to allow direct access to records while maintaining the sequential order of the file, providing efficient access for both sequential and random operations.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Data about data is rrffered as",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Grand data",
+          "isCorrect": false,
+          "explanation": "teradata and Grand data aren't any terms"
+        },
+        {
+          "letter": "B",
+          "text": "Teradata",
+          "isCorrect": false,
+          "explanation": "teradata and Grand data aren't any terms"
+        },
+        {
+          "letter": "C",
+          "text": "Tieradata",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Meta data",
+          "isCorrect": true,
+          "explanation": "Metadata is \"data that provides information about other data\". In other words, it is \"data about data.\" Many distinct types of metadata exist, including descriptive metadata, structural metadata, administrative metadata, reference metadata and statistical metadata"
+        }
+      ],
+      "explanation": "Metadata is \"data that provides information about other data\". In other words, it is \"data about data.\" Many distinct types of metadata exist, including descriptive metadata, structural metadata, administrative metadata, reference metadata and statistical metadata.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The database environment has all of the following component except;",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Database administrators",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Separate file",
+          "isCorrect": true,
+          "explanation": "Separate files is a module in file processing system while in Database data is gathered in the form of tables."
+        },
+        {
+          "letter": "C",
+          "text": "Database",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Users",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Separate files is a module in file processing system while in Database data is gathered in the form of tables.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "DBMS stands for",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Database management system",
+          "isCorrect": true,
+          "explanation": "The Database management system is a collection of programs, which are used for sorting and manipulating databases."
+        },
+        {
+          "letter": "B",
+          "text": "Database model system",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Distant base model system",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Digital bus model system",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct answer is: Database Management System The Database management system is a collection of programs, which are used for sorting and manipulating databases",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A database is an organized collection of which type of related data?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Logically",
+          "isCorrect": true,
+          "explanation": "A database is a collection of information that is organized so that it can be easily accessed, managed and updated."
+        },
+        {
+          "letter": "B",
+          "text": "Physically",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Loosely",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Badly",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Logically is the correct answer. A database is a collection of information that is organized so that it can be easily accessed, managed and updated.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "How many parts a file consist of?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "A data model is a logic organization of the real-world objects(entities), constraints on them, and the relationships among objects. A DB language is a concrete syntax for a data model. A DB system implements a data model."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct answer is: 2A data model is a logic organization of the real-world objects(entities), constraints on them, and the relationships among objects. A DB language is a concrete syntax for a data model. A DB system implements a data model.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following data model is more flexible?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Network data model",
+          "isCorrect": false,
+          "explanation": "Represents data as a collection of records connected by predefined relationships, allowing records to have multiple parent and child records."
+        },
+        {
+          "letter": "B",
+          "text": "Data Hierarchical Model",
+          "isCorrect": false,
+          "explanation": "Represents data in a tree-like structure, where each record has a single parent record and can have multiple child records, suitable for representing data with one-to-many relationships, such as organization charts or file systems."
+        },
+        {
+          "letter": "C",
+          "text": "Data relational model",
+          "isCorrect": true,
+          "explanation": "The relational data model is generally considered more flexible than the hierarchical and network data models. In the relational model, data is organized into tables (relations) consisting of rows and columns. This structure allows for more flexible querying and manipulation of data compared to the hierarchical and network models, which have more rigid structures."
+        },
+        {
+          "letter": "D",
+          "text": "Object data model",
+          "isCorrect": false,
+          "explanation": "Represents data as objects that contain both data (attributes) and methods (procedures) to manipulate the data, providing a way to model real-world entities with complex behavior and relationships."
+        }
+      ],
+      "explanation": "The relational data model is generally considered more flexible than the hierarchical and network data models. In the relational model, data is organized into tables (relations) consisting of rows and columns. This structure allows for more flexible querying and manipulation of data compared to the hierarchical and network models, which have more rigid structures.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A database containing all students in class would store basic data of students in",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Record",
+          "isCorrect": false,
+          "explanation": "A collection of related data items treated as a single unit within a database or file."
+        },
+        {
+          "letter": "B",
+          "text": "Field",
+          "isCorrect": false,
+          "explanation": "A single data element representing an attribute of a record, containing a specific piece of information."
+        },
+        {
+          "letter": "C",
+          "text": "Cell",
+          "isCorrect": false,
+          "explanation": "A single intersection point within a spreadsheet, containing data or a formula, identified by a unique row and column reference."
+        },
+        {
+          "letter": "D",
+          "text": "File",
+          "isCorrect": true,
+          "explanation": "A file is a collection of records. For example, a telephone book is analogous to a file. It contains a list of records, each of which consists of three fields: name, address, and telephone number."
+        }
+      ],
+      "explanation": "A file is a collection of records. For example, a telephone book is analogous to a file. It contains a list of records, each of which consists of three fields: name, address, and telephone number.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A record in a database is information referring to a;",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Person",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Product",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Event",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of above",
+          "isCorrect": true,
+          "explanation": "A record in a database is a collection of related data items treated as a single until Here all the options are correct."
+        }
+      ],
+      "explanation": "Correct answer is: All of AboveA record in a database is a collection of related data items treated as a single until Here all the options are correct.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Storage and retrieval of data is related to;",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Data capturing",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Data manipulation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Managing output results",
+          "isCorrect": true,
+          "explanation": "A file that is used to store input data before processing is called a transaction file. It may be a temporary file. It is usually used to update data in master file."
+        },
+        {
+          "letter": "D",
+          "text": "Analvsis",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct answer is:Managing output resultsA file that is used to store input data before processing is called a transaction file. It may be a temporary file. It is usually used to update data in master file.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following may be file temporary file?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Executable file",
+          "isCorrect": false,
+          "explanation": "The other files are permanents ones."
+        },
+        {
+          "letter": "B",
+          "text": "Transaction file",
+          "isCorrect": true,
+          "explanation": "Transaction file is typically considered a temporary file. It contains records of individual transactions or events that occur within a specific period, and its primary purpose is to record changes to the master file data. Once the transactions in the transaction file are processed and applied to the master file, the transaction file is often no longer needed in its original form and can be archived or deleted."
+        },
+        {
+          "letter": "C",
+          "text": "Dynamic link library file",
+          "isCorrect": false,
+          "explanation": "The other files are permanents ones."
+        },
+        {
+          "letter": "D",
+          "text": "Data file",
+          "isCorrect": false,
+          "explanation": "The other files are permanents ones."
+        }
+      ],
+      "explanation": "Transaction file is typically considered a temporary file. It contains records of individual transactions or events that occur within a specific period, and its primary purpose is to record changes to the master file data. Once the transactions in the transaction file are processed and applied to the master file, the transaction file is often no longer needed in its original form and can be archived or deleted.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Data that cause inconsistency lacks is;",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Good data",
+          "isCorrect": false,
+          "explanation": "Data that is accurate, complete, relevant, and timely, and meets the needs of its intended users."
+        },
+        {
+          "letter": "B",
+          "text": "Data integrity",
+          "isCorrect": true,
+          "explanation": "Data integrity is the maintenance of and the assurance of the accuracy and consistency of data over its entire life-cycle, and is a critical aspect to the design, implementation and usage of any system which stores, processes, or retrieves data."
+        },
+        {
+          "letter": "C",
+          "text": "Data redundancy",
+          "isCorrect": false,
+          "explanation": "Duplication of data in a database that leads to inconsistency and inefficiency"
+        },
+        {
+          "letter": "D",
+          "text": "Data anomaly",
+          "isCorrect": false,
+          "explanation": "Inconsistency or error in data that deviates from the normal or expected value."
+        }
+      ],
+      "explanation": "Data integrity is the maintenance of and the assurance of the accuracy and consistency of data over its entire life-cycle, and is a critical aspect to the design, implementation and usage of any system which stores, processes, or retrieves data.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "All information about one person or item is held in;",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "File",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Field",
+          "isCorrect": false,
+          "explanation": "A single data element representing an attribute of a record in a database."
+        },
+        {
+          "letter": "C",
+          "text": "Record",
+          "isCorrect": true,
+          "explanation": "A collection of related fields treated as a single unit is known as record."
+        },
+        {
+          "letter": "D",
+          "text": "Database",
+          "isCorrect": false,
+          "explanation": "A structured collection of data organized for efficient retrieval, storage, and manipulation."
+        }
+      ],
+      "explanation": "Correct answer is: Record A collection of related fields treated as a single unit is known as record.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Each set of related item in a table is called;",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Table",
+          "isCorrect": false,
+          "explanation": "A collection of related data organized in rows and columns in a database."
+        },
+        {
+          "letter": "B",
+          "text": "Record",
+          "isCorrect": true,
+          "explanation": "A collection of related data items treated as a single unit in a database."
+        },
+        {
+          "letter": "C",
+          "text": "Field",
+          "isCorrect": false,
+          "explanation": "A single data element representing an attribute of a record in a database table."
+        },
+        {
+          "letter": "D",
+          "text": "Query",
+          "isCorrect": false,
+          "explanation": "A request for information from a database, typically to retrieve or manipulate data."
+        }
+      ],
+      "explanation": "Correct answer is: Record A collection of related data items treated as a single unit in a database.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A logical grouping of character is;",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "File",
+          "isCorrect": false,
+          "explanation": "A file is a collection of related data or information stored on a computer under a specific name."
+        },
+        {
+          "letter": "B",
+          "text": "Record",
+          "isCorrect": false,
+          "explanation": "A file is a collection of related data or information stored on a computer under a specific name."
+        },
+        {
+          "letter": "C",
+          "text": "Field",
+          "isCorrect": true,
+          "explanation": "A logical group of characters is often referred to as a field in the context of databases or data structure."
+        },
+        {
+          "letter": "D",
+          "text": "All of above",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct answer is: Field A logical group of characters is often referred to as a field in the context of databases or data structure..",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The most commonly used operation is relational algebra for projecting a set of tuples from a relation is:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Select",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Point",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Projection",
+          "isCorrect": true,
+          "explanation": "The \"Projection\" operation in relational algebra is used to extract a subset of columns (attributes) from a relation, effectively reducing the relation to only the specified columns. This operation is commonly used when you need to work with a subset of attributes from a relation rather than the entire set of attributes.For example, if you have a relation containing information about employees with attributes like \"EmployeeID\", \"Name\", \"Department\", and \"Salary\", but you are only interested in the \"EmployeeID\" and \"Name\" attributes, you can use the projection operation to extract just those two attributes, resulting in a new relation with only the \"EmployeeID\" and \"Name\" columns. This makes the data more manageable and allows you to focus on the specific attributes you need for your analysis or query."
+        },
+        {
+          "letter": "D",
+          "text": "Union",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The \"Projection\" operation in relational algebra is used to extract a subset of columns (attributes) from a relation, effectively reducing the relation to only the specified columns. This operation is commonly used when you need to work with a subset of attributes from a relation rather than the entire set of attributes.For example, if you have a relation containing information about employees with attributes like \"EmployeeID\", \"Name\", \"Department\", and \"Salary\", but you are only interested in the \"EmployeeID\" and \"Name\" attributes, you can use the projection operation to extract just those two attributes, resulting in a new relation with only the \"EmployeeID\" and \"Name\" columns. This makes the data more manageable and allows you to focus on the specific attributes you need for your analysis or query.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A set of related record that represents a unit of data is;",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "File",
+          "isCorrect": true,
+          "explanation": "A collection of related records is called a data set or file a logical group of characters is often referred to as a field in the context of databases or data structures,"
+        },
+        {
+          "letter": "B",
+          "text": "Record",
+          "isCorrect": false,
+          "explanation": "Record is A collection of related data items treated as a single unit in a database"
+        },
+        {
+          "letter": "C",
+          "text": "Field",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Database",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct answer is: file A collection of related records is called a data set or file a logical group of characters is often referred to as a field in the context of databases or data structures,",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Synonym problem occurs in which of file;",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Direct file",
+          "isCorrect": true,
+          "explanation": "Random or direct file organization. Records are stored randomly but accessed directly. To access a file stored randomly, a record key is used to determine where a record is stored on the storage media. Magnetic and optical disks allow data to be stored and accessed randomly."
+        },
+        {
+          "letter": "B",
+          "text": "Program file",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Data file",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Index sequential file",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct answer is: DIrect FilesRandom or direct file organization. Records are stored randomly but accessed directly. To access a file stored randomly, a record key is used to determine where a record is stored on the storage media. Magnetic and optical disks allow data to be stored and accessed randomly.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following activities involved in data processing?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Data capturing",
+          "isCorrect": false,
+          "explanation": "Other options are not involved in data processing."
+        },
+        {
+          "letter": "B",
+          "text": "Data manipulation",
+          "isCorrect": true,
+          "explanation": "The process of manipulating data to achieve the required objectives and results is called processing ."
+        },
+        {
+          "letter": "C",
+          "text": "Managing output",
+          "isCorrect": false,
+          "explanation": "Other options are not involved in data processing."
+        },
+        {
+          "letter": "D",
+          "text": "All of above",
+          "isCorrect": false,
+          "explanation": "Other options are not involved in data processing."
+        }
+      ],
+      "explanation": "The process of manipulating data to achieve the required objectives and results is called processing .",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following operations can be performed on data after the data has been captured and manipulated?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "storing and retrieval",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "communication",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "reproduction",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "all of the above",
+          "isCorrect": true,
+          "explanation": "It is basic concept. After the data has been captured and manipulated. It can be stored, retrieved, reproduced and communicated as well."
+        }
+      ],
+      "explanation": "It is basic concept. After the data has been captured and manipulated. It can be stored, retrieved, reproduced and communicated as well.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "All record in the file have the same:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "contents",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "structure",
+          "isCorrect": true,
+          "explanation": "Although it is not compulsory yet most of the times all records in the file have the same structures. Each record in a file can have different contents."
+        },
+        {
+          "letter": "C",
+          "text": "both a and b",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "file type",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Although it is not compulsory yet most of the times all records in the file have the same structures. Each record in a file can have different contents.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Each item of information within a record is called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "file",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "field",
+          "isCorrect": true,
+          "explanation": "A field in a record is a specific piece of data within that record, corresponding to a particular attribute or characteristic of the entity being represented. In a database context, a field is typically defined by a field name and a data type, and it holds a single value for each record."
+        },
+        {
+          "letter": "C",
+          "text": "tuple",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "all of the above",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A field in a record is a specific piece of data within that record, corresponding to a particular attribute or characteristic of the entity being represented. In a database context, a field is typically defined by a field name and a data type, and it holds a single value for each record.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which is A logical to a record as:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "data are files",
+          "isCorrect": true,
+          "explanation": "Data is written to files by serializing it into a format like text or binary, organized according to the file's structure, using file operations provided by the OS or programming languages."
+        },
+        {
+          "letter": "B",
+          "text": "a column is to a row",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "files are to table",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "attributes are to column",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Data is written to files by serializing it into a format like text or binary, organized according to the file's structure, using file operations provided by the OS or programming languages.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A field is to a record as:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "data are to a files",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "a column is to a row",
+          "isCorrect": true,
+          "explanation": "A field is to a record as a column is to a row. In a database table, each row represents a record, and each column represents a field.In a database table:Each row represents a single record or entity.Each column represents a field or attribute of that record.So, just as a field is a component or attribute of a record, a column is a component or attribute of a row (record)."
+        },
+        {
+          "letter": "C",
+          "text": "files are to a tables",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "attributes are to column",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A field is to a record as a column is to a row. In a database table, each row represents a record, and each column represents a field.In a database table:Each row represents a single record or entity.Each column represents a field or attribute of that record.So, just as a field is a component or attribute of a record, a column is a component or attribute of a row (record).",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which allows the organization of data to be changed without the need to reprogram?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "data integrity",
+          "isCorrect": false,
+          "explanation": "Data integrity refers to the accuracy, consistency, and reliability of data throughout its lifecycle. It ensures that data is correct and reliable, and it is maintained through various measures such as validation rules, data quality checks, and error detection and correction mechanisms."
+        },
+        {
+          "letter": "B",
+          "text": "data integration",
+          "isCorrect": false,
+          "explanation": "Data integration, on the other hand, refers to the process of combining data from different sources into a unified view. It involves merging data from disparate sources, such as databases, applications, and files, to provide a comprehensive view of the data. Data integration aims to provide users with a unified and consistent view of the data, enabling better decision-making and analysis."
+        },
+        {
+          "letter": "C",
+          "text": "data interdependence",
+          "isCorrect": true,
+          "explanation": "Data interdependence refers to the relationship between data elements where changes in one can affect others, crucial for maintaining consistency in databases. For example, updating a customer's address requires updating all related records to reflect the change."
+        },
+        {
+          "letter": "D",
+          "text": "data organization",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Data interdependence refers to the relationship between data elements where changes in one can affect others, crucial for maintaining consistency in databases. For example, updating a customer's address requires updating all related records to reflect the change.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A database containing all student in a class would store Roll no of student in:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "record",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "field",
+          "isCorrect": true,
+          "explanation": "A database is a collection of information organized in such a way that it can be easily accessed, managed, and updated. It is typically stored electronically in a computer system. A database is made up of tables, which are collections of related data. Each table is made up of rows and columns. Rows represent individual records in the database, and columns represent the different attributes or characteristics of those records."
+        },
+        {
+          "letter": "C",
+          "text": "cell",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "file",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A database is a collection of information organized in such a way that it can be easily accessed, managed, and updated. It is typically stored electronically in a computer system. A database is made up of tables, which are collections of related data. Each table is made up of rows and columns. Rows represent individual records in the database, and columns represent the different attributes or characteristics of those records.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A database containing all students in a class would store the information of individual students in:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "record",
+          "isCorrect": true,
+          "explanation": "A collection of related fields treated as a single unit is known as record."
+        },
+        {
+          "letter": "B",
+          "text": "field",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "cell",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "file",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A collection of related fields treated as a single unit is known as record.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "On which of the following the databased system is composed of four major parts?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "hardware, hard drive, monitor, data, user",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "hardware, software, people, and data",
+          "isCorrect": true,
+          "explanation": "A database management system consists of several components. Each component plays a very important role in DBMS environment. Such as hardware, software, personal, End user and data as well."
+        },
+        {
+          "letter": "C",
+          "text": "software, you, me, DBA, client",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "DBMS, hardware, user, programmer, engineer",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A database management system consists of several components. Each component plays a very important role in DBMS environment. Such as hardware, software, personal, End user and data as well.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which one of following is an advantage of database management approach?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "programs are independent of data format",
+          "isCorrect": true,
+          "explanation": "It means that while using a database management system we can add data of any data type here.Following are the basic advantages of DBMS such as Data Sharing, Data Independence, Support complex Data Relationships, Data Security and Database Backup and Recovery. The following are objectives of DBMS, such as, Shareability, availability, Evolvability and integrity."
+        },
+        {
+          "letter": "B",
+          "text": "reduces security and the control of data",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "increased duplication of data",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "all of the above",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "It means that while using a database management system we can add data of any data type here.Following are the basic advantages of DBMS such as Data Sharing, Data Independence, Support complex Data Relationships, Data Security and Database Backup and Recovery. The following are objectives of DBMS, such as, Shareability, availability, Evolvability and integrity.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The type of data files from the functional point of view include:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "program files",
+          "isCorrect": false,
+          "explanation": "A file containing executable code, typically written in a programming language, that instructs a computer on how to perform tasks or operations."
+        },
+        {
+          "letter": "B",
+          "text": "data files",
+          "isCorrect": false,
+          "explanation": "A file used to store data, such as text, numbers, or binary information, that can be read from or written to by a computer program."
+        },
+        {
+          "letter": "C",
+          "text": "both a and b",
+          "isCorrect": true,
+          "explanation": "Program file: A file containing executable code, typically written in a programming language, that instructs a computer on how to perform tasks or operations.Data file: A file used to store data, such as text, numbers, or binary information, that can be read from or written to by a computer program."
+        },
+        {
+          "letter": "D",
+          "text": "all of the above",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Program file: A file containing executable code, typically written in a programming language, that instructs a computer on how to perform tasks or operations.Data file: A file used to store data, such as text, numbers, or binary information, that can be read from or written to by a computer program.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The type of files from usage point of view includes?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "master file",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "transaction file",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "backup file",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "all of the above",
+          "isCorrect": true,
+          "explanation": "From a usage point of view, program files are used to store the instructions that a computer needs to execute a program, while data files are used to store the actual data that the program works with. Program files are typically executed by the computer's operating system, while data files are read and written by the program during its execution to store and retrieve data."
+        }
+      ],
+      "explanation": "From a usage point of view, program files are used to store the instructions that a computer needs to execute a program, while data files are used to store the actual data that the program works with. Program files are typically executed by the computer's operating system, while data files are read and written by the program during its execution to store and retrieve data.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The objectives of database management system include?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "database integrity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "database integration",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "availability",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "all of the above",
+          "isCorrect": true,
+          "explanation": "Following are the objectives of DBMS, such as shareability, availability, evolvability and data integrity."
+        }
+      ],
+      "explanation": "Following are the objectives of DBMS, such as shareability, availability, evolvability and data integrity.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Information including a table's name, field names, and data type are stored in:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "data dictionary",
+          "isCorrect": true,
+          "explanation": "A data dictionary, or metadata repository, is a \"centralized repository of information about data such as meaning, relationships to other data, origin, usage, and format\""
+        },
+        {
+          "letter": "B",
+          "text": "table",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "fields",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "records",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A data dictionary, or metadata repository, is a \"centralized repository of information about data such as meaning, relationships to other data, origin, usage, and format\".",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A printed or on-screen display of data or information in the database is called",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Entity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Report",
+          "isCorrect": true,
+          "explanation": "A database report is the formatted result of database queries and contains useful data for decision making and analysis."
+        },
+        {
+          "letter": "C",
+          "text": "Query",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Screen",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A database report is the formatted result of database queries and contains useful data for decision making and analysis.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The name of software to build reports that summarize data from a database is:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Report Write",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Reporter",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Report Builder",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Report Generator",
+          "isCorrect": true,
+          "explanation": "A report generator is used to generate reports. It retrieves data from database and displays in different formats."
+        }
+      ],
+      "explanation": "A report generator is used to generate reports. It retrieves data from database and displays in different formats.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of following the extension of program file?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": ".com",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": ".exe",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": ".doc",
+          "isCorrect": false,
+          "explanation": ".doc is an extension of a document file."
+        },
+        {
+          "letter": "D",
+          "text": "Both A & B",
+          "isCorrect": true,
+          "explanation": "A file that contains the program instructions is called a program file. The program files have an extension .com and .exe."
+        }
+      ],
+      "explanation": "A file that contains the program instructions is called a program file. The program files have an extension .com and .exe.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following enables the user to modify data structure without affecting existing programs that use them?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Data dependence",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Data independence",
+          "isCorrect": true,
+          "explanation": "The separation of data structure of database from the application program that uses the data is called data independence."
+        },
+        {
+          "letter": "C",
+          "text": "Data integration",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Data relationships",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The separation of data structure of database from the application program that uses the data is called data independence.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Database application contain procedures for:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adding records",
+          "isCorrect": false,
+          "explanation": "Adding records involves inserting new data into the database, ensuring that it is correctly formatted and related to existing data."
+        },
+        {
+          "letter": "B",
+          "text": "Deleting records",
+          "isCorrect": false,
+          "explanation": "Deleting records involves removing data from the database, which requires careful consideration to avoid accidental data loss."
+        },
+        {
+          "letter": "C",
+          "text": "Processing queries",
+          "isCorrect": false,
+          "explanation": "Processing queries involves retrieving and manipulating data based on specific criteria, such as filtering, sorting, and aggregating, to extract meaningful information from the database."
+        },
+        {
+          "letter": "D",
+          "text": "All of above",
+          "isCorrect": true,
+          "explanation": "Yes, a data application typically contains procedures for adding records, deleting records, and processing queries. These procedures are essential for managing the data stored in the application's database. Adding records involves inserting new data into the database, ensuring that it is correctly formatted and related to existing data.Deleting records involves removing data from the database, which requires careful consideration to avoid accidental data loss.Processing queries involves retrieving and manipulating data based on specific criteria, such as filtering, sorting, and aggregating, to extract meaningful information from the database."
+        }
+      ],
+      "explanation": "A data application typically contains procedures for adding records, deleting records, and processing queries. These procedures are essential for managing the data stored in the application's database. Adding records involves inserting new data into the database, ensuring that it is correctly formatted and related to existing data.Deleting records involves removing data from the database, which requires careful consideration to avoid accidental data loss.Processing queries involves retrieving and manipulating data based on specific criteria, such as filtering, sorting, and aggregating, to extract meaningful information from the database.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Duplicate data in multiple data files is:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Data redundancy",
+          "isCorrect": true,
+          "explanation": "Duplicate data in multiple files refers to the situation where the same data is stored in more than one file or location. This can lead to data redundancy, which can cause issues such as inconsistency, increased storage requirements, and difficulties in data maintenance and updates."
+        },
+        {
+          "letter": "B",
+          "text": "Data multiplication",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Data Integrity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Normalization",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Duplicate data in multiple files refers to the situation where the same data is stored in more than one file or location. This can lead to data redundancy, which can cause issues such as inconsistency, increased storage requirements, and difficulties in data maintenance and updates.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following represent a collection of concepts that are used to describe the structure of a database?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Data warehouse",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Data model",
+          "isCorrect": true,
+          "explanation": "A data model is a conceptual representation of the structure of a database, describing the relationships between different data elements and how they are organized and accessed. It defines the rules and constraints that govern the storage, manipulation, and retrieval of data in a database system. Common types of data models include the relational model, hierarchical model, network model, and object-oriented model, each with its own way of organizing and representing data."
+        },
+        {
+          "letter": "C",
+          "text": "Data structure",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Data type",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A data model is a conceptual representation of the structure of a database, describing the relationships between different data elements and how they are organized and accessed. It defines the rules and constraints that govern the storage, manipulation, and retrieval of data in a database system. Common types of data models include the relational model, hierarchical model, network model, and object-oriented model, each with its own way of organizing and representing data.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The type of files from storage point of view include:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sequential files",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Direct or Random file",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Index Sequential",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of them",
+          "isCorrect": true,
+          "explanation": "All of the files are types from usage point of view.All these store data in different ways."
+        }
+      ],
+      "explanation": "All of the files are types from usage point of view.All these store data in different ways.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which can be regarded as a kind of electronic file cabinet?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Folder system",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Database system",
+          "isCorrect": true,
+          "explanation": "A database is a collection of information that is organized so that it can be easily accessed, managed and updated. Data is organized into rows, columns and tables, and it is indexed to make it easier to find relevant information."
+        },
+        {
+          "letter": "C",
+          "text": "Drive system",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "DBMS",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A database is a collection of information that is organized so that it can be easily accessed, managed and updated. Data is organized into rows, columns and tables, and it is indexed to make it easier to find relevant information.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The most commonly used database model in current database development is;",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Relational",
+          "isCorrect": true,
+          "explanation": "A relational database is a collection of data items organized as a set of formally described tables from which data can be accessed or reassembled in many ways."
+        },
+        {
+          "letter": "B",
+          "text": "Hierarchical",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Network",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Relational Schema",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "E",
+          "text": "",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct answer is: Relational Relational database is a collection of data items organized as a set of formally described tables from which data can be accessed or reassembled in many ways.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following database model has general shape of organization chart;",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Data integrity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Data Security",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Data independence",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of them",
+          "isCorrect": true,
+          "explanation": "These all are the advantages of DBMS over file processing systems."
+        }
+      ],
+      "explanation": "Correct answer is: All of them.These all are the advantages of DBMS over file processing systems.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is handled by DBMS?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Data integrity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Data Security",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Data independence",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of them",
+          "isCorrect": true,
+          "explanation": "These all are the advantages of DBMS over file processing systems."
+        }
+      ],
+      "explanation": "Correct answer is: All of themThese all are the advantages of DBMS over file processing systems.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The description of structure and organization of data in a database contained in:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Data dictionary",
+          "isCorrect": true,
+          "explanation": "A data dictionary, or metadata repository, is a \"centralized repository of information about data such as meaning, relationships to other data, origin, usage, and format\"."
+        },
+        {
+          "letter": "B",
+          "text": "Data mining",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Structured query language",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Report generator",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A data dictionary, or metadata repository, is a \"centralized repository of information about data such as meaning, relationships to other data, origin, usage, and format\".",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "It is better to use files than a DBMS when there are",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stringent real-time requirements",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Complex relationships among data",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "All of these",
+          "isCorrect": true,
+          "explanation": "A query is a request for data or information from a database table or combination of tables."
+        },
+        {
+          "letter": "D",
+          "text": "Multiple users wish to access the data",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A query is a request for data or information from a database table or combination of tables.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A collection of data that include name, address, phone number etc, of a person:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Byte",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Record",
+          "isCorrect": true,
+          "explanation": "Information is data that has been processed in such a way as to be meaningful to the person who receives it. It is anything that is communicated."
+        },
+        {
+          "letter": "C",
+          "text": "Character",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Field",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct answer is: RecordInformation is data that has been processed in such a way as to be meaningful to the person who receives it. It is anything that is communicated.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following consists of facts, figures or statistics that are precisely meaningful to people?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Processing",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Calculation",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Data",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Information",
+          "isCorrect": true,
+          "explanation": "The past activities will be the data (raw facts and figures) while it can be converted into information after processing."
+        }
+      ],
+      "explanation": "Correct answer: InformationThe past activities will be the data (raw facts and figures) while it can be converted into information after processing.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The process of making copy or making duplicate data is called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Storing",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Reprographic",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Producing",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Reproduction",
+          "isCorrect": true,
+          "explanation": "Correct answer is: ReproductionIt is a basic definition."
+        }
+      ],
+      "explanation": "Correct answer is: ReproductionIt is a basic definition.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which is/are permanent in nature?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Master file",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Transaction file",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Backup file",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Both A & C",
+          "isCorrect": true,
+          "explanation": "This option is correcf."
+        }
+      ],
+      "explanation": "Correct answer is: Both A and C.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is an Extension of image files?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": ".txt",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": ".eps",
+          "isCorrect": true,
+          "explanation": "Encapsulated Postscript file is an extension of vector image file and maybe helpful for you."
+        },
+        {
+          "letter": "C",
+          "text": ".wav",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": ".mid",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Encapsulated Postscript file is an extension of vector image file and maybe helpful for you.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The relational model feature is that there",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "is no need of primary key data",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "are explicit relationships among records",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "is much more data independence than some other database models",
+          "isCorrect": true,
+          "explanation": "Correct answer."
+        },
+        {
+          "letter": "D",
+          "text": "are tables with many dimensions",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct answer is: is much more data independence than some other database models.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Collection of files, each of which has no structural or physical connection, Identify the model type?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Hierarchical model",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Network model",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Relational model",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Object oriented model",
+          "isCorrect": true,
+          "explanation": "Correct answer."
+        }
+      ],
+      "explanation": "Correct answer: Object oriented model",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which use database management software is software (Database manager) which controls the overall structure of a data base and access to the data itself?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "RDBMS",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "DBMS",
+          "isCorrect": true,
+          "explanation": "(DBMS) is a software package designed to define, manipulate, retrieve and manage data in a database. A DBMS generally manipulates the data itself, the data format, field names, record structure and file structure."
+        },
+        {
+          "letter": "C",
+          "text": "PDMS",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "EBMS",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "(DBMS) is a software package designed to define, manipulate, retrieve and manage data in a database. A DBMS generally manipulates the data itself, the data format, field names, record structure and file structure.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Changing in DBMS (which is based on HIERARCHICAL model) required which of the following as compares to other models?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Less cost of conversion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Minimum cost of conversion",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "High cost of conversion",
+          "isCorrect": true,
+          "explanation": "Correct answer."
+        },
+        {
+          "letter": "D",
+          "text": "Depends upon the change",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct answer is: High cost of conversion",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Companies or organization can share the same data across application as:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "DB system mature",
+          "isCorrect": true,
+          "explanation": "By its very nature, a DBMS permits many users to have access to its database either individually or simultaneously. It is not important for users to be aware of how and where the data they access is stored."
+        },
+        {
+          "letter": "B",
+          "text": "DB system immature",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "DB system grow",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "DB system obsolete",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "By its very nature, a DBMS permits many users to have access to its database either individually or simultaneously. It is not important for users to be aware of how and where the data they access is stored.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The internal data content of a company's databases needs to be documented in a consistent manner.",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Data Basics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Corporate data",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Data bank",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Data dictionary",
+          "isCorrect": true,
+          "explanation": "A data dictionary is a file or a set of files that contains a database's metadata. The data dictionary contains records about other objects in the database, such as data ownership, data relationships to other objects, and other data."
+        },
+        {
+          "letter": "D",
+          "text": "Database",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A data dictionary is a file or a set of files that contains a database's metadata. The data dictionary contains records about other objects in the database, such as data ownership, data relationships to other objects, and other data.",
+      "explanationImage": null,
+      "hints": []
+    }
+  ]
+}

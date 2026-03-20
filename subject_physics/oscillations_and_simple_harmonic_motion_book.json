@@ -1,0 +1,3467 @@
+{
+  "questions": [
+    {
+      "text": "A body oscillates with amplitude A. Its maximum velocity is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Gravitation",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Aω",
+          "isCorrect": true,
+          "explanation": "Maximum velocity in SHM = vₘₐₓ = Aω"
+        },
+        {
+          "letter": "B",
+          "text": "2Aω",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it suggests that the maximum velocity is doubled, which does not align with the standard formula for SHM."
+        },
+        {
+          "letter": "C",
+          "text": "A/ω",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it misrepresents the relationship between amplitude and angular frequency, leading to an underestimation of maximum velocity."
+        },
+        {
+          "letter": "D",
+          "text": "Aω2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it implies a squared relationship with angular frequency, which is not applicable for maximum velocity in SHM."
+        }
+      ],
+      "explanation": "Maximum velocity in SHM = vₘₐₓ = Aω",
+      "explanationImage": null,
+      "hints": [
+        "oscillates",
+        "maximum velocity"
+      ]
+    },
+    {
+      "text": "A simple pendulum suspended from the ceiling of a train has a period ‘T’ when the train is at rest. When the train is accelerating with a uniform acceleration, the time period of simple pendulum will:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decrease",
+          "isCorrect": true,
+          "explanation": "When the train accelerates horizontally, the pendulum experiences a net effective gravitational force given by geff= √(g² + a²), which is greater than the gravitational acceleration g. The time period of the pendulum, expressed as T = 2π√(L/geff), therefore results in a shorter period since geff > g and leads to faster oscillations."
+        },
+        {
+          "letter": "B",
+          "text": "Increase",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because an increase in the period would mean the pendulum oscillates more slowly. However, due to the increase in effective gravity from the train's acceleration, the pendulum actually oscillates more quickly, leading to a decrease in the period."
+        },
+        {
+          "letter": "C",
+          "text": "Remains unchanged",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect. The time period of a pendulum is influenced by the gravitational force acting on it. Since the train's acceleration modifies the effective gravitational force, the period cannot remain constant."
+        },
+        {
+          "letter": "D",
+          "text": "Becomes infinite",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. An infinite period would suggest that the pendulum ceases to oscillate altogether, which does not occur here. The pendulum continues to swing, but its rate of oscillation changes due to the altered effective gravity."
+        }
+      ],
+      "explanation": "When the train accelerates horizontally, the pendulum experiences a net effective gravitational force given by geff= √(g² + a²), which is greater than the gravitational acceleration g. The time period of the pendulum, expressed as T = 2π√(L/geff), therefore results in a shorter period since geff > g and leads to faster oscillations.",
+      "explanationImage": null,
+      "hints": [
+        "simple pendulum",
+        "accelerating train"
+      ]
+    },
+    {
+      "text": "The equation of SHM for a particle is (a + 4π2x = 0) where ‘a’ is instantaneous linear acceleration at displacement x. The frequency of motion is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 Hz",
+          "isCorrect": true,
+          "explanation": "Compare the equation a + ω²x = 0 with the standard form of SHM, we find that ω² = 4π², leading to ω = 2π. The frequency is calculated as f = ω/(2π) = (2π)/(2π) = 1 Hz, indicating the particle completes one oscillation per second."
+        },
+        {
+          "letter": "B",
+          "text": "4π Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Although 4π relates to the angular frequency, it does not represent the frequency itself. The correct frequency is derived from ω, which is significantly lower than 4π Hz."
+        },
+        {
+          "letter": "C",
+          "text": "1/4 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A frequency of 1/4 Hz implies a very slow oscillation, which contradicts the derived frequency of 1 Hz from the equation."
+        },
+        {
+          "letter": "D",
+          "text": "4 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A frequency of 4 Hz would suggest that the particle oscillates four times per second, which does not align with the calculated frequency of 1 Hz from the equation."
+        }
+      ],
+      "explanation": "Compare a + ω2x = 0 to identify ω2 = 4π2, so ω = 2π. Frequency f = ω/(2π) = (2π)/(2π) = 1 Hz. Thus the system oscillates once per second.",
+      "explanationImage": null,
+      "hints": [
+        "instantaneous linear acceleration",
+        "displacement"
+      ]
+    },
+    {
+      "text": "When the displacement is half the amplitude the ratio of potential energy to the total energy is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/2",
+          "isCorrect": false,
+          "explanation": "This option suggests that when the displacement is half the amplitude, half of the total energy is stored as potential energy. However, this is incorrect because potential energy increases with the square of the displacement, not linearly."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This option implies that all the total energy is potential energy when the displacement is half the amplitude. This interpretation ignores that there is also kinetic energy present in SHM, making it impossible for potential energy to equal total energy."
+        },
+        {
+          "letter": "C",
+          "text": "1/8",
+          "isCorrect": false,
+          "explanation": "This option underestimates the potential energy at half the amplitude. Since potential energy is proportional to the square of the displacement, it cannot be as low as one-eighth of the total energy, which would require a different relationship."
+        },
+        {
+          "letter": "D",
+          "text": "1/4",
+          "isCorrect": true,
+          "explanation": "For SHM potential energy U ∝ x². If x = A/2 then U = ½k(A/2)² = ¼·(½kA²). Total energy is ½kA², so U/E = (¼·½kA²)/(½kA²) = 1/4."
+        }
+      ],
+      "explanation": "For SHM potential energy U ∝ x². If x = A/2 then U = ½k(A/2)² = ¼·(½kA²). Total energy is ½kA², so U/E = (¼·½kA²)/(½kA²) = 1/4.",
+      "explanationImage": null,
+      "hints": [
+        "displacement",
+        "amplitude"
+      ]
+    },
+    {
+      "text": "While noting the time period of a simple pendulum, the amplitude of vibration should be kept:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reasonably large for easy measurement",
+          "isCorrect": false,
+          "explanation": "A large amplitude may make it easier to visually observe the pendulum, but it can lead to inaccuracies in timing due to the nonlinear behavior of the pendulum at larger angles."
+        },
+        {
+          "letter": "B",
+          "text": "As small as possible",
+          "isCorrect": true,
+          "explanation": "The small-angle approximation (sinθ ≈ θ) underlies the standard period formula. Keeping amplitude small (typically <5°) ensures the motion is nearly simple harmonic and the measured period matches theory. Larger amplitudes introduce nonlinear corrections and systematic error."
+        },
+        {
+          "letter": "C",
+          "text": "Without any restriction",
+          "isCorrect": false,
+          "explanation": "Allowing the amplitude to vary without restriction can introduce significant errors in the calculation of the period, deviating from simple harmonic motion principles."
+        },
+        {
+          "letter": "D",
+          "text": "Very large because formula T = 2π√(L/g) is derived accordingly",
+          "isCorrect": false,
+          "explanation": "The formula for the period T is derived under the assumption of small-angle oscillations. A very large amplitude does not hold this assumption, leading to inaccuracies in the period measurement."
+        }
+      ],
+      "explanation": "The small-angle approximation (sinθ ≈ θ) underlies the standard period formula. Keeping amplitude small (typically <5°) ensures the motion is nearly simple harmonic and the measured period matches theory. Larger amplitudes introduce nonlinear corrections and systematic error.",
+      "explanationImage": null,
+      "hints": [
+        "time period",
+        "amplitude",
+        "simple pendulum"
+      ]
+    },
+    {
+      "text": "The periodic time of a simple pendulum of length 1 m & amplitude 2 cm is 5 sec. If the amplitude is made 4 cm, its periodic time in sec is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.5",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests that the periodic time decreases with an increase in amplitude, which is a misunderstanding of the principles governing simple harmonic motion."
+        },
+        {
+          "letter": "B",
+          "text": "5",
+          "isCorrect": true,
+          "explanation": "For small amplitudes the period of a simple pendulum is independent of amplitude: T = 2π√(L/g). Doubling small amplitude from 2 cm to 4 cm (still small) does not change T, so it remains 5 s."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "isCorrect": false,
+          "explanation": "This option incorrectly assumes that the period doubles with an increase in amplitude. In reality, the period remains constant for small oscillations."
+        },
+        {
+          "letter": "D",
+          "text": "5√2",
+          "isCorrect": false,
+          "explanation": "This option suggests a misunderstanding of the relationship between period and amplitude, implying that the period should be modified by a factor related to amplitude, which is incorrect."
+        }
+      ],
+      "explanation": "For small amplitudes the period of a simple pendulum is independent of amplitude: T = 2π√(L/g). Doubling small amplitude from 2 cm to 4 cm (still small) does not change T, so it remains 5 s.",
+      "explanationImage": null,
+      "hints": [
+        "periodic time",
+        "amplitude"
+      ]
+    },
+    {
+      "text": "A 5 kg mass bounces in simple harmonic motion at the end of a spring. At which point is the acceleration of the mass the greatest?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "When the spring is fully compressed and when the spring is fully extended",
+          "isCorrect": true,
+          "explanation": "In SHM acceleration a = −ω² x, so its magnitude is proportional to displacement |x|. The extremes (maximum compression/extension) have the largest |x|, hence largest magnitude of acceleration. At equilibrium acceleration is zero."
+        },
+        {
+          "letter": "B",
+          "text": "When the spring is at its rest length",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. At the rest length of the spring, the mass is at the equilibrium position where the displacement is zero. Consequently, the acceleration is also zero, as there is no net force acting on the mass at this point."
+        },
+        {
+          "letter": "C",
+          "text": "When the spring is halfway between its rest length and its fully extended or compressed length",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. At this midpoint, the displacement is less than the maximum value, leading to a smaller acceleration. The acceleration is highest at the extremes of motion, not at this intermediate point."
+        },
+        {
+          "letter": "D",
+          "text": "The acceleration is constant",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. In simple harmonic motion, the acceleration is not constant; it varies depending on the displacement from the equilibrium position. It reaches its maximum value at maximum displacement and is zero at equilibrium."
+        }
+      ],
+      "explanation": "In SHM acceleration a = −ω² x, so its magnitude is proportional to displacement |x|. The extremes (maximum compression/extension) have the largest |x|, hence largest magnitude of acceleration. At equilibrium acceleration is zero.",
+      "explanationImage": null,
+      "hints": [
+        "5 kg mass",
+        "spring"
+      ]
+    },
+    {
+      "text": "A mass of 2 kg is attached to a spring of force constant 800 N/m. The time period of oscillation is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.31 s",
+          "isCorrect": false,
+          "explanation": "After putting values in formula, the answer is 0.63 seconds and not 0.31 seconds."
+        },
+        {
+          "letter": "B",
+          "text": "0.63 s",
+          "isCorrect": true,
+          "explanation": "T = 2π √m/k = 2π √2/800 = 0.63 s."
+        },
+        {
+          "letter": "C",
+          "text": "0.99 s",
+          "isCorrect": false,
+          "explanation": "After putting values in formula, the answer is 0.63 seconds and not 0.99 seconds."
+        },
+        {
+          "letter": "D",
+          "text": "1.26 s",
+          "isCorrect": false,
+          "explanation": "After putting values in formula, the answer is 0.63 seconds and not 1.26 seconds."
+        }
+      ],
+      "explanation": "T = 2π √m/k = 2π √2/800 = 0.63 s.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The acceleration of a body executing SHM is maximum at:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mean position",
+          "isCorrect": false,
+          "explanation": "At the mean position, the displacement (x) is zero, leading to zero acceleration since acceleration is proportional to displacement. Therefore, this is not where maximum acceleration occurs."
+        },
+        {
+          "letter": "B",
+          "text": "Extreme position",
+          "isCorrect": true,
+          "explanation": "a = –ω²x → maximum acceleration occurs at maximum x = ±A."
+        },
+        {
+          "letter": "C",
+          "text": "Halfway of mean",
+          "isCorrect": false,
+          "explanation": "At the halfway point between the mean and extreme positions, the displacement is less than the maximum (A), which results in less than maximum acceleration. Thus, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Everywhere same",
+          "isCorrect": false,
+          "explanation": "Acceleration in SHM varies with the position of the body in its oscillation. Hence, it cannot be the same everywhere as it depends on displacement. This option is incorrect."
+        }
+      ],
+      "explanation": "a = –ω²x → maximum acceleration occurs at maximum x =±A.",
+      "explanationImage": null,
+      "hints": [
+        "acceleration",
+        "maximum"
+      ]
+    },
+    {
+      "text": "In SHM, velocity is maximum at:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mean position",
+          "isCorrect": false,
+          "explanation": "At the mean position (x = 0), the particle's velocity reaches its maximum because it has the highest kinetic energy and is moving fastest through this point."
+        },
+        {
+          "letter": "B",
+          "text": "Extreme position",
+          "isCorrect": true,
+          "explanation": "At x = 0 (mean), v is maximum = Aω"
+        },
+        {
+          "letter": "C",
+          "text": "Both",
+          "isCorrect": false,
+          "explanation": "This option is incorrect since velocity is not maximum at the extreme positions; it is zero at those points."
+        },
+        {
+          "letter": "D",
+          "text": "At any point",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as the velocity varies; it is not constant at all points in SHM."
+        }
+      ],
+      "explanation": "At x = 0 (mean), v is maximum = Aω",
+      "explanationImage": null,
+      "hints": [
+        "maximum velocity",
+        "mean position",
+        "extreme position"
+      ]
+    },
+    {
+      "text": "The length of a simple pendulum is 1 m. If g = 9.8 m/s², its time period is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.0 s",
+          "isCorrect": false,
+          "explanation": "After calculations, we get time period of 2 second and not 1 second."
+        },
+        {
+          "letter": "B",
+          "text": "1.5 s",
+          "isCorrect": false,
+          "explanation": "After calculations, we get time period of 2 second and not 1.5 second."
+        },
+        {
+          "letter": "C",
+          "text": "2.0 s",
+          "isCorrect": true,
+          "explanation": "T = 2π √l/g = 2π √1/9.8 ≈ 2.0 s."
+        },
+        {
+          "letter": "D",
+          "text": "2.5 s",
+          "isCorrect": false,
+          "explanation": "After calculations, we get time period of 2 second and not 2.5 second."
+        }
+      ],
+      "explanation": "T = 2π √l/g = 2π √1/9.8 ≈ 2.0 s.",
+      "explanationImage": null,
+      "hints": [
+        "axial",
+        "vector",
+        "rotation"
+      ]
+    },
+    {
+      "text": "A particle of mass 1 kg is revolved in a horizontal circle of radius 1 m with the help of a string. If the maximum tension the string can withstand is 16π² N, then the maximum frequency with which the particle can revolve is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 Hz",
+          "isCorrect": false,
+          "explanation": "This frequency exceeds the maximum allowed by the tension in the string. Since centripetal force increases with the square of frequency, this option cannot be correct."
+        },
+        {
+          "letter": "B",
+          "text": "2 Hz",
+          "isCorrect": true,
+          "explanation": "Tension provides centripetal force: T = m (2π f)² r = 4π² m r f². Solve for f: f = √(T/(4π² m r)). With T=16π², m=1, r=1 ⇒ f = √(16π²/(4π²)) = √4 = 2 Hz."
+        },
+        {
+          "letter": "C",
+          "text": "4 Hz",
+          "isCorrect": false,
+          "explanation": "This frequency would result in a tension of 64π² N, which exceeds the maximum tension the string can withstand, making it an incorrect choice."
+        },
+        {
+          "letter": "D",
+          "text": "5 Hz",
+          "isCorrect": false,
+          "explanation": "This option also results in a tension that far exceeds the maximum allowed, as it would require a centripetal force of 100π² N, making it impossible."
+        }
+      ],
+      "explanation": "Tension provides centripetal force: T = m (2π f)² r = 4π² m r f². Solve for f: f = √(T/(4π² m r)). With T=16π², m=1, r=1 ⇒ f = √(16π²/(4π²)) = √4 = 2 Hz.",
+      "explanationImage": null,
+      "hints": [
+        "mass 1 kg",
+        "tension 16π² N"
+      ]
+    },
+    {
+      "text": "A tachometer is a device to measure:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gravitational pull",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because gravitational pull refers to the force exerted by a mass, not a measurement of rotational speed."
+        },
+        {
+          "letter": "B",
+          "text": "Surface tension",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as surface tension pertains to the cohesive forces at the surface of a liquid, which is unrelated to rotational measurements."
+        },
+        {
+          "letter": "C",
+          "text": "Speed of rotation",
+          "isCorrect": true,
+          "explanation": "A tachometer measures rotational speed (revolutions per minute or frequency) of shafts, wheels or engines. It does not measure gravitational pull, surface tension or spring tension"
+        },
+        {
+          "letter": "D",
+          "text": "Tension in a spring",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it relates to the force exerted by a spring when stretched or compressed, not rotational speed."
+        }
+      ],
+      "explanation": "A tachometer measures rotational speed (revolutions per minute or frequency) of shafts, wheels or engines. It does not measure gravitational pull, surface tension or spring tension",
+      "explanationImage": null,
+      "hints": [
+        "tachometer",
+        "measure",
+        "speed of rotation"
+      ]
+    },
+    {
+      "text": "A particle executes SHM with amplitude 0.05 m and angular frequency 20 rad/s. Its maximum speed is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.5 m/s",
+          "isCorrect": false,
+          "explanation": "By putting values in formula, the answer becomes 1.0 m/s and not 0.5 m/s."
+        },
+        {
+          "letter": "B",
+          "text": "1.0 m/s",
+          "isCorrect": true,
+          "explanation": "vmax = Aω = 0.05 × 20 = 1.0 m/s."
+        },
+        {
+          "letter": "C",
+          "text": "2.0 m/s",
+          "isCorrect": false,
+          "explanation": "By putting values in formula, the answer becomes 1.0 m/s and not 2.0 m/s."
+        },
+        {
+          "letter": "D",
+          "text": "4.0 m/s",
+          "isCorrect": false,
+          "explanation": "By putting values in formula, the answer becomes 1.0 m/s and not 4.0 m/s."
+        }
+      ],
+      "explanation": "vmax = Aω = 0.05 × 20 = 1.0 m/s.",
+      "explanationImage": null,
+      "hints": [
+        "flywheel",
+        "3000 r.p.m."
+      ]
+    },
+    {
+      "text": "The time period of mass-spring system is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2π√(m/k)",
+          "isCorrect": true,
+          "explanation": "Formula for spring SHM: T = 2π√(m/k)."
+        },
+        {
+          "letter": "B",
+          "text": "2π√(k/m)",
+          "isCorrect": false,
+          "explanation": "This option incorrectly represents the time period formula; it reverses the relationship between mass and spring constant, leading to an invalid result."
+        },
+        {
+          "letter": "C",
+          "text": "π√(m/k)",
+          "isCorrect": false,
+          "explanation": "This option provides only half of the time period and is therefore incorrect. The complete formula includes a factor of 2."
+        },
+        {
+          "letter": "D",
+          "text": "1/2π√(k/m)",
+          "isCorrect": false,
+          "explanation": "This formula suggests a time period that is not consistent with the principles of SHM and thus does not apply to a mass-spring system."
+        }
+      ],
+      "explanation": "Formula for spring SHM: T = 2π√(m/k).",
+      "explanationImage": null,
+      "hints": [
+        "time period",
+        "mass-spring system"
+      ]
+    },
+    {
+      "text": "For a simple pendulum of length L, time period is proportional to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "√L",
+          "isCorrect": true,
+          "explanation": "T = 2π√(L/g) → T ∝ √L."
+        },
+        {
+          "letter": "B",
+          "text": "1/√L",
+          "isCorrect": false,
+          "explanation": "This option suggests an inverse relation between the time period and the length, which is incorrect. The time period increases with increasing length, rather than decreasing."
+        },
+        {
+          "letter": "C",
+          "text": "L",
+          "isCorrect": false,
+          "explanation": "This option implies a linear relationship between the time period and the length, which contradicts the correct relation that involves the square root of the length. Thus, it is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "1/L",
+          "isCorrect": false,
+          "explanation": "This option suggests that the time period decreases as the length increases, which is not true for a simple pendulum. The time period is not inversely proportional to the length."
+        }
+      ],
+      "explanation": "T = 2π√(L/g) → T ∝ √L.",
+      "explanationImage": null,
+      "hints": [
+        "time period",
+        "length L"
+      ]
+    },
+    {
+      "text": "A particle is in SHM. When displacement is half of amplitude(A/2), acceleration is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "ω²A/2",
+          "isCorrect": true,
+          "explanation": "In SHM, acceleration is a=−ω² x .At displacement x=A/2, the magnitude becomes a=ω² (A/2).So, the acceleration is ω²(A/2)."
+        },
+        {
+          "letter": "B",
+          "text": "ω²A",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it suggests that the acceleration is equal to the maximum value, which occurs only at the amplitude A. In reality, acceleration is based on the current displacement, which in this case is A/2, not A."
+        },
+        {
+          "letter": "C",
+          "text": "ω²A/4",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The relationship should be a = -ω²x, and substituting x = A/2 gives a = -ω²(A/2), which simplifies to ω²A/2, not ω²A/4."
+        },
+        {
+          "letter": "D",
+          "text": "ω²A√3",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it introduces an unnecessary square root. The acceleration in SHM is directly proportional to the displacement from the equilibrium position, and does not involve such a modification."
+        }
+      ],
+      "explanation": "In SHM, acceleration is a=−ω² x . At displacement x=A/2, the magnitude becomes a=ω² (A/2). So, the acceleration is ω²(A/2).",
+      "explanationImage": null,
+      "hints": [
+        "displacement",
+        "amplitude"
+      ]
+    },
+    {
+      "text": "Total energy of SHM depends on:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Displacement",
+          "isCorrect": false,
+          "explanation": "Displacement refers to the position of the oscillating object from its equilibrium position. While it influences the object's position in SHM, it does not directly determine the total energy of the system."
+        },
+        {
+          "letter": "B",
+          "text": "Amplitude",
+          "isCorrect": true,
+          "explanation": "E = ½kA² → depends on A only."
+        },
+        {
+          "letter": "C",
+          "text": "Frequency",
+          "isCorrect": false,
+          "explanation": "Frequency describes how often the oscillations occur in a given time. Although frequency is related to the motion, it does not directly contribute to the total energy of SHM, which depends solely on amplitude."
+        },
+        {
+          "letter": "D",
+          "text": "Velocity",
+          "isCorrect": false,
+          "explanation": "Velocity refers to the speed of the oscillating object at any point in time. While it plays a role in the kinetic energy component of SHM, the total energy is not directly dependent on velocity alone."
+        }
+      ],
+      "explanation": "E = ½kA² → depends on A only.",
+      "explanationImage": null,
+      "hints": [
+        "Total energy",
+        "SHM",
+        "Amplitude"
+      ]
+    },
+    {
+      "text": "If amplitude is doubled, total energy becomes:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 times",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests a linear relationship between amplitude and energy. Total energy actually scales with the square of the amplitude, not linearly."
+        },
+        {
+          "letter": "B",
+          "text": "4 times",
+          "isCorrect": true,
+          "explanation": "E ∝ A² → (2A)² = 4A²"
+        },
+        {
+          "letter": "C",
+          "text": "1/2 times",
+          "isCorrect": false,
+          "explanation": "This option implies a reduction in energy, which contradicts the principle that energy increases quadratically with amplitude. Thus, this is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "1/4 times",
+          "isCorrect": false,
+          "explanation": "This option suggests a significant decrease in energy, which is not in line with the relationship between amplitude and energy in simple harmonic motion. Therefore, it is incorrect."
+        }
+      ],
+      "explanation": "E ∝ A² → (2A)² = 4A²",
+      "explanationImage": null,
+      "hints": [
+        "amplitude",
+        "total energy"
+      ]
+    },
+    {
+      "text": "Time taken to go from extreme to mean position is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "T/4",
+          "isCorrect": true,
+          "explanation": "One complete oscillation = 4 quarters. Extreme → mean = one quarter."
+        },
+        {
+          "letter": "B",
+          "text": "T/2",
+          "isCorrect": false,
+          "explanation": "This option suggests that the time taken to reach the mean position is half of the total period. This is incorrect because it represents the time taken to complete half an oscillation, which includes both the journey from the mean position to one extreme and back to the mean position."
+        },
+        {
+          "letter": "C",
+          "text": "T/8",
+          "isCorrect": false,
+          "explanation": "This option indicates a time that is too short. The time from the extreme position to the mean position is not one-eighth of the total period; rather, it is one-quarter of the period, as each quarter corresponds to a distinct phase of the oscillation."
+        },
+        {
+          "letter": "D",
+          "text": "T",
+          "isCorrect": false,
+          "explanation": "This option suggests it takes the entire period to reach the mean position from the extreme, which is incorrect. It implies that the object does not move until the full cycle is completed, which contradicts the definition of simple harmonic motion."
+        }
+      ],
+      "explanation": "One complete oscillation = 4 quarters.Extreme → mean = one quarter.",
+      "explanationImage": null,
+      "hints": [
+        "extreme",
+        "mean position"
+      ]
+    },
+    {
+      "text": "In SHM, at the mean position:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "KE = 0",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. At the mean position, the object has its maximum speed and hence maximum kinetic energy, not zero."
+        },
+        {
+          "letter": "B",
+          "text": "PE = maximum",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. At the mean position, the potential energy is at its minimum, not maximum, because potential energy is highest when the object is at the extremes of its motion."
+        },
+        {
+          "letter": "C",
+          "text": "KE = maximum",
+          "isCorrect": true,
+          "explanation": "At x = 0:v = maximumKE maximumPE minimum."
+        },
+        {
+          "letter": "D",
+          "text": "PE = maximum & KE = maximum",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While kinetic energy is maximum at the mean position, potential energy is minimum. Therefore, it's impossible for both to be maximum simultaneously."
+        }
+      ],
+      "explanation": "At x = 0:v = maximumKE maximumPE minimum.",
+      "explanationImage": null,
+      "hints": [
+        "mean position",
+        "maximum KE"
+      ]
+    },
+    {
+      "text": "For SHM, the restoring force is proportional to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Velocity",
+          "isCorrect": false,
+          "explanation": "This option refers to the rate of change of displacement, but in SHM, the restoring force is specifically related to displacement rather than velocity. Thus, this is not the correct answer."
+        },
+        {
+          "letter": "B",
+          "text": "Acceleration",
+          "isCorrect": false,
+          "explanation": "While acceleration is an important concept in motion, it describes the rate of change of velocity. The restoring force in SHM is directly related to displacement, not acceleration. Therefore, this is not the correct answer."
+        },
+        {
+          "letter": "C",
+          "text": "Displacement",
+          "isCorrect": true,
+          "explanation": "F = –kx → directly proportional to x."
+        },
+        {
+          "letter": "D",
+          "text": "Time",
+          "isCorrect": false,
+          "explanation": "Time is not a factor in determining the restoring force in SHM. The force is based on the displacement from the equilibrium position, making this option incorrect."
+        }
+      ],
+      "explanation": "F = –kx → directly proportional to x.",
+      "explanationImage": null,
+      "hints": [
+        "restoring force",
+        "proportional",
+        "SHM"
+      ]
+    },
+    {
+      "text": "The phase difference between displacement and velocity inSHM is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A phase difference of 0 would imply that displacement and velocity reach their maximum values simultaneously, which does not occur in SHM."
+        },
+        {
+          "letter": "B",
+          "text": "π/2",
+          "isCorrect": true,
+          "explanation": "Velocity leads displacement by 90° (π/2)."
+        },
+        {
+          "letter": "C",
+          "text": "π",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A phase difference of π would mean that when displacement is at a maximum, velocity is at a maximum in the opposite direction, which does not occur in SHM."
+        },
+        {
+          "letter": "D",
+          "text": "2π",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A phase difference of 2π implies a full cycle, which does not accurately describe the relationship between displacement and velocity at a given instant in SHM."
+        }
+      ],
+      "explanation": "Velocity leads displacement by 90° (π/2).",
+      "explanationImage": null,
+      "hints": [
+        "displacement",
+        "velocity"
+      ]
+    },
+    {
+      "text": "A body in SHM has maximum acceleration equal to 8 m/s²and amplitude 0.5 m. What is ω?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 rad/s",
+          "isCorrect": false,
+          "explanation": "This option suggests a lower value of angular frequency. However, substituting 2 rad/s into the formula aₘₐₓ = ω²A would give a maximum acceleration of only 2 m/s², which is less than the stated maximum acceleration of 8 m/s²."
+        },
+        {
+          "letter": "B",
+          "text": "4 rad/s",
+          "isCorrect": true,
+          "explanation": "aₘₐₓ = ω²A8 = ω²(0.5)ω² = 16ω =4rad/s"
+        },
+        {
+          "letter": "C",
+          "text": "8 rad/s",
+          "isCorrect": false,
+          "explanation": "This option suggests a high value of angular frequency. Substituting 8 rad/s into the formula aₘₐₓ = ω²A would yield a maximum acceleration of 32 m/s², which is much greater than the stated maximum acceleration of 8 m/s²."
+        },
+        {
+          "letter": "D",
+          "text": "16 rad/s",
+          "isCorrect": false,
+          "explanation": "This option implies an even higher frequency. Plugging 16 rad/s into the formula results in a maximum acceleration of 128 m/s², which is far from the given value of 8 m/s²."
+        }
+      ],
+      "explanation": "aₘₐₓ = ω²A8 = ω²(0.5)ω² = 16ω =4rad/s.",
+      "explanationImage": null,
+      "hints": [
+        "maximum acceleration",
+        "amplitude"
+      ]
+    },
+    {
+      "text": "A particle in SHM has angular frequency 10 rad/s. The acceleration at displacement 0.02 m is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 m/s²",
+          "isCorrect": false,
+          "explanation": "By putting values in formula a = ω²x , we get 4 m/s2 and not 1 m/s2."
+        },
+        {
+          "letter": "B",
+          "text": "2 m/s²",
+          "isCorrect": false,
+          "explanation": "By putting values in formula a = ω²x , we get 4 m/s2 and not 2 m/s2."
+        },
+        {
+          "letter": "C",
+          "text": "4 m/s²",
+          "isCorrect": true,
+          "explanation": "a = ω²x = (10) × 0.02 = 4 m/s²."
+        },
+        {
+          "letter": "D",
+          "text": "8 m/s²",
+          "isCorrect": false,
+          "explanation": "By putting values in formula a = ω²x , we get 4 m/s2 and not 8 m/s2."
+        }
+      ],
+      "explanation": "a = ω²x = (10) × 0.02 = 4 m/s².",
+      "explanationImage": null,
+      "hints": [
+        "angular velocities",
+        "rotation"
+      ]
+    },
+    {
+      "text": "Two identical springs (k = 150 N/m) are connected in series. What is the equivalent spring constant?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "50 N/m",
+          "isCorrect": false,
+          "explanation": "For springs in series, the equivalent spring constant keq is given by 1/keq = 1/k1 + 1/k2 . Since both springs have the same k, 1/keq = 2/k . Thus, keq =k/2 = 150/2 = 75 N/m , denying option A ."
+        },
+        {
+          "letter": "B",
+          "text": "75 N/m",
+          "isCorrect": true,
+          "explanation": "For springs in series, the equivalent spring constant keq is given by 1/keq = 1/k1 + 1/k2 . Since both springs have the same k, 1/keq = 2/k . Thus, keq =k/2 = 150/2 = 75 N/m."
+        },
+        {
+          "letter": "C",
+          "text": "100 N/m",
+          "isCorrect": false,
+          "explanation": "For springs in series, the equivalent spring constant keq is given by 1/keq = 1/k1 + 1/k2 . Since both springs have the same k, 1/keq = 2/k . Thus, keq =k/2 = 150/2 = 75 N/m , denying option C."
+        },
+        {
+          "letter": "D",
+          "text": "150 N/m",
+          "isCorrect": false,
+          "explanation": "For springs in series, the equivalent spring constant keq is given by 1/keq = 1/k1 + 1/k2 . Since both springs have the same k, 1/keq = 2/k . Thus, keq =k/2 = 150/2 = 75 N/m , denying option D."
+        }
+      ],
+      "explanation": "For springs in series, the equivalent spring constant keq is given by 1/keq = 1/k1 + 1/k2 . Since both springs have the same k, 1/keq = 2/k . Thus, keq =k/2 = 150/2 = 75 N/m.",
+      "explanationImage": null,
+      "hints": [
+        "mass",
+        "velocity",
+        "radius"
+      ]
+    },
+    {
+      "text": "If the time period becomes 4 times, the frequency becomes:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 times",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because if the time period increases, the frequency will decrease, not increase. A time period 4 times larger means the oscillation occurs less frequently."
+        },
+        {
+          "letter": "B",
+          "text": "2 times",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect. If the time period increases to 4 times its original value, the frequency should decrease, not simply halve. This misunderstanding of the inverse relationship leads to this incorrect answer."
+        },
+        {
+          "letter": "C",
+          "text": "1/4 times",
+          "isCorrect": true,
+          "explanation": "f = 1/T → f ∝ 1/T."
+        },
+        {
+          "letter": "D",
+          "text": "Same",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it assumes that frequency remains unchanged despite a significant increase in the time period, which contradicts the fundamental relationship between time period and frequency."
+        }
+      ],
+      "explanation": "f = 1/T → f ∝ 1/T.",
+      "explanationImage": null,
+      "hints": [
+        "time period",
+        "frequency",
+        "4 times"
+      ]
+    },
+    {
+      "text": "A torsional pendulum has a disc of moment of 2 inertia I = 0.05 kg.m² and torsion constant к = 5 Nm/rad. Find its period.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.63 s",
+          "isCorrect": true,
+          "explanation": "T =2π √I/k = 2π √ 0.05/5 ≈0.63 s ."
+        },
+        {
+          "letter": "B",
+          "text": "1.00 s",
+          "isCorrect": false,
+          "explanation": "By putting values in formula T =2π √I/k , we don't achieve this answer."
+        },
+        {
+          "letter": "C",
+          "text": "1.26 s",
+          "isCorrect": false,
+          "explanation": "By putting values in formula T =2π √I/k , we don't achieve this answer."
+        },
+        {
+          "letter": "D",
+          "text": "2.00 s",
+          "isCorrect": false,
+          "explanation": "By putting values in formula T =2π √I/k , we don't achieve this answer."
+        }
+      ],
+      "explanation": "T =2π √I/k = 2π √ 0.05/5 ≈0.63 s .",
+      "explanationImage": null,
+      "hints": [
+        "satellites",
+        "orbits"
+      ]
+    },
+    {
+      "text": "The acceleration of a low flying Earth satellite is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.62 m/s2",
+          "isCorrect": false,
+          "explanation": "This value represents the acceleration due to gravity on the Moon, not on Earth's surface. It is not applicable for a low Earth satellite."
+        },
+        {
+          "letter": "B",
+          "text": "9.8 m/s2",
+          "isCorrect": true,
+          "explanation": "A low Earth satellite experiences nearly the same gravitational acceleration as objects near Earth’s surface, approximately g ≈ 9.8 m/s² directed toward Earth’s center."
+        },
+        {
+          "letter": "C",
+          "text": "Very high",
+          "isCorrect": false,
+          "explanation": "This option is vague and does not provide a specific value for acceleration. While the satellite is moving at high speeds, its gravitational acceleration remains approximately 9.8 m/s2."
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "This option suggests that there is no acceleration acting on the satellite, which is incorrect. The satellite is in free fall, experiencing gravitational acceleration."
+        }
+      ],
+      "explanation": "A low Earth satellite experiences nearly the same gravitational acceleration as objects near Earth’s surface, approximately g ≈ 9.8 m/s² directed toward Earth’s center.",
+      "explanationImage": null,
+      "hints": [
+        "acceleration",
+        "low Earth satellite"
+      ]
+    },
+    {
+      "text": "Two particles execute SHM with same amplitude A and frequency ω, but a phase T difference of. What is the maximum distance between them?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": "It is incorrect because the maximum distance is not just the amplitude A; the phase difference causes the separation to be larger than a single amplitude."
+        },
+        {
+          "letter": "B",
+          "text": "√2A",
+          "isCorrect": true,
+          "explanation": "x1 = Asinωt, x2 = Asin(ωt + π/2 ) = Acos ωt. Distance d=|x1 - x2| = A|sinωt- cos ωt|.Thus ,Maximum value is √2A."
+        },
+        {
+          "letter": "C",
+          "text": "2A",
+          "isCorrect": false,
+          "explanation": "It is incorrect because the maximum separation does not reach twice the amplitude for a 𝜋/2 phase difference; 2A would be the separation for particles in anti‑phase."
+        },
+        {
+          "letter": "D",
+          "text": "2√2A",
+          "isCorrect": false,
+          "explanation": "It is incorrect because the factor overestimates the separation."
+        }
+      ],
+      "explanation": "x1 = Asinωt, x2 = Asin(ωt + π/2 ) = Acos ωt. Distance d=|x1 - x2| = A|sinωt- cos ωt|.Maximum value is √2A.",
+      "explanationImage": null,
+      "hints": [
+        "10g stone",
+        "100 revolutions",
+        "centripetal force"
+      ]
+    },
+    {
+      "text": "A simple pendulum (L = 1.6 m, mass 0.2 kg) swings to a maximum angle of 30°. Find the total mechanical energy of the pendulum:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.27 J",
+          "isCorrect": true,
+          "explanation": "E = mgh = mgL (1 - Cos θ ) = 0.2 x 9.8 x 1.6 = 0.27 J."
+        },
+        {
+          "letter": "B",
+          "text": "0.54 J",
+          "isCorrect": false,
+          "explanation": "By using the formula E = mgh = mgL (1 - Cos θ ) , we don't achieve this answer."
+        },
+        {
+          "letter": "C",
+          "text": "0.81 J",
+          "isCorrect": false,
+          "explanation": "By using the formula E = mgh = mgL (1 - Cos θ ) , we don't achieve this answer."
+        },
+        {
+          "letter": "D",
+          "text": "1.08 J",
+          "isCorrect": false,
+          "explanation": "By using the formula E = mgh = mgL (1 - Cos θ ) , we don't achieve this answer."
+        }
+      ],
+      "explanation": "E = mgh = mgL (1 - Cos θ ) = 0.2 x 9.8 x 1.6 = 0.27 J.",
+      "explanationImage": null,
+      "hints": [
+        "minute hand",
+        "hour hand",
+        "angle"
+      ]
+    },
+    {
+      "text": "A mass of 0.25 kg vibrates with frequency 4Hz. What is the spring constant?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "25 N/m",
+          "isCorrect": false,
+          "explanation": "After calculations, we get 200 N/m as answer and not 25 N/m."
+        },
+        {
+          "letter": "B",
+          "text": "50 N/m",
+          "isCorrect": false,
+          "explanation": "After calculations, we get 200 N/m as answer and not 50 N/m."
+        },
+        {
+          "letter": "C",
+          "text": "100 N/m",
+          "isCorrect": false,
+          "explanation": "After calculations, we get 200 N/m as answer and not 100 N/m."
+        },
+        {
+          "letter": "D",
+          "text": "200 N/m",
+          "isCorrect": true,
+          "explanation": "f = 1/2π √k/m. Solving;k = (2πf)²m = (8π) (0.25) ≈ 200 N/m."
+        }
+      ],
+      "explanation": "f = 1/2π √k/m. Solving;k = (2πf)²m = (8π) (0.25) ≈ 200 N/m.",
+      "explanationImage": null,
+      "hints": [
+        "rotating",
+        "tangential velocity",
+        "radius"
+      ]
+    },
+    {
+      "text": "A particle in SHM has amplitude 0.06 m and period 0.4 s. What is its maximum speed?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.3π m/s",
+          "isCorrect": true,
+          "explanation": "ω = 2π/T = 5π rad/s.vmax = Aω = 0.06 × 5π = 0.3π m/s."
+        },
+        {
+          "letter": "B",
+          "text": "0.6π m/s",
+          "isCorrect": false,
+          "explanation": "By putting values in formula vmax = Aω , we don't achieve this answer."
+        },
+        {
+          "letter": "C",
+          "text": "0.9π m/s",
+          "isCorrect": false,
+          "explanation": "By putting values in formula vmax = Aω , we don't achieve this answer."
+        },
+        {
+          "letter": "D",
+          "text": "1.2 m/s",
+          "isCorrect": false,
+          "explanation": "By putting values in formula vmax = Aω , we don't achieve this answer."
+        }
+      ],
+      "explanation": "ω = 2π/T = 5π rad/s.vmax = Aω = 0.06 × 5π = 0.3π m/s.",
+      "explanationImage": null,
+      "hints": [
+        "centripetal force",
+        "linear velocity",
+        "radius"
+      ]
+    },
+    {
+      "text": "Two springs (k1 = 100 N/m, k2 = 300 N/m) are in parallel, supporting a mass m = 2 kg. Find the angular frequency:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 rad/s",
+          "isCorrect": false,
+          "explanation": "By using the formula ω = √keq /m, we don't achieve this answer."
+        },
+        {
+          "letter": "B",
+          "text": "14.14 rad/s",
+          "isCorrect": true,
+          "explanation": "keq = k1 + k2 = 400 N/m.ω = √keq /m = √400/2 = 14.14 rad/s."
+        },
+        {
+          "letter": "C",
+          "text": "20 rad/s",
+          "isCorrect": false,
+          "explanation": "By using the formula ω = √keq /m, we don't achieve this answer."
+        },
+        {
+          "letter": "D",
+          "text": "28.28 rad/s",
+          "isCorrect": false,
+          "explanation": "By using the formula ω = √keq /m, we don't achieve this answer."
+        }
+      ],
+      "explanation": "keq = k1 + k2 = 400 N/m.ω = √keq /m = √400/2 = 14.14 rad/s.",
+      "explanationImage": null,
+      "hints": [
+        "body",
+        "whirled",
+        "centripetal force"
+      ]
+    },
+    {
+      "text": "A simple pendulum of length 0.9 m is suspended in a lift accelerating upward at 2 m/s². What is its period?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.52 S",
+          "isCorrect": true,
+          "explanation": "Effective geff = g + a = 11.8 m/s².Period T = 2π √L/geff ≈ 1.52s."
+        },
+        {
+          "letter": "B",
+          "text": "1.75 s",
+          "isCorrect": false,
+          "explanation": "After using formula T = 2π √L/geff , 1.52 sec is the correct answer."
+        },
+        {
+          "letter": "C",
+          "text": "2.00 s",
+          "isCorrect": false,
+          "explanation": "After using formula T = 2π √L/geff , 1.52 sec is the correct answer."
+        },
+        {
+          "letter": "D",
+          "text": "2.25 s",
+          "isCorrect": false,
+          "explanation": "After using formula T = 2π √L/geff , 1.52 sec is the correct answer."
+        }
+      ],
+      "explanation": "Effective geff = g + a = 11.8 m/s².Period T = 2π √L/geff ≈ 1.52s.",
+      "explanationImage": null,
+      "hints": [
+        "centripetal force",
+        "doubling",
+        "mass, radius, velocity"
+      ]
+    },
+    {
+      "text": "Two identical pendulums (L = 1m, m = 0.2 kg) are coupled by a weak spring (K = 0.1 N/m). Find the frequency of the beat phenomenon:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.025 Hz",
+          "isCorrect": true,
+          "explanation": "Beat frequency fbeat = |f1 – f2|.With f = 1/2π and weak coupling,fbeat ≈ K/4πmfo ≈ 0.025 Hz."
+        },
+        {
+          "letter": "B",
+          "text": "0.050 Hz",
+          "isCorrect": false,
+          "explanation": "By using the relation fbeat = |f1 – f2|, fbeat is not equal to 0.050 Hz."
+        },
+        {
+          "letter": "C",
+          "text": "0.075 Hz",
+          "isCorrect": false,
+          "explanation": "By using the relation fbeat = |f1 – f2|, fbeat is not equal to 0.075 Hz."
+        },
+        {
+          "letter": "D",
+          "text": "0.100 Hz",
+          "isCorrect": false,
+          "explanation": "By using the relation fbeat = |f1 – f2|, fbeat is not equal to 0.100 Hz."
+        }
+      ],
+      "explanation": "Beat frequency fbeat = |f1 – f2|.With f = 1/2π and weak coupling,fbeat ≈ K/4πmfo ≈ 0.025 Hz.",
+      "explanationImage": null,
+      "hints": [
+        "centripetal force",
+        "mass",
+        "radius"
+      ]
+    },
+    {
+      "text": "A damped harmonic oscillator has mas m = 0.4 kg, spring constant k = 200 N/m, and damping coefficient b = 4 kg/s. What fraction of the initial energy remains after one oscillation?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "36.8%",
+          "isCorrect": true,
+          "explanation": "Energy decays as E = E₀ e(-b/m*t) .For one cycle (T = 2π / ω), the fraction remaining is e-b/m*t ≈ e-2π*b/mω0 ≈ 0.368 or 36.8%."
+        },
+        {
+          "letter": "B",
+          "text": "63.2%",
+          "isCorrect": false,
+          "explanation": "The relation E = E₀ e(-b/m*t) doesn't satisfy the above answer."
+        },
+        {
+          "letter": "C",
+          "text": "13.5%",
+          "isCorrect": false,
+          "explanation": "The relation E = E₀ e(-b/m*t) doesn't satisfy the above answer."
+        },
+        {
+          "letter": "D",
+          "text": "86.5%",
+          "isCorrect": false,
+          "explanation": "The relation E = E₀ e(-b/m*t) doesn't satisfy the above answer."
+        }
+      ],
+      "explanation": "Energy decays as E = E₀ e(-b/m*t).For one cycle (T = 2π / ω), the fraction remaining is e-b/m*t ≈ e-2π*b/mω0 ≈ 0.368 or 36.8%.",
+      "explanationImage": null,
+      "hints": [
+        "angular speed",
+        "minute hand",
+        "second hand"
+      ]
+    },
+    {
+      "text": "A simple pendulum of length L is suspended from the ceiling of a train that is accelerating horizontally with constant acceleration a. What is the effective gravitational acceleration g experienced by the pendulum?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "g + a",
+          "isCorrect": false,
+          "explanation": "By using the concept of non-inertial frame of reference, the above value of geff is practically not possible."
+        },
+        {
+          "letter": "B",
+          "text": "√g² + a²",
+          "isCorrect": true,
+          "explanation": "In the non-inertial frame of the train, a fictitious force -ma acts horizontally. The effective gravity is the vector sum of the real gravity g (downward) and the fictitious acceleration a (horizontal), giving geff = √g² + a²."
+        },
+        {
+          "letter": "C",
+          "text": "g - a",
+          "isCorrect": false,
+          "explanation": "By using the concept of non-inertial frame of reference, the above value of geff is practically not possible."
+        },
+        {
+          "letter": "D",
+          "text": "√g² - a²",
+          "isCorrect": false,
+          "explanation": "By using the concept of non-inertial frame of reference, the above value of geff is practically not possible."
+        }
+      ],
+      "explanation": "In the non-inertial frame of the train, a fictitious force -ma acts horizontally. The effective gravity is the vector sum of the real gravity g (downward) and the fictitious acceleration a (horizontal), giving geff = √g² + a².",
+      "explanationImage": null,
+      "hints": [
+        "centrifugal force",
+        "center"
+      ]
+    },
+    {
+      "text": "In simple harmonic motion, acceleration will be maximum, when the object is at:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maximum displacement from the mean position",
+          "isCorrect": true,
+          "explanation": "A simple harmonic motion (SHM), acceleration is maximum when the object is at its maximum displacement from the mean position. This is because the restoring force, and therefore the acceleration, is directly proportional to the displacement from the mean (equilibrium) position."
+        },
+        {
+          "letter": "B",
+          "text": "Centre position",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. At the center position (mean position), the displacement is zero, and thus the acceleration is also zero."
+        },
+        {
+          "letter": "C",
+          "text": "Half of the maximum displacement from mean position",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. At half of the maximum displacement, the acceleration is less than maximum because it depends on the displacement. The acceleration increases as the object moves towards maximum displacement."
+        },
+        {
+          "letter": "D",
+          "text": "Mean position",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. At the mean position, the object experiences zero displacement, resulting in zero acceleration."
+        }
+      ],
+      "explanation": "A simple harmonic motion (SHM), acceleration is maximum when the object is at its maximum displacement from the mean position. This is because the restoring force, and therefore the acceleration, is directly proportional to the displacement from the mean (equilibrium) position.",
+      "explanationImage": null,
+      "hints": [
+        "simple harmonic motion",
+        "maximum displacement",
+        "mean position"
+      ]
+    },
+    {
+      "text": "A particle of mass 0.25 kg executes SHM with amplitude 0.08 m. The maximum kinetic energy is 0.4 J. What is the angular frequency?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 rad/s",
+          "isCorrect": false,
+          "explanation": "By using formula K = ½ mω²A2 and substituting the values, 2 rad/s is not the answer."
+        },
+        {
+          "letter": "B",
+          "text": "5 rad/s",
+          "isCorrect": true,
+          "explanation": "K = ½ mω²A2 . Substituting; 0.4 = ½ (0.25)ω² (0.08)2 .Solving; ω = √0.4 x 2 / 0.25×0.0064 = 5 rad/s."
+        },
+        {
+          "letter": "C",
+          "text": "10 rad/s",
+          "isCorrect": false,
+          "explanation": "By using formula K = ½ mω²A2 and substituting the values, 10 rad/s is not the answer."
+        },
+        {
+          "letter": "D",
+          "text": "20 rad/s",
+          "isCorrect": false,
+          "explanation": "By using formula K = ½ mω²A2 and substituting the values, 20 rad/s is not the answer."
+        }
+      ],
+      "explanation": "K = ½ mω²A2 . Substituting; 0.4 = ½ (0.25)ω² (0.08)2 .Solving; ω = √0.4 x 2 / 0.25×0.0064 = 5 rad/s.",
+      "explanationImage": null,
+      "hints": [
+        "velocities",
+        "vertical circular motion"
+      ]
+    },
+    {
+      "text": "Two springs (k1 = 100 N/m, k2= 300 N/m) are connected in parallel, and a 2 kg mass is attached. What is the angular frequency of oscillation?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 rad/s",
+          "isCorrect": false,
+          "explanation": "The angular frequency ω = √keq/m ,thus not giving the above answer after calculations."
+        },
+        {
+          "letter": "B",
+          "text": "10 rad/s",
+          "isCorrect": false,
+          "explanation": "The angular frequency ω = √keq/m ,thus not giving the above answer after calculations."
+        },
+        {
+          "letter": "C",
+          "text": "14.14 rad/s",
+          "isCorrect": true,
+          "explanation": "The equivalent spring constant for parallel springs is keq = k1 + k2 = 100 +300 = 400 N/m. The angular frequency ω = √keq/m = √400/2 = √200 ≈ 14.14rad/s."
+        },
+        {
+          "letter": "D",
+          "text": "20 rad/s",
+          "isCorrect": false,
+          "explanation": "The angular frequency ω = √keq/m ,thus not giving the above answer after calculations."
+        }
+      ],
+      "explanation": "The equivalent spring constant for parallel springs is keq = k1 + k2 = 100 +300 = 400 N/m. The angular frequency ω = √keq/m = √400/2 = √200 ≈ 14.14rad/s.",
+      "explanationImage": null,
+      "hints": [
+        "uniform speed",
+        "circle",
+        "angular speed"
+      ]
+    },
+    {
+      "text": "A spring of spring constant k is cut into two equal parts. What is the spring constant of each part?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "k/2",
+          "isCorrect": false,
+          "explanation": "Cutting the spring in half doubles the spring constant, so each part has spring constant 2k and not k/2 ."
+        },
+        {
+          "letter": "B",
+          "text": "k",
+          "isCorrect": false,
+          "explanation": "Cutting the spring in half doubles the spring constant, so each part has spring constant 2k and not k ."
+        },
+        {
+          "letter": "C",
+          "text": "2k",
+          "isCorrect": true,
+          "explanation": "The spring constant k is inversely proportional to the length. Cutting the spring in half doubles the spring constant, so each part has spring constant 2k."
+        },
+        {
+          "letter": "D",
+          "text": "4k",
+          "isCorrect": false,
+          "explanation": "Cutting the spring in half doubles the spring constant, so each part has spring constant 2k and not 4k ."
+        }
+      ],
+      "explanation": "The spring constant k is inversely proportional to the length. Cutting the spring in half doubles the spring constant, so each part has spring constant 2k.",
+      "explanationImage": null,
+      "hints": [
+        "1 m in diameter",
+        "30 rev min<sup>-1</sup>"
+      ]
+    },
+    {
+      "text": "A particle in SHM has displacement x(t) = 0.03sin(6t + π/3) (meters). What is the maximum acceleration?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.54 m/s",
+          "isCorrect": false,
+          "explanation": "The maximum acceleration amax = Aω² , so the correct option is C and not A."
+        },
+        {
+          "letter": "B",
+          "text": "0.72 m/s²",
+          "isCorrect": false,
+          "explanation": "The maximum acceleration amax = Aω² , so the correct option is C and not B."
+        },
+        {
+          "letter": "C",
+          "text": "1.08 m/s²",
+          "isCorrect": true,
+          "explanation": "The maximum acceleration amax = Aω² = 0.03 × 62 = 1.08 m/s²."
+        },
+        {
+          "letter": "D",
+          "text": "1.44 m/s2",
+          "isCorrect": false,
+          "explanation": "The maximum acceleration amax = Aω² , so the correct option is C and not D."
+        }
+      ],
+      "explanation": "The maximum acceleration amax = Aω² = 0.03 × 62 = 1.08 m/s².",
+      "explanationImage": null,
+      "hints": [
+        "centripetal force"
+      ]
+    },
+    {
+      "text": "A block of mass 0.8 kg is attached to a horizontal spring (k = 320 N/m). The block is pulled 0.1 m from equilibrium and released. How long does it take to reach the equilibrium position for the first time?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.0785s",
+          "isCorrect": true,
+          "explanation": "The angular frequency ω = √k/m = √320/0.8 = 20rad/s. The time to reach equilibrium from maximum displacement is ;t = T/4 = π/2ω = π/2 x 20 ≈ 0.0785s."
+        },
+        {
+          "letter": "B",
+          "text": "0.1 s",
+          "isCorrect": false,
+          "explanation": "The angular frequency ω = √k/m . By putting values , the correct answer is 0.0785 s and not 0.1 s."
+        },
+        {
+          "letter": "C",
+          "text": "0.157s",
+          "isCorrect": false,
+          "explanation": "The angular frequency ω = √k/m . By putting values , the correct answer is 0.0785 s and not 0.157 s."
+        },
+        {
+          "letter": "D",
+          "text": "0.2 s",
+          "isCorrect": false,
+          "explanation": "The angular frequency ω = √k/m . By putting values , the correct answer is 0.0785 s and not 0.2 s."
+        }
+      ],
+      "explanation": "The angular frequency ω = √k/m = √320/0.8 = 20rad/s. The time to reach equilibrium from maximum displacement is ;t = T/4 = π/2ω = π/2 x 20 ≈ 0.0785s.",
+      "explanationImage": null,
+      "hints": [
+        "angular motion",
+        "Newton's second law",
+        "torque"
+      ]
+    },
+    {
+      "text": "A mass-spring system is driven at a frequency f = 3 Hz . The natural frequency is f = 2 Hz. What is the ratio of the amplitude at resonance to the amplitude at f (assume light damping)?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.0",
+          "isCorrect": false,
+          "explanation": "By putting values in the formula, calculations prove that the correct answer is C and not A."
+        },
+        {
+          "letter": "B",
+          "text": "1.5",
+          "isCorrect": false,
+          "explanation": "By putting values in the formula, calculations prove that the correct answer is C and not B."
+        },
+        {
+          "letter": "C",
+          "text": "2.0",
+          "isCorrect": true,
+          "explanation": "The amplitude ratio is given by Aresonance / A(fd) = fo / |fd-fo| , 2/ |3-2| = 2. However, considering light damping and practical scenarios, the ratio is often approximated as fo / Δf = 2/1 = 2."
+        },
+        {
+          "letter": "D",
+          "text": "3.0",
+          "isCorrect": false,
+          "explanation": "By putting values in the formula, calculations prove that the correct answer is C and not D."
+        }
+      ],
+      "explanation": "The amplitude ratio is given by Aresonance / A(fd) = fo / |fd-fo| , 2/ |3-2| = 2. However, considering light damping and practical scenarios, the ratio is often approximated as fo / Δf = 2/1 = 2.",
+      "explanationImage": null,
+      "hints": [
+        "whirl a stone",
+        "vertical circle"
+      ]
+    },
+    {
+      "text": "A particle executes SHM with amplitude 0.15 m. When its displacement is 0.05 m, its speed is 0.6 m/s. What is the angular frequency?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.0 rad/s",
+          "isCorrect": false,
+          "explanation": "Using v = ωV √A2 - x² , the formula satisfies option B and not A."
+        },
+        {
+          "letter": "B",
+          "text": "4.47 rad/s",
+          "isCorrect": true,
+          "explanation": "Using v = ωV √A2 - x² , we get 0.6 = ω√(0.15)2 — (0.05)2.Solving, ω = 0.6/√0.02 ≈ 4.47 rad/s."
+        },
+        {
+          "letter": "C",
+          "text": "5.0 rad/s",
+          "isCorrect": false,
+          "explanation": "Using v = ωV √A2 - x² , the formula satisfies option B and not C."
+        },
+        {
+          "letter": "D",
+          "text": "6.0 rad/s",
+          "isCorrect": false,
+          "explanation": "Using v = ωV √A2 - x² , the formula satisfies option B and not D."
+        }
+      ],
+      "explanation": "Using v = ωV √A2 - x² , we get 0.6 = ω√(0.15)2 — (0.05)2.Solving, ω = 0.6/√0.02 ≈ 4.47 rad/s.",
+      "explanationImage": null,
+      "hints": [
+        "uniform circular motion",
+        "constant magnitude",
+        "directed toward"
+      ]
+    },
+    {
+      "text": "Two identical springs (k = 150 N/m) are connected in series, and a 0.6 kg mass is attached. What is the period of oscillation?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.4 s",
+          "isCorrect": false,
+          "explanation": "The period T = 2π √m/ keq .After putting values we get 0.562 s and not 0.4 s."
+        },
+        {
+          "letter": "B",
+          "text": "0.562 s",
+          "isCorrect": true,
+          "explanation": "The equivalent spring constant for series springs is keq = k/2 = 150/2 = 75 N/m. The period T = 2π √m/ keq = 2π √0.6/75 ≈ 0.562 s."
+        },
+        {
+          "letter": "C",
+          "text": "0.8 s",
+          "isCorrect": false,
+          "explanation": "The period T = 2π √m/ keq .After putting values we get 0.562 s and not 0.8 s."
+        },
+        {
+          "letter": "D",
+          "text": "1.0 s",
+          "isCorrect": false,
+          "explanation": "The period T = 2π √m/ keq .After putting values we get 0.562 s and not 1.0 s."
+        }
+      ],
+      "explanation": "The equivalent spring constant for series springs is keq = k/2 = 150/2 = 75 N/m. The period T = 2π √m/ keq = 2π √0.6/75 ≈ 0.562 s.",
+      "explanationImage": null,
+      "hints": [
+        "circular orbit",
+        "constant speed",
+        "acceleration"
+      ]
+    },
+    {
+      "text": "A mass-spring system (m = 0.25 kg, k = 100 N/m) is set into SHM with amplitude 0.1 m. What is the speed when the displacement is half the amplitude?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.0 m/s",
+          "isCorrect": false,
+          "explanation": "As v = ω √A2 - x2 = √k/m √A2 - (A/2)2, by putting values we get option C as correct."
+        },
+        {
+          "letter": "B",
+          "text": "1.5 m/s",
+          "isCorrect": false,
+          "explanation": "As v = ω √A2 - x2 = √k/m √A2 - (A/2)2, by putting values we get option C as correct."
+        },
+        {
+          "letter": "C",
+          "text": "1.73 m/s",
+          "isCorrect": true,
+          "explanation": "Using energy conservation, v = ω √A2 - x2 = √k/m √A2 - (A/2)2 = √100/0.25 √0.1 which equals 1.73 m/s."
+        },
+        {
+          "letter": "D",
+          "text": "2.0 m/s",
+          "isCorrect": false,
+          "explanation": "As v = ω √A2 - x2 = √k/m √A2 - (A/2)2, by putting values we get option C as correct."
+        }
+      ],
+      "explanation": "Using energy conservation, v = ω √A2 - x2 = √k/m √A2 - (A/2)2 = √100/0.25 √0.1 which equals 1.73 m/s.",
+      "explanationImage": null,
+      "hints": [
+        "constant angular speed",
+        "turns through equal angles"
+      ]
+    },
+    {
+      "text": "A simple pendulum of length 0.8 m has a period of 1.5 s on an unknown planet. What is the gravitational acceleration on that planet?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "9.8 m/s²",
+          "isCorrect": false,
+          "explanation": "Using T = 2π √L/g , we get 14.05 m/s2 and not 9.8 m/s²."
+        },
+        {
+          "letter": "B",
+          "text": "12.0 m/s²",
+          "isCorrect": false,
+          "explanation": "Using T = 2π √L/g , we get 14.05 m/s2 and not 12.0 m/s²."
+        },
+        {
+          "letter": "C",
+          "text": "14.05 m/s²",
+          "isCorrect": true,
+          "explanation": "Using T = 2π √L/g , we get g = 4π2L / T2 = 4π2 (0.8) / (1.5)2 ≈ 14.05 m/s2 ."
+        },
+        {
+          "letter": "D",
+          "text": "16.0 m/s2",
+          "isCorrect": false,
+          "explanation": "Using T = 2π √L/g , we get 14.05 m/s2 and not 16.0 m/s²."
+        }
+      ],
+      "explanation": "Using T = 2π √L/g , we get g = 4π2L / T2 = 4π2 (0.8) / (1.5)2 ≈ 14.05 m/s2 .",
+      "explanationImage": null,
+      "hints": [
+        "distance",
+        "diameter"
+      ]
+    },
+    {
+      "text": "The total energy of a block, executing simple harmonic motion is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Independent of ‘x’",
+          "isCorrect": false,
+          "explanation": "This option suggests that the total energy does not change with displacement, which is incorrect. In SHM, the total energy is constant, but it varies with displacement when considering kinetic and potential energy separately."
+        },
+        {
+          "letter": "B",
+          "text": "Proportional to ‘x’",
+          "isCorrect": false,
+          "explanation": "This option implies a linear relationship between total energy and displacement. However, the total energy is not directly proportional to displacement; instead, it depends on the square of the displacement."
+        },
+        {
+          "letter": "C",
+          "text": "Proportional to ‘x2’",
+          "isCorrect": true,
+          "explanation": "The total energy of a block executing simple harmonic motion is the sum of its kinetic energy and potential energy. At any position, the potential energy is proportional to the square of the displacement from the equilibrium position. Therefore, the total energy will also be proportional to the square of the displacement from the equilibrium position.The equation for the total energy of a block executing SHM is:E = 1/2 kx^2Where E is the total energy, k is the spring constant, and x is the displacement from the equilibrium position. As we can see, the total energy is proportional to the square of the displacement from the equilibrium position, which is option c."
+        },
+        {
+          "letter": "D",
+          "text": "Proportional to '√x'",
+          "isCorrect": false,
+          "explanation": "This option suggests that total energy is proportional to the square root of displacement, which is not accurate. The relationship is quadratic, not square root based."
+        }
+      ],
+      "explanation": "The total energy of a block executing simple harmonic motion is the sum of its kinetic energy and potential energy. At any position, the potential energy is proportional to the square of the displacement from the equilibrium position. Therefore, the total energy will also be proportional to the square of the displacement from the equilibrium position.The equation for the total energy of a block executing SHM is:E = 1/2 kx^2Where E is the total energy, k is the spring constant, and x is the displacement from the equilibrium position. As we can see, the total energy is proportional to the square of the displacement from the equilibrium position, which is option c.",
+      "explanationImage": null,
+      "hints": [
+        "total energy",
+        "simple harmonic motion"
+      ]
+    },
+    {
+      "text": "A block of mass 0.4 kg is attached to a spring (k = 160 N/m). It is displaced 0.06 m and released. What is the maximum acceleration?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "12 m/s²",
+          "isCorrect": false,
+          "explanation": "By using relation amax = ω²A = k/m A ; we get 24m/s2 and not 12m/s2."
+        },
+        {
+          "letter": "B",
+          "text": "18 m/s²",
+          "isCorrect": false,
+          "explanation": "By using relation amax = ω²A = k/m A ; we get 24m/s2 and not 18m/s2."
+        },
+        {
+          "letter": "C",
+          "text": "24 m/s2",
+          "isCorrect": true,
+          "explanation": "The maximum acceleration amax = ω²A = k/m A = 160/0.4(0.06) = 24 m/s2 ."
+        },
+        {
+          "letter": "D",
+          "text": "30 m/s²",
+          "isCorrect": false,
+          "explanation": "By using relation amax = ω²A = k/m A ; we get 24m/s2 and not 30m/s2."
+        }
+      ],
+      "explanation": "The maximum acceleration amax = ω²A = k/m A = 160/0.4(0.06) = 24 m/s2 .",
+      "explanationImage": null,
+      "hints": [
+        "thin circular hoop",
+        "mass 1.0 kg",
+        "slowing down 7.0 rad/s²"
+      ]
+    },
+    {
+      "text": "A particle in SHM has displacement x(t) = 0.05cos(4πt + π/6) (meters). What is the period of the motion?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.25 s",
+          "isCorrect": false,
+          "explanation": "Calculations doesn't satisfy this answer."
+        },
+        {
+          "letter": "B",
+          "text": "0.5 s",
+          "isCorrect": true,
+          "explanation": "The angular frequency ω = 4π. The period T= 2π/ω = 2π/4π = 0.5s."
+        },
+        {
+          "letter": "C",
+          "text": "1 s",
+          "isCorrect": false,
+          "explanation": "Calculations doesn't satisfy this answer."
+        },
+        {
+          "letter": "D",
+          "text": "2 s",
+          "isCorrect": false,
+          "explanation": "Calculations doesn't satisfy this answer."
+        }
+      ],
+      "explanation": "The angular frequency ω = 4π. The period T= 2π/ω = 2π/4π = 0.5s.",
+      "explanationImage": null,
+      "hints": [
+        "radius",
+        "angular velocity"
+      ]
+    },
+    {
+      "text": "A spring is stretched by 0.04 m with a force of 8 N. What is the spring constant?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Gravitation",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 N/m",
+          "isCorrect": false,
+          "explanation": "By putting values in relation k = F/x, we don't achieve above answer."
+        },
+        {
+          "letter": "B",
+          "text": "150 N/m",
+          "isCorrect": false,
+          "explanation": "By putting values in relation k = F/x, we don't achieve above answer."
+        },
+        {
+          "letter": "C",
+          "text": "200 N/m",
+          "isCorrect": true,
+          "explanation": "The spring constant k = F/x = 8 / 0.04 = 200 N/m."
+        },
+        {
+          "letter": "D",
+          "text": "250 N/m",
+          "isCorrect": false,
+          "explanation": "By putting values in relation k = F/x, we don't achieve above answer."
+        }
+      ],
+      "explanation": "The spring constant k = F/x = 8 / 0.04 = 200 N/m.",
+      "explanationImage": null,
+      "hints": [
+        "weight",
+        "center of the Earth"
+      ]
+    },
+    {
+      "text": "A 0.3 kg mass oscillates with amplitude 0.08 m. If its maximum kinetic energy is 0.096 J, what is the angular frequency?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 rad/s",
+          "isCorrect": false,
+          "explanation": "By using the relation K = ½ mω²A² , option A is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "8 rad/s",
+          "isCorrect": false,
+          "explanation": "By using the relation K = ½ mω²A² , option B is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "10 rad/s",
+          "isCorrect": true,
+          "explanation": "The maximum kinetic energy K = ½ mω²A². Substituting ; 0.096 = ½ (0.3)ω2 (0.08)2 . Solving gives ω = 10 rad/s."
+        },
+        {
+          "letter": "D",
+          "text": "12 rad/s",
+          "isCorrect": false,
+          "explanation": "By using the relation K = ½ mω²A² , option D is incorrect."
+        }
+      ],
+      "explanation": "The maximum kinetic energy K = ½ mω²A². Substituting ; 0.096 = ½ (0.3)ω2 (0.08)2 . Solving gives ω = 10 rad/s.",
+      "explanationImage": null,
+      "hints": [
+        "one radian",
+        "degrees"
+      ]
+    },
+    {
+      "text": "For a mass-spring system with m = 0.2 kg and k = 80 N/m, what is the frequency of oscillation?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.59 Hz",
+          "isCorrect": false,
+          "explanation": "The frequency f is given by f = 1/2π √k/m . Putting values , we don't get 1.59 Hz."
+        },
+        {
+          "letter": "B",
+          "text": "3.18 Hz",
+          "isCorrect": true,
+          "explanation": "The frequency f is given by f = 1/2π √k/m = 1/2π √80/0.2 ≈ 3.18 Hz."
+        },
+        {
+          "letter": "C",
+          "text": "4.77 Hz",
+          "isCorrect": false,
+          "explanation": "The frequency f is given by f = 1/2π √k/m . Putting values , we don't get 4.77 Hz."
+        },
+        {
+          "letter": "D",
+          "text": "6.37 Hz",
+          "isCorrect": false,
+          "explanation": "The frequency f is given by f = 1/2π √k/m . Putting values , we don't get 6.37 Hz."
+        }
+      ],
+      "explanation": "The frequency f is given by f = 1/2π √k/m = 1/2π √80/0.2 ≈ 3.18 Hz.",
+      "explanationImage": null,
+      "hints": [
+        "Angular acceleration",
+        "linear acceleration",
+        "radius"
+      ]
+    },
+    {
+      "text": "Centripetal acceleration is also called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Angular acceleration",
+          "isCorrect": false,
+          "explanation": "Angular acceleration refers to the rate of change of angular velocity and is not related to the acceleration towards the center of a circular path."
+        },
+        {
+          "letter": "B",
+          "text": "Tangential acceleration",
+          "isCorrect": false,
+          "explanation": "Tangential acceleration is the acceleration along the path of motion and is perpendicular to centripetal acceleration, which acts towards the center."
+        },
+        {
+          "letter": "C",
+          "text": "Linear acceleration",
+          "isCorrect": false,
+          "explanation": "Linear acceleration refers to the change in velocity in a straight line, while centripetal acceleration specifically applies to motion in a circular path."
+        },
+        {
+          "letter": "D",
+          "text": "Radial acceleration",
+          "isCorrect": true,
+          "explanation": "Centripetal acceleration is the acceleration that keeps an object moving in a circular path; it points toward the center of the circle. That direction is the radial direction (from the moving point toward the center), so centripetal acceleration is also called radial acceleration."
+        }
+      ],
+      "explanation": "Centripetal acceleration is the acceleration that keeps an object moving in a circular path; it points toward the center of the circle. That direction is the radial direction (from the moving point toward the center), so centripetal acceleration is also called radial acceleration.",
+      "explanationImage": null,
+      "hints": [
+        "Centripetal acceleration",
+        "circular path",
+        "radial direction"
+      ]
+    },
+    {
+      "text": "A particle in SHM has an amplitude of 0.12 m and a maximum speed of 0.6 m/s. What is its angular frequency?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 rad/s",
+          "isCorrect": false,
+          "explanation": "The maximum speed vmax in SHM is given by vmax = Aω. By putting values , we don't achieve above answer."
+        },
+        {
+          "letter": "B",
+          "text": "5 rad/s",
+          "isCorrect": true,
+          "explanation": "The maximum speed vmax in SHM is given by vmax = Aω. Thus, ω = vmax/A = 0.6 / 0.12 = 5 rad/s."
+        },
+        {
+          "letter": "C",
+          "text": "6 rad/s",
+          "isCorrect": false,
+          "explanation": "The maximum speed vmax in SHM is given by vmax = Aω. By putting values , we don't achieve above answer."
+        },
+        {
+          "letter": "D",
+          "text": "8 rad/s",
+          "isCorrect": false,
+          "explanation": "The maximum speed vmax in SHM is given by vmax = Aω. By putting values , we don't achieve above answer."
+        }
+      ],
+      "explanation": "The maximum speed vmax in SHM is given by vmax = Aω. Thus, ω = vmax/A = 0.6 / 0.12 = 5 rad/s.",
+      "explanationImage": null,
+      "hints": [
+        "angular velocity",
+        "1 rev/min"
+      ]
+    },
+    {
+      "text": "A simple pendulum of length 1.6 m is on Earth (g = 9.8m/s²). What is its period of oscillation?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.0 s",
+          "isCorrect": false,
+          "explanation": "The period T of a simple pendulum is given by T = 2π√L/g. Substitution of values doesn't provides the above answer."
+        },
+        {
+          "letter": "B",
+          "text": "2.54 s",
+          "isCorrect": true,
+          "explanation": "The period T of a simple pendulum is given by T = 2π√L/g. Substituting the values, T = 2π√1.6/9.8 ≈ 2.54s."
+        },
+        {
+          "letter": "C",
+          "text": "3.0 s",
+          "isCorrect": false,
+          "explanation": "The period T of a simple pendulum is given by T = 2π√L/g. Substitution of values doesn't provides the above answer."
+        },
+        {
+          "letter": "D",
+          "text": "4.0 s",
+          "isCorrect": false,
+          "explanation": "The period T of a simple pendulum is given by T = 2π√L/g. Substitution of values doesn't provides the above answer."
+        }
+      ],
+      "explanation": "The period T of a simple pendulum is given by T = 2π√L/g. Substituting the values, T = 2π√1.6/9.8 ≈ 2.54s.",
+      "explanationImage": null,
+      "hints": [
+        "angle",
+        "arc length"
+      ]
+    },
+    {
+      "text": "A mass-spring system has a mass of 0.5 kg and a spring constant of 200 N/m. What is the angular frequency of the oscillation?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 rad/s",
+          "isCorrect": false,
+          "explanation": "The angular frequency ω is given by ω = √k/m . Above answer doesn't matches the correct value achieved."
+        },
+        {
+          "letter": "B",
+          "text": "14.14 rad/s",
+          "isCorrect": false,
+          "explanation": "The angular frequency ω is given by ω = √k/m . Above answer doesn't matches the correct value achieved."
+        },
+        {
+          "letter": "C",
+          "text": "20 rad/s",
+          "isCorrect": true,
+          "explanation": "The angular frequency ω is given by ω = √k/m . Substituting the values, we get ω √200/0.5 = √400 = 20rad/s."
+        },
+        {
+          "letter": "D",
+          "text": "28.28 rad/s",
+          "isCorrect": false,
+          "explanation": "The angular frequency ω is given by ω = √k/m . Above answer doesn't matches the correct value achieved."
+        }
+      ],
+      "explanation": "The angular frequency ω is given by ω = √k/m . Substituting the values, we get ω √200/0.5 = √400 = 20rad/s.",
+      "explanationImage": null,
+      "hints": [
+        "mass 2 kg",
+        "angular velocity 2π/3 rad/s"
+      ]
+    },
+    {
+      "text": "A coupled oscillator system consists of two identical masses m and three springs (two outer springs k, one inner spring K connecting the masses). What are the normal mode frequencies for the symmetric and antisymmetric modes?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "ωsym = √k/m , ωanti = √k+2K/m",
+          "isCorrect": true,
+          "explanation": "In the symmetric mode both masses move together, so only the outer springs (k) affect the motion. In the antisymmetric mode the masses move oppositely, engaging the inner spring K and effectively adding 2K to the restoring force."
+        },
+        {
+          "letter": "B",
+          "text": "ωsym = √k+K/m , ωanti = √k/m",
+          "isCorrect": false,
+          "explanation": "This option doesn't satisfy the relation."
+        },
+        {
+          "letter": "C",
+          "text": "ωsym = √2k+K/m , ωanti = √K/m",
+          "isCorrect": false,
+          "explanation": "This option doesn't satisfy the relation."
+        },
+        {
+          "letter": "D",
+          "text": "ωsym = √k/m , ωanti = √2k + K/m",
+          "isCorrect": false,
+          "explanation": "This option doesn't satisfy the relation."
+        }
+      ],
+      "explanation": "In the symmetric mode both masses move together, so only the outer springs (k) affect the motion. In the antisymmetric mode the masses move oppositely, engaging the inner spring K and effectively adding 2K to the restoring force.",
+      "explanationImage": null,
+      "hints": [
+        "speed",
+        "circular path"
+      ]
+    },
+    {
+      "text": "A mass of 0.5 kg is attached to a spring with spring constant 50 N/m. What is the angular frequency of oscillation?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 rad/s",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Using the formula ω = √(k / m), substituting k = 50 N/m and m = 0.5 kg gives ω = √(100) = 10 rad/s."
+        },
+        {
+          "letter": "B",
+          "text": "10 rad/s",
+          "isCorrect": true,
+          "explanation": "Angular frequency ω = √(k / m) = √(50 / 0.5) = √100 = 10 rad/s"
+        },
+        {
+          "letter": "C",
+          "text": "15 rad/s",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It does not match the calculated angular frequency from the provided spring constant and mass values."
+        },
+        {
+          "letter": "D",
+          "text": "20 rad/s",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A higher value suggests an error in calculation, as the correct angular frequency is 10 rad/s."
+        }
+      ],
+      "explanation": "Angular frequency ω = √(k / m) = √(50 / 0.5) = √100 = 10 rad/s.",
+      "explanationImage": null,
+      "hints": [
+        "mass of 0.5 kg",
+        "spring constant 50 N/m"
+      ]
+    },
+    {
+      "text": "A simple pendulum has a length of 1 m and oscillates with a period of 2 s. What is the acceleration due to gravity at that location?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "8.0 m/s²",
+          "isCorrect": false,
+          "explanation": "This value is lower than typical values for gravity on Earth. It does not satisfy the period formula given the length of the pendulum."
+        },
+        {
+          "letter": "B",
+          "text": "9.87 m/s²",
+          "isCorrect": true,
+          "explanation": "Period T = 2π √(L / g). Rearrange: g = 4π² L / T² = 4 × π² × 1 / 2² ≈ 39.48 / 4 ≈ 9.87 m/s²."
+        },
+        {
+          "letter": "C",
+          "text": "10.5 m/s²",
+          "isCorrect": false,
+          "explanation": "This value is higher than the standard acceleration due to gravity and does not match the calculated result based on the pendulum's period."
+        },
+        {
+          "letter": "D",
+          "text": "12.0 m/s²",
+          "isCorrect": false,
+          "explanation": "This value exceeds the typical acceleration due to gravity on Earth and does not align with the expected calculations for a pendulum of this length."
+        }
+      ],
+      "explanation": "Period T = 2π √(L / g). Rearrange: g = 4π² L / T² = 4 × π² × 1 / 2² ≈ 39.48 / 4 ≈ 9.87 m/s².",
+      "explanationImage": null,
+      "hints": [
+        "simple pendulum",
+        "period",
+        "acceleration due to gravity"
+      ]
+    },
+    {
+      "text": "A 2 kg mass on a spring (k = 100 N/m) is displaced 0.1 m from equilibrium and released. What is the maximum speed?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.5 m/s",
+          "isCorrect": false,
+          "explanation": "This option underestimates the maximum speed. The formula for maximum speed involves both the displacement and the spring constant."
+        },
+        {
+          "letter": "B",
+          "text": "0.71 m/s",
+          "isCorrect": true,
+          "explanation": "Maximum speed vmax = Aω = A √(k / m) = 0.1 × √(100 / 2) = 0.1 × √50 ≈ 0.1 × 7.07 ≈ 0.71 m/s"
+        },
+        {
+          "letter": "C",
+          "text": "1.0 m/s",
+          "isCorrect": false,
+          "explanation": "This option is too high. It does not take into account the correct calculation of maximum speed based on amplitude and mass."
+        },
+        {
+          "letter": "D",
+          "text": "1.41 m/s",
+          "isCorrect": false,
+          "explanation": "This option is also too high. The maximum speed calculated from the given parameters is lower than this value."
+        }
+      ],
+      "explanation": "Maximum speed vmax = Aω = A √(k / m) = 0.1 × √(100 / 2) = 0.1 × √50 ≈ 0.1 × 7.07 ≈ 0.71 m/s.",
+      "explanationImage": null,
+      "hints": [
+        "spring",
+        "displaced"
+      ]
+    },
+    {
+      "text": "A damped oscillator loses 10% of its amplitude per cycle. If the initial amplitude is 0.2 m, what is the amplitude after 2 cycles?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.1458 m",
+          "isCorrect": false,
+          "explanation": "This option incorrectly calculates the amplitude after two cycles. It does not account for the exponential decay correctly."
+        },
+        {
+          "letter": "B",
+          "text": "0.162 m",
+          "isCorrect": true,
+          "explanation": "Amplitude decreases by 10% per cycle, so A = A × (0.9) . After 2 cycles: A = 0.2 × (0.9)² = 0.2 × 0.81 = 0.162 m."
+        },
+        {
+          "letter": "C",
+          "text": "0.18 m",
+          "isCorrect": false,
+          "explanation": "This option represents an incorrect calculation. It suggests a smaller percentage loss than what actually occurs over two cycles."
+        },
+        {
+          "letter": "D",
+          "text": "0.2 m",
+          "isCorrect": false,
+          "explanation": "This option suggests that the amplitude remains unchanged, which is incorrect. A damped oscillator does lose amplitude over time."
+        }
+      ],
+      "explanation": "Amplitude decreases by 10% per cycle, so A = A × (0.9) . After 2 cycles: A = 0.2 × (0.9)² = 0.2 × 0.81 = 0.162 m.",
+      "explanationImage": null,
+      "hints": [
+        "damped oscillator",
+        "loses 10% of its amplitude",
+        "initial amplitude is 0.2 m"
+      ]
+    },
+    {
+      "text": "A 1 kg mass oscillates with SHM of amplitude 0.05 m and frequency 2 Hz. What is the total mechanical energy?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.079 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It underestimates the total mechanical energy by not properly calculating the spring constant using the given frequency."
+        },
+        {
+          "letter": "B",
+          "text": "0.158 J",
+          "isCorrect": true,
+          "explanation": "Total energy E = ½ k A². Angular frequency ω = 2πf = 2π × 2 = 4π rad/s. k = mω² = 1 × (4π)² ≈ 157.91 N/m. E = ½ × 157.91 × (0.05)² ≈ 0.158 J"
+        },
+        {
+          "letter": "C",
+          "text": "0.316 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It overestimates the energy by incorrectly assuming a larger value for the spring constant or amplitude."
+        },
+        {
+          "letter": "D",
+          "text": "0.474 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It significantly overestimates the total energy, likely due to a misunderstanding of the relationship between mass, frequency, and amplitude in SHM."
+        }
+      ],
+      "explanation": "Total energy E = ½ k A². Angular frequency ω = 2πf = 2π × 2 = 4π rad/s. k = mω² = 1 × (4π)² ≈ 157.91 N/m. E = ½ × 157.91 × (0.05)² ≈ 0.158 J",
+      "explanationImage": null,
+      "hints": [
+        "mass",
+        "frequency",
+        "amplitude"
+      ]
+    },
+    {
+      "text": "A pendulum bob of mass 0.2 kg is released from a height of 0.1 m above its lowest point. What is its speed at the lowest point? (g = 9.8 m/s²)",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.99 m/s",
+          "isCorrect": false,
+          "explanation": "This option underestimates the speed at the lowest point, failing to account for the full conversion of potential energy into kinetic energy."
+        },
+        {
+          "letter": "B",
+          "text": "1.4 m/s",
+          "isCorrect": true,
+          "explanation": "Energy conservation: mgh = ½mv². Cancel m: v² = 2gh = 2 × 9.8 × 0.1 = 1.96, v = √1.96 ≈ 1.4 m/s."
+        },
+        {
+          "letter": "C",
+          "text": "1.96 m/s",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests that the speed is equal to the calculated value of v², rather than taking the square root for the actual speed."
+        },
+        {
+          "letter": "D",
+          "text": "2.8 m/s",
+          "isCorrect": false,
+          "explanation": "This option overestimates the speed, likely due to misunderstanding the relationship between potential and kinetic energy."
+        }
+      ],
+      "explanation": "Energy conservation: mgh = ½mv². Cancel m: v² = 2gh = 2 × 9.8 × 0.1 = 1.96, v = √1.96 ≈ 1.4 m/s.",
+      "explanationImage": null,
+      "hints": [
+        "pendulum bob",
+        "height",
+        "lowest point"
+      ]
+    },
+    {
+      "text": "A spring-mass system (k = 200 N/m, m = 0.4 kg) is driven at its natural frequency. If the driving force amplitude is 10 N, what is the steady-state amplitude? (Assume no damping)",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.05 m",
+          "isCorrect": false,
+          "explanation": "This value represents a small amplitude, but it does not account for the effects of resonance in a system with no damping."
+        },
+        {
+          "letter": "B",
+          "text": "0.1 m",
+          "isCorrect": false,
+          "explanation": "This is still a modest amplitude that does not reflect the infinite amplitude characteristic of resonance without damping."
+        },
+        {
+          "letter": "C",
+          "text": "0.15 m",
+          "isCorrect": false,
+          "explanation": "While this amplitude is larger, it still underestimates the effect of driving the system at its natural frequency with no damping."
+        },
+        {
+          "letter": "D",
+          "text": "Infinity",
+          "isCorrect": true,
+          "explanation": "At resonance (driven at natural frequency), with no damping, the amplitude theoretically approaches infinity."
+        }
+      ],
+      "explanation": "At resonance (driven at natural frequency), with no damping, the amplitude theoretically approaches infinity.",
+      "explanationImage": null,
+      "hints": [
+        "natural frequency",
+        "no damping"
+      ]
+    },
+    {
+      "text": "A simple pendulum of length 0.8 m oscillates on a planet. If its period is 1.6 s, what is the gravitational acceleration?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "7.5 m/s²",
+          "isCorrect": false,
+          "explanation": "This value results from an incorrect rearrangement of the pendulum formula. It does not satisfy the relationship between length, period, and gravitational acceleration."
+        },
+        {
+          "letter": "B",
+          "text": "9.0 m/s²",
+          "isCorrect": true,
+          "explanation": "T = 2π √(L / g). Rearrange: g = 4π² L / T² = 4 × π² × 0.8 / 1.6² ≈ 31.58 / 2.56 ≈ 9.0 m/s²."
+        },
+        {
+          "letter": "C",
+          "text": "10.5 m/s²",
+          "isCorrect": false,
+          "explanation": "This value is too high for the parameters provided. It suggests an overestimation of the gravitational force based on the given length and period."
+        },
+        {
+          "letter": "D",
+          "text": "12.3 m/s²",
+          "isCorrect": false,
+          "explanation": "This option also reflects an incorrect application of the pendulum formula, leading to a value that exceeds typical gravitational accelerations for planets."
+        }
+      ],
+      "explanation": "T = 2π √(L / g). Rearrange: g = 4π² L / T² = 4 × π² × 0.8 / 1.6² ≈ 31.58 / 2.56 ≈ 9.0 m/s².",
+      "explanationImage": null,
+      "hints": [
+        "simple pendulum",
+        "period",
+        "gravitational acceleration"
+      ]
+    },
+    {
+      "text": "A 0.5 kg mass on a spring (k = 50 N/m) is damped with a damping constant b = 2 kg/s. What is the damping ratio?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.1",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It underestimates the damping ratio calculation. The correct method involves substituting the values into the damping ratio formula."
+        },
+        {
+          "letter": "B",
+          "text": "0.2",
+          "isCorrect": true,
+          "explanation": "Damping ratio ζ = b / (2√(mk)) = 2 / (2 × √(0.5 × 50)) = 2 / (2 × √25) = 2 / 10 = 0.2."
+        },
+        {
+          "letter": "C",
+          "text": "0.3",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It suggests a higher damping ratio than calculated. Revisit the formula to verify the correct substitution."
+        },
+        {
+          "letter": "D",
+          "text": "0.4",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It significantly exceeds the calculated damping ratio, indicating a misunderstanding of the damping ratio formula."
+        }
+      ],
+      "explanation": "Damping ratio ζ = b / (2√(mk)) = 2 / (2 × √(0.5 × 50)) = 2 / (2 × √25) = 2 / 10 = 0.2.",
+      "explanationImage": null,
+      "hints": [
+        "damping constant",
+        "mass on a spring"
+      ]
+    },
+    {
+      "text": "A mass-spring system (m = 1 kg, k = 100 N/m) is pulled 0.2 m and released. At what position is the kinetic energy equal to the potential energy?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.1 m",
+          "isCorrect": false,
+          "explanation": "This option is too low. At 0.1 m, the potential energy is not equal to the kinetic energy based on the energy equations."
+        },
+        {
+          "letter": "B",
+          "text": "0.141 m",
+          "isCorrect": true,
+          "explanation": "KE = PE when ½mv² = ½kx². Total energy E = ½kA². At x, PE = ½kx², KE = E - PE = ½kA² - ½kx². Set KE = PE: ½kA² - ½kx² = ½kx², A² = 2x², x² = A²/2, x = A/√2 = 0.2 / √2 ≈ 0.141 m."
+        },
+        {
+          "letter": "C",
+          "text": "0.173 m",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. At 0.173 m, the potential and kinetic energies will not balance according to the derived equations."
+        },
+        {
+          "letter": "D",
+          "text": "0.2 m",
+          "isCorrect": false,
+          "explanation": "This option represents the maximum displacement, where potential energy is at its maximum and kinetic energy is zero. Thus, they cannot be equal here."
+        }
+      ],
+      "explanation": "KE = PE when ½mv² = ½kx². Total energy E = ½kA². At x, PE = ½kx², KE = E - PE = ½kA² - ½kx². Set KE = PE: ½kA² - ½kx² = ½kx², A² = 2x², x² = A²/2, x = A/√2 = 0.2 / √2 ≈ 0.141 m.",
+      "explanationImage": null,
+      "hints": [
+        "mass-spring system",
+        "kinetic energy",
+        "potential energy"
+      ]
+    },
+    {
+      "text": "The displacement–time graph of an SHM is (a sine wave). At what point is velocity maximum?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "At crest and trough",
+          "isCorrect": false,
+          "explanation": "At the crest and trough, the displacement is at its maximum (either positive or negative), resulting in zero velocity."
+        },
+        {
+          "letter": "B",
+          "text": "At mean position",
+          "isCorrect": true,
+          "explanation": "Velocity is maximum when displacement = 0."
+        },
+        {
+          "letter": "C",
+          "text": "At all points equally",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because velocity varies in SHM; it is not constant at all points."
+        },
+        {
+          "letter": "D",
+          "text": "At nodes only",
+          "isCorrect": false,
+          "explanation": "Nodes refer to points of zero displacement in wave motion; however, in SHM, velocity is not maximum at these points."
+        }
+      ],
+      "explanation": "Velocity is maximum when displacement = 0.",
+      "explanationImage": null,
+      "hints": [
+        "displacement–time graph",
+        "velocity maximum"
+      ]
+    },
+    {
+      "text": "What does the complete curve represent?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Half oscillation",
+          "isCorrect": false,
+          "explanation": "This option represents only a part of the full oscillation cycle, which does not capture the complete motion."
+        },
+        {
+          "letter": "B",
+          "text": "One oscillation",
+          "isCorrect": true,
+          "explanation": "A complete oscillation is the motion of a particle from its mean position → extreme position → opposite extreme → back to mean position. The given sine wave covers this full path once"
+        },
+        {
+          "letter": "C",
+          "text": "Two oscillations",
+          "isCorrect": false,
+          "explanation": "This option suggests a complete cycle repeated twice, which is not represented by the given curve."
+        },
+        {
+          "letter": "D",
+          "text": "One-fourth oscillation",
+          "isCorrect": false,
+          "explanation": "This option indicates only a fraction of the oscillation cycle, which does not represent the complete motion described."
+        }
+      ],
+      "explanation": "A complete oscillation is the motion of a particle from its mean position → extreme position → opposite extreme → back to mean position. The given sine wave covers this full path once",
+      "explanationImage": null,
+      "hints": [
+        "complete",
+        "curve",
+        "oscillation"
+      ]
+    },
+    {
+      "text": "If velocity is maximum at t = 0, what is the displacement at that instant?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maximum",
+          "isCorrect": false,
+          "explanation": "This option suggests that the displacement is at its maximum value. However, this is incorrect because when velocity is maximum, the object is at the equilibrium position, not at maximum displacement."
+        },
+        {
+          "letter": "B",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "In SHM, displacement and velocity are 90° out of phase. When velocity is maximum → particle passes through mean position (x=0)"
+        },
+        {
+          "letter": "C",
+          "text": "Negative maximum",
+          "isCorrect": false,
+          "explanation": "This option implies that the displacement is at its negative maximum value. This is incorrect because maximum velocity occurs when the particle is at the equilibrium position, not at the extremes of motion."
+        },
+        {
+          "letter": "D",
+          "text": "Constant",
+          "isCorrect": false,
+          "explanation": "This option indicates that the displacement remains constant. This is incorrect because displacement varies in Simple Harmonic Motion, and specifically, it is zero when velocity is maximum."
+        }
+      ],
+      "explanation": "In SHM, displacement and velocity are 90° out of phase. When velocity is maximum → particle passes through mean position (x=0)",
+      "explanationImage": null,
+      "hints": [
+        "velocity",
+        "displacement"
+      ]
+    },
+    {
+      "text": "In SHM, which of the following quantities are in phase?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Velocity and displacement",
+          "isCorrect": false,
+          "explanation": "Velocity is a derivative of displacement and they are not in phase. When displacement is at a maximum, velocity is zero (and vice versa)."
+        },
+        {
+          "letter": "B",
+          "text": "Acceleration and displacement",
+          "isCorrect": false,
+          "explanation": "Acceleration is proportional to the negative of displacement in SHM, meaning they are 180 degrees out of phase, not in phase."
+        },
+        {
+          "letter": "C",
+          "text": "Velocity and acceleration",
+          "isCorrect": false,
+          "explanation": "Velocity and acceleration are also not in phase; they have a phase difference of 90 degrees in SHM."
+        },
+        {
+          "letter": "D",
+          "text": "Displacement and restoring force",
+          "isCorrect": true,
+          "explanation": "Both always act in opposite directions but have the same phase angle"
+        }
+      ],
+      "explanation": "Both always act in opposite directions but have the same phase angle",
+      "explanationImage": null,
+      "hints": [
+        "SHM",
+        "phase",
+        "displacement"
+      ]
+    },
+    {
+      "text": "In simple harmonic motion, the restoring force must be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Constant and opposite in direction to displacement",
+          "isCorrect": false,
+          "explanation": "This statement is incorrect because while the restoring force is opposite to displacement, it is not constant; it varies with the amount of displacement from the equilibrium position."
+        },
+        {
+          "letter": "B",
+          "text": "Proportional to displacement and opposite in direction",
+          "isCorrect": true,
+          "explanation": "Definition of SHM:F = -kxForce increases as displacement increasesForce always points toward the mean positionWithout this condition, motion cannot remain sinusoidalThus SHM exists only when restoring force ∝ displacement."
+        },
+        {
+          "letter": "C",
+          "text": "Proportional to velocity",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The restoring force is not related to the velocity of the mass; rather, it depends solely on the displacement from equilibrium."
+        },
+        {
+          "letter": "D",
+          "text": "Independent of displacement",
+          "isCorrect": false,
+          "explanation": "This statement is false because the restoring force must depend on displacement to ensure that the system can oscillate. If it were independent, the motion would not exhibit simple harmonic characteristics."
+        }
+      ],
+      "explanation": "Definition of SHM: F = -kxForce increases as displacement increases. Force always points toward the mean position. Without this condition, motion cannot remain sinusoidal. Thus SHM exists only when restoring force ∝ displacement.",
+      "explanationImage": null,
+      "hints": [
+        "restoring force",
+        "displacement"
+      ]
+    },
+    {
+      "text": "In a simple pendulum shown at extreme and mean positions: At which position is kinetic energy maximum?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mean position",
+          "isCorrect": true,
+          "explanation": "The kinetic energy of simple pendulum is maximum at mean position. This is because at mean position, pendulum's bob has its greatest velocity as all the potential energy from the extreme positions has been converted into kinetic energy."
+        },
+        {
+          "letter": "B",
+          "text": "Extreme position",
+          "isCorrect": false,
+          "explanation": "At the extreme position, the pendulum's bob momentarily comes to rest, meaning its velocity is zero and thus its kinetic energy is also zero."
+        },
+        {
+          "letter": "C",
+          "text": "Midway",
+          "isCorrect": false,
+          "explanation": "The term 'midway' is ambiguous. However, it does not specify a position where the kinetic energy would be maximum, as the true maximum occurs at the mean position."
+        },
+        {
+          "letter": "D",
+          "text": "Constant everywhere",
+          "isCorrect": false,
+          "explanation": "Kinetic energy is not constant throughout the pendulum's motion. It varies with position, being maximum at the mean position and minimum at the extreme positions."
+        }
+      ],
+      "explanation": "The kinetic energy of simple pendulum is maximum at mean position. This is because at mean position, pendulum's bob has its greatest velocity as all the potential energy from the extreme positions has been converted into kinetic energy.",
+      "explanationImage": null,
+      "hints": [
+        "kinetic energy",
+        "mean position"
+      ]
+    },
+    {
+      "text": "Potential energy vs. displacement graph in SHM is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Straight line",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because a straight line would imply a linear relationship between potential energy and displacement, which does not accurately represent the nature of potential energy in SHM."
+        },
+        {
+          "letter": "B",
+          "text": "Parabola",
+          "isCorrect": true,
+          "explanation": "The potential energy versus displacement graph in Simple Harmonic Motion (SHM) is a parabola because the potential energy (U) is proportional to the square of the displacement (x), described by the equation U = 1/2kx². This quadratic relationship results in a U-shaped or bowl-shaped curve, which is characteristic of a parabola."
+        },
+        {
+          "letter": "C",
+          "text": "Circle",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because a circular graph does not represent the relationship between potential energy and displacement in SHM, which is inherently quadratic."
+        },
+        {
+          "letter": "D",
+          "text": "Exponential",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as the relationship between potential energy and displacement in SHM is not exponential, but rather quadratic, as indicated by the formula U = 1/2kx²."
+        }
+      ],
+      "explanation": "The potential energy versus displacement graph in Simple Harmonic Motion (SHM) is a parabola because the potential energy (U) is proportional to the square of the displacement (x), described by the equation U = 1/2kx². This quadratic relationship results in a U-shaped or bowl-shaped curve, which is characteristic of a parabola.",
+      "explanationImage": null,
+      "hints": [
+        "Potential energy",
+        "displacement"
+      ]
+    },
+    {
+      "text": "Which of the following quantities is always proportional tothe displacement in simple harmonic motion?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Acceleration",
+          "isCorrect": true,
+          "explanation": "In SHM, acceleration is given by , where is displacement.Acceleration is directly proportional to displacement andalways opposite in direction, which is the definingcharacteristic of SHM. Velocity and energies depend ondisplacement but not directly proportional."
+        },
+        {
+          "letter": "B",
+          "text": "Velocity",
+          "isCorrect": false,
+          "explanation": "Velocity in SHM is represented as v = ω√(A² - x²), where A is the amplitude and x is displacement. While velocity depends on displacement, it is not directly proportional to it, as it also involves the square root of the remaining displacement."
+        },
+        {
+          "letter": "C",
+          "text": "Kinetic energy",
+          "isCorrect": false,
+          "explanation": "Kinetic energy in SHM is given by KE = ½mv². Since velocity is not directly proportional to displacement, kinetic energy also cannot be directly proportional to displacement, as it depends on the square of velocity."
+        },
+        {
+          "letter": "D",
+          "text": "Potential energy",
+          "isCorrect": false,
+          "explanation": "Potential energy in SHM is given by PE = ½kx², where x is displacement and k is the spring constant. While potential energy is proportional to the square of the displacement, it is not directly proportional to displacement itself. Therefore, it does not meet the criteria in the question."
+        }
+      ],
+      "explanation": "In SHM, acceleration is given by , where is displacement. Acceleration is directly proportional to displacement andalways opposite in direction, which is the defining characteristic of SHM. Velocity and energies depend on displacement but not directly proportional.",
+      "explanationImage": null,
+      "hints": [
+        "displacement",
+        "acceleration"
+      ]
+    },
+    {
+      "text": "Body of mass 4 kg attached to a spring is displaced through 0.04 m from its equilibrium position and then released. If the spring constant is 400 N/m, find the time period of the vibration?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.567 s",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The calculation for the time period based on the given mass and spring constant does not yield this result."
+        },
+        {
+          "letter": "B",
+          "text": "3.416 s",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It does not match the computed time period from the values provided in the question."
+        },
+        {
+          "letter": "C",
+          "text": "2.315 s",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The time period calculated using the mass and spring constant provided is not equal to this value."
+        },
+        {
+          "letter": "D",
+          "text": "0.628 s",
+          "isCorrect": true,
+          "explanation": "The time period of vibration can be calculated using the formula: T = 2π √(m/k) In this case, the mass of the body is 4 kg and the spring constant is 400 N/m. T = 2π √(4 kg / 400 N/m) = 2π √(0.01 s /kg) = 2π 0.1 s 2 T ≈ 0.628 s Therefore, the time period of vibration for the body attached to the spring is approximately 0.628 seconds."
+        }
+      ],
+      "explanation": "The time period of vibration can be calculated using the formula: T = 2π √(m/k) In this case, the mass of the body is 4 kg and the spring constant is 400 N/m. T = 2π √(4 kg / 400 N/m) = 2π √(0.01 s /kg) = 2π 0.1 s 2 T ≈ 0.628 s Therefore, the time period of vibration for the body attached to the spring is approximately 0.628 seconds.",
+      "explanationImage": null,
+      "hints": [
+        "mass",
+        "spring constant"
+      ]
+    },
+    {
+      "text": "Variation of amplitude with respect to time for an oscillation object is shown in figure. Identify the oscillation:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Damped",
+          "isCorrect": false,
+          "explanation": "Damped oscillations exhibit a gradual decrease in amplitude over time due to energy loss. If the amplitude decreases, this option would be correct."
+        },
+        {
+          "letter": "B",
+          "text": "Critical",
+          "isCorrect": false,
+          "explanation": "This term typically refers to a specific condition in oscillations related to damping, but it does not represent an oscillation type. Therefore, this option does not fit the context."
+        },
+        {
+          "letter": "C",
+          "text": "Undamped",
+          "isCorrect": true,
+          "explanation": "There is no change in the oscillation’s amplitude hence it is undamped."
+        },
+        {
+          "letter": "D",
+          "text": "Non-critical",
+          "isCorrect": false,
+          "explanation": "This option is not a standard term in oscillation theory. While it suggests a state that is not critical, it does not accurately describe a type of oscillation."
+        }
+      ],
+      "explanation": "There is no change in the oscillation’s amplitude hence it is undamped.",
+      "explanationImage": null,
+      "hints": [
+        "amplitude",
+        "oscillation"
+      ]
+    },
+    {
+      "text": "For a vibrating mass-spring system, the expression of kinetic energy if x=0 is given by:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "½ kx02 ( 1-x2/x02)",
+          "isCorrect": false,
+          "explanation": "This expression represents the kinetic energy in terms of spring constant and maximum displacement but is not the correct formulation for kinetic energy at equilibrium."
+        },
+        {
+          "letter": "B",
+          "text": "½ mω(1-x2/x02)",
+          "isCorrect": true,
+          "explanation": "In mass-spring system, kinetic energy is given by formula: KE = ½ mv². In case of vibrating mass-spring system, max displacement from equilibrium position (amplitude) is denoted by x . At equilibrium position (x = 0), velocity is maximum, and it can be calculated as: v = ωxo . Where ω is the angular frequency. Now, substituting the values into the formula for kinetic energy: KE = (½)m(ωxo )² = ½ mω²xo² Since k is the spring constant and: k = mω² = ½ kxo²."
+        },
+        {
+          "letter": "C",
+          "text": "½ kx02",
+          "isCorrect": false,
+          "explanation": "This expression represents the potential energy stored in the spring when it is stretched to maximum displacement but does not represent kinetic energy."
+        },
+        {
+          "letter": "D",
+          "text": "½ mω2x0",
+          "isCorrect": false,
+          "explanation": "This expression is incorrectly formulated for kinetic energy; it does not accurately represent the relationship between kinetic energy and displacement in a mass-spring system."
+        }
+      ],
+      "explanation": "In mass-spring system, kinetic energy is given by formula: KE = ½ mv². In case of vibrating mass-spring system, max displacement from equilibrium position (amplitude) is denoted by x . At equilibrium position (x = 0), velocity is maximum, and it can be calculated as: v = ωxo . Where ω is the angular frequency. Now, substituting the values into the formula for kinetic energy: KE = (½)m(ωxo )² = ½ mω²xo² Since k is the spring constant and: k = mω² = ½ kxo².",
+      "explanationImage": null,
+      "hints": [
+        "kinetic energy",
+        "vibrating mass-spring system"
+      ]
+    },
+    {
+      "text": "The frequency of a simple pendulum of length 9.8 m will be",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 π Hertz",
+          "isCorrect": false,
+          "explanation": "This option suggests a frequency that is too high for a pendulum of this length. The formula for frequency shows that it decreases with length."
+        },
+        {
+          "letter": "B",
+          "text": "π/2 Hertz",
+          "isCorrect": false,
+          "explanation": "This frequency value is also too high for the given length of the pendulum. It does not fit within the expected range based on the formula."
+        },
+        {
+          "letter": "C",
+          "text": "1/2π Hertz",
+          "isCorrect": true,
+          "explanation": "The frequency of a simple pendulum depends on the ratio .When , this ratio equals 1, so the pendulum makes one oscillation every seconds.Hence, its frequency is 1/2πHertz."
+        },
+        {
+          "letter": "D",
+          "text": "π/4 Hertz",
+          "isCorrect": false,
+          "explanation": "This frequency is too low for the given pendulum length. It does not align with the calculations based on the pendulum's length."
+        }
+      ],
+      "explanation": "The frequency of a simple pendulum depends on the ratio . When , this ratio equals 1, so the pendulum makes one oscillation every seconds. Hence, its frequency is 1/2π Hertz.",
+      "explanationImage": null,
+      "hints": [
+        "frequency",
+        "simple pendulum",
+        "length"
+      ]
+    },
+    {
+      "text": "A body executes simple harmonic motion with an amplitude 'a'. Which of the following graphs represents the variation of velocity 'v' with displacement?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": "This graph does not represent the correct relationship between velocity and displacement in simple harmonic motion, as it fails to show the sinusoidal nature of velocity."
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": "This graph also does not correctly depict the changes in velocity with respect to displacement since it does not exhibit the expected sinusoidal curve."
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": true,
+          "explanation": "The correct graph would be a sinusoidal curve that oscillates symmetrically around the x-axis. Among the given options, the correct graph would be option C) Sine curve with zero velocity at the extreme displacements. This graph represents a sinusoidal curve that crosses the x-axis (zero velocity) at the extreme displacements (±a). As the body moves towards the equilibrium position, the velocity increases, reaches its maximum at the equilibrium position, and then decreases as it moves towards the opposite extreme displacement."
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct graph would be a sinusoidal curve that oscillates symmetrically around the x-axis. Among the given options, the correct graph would be option C) Sine curve with zero velocity at the extreme displacements. This graph represents a sinusoidal curve that crosses the x-axis (zero velocity) at the extreme displacements (±a). As the body moves towards the equilibrium position, the velocity increases, reaches its maximum at the equilibrium position, and then decreases as it moves towards the opposite extreme displacement.",
+      "explanationImage": null,
+      "hints": [
+        "simple harmonic motion",
+        "amplitude 'a'",
+        "variation of velocity"
+      ]
+    },
+    {
+      "text": "In SHM, acceleration is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Constant",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests that acceleration remains constant throughout SHM. In reality, acceleration varies continuously as it depends on the displacement from the mean position, being zero only at specific points."
+        },
+        {
+          "letter": "B",
+          "text": "Proportional to displacement",
+          "isCorrect": true,
+          "explanation": "Showing acceleration ∝ –displacement (toward meanposition)."
+        },
+        {
+          "letter": "C",
+          "text": "Proportional to square of displacement",
+          "isCorrect": false,
+          "explanation": "This choice suggests that acceleration depends on the square of displacement, which is incorrect for SHM. In SHM, acceleration is proportional to displacement, not its square."
+        },
+        {
+          "letter": "D",
+          "text": "Independent of displacement",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it implies that acceleration does not change with displacement. In SHM, acceleration is inherently tied to the position of the object in its oscillatory motion."
+        }
+      ],
+      "explanation": "Showing acceleration ∝–displacement.(toward mean position)",
+      "explanationImage": null,
+      "hints": [
+        "acceleration",
+        "displacement"
+      ]
+    },
+    {
+      "text": "In the diagram below, the displacement of an oscillating particle is plotted against time. What does the length ‘PR’ on the time axis represent?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Twice the frequency",
+          "isCorrect": false,
+          "explanation": "This option incorrectly relates frequency to the length PR. Frequency is the number of cycles per unit time, while PR represents a specific time interval related to the period."
+        },
+        {
+          "letter": "B",
+          "text": "Half the period",
+          "isCorrect": true,
+          "explanation": "The displacement-time graph of an oscillating particle can be used to find important characteristics of its motion, such as amplitude, frequency, and period. The period of an oscillation is the time taken for the oscillating particle to complete one full cycle of motion. In the given diagram, the length PR on the time axis represents the period of the oscillation. And since PR is half the distance between two successive peaks or troughs of the oscillation, it represents half of the period."
+        },
+        {
+          "letter": "C",
+          "text": "Half the frequency",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it confuses time intervals with frequency. Half the frequency would indicate a time interval that does not correspond to the motion described."
+        },
+        {
+          "letter": "D",
+          "text": "Twice the period",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it suggests that PR represents a time interval longer than the full cycle of oscillation, which contradicts the definition of period."
+        }
+      ],
+      "explanation": "The displacement-time graph of an oscillating particle can be used to find important characteristics of its motion, such as amplitude, frequency, and period. The period of an oscillation is the time taken for the oscillating particle to complete one full cycle of motion. In the given diagram, the length PR on the time axis represents the period of the oscillation. And since PR is half the distance between two successive peaks or troughs of the oscillation, it represents half of the period.",
+      "explanationImage": null,
+      "hints": [
+        "displacement",
+        "time",
+        "length 'PR'"
+      ]
+    },
+    {
+      "text": "A wave passes through a medium; each particle of the medium performs 100 complete vibrations in 5 seconds. What is the frequency of the wave?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it suggests that the wave vibrates only twice in one second, which does not match the given vibrations over 5 seconds."
+        },
+        {
+          "letter": "B",
+          "text": "20 Hz",
+          "isCorrect": true,
+          "explanation": "Vibrations = 100Time = 5 sFrequency = vibrations/time= 100/5= 20 HzHence, option B is the correct"
+        },
+        {
+          "letter": "C",
+          "text": "4 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it implies only 4 vibrations occur each second, which does not align with the total of 100 vibrations over 5 seconds."
+        },
+        {
+          "letter": "D",
+          "text": "40 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it suggests that the wave vibrates 40 times each second, which is not consistent with the total of 100 vibrations in 5 seconds."
+        }
+      ],
+      "explanation": "Vibrations = 100Time = 5 sFrequency = vibrations/time= 100/5= 20 HzHence, option B is the correct",
+      "explanationImage": null,
+      "hints": [
+        "100 complete vibrations",
+        "5 seconds"
+      ]
+    },
+    {
+      "text": "Which graph in SHM shows the K.E of a body:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Option A",
+          "isCorrect": true,
+          "explanation": "Kinetic Energy (K.E.): The kinetic energy of a body undergoing SHM varies sinusoidally with time. It is maximum at the equilibrium position (where velocity is maximum) and decreases to zero at the extreme positions (where velocity is zero).Potential Energy (P.E.): The potential energy of a body undergoing SHM is directly related to its displacement from the equilibrium position. It is maximum at the extreme positions (where displacement is maximum) and decreases to zero at the equilibrium position (where displacement is zero).Total Mechanical Energy (E): The total mechanical energy of a body undergoing SHM remains constant throughout the motion if there are no external dissipative forces (such as friction). It is the sum of kinetic energy and potential energy at any point in time."
+        },
+        {
+          "letter": "B",
+          "text": "Option B",
+          "isCorrect": false,
+          "explanation": "This option does not provide any information regarding the K.E. in SHM, making it impossible to determine its correctness."
+        },
+        {
+          "letter": "C",
+          "text": "Option C",
+          "isCorrect": false,
+          "explanation": "This option lacks any context or details, leaving it unclear how it relates to the K.E. of a body in SHM."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "This option indicates 'none', which does not apply as there is a correct representation of the K.E. graph in the options provided."
+        }
+      ],
+      "explanation": "Kinetic Energy (K.E.): The kinetic energy of a body undergoing SHM varies sinusoidally with time. It is maximum at the equilibrium position (where velocity is maximum) and decreases to zero at the extreme positions (where velocity is zero).Potential Energy (P.E.): The potential energy of a body undergoing SHM is directly related to its displacement from the equilibrium position. It is maximum at the extreme positions (where displacement is maximum) and decreases to zero at the equilibrium position (where displacement is zero).Total Mechanical Energy (E): The total mechanical energy of a body undergoing SHM remains constant throughout the motion if there are no external dissipative forces (such as friction). It is the sum of kinetic energy and potential energy at any point in time.",
+      "explanationImage": null,
+      "hints": [
+        "graph",
+        "K.E"
+      ]
+    },
+    {
+      "text": "A simple pendulum completes one oscillation in 4 seconds. Calculate its length when g= 9.8 m/s2, as the time period of a simple pendulum is given by T = 2 π √(l/g):",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Oscillations and Simple Harmonic Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.973 m",
+          "isCorrect": true,
+          "explanation": "This option uses the correct application of the formula T = 2π√(l/g) and solves for l using the given values, resulting in the length of approximately 3.973 meters"
+        },
+        {
+          "letter": "B",
+          "text": "5.123 m",
+          "isCorrect": false,
+          "explanation": "This option incorrectly applies the formula or uses incorrect calculations. It does not match the expected length derived from the given time period."
+        },
+        {
+          "letter": "C",
+          "text": "7.111 m",
+          "isCorrect": false,
+          "explanation": "This option also results from incorrect calculations. It does not align with the derived formula, resulting in a length that is too high for the given parameters."
+        },
+        {
+          "letter": "D",
+          "text": "9.231 m",
+          "isCorrect": false,
+          "explanation": "This option is significantly higher than the calculated length. It reflects a misunderstanding of the relationship between time period and pendulum length."
+        }
+      ],
+      "explanation": "This option uses the correct application of the formula T = 2π√(l/g) and solves for l using the given values, resulting in the length of approximately 3.973 meters.",
+      "explanationImage": null,
+      "hints": [
+        "one oscillation",
+        "T = 2 π √(l/g)"
+      ]
+    }
+  ]
+}

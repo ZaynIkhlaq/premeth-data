@@ -1,0 +1,1888 @@
+{
+  "questions": [
+    {
+      "text": "For the reaction W(aq) + 2X(aq) ⇋ 2Y(aq) + 3Z(aq) What are the correct units for the equilibrium constant Kc?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "mol dm–3",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it assumes the reaction has no net change in the number of moles, which is not the case here."
+        },
+        {
+          "letter": "B",
+          "text": "mol2 dm–6",
+          "isCorrect": true,
+          "explanation": "This option is correct. The units are derived from the change in moles from reactants to products: 5 moles of products - 3 moles of reactants = 2 moles, giving Kc units of mol2 dm–6."
+        },
+        {
+          "letter": "C",
+          "text": "mol–1 dm3",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It suggests that there is a decrease in moles of products compared to reactants, which is not accurate for this reaction."
+        },
+        {
+          "letter": "D",
+          "text": "mol–2 dm6",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It implies an even greater decrease in the number of moles from reactants to products, which contradicts the reaction stoichiometry."
+        }
+      ],
+      "explanation": "The equilibrium constant Kc is calculated using the formula Kc = [Y]2[Z]3 / [W][X]2. For the given reaction, the total moles of products (5 moles) minus the total moles of reactants (3 moles) results in a net change of 2 moles. Thus, the units for Kc are (mol dm-3)2 (mol dm-3)3 / (mol dm-3)(mol dm-3)2, simplifying to mol2 dm–6. This confirms that Option B is correct. The other options incorrectly calculate the change in moles, leading to incorrect Kc units.",
+      "explanationImage": null,
+      "hints": [
+        "W(aq)",
+        "2X(aq)",
+        "equilibrium constant Kc"
+      ]
+    },
+    {
+      "text": "Chemical equilibrium is —------ in nature.",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Static",
+          "isCorrect": false,
+          "explanation": "Once the equilibrium state has reached, the reaction doesn't stop. The rate of the forward reaction is equal to the rate of backward reaction. The reactions are continuously going on in either direction so it cannot be static, therefore this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Dynamic",
+          "isCorrect": true,
+          "explanation": "Chemical equilibrium is dynamic in nature. Once the equilibrium state has reached, the reaction doesn't stop. The rate of the forward reaction is equal to the rate of backward reaction. That is why it is called dynamic in nature as the reactions are continuously going on in either direction, therefore this option is correct."
+        },
+        {
+          "letter": "C",
+          "text": "Fast",
+          "isCorrect": false,
+          "explanation": "Chemical equilibrium can either be fast or slow but this is not its nature, therefore this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Both B and C",
+          "isCorrect": false,
+          "explanation": "As Option C is incorrect, this option is incorrect."
+        }
+      ],
+      "explanation": "Chemical equilibrium is dynamic in nature. Once the equilibrium state has reached, the reaction doesn't stop. The rate of the forward reaction is equal to the rate of backward reaction. That is why it is called dynamic in nature as the reactions are continuously going on in either direction, therefore this option is correct.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "On increasing the concentration of reactants in a reversible reaction, then equilibrium constant will",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "depend on the concentration",
+          "isCorrect": false,
+          "explanation": "The equilibrium constant is independent of the concentration of reactants or products; it only changes with temperature. Therefore, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "increase",
+          "isCorrect": false,
+          "explanation": "While increasing the concentration of reactants can shift the position of equilibrium, it does not affect the equilibrium constant itself. This option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "unchanged",
+          "isCorrect": true,
+          "explanation": "The equilibrium constant remains unchanged when the concentration of reactants is altered. It is only affected by changes in temperature, making this option correct."
+        },
+        {
+          "letter": "D",
+          "text": "decrease",
+          "isCorrect": false,
+          "explanation": "Decreasing or increasing the concentration does not change the equilibrium constant, which is determined solely by temperature for a given reaction. Therefore, this option is incorrect."
+        }
+      ],
+      "explanation": "The equilibrium constant (K) for a given chemical reaction is only affected by changes in temperature and not by changes in the concentrations of reactants or products. When you increase the concentration of reactants, the system may shift to counteract this change, according to Le Chatelier's Principle, but the value of the equilibrium constant itself remains the same. Options A, B, and D incorrectly suggest that concentration affects the equilibrium constant. Option C correctly states that the equilibrium constant remains unchanged.",
+      "explanationImage": null,
+      "hints": [
+        "increasing",
+        "concentration",
+        "equilibrium constant"
+      ]
+    },
+    {
+      "text": "The reaction, A(g) + B(g) ⇋ C(g) +D(g) is studied in a one litre vessel at 250oC. The initial concentration of A was 3n and B was n. When equilibrium was attained, equilibrium concentration of C and B were the same. What is the concentration of D at equilibrium?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "n/2",
+          "isCorrect": true,
+          "explanation": "This is the correct option because it follows the stoichiometry of the reaction, where 1 mole of B produces 1 mole of C and D. Setting the equilibrium concentration of B (n - x) equal to the concentration of C(x) leads to the mathematical result that x = n/2."
+        },
+        {
+          "letter": "B",
+          "text": "(3n-1)/2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it mistakenly includes the initial concentration of reactant A in the calculation for the concentration of product D. The concentration of D depends directly on the change in reactant B, not the starting amount of A."
+        },
+        {
+          "letter": "C",
+          "text": "(n-1)/3",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it introduces mathematical terms like subtracting 1 and dividing by 3 that do not appear in the balanced equation or the initial conditions. The ratio of reactants to products in this reaction is strictly 1:1."
+        },
+        {
+          "letter": "D",
+          "text": "n",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because if the concentration of D were n, it would mean the reaction went to completion and consumed all of reactant B. In a reversible equilibrium reaction, reactants are never fully consumed."
+        }
+      ],
+      "explanation": "Given the equilibrium is,A(g) + B(g) ⇋ C(g) +D(g)Initial concentration: 3n, n, 0, 0Concentration at equilibrium: 3n-x, n-x, x, xAt equilibrium concentration of C is equal to the concentration of B,N-x = x2x = nX = n/2Concentration of D at equilibrium = x = n/2",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The exothermic formation of ClF3 is represented by the equation:Cl2 (g) + 3F2 (g) ⇋ 2ClF3 (g) ΔH=-329kJWhich of the following will increase the quantity of ClF3 in an equilibrium mixture of F2,Cl2 and ClF3?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adding F2",
+          "isCorrect": true,
+          "explanation": "Adding more F2 increases the concentration of one of the reactants, which, according to Le Chatelier's Principle, will shift the equilibrium towards the products to counteract the change, increasing the production of ClF3. Therefore, this option is correct."
+        },
+        {
+          "letter": "B",
+          "text": "Increasing the volume of the container",
+          "isCorrect": false,
+          "explanation": "Increasing the volume of the container decreases the pressure of the system. Since there are more moles of gas on the reactant side (1 mole of Cl2 and 3 moles of F2) compared to the product side (2 moles of ClF3), the equilibrium will shift towards the reactants, decreasing ClF3 production. Therefore, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Removing Cl2",
+          "isCorrect": false,
+          "explanation": "Removing Cl2 reduces the concentration of one of the reactants, causing the equilibrium to shift towards the reactants to replace the removed Cl2. This shift decreases the production of ClF3, making this option incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Increasing the temperature",
+          "isCorrect": false,
+          "explanation": "Increasing the temperature adds energy to the system. Since the reaction is exothermic (releases heat), the equilibrium will shift towards the reactants to absorb the additional heat, decreasing the production of ClF3. Thus, this option is incorrect."
+        }
+      ],
+      "explanation": "The correct answer is to add F2. According to Le Chatelier's Principle, adding more of a reactant shifts the equilibrium towards the products to counteract the change, increasing the concentration of ClF3. Increasing the volume of the container decreases the pressure, which shifts the equilibrium towards the reactants (since there are more moles of gas on the reactant side), thus reducing ClF3 production. Removing Cl2 decreases its concentration, causing the equilibrium to shift towards the reactants to replace the missing Cl2, also reducing ClF3 production. Increasing the temperature shifts the equilibrium towards the reactants because the reaction is exothermic, thus also reducing ClF3 production.",
+      "explanationImage": null,
+      "hints": [
+        "exothermic",
+        "equilibrium mixture",
+        "ΔH=-329kJ"
+      ]
+    },
+    {
+      "text": "Which of the following equilibrium does not get affected with the change in volume of the system?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "N2O4(g) ⇋ 2NO2(g)",
+          "isCorrect": false,
+          "explanation": "This equilibrium is affected by volume changes because Δn ≠ 0. The number of moles changes from 1 to 2, which means the equilibrium will shift with volume changes."
+        },
+        {
+          "letter": "B",
+          "text": "N2(g) + 3H2(g) ⇋ 2NH3(g)",
+          "isCorrect": false,
+          "explanation": "Here, Δn ≠ 0 because the total moles of gases decrease from 4 to 2. A change in volume will affect this equilibrium."
+        },
+        {
+          "letter": "C",
+          "text": "PCl5(g) ⇋ PCl3(g) + Cl2(g)",
+          "isCorrect": false,
+          "explanation": "This reaction has Δn ≠ 0, with moles increasing from 1 to 2, indicating that a change in volume will shift the equilibrium position."
+        },
+        {
+          "letter": "D",
+          "text": "N2(g) + O2(g) ⇋ 2NO(g)",
+          "isCorrect": true,
+          "explanation": "In this case, Δn = 0 as the moles of reactants and products are equal (2 moles on each side). Therefore, the equilibrium is unaffected by changes in volume, making this option correct."
+        }
+      ],
+      "explanation": "The correct option is Option D because the change in volume does not affect the equilibrium when Δn = 0, meaning the number of moles of gases on the reactant side equals the number of moles on the product side. In Option D, both sides have 2 moles of gases, so volume changes will not shift the equilibrium. In contrast, Options A, B, and C have different numbers of moles on each side, meaning their equilibria will shift with volume changes.",
+      "explanationImage": null,
+      "hints": [
+        "equilibrium",
+        "change",
+        "volume"
+      ]
+    },
+    {
+      "text": "For a reaction if Kp>Kc , the forward reaction is favoured by",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "High Temperature",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Temperature affects the equilibrium constant itself but is not directly related to the comparison between Kp and Kc."
+        },
+        {
+          "letter": "B",
+          "text": "Low Temperature",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Temperature changes can affect the equilibrium position but do not explain the relationship where Kp > Kc."
+        },
+        {
+          "letter": "C",
+          "text": "Low Pressure",
+          "isCorrect": true,
+          "explanation": "This option is correct. When Kp > Kc, it indicates that the reaction involves an increase in the number of moles of gas. Lowering the pressure will favor the side with more moles of gas, which is typically the product side in this scenario."
+        },
+        {
+          "letter": "D",
+          "text": "High Pressure",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. High pressure favors the side of the reaction with fewer moles of gas, which is contrary to the requirement when Kp > Kc."
+        }
+      ],
+      "explanation": "According to the relation Kp = Kc(RT)Δn, if Kp > Kc, then Δn > 0, meaning the number of moles of gas increases on the product side of the reaction. To favor the forward reaction under these conditions, one would decrease the pressure. Decreasing pressure shifts the equilibrium towards the side with more moles of gas—in this case, the product side. Temperature changes are not directly related to this comparison, hence both high and low temperature options are incorrect. High pressure, which favors the side with fewer moles, is also incorrect in this context.",
+      "explanationImage": null,
+      "hints": [
+        "K<sub>p</sub>",
+        "K<sub>c</sub>",
+        "forward reaction"
+      ]
+    },
+    {
+      "text": "A reversible chemical reaction having two reactants in equilibrium. If the concentrations of the reactants are doubled, then the equilibrium constant will",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Also be doubled",
+          "isCorrect": false,
+          "explanation": "The equilibrium constant, KC, is not affected by changes in the concentrations of reactants or products. It remains constant for a given reaction at a specific temperature."
+        },
+        {
+          "letter": "B",
+          "text": "Be halved",
+          "isCorrect": false,
+          "explanation": "The equilibrium constant, KC, remains unchanged by changes in concentrations. It is only influenced by the temperature of the system."
+        },
+        {
+          "letter": "C",
+          "text": "Become one-fourth",
+          "isCorrect": false,
+          "explanation": "Changes in reactant concentrations do not affect the equilibrium constant, KC. It is a fixed value for a given reaction at a specific temperature."
+        },
+        {
+          "letter": "D",
+          "text": "Remain the same",
+          "isCorrect": true,
+          "explanation": "The equilibrium constant, KC, is a characteristic of the reaction at a given temperature and does not change with variations in reactant or product concentrations."
+        }
+      ],
+      "explanation": "The equilibrium constant, KC, is a fixed value for a specific reaction at a given temperature. It reflects the ratio of the concentrations of products to reactants at equilibrium, raised to the power of their respective stoichiometric coefficients. Changes in the concentrations of the reactants or products do not alter the value of KC. Therefore, if the concentrations of the reactants are doubled, the equilibrium constant remains the same.Options A, B, and C are incorrect because they suggest that the equilibrium constant changes with concentration changes, which is not true. The value of KC is constant unless the temperature changes.",
+      "explanationImage": null,
+      "hints": [
+        "reversible",
+        "equilibrium",
+        "concentrations"
+      ]
+    },
+    {
+      "text": "For the reaction A + B ⇌ C + D, the equilibrium constant can be expressed as:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "K= [A][B]/[C][D]",
+          "isCorrect": false,
+          "explanation": "This expression is incorrect because it places the reactant concentrations in the numerator instead of the denominator."
+        },
+        {
+          "letter": "B",
+          "text": "K=[C][B]/[A][D]",
+          "isCorrect": false,
+          "explanation": "This expression is incorrect because it incorrectly includes reactant B as a product and reactant A as a reactant."
+        },
+        {
+          "letter": "C",
+          "text": "K=[C][D]/[A][B]",
+          "isCorrect": true,
+          "explanation": "This is the correct expression. The equilibrium constant (K) is the ratio of the product of the concentrations of the products to the product of the concentrations of the reactants at equilibrium."
+        },
+        {
+          "letter": "D",
+          "text": "K=[A][C]/[B][D]",
+          "isCorrect": false,
+          "explanation": "This expression is incorrect because it improperly includes reactant A as a product and reactant B as a reactant."
+        }
+      ],
+      "explanation": "The equilibrium constant expression for a reaction is written as the concentration of the products raised to the power of their stoichiometric coefficients divided by the concentration of the reactants raised to the power of their stoichiometric coefficients. For the reaction A + B ⇌ C + D, the correct expression for the equilibrium constant is K = [C][D]/[A][B], where [C] and [D] are the concentrations of the products and [A] and [B] are the concentrations of the reactants. Option C correctly reflects this relationship. The other options are incorrect because they either place reactant concentrations in the numerator or mix up products and reactants.",
+      "explanationImage": null,
+      "hints": [
+        "reaction",
+        "equilibrium",
+        "constant"
+      ]
+    },
+    {
+      "text": "The concentrations in an expression of the equilibrium constant are given in",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "mol/mL",
+          "isCorrect": false,
+          "explanation": "This unit is incorrect because it represents a different concentration scale. Equilibrium constants typically use mol/L."
+        },
+        {
+          "letter": "B",
+          "text": "g/L",
+          "isCorrect": false,
+          "explanation": "This unit is incorrect because it represents mass concentration, not the molar concentration used in equilibrium expressions."
+        },
+        {
+          "letter": "C",
+          "text": "gram-equivalents/L",
+          "isCorrect": false,
+          "explanation": "This unit is incorrect for equilibrium constants, as gram-equivalents are used in different contexts, such as titration."
+        },
+        {
+          "letter": "D",
+          "text": "mol/L",
+          "isCorrect": true,
+          "explanation": "The correct unit, as equilibrium constant expressions are based on molar concentrations (moles per liter)."
+        }
+      ],
+      "explanation": "The concentrations in an expression of the equilibrium constant are given in moles per liter (mol/L) because it reflects the molar concentration of species in solution, which is standard for expressing chemical equilibria. The other options such as mol/mL, g/L, and gram-equivalents/L are incorrect as they do not represent molar concentrations. Mol/mL is not typically used due to its impracticality in large-scale chemistry calculations. G/L is a mass concentration and not suitable for equilibrium constants. Gram-equivalents/L is used in titration contexts rather than equilibrium calculations.",
+      "explanationImage": null,
+      "hints": [
+        "concentrations",
+        "equilibrium",
+        "constant"
+      ]
+    },
+    {
+      "text": "In the equilibrium expression for the reaction BaSO4(s) ⇌ Ba+2(aq) + SO4-2(aq) Ksp is equal to",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "[Ba2+][SO4-2]",
+          "isCorrect": true,
+          "explanation": "This is the correct expression for the solubility product constant (Ksp), as it only includes the concentrations of the ions in solution."
+        },
+        {
+          "letter": "B",
+          "text": "[Ba2+][SO4 2−] / BaSO4",
+          "isCorrect": false,
+          "explanation": "This expression incorrectly includes the solid BaSO4 in the denominator, which should not appear in the Ksp expression as it is a pure solid."
+        },
+        {
+          "letter": "C",
+          "text": "[Ba2+][SO4 2−] / [BaSO4]",
+          "isCorrect": false,
+          "explanation": "This expression incorrectly treats BaSO4 as a concentration term in the denominator, which is not applicable since BaSO4 is a solid."
+        },
+        {
+          "letter": "D",
+          "text": "[BaSO4] / [Ba2+][SO4 2−]",
+          "isCorrect": false,
+          "explanation": "This expression inversely represents the correct Ksp expression, incorrectly placing the solid in the numerator."
+        }
+      ],
+      "explanation": "The equilibrium expression for the dissolution of a sparingly soluble salt like BaSO4 involves only the concentrations of the ions in solution. Since BaSO4 is a solid, it does not appear in the expression. Therefore, the solubility product constant, Ksp, is given by [Ba2+][SO4 2−]. Options B and C incorrectly include the solid in the expression, and D inverts the relationship.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A small value for K, the equilibrium constant, indicates that",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The concentration of the un-ionized molecules must be relatively small compared with the ion concentrations",
+          "isCorrect": false,
+          "explanation": "This reason is correct"
+        },
+        {
+          "letter": "B",
+          "text": "The concentration of the ionized molecules must be larger than the ion concentrations",
+          "isCorrect": false,
+          "explanation": "This reason is correct"
+        },
+        {
+          "letter": "C",
+          "text": "The substance ionizes to a large degree",
+          "isCorrect": false,
+          "explanation": "This reason is correct"
+        },
+        {
+          "letter": "D",
+          "text": "The concentration of the un-ionized molecules must be relatively large compared with the ion concentrations",
+          "isCorrect": true,
+          "explanation": "For Keq to be a small value, the numerator of the expression must be small compared with the denominator."
+        }
+      ],
+      "explanation": "For Keq to be a small value, the numerator of the expression must be small compared with the denominator. Because the numerator is the product of the concentrations of the ion concentrations and the denominator is the product of the un-ionized molecules, the concentration of the un-ionized molecules must be relatively large compared with the ion concentrations.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In the Haber process for making ammonia, an increase in pressure favors",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The forward reaction",
+          "isCorrect": true,
+          "explanation": "The forward reaction is favored because increasing pressure shifts the equilibrium towards the side with fewer gas molecules. In the Haber process, N2 + 3H2 ↔ 2NH3, there are four molecules on the reactant side and two on the product side, so the production of ammonia is favored."
+        },
+        {
+          "letter": "B",
+          "text": "The reverse reaction",
+          "isCorrect": false,
+          "explanation": "The reverse reaction is not favored because it would increase the number of gas molecules, which opposes the effect of increased pressure."
+        },
+        {
+          "letter": "C",
+          "text": "Neither reaction",
+          "isCorrect": false,
+          "explanation": "One of the reactions must be favored due to the change in pressure, so this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Both A and B",
+          "isCorrect": false,
+          "explanation": "Both reactions cannot be favored simultaneously under increased pressure, as the shift must favor the side with fewer gas molecules."
+        }
+      ],
+      "explanation": "The correct answer is that an increase in pressure favors the forward reaction in the Haber process. This is because the forward reaction results in fewer gas molecules: N2 + 3H2 ↔ 2NH3. With an increase in pressure, the system will adjust to minimize this change by favoring the production of fewer gas molecules, hence the forward reaction is favored. Option B is incorrect as the reverse reaction would increase the number of gas molecules, opposing the pressure increase. Option C is incorrect because the pressure change does affect equilibrium, and therefore one reaction is favored. Option D is incorrect since both reactions cannot be favored at the same time with respect to pressure changes.",
+      "explanationImage": null,
+      "hints": [
+        "Haber process",
+        "increase",
+        "pressure"
+      ]
+    },
+    {
+      "text": "Change in which of these conditions will change the K of an equilibrium given as a starting point?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Temperature",
+          "isCorrect": true,
+          "explanation": "Changing the temperature of an equilibrium reaction alters the equilibrium constant (K) because it affects the rate constants of the forward and reverse reactions differently, thereby changing the ratio of these constants."
+        },
+        {
+          "letter": "B",
+          "text": "Pressure",
+          "isCorrect": false,
+          "explanation": "While pressure changes can shift the position of equilibrium for reactions involving gases, they do not alter the equilibrium constant (K) unless the temperature is also changed."
+        },
+        {
+          "letter": "C",
+          "text": "Concentration of reactants",
+          "isCorrect": false,
+          "explanation": "Changing the concentration of reactants will shift the position of equilibrium, but it does not affect the equilibrium constant (K), which is only affected by temperature changes."
+        },
+        {
+          "letter": "D",
+          "text": "Concentration of products",
+          "isCorrect": false,
+          "explanation": "Altering the concentration of products shifts the position of equilibrium, but like reactant concentration, it does not change the equilibrium constant (K)."
+        }
+      ],
+      "explanation": "The equilibrium constant (K) is solely dependent on temperature for a given reaction. Changes in pressure or concentrations of reactants and products affect the position of equilibrium but not the value of K. Temperature changes, however, alter the rate constants of the forward and reverse reactions in different ways, thus changing the value of K.",
+      "explanationImage": null,
+      "hints": [
+        "change",
+        "conditions",
+        "K"
+      ]
+    },
+    {
+      "text": "If Ca(OH)2 is dissolved in a solution of NaOH, its solubility, compared with that in pure water, is",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increased",
+          "isCorrect": false,
+          "explanation": "The solubility cannot increase because the presence of OH– ions from NaOH will shift the equilibrium, reducing solubility."
+        },
+        {
+          "letter": "B",
+          "text": "Decreased",
+          "isCorrect": true,
+          "explanation": "Due to the common ion effect, the additional OH– ions from NaOH reduce the solubility of Ca(OH)2 by shifting the equilibrium towards the solid."
+        },
+        {
+          "letter": "C",
+          "text": "Unaffected",
+          "isCorrect": false,
+          "explanation": "The solubility is not unaffected. The presence of a common ion (OH–) affects the equilibrium, decreasing solubility."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as option B correctly explains the decrease in solubility due to the common ion effect."
+        }
+      ],
+      "explanation": "In a solution where Ca(OH)2 is dissolved in NaOH, the solubility of Ca(OH)2 decreases due to the common ion effect. The NaOH solution already contains OH– ions, which are also a product of the dissociation of Ca(OH)2. According to Le Chatelier's principle, the increased concentration of OH– ions shifts the equilibrium to favor the formation of solid Ca(OH)2, thus reducing its solubility. Option A is incorrect because solubility does not increase in the presence of a common ion. Option C is incorrect as the solubility is indeed affected by the common ion. Option D is incorrect because the correct answer has been provided in option B.",
+      "explanationImage": null,
+      "hints": [
+        "Ca(OH)<sub>2</sub>",
+        "solution of NaOH",
+        "solubility"
+      ]
+    },
+    {
+      "text": "If Kc >> 1,",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The equilibrium mixture will favor products over reactants",
+          "isCorrect": true,
+          "explanation": "When Kc is much greater than 1, it indicates that at equilibrium, the concentration of products is much greater than the concentration of reactants, meaning the equilibrium position is shifted towards the products."
+        },
+        {
+          "letter": "B",
+          "text": "The equilibrium mixture will favor reactants over products",
+          "isCorrect": false,
+          "explanation": "This would be true if Kc were much less than 1, indicating that the concentration of reactants is higher than the concentration of products at equilibrium."
+        },
+        {
+          "letter": "C",
+          "text": "The equilibrium amounts of reactants and products are equal",
+          "isCorrect": false,
+          "explanation": "This is incorrect because an equal concentration of reactants and products would correspond to Kc being approximately 1, not much greater than 1."
+        },
+        {
+          "letter": "D",
+          "text": "The reaction is irreversible",
+          "isCorrect": false,
+          "explanation": "A large Kc value does not indicate irreversibility; it only indicates a strong preference for products at equilibrium. Irreversibility implies that the reverse reaction is negligible or does not occur, which is not the same as having a large equilibrium constant."
+        }
+      ],
+      "explanation": "If Kc >> 1, this means that at equilibrium, the concentration of products is significantly higher than that of reactants. The equilibrium constant (Kc) quantifies the ratio of the concentration of products to reactants at equilibrium. A large Kc value indicates that the reaction strongly favors the formation of products. Thus, the correct answer is that the equilibrium mixture will favor products over reactants. Option B is incorrect because it describes the opposite scenario where Kc would be much less than 1. Option C is incorrect because an equal concentration of reactants and products would suggest a Kc around 1. Option D is incorrect because a large Kc does not imply irreversibility; it only shows a strong tendency towards the formation of products.",
+      "explanationImage": null,
+      "hints": [
+        "Kc",
+        ">>",
+        "1"
+      ]
+    },
+    {
+      "text": "In a certain equilibrium process, the activation energy of the forward reaction is greater than the activation energy of the reverse reaction. This reaction is",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Endothermic",
+          "isCorrect": true,
+          "explanation": "This is the correct option. In an endothermic reaction, the products have more potential energy than the reactants. Because the \"hill\" starts from a lower level for the forward reaction and a higher level for the reverse reaction, the forward activation energy is always greater than the reverse."
+        },
+        {
+          "letter": "B",
+          "text": "Exothermic",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because in an exothermic reaction, the forward activation energy is smaller than the reverse activation energy. This happens because the products are at a lower energy level than the reactants, making the \"climb\" back up much steeper for the reverse process."
+        },
+        {
+          "letter": "C",
+          "text": "Spontaneous",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the relative heights of activation energy barriers do not directly determine if a reaction is spontaneous. Spontaneity depends on the change in Gibbs free energy, which involves both enthalpy and entropy, rather than just the energy of the transition state."
+        },
+        {
+          "letter": "D",
+          "text": "Nonspontaneous",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because, similar to spontaneity, being nonspontaneous is not defined solely by the activation energy. While many endothermic reactions are nonspontaneous at low temperatures, the activation energy comparison specifically defines the heat change (enthalpy) of the reaction."
+        }
+      ],
+      "explanation": "The difference between the activation energy of the forward reaction and the reverse reaction determines the heat of reaction. When the forward activation energy is larger than the reverse, the products end up at a higher energy level than the reactants, which means energy was absorbed from the surroundings. This is the fundamental definition of an endothermic reaction.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the concentration of the Ag+ ion in a saturated solution of AgCl?(Ksp for AgCl = 1.7 × 10−10)",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.7 × 10−10 M",
+          "isCorrect": false,
+          "explanation": "This is incorrect as it directly uses the Ksp value without considering the square root needed for the concentrations of the ions."
+        },
+        {
+          "letter": "B",
+          "text": "3.4 × 10−10 M",
+          "isCorrect": false,
+          "explanation": "This is incorrect because it incorrectly doubles the Ksp value, which does not apply to the calculation of ion concentration."
+        },
+        {
+          "letter": "C",
+          "text": "1.3 × 10−5 M",
+          "isCorrect": true,
+          "explanation": "This is the correct concentration. For AgCl, Ksp = [Ag+][Cl-]. Since [Ag+] = [Cl-], let x = [Ag+] = [Cl-]. Hence, x2 = 1.7 × 10−10 and x = 1.3 × 10−5 M."
+        },
+        {
+          "letter": "D",
+          "text": "2.6 × 10−5 M",
+          "isCorrect": false,
+          "explanation": "This is incorrect because it mistakenly doubles the correct concentration, which is not supported by the stoichiometry of the dissolution of AgCl."
+        }
+      ],
+      "explanation": "The solubility product constant (Ksp) for AgCl is given by the equation Ksp = [Ag+][Cl-]. In a saturated solution of AgCl, the concentration of silver ions [Ag+] is equal to the concentration of chloride ions [Cl-]. Let this common concentration be x. Therefore, Ksp = x2. Given that Ksp = 1.7 × 10−10, we solve for x by taking the square root: x = √(1.7 × 10−10) = 1.3 × 10−5 M. This means the concentration of Ag+ ions in the saturated solution is 1.3 × 10−5 M. The other options are incorrect as they either misuse the Ksp value or misinterpret the stoichiometry of the equilibrium.",
+      "explanationImage": null,
+      "hints": [
+        "concentration",
+        "saturated solution",
+        "Ksp"
+      ]
+    },
+    {
+      "text": "Which of the following actions does NOT affect the equilibrium of a reaction?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adding/subtracting heat",
+          "isCorrect": false,
+          "explanation": "Adding or subtracting heat would shift the equilibrium based on the enthalpy change of the reaction"
+        },
+        {
+          "letter": "B",
+          "text": "Adding/removing a catalyst",
+          "isCorrect": true,
+          "explanation": "If you recall Le Châtelier’s principle, you can rule out any answer choice that would shift the direction of an equilibrium."
+        },
+        {
+          "letter": "C",
+          "text": "Increasing/decreasing concentration of reactants",
+          "isCorrect": false,
+          "explanation": "Adding reactant concentration would shift the equilibrium in the direction of the product, and the opposite would occur if concentrations were decreased."
+        },
+        {
+          "letter": "D",
+          "text": "Increasing/decreasing volume of reactants",
+          "isCorrect": false,
+          "explanation": "Changing the volume of a reactant would change its concentration, so that would have the same effect."
+        }
+      ],
+      "explanation": "The equilibrium of a reaction can be changed by several factors. If you recall Le Châtelier’s principle, you can rule out any answer choice that would shift the direction of an equilibrium. Adding or subtracting heat would shift the equilibrium based on the enthalpy change of the reaction. Adding reactant concentration would shift the equilibrium in the direction of the product, and the opposite would occur if concentrations were decreased. Changing the volume of a reactant would change its concentration, so that would have the same effect. Only (B), adding or removing a catalyst, would change the reaction rate without changing where the equilibrium lies.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The equilibrium constant Kp in the chemical equation H2 (g) + I2 (g) ⇌ 2HI (g) is determined by:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Total pressure",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the equilibrium constant is a ratio that remains the same even if you change the total pressure of the system. While pressure might shift the position of equilibrium in some reactions, it never changes the numerical value of KP."
+        },
+        {
+          "letter": "B",
+          "text": "Catalyst utilized",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because a catalyst only increases the speed at which equilibrium is reached. It lowers the activation energy for both the forward and reverse reactions equally, so it has no effect on the final ratio of products to reactants."
+        },
+        {
+          "letter": "C",
+          "text": "Amount of H2 and I2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because changing the initial amounts or concentrations of reactants only changes the equilibrium \"position\" (how much of each substance is present). The ratio of these substances, as defined by the KP expression, will always simplify back to the same constant value."
+        },
+        {
+          "letter": "D",
+          "text": "Temperature",
+          "isCorrect": true,
+          "explanation": "This is the correct option. The equilibrium constant is a temperature-dependent value. Since chemical reactions involve the absorption or release of heat, changing the temperature provides or removes energy, which fundamentally alters the balance of the reaction and results in a new KP value."
+        }
+      ],
+      "explanation": "The equilibrium constant is a characteristic property of a specific chemical reaction. For the reaction between hydrogen and iodine, KP is a mathematical constant that only changes if the temperature of the system is modified. Factors like pressure, volume, or the addition of a catalyst do not change this value because they do not alter the energy levels or the nature of the chemical species involved.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The solubility product constant Ca(OH)2 is 5.02 *10-5. What is the solubility of this compound?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Solution and Colloids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.020M",
+          "isCorrect": false,
+          "explanation": "The given explanation and calculation shows that this is not the correct answer."
+        },
+        {
+          "letter": "B",
+          "text": "0.012M",
+          "isCorrect": false,
+          "explanation": "The given explanation and calculation shows that this is not the correct answer."
+        },
+        {
+          "letter": "C",
+          "text": "0.023M",
+          "isCorrect": true,
+          "explanation": "Solubility is the ability of a solute to dissolve into a solvent. It is calculated by creating an equilibrium equation and solving for the concentration of dissolved ions.For this question, we will need to set up the equilibrium constant equation for calcium hydroxide.Ca(OH)2⇌Ca2++2OH−; Ksp=[Ca2+][OH−]Note that the solid compound is not included in the equilibrium expression. Now we can work on finding solubility. For each mole of calcium hydroxide dissolved, one mole of calcium ions and two moles of hydroxide ions are released. Mathematically, we can equate this ratio to the ion concentrations in the equilibrium calculation.Ca(OH2): Ksp=5.02∗10−5=(x)(2x)2In this calculation, x is the solubility. Given the solubility constant, we can solve for x.5.02∗10−5=4x3→xCa(OH)2=0.023M"
+        },
+        {
+          "letter": "D",
+          "text": "0.037M",
+          "isCorrect": false,
+          "explanation": "The given explanation and calculation shows that this is not the correct answer."
+        }
+      ],
+      "explanation": "Solubility is the ability of a solute to dissolve into a solvent. It is calculated by creating an equilibrium equation and solving for the concentration of dissolved ions.For this question, we will need to set up the equilibrium constant equation for calcium hydroxide.Ca(OH)2⇌Ca2++2OH−; Ksp=[Ca2+][OH−]Note that the solid compound is not included in the equilibrium expression. Now we can work on finding solubility. For each mole of calcium hydroxide dissolved, one mole of calcium ions and two moles of hydroxide ions are released. Mathematically, we can equate this ratio to the ion concentrations in the equilibrium calculation.Ca(OH2): Ksp=5.02∗10−5=(x)(2x)2In this calculation, x is the solubility. Given the solubility constant, we can solve for x.5.02∗10−5=4x3→xCa(OH)2=0.023M",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In a reversible reaction, catalyst lowers the activation energy of the:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": 2020,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Forward reaction",
+          "isCorrect": false,
+          "explanation": "In a reversible reaction, the catalyst will not only lower the energy of the forward reaction only. This is because a catalyst speeds up the forward and back reaction to the same extent."
+        },
+        {
+          "letter": "B",
+          "text": "Reverse reaction",
+          "isCorrect": false,
+          "explanation": "A catalyst is a substance that increases the rate of a reaction without being altered or used up in the reaction. Both the forward and reverse rates of the reaction are accelerated by a catalyst."
+        },
+        {
+          "letter": "C",
+          "text": "Forward as well as reverse reaction",
+          "isCorrect": true,
+          "explanation": "The rate of a reaction can be increased by adding a suitable catalyst. A catalyst is a substance which increases the rate of a chemical reaction but it is not used up (remains chemically unchanged at the end). It provides an alternative reaction pathway of lower activation energy. In equilibrium reactions, whenever a catalyst is added it will effect both the forward and reverse reactions equally and thus allow the system to reach equilibrium faster."
+        },
+        {
+          "letter": "D",
+          "text": "Forward reaction but increases that of the reverse reaction",
+          "isCorrect": false,
+          "explanation": "As mentioned in the above statements, a catalyst cannot affect one part of the reaction without having any effect on the other side of the reaction. Thus, this option is incorrect as catalyst cannot decrease the rate of forward reaction increasing the rate of reverse reaction."
+        }
+      ],
+      "explanation": "In the presence of a catalyst, both the forward and reverse reaction activation energy will decrease equally, thereby allowing the system to reach equilibrium faster. However, it is very important to keep in mind that the addition of a catalyst has no effect whatsoever on the final equilibrium position of the reaction.",
+      "explanationImage": null,
+      "hints": [
+        "reversible reaction",
+        "catalyst",
+        "lowers the activation energy"
+      ]
+    },
+    {
+      "text": "Rate at which reaction proceeds is directly proportional to",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "concentration of products",
+          "isCorrect": false,
+          "explanation": "It depends on the concentration of reactants"
+        },
+        {
+          "letter": "B",
+          "text": "concentration of reactants",
+          "isCorrect": true,
+          "explanation": "According to law of mass action, rate is directly proportional to the product of the active masses of the reaction or the molar concentrations of the reactants"
+        },
+        {
+          "letter": "C",
+          "text": "Volume of reactants",
+          "isCorrect": false,
+          "explanation": "depends on the concentration of reactants"
+        },
+        {
+          "letter": "D",
+          "text": "Volume of products",
+          "isCorrect": false,
+          "explanation": "It depends on the concentration of reactants"
+        }
+      ],
+      "explanation": "It depends on the concentration of reactants According to law of mass action, rate is directly proportional to the product of the active masses of the reaction or the molar concentrations of the reactantsIt depends on the concentration of reactants It depends on the concentration of reactants",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Just before reversible reaction attains equilibrium it is found that",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The velocity of forward reaction increasing and that of backward reaction decreasing",
+          "isCorrect": false,
+          "explanation": "This is false because the reactants keep getting consumed and hence the forward velocity should decrease"
+        },
+        {
+          "letter": "B",
+          "text": "The velocity of forward reaction is decreasing and that of backward reaction is increasing",
+          "isCorrect": true,
+          "explanation": "This statement is correct as , the reaction proceeds towards equilibrium concentration of reactants decreases as they are being converted into products and hence the velocity of forward reaction decreases. Also ,conc. Of products increases and hence the velocity of backward reaction increases as they are being converted to reactants"
+        },
+        {
+          "letter": "C",
+          "text": "Velocity of both reactions is decreasing",
+          "isCorrect": false,
+          "explanation": "This is not true because if this would have been the case the net rate would not have been able to reach zero which is an essential condition for dynamic equilibrium"
+        },
+        {
+          "letter": "D",
+          "text": "Velocity of both reactions is increasing",
+          "isCorrect": false,
+          "explanation": "This is not true because if this would have been the case the net rate would not have been able to reach zero which is an essential condition for dynamic equilibrium"
+        }
+      ],
+      "explanation": "This is false because the reactants keep getting consumed and hence the forward velocity should decrease This statement is correct as , the reaction proceeds towards equilibrium concentration of reactants decreases as they are being converted into products and hence the velocity of forward reaction decreases. Also ,conc. Of products increases and hence the velocity of backward reaction increases as they are being converted to reactants This is not true because if this would have been the case the net rate would not have been able to reach zero which is an essential condition for dynamic equilibrium This is not true because if this would have been the case the net rate would not have been able to reach zero which is an essential condition for dynamic equilibrium",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The value of kc is changed by change in temperature because:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reactants become more reactive than products",
+          "isCorrect": false,
+          "explanation": "A change in temperature does not directly affect the reactivity of the reactants or products.(option A is incorrect)."
+        },
+        {
+          "letter": "B",
+          "text": "The rate of reaction is increased",
+          "isCorrect": false,
+          "explanation": "It also does not directly change the rate of the reaction (option B is incorrect)."
+        },
+        {
+          "letter": "C",
+          "text": "The activation energy of reaction is decreased",
+          "isCorrect": false,
+          "explanation": "Additionally, the activation energy of the reaction remains the same irrespective of the temperature (option C is incorrect)."
+        },
+        {
+          "letter": "D",
+          "text": "Equilibrium position shift without any substance being added or removed",
+          "isCorrect": true,
+          "explanation": "The value of Kc, is a constant at a given temperature and represents the ratio of the concentrations of products to the concentrations of reactants at equilibrium. It indicates the extent to which a reaction proceeds in the forward or reverse direction. When the temperature of a system at equilibrium is changed, it affects the equilibrium position. According to Le Chatelier's principle, a system at equilibrium will respond to a change by shifting the equilibrium position in a way that minimizes the effect of the change. In the case of a change in temperature, the system will shift in the direction that either absorbs or releases heat. If the temperature is increased, the system will shift in the endothermic direction to consume the excess heat. This means that the value of Kc will decrease. Conversely, if the temperature is decreased, the system will shift in the exothermic direction to produce more heat, resulting in an increase in the value of Kc."
+        }
+      ],
+      "explanation": "The value of Kc, is a constant at a given temperature and represents the ratio of the concentrations of products to the concentrations of reactants at equilibrium. It indicates the extent to which a reaction proceeds in the forward or reverse direction. When the temperature of a system at equilibrium is changed, it affects the equilibrium position. According to Le Chatelier's principle, a system at equilibrium will respond to a change by shifting the equilibrium position in a way that minimizes the effect of the change. In the case of a change in temperature, the system will shift in the direction that either absorbs or releases heat. If the temperature is increased, the system will shift in the endothermic direction to consume the excess heat. This means that the value of Kc will decrease. Conversely, if the temperature is decreased, the system will shift in the exothermic direction to produce more heat, resulting in an increase in the value of Kc.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The rate constant for forward and backward reaction of hydrolysis of esters are 1 × 10-2 and 2×10-3 respectively. The equilibrium constant of the reaction is:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "isCorrect": true,
+          "explanation": "The equilibrium constant (K) is defined as the ratio of the rate constants for the forward and backward reactions: K = kf / kb Given that the rate constant for the forward reaction (k_f) is 1 × 10-2 and the rate constant for the backward reaction (k_b) is 2 × 10-3, we can substitute these values into the equation: K = (1 × 10-2) / (2 × 10-3) = 5 Therefore, the equilibrium constant (K) for the hydrolysis of esters is 5."
+        },
+        {
+          "letter": "D",
+          "text": "6",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The equilibrium constant (K) is defined as the ratio of the rate constants for the forward and backward reactions: K = kf / kb Given that the rate constant for the forward reaction (k_f) is 1 × 10-2 and the rate constant for the backward reaction (k_b) is 2 × 10-3, we can substitute these values into the equation: K = (1 × 10-2) / (2 × 10-3) = 5 Therefore, the equilibrium constant (K) for the hydrolysis of esters is 5.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A small value of Kc suggest that position of equilibrium",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Is constantly changing",
+          "isCorrect": false,
+          "explanation": "Position of equilibrium only changes upon change in concentration,pressure and temperature. Small value of kc does not specifically imply that any of these changes are occurring. Dynamic equilibrium is maintained"
+        },
+        {
+          "letter": "B",
+          "text": "Lies towards left",
+          "isCorrect": true,
+          "explanation": "Kc is the ratio of product over reactants, hence a smaller kc suggests that equilibrium lies towards the reactants side i.e left side , and favours backwards reaction"
+        },
+        {
+          "letter": "C",
+          "text": "Remains same after adding reactant",
+          "isCorrect": false,
+          "explanation": "According to le Chatelier’s principle , adding reactant moves the equilibrium towards product side and hence kc value must be greater"
+        },
+        {
+          "letter": "D",
+          "text": "Independent of T",
+          "isCorrect": false,
+          "explanation": "Kc depends on Temperature"
+        }
+      ],
+      "explanation": "Kc is the ratio of product over reactants, hence a smaller kc suggests that equilibrium lies towards the reactants side i.e left side , and favours backwards reaction",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Just before reversible reaction attains equilibrium it is found that",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The velocity of forward reaction increasing and that of backward reaction decreasing",
+          "isCorrect": false,
+          "explanation": "This is false because the reactants keep getting consumed and hence the forward velocity should decrease"
+        },
+        {
+          "letter": "B",
+          "text": "The velocity of forward reaction is decreasing and that of backward reaction is increasing",
+          "isCorrect": true,
+          "explanation": "This statement is correct as , the reaction proceeds towards equilibrium concentration of reactants decreases as they are being converted into products and hence the velocity of forward reaction decreases. Also ,conc. Of products increases and hence the velocity of backward reaction increases as they are being converted to reactants"
+        },
+        {
+          "letter": "C",
+          "text": "Velocity of both reactions is decreasing",
+          "isCorrect": false,
+          "explanation": "This is not true because if this would have been the case the net rate would not have been able to reach zero which is an essential condition for dynamic equilibrium"
+        },
+        {
+          "letter": "D",
+          "text": "Velocity of both reactions is increasing",
+          "isCorrect": false,
+          "explanation": "This is not true because if this would have been the case the net rate would not have been able to reach zero which is an essential condition for dynamic equilibrium"
+        }
+      ],
+      "explanation": "This statement is correct as , the reaction proceeds towards equilibrium concentration of reactants decreases as they are being converted into products and hence the velocity of forward reaction decreases. Also ,conc. Of products increases and hence the velocity of backward reaction increases as they are being converted to reactants",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A chemist who who is concerned with large scale manufacture of useful compounds is primarily interested in",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Minimizing the energy consumption",
+          "isCorrect": false,
+          "explanation": "This is not a concern for the chemist considering that his yield will compensate for the energy consumption."
+        },
+        {
+          "letter": "B",
+          "text": "Minimizing the reverse reaction",
+          "isCorrect": true,
+          "explanation": "A manufacturer will need maximum number of the products to cover his expenses so , he will minimize the reverse reaction."
+        },
+        {
+          "letter": "C",
+          "text": "Maximize the backward reaction",
+          "isCorrect": false,
+          "explanation": "Maximizing the backward reaction , will not give him the best yield hence being at a disadvantage."
+        },
+        {
+          "letter": "D",
+          "text": "Decrease the acidity of products",
+          "isCorrect": false,
+          "explanation": "It will have no effect on yield."
+        }
+      ],
+      "explanation": "A manufacturer will need maximum number of the products to cover his expenses so , he will minimize the reverse reaction.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Aqueous solutions of BiCl3 is Cloudy because of?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Condensation",
+          "isCorrect": false,
+          "explanation": "Condensation refers to the process where gas turns into a liquid. This does not apply to the cloudiness observed in BiCl3 solutions."
+        },
+        {
+          "letter": "B",
+          "text": "Hydrolysis",
+          "isCorrect": true,
+          "explanation": "This is the correct option. Hydrolysis is the chemical process where a compound reacts with water, causing the formation of a cloudy solution due to the formation of bismuth oxychloride."
+        },
+        {
+          "letter": "C",
+          "text": "Reversible reaction",
+          "isCorrect": false,
+          "explanation": "While some chemical reactions are reversible, this does not explain the cloudiness in BiCl3 solutions. The cloudiness is specifically due to hydrolysis."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "This option suggests no process is responsible, which is incorrect as hydrolysis is the cause of the cloudiness."
+        }
+      ],
+      "explanation": "BiCl3 in aqueous solution undergoes hydrolysis, leading to the formation of insoluble bismuth oxychloride, which causes the solution to appear cloudy. Condensation does not occur in this context as it involves phase changes between gas and liquid. The concept of a reversible reaction does not directly explain the cloudiness. Option 'None' is incorrect because it implies no explanation, whereas hydrolysis clearly accounts for the observed phenomenon.",
+      "explanationImage": null,
+      "hints": [
+        "Aqueous",
+        "BiCl<sub>3</sub>"
+      ]
+    },
+    {
+      "text": "Which statement is false in case of equilibrium state?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "There is no apparent change in the properties with time.",
+          "isCorrect": false,
+          "explanation": "It is correct as both forward and backward reactions occur at all times with same speed."
+        },
+        {
+          "letter": "B",
+          "text": "It is dynamic in nature since both forward and backward reactions occur at all times with same speed.",
+          "isCorrect": false,
+          "explanation": "It is true for dynamic equilibrium."
+        },
+        {
+          "letter": "C",
+          "text": "It can be attained from either side of the reaction.",
+          "isCorrect": false,
+          "explanation": "It is true. Whether starting from reactants or products, the system moves towards the same equilibrium composition."
+        },
+        {
+          "letter": "D",
+          "text": "It does not change with temperature.",
+          "isCorrect": true,
+          "explanation": "Equilibrium is affected by change in temperature as per what Le-Chatelier's principle stated depending whether the reaction is exothermic or endothermic."
+        }
+      ],
+      "explanation": "The equilibrium constant and thus equilibrium position do depend on temperature.Changing temperature shifts equilibrium and changes concentrations.",
+      "explanationImage": null,
+      "hints": [
+        "false"
+      ]
+    },
+    {
+      "text": "Every exothermic reaction is endo in —--- direction:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Forward",
+          "isCorrect": false,
+          "explanation": "Every exothermic reaction is exo in forward direction.Hence this is not the correct option"
+        },
+        {
+          "letter": "B",
+          "text": "Reverse",
+          "isCorrect": true,
+          "explanation": "Every exothermic reaction is endo in backward direction. Hence this is the correct option"
+        },
+        {
+          "letter": "C",
+          "text": "Dynamic equilibrium",
+          "isCorrect": false,
+          "explanation": "At dynamic equilibrium , the rate of exothermic reaction and endothermic reaction is equal.Hence this is not the correct option"
+        },
+        {
+          "letter": "D",
+          "text": "All are possible",
+          "isCorrect": false,
+          "explanation": "Option a and c are wrong"
+        }
+      ],
+      "explanation": "Every exothermic reaction is exo in forward direction.Hence this is not the correct option Every exothermic reaction is endo in backward direction. Hence this is the correct option At dynamic equilibrium , the rate of exothermic reaction and endothermic reaction is equal.Hence this is not the correct option Option a and c are wrong",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "For a reversible reaction the value of Kc is 4, if the concentration of products is reduced to half, then the value of Kc for that reaction at constant temperature will be:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The value of Kc is not affected by changes in concentration of reactants or products as long as the temperature remains constant."
+        },
+        {
+          "letter": "B",
+          "text": "1.5",
+          "isCorrect": false,
+          "explanation": "This would imply that Kc decreases in a non-proportional way with concentration changes, which is not true.Changing product concentration affects the reaction quotient Q, not Kc."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "This suggests a partial change in Kc, which again is wrong — Kc is independent of how much product or reactant you currently have at the moment."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "isCorrect": true,
+          "explanation": "Kc stays at 4 because it depends only on temperature for a given reaction.If you reduce products to half, the reaction will shift forward to make more products, but the Kc value itself won’t change."
+        }
+      ],
+      "explanation": "The equilibrium constant (Kc ) for a given reaction depends only on temperature. Changing the concentrations of reactants or products will shift the equilibrium position to re establish the same Kc value, but Kc itself does not change",
+      "explanationImage": null,
+      "hints": [
+        "reversible",
+        "constant temperature"
+      ]
+    },
+    {
+      "text": "The role of catalyst in reversible reaction is to :",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Alter the equilibrium constant of reaction",
+          "isCorrect": false,
+          "explanation": "In a reversible reaction, a catalyst does not alter the equilibrium constant of the reaction (Option A).The equilibrium constant is determined solely by the nature and temperature of the reaction, and the presence of a catalyst does not change this constant."
+        },
+        {
+          "letter": "B",
+          "text": "Increase the rate of forward reaction",
+          "isCorrect": false,
+          "explanation": "A catalyst does increase the rate of the forward reaction (Option B) by providing an alternative reaction pathway with lower activation energy. This allows the reactants to convert into products more quickly. However, a catalyst affects both the forward and backward reactions equally, so it does not favor one direction over the other. Therefore, it does not decrease the rate of the backward reaction (Option D) either."
+        },
+        {
+          "letter": "C",
+          "text": "Allow the equilibrium to be achieved quickly",
+          "isCorrect": true,
+          "explanation": "The primary role of a catalyst in a reversible reaction is to speed up the attainment of equilibrium (Option C). By lowering the activation energy for both the forward and backward reactions, the catalyst facilitates the conversion of reactants to products and vice versa. This acceleration enables the system to reach equilibrium more rapidly."
+        },
+        {
+          "letter": "D",
+          "text": "Decrease the rate of backward reaction",
+          "isCorrect": false,
+          "explanation": "As a catalyst affects both the forward and backward reactions equally, so it does not favor one direction over the other. Therefore, it does not decrease the rate of the backward reaction (Option D) either."
+        }
+      ],
+      "explanation": "The primary role of a catalyst in a reversible reaction is to speed up the attainment of equilibrium (Option C). By lowering the activation energy for both the forward and backward reactions, the catalyst facilitates the conversion of reactants to products and vice versa. This acceleration enables the system to reach equilibrium more rapidly.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A chemical reaction in which products formed are stable at the temperature at which reaction is taking place is called",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Forward reaction",
+          "isCorrect": false,
+          "explanation": "The forward reaction refers to the direction in which the reactants convert into products. It does not necessarily imply stability or irreversibility. The forward reaction can be part of a reversible or irreversible process, depending on the stability of the products."
+        },
+        {
+          "letter": "B",
+          "text": "Irreversible reaction",
+          "isCorrect": true,
+          "explanation": "An irreversible reaction is one in which the products formed are stable at the temperature at which the reaction is taking place. In other words, once the reaction has occurred and the products have formed, they will not convert back to the original reactants under the given conditions. Irreversible reactions typically proceed in one direction only, from reactants to products."
+        },
+        {
+          "letter": "C",
+          "text": "Backward reaction",
+          "isCorrect": false,
+          "explanation": "The backward reaction, also known as the reverse reaction, is the conversion of products back into reactants. This option does not describe the stability of the products or the irreversibility of the reaction. The backward reaction can occur in both reversible and irreversible reactions."
+        },
+        {
+          "letter": "D",
+          "text": "Reversible reaction",
+          "isCorrect": false,
+          "explanation": "A reversible reaction is one in which the products formed can convert back into the original reactants under suitable conditions, such as changes in temperature, pressure, or concentration. This option does not align with the information provided, as it implies the possibility of converting back to reactants. Reversible reactions establish a dynamic equilibrium where the forward and backward reactions occur simultaneously."
+        }
+      ],
+      "explanation": "An irreversible reaction is one in which the products formed are stable at the temperature at which the reaction is taking place. In other words, once the reaction has occurred and the products have formed, they will not convert back to the original reactants under the given conditions. Irreversible reactions typically proceed in one direction only, from reactants to products.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is correct statement about kc?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "May or may not have a unit",
+          "isCorrect": false,
+          "explanation": "If the number of products is equal to the number of reactants in the balanced equation then units may cancel off and it may no have a unitEg; A+B ⇌ C+ kc=[C][D]/[A][B] KC = no unitsIf the number of reactants is unequal to the number of products then units will not cancel off2A+ B —--> C+DAs the number of moles reactants and products are not equal so in this case tbe unit of kc will be mol- dm3 (per mole decimeter cube)."
+        },
+        {
+          "letter": "B",
+          "text": "Depends upon equilibrium concentrations",
+          "isCorrect": false,
+          "explanation": "Kc is independent of concentrations. It only depends on Temperature."
+        },
+        {
+          "letter": "C",
+          "text": "Thermodynamic property",
+          "isCorrect": false,
+          "explanation": "Kc is related to the Gibbs free energy change (ΔG∘) and depends only on temperature — making it a thermodynamic property"
+        },
+        {
+          "letter": "D",
+          "text": "Both option A and C",
+          "isCorrect": true,
+          "explanation": "In both cases, whether the units cancel or not, the value of Kc​ for a given reaction at a specific temperature does not depend on the starting concentrations. It only changes if temperature changes, because temperature affects the equilibrium position through the reaction’s enthalpy change."
+        }
+      ],
+      "explanation": "Kc​ is linked to Gibbs free energy change:ΔG∘=−RTln⁡K This means Kc​ depends only on temperature (for a given reaction).Since thermodynamic properties describe equilibrium behavior and depend on state variables (T, P), Kc​ qualifies as a thermodynamic constant.And Kc may or may not have an units",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Rate at which reaction proceeds is directly proportional to:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Concentration of products",
+          "isCorrect": false,
+          "explanation": "It depends on the concentration of reactants"
+        },
+        {
+          "letter": "B",
+          "text": "Concentration of reactants",
+          "isCorrect": true,
+          "explanation": "According to law of mass action, rate is directly proportional to the product of the active masses of the reaction or the molar concentrations of the reactants"
+        },
+        {
+          "letter": "C",
+          "text": "Volume of reactants",
+          "isCorrect": false,
+          "explanation": "It depends on the concentration of reactants"
+        },
+        {
+          "letter": "D",
+          "text": "Volume of products",
+          "isCorrect": false,
+          "explanation": "It depends on the concentration of reactants"
+        }
+      ],
+      "explanation": "According to law of mass action, rate is directly proportional to the product of the active masses of the reaction or the molar concentrations of the reactants",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "While observing effects of change in concentration BiCl3 reacts with water to give BiOCl which is?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "White soluble",
+          "isCorrect": false,
+          "explanation": "BiOCl is not soluble in water, so this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Pink soluble",
+          "isCorrect": false,
+          "explanation": "BiOCl is not pink and not soluble in water, so this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Pink insoluble",
+          "isCorrect": false,
+          "explanation": "BiOCl is not pink; it is white, so this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "White insoluble",
+          "isCorrect": true,
+          "explanation": "This is the correct option. BiOCl is a white insoluble compound formed when BiCl3 reacts with water."
+        }
+      ],
+      "explanation": "When BiCl3 reacts with water, it forms a white insoluble compound called BiOCl. This characteristic arises because BiOCl precipitates out of the solution due to its low solubility in water. The options suggesting 'pink' or 'soluble' are incorrect because BiOCl is not pink and is insoluble in water.",
+      "explanationImage": null,
+      "hints": [
+        "BiCl<sub>3</sub>",
+        "reacts",
+        "BiOCl"
+      ]
+    },
+    {
+      "text": "Every exothermic reaction is endo in _ direction:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Forward",
+          "isCorrect": false,
+          "explanation": "Every exothermic reaction is exo in forward direction.Hence this is not the correct option"
+        },
+        {
+          "letter": "B",
+          "text": "Reverse",
+          "isCorrect": true,
+          "explanation": "Every exothermic reaction is endo in backward direction. Hence this is the correct option"
+        },
+        {
+          "letter": "C",
+          "text": "Dynamic equilibrium",
+          "isCorrect": false,
+          "explanation": "At dynamic equilibrium , the rate of exothermic reaction and endothermic reaction is equal.Hence this is not the correct option"
+        },
+        {
+          "letter": "D",
+          "text": "All are possible",
+          "isCorrect": false,
+          "explanation": "Option a and c are wrong"
+        }
+      ],
+      "explanation": "Every exothermic reaction is endo in backward direction. Hence this is the correct option",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Law of mass action was derived by:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": 2014,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Newton",
+          "isCorrect": false,
+          "explanation": "Law of mass action was not derived by Newton, so they are incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "CM Guldberg",
+          "isCorrect": false,
+          "explanation": "Law of mass action was not derived by this scientist, so they are incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "P Waage",
+          "isCorrect": false,
+          "explanation": "Law of mass action was not derived by this scientists, so they are incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "CM Guldberg and P Waage",
+          "isCorrect": true,
+          "explanation": "Peter Waage and Cato Guldberg both derived the law of mass action."
+        }
+      ],
+      "explanation": "The law of mass action states that the rate of a chemical reaction is proportional to the product of the concentrations of the reactants. It was formulated by the Norwegian chemists C.M. Guldberg and P. Waage in the 19th century.",
+      "explanationImage": null,
+      "hints": [
+        "Law of mass action",
+        "derived by"
+      ]
+    },
+    {
+      "text": "The density of water is close to?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "It's not possible as volume of 1g of water is 1. Hence, density is 1"
+        },
+        {
+          "letter": "B",
+          "text": "Infinity",
+          "isCorrect": false,
+          "explanation": "It is not true because for this the volume of 1g of water must be zero which is not possible because every matter has mass and volume"
+        },
+        {
+          "letter": "C",
+          "text": "Unity",
+          "isCorrect": true,
+          "explanation": "density=m/v . mass of one cm-3 of water is approx 1g.hence, 1/1=1"
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "It is not true because for this the mass of 1cm-3 of water must be 0 gram which is not possible because every matter has mass and volume"
+        }
+      ],
+      "explanation": "density=m/v . mass of one cm-3 of water is approx 1g.hence, 1/1=1",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The Kc units for the reaction N2 (g) + 3H2 (g) -> 2NH3 (g) are:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "mol-1dm6",
+          "isCorrect": false,
+          "explanation": "According to solution this option is not correct."
+        },
+        {
+          "letter": "B",
+          "text": "mol-2dm3",
+          "isCorrect": false,
+          "explanation": "According to solution this option is not correct."
+        },
+        {
+          "letter": "C",
+          "text": "mol-2dm6",
+          "isCorrect": true,
+          "explanation": "According to solution this option is correct."
+        },
+        {
+          "letter": "D",
+          "text": "mol-1dm3",
+          "isCorrect": false,
+          "explanation": "According to solution this option is not correct."
+        }
+      ],
+      "explanation": "The Kc units for the reaction N2 (g) + 3H2 (g) -> 2NH3 (g) are derived from the equilibrium constant expression for the reaction. The equilibrium constant expression for a reaction is given by: Kc = [NH3]^2 / [N2] * [H2]^3 In this case, the reaction involves gases, so the concentrations of the gases are used in the equilibrium constant expression. The square brackets denote the molar concentrations of the respective species. Therefore, the Kc units for this reaction would be (mol/L)^2 / (mol/L) * (mol/L)^3, which simplifies to mol^-2. So, the units for the equilibrium constant Kc for this reaction are mol^-2. This is consistent with option C.",
+      "explanationImage": null,
+      "hints": [
+        "K\nc units",
+        "reaction",
+        "N\n2 (g) + 3H\n2 (g) -> 2NH\n3 (g)"
+      ]
+    },
+    {
+      "text": "Which of the following has the highest value of pKa?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "CH3 - CH2OH",
+          "isCorrect": false,
+          "explanation": "This is ethanol, a weak acid with a moderate pKa value around 16. Its acidity is due to the presence of the hydroxyl (-OH) group."
+        },
+        {
+          "letter": "B",
+          "text": "CI - CH2 - CH2OH",
+          "isCorrect": false,
+          "explanation": "This is 2-chloroethanol. The presence of the electron-withdrawing chlorine atom increases the acidity of the alcohol, leading to a lower pKa than ethanol."
+        },
+        {
+          "letter": "C",
+          "text": "F3C - CH2 - OH",
+          "isCorrect": false,
+          "explanation": "This is trifluoroethanol. The three fluorine atoms are highly electronegative and greatly stabilize the conjugate base, resulting in a lower pKa value compared to ethanol."
+        },
+        {
+          "letter": "D",
+          "text": "CH3 - CH(CH3) - CH2OH",
+          "isCorrect": true,
+          "explanation": "This is 2-propanol, a tertiary alcohol. Tertiary alcohols are generally less acidic than primary or secondary alcohols, leading to a higher pKa value, making it the correct answer."
+        }
+      ],
+      "explanation": "To find which compound has the highest pKa, we need to identify the weakest acid among the choices. pKa is inversely related to acidity: a higher pKa indicates a weaker acid. In this case:Option A (ethanol) has a moderate acidity.Option B (2-chloroethanol) has increased acidity due to the electronegative chlorine atom, resulting in a lower pKa.Option C (trifluoroethanol) is even more acidic due to the presence of three fluorine atoms, which significantly stabilize the conjugate base, leading to a very low pKa.Option D (2-propanol) is a tertiary alcohol, which is less acidic than both ethanol and the halogenated alcohols, making it the correct answer with the highest pKa.Thus, the correct answer is Option D.",
+      "explanationImage": null,
+      "hints": [
+        "highest value",
+        "pK<sub>a</sub>"
+      ]
+    },
+    {
+      "text": "If the value of Kc is very large then it shows that _completed.",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Forward reaction",
+          "isCorrect": true,
+          "explanation": "The equilibrium constant Kc is defined as the ratio of product of concentrations of products to the product of concentration of reactants i.e. the ratio of the two rate constants Kc=[products]/[reactants] When the value of Kc is large it shows that [P]>[R] and so the forward reaction has completed."
+        },
+        {
+          "letter": "B",
+          "text": "Reverse reaction",
+          "isCorrect": false,
+          "explanation": "The equilibrium constant Kc is defined as the ratio of product of concentrations of products to the product of concentration of reactants i.e. the ratio of the two rate constantsKc=[products]/[reactants]When the value of Kc is large it shows that [P]>[R] and so the forward reaction has completed."
+        },
+        {
+          "letter": "C",
+          "text": "Equilibrium is maintained",
+          "isCorrect": false,
+          "explanation": "The equilibrium constant Kc is defined as the ratio of product of concentrations of products to the product of concentration of reactants i.e. the ratio of the two rate constantsKc=[products]/[reactants]When the value of Kc is large it shows that [P]>[R] and so the forward reaction has completed."
+        },
+        {
+          "letter": "D",
+          "text": "Kc is moderate",
+          "isCorrect": false,
+          "explanation": "The equilibrium constant Kc is defined as the ratio of product of concentrations of products to the product of concentration of reactants i.e. the ratio of the two rate constantsKc=[products]/[reactants]When the value of Kc is large it shows that [P]>[R] and so the forward reaction has completed."
+        }
+      ],
+      "explanation": "Kc=[product]/[reactant], now if the Kc value is very large, we can use the equation to conclude that the concentration of products are higher than reactants, depicting that the forward reaction has completed or is near completion.",
+      "explanationImage": null,
+      "hints": [
+        "large",
+        "completed"
+      ]
+    },
+    {
+      "text": "A very small value of 'Kc' for a reaction at equilibrium indicates:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Very small amount of reactants",
+          "isCorrect": false,
+          "explanation": "There will be large amount of reactants."
+        },
+        {
+          "letter": "B",
+          "text": "Very small amount of products",
+          "isCorrect": true,
+          "explanation": "The equilibrium constant Kc indicates the ratio of the concentration of all substances involved in a chemical equilibrium reaction. It is used in particular in connection with the law of mass action. That is why it is often referred to as the mass action constant, more rarely as the equilibrium constant. In contrast to the position of the equilibrium, the value of the equilibrium constant depends only on the temperature and not on the concentration or the pressure. Kc= Concentration of products/ Concentration of reactants Specifically, for any reversible reaction at equilibrium aA + bB ⇄ cC + dD The equilibrium constant, Keq Or KC, is Kc = [C]c [D]d / [A]a [B]b The larger value of the equilibrium constant (>103) shows that forward reaction is favored i.e. the concentration of products is much larger than that of the reactants at equilibrium.For an example let's take an example of having products(numerator) greater than reactants(denominator) , obviously we will get positive and enough value of Kc , it means product are greater in concentration when Kc value is large. Intermediate value of equilibrium constant (10-3 to 103) show that the concentration of the reactants and products are comparable. Low value of equilibrium constant (<10-3) shows that backward reaction is favored i.e. concentration of reactants is much larger than that of products i.e. the reaction proceeds to a very small extent in the forward direction."
+        },
+        {
+          "letter": "C",
+          "text": "The rate of backward reaction is greater than that of the forward one",
+          "isCorrect": false,
+          "explanation": "At equilibrium rate of forward and reverse reactions are equal."
+        },
+        {
+          "letter": "D",
+          "text": "The rate of forward reaction is greater than that of the backward one",
+          "isCorrect": false,
+          "explanation": "At equilibrium rate of forward and reverse reactions are equal."
+        }
+      ],
+      "explanation": "If 'Kc' is a small number, it means that the equilibrium concentration of the reactants is large while that are products is small. In this case, the reaction, as written, will proceed to the left (resulting in an increase in the concentration of reactants).",
+      "explanationImage": null,
+      "hints": [
+        "small value of 'K\nc",
+        "equilibrium indicates:"
+      ]
+    },
+    {
+      "text": "A small value of Kc suggest that position of equilibrium",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "is constantly changing",
+          "isCorrect": false,
+          "explanation": "Position of equilibrium only changes upon change in concentration,pressure and temperature. Small value of kc does not specifically imply that any of these changes are occurring. Dynamic equilibrium is maintained"
+        },
+        {
+          "letter": "B",
+          "text": "Lies towards left",
+          "isCorrect": true,
+          "explanation": "Kc is the ratio of product over reactants, hence a smaller kc suggests that equilibrium lies towards the reactants side i.e left side , and favours backwards reaction"
+        },
+        {
+          "letter": "C",
+          "text": "remains same after adding reactant",
+          "isCorrect": false,
+          "explanation": "According to le Chatelier’s principle , adding reactant moves the equilibrium towards product side and hence kc value must be greater"
+        },
+        {
+          "letter": "D",
+          "text": "Independent of T",
+          "isCorrect": false,
+          "explanation": "Kc depends on Temperature"
+        }
+      ],
+      "explanation": "Position of equilibrium only changes upon change in concentration,pressure and temperature. Small value of kc does not specifically imply that any of these changes are occurring. Dynamic equilibrium is maintained Kc is the ratio of product over reactants, hence a smaller kc suggests that equilibrium lies towards the reactants side i.e left side , and favours backwards reaction According to le Chatelier’s principle , adding reactant moves the equilibrium towards product side and hence kc value must be greater Kc depends on Temperature",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "For which reaction, the volume is an irrelevant factor in determining Kc",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Formation of esters",
+          "isCorrect": true,
+          "explanation": "This is the correct option because while calculating kc for esters, we have 2 products in the numerator and 2 reactants in denominator so the volume cancels out"
+        },
+        {
+          "letter": "B",
+          "text": "Dissociation of PCl5",
+          "isCorrect": false,
+          "explanation": "For this, we have 2 products and one numerator so the volume doesn’t cances out and is a significant part of the calculation"
+        },
+        {
+          "letter": "C",
+          "text": "Decomposition of N2O4",
+          "isCorrect": false,
+          "explanation": "For this, after forming and simplifying kc equation we have twice the product and one reactant so the volume doesn’t cancel out and is a significant part of the calculation"
+        },
+        {
+          "letter": "D",
+          "text": "Synthesis of NH3",
+          "isCorrect": false,
+          "explanation": "For this, after forming and simplifying kc equation we have twice the product and four times the reactant so the volume doesn’t cancel out and is a significant part of the calculation"
+        }
+      ],
+      "explanation": "This is the correct option because while calculating kc for esters, we have 2 products in the numerator and 2 reactants in denominator so the volume cancels out",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The solubility of Agl and Nal is less than in pure water because:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Agl forms a complex with Nal",
+          "isCorrect": false,
+          "explanation": "AgI doesn’t react with NaI, forming no complex"
+        },
+        {
+          "letter": "B",
+          "text": "Of common ion effect",
+          "isCorrect": true,
+          "explanation": "Adding NaI into a solution of AgI decreases the solubility for AgI as both have a common ion I- so equilibrium moves towards the left side and ppt of AgI forms"
+        },
+        {
+          "letter": "C",
+          "text": "Solubility of Agl is less than Nal",
+          "isCorrect": false,
+          "explanation": "This doesn’t define why their solubility is less."
+        },
+        {
+          "letter": "D",
+          "text": "The temperature of solutions decreases",
+          "isCorrect": false,
+          "explanation": "This doesn’t define why their solubility is less."
+        }
+      ],
+      "explanation": "Adding NaI into a solution of AgI decreases the solubility for AgI as both have a common ion I- so equilibrium moves towards the left side and ppt of AgI forms",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If solubility product is greater than ionic concentration than:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "No precipitation will occur",
+          "isCorrect": true,
+          "explanation": "It's the correct option. The solution is undersaturated and has the capability to withhold more salt if added."
+        },
+        {
+          "letter": "B",
+          "text": "Precipitation will occur",
+          "isCorrect": false,
+          "explanation": "This will happen only if ionic concentration is greater than ksp and the solution is supersaturated"
+        },
+        {
+          "letter": "C",
+          "text": "Solutions will be neutral",
+          "isCorrect": false,
+          "explanation": "This is incorrect. It can only be correct if the solution is saturated and hence ionic concentration equal to ksp"
+        },
+        {
+          "letter": "D",
+          "text": "All are possible",
+          "isCorrect": false,
+          "explanation": "Option b and c are not possible for the above given case"
+        }
+      ],
+      "explanation": "It's the correct option. The solution is undersaturated and has the capability to withhold more salt if added.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The concept of solubility product is originally applicable to —- salt in aqueous solution?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Chemical Equilibrium",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Na2SO4",
+          "isCorrect": false,
+          "explanation": "Na2so4 is highly soluble in aqueous solution.Hence the concept of solubility product doesn’t apply to it"
+        },
+        {
+          "letter": "B",
+          "text": "AgNO3",
+          "isCorrect": false,
+          "explanation": "All nitrates are highly soluble in aqueous solution.Hence the concept of solubility product doesn’t applies to it"
+        },
+        {
+          "letter": "C",
+          "text": "BaSO4",
+          "isCorrect": true,
+          "explanation": "Baso4 is a sparingly soluble salt. Hence the concept of solubility product applies to it"
+        },
+        {
+          "letter": "D",
+          "text": "On( NO3) 2",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "BaSO4 is a sparingly soluble salt. Hence the concept of solubility product applies to it",
+      "explanationImage": null,
+      "hints": []
+    }
+  ]
+}

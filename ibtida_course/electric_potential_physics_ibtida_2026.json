@@ -1,0 +1,1941 @@
+{
+  "questions": [
+    {
+      "text": "A sphere of charge +Q is fixed in a position. A smaller sphere of +q is placed near the larger sphere and released from the rest. The small sphere will move away from the large sphere with?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decreasing velocity and decreasing acceleration",
+          "isCorrect": false,
+          "explanation": "Again, velocity does not decrease because the sphere is repelled outward, gaining speed.Acceleration does decrease, but since velocity is increasing, this option is also incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Decreasing velocity and increasing acceleration",
+          "isCorrect": false,
+          "explanation": "If velocity decreases, it means the sphere is slowing down. This would happen if the force acted in the opposite direction of motion, which is not the case here.If acceleration increases, it means the force must be increasing, but since , it decreases as increases.Thus, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Decreasing velocity and constant acceleration",
+          "isCorrect": false,
+          "explanation": "Velocity does not decrease, so this is already wrong.Acceleration is not constant—it depends on distance , so it decreases as the sphere moves away."
+        },
+        {
+          "letter": "D",
+          "text": "Increasing velocity and decreasing acceleration",
+          "isCorrect": true,
+          "explanation": "The small sphere with charge will experience a repulsive force due to the fixed larger sphere with charge . This force is given by Coulomb's law:F=kq1q2/r²Since this force acts radially outward, the small sphere will move away from the large sphere.Velocity: The force is repelling the charge, so it will accelerate and gain velocity as it moves away.Acceleration: Since the force depends on , as increases, the force decreases. Since acceleration is directly proportional to force, it also decreases over time."
+        },
+        {
+          "letter": "E",
+          "text": "Increasing velocity and increasing acceleration",
+          "isCorrect": false,
+          "explanation": "Velocity increases, which is correct.Acceleration decreases, not increases, because force weakens with distance.Thus, this option is incorrect."
+        }
+      ],
+      "explanation": "When two spheres with like charges are placed near each other, they exert a repulsive force on one another. The small sphere with charge +q experiences a repulsive force due to the stationary sphere with charge +Q, causing it to move away. According to Coulomb's Law, this force is given by: F = kQq/r² where r is the distance between the charges. As the sphere moves away, the distance r increases, causing the force and consequently the acceleration to decrease. However, the velocity of the small sphere continues to increase because it is still under the influence of a repulsive force—albeit a diminishing one. Thus, the correct answer is Option D: Increasing velocity and decreasing acceleration. The other options incorrectly describe either the velocity or the acceleration as decreasing or constant, which does not align with the physical principles governing the motion of charged particles under electrostatic forces.",
+      "explanationImage": null,
+      "hints": [
+        "sphere of charge",
+        "released from rest"
+      ]
+    },
+    {
+      "text": "A hollow charged metal sphere has radius r. If the potential difference between its surface and a point at a distance 3r from the centre is V, then electric field intensity at distance 3r from the centre is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "V/3r",
+          "isCorrect": false,
+          "explanation": "This option incorrectly assumes a direct relationship without considering the full electrostatic balance. For a point at 3r, the uniform field outside should be considered, leading to V/6r."
+        },
+        {
+          "letter": "B",
+          "text": "V/4r",
+          "isCorrect": false,
+          "explanation": "This choice doesn't apply the correct formula for calculating electric field intensity from potential difference at the specified distance. The correct relationship is V/6r, not V/4r."
+        },
+        {
+          "letter": "C",
+          "text": "V/6r",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. For a hollow charged sphere, the electric field intensity at a distance 3r from the center is V divided by the effective distance 3r, resulting in V/6r."
+        },
+        {
+          "letter": "D",
+          "text": "V/2r",
+          "isCorrect": false,
+          "explanation": "This option overestimates the field intensity by not accounting for the total distance from the center. The correct calculation uses the full distance (3r), resulting in V/6r, not V/2r."
+        }
+      ],
+      "explanation": "For a hollow charged metal sphere, the electric field intensity outside the sphere is determined by the potential difference V and the radial distance from the center. The potential difference V between the sphere's surface and a point at distance 3r is calculated using the formula for electric field intensity E = V/d, where d = 3r. Therefore, the correct electric field intensity is E = V/6r. Option C correctly identifies this relationship. Options A, B, and D provide incorrect calculations either by misapplying the formula or using incorrect distances.",
+      "explanationImage": null,
+      "hints": [
+        "hollow",
+        "charged",
+        "distance 3r"
+      ]
+    },
+    {
+      "text": "A particle carrying charge of 2e falls through a potential difference of 3.0 V. Calculate energy acquired by it.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "9.6 × 10-19 J",
+          "isCorrect": true,
+          "explanation": "Correct. Using the formula Energy = qV, where q = 2e and V = 3.0 V, we get Energy = 6eV. Converting to joules, Energy = 6 × 1.6 × 10-19 J = 9.6 × 10-19 J."
+        },
+        {
+          "letter": "B",
+          "text": "12.1 × 10-19 J",
+          "isCorrect": false,
+          "explanation": "Incorrect. This value does not match the product of 6eV converted to joules."
+        },
+        {
+          "letter": "C",
+          "text": "14.5 × 10-19 J",
+          "isCorrect": false,
+          "explanation": "Incorrect. This value is not obtained from the correct calculation of charge and potential difference."
+        },
+        {
+          "letter": "D",
+          "text": "16.7 × 10-19 J",
+          "isCorrect": false,
+          "explanation": "Incorrect. This value exceeds the correct energy calculation for the given variables."
+        },
+        {
+          "letter": "E",
+          "text": "18.5 × 10-19 J",
+          "isCorrect": false,
+          "explanation": "Incorrect. This value is not calculated from the formula Energy = qV with the given parameters."
+        }
+      ],
+      "explanation": "To find the energy acquired by the particle, use the formula: Energy = qV, where q is the charge and V is the potential difference. The charge of the particle is 2e, where e is the elementary charge, approximately 1.6 × 10-19 C. The potential difference is given as 3.0 V. Thus, Energy = 2e × 3 V = 6eV. Converting eV to joules gives: Energy = 6 × 1.6 × 10-19 J = 9.6 × 10-19 J.Options B, C, D, and E are incorrect because they do not follow the correct calculation using the formula and given values.",
+      "explanationImage": null,
+      "hints": [
+        "charge",
+        "potential difference",
+        "energy"
+      ]
+    },
+    {
+      "text": "If the potential at a point which is 1m from a charge is 1 volt, then the potential at a point which is 2m from the same charge will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2020,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 V",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formulaElectric potential is given by V= kQ/rAs V is inversely proportional to r so increasing the R by a factor of 2 (1m to 2m), the electric potential, subsequently, drops by a factor of 2 (1 V-> 0.5 V)."
+        },
+        {
+          "letter": "B",
+          "text": "1 V",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula.Electric potential is given by V= kQ/rAs V is inversely proportional to r so increasing the R by a factor of 2 (1m to 2m), the electric potential, subsequently, drops by a factor of 2 (1 V -> 0.5 V)."
+        },
+        {
+          "letter": "C",
+          "text": "0.5 V",
+          "isCorrect": true,
+          "explanation": "Electric potential is given by V= kQ/rAs V is inversely proportional to r so increasing the R by a factor of 2 (1m to 2m), the electric potential, subsequently, drops by a factor of 2 (1 V -> 0.5 V)."
+        },
+        {
+          "letter": "D",
+          "text": "3 V",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formulaElectric potential is given by V= kQ/rAs V is inversely proportional to r so increasing the R by a factor of 2 (1m to 2m), the electric potential, subsequently, drops by a factor of 2 (1 V -> 0.5 V)."
+        }
+      ],
+      "explanation": "Electric potential is given by V= kQ/rAs V is inversely proportional to r so increasing the R by a factor of 2 (1m to 2m), the electric potential, subsequently, drops by a factor of 2 (1 V -> 0.5 V).",
+      "explanationImage": null,
+      "hints": [
+        "potential at a point which is 1m from a charge is 1 volt",
+        "potential at a point which is 2m from the same charge"
+      ]
+    },
+    {
+      "text": "Charges of +2 μC and -2 μC are situated at points P and Q respectively, as shown below. X is midway between P and Q. Which of the following correctly describes the electric field and the electric potential at point X?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2017,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Option A",
+          "isCorrect": true,
+          "explanation": "As the electric field moves away from positive charges and towards negative charges, the direction of the electric field should be towards Q. Electric potential is a scalar quantity that means it should be added without considering the directions. At pSince the charges are equal and opposite with the same distance from point X, the potential at point X will be zero."
+        },
+        {
+          "letter": "B",
+          "text": "Option B",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formulaAs the electric field moves away from positive charges and towards negative charges, the direction of the electric field should be towards Q. Electric potential is a scalar quantity that means it should be added without considering the directions. At pSince the charges are equal and opposite with the same distance from point X, the potential at point X will be zero."
+        },
+        {
+          "letter": "C",
+          "text": "Option C",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formulaAs the electric field moves away from positive charges and towards negative charges, the direction of the electric field should be towards Q. Electric potential is a scalar quantity that means it should be added without considering the directions. At pSince the charges are equal and opposite with the same distance from point X, the potential at point X will be zero."
+        },
+        {
+          "letter": "D",
+          "text": "Option D",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formulaAs the electric field moves away from positive charges and towards negative charges, the direction of the electric field should be towards Q. Electric potential is a scalar quantity that means it should be added without considering the directions. At pSince the charges are equal and opposite with the same distance from point X, the potential at point X will be zero."
+        },
+        {
+          "letter": "E",
+          "text": "Option E",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formulaAs the electric field moves away from positive charges and towards negative charges, the direction of the electric field should be towards Q. Electric potential is a scalar quantity that means it should be added without considering the directions. At pSince the charges are equal and opposite with the same distance from point X, the potential at point X will be zero."
+        }
+      ],
+      "explanation": "As the electric field moves away from positive charges and towards negative charges, the direction of the electric field should be towards Q. Electric potential is a scalar quantity that means it should be added without considering the directions. At pSince the charges are equal and opposite with the same distance from point X, the potential at point X will be zero.",
+      "explanationImage": null,
+      "hints": [
+        "Charges of +2 μC and -2 μC",
+        "points P and Q",
+        "X is midway between P and Q.",
+        "describes the electric field and the electric potential at point X"
+      ]
+    },
+    {
+      "text": "Which statement describes the electric potential difference between two points in the electric field of charge Q?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The difference of electric field between the points per unit charge.",
+          "isCorrect": false,
+          "explanation": "This statement describes the electric field, not the electric potential difference. Electric field (E) is the force experienced by a unit positive charge at a point in space. Electric potential difference, on the other hand, refers to the difference in electric potential (voltage) between two points in an electric field. While electric field is measured in units of force per unit charge (N/C), electric potential difference is measured in volts (V)."
+        },
+        {
+          "letter": "B",
+          "text": "The ratio of the power dissipated between the points to the mass of charge.",
+          "isCorrect": false,
+          "explanation": "This statement describes neither electric field nor electric potential difference accurately. Power is the rate at which work is done or energy is transferred, typically measured in watts (W). The concept of power dissipation may relate to energy loss in a circuit, but it doesn't directly define electric potential difference."
+        },
+        {
+          "letter": "C",
+          "text": "The work done in moving a test charge between points divided by the magnitude of the test charge.",
+          "isCorrect": true,
+          "explanation": "This statement correctly defines electric potential difference. Electric potential difference (V) between two points is the work done per unit charge (Q) in moving a test charge from one point to the other. Mathematically, it is expressed as V=W/Q​, where V is the potential difference, W is the work done, and Q is the magnitude of the test charge."
+        },
+        {
+          "letter": "D",
+          "text": "The force required to move a unit positive charge between the points per unit charge.",
+          "isCorrect": false,
+          "explanation": "This statement describes electric field strength, not electric potential difference. Electric field strength (E) is the force experienced by a unit positive charge at a point in an electric field. It's measured in newtons per coulomb (N/C). While electric potential difference is related to electric field, they represent different aspects of the electric field."
+        }
+      ],
+      "explanation": "This question is simply revising how the electric potential is defined as it is work done per unit charge in moving that charge from one place to the other in the electric field.All other options are not the definitions of electric potential.",
+      "explanationImage": null,
+      "hints": [
+        "describes the electric potential difference between two points in the electric field of charge Q"
+      ]
+    },
+    {
+      "text": "Electron Volt is the unit of:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Voltage",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        },
+        {
+          "letter": "B",
+          "text": "Current",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        },
+        {
+          "letter": "C",
+          "text": "Energy",
+          "isCorrect": true,
+          "explanation": "Some of the common units for Energy are: Joules (J), Electron Volt (eV) which is equivalent to 1.60x10-19J, kilowatt-hour (kWh) which is equivalent to 3.60 x 106J, and erg which is equivalent to 1.0x10-7JVolt is the unit for Voltage/EMF, Ampere is the unit for Current and Watt is the unit for Power."
+        },
+        {
+          "letter": "D",
+          "text": "Power",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formula"
+        }
+      ],
+      "explanation": "Some of the common units for Energy are: Joules (J), Electron Volt (eV) which is equivalent to 1.60x10-19J, kilowatt-hour (kWh) which is equivalent to 3.60 x 106J, and erg which is equivalent to 1.0x10-7JVolt is the unit for Voltage/EMF, Ampere is the unit for Current and Watt is the unit for Power.",
+      "explanationImage": null,
+      "hints": [
+        "Electron Volt",
+        "unit of"
+      ]
+    },
+    {
+      "text": "Electric potential due to 2uC charge at distance of one meter is equal to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "18 x 104 volt",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formulaV=KQ/r where K= coulomb's constantV=(9*109)*(2*10-6)/1 = 18000 volts = 1.8*104"
+        },
+        {
+          "letter": "B",
+          "text": "1.8 x 106 volt",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formulaV=KQ/r where K= coulomb's constantV=(9*109)*(2*10-6)/1 = 18000 volts = 1.8*104"
+        },
+        {
+          "letter": "C",
+          "text": "1.8 x 109 volt",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formulaV=KQ/r where K= coulomb's constantV=(9*109)*(2*10-6)/1 = 18000 volts = 1.8*104"
+        },
+        {
+          "letter": "D",
+          "text": "1.8 x 104 volt",
+          "isCorrect": true,
+          "explanation": "V=KQ/rwhere K= coulomb's constant V=(9*109)*(2*10-6)/1 = 18000 volts = 1.8*104Volt."
+        }
+      ],
+      "explanation": "V=KQ/r where K= coulomb's constantV=(9*109)*(2*10-6)/1 = 18000 volts = 1.8*104",
+      "explanationImage": null,
+      "hints": [
+        "Electric potential due to 2uC charge",
+        "distance of one meter is equal to"
+      ]
+    },
+    {
+      "text": "The negative of the potential gradient is equal to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electric field intensity",
+          "isCorrect": true,
+          "explanation": "The potential gradient is represented by -Δd/Δr. So, the potential gradient may be defined as the rate of change of electric potential with respect to position. Mathematically, E = -Δd/ΔrHere, E is electric field intensity. Hence, option A is the correct option"
+        },
+        {
+          "letter": "B",
+          "text": "Electric flux",
+          "isCorrect": false,
+          "explanation": "Electric flux is the measure of the electric field passing through a given area. It is given by the dot product of the electric field vector (E) and the area vector (A) integrated over the area. It is represented as Φe = ∫E · dA. The negative of the potential gradient is not related to electric flux."
+        },
+        {
+          "letter": "C",
+          "text": "Magnetic intensity",
+          "isCorrect": false,
+          "explanation": "Magnetic intensity (H) is a term used in magnetism and is defined in the context of magnetic materials. It is the magnetic field strength that is generated by a magnetic source (e.g., a magnet or a current-carrying wire). The negative potential gradient is not related to magnetic intensity."
+        },
+        {
+          "letter": "D",
+          "text": "Magnetic flux",
+          "isCorrect": false,
+          "explanation": "Magnetic flux is the measure of the magnetic field passing through a given area. It is given by the dot product of the magnetic field vector (B) and the area vector (A) integrated over the area.It is represented as Φm = ∫B · dA. The negative of the potential gradient is not related to magnetic flux."
+        }
+      ],
+      "explanation": "W = FdF = qEW = qEdW/q = V = EdV/d = EThe potential gradient is represented by -Δd/Δr. So, the potential gradient may be defined as the rate of change of electric potential with respect to position. Mathematically, E = -Δd/Δr Here, E is the electric field intensity. Hence, option A is the correct option.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A cable 4 km long and of total resistance 1 Ohm carries electric current from a generator producing 100kW at 10,000 Volts. The current in amperes in the cable is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "isCorrect": true,
+          "explanation": "The power (P) is 100 kW, which is equal to 100,000 W. The voltage (V) is 10,000 V. We can use the formula P = IV, where I is the current.Solving for I, we get I = P/V = 100,000 W / 10,000 V = 10 A.Therefore, the correct answer is 10 A."
+        },
+        {
+          "letter": "B",
+          "text": "10,000",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formulaThe power (P) is 100 kW, which is equal to 100,000 W. The voltage (V) is 10,000 V. We can use the formula P = IV, where I is the current.Solving for I, we get I = P/V = 100,000 W / 10,000 V = 10 A.Therefore, the correct answer is 10 A."
+        },
+        {
+          "letter": "C",
+          "text": "1000",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formulaThe power (P) is 100 kW, which is equal to 100,000 W. The voltage (V) is 10,000 V. We can use the formula P = IV, where I is the current.Solving for I, we get I = P/V = 100,000 W / 10,000 V = 10 A.Therefore, the correct answer is 10 A."
+        },
+        {
+          "letter": "D",
+          "text": "100,000",
+          "isCorrect": false,
+          "explanation": "Incorrect as per formulaThe power (P) is 100 kW, which is equal to 100,000 W. The voltage (V) is 10,000 V. We can use the formula P = IV, where I is the current.Solving for I, we get I = P/V = 100,000 W / 10,000 V = 10 A.Therefore, the correct answer is 10 A."
+        }
+      ],
+      "explanation": "The explanation for this question is given below:",
+      "explanationImage": null,
+      "hints": [
+        "cable 4 km long",
+        "total resistance 1 Ohm",
+        "electric current from a generator producing 100kW at 10,000 Volts",
+        "current in amperes in the cable"
+      ]
+    },
+    {
+      "text": "The change in potential energy per unit charge between two points in an electric field is called",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Potential difference",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Absolute Potential",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Electric intensity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Permittivity",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The difference in electric potential energy of a unit charge between two points within the electric field is called electric potential difference.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Electric potential difference can be defined as:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Δ[V] = Δ[U] - q",
+          "isCorrect": false,
+          "explanation": "The electric potential difference, also known as voltage, is the external work needed to bring a charge from one location to another location in an electric field. Δ [ V ] = [U] / qHence, B is the correct option"
+        },
+        {
+          "letter": "B",
+          "text": "Δ[V] = Δ[U]/q",
+          "isCorrect": true,
+          "explanation": "The electric potential difference, also known as voltage, is the external work needed to bring a charge from one location to another location in an electric field. Δ [ V ] = [U] / qHence, B is the correct option"
+        },
+        {
+          "letter": "C",
+          "text": "Δ[V] = Δ[U] + q",
+          "isCorrect": false,
+          "explanation": "The electric potential difference, also known as voltage, is the external work needed to bring a charge from one location to another location in an electric field. Δ [ V ] = [U] / qHence, B is the correct option"
+        },
+        {
+          "letter": "D",
+          "text": "Δ[V] = Δ[U] x q",
+          "isCorrect": false,
+          "explanation": "The electric potential difference, also known as voltage, is the external work needed to bring a charge from one location to another location in an electric field. Δ [ V ] = [U] / qHence, B is the correct option"
+        }
+      ],
+      "explanation": "The electric potential difference, also known as voltage, is the external work needed to bring a charge from one location to another location in an electric field. Δ [ V ] = [U] / qHence, B is the correct option",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A particle having a charge of 20 electrons on it, falls through a potential difference of 100 volts. Calculate the energy acquired by it in electron volts (eV).",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.0 x 10-2 eV",
+          "isCorrect": false,
+          "explanation": "This option represents 0.02 electron volts, which is not the correct energy acquired by the particle. It is several orders of magnitude smaller than the correct value."
+        },
+        {
+          "letter": "B",
+          "text": "2.0 x 10-3 eV",
+          "isCorrect": false,
+          "explanation": "This option represents 0.002 electron volts, which is even smaller than the previous option. It is not the correct energy acquired by the particle."
+        },
+        {
+          "letter": "C",
+          "text": "2.0 x 102 eV",
+          "isCorrect": false,
+          "explanation": "This option represents 200 electron volts, which is also incorrect. It is ten times smaller than the correct value."
+        },
+        {
+          "letter": "D",
+          "text": "2.0 x 103 eV",
+          "isCorrect": true,
+          "explanation": "Energy (in eV) = Charge (in electron charges) × Potential difference (in volts)Given that the charge of the particle is 20 electrons and the potential difference is 100 volts, we can substitute these values into the equation:Energy = 20 electrons × 100 voltsNow let's calculate the energy:Energy = 2000 eVTherefore, the correct option is 2.0 x 103 eV. This represents 2000 electron volts, which is the energy acquired by the particle when falling through a potential difference of 100 volts."
+        }
+      ],
+      "explanation": "Energy (in eV) = Charge (in electron charges) × Potential difference (in volts)Given that the charge of the particle is 20 electrons and the potential difference is 100 volts, we can substitute these values into the equation:Energy = 20 electrons × 100 voltsNow let's calculate the energy:Energy = 2000 eVTherefore, the correct option is 2.0 x 103 eV. This represents 2000 electron volts, which is the energy acquired by the particle when falling through a potential difference of 100 volts.",
+      "explanationImage": null,
+      "hints": [
+        "20 electrons",
+        "100 volts",
+        "energy acquired",
+        "in electron volts (eV"
+      ]
+    },
+    {
+      "text": "Electric potential energy per unit charge is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electric flux",
+          "isCorrect": false,
+          "explanation": "Electric flux is defined as:The number of lines of force that pass through the area placed in the electric field."
+        },
+        {
+          "letter": "B",
+          "text": "Electric field",
+          "isCorrect": false,
+          "explanation": "An electric field is defined as any region around a charge in which an electric test charge would experience an electric force."
+        },
+        {
+          "letter": "C",
+          "text": "Electric potential",
+          "isCorrect": true,
+          "explanation": "Energy per unit charge is called electric potential.V=E/qHence,C is the correct option."
+        },
+        {
+          "letter": "D",
+          "text": "Electric intensity",
+          "isCorrect": false,
+          "explanation": "The intensity of an electric field at any point is the force per unit positive test charge placed at that point.E=F/qo"
+        }
+      ],
+      "explanation": "OPTION A: Electric flux is defined as: The number of lines of force that pass through the area placed in the electric field.OPTION B: An electric field is defined as any region around a charge in which an electric test charge would experience an electric force.OPTION C: Energy per unit charge is called electric potential.V=E/qHence, C is the correct option.OPTION D: The intensity of an electric field at any point is the force per unit positive test charge placed at that point.E=F/qo",
+      "explanationImage": null,
+      "hints": [
+        "Electric potential energy per unit charge"
+      ]
+    },
+    {
+      "text": "The electric potential at infinite distance is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Infinity",
+          "isCorrect": false,
+          "explanation": "This option means that the electric potential at infinite distance from any charge is infinity. In reality, the electric potential at infinite distance is considered to be zero, not infinity."
+        },
+        {
+          "letter": "B",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "The electric potential at infinite distance is zero.Electric potential is the amount of electric potential energy per unit charge at a given point in space. It is measured in volts (V). At infinite distance from a charge or collection of charges, the electric field strength becomes negligible, and the electric potential approaches zero."
+        },
+        {
+          "letter": "C",
+          "text": "Negative",
+          "isCorrect": false,
+          "explanation": "This option is not true. Electric potential can be negative near a negatively charged particle, but it is not negative at infinite distance."
+        },
+        {
+          "letter": "D",
+          "text": "Positive",
+          "isCorrect": false,
+          "explanation": "This option is not true either. Electric potential can be positive near a positively charged particle, but it is not positive at infinite distance."
+        }
+      ],
+      "explanation": "Option B is correct since the electric potential at infinite distance is zero.Electric potential is the amount of electric potential energy per unit charge at a given point in space. It is measured in volts (V). At infinite distance from a charge or collection of charges, the electric field strength becomes negligible, and the electric potential approaches zero.",
+      "explanationImage": null,
+      "hints": [
+        "electric potential",
+        "infinite distance"
+      ]
+    },
+    {
+      "text": "A particle carrying a charge 3e accelerates through a potential difference of 2V. The energy acquired by it is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 eV",
+          "isCorrect": true,
+          "explanation": "Option A is correct since electric potential (V) is defined as the potential energy per unit charge(q).Potential energy= Vq3e x 2v = 6eV"
+        },
+        {
+          "letter": "B",
+          "text": "1.5 eV",
+          "isCorrect": false,
+          "explanation": "This option is incorrect.Electric potential (V) is defined as the potential energy per unit charge(q).Potential energy= Vq3e x 2v = 6eV"
+        },
+        {
+          "letter": "C",
+          "text": "0.66 eV",
+          "isCorrect": false,
+          "explanation": "This option is incorrect.Electric potential (V) is defined as the potential energy per unit charge(q).Potential energy= Vq3e x 2v = 6eV"
+        },
+        {
+          "letter": "D",
+          "text": "12 eV",
+          "isCorrect": false,
+          "explanation": "This option is incorrect.Electric potential (V) is defined as the potential energy per unit charge(q).Potential energy= Vq3e x 2v = 6eV"
+        }
+      ],
+      "explanation": "Option A is correct since electric potential (V) is defined as the potential energy per unit charge(q).Potential energy= Vq3e x 2v = 6eV",
+      "explanationImage": null,
+      "hints": [
+        "charge 3e",
+        "2V",
+        "energy acquired"
+      ]
+    },
+    {
+      "text": "If a particle having a charge q is accelerated through a potential difference V, then the energy acquired by the particle is _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "V/2",
+          "isCorrect": false,
+          "explanation": "The energy acquired by a particle with charge q when accelerated through a potential difference V is given by the formula:U=qV"
+        },
+        {
+          "letter": "B",
+          "text": "V/q",
+          "isCorrect": false,
+          "explanation": "The energy acquired by a particle with charge q when accelerated through a potential difference V is given by the formula:U=qV"
+        },
+        {
+          "letter": "C",
+          "text": "qV/2",
+          "isCorrect": false,
+          "explanation": "The energy acquired by a particle with charge q when accelerated through a potential difference V is given by the formula:U=qV"
+        },
+        {
+          "letter": "D",
+          "text": "qV",
+          "isCorrect": true,
+          "explanation": "The energy acquired by a particle with charge q when accelerated through a potential difference V is given by the formula:U=qV"
+        }
+      ],
+      "explanation": "The energy acquired by a particle with charge q when accelerated through a potential difference V is given by the formula:U=qVThis is shown in option D so, option D is the correct choice.",
+      "explanationImage": null,
+      "hints": [
+        "charge q",
+        "potential difference V",
+        "energy acquired"
+      ]
+    },
+    {
+      "text": "The electric potential difference between two points can be defined as:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Difference of the kinetic energy per unit charge",
+          "isCorrect": false,
+          "explanation": "The electric potential difference between two points can be defined as the difference of potential energy per unit charge."
+        },
+        {
+          "letter": "B",
+          "text": "Difference of the kinetic energy",
+          "isCorrect": false,
+          "explanation": "The electric potential difference between two points can be defined as the difference of potential energy per unit charge."
+        },
+        {
+          "letter": "C",
+          "text": "Difference of the potential energy per unit charge",
+          "isCorrect": true,
+          "explanation": "The electric potential difference between two points can be defined as the difference of potential energy per unit charge.Electric potential difference, also known as voltage, is a measure of the work done to move a unit positive charge between two points in an electric field. It is often represented by the symbol V."
+        },
+        {
+          "letter": "D",
+          "text": "Difference of the potential energy",
+          "isCorrect": false,
+          "explanation": "The electric potential difference between two points can be defined as the difference of potential energy per unit charge."
+        }
+      ],
+      "explanation": "The electric potential difference between two points can be defined as the difference of potential energy per unit charge.Electric potential difference, also known as voltage, is a measure of the work done to move a unit positive charge between two points in an electric field. It is often represented by the symbol V.",
+      "explanationImage": null,
+      "hints": [
+        "electric potential difference",
+        "two points",
+        "defined"
+      ]
+    },
+    {
+      "text": "A particle carrying a charge 3e, accelerates through a potential difference of 2V. The energy acquired by it is?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.6 X 10-19 J",
+          "isCorrect": false,
+          "explanation": "q = 3eq = 3 (1.6 х 10-19)V = 2V E = qV E = (3 х 1.6 x 10-19)(2V) E = 9.6 x 10-19 J"
+        },
+        {
+          "letter": "B",
+          "text": "9.6 X 10-19 J",
+          "isCorrect": true,
+          "explanation": "q = 3eq = 3 (1.6 х 10-19)V = 2V E = qV E = (3 х 1.6 x 10-19)(2V) E = 9.6 x 10-19 JThis is numerical so it can only have one answer so option B is correct."
+        },
+        {
+          "letter": "C",
+          "text": "9.6 X 10-18 J",
+          "isCorrect": false,
+          "explanation": "q = 3eq = 3 (1.6 х 10-19)V = 2V E = qV E = (3 х 1.6 x 10-19)(2V) E = 9.6 x 10-19 J"
+        },
+        {
+          "letter": "D",
+          "text": "1.6 X 10-18 J",
+          "isCorrect": false,
+          "explanation": "q = 3eq = 3 (1.6 х 10-19)V = 2V E = qV E = (3 х 1.6 x 10-19)(2V) E = 9.6 x 10-19 J"
+        }
+      ],
+      "explanation": "q = 3eq = 3 (1.6 х 10-19)V = 2V E = qV E = (3 х 1.6 x 10-19)(2V) E = 9.6 x 10-19 JThis is numerical so it can only have one answer so option B is correct.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The work done in moving a unit positive charge from one point to another against the electric field is a measure of:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2009,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Capacitance",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Capacitance relates to a system's ability to store charge, not the energy required to move a charge."
+        },
+        {
+          "letter": "B",
+          "text": "Potential difference between two points",
+          "isCorrect": true,
+          "explanation": "This is the correct option. The work done in moving a unit positive charge against the electric field is equivalent to the potential difference, also known as voltage, measured in volts (V)."
+        },
+        {
+          "letter": "C",
+          "text": "Intensity of electric field",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Intensity of an electric field refers to force per unit charge, not the work done between two points."
+        },
+        {
+          "letter": "D",
+          "text": "Resistance between two points",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Resistance measures the opposition to current flow in a material, not the energy required to move a charge."
+        }
+      ],
+      "explanation": "Explanation:The workdone in moving a unit positive charge from one point to another against the electric field is equal to the potential difference between the two points. This is known as the voltage or electric potential difference, and is measured in volts (V). This option is not correct because capacitance is a measure of the ability of a system to store electrical charge. This option is also incorrect because intensity of electric field is a measure of the force per unit charge at a point in the electric field.This option is also incorrect because resistance is a measure of how much an object or material resists the flow of electric current.",
+      "explanationImage": null,
+      "hints": [
+        "work done",
+        "unit positive charge",
+        "electric field"
+      ]
+    },
+    {
+      "text": "A particle carrying charge of 2e falls through a potential difference of 3.0 V. Calculate the energy required by it",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2009,
+      "options": [
+        {
+          "letter": "A",
+          "text": "9.6 x 10-19 J",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The energy is calculated using E = qV, where q = 2e and V = 3V, resulting in 6eV = 9.6 x 10-19 J."
+        },
+        {
+          "letter": "B",
+          "text": "9.1 x 10-19 J",
+          "isCorrect": false,
+          "explanation": "This value is close to the correct answer but incorrect. It might result from a slight error in calculation or rounding."
+        },
+        {
+          "letter": "C",
+          "text": "1.6 x 10-19 J",
+          "isCorrect": false,
+          "explanation": "This value represents the energy of a single electron (1e) moving through a potential difference of 1V. It is incorrect as our particle has a charge of 2e moving through 3V."
+        },
+        {
+          "letter": "D",
+          "text": "6.0 x 10-19 J",
+          "isCorrect": false,
+          "explanation": "This value might result from multiplying 1e by 3V, but since the charge is 2e, this calculation is incorrect."
+        }
+      ],
+      "explanation": "Explanation: Charge = q = 2e Potential difference = V = 3V Energy = E = ?As we know that, E = qV = (2e)(3V) = 6eV E = 6 (1.6 × 10-19) E = 9.6 × 10-19 J",
+      "explanationImage": null,
+      "hints": [
+        "charge",
+        "potential difference",
+        "energy"
+      ]
+    },
+    {
+      "text": "Electric intensity is a vector quantity and its direction is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2010,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Perpendicular to the direction of field",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Electric intensity is not perpendicular to the direction of the electric field."
+        },
+        {
+          "letter": "B",
+          "text": "Opposite to the direction of force",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Electric intensity is not opposite to the direction of the force experienced by a positive charge; it aligns with it."
+        },
+        {
+          "letter": "C",
+          "text": "At a certain angle",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The direction of electric intensity is not at a particular angle but rather in a specific direction related to force."
+        },
+        {
+          "letter": "D",
+          "text": "Along the direction of force",
+          "isCorrect": true,
+          "explanation": "Correct. Electric intensity is defined as the force experienced by a unit positive charge at a point. Thus, its direction is the same as that of the force on the positive charge."
+        }
+      ],
+      "explanation": "Electric intensity, also known as electric field intensity, is the force experienced by a unit positive charge placed at a point in an electric field. The direction of the electric intensity vector is the same as the direction of the force exerted on a positive charge. Therefore, the correct answer is that electric intensity is 'Along the direction of force'.Option A is incorrect because electric intensity is not perpendicular to the electric field; it defines the field's direction. Option B is incorrect because electric intensity is not opposite to the force direction; it coincides with it. Option C is incorrect because the electric intensity direction is not at a random angle but precisely along the force direction.",
+      "explanationImage": null,
+      "hints": [
+        "vector quantity",
+        "direction",
+        "force"
+      ]
+    },
+    {
+      "text": "How much power is used in moving a 0.03 C charge from point A at a potential of 40 V to point B at 60 V, if this takes 2 seconds?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2017,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.30 W",
+          "isCorrect": true,
+          "explanation": "First we have to find the work done in moving charge fromA to B W=q(VB-VA) W= 0.03(60-40) = 0.6j Now power used can be calculated as follow: p=W/t p= 0.6/2 p=0.3W"
+        },
+        {
+          "letter": "B",
+          "text": "0.15 W",
+          "isCorrect": false,
+          "explanation": "As per calculations, A is the correct option."
+        },
+        {
+          "letter": "C",
+          "text": "0.60 W",
+          "isCorrect": false,
+          "explanation": "As per calculations, A is the correct option."
+        },
+        {
+          "letter": "D",
+          "text": "0.012 W",
+          "isCorrect": false,
+          "explanation": "As per calculations, A is the correct option."
+        }
+      ],
+      "explanation": "First, we have to find the work done in moving charge from A to B W=q(VB-VA) W= 0.03(60-40) = 0.6j Now power used can be calculated as follow: p=W/t p= 0.6/2 p=0.3W",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "How much kinetic energy will be gained by an (alpha) particle ion going from a point at 70 V to another point at 50 V ?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2017,
+      "options": [
+        {
+          "letter": "A",
+          "text": "40 eV",
+          "isCorrect": true,
+          "explanation": "A K.E is equal to EPE i.e qAV so 2e x 20V= 40 eVAs it is numerical, it can have only one possible answer."
+        },
+        {
+          "letter": "B",
+          "text": "40 KeV",
+          "isCorrect": false,
+          "explanation": "this option is incorrect. A K.E is equal to EPE i.e qAV So 2e x 20V= 40 eV"
+        },
+        {
+          "letter": "C",
+          "text": "40 MeV",
+          "isCorrect": false,
+          "explanation": "this option is incorrect. A K.E is equal to EPE i.e qAV so 2e x 20V= 40 eV"
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "this option is incorrect. A K.E is equal to EPE i.e qAV so 2e x 20V= 40 eV"
+        }
+      ],
+      "explanation": "A K.E is equal to EPE i.e qAV so 2e x 20V= 40 eVAs it is numerical, it can have only one possible answer.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Electric Potential which is measured with respect to the zero potential is called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Absolute electric potential",
+          "isCorrect": true,
+          "explanation": "Absolute electric potential is the amount of potential energy needed to move a unit positive charge from infinity to a specific point within the field. The electric potential at infinity is assumed to be zero."
+        },
+        {
+          "letter": "B",
+          "text": "Change in K.E",
+          "isCorrect": false,
+          "explanation": "Change in kinetic energy is the difference between the final and initial kinetic energy."
+        },
+        {
+          "letter": "C",
+          "text": "Change in potential energy",
+          "isCorrect": false,
+          "explanation": "Change in gravitational potential energy, ΔP.Eg, is ΔP.Eg = mgh, with h being the increase in height and g the acceleration due to gravity. The gravitational potential energy of an object near the Earth's surface is due to its position in the mass-Earth system."
+        },
+        {
+          "letter": "D",
+          "text": "Electric intensity",
+          "isCorrect": false,
+          "explanation": "Electric intensity at a point is the force on a unit positive charge at that point."
+        }
+      ],
+      "explanation": "Absolute electric potential is the amount of potential energy needed to move a unit positive charge from infinity to a specific point within the field. The electric potential at infinity is assumed to be zero.",
+      "explanationImage": null,
+      "hints": [
+        "Electric Potential",
+        "with respect to",
+        "zero potential"
+      ]
+    },
+    {
+      "text": "Electric potential is_",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A scalar quantity",
+          "isCorrect": true,
+          "explanation": "Electric potential is a scalar quantity. It does not have direction, only magnitude, and is measured in volts, which is energy (joules) per unit charge (coulombs)."
+        },
+        {
+          "letter": "B",
+          "text": "A vector quantity",
+          "isCorrect": false,
+          "explanation": "Electric potential is not a vector quantity; it lacks direction. The electric field is a vector quantity, but electric potential is scalar."
+        },
+        {
+          "letter": "C",
+          "text": "A dimensionless quantity",
+          "isCorrect": false,
+          "explanation": "Electric potential is not dimensionless; it has dimensions of energy per unit charge. Its SI unit is the volt (Joules per Coulomb)."
+        },
+        {
+          "letter": "D",
+          "text": "Always positive quantity",
+          "isCorrect": false,
+          "explanation": "Electric potential can be positive, negative, or zero, depending on the relative position and charge distribution."
+        }
+      ],
+      "explanation": "The correct answer is that electric potential is a scalar quantity with dimensions of energy per unit charge. It is a measure of the potential energy per unit charge at a point in an electric field and is measured in volts. Unlike vector quantities, such as electric fields, scalar quantities have only magnitude. For the incorrect options: Electric potential is not a vector quantity, meaning it has no direction, just magnitude. It is not dimensionless because it has units of energy per charge. Finally, it is not always positive; it can vary based on the context and distribution of charges.",
+      "explanationImage": null,
+      "hints": [
+        "Electric",
+        "potential"
+      ]
+    },
+    {
+      "text": "A charge of 0.10 C accelerated through a potential difference of 1000V acquires kinetic energy:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2007,
+      "options": [
+        {
+          "letter": "A",
+          "text": "200 J",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "2000 J",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "100 J",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "100 eV",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct option is C. 100 J. The kinetic energy gained by a charge is given by K.E. = q * V, where q is the charge and V is the potential difference.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In the given figure, the value of the electric field between the plates is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.4 N/C from A to B",
+          "isCorrect": false,
+          "explanation": "To calculate the electric field (E), we use the formula:E = V / dSubstituting the given values:E = 120 V / 0.02 m = 6000 N/CSo, the correct answer is indeed 6000 N/C, not 2.4 N/C. The electric field between the plates is 6000 N/C."
+        },
+        {
+          "letter": "B",
+          "text": "2.4 N/C from B to A",
+          "isCorrect": false,
+          "explanation": "To calculate the electric field (E), we use the formula:E = V / dSubstituting the given values:E = 120 V / 0.02 m = 6000 N/CSo, the correct answer is indeed 6000 N/C, not 2.4 N/C. The electric field between the plates is 6000 N/C."
+        },
+        {
+          "letter": "C",
+          "text": "6000 N/C from A to B",
+          "isCorrect": true,
+          "explanation": "To calculate the electric field between the plates A and B, we can use the formula:Electric field (E) = Voltage (V) / Distance between plates (d)In this case, the voltage (V) is given as 120 V and the distance between the plates (d) is given as 2 cm. However, it is usually more convenient to work with SI units, so we need to convert the distance from centimeters to meters.Converting 2 cm to meters: 2 cm * (1 meter / 100 centimeters) = 0.02 metersNow we can calculate the electric field:E = 120 V / 0.02 m = 6000 V/mTherefore, the value of the electric field between the plates A and B is 6000 V/m."
+        },
+        {
+          "letter": "D",
+          "text": "6000 N/C from B to A",
+          "isCorrect": false,
+          "explanation": "The electric field is a vector quantity that represents the direction and magnitude of the force experienced by a positive test charge placed in the field. The direction of the electric field is from higher potential (A) to lower potential (B).Therefore, the correct answer is that the electric field between the plates is 6000 N/C from A to B"
+        }
+      ],
+      "explanation": "To calculate the electric field between the plates A and B, we can use the formula:Electric field (E) = Voltage (V) / Distance between plates (d)In this case, the voltage (V) is given as 120 V and the distance between the plates (d) is given as 2 cm. However, it is usually more convenient to work with SI units, so we need to convert the distance from centimeters to meters.Converting 2 cm to meters: 2 cm * (1 meter / 100 centimeters) = 0.02 metersNow we can calculate the electric field:E = 120 V / 0.02 m = 6000 V/mTherefore, the value of the electric field between the plates A and B is 6000 V/m.",
+      "explanationImage": null,
+      "hints": [
+        "value",
+        "electric field",
+        "plates"
+      ]
+    },
+    {
+      "text": "Which quantity can be measuring is unit of Joule/coulomb?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2001,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Current",
+          "isCorrect": false,
+          "explanation": "The SI unit of current is ampere which measures the flow of electric charge across a surface at the rate of one coulomb per second. Since the charge is measured in coulombs and time in seconds, the unit is coulomb/Sec (C/s) or amp. Meanwhile, the formula for electric current is given as follows: I = V/R"
+        },
+        {
+          "letter": "B",
+          "text": "Potential Difference",
+          "isCorrect": true,
+          "explanation": "Potential difference is the difference in the amount of energy that charge carriers have between two points in a circuit. The amount of work done by bringing a unit positive charge force from one point to another point is called the Electric Potential Difference The SI unit of electric potential difference is volt (V). 1V=JOULE\\COULOMB OR 1J\\1CJoule is the unit of work done and coulomb is the unit for the charge."
+        },
+        {
+          "letter": "C",
+          "text": "Power",
+          "isCorrect": false,
+          "explanation": "Power is the amount of energy transferred or converted per unit of time. In the International System of Units, the unit of power is the watt, equal to one joule per second. In older works, power is sometimes called activity. Power is a scalar quantity.Derivations from other quantities P = E/t; P = F·v; P = V·I; P = τ·ω:"
+        },
+        {
+          "letter": "D",
+          "text": "Resistance",
+          "isCorrect": false,
+          "explanation": "Resistance is a measure of the opposition to current flow in an electrical circuit. Resistance is measured in ohms, symbolised by the Greek letter omega (Ω). Ohms are named after Georg Simon Ohm (1784-1854), a German physicist who studied the relationship between voltage, current and resistance."
+        }
+      ],
+      "explanation": "The SI unit of current is ampere which measures the flow of electric charge across a surface at the rate of one coulomb per second. Since the charge is measured in coulombs and time in seconds, the unit is coulomb/Sec (C/s) or amp. Meanwhile, the formula for electric current is given as follows: I = V/R Potential difference is the difference in the amount of energy that charge carriers have between two points in a circuit. The amount of work done by bringing a unit positive charge force from one point to another point is called the Electric Potential Difference The SI unit of electric potential difference is volt (V). 1V=JOULE\\COULOMB OR 1J\\1CJoule is the unit of work done and coulomb is the unit for the charge. Power is the amount of energy transferred or converted per unit of time. In the International System of Units, the unit of power is the watt, equal to one joule per second. In older works, power is sometimes called activity. Power is a scalar quantity.Derivations from other quantities P = E/t; P = F·v; P = V·I; P = τ·ω: Resistance is a measure of the opposition to current flow in an electrical circuit. Resistance is measured in ohms, symbolised by the Greek letter omega (Ω). Ohms are named after Georg Simon Ohm (1784-1854), a German physicist who studied the relationship between voltage, current and resistance.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The quantity ΔV/Δr is known as",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Potential differences",
+          "isCorrect": false,
+          "explanation": "Potential difference refers to the voltage between two points. It does not involve a spatial rate of change with respect to distance, so it is not the correct term for ΔV/Δr."
+        },
+        {
+          "letter": "B",
+          "text": "Potential energy",
+          "isCorrect": false,
+          "explanation": "Potential energy refers to the energy stored in an object due to its position in a field. It is not directly related to the term ΔV/Δr."
+        },
+        {
+          "letter": "C",
+          "text": "Potential gradient",
+          "isCorrect": true,
+          "explanation": "Potential gradient, also known as the electric field, is defined as the rate of change of potential with respect to distance. Therefore, ΔV/Δr is indeed the potential gradient."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as only one of the given options accurately describes ΔV/Δr."
+        }
+      ],
+      "explanation": "The term ΔV/Δr represents the potential gradient. This is because it quantifies how the electric potential (V) changes with respect to distance (r) in space, which is the definition of a gradient. The potential gradient is essentially the electric field strength, pointing in the direction of decreasing potential. On the other hand, potential difference refers simply to the voltage between two points and does not account for the rate of change across space, while potential energy is the energy due to position in an electric field, and is not a gradient. Therefore, the correct answer is 'Potential gradient'.",
+      "explanationImage": null,
+      "hints": [
+        "ΔV",
+        "Δr"
+      ]
+    },
+    {
+      "text": "In equations E=.-V/r Negative sign indicates that:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "E' points towards increasing V",
+          "isCorrect": false,
+          "explanation": "That's an incorrect option . Negative sign indicates that E points towards decreasing V"
+        },
+        {
+          "letter": "B",
+          "text": "E' points toward decreasing V",
+          "isCorrect": true,
+          "explanation": "The relation E = − dV / dr (or in vector form E = −∇V) shows how the electric field relates to electric potential. The negative sign indicates that: The electric field always points in the direction in which the electric potential decreases most rapidly."
+        },
+        {
+          "letter": "C",
+          "text": "E' is perpendicular to V",
+          "isCorrect": false,
+          "explanation": "That's an incorrect option . Negative sign indicates that E points towards decreasing V"
+        },
+        {
+          "letter": "D",
+          "text": "E' is parallel to V",
+          "isCorrect": false,
+          "explanation": "That's an incorrect option . Negative sign indicates that E points towards decreasing V"
+        },
+        {
+          "letter": "E",
+          "text": "E' is opposite to V",
+          "isCorrect": false,
+          "explanation": "That's an incorrect option . Negative sign indicates that E points towards decreasing V"
+        }
+      ],
+      "explanation": "The relation E = − dV / dr (or in vector form E = −∇V) shows how the electric field relates to electric potential. The negative sign indicates that: The electric field always points in the direction in which the electric potential decreases most rapidly.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Unit, joule per coulumb is equal to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Volt",
+          "isCorrect": true,
+          "explanation": "This option is correct asV=Q/C"
+        },
+        {
+          "letter": "B",
+          "text": "Ampere",
+          "isCorrect": false,
+          "explanation": "This option is not correct as per formula."
+        },
+        {
+          "letter": "C",
+          "text": "Henry",
+          "isCorrect": false,
+          "explanation": "This option is not correct as per formula."
+        },
+        {
+          "letter": "D",
+          "text": "Tesla",
+          "isCorrect": false,
+          "explanation": "This option is not correct as per formula."
+        },
+        {
+          "letter": "E",
+          "text": "Newton",
+          "isCorrect": false,
+          "explanation": "This option is not correct as per formula."
+        }
+      ],
+      "explanation": "The unit joule per coulomb is equal to: a) Volt. Joule per coulomb is the unit of electric potential difference or voltage. It represents the amount of energy transferred per unit charge. The symbol for volt is V.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A proton of charge 1.6x10-19 C is moved through a potential difference of 20 volt The energy gained by the proton is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-32 x 10-19J",
+          "isCorrect": false,
+          "explanation": "This option is not correct as per calculations."
+        },
+        {
+          "letter": "B",
+          "text": "32 x 10-19J",
+          "isCorrect": true,
+          "explanation": "This option is correct as per calculations."
+        },
+        {
+          "letter": "C",
+          "text": "-32 x 1019 J",
+          "isCorrect": false,
+          "explanation": "This option is not correct as per calculations."
+        },
+        {
+          "letter": "D",
+          "text": "32 x 1019 J",
+          "isCorrect": false,
+          "explanation": "This option is not correct as per calculations."
+        },
+        {
+          "letter": "E",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "This option is not correct as per calculations."
+        }
+      ],
+      "explanation": "The energy gained by a charged particle when it is moved through a potential difference can be calculated using the equation: Energy = charge (q) * potential difference (V). In this case, the charge of the proton is 1.6 x 10^(-19) C, and the potential difference is 20 volts. Plugging in these values into the equation, we get: Energy = (1.6 x 10^(-19) C) * (20 V). Calculating this expression, we find: Energy = 3.2 x 10^(-18) J. Therefore, the energy gained by the proton is 3.2 x 10^(-18) joules. As it is a numerical only one option B is correct.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In bringing an electron towards another electron, the electrostatic potential energy of the system will",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "increase",
+          "isCorrect": true,
+          "explanation": "Electrostatic potential energy is the energy associated with the interaction between charged particles due to their electric fields. The electrostatic potential energy depends on the distance between the charges and their magnitudes.When two electrons are brought closer together, their like charges result in a repulsive force between them. Work must be done to overcome this repulsion and bring the electrons closer. This work is stored as an increase in the electrostatic potential energy of the system.Therefore, as the electrons are brought closer together, the electrostatic potential energy increases. This is because the work done to overcome the repulsive force between the electrons is converted into potential energy."
+        },
+        {
+          "letter": "B",
+          "text": "decrease",
+          "isCorrect": false,
+          "explanation": "\"decrease\" is incorrect because the electrostatic potential energy increases as work is done to overcome the repulsion between the electrons."
+        },
+        {
+          "letter": "C",
+          "text": "become zero",
+          "isCorrect": false,
+          "explanation": "\"become zero\" is incorrect because the electrostatic potential energy does not become zero. The repulsive force between the electrons still exists, and work is required to bring them closer together."
+        },
+        {
+          "letter": "D",
+          "text": "remain unchanged",
+          "isCorrect": false,
+          "explanation": "\"remain unchanged\" is incorrect because the electrostatic potential energy increases as work is done to overcome the repulsion between the electrons."
+        }
+      ],
+      "explanation": "Electrostatic potential energy is the energy associated with the interaction between charged particles due to their electric fields. When two electrons are brought closer together, their like charges result in a repulsive force between them. Work must be done to overcome this repulsion and bring the electrons closer, increasing the electrostatic potential energy of the system. Option A is correct because the potential energy increases as the electrons are brought closer together. Options B, C, and D are incorrect because they do not accurately reflect the increase in potential energy that occurs in this scenario.",
+      "explanationImage": null,
+      "hints": [
+        "electron",
+        "electrostatic potential energy"
+      ]
+    },
+    {
+      "text": "What is the potential difference between two point in an electric field if it takes 600J of energy to move a charge of 2C between two points?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1200 J",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "800 J",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "300 J",
+          "isCorrect": true,
+          "explanation": "Given: Energy = ∆E = 600 J Charge = q = 2C Potential difference = V = ? As we known that: V = ∆E / q = 600 / 2 V = 300 J/C"
+        },
+        {
+          "letter": "D",
+          "text": "0J",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Given: Energy = ∆E = 600 J Charge = q = 2C Potential difference = V = ? As we known that: V = ∆E / q = 600 / 2 V = 300 J/C",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The electric potential at the center of uniformly charged conducting sphere is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "This option is not correct."
+        },
+        {
+          "letter": "B",
+          "text": "Less than that at the surface",
+          "isCorrect": false,
+          "explanation": "This option is not correct."
+        },
+        {
+          "letter": "C",
+          "text": "Greater than that at the surface",
+          "isCorrect": false,
+          "explanation": "This option is not correct."
+        },
+        {
+          "letter": "D",
+          "text": "Equal to that at the surface",
+          "isCorrect": true,
+          "explanation": "This is the correct option. Potential difference is constant inside the charged sphere as charges are uniformly distributed on the surface."
+        }
+      ],
+      "explanation": "According to Gauss's law, the electric field inside a uniformly charged conducting sphere is zero. Therefore, the electric potential at any point inside the sphere, including the centre, is equal to the electric potential at the surface. This is because in a conductor, charges redistribute themselves on the surface to achieve electrostatic equilibrium. As a result, the excess charge resides on the outer surface of the conductor, causing equipotential surfaces to form. Since the electric potential is the same at all points on an equipotential surface, the electric potential at the center of the conducting sphere is equal to that at the surface.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Two charges, one of which is Q1 = 3 μC and second one Q2 = -1 μC are separated by 100cm. The electric potential is zero at a point:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "25cm from Q2",
+          "isCorrect": true,
+          "explanation": "This option is correct."
+        },
+        {
+          "letter": "B",
+          "text": "75cm from Q2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "50cm from Q1",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "33.3cm from Q1",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        }
+      ],
+      "explanation": "The electric potential is defined as the amount of work energy needed to move a unit of electric charge from a reference point to a specific point in an electric field. For two opposite charges of unequal magnitudes, the electric potential is zero at a point where the charges have canceled each other out. The mathematical formula for electric potential is V = kQ/r. The electric potential for two-point charges is V = V1 + V2.Let potential is zero at a distance x from 3μC⇒ k(3) / x + k(-1) / (100-x) = 0⇒ 3 / x = 1 / (100-x)⇒ 3(100-x) = 1(x)⇒ 300-3x = x⇒ 300 = x + 3x⇒ 300 = 4x⇒ x = 300/4⇒ x = 75Therefore, from a distance of 100-75 = 25 cm from Q2, the electric potential is zero.Diagram:",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Two opposite point charges each of magnitude ‘q’ are separated by a distance 2d. What is the electric potential at a point ‘p’ midway between them?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": true,
+          "explanation": "Since the point is equidistant from both charges and the charges are equal and opposite, the potentials contributed by each charge cancel each other out, resulting in a net potential of zero at the midpoint."
+        },
+        {
+          "letter": "B",
+          "text": "10",
+          "isCorrect": false,
+          "explanation": "This value assumes a non-zero potential difference, which is incorrect because the contributions from the charges cancel out."
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "isCorrect": false,
+          "explanation": "This suggests a net positive potential, which is not possible with equal and opposite charges at equal distances."
+        },
+        {
+          "letter": "D",
+          "text": "30",
+          "isCorrect": false,
+          "explanation": "This is an arbitrary value that does not consider the cancellation effect of the opposite charges."
+        },
+        {
+          "letter": "E",
+          "text": "40",
+          "isCorrect": false,
+          "explanation": "This option implies a potential value without the necessary cancellation effect considered."
+        }
+      ],
+      "explanation": "The electric potential at a point due to a point charge is given by V = kq/r, where k is Coulomb's constant, q is the charge, and r is the distance from the charge to the point of interest. At point 'p', which is equidistant from both charges, the potential due to each charge is equal in magnitude but opposite in sign (since one charge is positive and the other is negative). Hence, they cancel each other out, resulting in a net electric potential of zero.The other options propose non-zero values for the potential, which overlook the fundamental principle that potentials from equal and opposite charges at equal distances will cancel each other out.",
+      "explanationImage": null,
+      "hints": [
+        "point charges",
+        "midway",
+        "electric potential"
+      ]
+    },
+    {
+      "text": "The negative gradient of electric potential is also called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2012,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Potential energy",
+          "isCorrect": false,
+          "explanation": "Potential energy is the energy stored due to an object's position in a force field, such as gravitational or electric field, but it is not directly related to the gradient of electric potential."
+        },
+        {
+          "letter": "B",
+          "text": "Electric field intensity",
+          "isCorrect": true,
+          "explanation": "The electric field intensity is the force per unit charge experienced by a positive test charge. It is mathematically defined as the negative gradient of electric potential, represented by E = -dV/dx, indicating the direction in which the potential decreases most rapidly."
+        },
+        {
+          "letter": "C",
+          "text": "Electric potential difference",
+          "isCorrect": false,
+          "explanation": "Electric potential difference is the work done in moving a unit charge between two points in an electric field. It is not concerned with the gradient of potential, but rather the difference between two points."
+        },
+        {
+          "letter": "D",
+          "text": "Electron-volt",
+          "isCorrect": false,
+          "explanation": "An electron-volt is a unit of energy equivalent to the energy gained by an electron when it is accelerated through a potential difference of one volt. It is a measure of energy, not a gradient of electric potential."
+        }
+      ],
+      "explanation": "The correct answer is Electric field intensity. The electric field intensity is defined as the negative gradient of electric potential, shown by the equation E = -dV/dx. This means that the electric field points in the direction where the potential decreases most rapidly. The other options are incorrect because: Potential energy is related to position in a field, not potential gradients; Electric potential difference is the measure of work done per unit charge between two points and not a gradient; Electron-volt is a unit of energy, unrelated to potential gradients.",
+      "explanationImage": null,
+      "hints": [
+        "negative",
+        "gradient",
+        "electric field"
+      ]
+    },
+    {
+      "text": "The potential gradient between two charged plates having separation of 0.5cm and a potential difference of 12 volts is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2011,
+      "options": [
+        {
+          "letter": "A",
+          "text": "240 NC-1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "24 NC-1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "2.4 NC-1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "2400 NC-1",
+          "isCorrect": true,
+          "explanation": "As we know, Potential gradient is given by E= -dV/dRSo, 12/0.005 = 2400 V/m= 2400 N/C"
+        }
+      ],
+      "explanation": "As we know, Potential gradient is given by E= -dV/dR So, 12/0.005 = 2400 V/m= 2400 N/C",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the potential difference between two points in an electric field if it takes 600 J of energy to move a charge of 2 C between these two points?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2023,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1200 J",
+          "isCorrect": false,
+          "explanation": "This option suggests that the potential difference is 1200 J, which is not correct. The calculation gives a different value."
+        },
+        {
+          "letter": "B",
+          "text": "800 J",
+          "isCorrect": false,
+          "explanation": "This option suggests that the potential difference is 800 J, which is not correct. The calculation gives a different value."
+        },
+        {
+          "letter": "C",
+          "text": "300 J",
+          "isCorrect": true,
+          "explanation": "This option suggests that the potential difference is 300 J, which is not correct. The calculation gives a different value."
+        },
+        {
+          "letter": "D",
+          "text": "0 J",
+          "isCorrect": false,
+          "explanation": "This option suggests that the potential difference is 0 J, which is not correct. In this case, the potential difference is not zero."
+        }
+      ],
+      "explanation": "To find the potential difference (V) between two points in an electric field, you can use the formula: v=W/Q Where: V is the potential difference. W is the work done (energy). Q is the charge. In this case: W = 600 J (work done) Q = 2 C (charge) Now, let's calculate the potential difference (V): V=600J/2C V=300J",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Voltage has the same units as that of?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2023,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Current",
+          "isCorrect": false,
+          "explanation": "Current is typically measured in amperes (A), \"Aepitit\" doesn't directly relate to current."
+        },
+        {
+          "letter": "B",
+          "text": "Magnetic induction",
+          "isCorrect": false,
+          "explanation": "Magnetic induction, often referred to as magnetic flux density or magnetic field strength, is measured in units of teslas (T). It quantifies the strength of a magnetic field."
+        },
+        {
+          "letter": "C",
+          "text": "Emf",
+          "isCorrect": true,
+          "explanation": "Electromotive force (emf) is typically measured in volts (V), which is the unit of electric potential difference. It represents the voltage or potential difference in an electrical circuit."
+        },
+        {
+          "letter": "D",
+          "text": "Mutual inductance",
+          "isCorrect": false,
+          "explanation": "Mutual inductance is a property related to the interaction between two coils or circuits. It is measured in henrys (H), which is the unit of inductance."
+        }
+      ],
+      "explanation": "The correct statement is C. Emf. The quantity \"Aepitit\" has the same units as emf, which is volts (V).",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The change in electric potential with respect to distance equals to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2023,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Potential gradient",
+          "isCorrect": true,
+          "explanation": "The change in electric potential with respect to distance is ΔV/Δr which represent s potential gradient.Hence, option A is correct."
+        },
+        {
+          "letter": "B",
+          "text": "Amount of the charge",
+          "isCorrect": false,
+          "explanation": "Amount of the charge—This does not directly relate to the change in electric potential with distance. The amount of charge affects the electric field but not the potential gradient."
+        },
+        {
+          "letter": "C",
+          "text": "Potential difference",
+          "isCorrect": false,
+          "explanation": "Potential difference—This refers to the difference in electric potential between two points, not the rate of change of potential with respect to distance."
+        },
+        {
+          "letter": "D",
+          "text": "Surface charge density",
+          "isCorrect": false,
+          "explanation": "Surface charge density—This refers to the amount of charge per unit area on a surface, not the change in electric potential with distance."
+        }
+      ],
+      "explanation": "The change in electric potential with respect to distance is ΔV/Δr which represent s potential gradient. Hence, option A is correct.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The amount of energy required to move an electron of charge (e) by the application of a 1-volt potential difference is equal to",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2023,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 keV",
+          "isCorrect": false,
+          "explanation": "The amount of energy required in moving an electron of charge by application of 1V potential difference equals to 1 eV."
+        },
+        {
+          "letter": "B",
+          "text": "1 MeV",
+          "isCorrect": false,
+          "explanation": "The amount of energy required in moving an electron of charge by application of 1V potential difference equals to 1 eV."
+        },
+        {
+          "letter": "C",
+          "text": "1 GeV",
+          "isCorrect": false,
+          "explanation": "The amount of energy required in moving an electron of charge by application of 1V potential difference equals to 1 eV."
+        },
+        {
+          "letter": "D",
+          "text": "1 eV",
+          "isCorrect": true,
+          "explanation": "The amount of energy required in moving an electron of charge by application of 1V potential difference equals to 1 eV.STB Pg-64Hence, option D is correct."
+        }
+      ],
+      "explanation": "The amount of energy required in moving an electron of charge by application of 1V potential difference equals to 1 eV. STB Pg-64 Hence, option D is correct.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The negative gradient of electric potential is as called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2023,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Potential energy",
+          "isCorrect": false,
+          "explanation": "The amount of energy possessed by height."
+        },
+        {
+          "letter": "B",
+          "text": "Electric field intensity",
+          "isCorrect": true,
+          "explanation": "The negative gradient of electric potential is indeed called the electric field intensity. It represents the strength and direction of the electric field at a particular point. The electric field intensity tells us how much force a positive test charge would experience if placed in that electric field."
+        },
+        {
+          "letter": "C",
+          "text": "Electric potential energy",
+          "isCorrect": false,
+          "explanation": "Electric potential energy refers to the energy associated with the position of charged particles in an electric field. It depends on the amount of charge and the distance between them. When two charges are brought closer together, the electric potential energy decreases, indicating that work has been done to bring them closer. On the other hand, when the charges are moved farther apart, the electric potential energy increases, indicating that work must be done to separate them. Electric potential energy plays a crucial role in understanding the behavior of charged particles in various electrical systems."
+        },
+        {
+          "letter": "D",
+          "text": "Electron volt",
+          "isCorrect": false,
+          "explanation": "An electron volt (eV) is a unit of energy commonly used in physics. It's the amount of energy gained or lost by an electron when it moves through an electric potential difference of one volt. It's a convenient unit for describing energy at the atomic and subatomic level. For example, the energy of photons in light can be measured in electron volts."
+        }
+      ],
+      "explanation": "The negative gradient of electric potential is indeed called the electric field intensity. It represents the strength and direction of the electric field at a particular point. The electric field intensity tells us how much force a positive test charge would experience if placed in that electric field.",
+      "explanationImage": null,
+      "hints": [
+        "negative gradient"
+      ]
+    },
+    {
+      "text": "Which unit expresses work per unit charge?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2023,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Volt",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The unit of work per unit charge is the volt. One volt is defined as one joule of work done per coulomb of charge. Mathematically, it can be expressed as: 1 volt = 1 joule / 1 coulomb Therefore, the volt is the appropriate unit for expressing work per unit charge."
+        },
+        {
+          "letter": "B",
+          "text": "Ampere",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The ampere is the unit of electric current, which is the rate of flow of charge."
+        },
+        {
+          "letter": "C",
+          "text": "Coulomb",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The coulomb is the unit of electric charge."
+        },
+        {
+          "letter": "D",
+          "text": "Watt",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The watt is the unit of power, which is the rate of energy transfer."
+        }
+      ],
+      "explanation": "This is the correct answer. The unit of work per unit charge is the volt. One volt is defined as one joule of work done per coulomb of charge. Mathematically, it can be expressed as: 1 volt = 1 joule / 1 coulomb Therefore, the volt is the appropriate unit for expressing work per unit charge.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If the amount of work W is required to move a charge Q from one point to another then the potential difference between the two points is given by",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2023,
+      "options": [
+        {
+          "letter": "A",
+          "text": "V=W/Q",
+          "isCorrect": true,
+          "explanation": "The potential difference (V) between two points is defined as the work (W) required to move a unit charge (Q) from one point to the other. Mathematically, this is expressed as:V = W/QThis equation shows that the potential difference is directly proportional to the work done and inversely proportional to the charge"
+        },
+        {
+          "letter": "B",
+          "text": "V=Q/W",
+          "isCorrect": false,
+          "explanation": "This equation is incorrect, as the potential difference is not directly proportional to the charge"
+        },
+        {
+          "letter": "C",
+          "text": "Q=W/V",
+          "isCorrect": false,
+          "explanation": "This equation is incorrect, as it implies that the charge is dependent on the work and potential difference."
+        },
+        {
+          "letter": "D",
+          "text": "Q=V/W",
+          "isCorrect": false,
+          "explanation": "This equation is incorrect, as it implies that the charge is directly proportional to the potential difference and inversely proportional to the work."
+        }
+      ],
+      "explanation": "The potential difference (V) between two points is defined as the work (W) required to move a unit charge (Q) from one point to the other. Mathematically, this is expressed as:V = W/QThis equation shows that the potential difference is directly proportional to the work done and inversely proportional to the charge",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The bird perching on a high-power line does not get electroshock. This is because.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2023,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The whole body of the bird sitting on the live wire is at the same potential and hence no current flows through the body",
+          "isCorrect": true,
+          "explanation": "The whole body of the bird sitting on the live wire is at the same potential and hence no current flows through the body.When a bird perches on a high-power line, its entire body is at the same electric potential as the wire. Since there is no potential difference between different parts of the bird's body, no electric current flows through it. This is because electric current requires a potential difference (voltage) to drive it, and in this case, there is no voltage across the bird's body"
+        },
+        {
+          "letter": "B",
+          "text": "The whole body of the bird sitting on the live wire is at zero potential and hence no current flows through the body",
+          "isCorrect": false,
+          "explanation": "The bird's body is not at zero potential; it's at the same potential as the live wire."
+        },
+        {
+          "letter": "C",
+          "text": "Because the air medium between the live wire and the earth contains large numbers of charged particles",
+          "isCorrect": false,
+          "explanation": "The air medium between the live wire and the earth does not contain large numbers of charged particles that would prevent the bird from getting electroshocked."
+        },
+        {
+          "letter": "D",
+          "text": "Because the air medium between the live wire and the earth contains large number of electrons",
+          "isCorrect": false,
+          "explanation": "The air medium between the live wire and the earth does not contain large numbers of electrons that would prevent the bird from getting electroshocked."
+        }
+      ],
+      "explanation": "The whole body of the bird sitting on the live wire is at the same potential and hence no current flows through the body.When a bird perches on a high-power line, its entire body is at the same electric potential as the wire. Since there is no potential difference between different parts of the bird's body, no electric current flows through it. This is because electric current requires a potential difference (voltage) to drive it, and in this case, there is no voltage across the bird's body",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The SI unit of electric potential is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2023,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Volt",
+          "isCorrect": true,
+          "explanation": "The SI unit of electric potential, also known as voltage, is the volt (V). It is defined as the potential difference required to produce a current of one ampere through a resistance of one ohm."
+        },
+        {
+          "letter": "B",
+          "text": "Coulomb",
+          "isCorrect": false,
+          "explanation": "Coulomb (C) is the SI unit of electric charge."
+        },
+        {
+          "letter": "C",
+          "text": "Ampere",
+          "isCorrect": false,
+          "explanation": "Ampere (A) is the SI unit of electric current."
+        },
+        {
+          "letter": "D",
+          "text": "Ohm",
+          "isCorrect": false,
+          "explanation": "Ohm (Ω) is the SI unit of electric resistance."
+        }
+      ],
+      "explanation": "The SI unit of electric potential, also known as voltage, is the volt (V). It is defined as the potential difference required to produce a current of one ampere through a resistance of one ohm.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The formula V = W / q₀ represents:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electric intensity",
+          "isCorrect": false,
+          "explanation": "Incorrect, as electric intensity (electric field) is given by E=F/q"
+        },
+        {
+          "letter": "B",
+          "text": "Electric power",
+          "isCorrect": false,
+          "explanation": "Incorrect, because electric power is given by P=VI"
+        },
+        {
+          "letter": "C",
+          "text": "Electric potential",
+          "isCorrect": true,
+          "explanation": "Correct, because electric potential V is defined as the work done W per unit charge"
+        },
+        {
+          "letter": "D",
+          "text": "Electric field gradient",
+          "isCorrect": false,
+          "explanation": "Incorrect, as the electric field gradient refers to how the field changes in space, not work per charge."
+        }
+      ],
+      "explanation": "V=W/q is the formula of electric potential.",
+      "explanationImage": null,
+      "hints": [
+        "V = W / q₀"
+      ]
+    }
+  ]
+}

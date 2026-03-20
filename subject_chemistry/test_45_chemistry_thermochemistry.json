@@ -1,0 +1,1979 @@
+{
+  "questions": [
+    {
+      "text": "The molar heat capacity for a gas at constant T and P is :",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3/2R",
+          "isCorrect": false,
+          "explanation": "This is the molar heat capacity at constant volume for a monatomic ideal gas. It does not apply when both temperature and pressure are constant."
+        },
+        {
+          "letter": "B",
+          "text": "5/2R",
+          "isCorrect": false,
+          "explanation": "This is the molar heat capacity at constant volume for a diatomic ideal gas, which is not applicable when temperature and pressure remain constant."
+        },
+        {
+          "letter": "C",
+          "text": "Dependent on the atomicity of the gas",
+          "isCorrect": false,
+          "explanation": "This may be true for specific heat capacities at constant volume or pressure, but it does not apply when both temperature and pressure are constant."
+        },
+        {
+          "letter": "D",
+          "text": "Infinity",
+          "isCorrect": true,
+          "explanation": "At constant temperature and pressure, the molar heat capacity is infinite because any amount of heat added results in work done or phase change, without changing the temperature."
+        }
+      ],
+      "explanation": "When a gas is at constant temperature and pressure, adding heat does not change the temperature, which means the heat capacity is theoretically infinite. This is because the added heat is used to perform work or cause a phase change rather than increase temperature. Therefore, there is no limit to how much heat can be added without changing the temperature. The other options represent molar heat capacities at constant volume for specific types of gases or depend on atomic structure, which are not relevant under constant temperature and pressure conditions.",
+      "explanationImage": null,
+      "hints": [
+        "molar",
+        "constant T",
+        "constant P"
+      ]
+    },
+    {
+      "text": "For the smelting of iron ore: 2Fe₂O₃ + 3C → 4Fe + 3CO₂, given ∆Hf° of Fe₂O₃ is –824.2 kJ/mol and ∆Hf° of CO₂ is –393.7 kJ/mol. The reaction is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Endothermic",
+          "isCorrect": true,
+          "explanation": "The positive value of ∆H (476.3 kJ/mole) indicates that the reaction absorbs heat, making it endothermic. Therefore, this option is correct."
+        },
+        {
+          "letter": "B",
+          "text": "Exothermic",
+          "isCorrect": false,
+          "explanation": "An exothermic reaction would have a negative ∆H, indicating heat release. Here, ∆H is positive, so this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "∆H = 0",
+          "isCorrect": false,
+          "explanation": "If ∆H were zero, the reaction would neither absorb nor release heat. However, the calculated ∆H is 476.3 kJ/mole, so this is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "None of the above",
+          "isCorrect": false,
+          "explanation": "Since the correct answer is endothermic, this option is incorrect."
+        }
+      ],
+      "explanation": "The enthalpy of reaction is ΔH = ΣΔHf (products) - ΣΔHf (reactants). ΔH = [4(0) + 3(-393.7)] - [2(-824.2) + 3(0)] = -1181.1 + 1648.4 = +467.3 kJ. Since ΔH is positive, the reaction is endothermic.",
+      "explanationImage": null,
+      "hints": [
+        "∆Hf°",
+        "–393.7 kJ/mol",
+        "–824.2 kJ/mol"
+      ]
+    },
+    {
+      "text": "5 mole of an ideal gas expand reversibly from a volume of 8 dm3 to 80 dm3 at a temperature of 27°C. Calculate the change in entropy.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "70.26 JK–1",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The entropy change formula requires the correct application of the natural logarithm of the volume ratio, which wasn't followed here, leading to an incorrect result."
+        },
+        {
+          "letter": "B",
+          "text": "82.55 JK–1",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The calculation here did not correctly apply the formula ΔS = nR ln(V2/V1), resulting in a wrong value for the entropy change."
+        },
+        {
+          "letter": "C",
+          "text": "95.73 JK–1",
+          "isCorrect": true,
+          "explanation": "This option is correct. The change in entropy is calculated using the formula ΔS = nR ln(V2/V1). By substituting the given values: ΔS = 5 mol x 8.314 J/mol K x ln(80 dm3/8 dm3) = 95.73 J/K."
+        },
+        {
+          "letter": "D",
+          "text": "107.11 JK–1",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The calculation overestimates the entropy change by not correctly applying the formula ΔS = nR ln(V2/V1)."
+        }
+      ],
+      "explanation": "To calculate the change in entropy of an ideal gas, we can use the formula:ΔS = nR ln(V2/V1)Given that 5 moles of an ideal gas expand reversibly from a volume of 8 dm³ to 80 dm³ at a temperature of 27°C, we can calculate the change in entropy as follows:ΔS = (5 mol) (8.314 J/mol K) log(80 dm³/8 dm³) = 5 mol x 8.314 J/mol K x 2.197 = 95.73 J/KThis means that Option C is the correct answer as it provides the accurate change in entropy. The other options are incorrect because they do not calculate the change in entropy correctly.",
+      "explanationImage": null,
+      "hints": [
+        "expand",
+        "reversibly"
+      ]
+    },
+    {
+      "text": "The standard heat of combustion of a hydrocarbon compound is an/a:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Extensive property",
+          "isCorrect": false,
+          "explanation": "An extrinsic property is a property that depends on the amount or conditions of the substance being measured, as opposed to its inherent nature or identity."
+        },
+        {
+          "letter": "B",
+          "text": "Colligative property",
+          "isCorrect": false,
+          "explanation": "A colligative property is a property of a solution that depends on the concentration of the solute particles in the solution, regardless of their identity. There are four main colligative properties:1. Vapour pressure lowering2. Boiling point elevation3. Freezing point depression4. Osmotic pressure"
+        },
+        {
+          "letter": "C",
+          "text": "Intensive property",
+          "isCorrect": true,
+          "explanation": "The standard heat of combustion is an intensive property because it is defined per mole and does not depend on the quantity of the substance but rather on its identity and structure."
+        },
+        {
+          "letter": "D",
+          "text": "Constitutive property",
+          "isCorrect": false,
+          "explanation": "A constitutive property describes a material's response to external stimuli. The standard heat of combustion is a measure of energy change during a chemical reaction, not a response to physical stimuli, so it is not a constitutive property."
+        }
+      ],
+      "explanation": "Standard heat of combustion is defined for a specific amount of substance (per mole). Since the property is defined per unit amount, it does not depend on the total quantity of the substance present, making it an intensive property.",
+      "explanationImage": null,
+      "hints": [
+        "standard",
+        "heat",
+        "combustion"
+      ]
+    },
+    {
+      "text": "In the case of mixing a strong acid and a strong base, each of 1 M concentration, when does the highest temperature rise occur?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 ml acid and 30 ml alkali",
+          "isCorrect": false,
+          "explanation": "This mixture contains an excess of alkali (base) after 20 ml of acid and alkali have reacted. The reaction stops when the acid runs out, and the remaining 10 ml of alkali does not contribute to further heat release from neutralization."
+        },
+        {
+          "letter": "B",
+          "text": "10 ml acid and 40 ml alkali",
+          "isCorrect": false,
+          "explanation": "This mixture has an even greater excess of alkali than option A. Only 10 ml of each reactant neutralizes, and less total heat is released compared to the complete neutralization in option C."
+        },
+        {
+          "letter": "C",
+          "text": "25 ml acid and 25 ml alkali",
+          "isCorrect": true,
+          "explanation": "When 25 ml of acid is reacting with 25 ml of alkali, the maximum equivalent of acid is reacting with alkali since the volume of the resulting solution is the same in every case; therefore, the increase in temperature is the highest where maximum equivalents of acids and alkalies are reacting"
+        },
+        {
+          "letter": "D",
+          "text": "35 ml acid and 15 ml alkali",
+          "isCorrect": false,
+          "explanation": "This mixture contains an excess of acid. Only 15 ml of each reactant neutralizes, and like options A and B, less total heat is released compared to the complete neutralization in option C."
+        }
+      ],
+      "explanation": "The heat released is maximized when the maximum number of moles of acid and base react. With equal concentrations, mixing equal volumes (25 ml each) ensures a complete stoichiometric reaction, releasing the most heat and causing the highest temperature rise.",
+      "explanationImage": null,
+      "hints": [
+        "strong acid and a strong base,",
+        "1 M concentration",
+        "highest temperature"
+      ]
+    },
+    {
+      "text": "If a process is both endothermic and spontaneous, then:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "∆S > 0",
+          "isCorrect": true,
+          "explanation": "As ∆G = ∆H – T∆SFor spontaneous process, ∆G = negative For endothermic process, ∆H = positive Therefore, ∆S > 0"
+        },
+        {
+          "letter": "B",
+          "text": "∆S < 0",
+          "isCorrect": false,
+          "explanation": "As ∆G = ∆H – T∆SFor spontaneous process, ∆G = negative For endothermic process, ∆H = positive Therefore, ∆S > 0"
+        },
+        {
+          "letter": "C",
+          "text": "∆H < 0",
+          "isCorrect": false,
+          "explanation": "As ∆G = ∆H – T∆SFor spontaneous process, ∆G = negative For endothermic process, ∆H = positive Therefore, ∆S > 0"
+        },
+        {
+          "letter": "D",
+          "text": "∆G > 0",
+          "isCorrect": false,
+          "explanation": "As ∆G = ∆H – T∆SFor spontaneous process, ∆G = negative For endothermic process, ∆H = positive Therefore, ∆S > 0"
+        }
+      ],
+      "explanation": "As ∆G = ∆H – T∆SFor spontaneous process, ∆G = negative For endothermic process, ∆H = positive Therefore, ∆S > 0",
+      "explanationImage": null,
+      "hints": [
+        "endothermic",
+        "spontaneous"
+      ]
+    },
+    {
+      "text": "The product of pressure and volume decreases in an:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Adiabatic expansion",
+          "isCorrect": true,
+          "explanation": "Correct! During an adiabatic expansion, the system does work on the surroundings, leading to a decrease in internal energy since no heat is exchanged. This results in a decrease in temperature and, consequently, a decrease in the product of pressure and volume as per the ideal gas law."
+        },
+        {
+          "letter": "B",
+          "text": "Adiabatic compression",
+          "isCorrect": false,
+          "explanation": "Incorrect. In adiabatic compression, the system is compressed, which results in an increase in pressure and temperature. Therefore, the product of pressure and volume increases, not decreases."
+        },
+        {
+          "letter": "C",
+          "text": "Both a and b",
+          "isCorrect": false,
+          "explanation": "Incorrect. Only adiabatic expansion results in a decrease in the product of pressure and volume, while adiabatic compression results in an increase."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "Incorrect. Adiabatic expansion is the correct scenario where the product of pressure and volume decreases."
+        }
+      ],
+      "explanation": "In an adiabatic expansion, the gas expands without heat exchange with the surroundings, leading to a decrease in internal energy and temperature. According to the ideal gas law, PV = nRT, if the volume increases and temperature decreases, the pressure must decrease to maintain the equality, resulting in a decreased product of pressure and volume.In contrast, during adiabatic compression, the gas is compressed, causing an increase in pressure and temperature, which results in an increase in the product of pressure and volume. Therefore, only adiabatic expansion results in a decrease in the product of pressure and volume.",
+      "explanationImage": null,
+      "hints": [
+        "product",
+        "pressure",
+        "volume"
+      ]
+    },
+    {
+      "text": "Heat absorbed or evolved during the chemical reaction at constant pressure is:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "ΔH",
+          "isCorrect": true,
+          "explanation": "ΔH (Delta H) is the symbol for enthalpy change, which specifically represents the heat absorbed or released by a system during a chemical reaction at constant pressure. It is the correct representation for this scenario."
+        },
+        {
+          "letter": "B",
+          "text": "ΔE",
+          "isCorrect": false,
+          "explanation": "ΔE (Delta E) refers to the change in internal energy of a system. It accounts for both heat exchange and work done, without being specific to constant-pressure conditions. Therefore, it is not the correct choice for this question."
+        },
+        {
+          "letter": "C",
+          "text": "ΔV",
+          "isCorrect": false,
+          "explanation": "ΔV (Delta V) represents a change in volume, which is related to work done in a system but does not directly indicate heat change at constant pressure. Thus, it is not applicable to this question."
+        },
+        {
+          "letter": "D",
+          "text": "ΔH+ΔE",
+          "isCorrect": false,
+          "explanation": "ΔH + ΔE is not a standard thermodynamic expression. ΔH represents the enthalpy change, and ΔE represents the internal energy change. Combining them does not specifically convey heat change at constant pressure, making this option incorrect."
+        }
+      ],
+      "explanation": "The change in enthalpy (ΔH) of a system is defined as the heat transferred at constant pressure. This is a fundamental concept in thermodynamics and explains why enthalpy is such a useful state function for chemists, who often perform reactions in open containers at constant atmospheric pressure.",
+      "explanationImage": null,
+      "hints": [
+        "Heat",
+        "constant pressure"
+      ]
+    },
+    {
+      "text": "The change in enthalpy of a system when one mole of the substance is completely burnt in excess of air or oxygen is called:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Heat of reaction",
+          "isCorrect": false,
+          "explanation": "\"Heat of reaction\" describes the enthalpy change for any chemical reaction, which can include various processes, not just combustion."
+        },
+        {
+          "letter": "B",
+          "text": "Heat of atomization",
+          "isCorrect": false,
+          "explanation": "This term refers to the enthalpy change when one mole of a substance is broken down into its individual atoms, not related to burning in oxygen."
+        },
+        {
+          "letter": "C",
+          "text": "Heat of formation",
+          "isCorrect": false,
+          "explanation": "This refers to the enthalpy change when one mole of a compound is formed from its elements, not specifically when a substance is combusted."
+        },
+        {
+          "letter": "D",
+          "text": "Heat of combustion",
+          "isCorrect": true,
+          "explanation": "This is the enthalpy change when one mole of a substance is completely burnt in oxygen, accurately describing the process in question."
+        }
+      ],
+      "explanation": "This is the precise definition of the standard enthalpy of combustion (ΔH°c ). It refers to the heat change for the complete combustion of one mole of a substance under standard conditions.",
+      "explanationImage": null,
+      "hints": [
+        "enthalpy",
+        "burnt",
+        "excess of air or oxygen"
+      ]
+    },
+    {
+      "text": "Which of the following enthalpy change may be positive or negative value?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "ΔHf (formation)",
+          "isCorrect": false,
+          "explanation": "ΔHf can be either positive or negative depending on the specific compound and the energies involved in its formation."
+        },
+        {
+          "letter": "B",
+          "text": "ΔHc (combustion)",
+          "isCorrect": false,
+          "explanation": "It is typically negative because combustion reactions usually release energy. It represents the enthalpy change when one mole of a substance is completely burnt in excess oxygen."
+        },
+        {
+          "letter": "C",
+          "text": "ΔHsol (solution)",
+          "isCorrect": false,
+          "explanation": "It can be either positive or negative, depending on the specific solute-solvent interaction and the dissolution process."
+        },
+        {
+          "letter": "D",
+          "text": "Both A and C",
+          "isCorrect": true,
+          "explanation": "This option is correct because both ΔHf (heat of formation) and ΔHsol (heat of solution) can have either positive or negative values. ΔHf is the enthalpy change when one mole of a compound is formed from its elements in their standard states. This value can be positive if the formation of the compound requires an input of energy or negative if it releases energy during formation. ΔHsol is the enthalpy change when one mole of a solute dissolves in a solvent to form a solution. This value can be positive if the dissolution process requires an input of energy (endothermic) or negative if it releases energy (exothermic)."
+        }
+      ],
+      "explanation": "The enthalpy of formation (ΔHf) can be positive (endothermic) or negative (exothermic). The enthalpy of solution (ΔHsol) can also be positive or negative depending on the balance between lattice energy and hydration energy. Enthalpy of combustion is always negative.",
+      "explanationImage": null,
+      "hints": [
+        "enthalpy",
+        "change",
+        "positive",
+        "negative"
+      ]
+    },
+    {
+      "text": "Neutralization of acid-base is:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Spontaneous",
+          "isCorrect": false,
+          "explanation": "Neutralization reactions between acids and bases tend to occur naturally when the two substances come into contact. This is because they are driven by the tendency of protons (H⁺ ions) from the acid to combine with hydroxide (OH⁻) ions from the base to form water (H₂O), which is a stable compound."
+        },
+        {
+          "letter": "B",
+          "text": "Exothermic",
+          "isCorrect": false,
+          "explanation": "Neutralization reactions typically release energy in the form of heat. This is because the formation of water is an exothermic process, meaning it releases energy. The heat is a result of the more stable state achieved after the reaction."
+        },
+        {
+          "letter": "C",
+          "text": "Non-spontaneous",
+          "isCorrect": false,
+          "explanation": "It is incorrect because neutralization reactions are indeed spontaneous under normal conditions."
+        },
+        {
+          "letter": "D",
+          "text": "Both A and B",
+          "isCorrect": true,
+          "explanation": "It is correct because the neutralization of an acid-base reaction can be both spontaneous and exothermic. Here's why: A. Spontaneous: Neutralization reactions between acids and bases tend to occur naturally when the two substances come into contact. This is because they are driven by the tendency of protons (H⁺ ions) from the acid to combine with hydroxide (OH⁻) ions from the base to form water (H₂O), which is a stable compound. B. Exothermic: Neutralization reactions typically release energy in the form of heat. This is because the formation of water is an exothermic process, meaning it releases energy. The heat is a result of the more stable state achieved after the reaction."
+        }
+      ],
+      "explanation": "The reaction between a strong acid and a strong base is highly favorable, releasing a significant amount of heat (exothermic, ΔH < 0). This release of energy and increase in entropy of the surroundings make the process spontaneous (ΔG < 0).",
+      "explanationImage": null,
+      "hints": [
+        "Neutralization"
+      ]
+    },
+    {
+      "text": "ΔH° represents the enthalpy changeat standard conditions, which are:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0°C and 1 atm pressure",
+          "isCorrect": false,
+          "explanation": "It is incorrect because it doesn't correspond to standard conditions."
+        },
+        {
+          "letter": "B",
+          "text": "0 K and 1 atm pressure",
+          "isCorrect": false,
+          "explanation": "It is not valid because 0 K is absolute zero, and it's not a temperature that can practically be reached in a chemical reaction."
+        },
+        {
+          "letter": "C",
+          "text": "25°C and 1 atm pressure",
+          "isCorrect": true,
+          "explanation": "This option is correct because ΔH° represents the standard enthalpy change, which is measured under standard conditions. Standard conditions are defined as 25°C (298.15 K) and 1 atm pressure (1.01325 bar). This is commonly used in thermodynamic calculations and provides a consistent reference point for comparing enthalpy changes of different reactions."
+        },
+        {
+          "letter": "D",
+          "text": "25°C and 2 atm pressure",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it deviates from the standard pressure of 1 atm."
+        }
+      ],
+      "explanation": "The symbol \"°\" denotes standard conditions in thermodynamics. For thermochemical data, this is almost universally defined as a pressure of 1 atm (or 1 bar) and a temperature of 25°C (298.15 K).",
+      "explanationImage": null,
+      "hints": [
+        "ΔH",
+        "°",
+        "enthalpy",
+        "change"
+      ]
+    },
+    {
+      "text": "The enthalpy change ΔH of a process is given by the relation:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "ΔH=ΔU+PΔV",
+          "isCorrect": true,
+          "explanation": "This equation is correct. It represents the relationship between the change in enthalpy (ΔH), the change in internal energy (ΔU), and the work done by or against the external pressure (P) during a process, multiplied by the change in volume (ΔV). This equation is a statement of the first law of thermodynamics."
+        },
+        {
+          "letter": "B",
+          "text": "ΔH=ΔU-ΔnRT",
+          "isCorrect": false,
+          "explanation": "This equation is incorrect. While it seems similar to the correct equation in option A, it's not accurate. The term Δn represents the change in the number of moles of gas molecules between reactants and products in a chemical reaction, and R is the ideal gas constant. The correct equation for enthalpy change should have a positive term involving PΔV, not a negative one like -ΔnRT."
+        },
+        {
+          "letter": "C",
+          "text": "ΔU=ΔH+ΔP",
+          "isCorrect": false,
+          "explanation": "This equation is incorrect. The symbols used in the equation seem to mix enthalpy (H) and internal energy (U) with pressure (P). Enthalpy and internal energy are related, but the equation doesn't correctly represent their relationship. Additionally, the term \"ΔP\" is not commonly used in equations relating enthalpy and internal energy."
+        },
+        {
+          "letter": "D",
+          "text": "ΔH=ΔU-PΔV",
+          "isCorrect": false,
+          "explanation": "This equation is incorrect. It's similar to option B, but the sign for the term involving PΔV is negative (subtraction) instead of positive (addition), as it should be according to the correct equation in option A."
+        }
+      ],
+      "explanation": "This equation is the definition of enthalpy change (ΔH) at constant pressure. It states that the change in enthalpy is equal to the change in internal energy (ΔU) plus the pressure-volume work (PΔV) done by or on the system.",
+      "explanationImage": null,
+      "hints": [
+        "relation",
+        "enthalpy"
+      ]
+    },
+    {
+      "text": "A system absorbs 100 kJ of heat and performs 50 kJ of work on the surroundings. The change in internal energy of the system is:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "50 kJ",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. It's calculated by subtracting the work done on the surroundings from the heat absorbed by the system.ΔU=q-W∆U=100-50 (Work done on the surroundings by the system is negative).∆U=50 kJ"
+        },
+        {
+          "letter": "B",
+          "text": "100 kJ",
+          "isCorrect": false,
+          "explanation": "This answer is incorrect. It represents the total heat absorbed by the system, but it doesn't take into account the work done."
+        },
+        {
+          "letter": "C",
+          "text": "150 kJ",
+          "isCorrect": false,
+          "explanation": "This answer is incorrect. It doesn't consider the work done on the surroundings."
+        },
+        {
+          "letter": "D",
+          "text": "5000 kJ",
+          "isCorrect": false,
+          "explanation": "This answer is incorrect. It's not consistent with the provided information and the calculations."
+        }
+      ],
+      "explanation": "According to the first law of thermodynamics, ΔU = q + w. Heat absorbed is positive (q = +100 kJ), and work done by the system is negative (w = -50 kJ). Therefore, ΔU = 100 kJ - 50 kJ = 50 kJ.",
+      "explanationImage": null,
+      "hints": [
+        "internal",
+        "energy",
+        "absorbs 100 kJ",
+        "50 kJ of work"
+      ]
+    },
+    {
+      "text": "Which equation represents the atomization of iodine?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/2 I(sp)→ I(l)",
+          "isCorrect": false,
+          "explanation": "This equation doesn't match the concept of atomization. The state \"sp\" is not recognized, and the reaction suggests the formation of liquid iodine (I) from a mysterious state \"sp,\" which is not consistent with the process of atomization. Atomization involves breaking molecules into individual atoms, not forming a liquid from an unspecified state."
+        },
+        {
+          "letter": "B",
+          "text": "1/2 I2(s)→I(g)",
+          "isCorrect": true,
+          "explanation": "This equation correctly represents the atomization of iodine. It indicates that one-half mole of solid iodine (I2) is converted into gaseous iodine atoms (I). This aligns with the definition of the standard enthalpy of atomization, where energy is absorbed to break the chemical bonds within the diatomic iodine molecules."
+        },
+        {
+          "letter": "C",
+          "text": "I2(l)→2l(g)",
+          "isCorrect": false,
+          "explanation": "This equation doesn't represent atomization. It suggests that liquid iodine (I2) is directly converted into gaseous iodine atoms (I), but atomization typically starts with solid or gaseous substances, not liquids."
+        },
+        {
+          "letter": "D",
+          "text": "I2(g)→2l(g)",
+          "isCorrect": false,
+          "explanation": "This equation doesn't represent atomization either. It implies that gaseous iodine (I2) is directly converted into gaseous iodine atoms (I), but again, atomization usually involves starting with a solid or gaseous compound, not with gaseous molecules."
+        }
+      ],
+      "explanation": "The standard enthalpy of atomization of an element is the amount of heat absorbed when one mole of gaseous atoms are formed from the element under standard conditions i 298K and one-atmosphere pressure.Examples:The standard enthalpy of atomization of hydrogen is given below(i) ½ H2(g) → H(g) ΔH:-+218kJmol(ii) ½ l2(s) → l(g) ΔHat =+ve",
+      "explanationImage": null,
+      "hints": [
+        "atomization",
+        "iodine"
+      ]
+    },
+    {
+      "text": "The ΔH°f of a reaction is recorded at:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "273 K",
+          "isCorrect": false,
+          "explanation": "This temperature is the freezing point of water and is lower than the standard temperature of 298 K. The standard enthalpy of formation is defined at 298 K, making 273 K an incorrect choice. Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "373 K",
+          "isCorrect": false,
+          "explanation": "This temperature is the boiling point of water and is higher than the standard temperature of 298 K. The standard enthalpy of formation is specified at 298 K, so 373 K is not appropriate. Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "298 K",
+          "isCorrect": true,
+          "explanation": "This is the correct option. The standard enthalpy of formation (ΔH°f) is recorded at 298 K, which is 25°C. This is the standard reference temperature for tabulating thermodynamic data."
+        },
+        {
+          "letter": "D",
+          "text": "473 K",
+          "isCorrect": false,
+          "explanation": "This temperature is significantly higher than the standard temperature of 298 K. The standard enthalpy of formation is defined at 298 K, and recording it at 473 K is not consistent with standard conditions. Incorrect."
+        }
+      ],
+      "explanation": "The standard enthalpy of formation, ΔH°f, is measured under standard conditions, which include a temperature of 25°C (298 K) and a pressure of 1 atm. This standardization allows for consistent comparison of thermodynamic data across different reactions. Option C, 298 K, is the correct answer because it aligns with these standard conditions. Options A (273 K), B (373 K), and D (473 K) are incorrect because they do not represent the standard reference temperature for ΔH°f.",
+      "explanationImage": null,
+      "hints": [
+        "ΔH°",
+        "reaction"
+      ]
+    },
+    {
+      "text": "Which of the following enthalpies is always negative?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enthalpy of solution",
+          "isCorrect": false,
+          "explanation": "The enthalpy of solution can be either positive or negative, depending on whether the dissolution process is endothermic (absorbs heat, positive) or exothermic (releases heat, negative). Therefore, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Enthalpy of sublimation",
+          "isCorrect": false,
+          "explanation": "The enthalpy of sublimation is the energy required to change a substance from a solid to a gas directly. Sublimation generally requires energy input, making the enthalpy of sublimation positive. Therefore, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Enthalpy of neutralization",
+          "isCorrect": true,
+          "explanation": "The enthalpy of neutralization refers to the heat released or absorbed during the reaction between an acid and a base to form a salt and water. This reaction typically releases energy as it moves toward a more stable state, making the enthalpy of neutralization negative. Therefore, this option is correct."
+        },
+        {
+          "letter": "D",
+          "text": "Enthalpy of formation",
+          "isCorrect": false,
+          "explanation": "The enthalpy of formation is the change in enthalpy when one mole of a compound is formed from its elements in their standard states. This value can be positive or negative, depending on whether energy is absorbed or released during the formation process. Compounds that release energy upon formation have negative enthalpies of formation, while those that require energy input have positive enthalpies of formation. Therefore, this option is incorrect."
+        }
+      ],
+      "explanation": "The reaction between an acid and a base to form a salt and water is an exothermic process, meaning it always releases heat. Therefore, the enthalpy of neutralization is always negative.",
+      "explanationImage": null,
+      "hints": [
+        "negative",
+        "always"
+      ]
+    },
+    {
+      "text": "Which one of the following equation shows standard enthalpy of combustion?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "CH4(g) + 2O2(g) → CO2(g) + 2H2O(g)",
+          "isCorrect": true,
+          "explanation": "This equation represents the combustion of methane (CH₄) with oxygen to form carbon dioxide (CO₂) and water (H₂O). It's a balanced equation, and since methane is a common fuel, this equation does represent the standard enthalpy of combustion. This option is correct."
+        },
+        {
+          "letter": "B",
+          "text": "2CH4(g) + 4O2(g) → 2CO2(g) + 4H2O(g)",
+          "isCorrect": false,
+          "explanation": "This equation is similar to option A but multiplied by a factor of 2. While it's still a valid combustion reaction, the standard enthalpy change would be the same as in option A because it's a thermodynamic state function and doesn't depend on the coefficients. This option is not incorrect in the sense that it represents combustion, but it's not necessary to multiply the coefficients by 2 for the purposes of determining the standard enthalpy of combustion. Incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "CH4(s) + 2O2(g) → CO2(g) + 2H2O(g)",
+          "isCorrect": false,
+          "explanation": "This equation represents the combustion of methane (CH₄) in its solid state, which is not common. Methane is usually found in the gaseous state, so this equation doesn't represent the standard enthalpy of combustion under typical conditions. This option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "CH4(l) + 2O2(g) → CO2(g) + 2H2O(g)",
+          "isCorrect": false,
+          "explanation": "This equation represents the combustion of methane (CH₄) in its liquid state. While methane can be liquefied under certain conditions, the standard enthalpy of combustion is typically expressed for the gaseous state. This option is not incorrect in the sense of representing a combustion reaction, but it's not standard for calculating the standard enthalpy of combustion. This option is incorrect."
+        }
+      ],
+      "explanation": "The standard enthalpy of combustion is defined for the combustion of one mole of a substance in its standard state. Equation A correctly shows the combustion of one mole of methane gas to form products in their standard states (water as a liquid at 25°C).",
+      "explanationImage": null,
+      "hints": [
+        "standard",
+        "combustion",
+        "enthalpy"
+      ]
+    },
+    {
+      "text": "Hess's law is known as:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Law of heat summation",
+          "isCorrect": true,
+          "explanation": "Hess's law of heat summation, also known as Hess's law, states that the enthalpy change for a chemical reaction is the same whether the reaction takes place in one step or in a series of steps. This means that the enthalpy change for a reaction is independent of the pathway taken. The law of heat summation is based on the fact that enthalpy is a state function. This means that the enthalpy of a system depends only on its state, and not on the pathway taken to reach that state."
+        },
+        {
+          "letter": "B",
+          "text": "Law of constant heat capacity",
+          "isCorrect": false,
+          "explanation": "There is no law of constant heat capacity. Heat capacity is a property of a substance that determines how much heat is required to raise its temperature by a certain amount. The heat capacity of a substance can change with temperature, pressure, and other factors."
+        },
+        {
+          "letter": "C",
+          "text": "Law of mass action",
+          "isCorrect": false,
+          "explanation": "The law of mass action states that the rate of a chemical reaction is directly proportional to the product of the concentrations of the reactants, each raised to the power of their stoichiometric coefficients."
+        },
+        {
+          "letter": "D",
+          "text": "Law of conservation of mass",
+          "isCorrect": false,
+          "explanation": "The law of conservation of mass states that mass cannot be created or destroyed in a chemical reaction. This means that the total mass of the reactants must be equal to the total mass of the products."
+        }
+      ],
+      "explanation": "Hess's law of heat summation, also known as Hess's law, states that the enthalpy change for a chemical reaction is the same whether the reaction takes place in one step or in a series of steps. This means that the enthalpy change for a reaction is independent of the pathway taken.The law of heat summation is based on the fact that enthalpy is a state function. This means that the enthalpy of a system depends only on its state, and not on the pathway taken to reach that state.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "SI unit for energy change in a chemical reaction is:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Joule mol-1",
+          "isCorrect": false,
+          "explanation": "The SI unit for energy change in a chemical reaction is joules per mole. This means that the energy change is expressed in terms of the amount of energy released or absorbed per mole of reactants. For example, if the energy change for a reaction is -100 J/mol, this means that 100 joules of energy are released for every mole of reactants that react.The unit \"joule\" is a unit of energy, and the unit \"mole\" is a unit of amount of substance. So, joules per mole is a unit of energy per amount of substance. This is a useful unit because it allows us to compare the energy changes of different reactions that involve different amounts of reactants."
+        },
+        {
+          "letter": "B",
+          "text": "KJ mol-1",
+          "isCorrect": false,
+          "explanation": "1 kilo joule is equal to 1000 joules."
+        },
+        {
+          "letter": "C",
+          "text": "Both A and B",
+          "isCorrect": true,
+          "explanation": "The SI unit for energy change in a chemical reaction is joules per mole. This means that the energy change is expressed in terms of the amount of energy released or absorbed per mole of reactants. For example, if the energy change for a reaction is -100 J/mol, this means that 100 joules of energy are released for every mole of reactants that react.The unit \"joule\" is a unit of energy, and the unit \"mole\" is a unit of amount of substance. So, joules per mole is a unit of energy per amount of substance. This is a useful unit because it allows us to compare the energy changes of different reactions that involve different amounts of reactants. Multiply by 1000 to convert to KJ."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "Option C is correct."
+        }
+      ],
+      "explanation": "The SI unit for energy change in a chemical reaction is joules per mole. This means that the energy change is expressed in terms of the amount of energy released or absorbed per mole of reactants. For example, if the energy change for a reaction is -100 J/mol, this means that 100 joules of energy are released for every mole of reactants that react.The unit \"joule\" is a unit of energy, and the unit \"mole\" is a unit of amount of substance. So, joules per mole is a unit of energy per amount of substance. This is a useful unit because it allows us to compare the energy changes of different reactions that involve different amounts of reactants. Multiply it by 1000 to convert to KJ.",
+      "explanationImage": null,
+      "hints": [
+        "energy change"
+      ]
+    },
+    {
+      "text": "Heat is the energy that flows across the:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Surroundings",
+          "isCorrect": false,
+          "explanation": "In the case of heat, the system and its surroundings are separated by a boundary. This boundary can be real or imaginary, but it must prevent the free flow of energy between the system and its surroundings."
+        },
+        {
+          "letter": "B",
+          "text": "Boundaries of the system",
+          "isCorrect": true,
+          "explanation": "Heat is the energy that flows across the boundaries of the system. This means that heat can flow into or out of the system, but it cannot flow within the system.The reason for this is that heat is a form of energy, and energy can only be transferred between systems. In the case of heat, the system and its surroundings are separated by a boundary. This boundary can be real or imaginary, but it must prevent the free flow of energy between the system and its surroundings.If the boundary were not present, then heat would be able to flow freely within the system. This would mean that the temperature of the system would be uniform, which is not possible in reality. Therefore, heat can only flow across the boundaries of the system. This is an important concept in thermodynamics, as it allows us to track the flow of energy into and out of the system."
+        },
+        {
+          "letter": "C",
+          "text": "Only within the system",
+          "isCorrect": false,
+          "explanation": "It cannot flow within the system.The reason for this is that heat is a form of energy, and energy can only be transferred between systems."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": "Only option B is correct."
+        }
+      ],
+      "explanation": "Heat is the energy that flows across the boundaries of the system. This means that heat can flow into or out of the system, but it cannot flow within the system.The reason for this is that heat is a form of energy, and energy can only be transferred between systems. In the case of heat, the system and its surroundings are separated by a boundary. This boundary can be real or imaginary, but it must prevent the free flow of energy between the system and its surroundings.If the boundary were not present, then heat would be able to flow freely within the system. This would mean that the temperature of the system would be uniform, which is not possible in reality.Therefore, heat can only flow across the boundaries of the system. This is an important concept in thermodynamics, as it allows us to track the flow of energy into and out of the system.",
+      "explanationImage": null,
+      "hints": [
+        "Heat"
+      ]
+    },
+    {
+      "text": "In thermodynamic terms boundary separates _?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Surrounding from the environment",
+          "isCorrect": false,
+          "explanation": "The surrounding from the environment is not a correct answer because the surrounding is everything outside of the system. The environment is the entire universe, so it is not possible to separate the surrounding from the environment."
+        },
+        {
+          "letter": "B",
+          "text": "Reactants from contamination",
+          "isCorrect": false,
+          "explanation": "It seperates a system from its surrounding."
+        },
+        {
+          "letter": "C",
+          "text": "System from surrounding",
+          "isCorrect": true,
+          "explanation": "In thermodynamics, a boundary separates a system from its surroundings. A system is a collection of matter and energy that is under study. The surroundings are everything outside of the system.The boundary can be real or imaginary. A real boundary is a physical barrier that separates the system from its surroundings. An imaginary boundary is a conceptual barrier that separates the system from its surroundings."
+        },
+        {
+          "letter": "D",
+          "text": "Products from the surrounding",
+          "isCorrect": false,
+          "explanation": "It seperates a system from its surrounding."
+        }
+      ],
+      "explanation": "In thermodynamics, a boundary separates a system from its surroundings. A system is a collection of matter and energy that is under study. The surroundings are everything outside of the system.The boundary can be real or imaginary. A real boundary is a physical barrier that separates the system from its surroundings. An imaginary boundary is a conceptual barrier that separates the system from its surroundings.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Enthalpy of a system is given as:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "∆H = qv+w",
+          "isCorrect": false,
+          "explanation": "This is not the correct formula of enthalpy."
+        },
+        {
+          "letter": "B",
+          "text": "H = E+ PV",
+          "isCorrect": true,
+          "explanation": "To take account of increase in internal energy and accompanying work done by the gas, there is another property of the system called enthalpy or heat content. It is represented by H. In general, enthalpy is equal to the internal energy, E plus the product of pressure and volume (PV). H = E + PV Enthalpy is a state function. It is measured in joules. It is not possible, to measure the enthalpy of a system in a given state."
+        },
+        {
+          "letter": "C",
+          "text": "H = qp+PV",
+          "isCorrect": false,
+          "explanation": "This is not the correct formula of enthalpy."
+        },
+        {
+          "letter": "D",
+          "text": "H = E",
+          "isCorrect": false,
+          "explanation": "This is not the correct formula of enthalpy."
+        }
+      ],
+      "explanation": "To take account of increase in internal energy and accompanying work done by the gas, there is another property of the system called enthalpy or heat content. It is represented by H. In general, enthalpy is equal to the internal energy, E plus the product of pressure and volume (PV). H = E + PV Enthalpy is a state function. It is measured in joules. It is not possible, to measure the enthalpy of a system in a given state.",
+      "explanationImage": null,
+      "hints": [
+        "Enthalpy of a system"
+      ]
+    },
+    {
+      "text": "At which of the following temperature standard enthalpies are measured?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Electrochemistry",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "373K",
+          "isCorrect": false,
+          "explanation": "373K is equivalent to 100°C, which is the boiling point of water at 1 atm, not the standard temperature for measuring enthalpies."
+        },
+        {
+          "letter": "B",
+          "text": "298K",
+          "isCorrect": true,
+          "explanation": "298K, or 25°C, is the standard temperature at which enthalpies are typically measured. This is part of the standard state conditions, which also include 1 atm pressure and 1 M concentration."
+        },
+        {
+          "letter": "C",
+          "text": "350K",
+          "isCorrect": false,
+          "explanation": "350K does not correspond to the standard temperature for measuring enthalpies. It is above room temperature and not part of the standard conditions."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": "Not all of the mentioned temperatures are used for standard enthalpy measurements. Only 298K is the standard temperature."
+        }
+      ],
+      "explanation": "The correct answer is 298K, which is equivalent to 25°C. This temperature is considered the standard temperature for measuring and reporting standard enthalpies of formation or reaction. At this temperature, along with a pressure of 1 atm and 1 M concentration, the conditions are known as the standard state. The other options, 373K and 350K, do not represent standard conditions and are incorrect. Option 'All of these' is incorrect because not all given temperatures are standard conditions for enthalpy measurements.",
+      "explanationImage": null,
+      "hints": [
+        "temperature",
+        "standard"
+      ]
+    },
+    {
+      "text": "Temperature and volume in an experiment are part of:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Surroundings",
+          "isCorrect": false,
+          "explanation": "In thermodynamics, the state of a system is described by a set of properties that define its condition at a given point in time. Two fundamental properties that are often used to describe the state of a system are temperature and volume. These properties are essential in characterizing the thermodynamic state of a system. Temperature and volume are significant parameters used to define the state of a system in thermodynamics, and they play a central role in understanding and predicting how a system will behave under different conditions."
+        },
+        {
+          "letter": "B",
+          "text": "System",
+          "isCorrect": false,
+          "explanation": "In thermodynamics, the state of a system is described by a set of properties that define its condition at a given point in time. Two fundamental properties that are often used to describe the state of a system are temperature and volume. These properties are essential in characterizing the thermodynamic state of a system. Temperature and volume are significant parameters used to define the state of a system in thermodynamics, and they play a central role in understanding and predicting how a system will behave under different conditions."
+        },
+        {
+          "letter": "C",
+          "text": "State of a system",
+          "isCorrect": true,
+          "explanation": "In thermodynamics, the state of a system is described by a set of properties that define its condition at a given point in time. Two fundamental properties that are often used to describe the state of a system are temperature and volume. These properties are essential in characterizing the thermodynamic state of a system. Temperature and volume are significant parameters used to define the state of a system in thermodynamics, and they play a central role in understanding and predicting how a system will behave under different conditions."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": "In thermodynamics, the state of a system is described by a set of properties that define its condition at a given point in time. Two fundamental properties that are often used to describe the state of a system are temperature and volume. These properties are essential in characterizing the thermodynamic state of a system. Temperature and volume are significant parameters used to define the state of a system in thermodynamics, and they play a central role in understanding and predicting how a system will behave under different conditions."
+        }
+      ],
+      "explanation": "In thermodynamics, the state of a system is described by a set of properties that define its condition at a given point in time. Two fundamental properties that are often used to describe the state of a system are temperature and volume. These properties are essential in characterizing the thermodynamic state of a system. Temperature and volume are significant parameters used to define the state of a system in thermodynamics, and they play a central role in understanding and predicting how a system will behave under different conditions.",
+      "explanationImage": null,
+      "hints": [
+        "Temperature",
+        "volume"
+      ]
+    },
+    {
+      "text": "If water is present in a cup placed on a table, what will be the system in this case?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Water",
+          "isCorrect": true,
+          "explanation": "In thermodynamics, a state of matter that is confined by some walls in space and separated from surroundings by those walls is called a system. In the given example, the cup acts as the wall and the place where the cup is kept is considered as the surrounding, while water that is filled in the cup acts as a system."
+        },
+        {
+          "letter": "B",
+          "text": "Water in cup",
+          "isCorrect": false,
+          "explanation": "In thermodynamics, a state of matter that is confined by some walls in space and separated from surroundings by those walls is called a system. In the given example, the cup acts as the wall and the place where the cup is kept is considered as the surrounding, while water that is filled in the cup acts as a system."
+        },
+        {
+          "letter": "C",
+          "text": "Whole table",
+          "isCorrect": false,
+          "explanation": "In thermodynamics, a state of matter that is confined by some walls in space and separated from surroundings by those walls is called a system. In the given example, the cup acts as the wall and the place where the cup is kept is considered as the surrounding, while water that is filled in the cup acts as a system."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": "In thermodynamics, a state of matter that is confined by some walls in space and separated from surroundings by those walls is called a system. In the given example, the cup acts as the wall and the place where the cup is kept is considered as the surrounding, while water that is filled in the cup acts as a system."
+        }
+      ],
+      "explanation": "In thermodynamics, a state of matter that is confined by some walls in space and separated from surroundings by those walls is called a system. In the given example, the cup acts as the wall and the place where the cup is kept is considered as the surrounding, while water that is filled in the cup acts as a system.",
+      "explanationImage": null,
+      "hints": [
+        "system"
+      ]
+    },
+    {
+      "text": "Strong acid can be involved in a spontaneous reaction which is termed as:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Addition reaction",
+          "isCorrect": false,
+          "explanation": "This reaction is called neutralization reaction as explained below.A strong acid can be involved in a spontaneous reaction, which is often referred to as a \"neutralization reaction.\" In such a reaction, the strong acid donates protons (H⁺ ions) to another substance, typically a base, and this reaction occurs spontaneously due to the thermodynamic favorability of the process.A common example of a spontaneous acid-base reaction involving a strong acid is the reaction of hydrochloric acid (HCl) with sodium hydroxide (NaOH) to form water (H₂O) and sodium chloride (NaCl):HCl(aq) + NaOH(aq) → H₂O(l) + NaCl(aq)"
+        },
+        {
+          "letter": "B",
+          "text": "Substitution reaction",
+          "isCorrect": false,
+          "explanation": "This reaction is called neutralization reaction as explained below.A strong acid can be involved in a spontaneous reaction, which is often referred to as a \"neutralization reaction.\" In such a reaction, the strong acid donates protons (H⁺ ions) to another substance, typically a base, and this reaction occurs spontaneously due to the thermodynamic favorability of the process.A common example of a spontaneous acid-base reaction involving a strong acid is the reaction of hydrochloric acid (HCl) with sodium hydroxide (NaOH) to form water (H₂O) and sodium chloride (NaCl):HCl(aq) + NaOH(aq) → H₂O(l) + NaCl(aq)"
+        },
+        {
+          "letter": "C",
+          "text": "Neutralization reaction",
+          "isCorrect": true,
+          "explanation": "A strong acid can be involved in a spontaneous reaction, which is often referred to as a \"neutralization reaction.\" In such a reaction, the strong acid donates protons (H⁺ ions) to another substance, typically a base, and this reaction occurs spontaneously due to the thermodynamic favorability of the process.A common example of a spontaneous acid-base reaction involving a strong acid is the reaction of hydrochloric acid (HCl) with sodium hydroxide (NaOH) to form water (H₂O) and sodium chloride (NaCl):HCl(aq) + NaOH(aq) → H₂O(l) + NaCl(aq)"
+        },
+        {
+          "letter": "D",
+          "text": "Reversible reaction",
+          "isCorrect": false,
+          "explanation": "This reaction is called neutralization reaction as explained below.A strong acid can be involved in a spontaneous reaction, which is often referred to as a \"neutralization reaction.\" In such a reaction, the strong acid donates protons (H⁺ ions) to another substance, typically a base, and this reaction occurs spontaneously due to the thermodynamic favorability of the process.A common example of a spontaneous acid-base reaction involving a strong acid is the reaction of hydrochloric acid (HCl) with sodium hydroxide (NaOH) to form water (H₂O) and sodium chloride (NaCl):HCl(aq) + NaOH(aq) → H₂O(l) + NaCl(aq)"
+        }
+      ],
+      "explanation": "A strong acid can be involved in a spontaneous reaction, which is often referred to as a \"neutralization reaction.\" In such a reaction, the strong acid donates protons (H⁺ ions) to another substance, typically a base, and this reaction occurs spontaneously due to the thermodynamic favorability of the process.A common example of a spontaneous acid-base reaction involving a strong acid is the reaction of hydrochloric acid (HCl) with sodium hydroxide (NaOH) to form water (H₂O) and sodium chloride (NaCl):HCl(aq) + NaOH(aq) → H₂O(l) + NaCl(aq)",
+      "explanationImage": null,
+      "hints": [
+        "Strong acid",
+        "spontaneous reaction"
+      ]
+    },
+    {
+      "text": "∆Hf of which of the following cannot be measured directly?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "AI2O3",
+          "isCorrect": false,
+          "explanation": "Standard enthalpies of formation (∆Hf) for certain compounds, such as Al2O3 (aluminum oxide), B2O3 (boron oxide), and CO (carbon monoxide), cannot be measured directly. Instead, these values are typically calculated indirectly using other thermodynamic data and principles.The standard enthalpy of formation, ∆Hf, represents the enthalpy change when one mole of a compound is formed from its elements in their standard states under standard conditions. However, for some compounds like Al2O3, B2O3, and CO, it is challenging or impractical to perform direct calorimetric measurements to determine their ∆Hf values due to various reasons, such as high stability, limited availability, or extreme conditions."
+        },
+        {
+          "letter": "B",
+          "text": "B2O3",
+          "isCorrect": false,
+          "explanation": "Standard enthalpies of formation (∆Hf) for certain compounds, such as Al2O3 (aluminum oxide), B2O3 (boron oxide), and CO (carbon monoxide), cannot be measured directly. Instead, these values are typically calculated indirectly using other thermodynamic data and principles.The standard enthalpy of formation, ∆Hf, represents the enthalpy change when one mole of a compound is formed from its elements in their standard states under standard conditions. However, for some compounds like Al2O3, B2O3, and CO, it is challenging or impractical to perform direct calorimetric measurements to determine their ∆Hf values due to various reasons, such as high stability, limited availability, or extreme conditions."
+        },
+        {
+          "letter": "C",
+          "text": "CO",
+          "isCorrect": false,
+          "explanation": "Standard enthalpies of formation (∆Hf) for certain compounds, such as Al2O3 (aluminum oxide), B2O3 (boron oxide), and CO (carbon monoxide), cannot be measured directly. Instead, these values are typically calculated indirectly using other thermodynamic data and principles.The standard enthalpy of formation, ∆Hf, represents the enthalpy change when one mole of a compound is formed from its elements in their standard states under standard conditions. However, for some compounds like Al2O3, B2O3, and CO, it is challenging or impractical to perform direct calorimetric measurements to determine their ∆Hf values due to various reasons, such as high stability, limited availability, or extreme conditions."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": true,
+          "explanation": "Standard enthalpies of formation (∆Hf) for certain compounds, such as Al2O3 (aluminum oxide), B2O3 (boron oxide), and CO (carbon monoxide), cannot be measured directly. Instead, these values are typically calculated indirectly using other thermodynamic data and principles.The standard enthalpy of formation, ∆Hf, represents the enthalpy change when one mole of a compound is formed from its elements in their standard states under standard conditions. However, for some compounds like Al2O3, B2O3, and CO, it is challenging or impractical to perform direct calorimetric measurements to determine their ∆Hf values due to various reasons, such as high stability, limited availability, or extreme conditions."
+        }
+      ],
+      "explanation": "Standard enthalpies of formation (∆Hf) for certain compounds, such as Al2O3 (aluminum oxide), B2O3 (boron oxide), and CO (carbon monoxide), cannot be measured directly. Instead, these values are typically calculated indirectly using other thermodynamic data and principles. The standard enthalpy of formation, ∆Hf, represents the enthalpy change when one mole of a compound is formed from its elements in their standard states under standard conditions. However, for some compounds like Al2O3, B2O3, and CO, it is challenging or impractical to perform direct calorimetric measurements to determine their ∆Hf values due to various reasons, such as high stability, limited availability, or extreme conditions.",
+      "explanationImage": null,
+      "hints": [
+        "cannot",
+        "directly"
+      ]
+    },
+    {
+      "text": "A reaction which does not occur in nature is:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Spontaneous reaction",
+          "isCorrect": false,
+          "explanation": "Spontaneous reactions can occur in nature. Therefore, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Exothermic reaction",
+          "isCorrect": false,
+          "explanation": "Exothermic reactions can occur in nature. Therefore, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Endothermic reaction",
+          "isCorrect": false,
+          "explanation": "Endothermic reactions can occur in nature. Therefore, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Non-spontaneous reaction",
+          "isCorrect": true,
+          "explanation": "A reaction that does not occur in nature is often referred to as a \"non-spontaneous\" or \"non-natural\" reaction. These reactions are thermodynamically unfavorable and do not occur without the input of energy or some external driving force. In other words, the Gibbs free energy change (∆G) for such reactions is positive, indicating that they are not favored under standard conditions. An example of a non-spontaneous reaction is the electrolysis of water to produce hydrogen and oxygen gas: 2H2O(l) → 2H2(g) + O2(g)"
+        }
+      ],
+      "explanation": "A reaction that does not occur in nature is often referred to as a \"non-spontaneous\" or \"non-natural\" reaction. These reactions are thermodynamically unfavorable and do not occur without the input of energy or some external driving force. In other words, the Gibbs free energy change (∆G) for such reactions is positive, indicating that they are not favored under standard conditions. An example of a non-spontaneous reaction is the electrolysis of water to produce hydrogen and oxygen gas: 2H2O(l) → 2H2(g) + O2(g)",
+      "explanationImage": null,
+      "hints": [
+        "does not",
+        "nature",
+        "reaction"
+      ]
+    },
+    {
+      "text": "Hess's law states that the total enthalpy change of a reaction remains same regardless of:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Route taken by reaction for completion",
+          "isCorrect": true,
+          "explanation": "Hess's law states that the total enthalpy change of a reaction remains the same regardless of the route taken by the reaction for completion. This means that if a chemical reaction can take place through multiple intermediate steps or pathways, the overall enthalpy change for the reaction will be the same, as long as the initial and final reactants and products are the same."
+        },
+        {
+          "letter": "B",
+          "text": "Temperature of reactants",
+          "isCorrect": false,
+          "explanation": "The enthalpy change of a reaction is dependent on the temperature of the reactants during the reaction. As temperature affects the kinetic energy of particles, it can influence the rate of the reaction and, consequently, the enthalpy change. Therefore, option B is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Concentration of products",
+          "isCorrect": false,
+          "explanation": "The enthalpy change of a reaction is not directly affected by the concentration of products. Enthalpy change is related to the difference in enthalpy between reactants and products, but it is not influenced by the concentration of the products. So, option C is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Concentration of reactants",
+          "isCorrect": false,
+          "explanation": "The enthalpy change of a reaction is not directly affected by the concentration of the reactants. As with the previous option, enthalpy change is determined by the difference in enthalpy between reactants and products, but it is not influenced by the concentration of the reactants. So, option D is incorrect."
+        }
+      ],
+      "explanation": "Hess's law states that the total enthalpy change of a reaction remains the same regardless of the route taken by the reaction for completion. This principle is based on the conservation of energy in chemical reactions. This means that if a chemical reaction can take place through multiple intermediate steps or pathways, the overall enthalpy change for the reaction will be the same, as long as the initial and final reactants and products are the same.",
+      "explanationImage": null,
+      "hints": [
+        "Hess's law",
+        "same"
+      ]
+    },
+    {
+      "text": "For a reaction that can takes place in more than one ways, the enthalpy of that reaction is _?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Same for all the routes of that reaction",
+          "isCorrect": true,
+          "explanation": "Option A is correct since it states the correct definition of Hess’s law which is: If a chemical change takes place by several different routes, the overall energy change is the same, regardless of the route by which the chemical change occurs, provided the initial and final conditions are the same. that regardless of the multiple stages or steps of a reaction, the total enthalpy change for the reaction is the sum of all changes."
+        },
+        {
+          "letter": "B",
+          "text": "Different for different routes of that reaction",
+          "isCorrect": false,
+          "explanation": "B is incorrect since, for different routes for a reaction, the enthalpy change for a particular reaction remains the same. It is independent of the path taken."
+        },
+        {
+          "letter": "C",
+          "text": "Depends up on the reactants present in each route",
+          "isCorrect": false,
+          "explanation": "C is incorrect since Hess's law does not talk about the reactants present."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "D is incorrect since it states none of these which is not the case."
+        }
+      ],
+      "explanation": "Option A is correct since it states the correct definition of Hess’s law which is: If a chemical change takes place by several different routes, the overall energy change is the same, regardless of the route by which the chemical change occurs, provided the initial and final conditions are the same.",
+      "explanationImage": null,
+      "hints": [
+        "reaction",
+        "takes place in more than one ways,",
+        "enthalpy of that reaction is _?"
+      ]
+    },
+    {
+      "text": "Which of these have a positive value of enthalpy?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Neutralization",
+          "isCorrect": false,
+          "explanation": "Neutralization is the reaction of an acid with a base to produce a salt and water. The enthalpy of neutralization is negative because energy is released when the acid and base react."
+        },
+        {
+          "letter": "B",
+          "text": "Combustion",
+          "isCorrect": false,
+          "explanation": "Combustion is a reaction in which a fuel reacts with oxygen to produce heat and other products. The enthalpy of combustion is always negative because energy is released in the form of heat."
+        },
+        {
+          "letter": "C",
+          "text": "Atomization",
+          "isCorrect": true,
+          "explanation": "Atomization is the process of breaking down a molecule into its constituent atoms. The enthalpy of atomization is also positive because energy is required to break the chemical bonds in the molecule."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": "Only the enthalpy of atomization among the given options has a positive value."
+        }
+      ],
+      "explanation": "Atomization is the process of breaking all the bonds in a substance to form individual gaseous atoms. Since bond breaking always requires an input of energy, the enthalpy of atomization is always positive (endothermic).",
+      "explanationImage": null,
+      "hints": [
+        "positive",
+        "enthalpy"
+      ]
+    },
+    {
+      "text": "Knowledge obtained through thermodynamics is used to explain which of the following property?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Boiling point",
+          "isCorrect": false,
+          "explanation": "Thermodynamics provides insights and explanations for various physical properties of matter, such as temperature, pressure, volume, energy changes, phase transitions (including boiling point), heat capacities, and more. It helps in describing how these properties are related to each other and how they change under different conditions ,hence this is not the correct answer."
+        },
+        {
+          "letter": "B",
+          "text": "Chemical bonding",
+          "isCorrect": false,
+          "explanation": "Thermodynamics provides insights and explanations for various physical properties of matter, such as temperature, pressure, volume, energy changes, phase transitions (including boiling point), heat capacities, and more. It helps in describing how these properties are related to each other and how they change under different conditions ,hence this is not the correct answer."
+        },
+        {
+          "letter": "C",
+          "text": "Quantum study",
+          "isCorrect": false,
+          "explanation": "Thermodynamics provides insights and explanations for various physical properties of matter, such as temperature, pressure, volume, energy changes, phase transitions (including boiling point), heat capacities, and more. It helps in describing how these properties are related to each other and how they change under different conditions ,hence this is not the correct option."
+        },
+        {
+          "letter": "D",
+          "text": "Physical properties",
+          "isCorrect": true,
+          "explanation": "Thermodynamics provides insights and explanations for various physical properties of matter, such as temperature, pressure, volume, energy changes, phase transitions (including boiling point), heat capacities, and more. It helps in describing how these properties are related to each other and how they change under different conditions ,hence this is the correct answer."
+        }
+      ],
+      "explanation": "Knowledge obtained through thermodynamics is used to explain: d) Physical properties Thermodynamics provides insights and explanations for various physical properties of matter, such as temperature, pressure, volume, energy changes, phase transitions (including boiling point), heat capacities, and more. It helps in describing how these properties are related to each other and how they change under different conditions. While thermodynamics indirectly influences chemical bonding and other areas of science, it is most directly related to explaining and understanding physical properties.",
+      "explanationImage": null,
+      "hints": [
+        "thermodynamics"
+      ]
+    },
+    {
+      "text": "Energy changes in cyclic process is always:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Unity",
+          "isCorrect": false,
+          "explanation": "The energy changes in a cyclic process are not always unity. While the net change in internal energy of a system in a cyclic process is zero, the amount of energy transferred into and out of the system during the cycle can vary depending on the specific process. The total work done by the system and the total heat transferred into and out of the system can also vary depending on the specific process. Therefore, the energy changes in a cyclic process are not always the same or equal to unity."
+        },
+        {
+          "letter": "B",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "The energy changes in a cyclic process are not always positive. While the net change in internal energy of a system in a cyclic process is zero, the amount of energy transferred into and out of the system during the cycle can be positive, negative, or zero. The total work done by the system and the total heat transferred into and out of the system can also be positive, negative, or zero. Therefore, the energy changes in a cyclic process are not always positive."
+        },
+        {
+          "letter": "C",
+          "text": "Positive",
+          "isCorrect": false,
+          "explanation": "The energy changes in a cyclic process are not always negative. While the net change in internal energy of a system in a cyclic process is zero, the amount of energy transferred into and out of the system during the cycle can be positive, negative, or zero. The total work done by the system and the total heat transferred into and out of the system can also be positive, negative, or zero. Therefore, the energy changes in a cyclic process are not always negative."
+        },
+        {
+          "letter": "D",
+          "text": "Negative",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        }
+      ],
+      "explanation": "In a cyclic process the net change in internal energy is zero because the system returns to its initial state. However, this does not mean that there are no energy changes in the process. In fact, energy is constantly being transferred into and out of the system during the cycle. The first law of thermodynamics states that the change in internal energy of a system is equal to the heat added to the system minus the work done by the system. In a cyclic process, the net work done by the system is equal to the net heat added to the system, so the change in internal energy is zero. However, there are still energy transfers taking place within the system, and the amount of work and heat transferred can vary depending on the specific process.",
+      "explanationImage": null,
+      "hints": [
+        "Energy changes",
+        "cyclic process"
+      ]
+    },
+    {
+      "text": "Enthalpy change of solution of Na2CO3 is a _ reaction?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Exothermic reaction",
+          "isCorrect": true,
+          "explanation": "The term exothermic process describes a process or reaction that releases energy from the system to its surroundings, usually in the form of heat, but also in the form of light, electricity, or sound. The sodium carbonate molecules are rearranged in the water, releasing energy as heat. This transfer of heat out of a chemical system is called an exothermic process. The solution gets warmer as heat is released."
+        },
+        {
+          "letter": "B",
+          "text": "Endothermic reaction",
+          "isCorrect": false,
+          "explanation": "This is incorrect because the dissolution of Na2CO3 is an exothermic reaction, not an endothermic one."
+        },
+        {
+          "letter": "C",
+          "text": "Spontaneous reaction",
+          "isCorrect": false,
+          "explanation": "The enthalpy change of solution does not directly relate to whether a reaction is spontaneous or not. Spontaneity depends on factors such as entropy and Gibbs free energy."
+        },
+        {
+          "letter": "D",
+          "text": "Non spontaneous reaction",
+          "isCorrect": false,
+          "explanation": "This is incorrect as the enthalpy change of solution for Na2CO3 is an exothermic reaction and does not imply non spontaneity."
+        }
+      ],
+      "explanation": "The term exothermic process describes a process or reaction that releases energy from the system to its surroundings, usually in the form of heat, but also in the form of light, electricity, or sound. The sodium carbonate molecules are rearranged in the water, releasing energy as heat. This transfer of heat out of a chemical system is called an exothermic process. The solution gets warmer as heat is released.",
+      "explanationImage": null,
+      "hints": [
+        "Enthalpy change",
+        "Na",
+        "CO",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "text": "In Chemistry, the work is generally:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Done by temperature change",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because work is not directly related to temperature change but rather to volume change against an external pressure."
+        },
+        {
+          "letter": "B",
+          "text": "Pressure - Temperature Work",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as pressure-temperature work is not a recognized term in the context of thermodynamics."
+        },
+        {
+          "letter": "C",
+          "text": "Pressure - Volume Work",
+          "isCorrect": true,
+          "explanation": "The work is pressure-volume work. Pressure–volume work is the work that is done by the compression or expansion of a fluid. Whenever there is a change in volume and external pressure remains constant, pressure-volume work is taking place. Work is the energy required to move something against a force."
+        },
+        {
+          "letter": "D",
+          "text": "None of these options is correct",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as the correct answer is C) Pressure-Volume Work."
+        }
+      ],
+      "explanation": "The work is pressure-volume work. Pressure–volume work is the work that is done by the compression or expansion of a fluid. Whenever there is a change in volume and external pressure remains constant, pressure-volume work is taking place. Work is the energy required to move something against a force.",
+      "explanationImage": null,
+      "hints": [
+        "In Chemistry,",
+        "work is generally:"
+      ]
+    },
+    {
+      "text": "The SI unit for energy change in a chemical reaction is:",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Joule/mole",
+          "isCorrect": false,
+          "explanation": "Incorrect, this unit is not commonly used to represent energy change in a chemical reaction."
+        },
+        {
+          "letter": "B",
+          "text": "kJ/mole",
+          "isCorrect": true,
+          "explanation": "Joule is defined as 1kgm2s-2. Joule is a small quantity of energy, hence chemists usually express it in kJ. For the energy of a given amount, the SI unit are kJ/moles."
+        },
+        {
+          "letter": "C",
+          "text": "kJ mol",
+          "isCorrect": false,
+          "explanation": "Incorrect, the unit should be written as \"kJ/mol\" with a forward slash (/) to indicate division."
+        },
+        {
+          "letter": "D",
+          "text": "All options are correct.",
+          "isCorrect": false,
+          "explanation": "Incorrect, only option B (kJ/mole) is the commonly accepted SI unit for energy change in a chemical reaction."
+        }
+      ],
+      "explanation": "Joule is defined as 1kgm2s-2. Joule is a small quantity of energy, hence chemists usually express it in kJ. For the energy of a given amount, the SI unit are kJ/moles.",
+      "explanationImage": null,
+      "hints": [
+        "SI unit for energy change"
+      ]
+    },
+    {
+      "text": "If energy of reactants is less than that of products then during the reaction _.",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Heat remains constant",
+          "isCorrect": false,
+          "explanation": "This option suggests that the amount of heat in the system remains the same throughout the reaction. However, in a chemical reaction, the energy content of the reactants is transformed into the energy content of the products. So, the amount of heat in the system will not remain constant during the reaction."
+        },
+        {
+          "letter": "B",
+          "text": "Heat is lost",
+          "isCorrect": false,
+          "explanation": "This option implies that heat is released or lost during the reaction. If the energy of the products is less than the energy of the reactants, the reaction would be exothermic, meaning it releases heat to the surroundings."
+        },
+        {
+          "letter": "C",
+          "text": "Heat is absorbed",
+          "isCorrect": true,
+          "explanation": "In an endothermic reaction, the products are higher in energy than the reactants. Therefore, the change in enthalpy is positive, and heat is absorbed from the surroundings by the reaction."
+        },
+        {
+          "letter": "D",
+          "text": "No heat gain or lose takes place",
+          "isCorrect": false,
+          "explanation": "This option implies that there is no change in the heat content of the system during the reaction. However, as explained earlier, the energy content changes during a chemical reaction, so there will be heat gain or loss."
+        }
+      ],
+      "explanation": "Option C is correct since, in an endothermic reaction, the products are higher in energy than the reactants. Therefore, the change in enthalpy is positive, and heat is absorbed from the surroundings by the reaction.",
+      "explanationImage": null,
+      "hints": [
+        "energy of reactants",
+        "less than",
+        "products"
+      ]
+    },
+    {
+      "text": "For the reaction: 1/2 H2 → H , the change in enthalpy is called _.",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enthalpy of Formation",
+          "isCorrect": false,
+          "explanation": "Enthalpy of formation is the enthalpy change that occurs when one mole of a compound is formed from its constituent elements in their standard states."
+        },
+        {
+          "letter": "B",
+          "text": "Enthalpy of Neutralization",
+          "isCorrect": false,
+          "explanation": "Enthalpy of neutralization is the enthalpy change that occurs when one mole of an acid is neutralized by one mole of a base to form one mole of water and a salt."
+        },
+        {
+          "letter": "C",
+          "text": "Enthalpy of Atomization",
+          "isCorrect": true,
+          "explanation": "The given reaction ½ H2 → H represents the dissociation of hydrogen molecule into hydrogen atoms, and the enthalpy change associated with this process is called the enthalpy of atomization.Enthalpy of atomization is defined as the enthalpy change required to break one mole of a compound or element into its constituent atoms in the gas phase."
+        },
+        {
+          "letter": "D",
+          "text": "Enthalpy of Reaction",
+          "isCorrect": false,
+          "explanation": "Enthalpy of reaction is the enthalpy change that occurs during a chemical reaction. It is the difference between the enthalpy of the products and the enthalpy of the reactants."
+        }
+      ],
+      "explanation": "The given reaction ½ H2 → H represents the dissociation of hydrogen molecule into hydrogen atoms, and the enthalpy change associated with this process is called the enthalpy of atomization.Enthalpy of atomization is defined as the enthalpy change required to break one mole of a compound or element into its constituent atoms in the gas phase.",
+      "explanationImage": null,
+      "hints": [
+        "1/2 H",
+        "→ H",
+        "2",
+        "change in enthalpy"
+      ]
+    },
+    {
+      "text": "Which one of the following is not the property of a system?",
+      "image": null,
+      "subject": "Chemistry",
+      "topic": "Thermochemistry",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Enthalpy",
+          "isCorrect": false,
+          "explanation": "It's a property because it's a state function. The definition of Enthalpy says that it's the amount of heat required to be given to the system to reach that state without doing any work on it. Sure, the system is allowed to do work on it's surroundings, but you are not allowed to do work it."
+        },
+        {
+          "letter": "B",
+          "text": "Internal energy",
+          "isCorrect": false,
+          "explanation": "The Internal Energy, U, of a system is an extensive thermodynamic property that measures the energy stored in a system as a result of its microscopic structure. The internal energy will include contributions from the thermal, mechanical, electrical, magnetic, chemical, and surface energies of the system."
+        },
+        {
+          "letter": "C",
+          "text": "Thermal energy",
+          "isCorrect": true,
+          "explanation": "Heat is not a thermodynamic property because heat is the energy that is transferred due to a temperature difference, which means that heat is not an energy that is contained within the system, but flowing either from or to the system, particularly if the system is in equilibrium."
+        },
+        {
+          "letter": "D",
+          "text": "Temperature",
+          "isCorrect": false,
+          "explanation": "Temperature is an intensive property of a system, meaning that it does not depend on the system size, the amount or type of material in the system, the same as for the pressure and density."
+        }
+      ],
+      "explanation": "Heat is not a thermodynamic property because heat is the energy that is transferred due to a temperature difference, which means that heat is not an energy that is contained within the system, but flowing either from or to the system, particularly if the system is in equilibrium.",
+      "explanationImage": null,
+      "hints": [
+        "not the property of a system?"
+      ]
+    },
+    {
+      "text": "Choose the correct option",
+      "image": null,
+      "subject": "English",
+      "topic": "Subject Verb Agreement",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Each of the chemical antiseptics was more harmfully to the leucocytes than to the germs.",
+          "isCorrect": false,
+          "explanation": "Each of the chemical antiseptics was more harmfully to the leucocytes than to the germs. This option is incorrect because \"more harmfully\" is not the correct comparative form. It should be \"more harmful.\""
+        },
+        {
+          "letter": "B",
+          "text": "Each of the chemical antiseptics was more harmful to the leucocytes then to the germs.",
+          "isCorrect": false,
+          "explanation": "Each of the chemical antiseptics was more harmful to the leucocytes then to the germs. This option is incorrect because \"then\" should be \"than\" in comparative structures (more harmful to X than to Y)."
+        },
+        {
+          "letter": "C",
+          "text": "Each of the chemical antiseptics were more harmful to the leucocytes than to the germs.",
+          "isCorrect": false,
+          "explanation": "Each of the chemical antiseptics were more harmful to the leucocytes than to the germs. This option is incorrect because \"were\" is a plural verb, but the subject \"Each of the chemical antiseptics\" is singular. It should be \"was\" instead of \"were.\""
+        },
+        {
+          "letter": "D",
+          "text": "Each of the chemical antiseptics was more harmful to the leucocytes than to the germs.",
+          "isCorrect": true,
+          "explanation": "Each of the chemical antiseptics was more harmful to the leucocytes than to the germs. This option is correct as it maintains subject-verb agreement and uses the correct comparative structure \"than to.\"Therefore, option D is the correct choice. It correctly states that each antiseptic is more harmful to leucocytes than to germs."
+        }
+      ],
+      "explanation": "Each of the chemical antiseptics was more harmful to the leucocytes than to the germs. This option is correct as it maintains subject-verb agreement and uses the correct comparative structure \"than to.\"Therefore, option D is the correct choice. It correctly states that each antiseptic is more harmful to leucocytes than to germs.",
+      "explanationImage": null,
+      "hints": [
+        "Choose",
+        "correct option"
+      ]
+    },
+    {
+      "text": "CHOOSE THE CORRECT OPTIONS.",
+      "image": null,
+      "subject": "English",
+      "topic": "Article",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A more unjust the king is, a more troubled his country will be.",
+          "isCorrect": false,
+          "explanation": "Using \"A more\" instead of \"The more\" is incorrect, as \"the more\" is the correct correlative conjunction to use in this context."
+        },
+        {
+          "letter": "B",
+          "text": "The more unjust the king is, the more troubled his country will be.",
+          "isCorrect": true,
+          "explanation": "This sentence is grammatically correct and idiomatic. It uses the correct correlative conjunctions \"the more... the more\" to express a proportional relationship between the king's level of injustice and the country's level of trouble."
+        },
+        {
+          "letter": "C",
+          "text": "More unjust the king is, more troubled his country will be.",
+          "isCorrect": false,
+          "explanation": "Omitting the articles and the second \"the\" makes the sentence sound less natural and less clear."
+        },
+        {
+          "letter": "D",
+          "text": "The more unjust king is, more troubled his country will be.",
+          "isCorrect": false,
+          "explanation": "Omitting the verb \"is\" after \"king\" makes the sentence grammatically incorrect."
+        }
+      ],
+      "explanation": "This sentence is grammatically correct and idiomatic. It uses the correct correlative conjunctions \"the more... the more\" to express a proportional relationship between the king's level of injustice and the country's level of trouble.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Choose the correct option.",
+      "image": null,
+      "subject": "English",
+      "topic": "Pronoun",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "She said they had texted each other earlier in the day to say they loved each other.",
+          "isCorrect": true,
+          "explanation": "This option is correct. \"Each other\" is used correctly to indicate reciprocal action between the two parties involved."
+        },
+        {
+          "letter": "B",
+          "text": "She said they had texted one the other earlier in the day to say they loved each other.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The phrase \"one the other\" is not idiomatic in English. The correct phrase is \"each other\" to indicate mutual action."
+        },
+        {
+          "letter": "C",
+          "text": "She said they had texted each other earlier in the day to say they loved ourselves.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. \"Ourselves\" is a reflexive pronoun used for the speaker and others in a group. It does not correctly refer to the two people (they) who exchanged texts."
+        },
+        {
+          "letter": "D",
+          "text": "She said they had texted each other earlier in the day to say they loved each the other.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. \"Each the\" is not a grammatically correct phrase in English. The correct phrase is \"each other\" to indicate mutual affection."
+        }
+      ],
+      "explanation": "\"Each other\" is used correctly to indicate reciprocal action between the two parties involved.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Find the error in the following sentence of punctuationIn each question in the following, four alternative sentences are given. Choose the CORRECT one and fill the circle corresponding to that letter in the answer sheet.",
+      "image": null,
+      "subject": "English",
+      "topic": "Punctuations",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "When I noticed that our dog cut it’s paw, I called the veterinarian right away.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. \"It's\" is a contraction for \"it is\" or \"it has,\" not the possessive form. The correct possessive form is \"its.\""
+        },
+        {
+          "letter": "B",
+          "text": "When I noticed that our dog cut it’s paw. I called the veterinarian right away.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect for two reasons. First, it uses \"it's\" incorrectly as explained above. Second, the sentence is incorrectly split into two sentences with a period, creating a fragment (\"I called the veterinarian right away.\")."
+        },
+        {
+          "letter": "C",
+          "text": "When I noticed that our dog cut its paw, I called the veterinarian right away.",
+          "isCorrect": true,
+          "explanation": "This option is correct. It uses the correct possessive form \"its\" and properly uses a comma to separate the dependent clause \"When I noticed that our dog cut its paw\" from the independent clause \"I called the veterinarian right away.\"Correct Answer: C) When I noticed that our dog cut its paw, I called the veterinarian right away.Option C is the correct choice. It uses the correct possessive form \"its\" and appropriately uses a comma to separate the dependent clause from the independent clause, ensuring the sentence is clear and grammatically correct."
+        },
+        {
+          "letter": "D",
+          "text": "When I noticed that our dog cut its paw; I called the veterinarian right away.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While it uses the correct possessive form \"its,\" it incorrectly uses a semicolon to separate the clauses. A semicolon is not appropriate here; a comma is the correct punctuation."
+        }
+      ],
+      "explanation": "It uses the correct possessive form \"its\" and properly uses a comma to separate the dependent clause \"When I noticed that our dog cut its paw\" from the independent clause \"I called the veterinarian right away.\" Correct Answer: C) When I noticed that our dog cut its paw, I called the veterinarian right away. Option C is the correct choice. It uses the correct possessive form \"its\" and appropriately uses a comma to separate the dependent clause from the independent clause, ensuring the sentence is clear and grammatically correct.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Each sentence below has a blank indicating that something has been omitted. Choose the word that best fits in with the meaning of the sentence as a whole.The foreman’s clemency, particularly in being candid, had its _, one of which was _workmanship.",
+      "image": null,
+      "subject": "English",
+      "topic": "Combination Mistake",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Damages ... intolerable",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Ambiguities ...superior",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Shortcomings ...shoddy",
+          "isCorrect": true,
+          "explanation": "The sentence can be completed with the following words:\"Shortcomings\" and \"shoddy\"So the completed sentence is:\"The foreman’s clemency, particularly in being candid, had its shortcomings, one of which was shoddy workmanship.\""
+        },
+        {
+          "letter": "D",
+          "text": "Occurrences ...attractive",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        }
+      ],
+      "explanation": "The sentence can be completed with the following words:\"Shortcomings\" and \"shoddy\" So the completed sentence is:\"The foreman’s clemency, particularly in being candid, had its shortcomings, one of which was shoddy workmanship.\"",
+      "explanationImage": null,
+      "hints": [
+        "clemency"
+      ]
+    },
+    {
+      "text": "In this section of logical deduction, the question consists of a brief passage (usually a report containing certain data regarding some social or economic problem), followed by certain inferences based on it. The student is required to analyze the contents (or data) of the passage and grasp the desirable facts from it. Then, student has to consider each of the given inferences in the context of the given passage. decide upon its degree of truth or falsity and then choose the hest alternative provided accordingly.The water resources of our country are very much underutilized. The main reason of this underutilization is the lack of capital and technology. A large portion of our water resources is wasted due to floods and unwise use of water for irrigation as well as domestic purposes. We can make full use of our water resources by building dams on rivers and by adopting policy of awareness among people not to waste water.The country does not have enough funds to utilize such water resources.",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Definitely true",
+          "isCorrect": true,
+          "explanation": "The passage explicitly states that lack of capital is a main reason for underutilizing water resources, strongly supporting the inference."
+        },
+        {
+          "letter": "B",
+          "text": "Probably true",
+          "isCorrect": false,
+          "explanation": "While the passage indicates the lack of funds as a reason, it is definitive rather than probable, making this option less accurate."
+        },
+        {
+          "letter": "C",
+          "text": "Data inadequate",
+          "isCorrect": false,
+          "explanation": "The passage provides sufficient information about the lack of capital affecting water resource development, making this option incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Probably false",
+          "isCorrect": false,
+          "explanation": "The passage directly contradicts this option by stating that lack of capital is a main issue, so this option is incorrect."
+        },
+        {
+          "letter": "E",
+          "text": "Definitely false",
+          "isCorrect": false,
+          "explanation": "The passage clearly mentions lack of capital as a main reason, ruling out the possibility of this statement being false."
+        }
+      ],
+      "explanation": "The correct answer is 'Definitely true'. The passage clearly states that the primary cause for underutilization of water resources is the lack of capital and technology. This directly supports the statement that the country does not have enough funds to develop its water resources. Other options are incorrect because they either misinterpret the definitiveness of the passage's information or contradict the explicit statements made within it.",
+      "explanationImage": null,
+      "hints": [
+        "underutilized",
+        "lack of capital",
+        "floods"
+      ]
+    },
+    {
+      "text": "Directions: In the following question, a number sequence is given with one term missing. Choose the correct term that will continue the same pattern and replace the question mark in the given sequence.2,-1,2,-1,2,?",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "The sequence alternates between 2 and -1. If 2 were next, it would break the alternating pattern."
+        },
+        {
+          "letter": "B",
+          "text": "-1",
+          "isCorrect": true,
+          "explanation": "The sequence alternates between 2 and -1. Following this pattern, after 2, the next term should be -1."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "5 does not fit the alternating pattern of the sequence. The sequence alternates between 2 and -1."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "4 is not part of the alternating pattern in the sequence. The sequence alternates between 2 and -1."
+        }
+      ],
+      "explanation": "The given sequence is: 2, -1, 2, -1, 2, ?. The pattern here is an alternating one: every second term is the same. Starting from the first term, we have 2, then -1, then again 2, followed by -1, and again 2. Therefore, following this alternating pattern, the term that follows 2 should be -1.Option B (-1) is correct as it maintains the established pattern of alternating between 2 and -1.Options A, C, and D (2, 5, and 4) are incorrect as they do not follow the pattern established by the sequence.",
+      "explanationImage": null,
+      "hints": [
+        "sequence",
+        "pattern",
+        "alternating"
+      ]
+    },
+    {
+      "text": "Directions: Read the following information and give answer.There are six persons A, B, C, D, E and F. C is the sister of F. B is the brother of E's husband. D is the father of A and grandfather of F. There are two fathers, three brothers and amother in the group.Which of the following is a group of brothers?",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "ABF",
+          "isCorrect": true,
+          "explanation": "The three brothers are A, B, and F.D is a father, not a brother.C and E are females."
+        },
+        {
+          "letter": "B",
+          "text": "ABD",
+          "isCorrect": false,
+          "explanation": "D is the father of A, so D cannot be brother of A or of F."
+        },
+        {
+          "letter": "C",
+          "text": "BFC",
+          "isCorrect": false,
+          "explanation": "B and F are brothers, but C is identified as a sister, not a brother. Thus, this combination is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "BDF",
+          "isCorrect": false,
+          "explanation": "B and F are brothers, but D is the father, not a brother. Therefore, this group is incorrect."
+        },
+        {
+          "letter": "E",
+          "text": "None of them.",
+          "isCorrect": false,
+          "explanation": "Option A is correct answer."
+        }
+      ],
+      "explanation": "The correct group of brothers is A, B, and F. Here’s the breakdown: D is the father of A and the grandfather of F, indicating a direct lineage from D to A to F. C is mentioned as the sister of F, which confirms F's siblings. B is the brother of E's husband, who is A. Therefore, A and B are brothers, and since F is A's son, he is also a brother in this context. Other options are incorrect as they either include a female or a father in the group of brothers, which contradicts the given relationships.",
+      "explanationImage": null,
+      "hints": [
+        "sister",
+        "grandfather"
+      ]
+    },
+    {
+      "text": "In the following question, two statements numbered I and II are given. There may be cause and effect relationship between the two statements. These two statements may be the effect of the same cause or independent causes. These statements may be independent causes without saving any relationship. Read both the statements in question and mark your answer as:A. If statement I is the cause and statement II is its effect;B. If statement II is the cause and statement, I is its effect;C. If both the statements I and II are independent causes;D. If both the statements I and II are effects of independent causes;E. If both the statements I and II are effects of some common causes;I. Majority of Karachi citizens have decided to protest against the construction of government office instead of a park.II. There are no parks in that locality.",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "If statement I is the cause and statement II is its effect;",
+          "isCorrect": false,
+          "explanation": "This would mean that the protest caused there to be no parks, which is illogical."
+        },
+        {
+          "letter": "B",
+          "text": "If statement II is the cause and statement. I is its effect;",
+          "isCorrect": true,
+          "explanation": "The lack of parks in the locality could lead to the protest against the construction of a government office, making this the correct choice."
+        },
+        {
+          "letter": "C",
+          "text": "If both the statements I and II are independent causes;",
+          "isCorrect": false,
+          "explanation": "This implies that neither statement influences the other, which is unlikely given the context."
+        },
+        {
+          "letter": "D",
+          "text": "If both the statements I and II are effects of independent causes;",
+          "isCorrect": false,
+          "explanation": "This suggests both statements result from separate causes, but the lack of parks likely contributes to the protest."
+        },
+        {
+          "letter": "E",
+          "text": "If both the statements I and II are effects of some common cause;",
+          "isCorrect": false,
+          "explanation": "This would mean another factor leads to both statements, which isn't indicated here."
+        }
+      ],
+      "explanation": "Statement II highlights the lack of parks in the locality, which is a plausible reason for the protest described in Statement I. Thus, Statement II is the cause and Statement I is its effect, making Option B the correct answer. Options A, C, D, and E are incorrect because they either misidentify the cause and effect relationship or suggest unrelated causality.",
+      "explanationImage": null,
+      "hints": [
+        "protest",
+        "construction",
+        "locality"
+      ]
+    },
+    {
+      "text": "In this question, a statement is given followed by two courses of action numbered I and II. It is required to grasp the statement, analyze the problem or policy it mentions and then decide which of the courses of action logically follow / most appropriate.Statement:The local government has agreed to provide necessary infrastructural facilities to the proposed ABC trust's project of supply of clean water to city 'P'.Courses of action:I) The local government should provide necessary land to the trust by completing due formalitiesII) The local government should facilitate obtaining electricity and other permissions to the trust.",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "If only I follows",
+          "isCorrect": false,
+          "explanation": "While providing land is a part of infrastructural support, it alone does not fully encompass all necessary actions to support this project."
+        },
+        {
+          "letter": "B",
+          "text": "If only II follows",
+          "isCorrect": false,
+          "explanation": "Facilitating electricity and permissions is crucial, but like land provision, it alone does not cover all necessary support."
+        },
+        {
+          "letter": "C",
+          "text": "If either I or II follows",
+          "isCorrect": false,
+          "explanation": "Both actions are necessary to comprehensively support the project, so choosing only one is insufficient."
+        },
+        {
+          "letter": "D",
+          "text": "If neither I nor II follows",
+          "isCorrect": false,
+          "explanation": "Ignoring both actions contradicts the commitment to provide infrastructural facilities."
+        },
+        {
+          "letter": "E",
+          "text": "If both I and II follow",
+          "isCorrect": true,
+          "explanation": "Providing land and facilitating utilities and permissions together fulfill the local government's commitment to supporting the project."
+        }
+      ],
+      "explanation": "The statement indicates that the local government has agreed to provide necessary infrastructural facilities for the trust's clean water supply project. This commitment involves providing land (Course of Action I) and facilitating utilities and permissions (Course of Action II). Both actions are part of the infrastructural facilities needed to support the project effectively. Therefore, both I and II logically follow from the statement. Options A, B, C, and D are incorrect because they suggest that only one or neither of the actions is necessary, which would not fully meet the government's agreed support.",
+      "explanationImage": null,
+      "hints": [
+        "local government",
+        "infrastructural facilities",
+        "trust's project"
+      ]
+    }
+  ]
+}

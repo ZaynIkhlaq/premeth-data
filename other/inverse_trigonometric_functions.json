@@ -1,0 +1,3928 @@
+{
+  "questions": [
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": true,
+          "explanation": "We can take the inverse cosine (arccos) of both sides:3x=arccos(½ )Now, divide both sides by 3 to solve forx=⅓ arccos(½ )So, the solution to the equation isx=⅓ arccos⁡(½ )x=⅓ arccos(1/2).So the correct option is d. A,b,c are incorrect"
+        }
+      ],
+      "explanation": "let's solve the equationcos⁡(3x) = ½ For x.Starting with:cos(3x)=½ We can take the inverse cosine (arccos) of both sides:3x=arccos(½ )Now, divide both sides by 3 to solve forx=⅓ arccos(½ )So, the solution to the equation isx=⅓ arccos⁡(½ )x=⅓ arccos(1/2).So the correct option is d. A,b,c are incorrect",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": true,
+          "explanation": "Let's solve for arcsin(x)+arccos(x) and prove that it is equal to π/2 For 0≤x≤1.Starting with:arcsin(x)+arccos(x)We know that arcsin(θ)+arccos(θ)= π/2 For 0≤θ≤1.Let's use the fact that sin(π/2−θ)=cos(θ):arcsin(x)+arccos(x)=π/2Now, let's prove this identity. First, consider sin(arcsin(x)):sin(arcsin(x))=xNow, consider cos(arccos(x)):cos(arccos(x))=xSo, the expression becomes:x+x=2xNow, the identity holds:arcsin(x)+arccos(x)=π/2This is true for 0≤x≤1. Therefore, arcsin(x)+arccos(x)=π/2 When 0≤x≤1The correct option is c. a,b,d are incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Let's solve for arcsin(x)+arccos(x) and prove that it is equal to π/2 For 0≤x≤1.Starting with:arcsin(x)+arccos(x)We know that arcsin(θ)+arccos(θ)= π/2 For 0≤θ≤1.Let's use the fact that sin(π/2−θ)=cos(θ):arcsin(x)+arccos(x)=π/2Now, let's prove this identity. First, consider sin(arcsin(x)):sin(arcsin(x))=xNow, consider cos(arccos(x)):cos(arccos(x))=xSo, the expression becomes:x+x=2xNow, the identity holds:arcsin(x)+arccos(x)=π/2This is true for 0≤x≤1. Therefore, arcsin(x)+arccos(x)=π/2 When 0≤x≤1The correct option is c. a,b,d are incorrect.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": true,
+          "explanation": "The range of the tangent function, tan(θ), is indeed (−π/2,π/2), but it's important to note that this is true within certain restrictions on the domain of tan(θ).The tangent function is defined as tan(θ)=sin(θ)/cos(θ)., and its range is limited due to the periodic nature of sine and cosine functionsHere's a proof considering the principal values for sine and cosine:Range of sin(θ): The sine function has a range of [−1,1].Range of cos(θ): The cosine function also has a range of [−1,1].Range of tan(θ): Since tan(θ)=sin(θ)/cos(θ), and both sine and cosine are never zero simultaneously,tan(θ) can take values between−∞ and+∞.Now, let's consider the restrictions:When cos(θ)=0: In this case, tan(θ) is defined, and it will take all real values.When cos(θ)=0: This occurs when θ is an odd multiple of π/2(i.e.,θ=±π/2,±3π/2,±5π/2,,…). At these points, tan(θ) becomes undefined, and you have vertical asymptotes.Considering the values where cos(θ)=0, the range of tan(θ) is (−π/2,π/2).In summary, the range of tan(θ) is (−π/2,π/2) when θ is not an odd multiple of π/2.So, the correct option is c. a,b,d are incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The range of the tangent function, tan(θ), is indeed (−π/2,π/2), but it's important to note that this is true within certain restrictions on the domain of tan(θ).The tangent function is defined as tan(θ)=sin(θ)/cos(θ)., and its range is limited due to the periodic nature of sine and cosine functionsHere's a proof considering the principal values for sine and cosine:Range of sin(θ): The sine function has a range of [−1,1].Range of cos(θ): The cosine function also has a range of [−1,1].Range of tan(θ): Since tan(θ)=sin(θ)/cos(θ), and both sine and cosine are never zero simultaneously,tan(θ) can take values between−∞ and+∞.Now, let's consider the restrictions:When cos(θ)=0: In this case, tan(θ) is defined, and it will take all real values.When cos(θ)=0: This occurs when θ is an odd multiple of π/2(i.e.,θ=±π/2,±3π/2,±5π/2,,…). At these points, tan(θ) becomes undefined, and you have vertical asymptotes.Considering the values where cos(θ)=0, the range of tan(θ) is (−π/2,π/2).In summary, the range of tan(θ) is (−π/2,π/2) when θ is not an odd multiple of π/2.So, the correct option is c. a,b,d are incorrect13.6 Domains and Ranges of Principal Trigonometric Function and Inverse Trigonometric Functions.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If y= Sin x, then Domain is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-π/2 <x< π/ 2",
+          "isCorrect": true,
+          "explanation": "The correct answer is a) .The domain of the function y = sin(x) depends on the nature of the sine function. The sine function is periodic with a period of 27, which means it repeats every 2 radians.The sine function takes all real values for its input 2. However, when considering the principal values of the inverse sine function (arcsin), the domain is restricted to -π/2 <x< π/ 2So, the correct answer is (a) - ≤ x ≤ 2"
+        },
+        {
+          "letter": "B",
+          "text": "0≤ x ≤ π",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "[0, π], x ≠ π/ 2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "[-π/2 , π/2], x≠0",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is a) .The domain of the function y = sin(x) depends on the nature of the sine function. The sine function is periodic with a period of 27, which means it repeats every 2 radians.The sine function takes all real values for its input 2. However, when considering the principal values of the inverse sine function (arcsin), the domain is restricted to -π/2 <x< π/ 2So, the correct answer is (a) - ≤ x ≤ 2",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If y = Cos x, then Domain is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-π/2 ≤x≤ π/2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "0≤ x ≤ π",
+          "isCorrect": true,
+          "explanation": "The correct answer is b).Among these, unless there is a specific reason to exclude x = 0 or x = 2, the most straightforward domain considering typical constraints would be 0 ≤ x ≤ π, which is option (b).So, the answer based on the given options would be: (b) 0 ≤ x ≤ π"
+        },
+        {
+          "letter": "C",
+          "text": "[0, π], x ≠ π /2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "[- π/2 , π/2] x ≠0",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is b).Among these, unless there is a specific reason to exclude x = 0 or x = 2, the most straightforward domain considering typical constraints would be 0 ≤ x ≤ π, which is option (b).So, the answer based on the given options would be: (b) 0 ≤ x ≤ π",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If y = Sec x, then Domain is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "- π /2 < x < π /2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "0 < x < π",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "[0, π], x ≠ π 2",
+          "isCorrect": true,
+          "explanation": "Solution: The correct answer is c).y = sec x, where 0≤x≤ and x ≠ π 2 is called the Principal Secant Function, which is 2 one-to-one and has an inverse."
+        },
+        {
+          "letter": "D",
+          "text": "[- π /2 , π /2 ] , x ≠ 0",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Solution: The correct answer is c).y = sec x, where 0≤x≤ and x ≠ π 2 is called the Principal Secant Function, which is 2 one-to-one and has an inverse.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If y = Cosec x, then Domain is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-π/ 2≤x≤ π/ 2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "0≤x≤ π",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "[0, π], x π/ 2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "[-π/2, π/ 2] ,x≠0",
+          "isCorrect": true,
+          "explanation": "Solution: The correct answer is d).11 y = csc x, where -π/ 2 ≤ y≤ π/2,and x≠0 is called the Principal Cosecant Function,"
+        }
+      ],
+      "explanation": "Solution: The correct answer is d).11 y = csc x, where -π/ 2 ≤ y≤ π/2,and x≠0 is called the Principal Cosecant Function,",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If y = Tan x, then domain is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-π/ 2 ≤x≤ π/ 2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "-π/ 2<x <π/ 2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "0 < x < π",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "0≤x≤π",
+          "isCorrect": true,
+          "explanation": "Solution: The correct answer is d).if we restrict the domain of y = Tanx to the interval -π/ 2<x <π/ 2 then the restricted function y=tan x -π/ 2<x <π/ 2 is called the Principal tangent function"
+        }
+      ],
+      "explanation": "Solution: The correct answer is d).if we restrict the domain of y = Tanx to the interval -π/ 2<x <π/ 2 then the restricted function y=tan x -π/ 2<x <π/ 2 is called the Principal tangent function",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If y = Cot x, then domain is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-π/ 2 ≤x≤ π/ 2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "-π/ 2 <X< π/ 2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "0 < x < π",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "0≤x≤ π",
+          "isCorrect": true,
+          "explanation": "Solution: The correct answer is d).y cotx, where 0≤x≤ is called the Principal Cotangent Function, which is one-to- one and has an inverse."
+        }
+      ],
+      "explanation": "Solution: The correct answer is d).y cotx, where 0≤x≤ is called the Principal Cotangent Function, which is one-to- one and has an inverse.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If y = Sin x, then range is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-1 ≤ y ≤ 1",
+          "isCorrect": true,
+          "explanation": "Solution: The correct answer is a).Since the sine function only takes values between -1 and 1, the correct range is: -1≤ y ≤1.Therefore, the answer is:(a)-1 ≤ y ≤"
+        },
+        {
+          "letter": "B",
+          "text": "(-∞, +∞) or R",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "y ≤-1 or y ≥1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "y <-1 or y >1",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Solution: The correct answer is a).Since the sine function only takes values between -1 and 1, the correct range is: -1≤ y ≤1.Therefore, the answer is:(a)-1 ≤ y ≤",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If y = Cos x, then range is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-1 ≤ y ≤ 1",
+          "isCorrect": true,
+          "explanation": "The correct answer is a).The range of a function is the set of all possible output values. The cosine function oscillates between -1 and 1, and never goes outside that range. This is true regardless of the input value. In mathematical notation, we can express this as {-1 ≤ y ≤ 1)."
+        },
+        {
+          "letter": "B",
+          "text": "(-∞, +∞) or R",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "y ≤-1 or y ≥1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "y <-1 or y >1",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is a).The range of a function is the set of all possible output values. The cosine function oscillates between -1 and 1, and never goes outside that range. This is true regardless of the input value. In mathematical notation, we can express this as {-1 ≤ y ≤ 1).",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If y = Tan x, Then range is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-1 ≤ y ≤ 1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "(-∞, +∞) or R",
+          "isCorrect": true,
+          "explanation": "The correct answer is b).The tangent function is periodic, with a period of radians. This means that the function repeats itself every ㅠ units. However, the tangent function is never equal to zero because zero is not defined when the cosine term in its definition (tangent = sine/cosine) is zero. This discontinuity creates gaps in the tangent function's output, but these gaps never reach positive or negative infinity. Therefore, the tangent function can take on any real number value.The prompt matches this answer. The range of the tangent function is all real numbers. So the answer is (b)."
+        },
+        {
+          "letter": "C",
+          "text": "y ≤-1 or y ≥1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "y <-1 or y >1",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is b).The tangent function is periodic, with a period of radians. This means that the function repeats itself every ㅠ units. However, the tangent function is never equal to zero because zero is not defined when the cosine term in its definition (tangent = sine/cosine) is zero. This discontinuity creates gaps in the tangent function's output, but these gaps never reach positive or negative infinity. Therefore, the tangent function can take on any real number value.The prompt matches this answer. The range of the tangent function is all real numbers. So the answer is (b).",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If y= Cosec x, then range is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-1 ≤ y ≤ 1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "(-∞, +∞) or R",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "-1≤ y ≤ 1",
+          "isCorrect": true,
+          "explanation": "Since sin x takes on values between 1 and 1 (excluding 0, where csc 2 is undefined), the range of csc 2 is determined by the values that the reciprocal can take:1. When sin 2 is close to 1, csc 2 is also close to 1.2. When sin z is close to -1, csc æ is also close to -1.3. As sin 2 approaches 0 (from either positive or negative side), csc z becomes very large in magnitude (positively or negatively).Therefore, csc x cannot take any value between -1 and 1. Its values are either less than or equal to -1, or greater than or equal to 1.So, the correct answer is:(c)y-1 or y ≥ 1This correctly describes the range of the cosecant function."
+        },
+        {
+          "letter": "D",
+          "text": "y <-1 or y >1",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Since sin x takes on values between 1 and 1 (excluding 0, where csc 2 is undefined), the range of csc 2 is determined by the values that the reciprocal can take:1. When sin 2 is close to 1, csc 2 is also close to 1.2. When sin z is close to -1, csc æ is also close to -1.3. As sin 2 approaches 0 (from either positive or negative side), csc z becomes very large in magnitude (positively or negatively).Therefore, csc x cannot take any value between -1 and 1. Its values are either less than or equal to -1, or greater than or equal to 1.So, the correct answer is:(c)y-1 or y ≥ 1This correctly describes the range of the cosecant function.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If y = Sec x, then range is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-1 ≤ y ≤ 1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "(-∞, +∞) or R",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "y ≤-1 or y ≥1",
+          "isCorrect": true,
+          "explanation": "The secant function is defined as: 1 CUS Z sec 2The cosine function, cos 2, ranges between -1 and 1, inclusive. However, since sec z is the reciprocal of cos z, the value of sec z becomes undefined wherever cos z = 0 (ie, z = + kn, where k is any integer). IFor values of cos z within (-1, 1), the reciprocal sec z will either be greater than or equal to 1, or less than or equal to 1. Specifically:When cos = 1, sec z = 1When cos z = -1, sec z = -1For 0<cos 2<1, |secz > 1Therefore, the range of sec z does not include any values between -1 and 1, but includes all values y such that y≤-1 or y ≥ 1.So, the correct answer is:(c) y≤-1 or y≥1"
+        },
+        {
+          "letter": "D",
+          "text": "y <-1 or y >1",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The secant function is defined as: 1 CUS Z sec 2The cosine function, cos 2, ranges between -1 and 1, inclusive. However, since sec z is the reciprocal of cos z, the value of sec z becomes undefined wherever cos z = 0 (ie, z = + kn, where k is any integer). IFor values of cos z within (-1, 1), the reciprocal sec z will either be greater than or equal to 1, or less than or equal to 1. Specifically:When cos = 1, sec z = 1When cos z = -1, sec z = -1For 0<cos 2<1, |secz > 1Therefore, the range of sec z does not include any values between -1 and 1, but includes all values y such that y≤-1 or y ≥ 1.So, the correct answer is:(c) y≤-1 or y≥1",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If y = Cos-¹x, then Domain is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-1≤x≤1",
+          "isCorrect": true,
+          "explanation": "The correct answer is a).The Inverse Cosine Function is defined by: y = cos-1 'x, if and only if x= cos y. where 0 ≤y≤ and -1≤x≤ 1.Here y is the angle whose cosine is x. The domain of the function y = cosx is-1≤x≤1 and its range is 0≤γπ."
+        },
+        {
+          "letter": "B",
+          "text": "(-∞, +∞) or R",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "x≥-1 or x≤1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "x≤-1 or x ≥1",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is a).The Inverse Cosine Function is defined by: y = cos-1 'x, if and only if x= cos y. where 0 ≤y≤ and -1≤x≤ 1.Here y is the angle whose cosine is x. The domain of the function y = cosx is-1≤x≤1 and its range is 0≤γπ.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If, y = Cot x, then range is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-1 ≤ y ≤ 1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "(-∞, +∞) or R",
+          "isCorrect": true,
+          "explanation": "The correct answer is b).The range of the cotangent function is all real numbers, denoted by (-0,00) or simply R. This is because the cotangent function is defined as the reciprocal of the tangent function (cot(x) = 1/tan(x)), and the tangent function itself can take on any real number value (excluding zero). However, it's important to note that the cotangent function is undefined at specific points where the tangent function is zero (i.e., at integer multiples of pi).Of the answer choices in the image, only (b) reflects this range. So the answer is (b)"
+        },
+        {
+          "letter": "C",
+          "text": "y ≤ -1 or y ≥ 1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "y < -1 or y >1",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is b).The range of the cotangent function is all real numbers, denoted by (-0,00) or simply R. This is because the cotangent function is defined as the reciprocal of the tangent function (cot(x) = 1/tan(x)), and the tangent function itself can take on any real number value (excluding zero). However, it's important to note that the cotangent function is undefined at specific points where the tangent function is zero (i.e., at integer multiples of pi).Of the answer choices in the image, only (b) reflects this range. So the answer is (b)",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If y = Sin-¹x, then domain is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-1≤x≤1",
+          "isCorrect": true,
+          "explanation": "The correct answer is a)The Inverse sine Function is defined by: y = sinx, if and only if x = sin ywhere π 2 and -1≤x≤1 Here y is the angle whose sine is x. The domain of the function y = sin-1x is -1≤x≤ 1, its range is -π /2 ≤y ≤ π/ 2"
+        },
+        {
+          "letter": "B",
+          "text": "(-∞, +∞) or R",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "x ≥-1 or x≤1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "x ≤ -1 or y ≥1",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is a)The Inverse sine Function is defined by: y = sinx, if and only if x = sin ywhere π 2 and -1≤x≤1 Here y is the angle whose sine is x. The domain of the function y = sin-1x is -1≤x≤ 1, its range is -π /2 ≤y ≤ π/ 2",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If y = Tan -¹ x, then domain is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-1≤x≤1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "(-∞, +∞) or R",
+          "isCorrect": true,
+          "explanation": "The correct answer is b).The Inverse Tangent Function is defined by:y=tan'x, if and only if x = tan y.where -π/2< y < π /2 and -∞, <x< +∞Here y is the angle whose tangent is x. The domain of the function y = tan-1 x is -∞, <x< +∞ and its range is -π/2< y < π /2"
+        },
+        {
+          "letter": "C",
+          "text": "x ≥-1 or x≤1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "x ≤ -1 or y ≥1",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is b).The Inverse Tangent Function is defined by: y=tan'x, if and only if x = tan y. where -π/2< y < π /2 and -∞, <x< +∞Here y is the angle whose tangent is x. The domain of the function y = tan-1 x is -∞, <x< +∞ and its range is -π/2< y < π /2",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If. y = Cot-1 x, then Domain is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-1≤x≤1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "(-∞, +∞) or R",
+          "isCorrect": true,
+          "explanation": "The correct answer is b).The Inverse Cotangent Functiony=cot where 0 <X< is called the Principal Cotangent Function, which is one-to-one and has an inverse.The inverse cotangent function is defined by:y = cot1 x, if and only if x = cotyWhere 0< y<π and -∞, <x< +∞"
+        },
+        {
+          "letter": "C",
+          "text": "x ≥-1 or y≤1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "x ≤ -1 or y ≥1",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is b).The Inverse Cotangent Functiony=cot where 0 <X< is called the Principal Cotangent Function, which is one-to-one and has an inverse.The inverse cotangent function is defined by:y = cot1 x, if and only if x = cotyWhere 0< y<π and -∞, <x< +∞",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If y = See-1'x', then Domain is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-1≤x≤1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "(-∞, +∞) or R",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "x ≥-1 or y≤1",
+          "isCorrect": true,
+          "explanation": "The correct answer is c).ii) Inverse Secant functiony = sec x, where 0≤x≤ andx= π/ 2 called the Principal Secant Function, which isone-to-one and has an inverse.The Inverse Secant Function is defined by: y = sec 'x, if and only if x = secy where 0≤ y ≤n, y= π/2 and |x| ≥ 1"
+        },
+        {
+          "letter": "D",
+          "text": "x ≤ -1 or y ≥1",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is c).ii) Inverse Secant functiony = sec x, where 0≤x≤ andx= π/ 2 called the Principal Secant Function, which isone-to-one and has an inverse.The Inverse Secant Function is defined by: y = sec 'x, if and only if x = secy where 0≤ y ≤n, y= π/2 and |x| ≥ 1",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If y = Cosec¹x, then Domain is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-1≤x≤1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "(-∞, +∞) or R",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "x ≥-1 or x ≤1",
+          "isCorrect": true,
+          "explanation": "The correct answer is c).The Inverse Cosecant Function is defined by:y=cs-1c x, if and only if x = csc y where - π /2 ≤y ≤ π /2 y=0 and |x|≥1"
+        },
+        {
+          "letter": "D",
+          "text": "x ≤ -1 or x ≥1",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is c).The Inverse Cosecant Function is defined by:y=cs-1c x, if and only if x = csc y where - π /2 ≤y ≤ π /2 y=0 and |x|≥1",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If y Sin¹ x, then range is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-π/2 ≤x≤ π /2",
+          "isCorrect": true,
+          "explanation": "The correct answer is a).The Inverse sine Function is defined by: y=sin-1 x, if and only if x = sin y.where-π/2 ≤x≤ π /2 and-1<x<1 Here y is the angle whose sine is x. The domain of the function π y = sin -1x is -1≤x≤ 1, its range is-π/2 ≤x≤ π /2"
+        },
+        {
+          "letter": "B",
+          "text": "0≤x≤ π",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "-π/2 <x < π /2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "0 <x< π",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is a).The Inverse sine Function is defined by: y=sin-1 x, if and only if x = sin y.where-π/2 ≤x≤ π /2 and-1<x<1 Here y is the angle whose sine is x. The domain of the function π y = sin -1x is -1≤x≤ 1, its range is-π/2 ≤x≤ π /2",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If y Cos -¹x, then range is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-π/2 ≤x≤ π /2",
+          "isCorrect": true,
+          "explanation": "The correct answer is a).The Inverse Cosine Function is defined by:y = cos x, if and only if x= cos y. where 0≤ys and -1< x< 1Here y is the angle whose cosine is x. The domain of the function y = cos x is -1< x< 1 and its range is 0≤ y≤π."
+        },
+        {
+          "letter": "B",
+          "text": "0≤x≤ π",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "-π/2 <x < π /2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "0 <x< π",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is a).The Inverse Cosine Function is defined by:y = cos x, if and only if x= cos y. where 0≤ys and -1< x< 1Here y is the angle whose cosine is x. The domain of the function y = cos x is -1< x< 1 and its range is 0≤ y≤π.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If y Tan-¹x, then range is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-π/2 ≤x≤ π /2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "0≤x≤ π",
+          "isCorrect": true,
+          "explanation": "The correct answer is b).The Inverse Tangent Function is defined by: y=tan'x, if and only if x = tan y.where -π /2< y< π/ 2 and∞<x<+∞. <y< Here y is the angle whose tangent is x. The domain of the function y = tan x is-00<x< +∞ and its range is -π /2< y< π/ 2"
+        },
+        {
+          "letter": "C",
+          "text": "-π/2 <x < π /2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "0 <x< π",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is b).The Inverse Tangent Function is defined by: y=tan'x, if and only if x = tan y.where -π /2< y< π/ 2 and∞<x<+∞. <y< Here y is the angle whose tangent is x. The domain of the function y = tan x is-00<x< +∞ and its range is -π /2< y< π/ 2",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If y Cot-¹x, then range is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-π/2 ≤x≤ π /2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "0≤x≤ π",
+          "isCorrect": true,
+          "explanation": "The correct answer is b).i) Inverse Cotangent function:y = cotx, where 0≤x≤ is called the Principal Cotangent Function, which is one-to- one and has an inverse.The inverse cotangent function is defined by: y=cot x, if and only if x = coty Where 0<y<π and -00 <x<+00"
+        },
+        {
+          "letter": "C",
+          "text": "-π/2 <x < π /2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "0 <x< π",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is b).i) Inverse Cotangent function:y = cotx, where 0≤x≤ is called the Principal Cotangent Function, which is one-to- one and has an inverse.The inverse cotangent function is defined by: y=cot x, if and only if x = coty Where 0<y<π and -00 <x<+00",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If y = See -¹x, then range is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0≤ y ≤ л, у ≠π /2",
+          "isCorrect": true,
+          "explanation": "The correct answer is a).ii) Inverse Secant functiony = sec x, where 0≤x≤ and x is called the Principal Secant Function, which is 2 one-to-one and has an inverse. The Inverse Secant Function is defined by:y = secx. if and only if x = secy where 0≤yst ,у ≠π /2 and |x|>1"
+        },
+        {
+          "letter": "B",
+          "text": "-π /2 ≤ y ≤ π /2, y≠0",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "0 < y < π",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "-π /2 < y<π /2",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is a).ii) Inverse Secant functiony = sec x, where 0≤x≤ and x is called the Principal Secant Function, which is 2 one-to-one and has an inverse. The Inverse Secant Function is defined by:y = secx. if and only if x = secy where 0≤yst ,у ≠π /2 and |x|>1",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If y = Cosec-¹x, then range is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0≤ y ≤ л, у ≠π /2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "-π /2 ≤ y ≤ π /2, y≠0",
+          "isCorrect": true,
+          "explanation": "The correct answer is b).The Inverse Cosecant Function is defined by: y=csex, if and only if x=cse y where -π /2 ≤ y ≤ π /2, y≠0 and|x| >1"
+        },
+        {
+          "letter": "C",
+          "text": "0 < y < π",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "-π /2 < y<π /2",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is b).The Inverse Cosecant Function is defined by: y=csex, if and only if x=cse y where -π /2 ≤ y ≤ π /2, y≠0 and|x| >1",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Inverse of a function exist only if it is",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "trigonometric function",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "(1-1) function",
+          "isCorrect": true,
+          "explanation": "The correct answer is b).The inverse of a function exists if and only if the function is one-to-one (1-1) and onto (bijective). However, typically in the context of determining the existence of an inverse, the key property is that the function must be one-to-one. This ensures that each output is produced by exactly one input, which is necessary for the function to have a unique inverse.Therefore, the correct answer is:(b) (1-1)function"
+        },
+        {
+          "letter": "C",
+          "text": "onto function",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "an into function",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is b).The inverse of a function exists if and only if the function is one-to-one (1-1) and onto (bijective). However, typically in the context of determining the existence of an inverse, the key property is that the function must be one-to-one. This ensures that each output is produced by exactly one input, which is necessary for the function to have a unique inverse.Therefore, the correct answer is:(b) (1-1)function",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If y = Sin -¹x, then which is not true",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "x = Sin y",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "domain of Inverse function is value of x",
+          "isCorrect": true,
+          "explanation": "The correct answer is b).(c) y = (sin)-1.This statement appears to be a typographical error or incomplete, as it does not clearly specify what it means. It is supposed to represent the inverse sine function, but it is not clearly stated. As written, it is not meaningful or correct."
+        },
+        {
+          "letter": "C",
+          "text": "y = (Sin)-1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "range of Inverse function is value of y",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is b).(c) y = (sin)-1.This statement appears to be a typographical error or incomplete, as it does not clearly specify what it means. It is supposed to represent the inverse sine function, but it is not clearly stated. As written, it is not meaningful or correct.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Sin-¹x =",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "π /2-cos-1x",
+          "isCorrect": true,
+          "explanation": "The correct answer is a).Proof:Consider the right triangle given in the figure Angles a and ẞ are acute and complementary.α+β= π /2α=π /2 -β and β=π /2 α...(i)Now sina =(2 β)=cosẞ = x (say) a=sinx and B = cosxThus from (i) we have:sinx=-π/2 cos'xπ/ 2 and cosx=-π/2 sin 'x"
+        },
+        {
+          "letter": "B",
+          "text": "π /2sin-1x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "π /+-cos-1x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "π /2-cosec-1x",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is a).Proof:Consider the right triangle given in the figure Angles a and ẞ are acute and complementary.α+β= π /2 α=π /2 -β and β=π /2 α...(i) Now sina =(2 β)=cosẞ = x (say) a=sinx and B = cosx Thus from (i) we have: sinx=-π/2 cos'xπ/ 2 and cosx=-π/2 sin 'x",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Cos-x=",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "π /2-cos-1x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "π /2sin-1x",
+          "isCorrect": true,
+          "explanation": "The correct answer is b).Proof:Consider the right triangle given in the figure Angles & and ẞ are acute and complementary.α+β =π /2a=π /2-β and β=π /2-a..(i)Now sina =sin( π /2- β)=cos β=x (sayA)Thus from (1) we have: sin-1 x=π /2-cos-1x and cos-1 x=π /2-sin-1x"
+        },
+        {
+          "letter": "C",
+          "text": "π /2-cosec-1x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "π /2+cos-1x",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is b).Proof:Consider the right triangle given in the figure Angles & and ẞ are acute and complementary.α+β =π /2a=π /2-β and β=π /2-a..(i)Now sina =sin( π /2- β)=cos β=x (sayA)Thus from (1) we have: sin-1 x=π /2-cos-1x and cos-1 x=π /2-sin-1x",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Cosec-1x =",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "π /2-sec-1x",
+          "isCorrect": true,
+          "explanation": "The correct answer is aTo express the inverse cosecant function, csc-1x in terms of other inverse trigonometric functions, we use the relationship between inverse trigonometric functions. In particular, the relationship between csc and sin 2 is relevant here.The identity that relates csc-1x and sin csc-1x = sin-1 x is:csc-1x=sin-1(1/x)However, the options provided do not directly use this identity, so let's consider the relationship between csc-1x and sec-1x. We can use the identity involving the -1complementary angles: csc-1 x = sec -1 xGiven the options:(a) x/2= -sec-1x(b) x/2= -cosec-1x(c) x/2= +cosec-1x(d) x/2= -sin-1xThe correct option is(a) x/2= -sec-1x"
+        },
+        {
+          "letter": "B",
+          "text": "π /2-cosec-1x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "π /2+cosec-1x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "π /2+sin-1x",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is aTo express the inverse cosecant function, csc-1x in terms of other inverse trigonometric functions, we use the relationship between inverse trigonometric functions. In particular, the relationship between csc and sin 2 is relevant here.The identity that relates csc-1x and sin csc-1x = sin-1 x is:csc-1x=sin-1(1/x)However, the options provided do not directly use this identity, so let's consider the relationship between csc-1x and sec-1x. We can use the identity involving the -1complementary angles: csc-1 x = sec -1 xGiven the options:(a) x/2= -sec-1x(b) x/2= -cosec-1x(c) x/2= +cosec-1x(d) x/2= -sin-1xThe correct option is (a) x/2= -sec-1x",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Sec-1x=",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "π /2-cosec-1x",
+          "isCorrect": true,
+          "explanation": "The correct answer is a).To express the inverse secant function, sec-1 x, in terms of other inverse trigonometric functions, we use the relationships between inverse trigonometric functions. In particular, the relationship between sec-1x and csc-1 x is relevant here.The identity that relates sec¹ x and csc-1 x is: sec-1x =csc-1 x(√x2 -1)However, the options provided suggest using the relationship between sec-1x and cos-1x.We can use the identity involving complementary angles: sec-1 x= x/2-cos-1 x (1/x)Given the options:(a) π /2-cosec-1x(b) π /2-sec-1x(c)π /2-cos-1x(d)π /2+sec-1xThe correct option is:aπ /2-cosec-1x"
+        },
+        {
+          "letter": "B",
+          "text": "π /2-sec-1x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "π /2-cos-1x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "π /2+sec-1x",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is a).To express the inverse secant function, sec-1 x, in terms of other inverse trigonometric functions, we use the relationships between inverse trigonometric functions. In particular, the relationship between sec-1x and csc-1 x is relevant here.The identity that relates sec¹ x and csc-1 x is: sec-1x =csc-1 x(√x2 -1)However, the options provided suggest using the relationship between sec-1x and cos-1x.We can use the identity involving complementary angles: sec-1 x= x/2-cos-1 x (1/x)Given the options:(a) π /2-cosec-1x(b) π /2-sec-1x(c)π /2-cos-1x(d)π /2+sec-1xThe correct option is:aπ /2-cosec-1x",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Tan-1 x =",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "π /2-tan-1x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "π /2-cot-1x",
+          "isCorrect": true,
+          "explanation": "The correct answer is b).To express the inverse tangent function, tan-1x, in terms of the inverse cotangent function, cot, we can use the relationship between these functions.The relationship between tan¹x and cot-1x is given by: tan-1x+cot-1 x=π /2Therefore, we can rearrange this equation to express tan-1 in terms of cot-1: tan-1x = 2 cot-1xGiven the options:(a)π /2-tan-1x(b)π /2-cot-1x(c) π /2+tan-1x(d) π /2+cot-1xThe correct option is:(b)π /2-cot-1x"
+        },
+        {
+          "letter": "C",
+          "text": "π /2+tan-1x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "π /2+cot-1x",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is b).To express the inverse tangent function, tan-1x, in terms of the inverse cotangent function, cot, we can use the relationship between these functions.The relationship between tan¹x and cot-1x is given by: tan-1x+cot-1 x=π /2Therefore, we can rearrange this equation to express tan-1 in terms of cot-1: tan-1x = 2 cot-1xGiven the options:(a)π /2-tan-1x(b)π /2-cot-1x(c) π /2+tan-1x(d) π /2+cot-1xThe correct option is:(b)π /2-cot-1x",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Cot-1x=.....",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "π /2-tan-1x",
+          "isCorrect": true,
+          "explanation": "The correct answer isa).To express the inverse cotangent function, cot-1x, in terms of the inverse tangent function, cot-1, we can use the relationship between these functions.The relationship between cot¹x and tan-1x is given by:tan-1x+cot-1 x=π /2Therefore, we can rearrange this equation to express cot-1 x in terms oftan-1x :cot-1x =π /2 -tant-1xGiven the options:(a)π /2-tan-1x(b)π /2-cot-1x(c) π /2+tan-1x(d) π /2+cot-1xThe correct option is:(a)π /2-tan-1x"
+        },
+        {
+          "letter": "B",
+          "text": "π /2-cot-1x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "π /2+tan-1x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "π /2+cot-1x",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is a).To express the inverse cotangent function, cot-1x, in terms of the inverse tangent function, cot-1, we can use the relationship between these functions.The relationship between cot¹x and tan-1x is given by:tan-1x+cot-1 x=π /2Therefore, we can rearrange this equation to express cot-1 x in terms oftan-1x : cot-1x =π /2 -tant-1xGiven the options:(a)π /2-tan-1x(b)π /2-cot-1x(c) π /2+tan-1x(d) π /2+cot-1xThe correct option is:(a)π /2-tan-1x",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Sin (Cos-1√3/2)=.......",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "π /6",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "1/2",
+          "isCorrect": true,
+          "explanation": "The correct answer is b).To evaluate sin(cos-1(√3/2.)), let's follow these steps:1. Understand the Inner Function:cos-1(√3/2. is the angle whose cosine is √3/2.2. Find the Angle:The angle @ such that cos 0 = √3/2 is commonly known. From the unit circle, this angle is 0 = π/6 (or 30 degrees).3. Apply the Outer Function:* Now, we need to find sin(x/6).4. Evaluate the Sine Function:From trigonometric values, we know that sin(x/6) = 1/2.So. sin((cos-1(√3/2.)) = sin(x/6) =1/2Thus the value issin(cos-1((√3/2.))=1/2"
+        },
+        {
+          "letter": "C",
+          "text": "-1/2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "√3/2",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is b).To evaluate sin(cos-1(√3/2.)), let's follow these steps:1. Understand the Inner Function:cos-1(√3/2. is the angle whose cosine is √3/2.2. Find the Angle:The angle @ such that cos 0 = √3/2 is commonly known. From the unit circle, this angle is 0 = π/6 (or 30 degrees).3. Apply the Outer Function:* Now, we need to find sin(x/6).4. Evaluate the Sine Function:From trigonometric values, we know that sin(x/6) = 1/2.So. sin((cos-1(√3/2.)) = sin(x/6) =1/2Thus the value issin(cos-1((√3/2.))=1/2",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Cos (Tan-10) =....",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": true,
+          "explanation": "The correct answer is b).To evaluate cos(tan-1(0)), let's follow these steps:1. Understand the Inner Function:tan-1(√3/2. is the angle whose cosine is 02. Find the Angle:The angle Θ such that tanΘ = 0 is Θ = 0(or 0 degrees), because tan 0 =0.3. Apply the Outer Function:* Now, we need to find cos(0).4. Evaluate the Cosine Function:From trigonometric values, we know that cos(0) = 1So. cos((tan-1(0)) = cos(0) =1Thus the value iscos(tan-1((0.))=1"
+        },
+        {
+          "letter": "C",
+          "text": "π/ 2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "-1",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is b).To evaluate cos(tan-1(0)), let's follow these steps:1. Understand the Inner Function:tan-1(√3/2. is the angle whose cosine is 02. Find the Angle:The angle Θ such that tanΘ = 0 is Θ = 0(or 0 degrees), because tan 0 =0.3. Apply the Outer Function:* Now, we need to find cos(0).4. Evaluate the Cosine Function:From trigonometric values, we know that cos(0) = 1So. cos((tan-1(0)) = cos(0) =1Thus the value iscos(tan-1((0.))=1",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Sec [Sin -(- 1 /2)] = .....",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2/√3",
+          "isCorrect": true,
+          "explanation": "The correct answer is a).1. Understand the Inner Function:sin(-1) is the angle whose sine is -1/22. Find the Angle:The angle Θ such that sin Θ= -1/2 is Θ = - π/6 (or-30 degrees) because sin(-π/6)=-1/23. Apply the Outer Function:* Now, we need to find sec(-π/6).4. Evaluate the Secant Function:Secant is the reciprocal of cosine, so sec(Θ) =1/cos(Θ)We need to find cos(-π/6).Since cos(-π/6 = cos(π/6) (because cosine is a an even function), and we know that cos(π/6 )=√3/2Therefore:4 Evaluate the Secant functionSecant is the reciprocal of cosine, so sec(Θ) =1/cos(Θ)We need to find cos(-π/6)Since cos(-π/6) =cos(π/6) (because cosine is an even function), and we know that cos(π/6) = 3/2Therefore: sec(-π/6) = 1/cos(-π/6) = 1/cos(π/6) =1√3/2=2/√3=2/√3/3Thus, the value is:sec(sin-1(-1/2)) = 2/√3/3"
+        },
+        {
+          "letter": "B",
+          "text": "√3/2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "1/2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "-2/√3",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is a).1. Understand the Inner Function:sin(-1) is the angle whose sine is -1/22. Find the Angle:The angle Θ such that sin Θ= -1/2 is Θ = - π/6 (or-30 degrees) because sin(-π/6)=-1/23. Apply the Outer Function:* Now, we need to find sec(-π/6).4. Evaluate the Secant Function:Secant is the reciprocal of cosine, so sec(Θ) =1/cos(Θ)We need to find cos(-π/6).Since cos(-π/6 = cos(π/6) (because cosine is a an even function), and we know that cos(π/6 )=√3/2Therefore:4 Evaluate the Secant functionSecant is the reciprocal of cosine, so sec(Θ) =1/cos(Θ)We need to find cos(-π/6)Since cos(-π/6) =cos(π/6) (because cosine is an even function), and we know that cos(π/6) = 3/2Therefore: sec(-π/6) = 1/cos(-π/6) = 1/cos(π/6) =1√3/2=2/√3=2/√3/3Thus, the value is:sec(sin-1(-1/2)) = 2/√3/3",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Sin-1 (1/2) =.....",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "π/6",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "-π/6",
+          "isCorrect": true,
+          "explanation": "The correct answer is (b).following of this solution"
+        },
+        {
+          "letter": "C",
+          "text": "-π/3",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "π/3",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is b).following of this sollution",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Cos-1(1/2)=........",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "π/6",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "-π/6",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "-1-π/3",
+          "isCorrect": true,
+          "explanation": "The correct answer is c).The expression cos(-1/2) is asking for the angle whose cosine is-1/ 2The principal value of the inverse cosine function, cos-1(x), is defined to return values in the range [0, π). Specifically:cos-(-1/2) = 2π /3This is because cos( 2π /3)=-1/2 Regarding your statement about -π /3* The angle π /3 in the standard Cartesian plane is measured clockwise from the positive 2-axis.* If you go -π / radians clockwise, it is equivalent to 2 - π /3=π /5/3 radians counterclockwise."
+        },
+        {
+          "letter": "D",
+          "text": "π/3",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is c).The expression cos(-1/2) is asking for the angle whose cosine is-1/ 2The principal value of the inverse cosine function, cos-1(x), is defined to return values in the range [0, π). Specifically:cos-(-1/2) = 2π /3This is because cos( 2π /3)=-1/2 Regarding your statement about -π /3* The angle π /3 in the standard Cartesian plane is measured clockwise from the positive 2-axis.* If you go -π / radians clockwise, it is equivalent to 2 - π /3=π /5/3 radians counterclockwise.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Tan-1(-1/3)=",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "π/6",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "-π/6",
+          "isCorrect": true,
+          "explanation": "The options are incorrect but if the the question was Tan-¹ (-1/sqrt(3)) then the answer would be (b)."
+        },
+        {
+          "letter": "C",
+          "text": "-π/3",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "π/3",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The options are incorrect but if the the question was Tan-¹ (-1/sqrt(3)) then the answer would be (b).",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Tan-1(√3) = :",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "π/6",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "-π/6",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "-π/3",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "π/3",
+          "isCorrect": true,
+          "explanation": "The correct answer is d).To find the value of tan(√3), we need to find the angle whose tangent is 3Recall that the tangent of an angle is the ratio of the length of the opposite side to the length of the adjacent side in a right triangle.In this case, consider a right triangle where one of the acute angles is 0, and the opposite side is of length v3, and the adjacent side is of length 1.Using the definition of tangent, we have:tan (0)=opposite/ adjacentThis means that 0 = tan¯¹(√3).Since √3 is the tangent of the angleπ/3 (or 60°), we have:0=π/3So, tan¹(√3) or 60°."
+        }
+      ],
+      "explanation": "The correct answer is d).To find the value of tan(√3), we need to find the angle whose tangent is 3Recall that the tangent of an angle is the ratio of the length of the opposite side to the length of the adjacent side in a right triangle.In this case, consider a right triangle where one of the acute angles is 0, and the opposite side is of length v3, and the adjacent side is of length 1.Using the definition of tangent, we have:tan (0)=opposite/ adjacentThis means that 0 = tan¯¹(√3).Since √3 is the tangent of the angleπ/3 (or 60°), we have:0=π/3So, tan¹(√3) or 60°.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Cot-¹ (-1) =",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "π/4",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "-π/4",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "3π/4",
+          "isCorrect": true,
+          "explanation": "The correct answer is c).To find cot-1(-1), we need to find the angle whose cotangent is -1.Recall that the cotangent of an angle is the reciprocal of the tangent of that angle. So, if cot(Θ) = -1, then tan(Θ) = = -1. 1 cot(Θ)The angle whose tangent is -1 is3π/4 radians or 135° in degrees.So, cot-1(-1) 3π/4= radians or 135°."
+        },
+        {
+          "letter": "D",
+          "text": "-3π/4",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is c).To find cot-1(-1), we need to find the angle whose cotangent is -1.Recall that the cotangent of an angle is the reciprocal of the tangent of that angle. So, if cot(Θ) = -1, then tan(Θ) = = -1. 1 cot(Θ)The angle whose tangent is -1 is3π/4 radians or 135° in degrees.So, cot-1(-1) 3π/4= radians or 135°.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Tan, Tan-1(-1) =",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-1",
+          "isCorrect": true,
+          "explanation": "The correct answer is a)If tan(0) = 1, then 0 = tan-1(-1).So, tan(tan-1(-1)) = -1.Therefore, tan(tan-1(-1)) = -1."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "π/4",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "-π/4",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is a)If tan(0) = 1, then 0 = tan-1(-1).So, tan(tan-1(-1)) = -1.Therefore, tan(tan-1(-1)) = -1.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Cos (Sin-1 1/√2) =",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2√3",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "√3/2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "1/2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "1/√2",
+          "isCorrect": true,
+          "explanation": "To evaluate this expression, we need to follow the order of operations (PEMDAS):1. Evaluate the inverse sine function: Sin-1 (1/√2) = 45° (or π/4 radians)2. Take the cosine of the result: Cos (45°) = 1/√2So, Cos (Sin-1 1/√2) = 1/√2."
+        }
+      ],
+      "explanation": "The correct answer is d).To find cos(sin-1(1/√2)), we can utilize trigonometric identities and geometric interpretationsGiven that sin-1 (1/√2) represents an angle whose sine is 1/v2, which corresponds to radians or 45°, we can say:cos(sin-1 (1/√2)) = cos(π/4) Using the unit circle or trigonometric identity, we know that cos (π/4) is equal to √2,/2Therefore, cos-1(sin ¹(1/√2)) = √2,/2",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Sec (Cos-1 1/2)=",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "√3/2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "π/3",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "2/√3",
+          "isCorrect": true,
+          "explanation": "The correct answer is d).To find sec(cos-1 (1/2)), we need to understand that cos-1 (1/2) represents an angle whose cosine is 1/2, which corresponds to radians or 60°.So, cos-1 (1/2)=Then, sec(cos-1 (1/2)) is the secant of π/3The secant of an angle is the reciprocal of the cosine of that angle. So, sec( π/3) =1/cos( π/3)We know that cos( π/3) =1/2therefore,sec(cos-1(1/2))=1/1/2=2"
+        }
+      ],
+      "explanation": "The correct answer is d).To find sec(cos-1 (1/2)), we need to understand that cos-1 (1/2) represents an angle whose cosine is 1/2, which corresponds to radians or 60°.So, cos-1 (1/2)=Then, sec(cos-1 (1/2)) is the secant of π/3The secant of an angle is the reciprocal of the cosine of that angle. So, sec( π/3) =1/cos( π/3)We know that cos( π/3) =1/2therefore,sec(cos-1(1/2))=1/1/2=2",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Tan Cos-1 √3/2. =",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "√3",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "1/√3",
+          "isCorrect": true,
+          "explanation": "The correct answer is b).To find tan(cos-1(√3/2)), we first determine that cos-1(√3/2) represents an angle whose cosine is (√3/2). This corresponds to π/6 radians or 30°.So, cos-¹(√√3/2) = π/6Then, tan(cos ¹(√3/2)) is the tangent of π/6.Using the unit circle or trigonometric identity, we know that tan( π/6) =1/√3=√3/3Therefore, tan(cos-1(√3/2)) =√3/3 ."
+        },
+        {
+          "letter": "C",
+          "text": "π/3",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "π/6",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is b).To find tan(cos-1(√3/2)), we first determine that cos-1(√3/2) represents an angle whose cosine is (√3/2). This corresponds to π/6 radians or 30°.So, cos-¹(√√3/2) = π/6Then, tan(cos ¹(√3/2)) is the tangent of π/6.Using the unit circle or trigonometric identity, we know that tan( π/6) =1/√3=√3/3Therefore, tan(cos-1(√3/2)) =√3/3 .",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Cosec (Tan-1(-1)) =",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/√2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "-1/√2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "√2",
+          "isCorrect": true,
+          "explanation": "The correct answer is c).To find csc(tan-1 (-1)), we first determine that tan-1 (-1) represents an angle whose tangent is -1.This corresponds to an angle in the fourth quadrant, specifically 3π/4 radians or 135°.So, tan-1(-1) =3π/4Then, csc(tan-1(-1)) is the cosecant of.3π/4Using the unit circle or trigonometric identity, we know that sin(3π/4) =√2/ 2.Therefore, csc(tan-1(-1)) =1/sin(3π/4)=2/ 2. =√2"
+        },
+        {
+          "letter": "D",
+          "text": "-√2",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is c).To find csc(tan-1 (-1)), we first determine that tan-1 (-1) represents an angle whose tangent is -1.This corresponds to an angle in the fourth quadrant, specifically 3π/4 radians or 135°.So, tan-1(-1) =3π/4Then, csc(tan-1(-1)) is the cosecant of.3π/4Using the unit circle or trigonometric identity, we know that sin(3π/4) =√2/ 2.Therefore, csc(tan-1(-1)) =1/sin(3π/4)=2/ 2. =√2",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Sin (Sin-1 1/2) =",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/2",
+          "isCorrect": true,
+          "explanation": "The correct answer is a).To find sin(sin-1(1/2)), we first recognize that sin-1¹(1/2) represents an angle whose sine is 1/2.This corresponds to π/6 radians or 30°.So, sin-1(1/2) =Then, sin(sin¯¹(1/2)) is simply the sine of π/6Using the unit circle or trigonometric identity, we know that sin(π/6) =1/2Therefore, sin(sin¹(1/2)) =1/2"
+        },
+        {
+          "letter": "B",
+          "text": "π/3",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "π/6",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "√3/2",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is a).To find sin(sin-1(1/2)), we first recognize that sin-1¹(1/2) represents an angle whose sine is 1/2.This corresponds to π/6 radians or 30°.So, sin-1(1/2) =Then, sin(sin¯¹(1/2)) is simply the sine of π/6Using the unit circle or trigonometric identity, we know that sin(π/6) =1/2Therefore, sin(sin¹(1/2)) =1/2",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Tan (Sin -1(-1/2)) =....",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "√3",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "-√3",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "1/√3",
+          "isCorrect": true,
+          "explanation": "The correct answer is c).To find tan(sin-1(-1/2)), we first recognize that sin-1¹(-1/2) represents an angle whose sine is-1/2.This corresponds to an angle in the fourth quadrant, where both sine and tangent are negative. The reference angle here is π /6radians or 30°.So, sin-1(-1/2) =11π/6 (or 330° in degrees).Then, tan(sin-1(-1/2)) is the tangent of 11π/6.Using the unit circle or trigonometric identity, we know that tan(11π/6) = tan(π/6) =1/√3=√3/3Therefore, tan(sin-1(-1/2)) = .√3/3"
+        },
+        {
+          "letter": "D",
+          "text": "-1√3",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is c).To find tan(sin-1(-1/2)), we first recognize that sin-1¹(-1/2) represents an angle whose sine is-1/2.This corresponds to an angle in the fourth quadrant, where both sine and tangent are negative. The reference angle here is π /6radians or 30°.So, sin-1(-1/2) =11π/6 (or 330° in degrees).Then, tan(sin-1(-1/2)) is the tangent of 11π/6.Using the unit circle or trigonometric identity, we know that tan(11π/6) = tan(π/6) =1/√3=√3/3Therefore, tan(sin-1(-1/2)) = .√3/3",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Sin-1 A + Sin-1 B is equal to",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sin (A1-B2 + B√1-A2)",
+          "isCorrect": true,
+          "explanation": "The correct answer is a).sin-1 A+sin -1B=sin (A√1-B²+B√1-A²)"
+        },
+        {
+          "letter": "B",
+          "text": "Sin-1(A√1-B2-B√1-A²)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Sin-1(B1-A2)-(A√1-B2)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Sin-1 (AB√(1-A2)(1-B2)",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is a).sin-1 A+sin -1B=sin (A√1-B²+B√1-A²)",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Sin-1 A- Sin-1 - B =....",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sin-1(A√1-B2 + B√1-A²)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Sin-1(A√1-B2-B√1-A²)",
+          "isCorrect": true,
+          "explanation": "The correct answer is B).Sin-1(A√1-B2-B√1-A²)"
+        },
+        {
+          "letter": "C",
+          "text": "Sin-1 (B√1-A2)-(A1-B2)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Sin-1 (AB√(1-A2)(1-B2)",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is B).Sin-1(A√1-B2-B√1-A²)",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Cos-1 A+ Cos-1B = ......",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cos-1(AB-1-A²)(1-B²))",
+          "isCorrect": true,
+          "explanation": "The correct answer is a).cos-1 A+cos-1 B=cos -1(AB-(1-A²)(1-B²))"
+        },
+        {
+          "letter": "B",
+          "text": "Cos-1(AB+ √(1-A²)(1-B2))",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Cos-1(AB+(1+A²)(1+B²))",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Cos-1(AB-(1+A²)(1+ B²)",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is a).cos-1 A+cos-1 B=cos -1(AB-(1-A²)(1-B²))",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Cos-1 A-Соs-1B =....",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cos-1(AB-√(1-A2)(1-B²))",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Cos-1(AB+ √(1-A²)(1-B²))",
+          "isCorrect": true,
+          "explanation": "The correct answer is b).cos-1 A+cos-1 B=cos -1(AB+√(1-A²)(1-B²))"
+        },
+        {
+          "letter": "C",
+          "text": "Cos-1(AB+√(1+A²)(1+ B²))",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Cos-1(AB - √(1+A2)(1 + B²)",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is b).cos-1 A+cos-1 B=cos -1(AB+√(1-A²)(1-B²))",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Tan-1A+Tan-1B =",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tan-1( A-B/ 1+ AB)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Tan-1(A+B/1-AB)",
+          "isCorrect": true,
+          "explanation": "The correct answer is b).tan-1 A tan B= tan-1 (A+B/1-AB)"
+        },
+        {
+          "letter": "C",
+          "text": "Tan-1( A-B/ 1-AB)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Tan-1( A+B /1+ AB )",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is b).tan-1 A tan B= tan-1 (A+B/1-AB)",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Tan-1A-Tan-1B =",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tan-1( A-B/ 1+ AB)",
+          "isCorrect": true,
+          "explanation": "The correct answer is a).tan-1 A-tan-1 B=tan-1. A-B/ 1+AB"
+        },
+        {
+          "letter": "B",
+          "text": "Tan-1(A+B/1-AB)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Tan-1( A-B/ 1-AB)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Tan-1( A+B /1+ AB )",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is a).tan-1 A-tan-1 B=tan-1. A-B/ 1+AB",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "2 Tan-1A=",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tan-1(A/1-A2)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Tan-1(2A/1-A2)",
+          "isCorrect": true,
+          "explanation": "The correct answer is b).2 tan-1 A=tan-1 2A/ 1-A2"
+        },
+        {
+          "letter": "C",
+          "text": "Tan-1(2A/1+A2)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Tan-1(A/1+A2)",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is b).2 tan-1 A=tan-1 2A/ 1-A2",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Sin-1 (-x) =.......",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "- Sin-1x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Sin-¹ x",
+          "isCorrect": true,
+          "explanation": "The correct answer is b).sin-1(-x) = -sin-1 x"
+        },
+        {
+          "letter": "C",
+          "text": "π – Sin-1 x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "π – Sin x",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is b).sin-1(-x) = -sin-1 x",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Cos-1(-x)",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cos-1-x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Sin-¹ x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "π – Cos-1 x",
+          "isCorrect": true,
+          "explanation": "The correct answer is c).Cos-1(-x) = π – Cos-1 x"
+        },
+        {
+          "letter": "D",
+          "text": "– Cos-1 x",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is c).Cos-1(-x) = π – Cos-1 x",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Tan-1(-x) = .........",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-Tan-1x",
+          "isCorrect": true,
+          "explanation": "﻿The correct answer is a).tan-1(-x) = -Tan-1x"
+        },
+        {
+          "letter": "B",
+          "text": "π-tan-1x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Cot-1 x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Tan-1 x",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is a).tan-1(-x) = -Tan-1x",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "2 Sin x-1 A = .........",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sin-1(2A√1-A2)",
+          "isCorrect": true,
+          "explanation": "Correct Answer is aFollowing of the solution"
+        },
+        {
+          "letter": "B",
+          "text": "Sin-1 (A√(1-A2)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Sin-1 (2A√1-A2)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Cos-1 (2A√1-A2)",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct Answer is aFollowing of the solution",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "2 Cos -1 A = .........",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cos-1(2A2-1)",
+          "isCorrect": true,
+          "explanation": "Correct Answer is aTo express 2 cos-1 A in a different form, we use the double angle formula for cosine in terms of inverse cosine. The relevant identity is: 2 cos-1A= cos Given the options:(a) cos-¹(2A2-1)(b) cos-1 (1-2A2)(c) cos-1(2A-1)(d) cos-¹(242+1)The correct option is:(a) cos-1(2A2-1)"
+        },
+        {
+          "letter": "B",
+          "text": "Cos -1 (1-2A2)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Cos-1 (2A-1)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Cos -1 (2A2+1)",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct Answer is aTo express 2 cos-1 A in a different form, we use the double angle formula for cosine in terms of inverse cosine. The relevant identity is: 2 cos-1A= cos Given the options:(a) cos-¹(2A2-1)(b) cos-1 (1-2A2)(c) cos-1(2A-1)(d) cos-¹(242+1)The correct option is:(a) cos-1(2A2-1)",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Cosec-1 (-x) =",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-Cosec-1 x",
+          "isCorrect": true,
+          "explanation": "Correct Answer is aTo express csc-1 (-x) A in a different form, we use the double angle formula for cosine in terms of inverse cosine. The relevant identity is: csc-1(-x)=-csc-1(-x)Given the options:(a) -csc-1x(b) sin-1 x(c) π-Cosec-1 x(d)π-Cosec-1 xThe correct option is:(a) -csc-1 x"
+        },
+        {
+          "letter": "B",
+          "text": "Sin-¹ x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "π-Cosec-1 x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "π-Sin-1 x",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct Answer is aTo express csc-1 (-x) A in a different form, we use the double angle formula for cosine in terms of inverse cosine. The relevant identity is: csc-1(-x)=-csc-1(-x)Given the options:(a) -csc-1x(b) sin-1 x(c) π-Cosec-1 x(d)π-Cosec-1 xThe correct option is:(a) -csc-1 x",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Sec-1 (-x)",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cos-x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Sec-¹ x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "π - Sec-x",
+          "isCorrect": true,
+          "explanation": "Solution: The correct answer is c).To express sec-1(-2) in a different form, we use the property of the inverse secantfunction. The relevant identity is:sec-1(-2) = π - sec-1(x)Given the options:(a) cos-1 x(b) sec-1 x(c) π - sec-1 x(d) - sec-1 xThe correct option is:Type here to search(c) π - sec-1 x"
+        },
+        {
+          "letter": "D",
+          "text": "- Sec¹ x",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Solution: The correct answer is c).To express sec-1(-2) in a different form, we use the property of the inverse secantfunction. The relevant identity is:sec-1(-2) = π - sec-1(x)Given the options:(a) cos-1 x(b) sec-1 x(c) π - sec-1 x(d) - sec-1 xThe correct option is:Type here to search(c) π - sec-1 x",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Cot-1(-x) = _",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "(a) Cot-x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "π-tan-x",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "n-cot-x",
+          "isCorrect": true,
+          "explanation": "Solution: The correct answer is c).To express cot-1(-2) in a different form, we use the property of the inverse cotangentfunction. The relevant identity is:cot-1(-2) = π cot-1(x)Given the options:(a)π/2 -cot-1 x (b) π tan-1x(c) π cot-1x(d) tan-1xThe correct option is:(c) π- cot-1x"
+        },
+        {
+          "letter": "D",
+          "text": "- Tan-¹ x",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Solution: The correct answer is c).To express cot-1(-2) in a different form, we use the property of the inverse cotangentfunction. The relevant identity is:cot-1(-2) = π cot-1(x)Given the options:(a) π/2 -cot-1 x (b) π tan-1x(c) π cot-1x(d) tan-1xThe correct option is:(c) π- cot-1x",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Tan (cos-1 √32) =",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1√3",
+          "isCorrect": true,
+          "explanation": "Solution: The correct answer is a).To solve tan (cos-1 (√3/2)). we follow these steps:1. Let θ = COS -1 (√3/2) Therefore, cos θ =2. We recognize that cos θ = √3/2 corresponds to an angle θ π/6 ,because cos = π/6=√3/23. Now, we need to find tanθ. If θ =, we know that:tan π /6 =1/√3Therefore, the correct option is:(a) 1√3"
+        },
+        {
+          "letter": "B",
+          "text": "√3/2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "√3",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "2/√3",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Solution: The correct answer is a).To solve tan (cos-1 (√3/2)). we follow these steps:1. Let θ = COS -1 (√3/2) Therefore, cos θ =2. We recognize that cos θ = √3/2 corresponds to an angle θ π/6 ,because cos = π/6=√3/23. Now, we need to find tanθ. If θ =, we know that:tan π /6 =1/√3Therefore, the correct option is:(a) 1√3",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Tan-1[2A/1-A2] is equal to:",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tan-1 A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Tan-1 [2/A]",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "2 Tan-1 A",
+          "isCorrect": true,
+          "explanation": "following opf this solutioin"
+        },
+        {
+          "letter": "D",
+          "text": "Tan-1 [A/2]",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "following opf this solution",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Tan-1(2A) =",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tan-1 (2A)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Tan-1 [2/A]",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "2 Tan-1 A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": true,
+          "explanation": "Solution: The correct answer is d).Since none of the options directly match a known identity or simplification for tan-1 (2A), the best choice among the given options is:(d) None of these"
+        }
+      ],
+      "explanation": "Solution: The correct answer is d).Since none of the options directly match a known identity or simplification for tan-1 (2A), the best choice among the given options is:(d) None of these",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Domain of inverse Cosine function is:",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0 < x < π",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "-1 ≤ x ≤ 1",
+          "isCorrect": true,
+          "explanation": "The range of cosine function is (-1,1).As range of cosine function is domain of inverse cosine function. So it is (-1,1)."
+        },
+        {
+          "letter": "C",
+          "text": "Both a and b",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The range of cosine function is (-1,1).As range of cosine function is domain of inverse cosine function. So it is (-1,1).",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Find the value of sin(cos-1 √3/2)",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "π/6",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "1/2",
+          "isCorrect": true,
+          "explanation": "First, evaluate cos-1 (√3/2).Since cos (π/6)=√3 /2, we can write cos (√3 /2) = cos (π/6).Then, apply the sine function to the result obtained in step 1:sin( cos-1(√3 /2))=sin (cos(π/6))sin (π/6)=1/2."
+        },
+        {
+          "letter": "C",
+          "text": "1/√2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "-3π/6",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "First, evaluate cos-1 (√3/2).Since cos (π/6)=√3 /2, we can write cos (√3 /2) = cos (π/6).Then, apply the sine function to the result obtained in step 1:sin( cos-1(√3 /2))=sin (cos(π/6))sin (π/6)=1/2.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Find the value of tan-1(-√3)",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "π/4",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "2π/4",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "π/6",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "2π/3",
+          "isCorrect": true,
+          "explanation": "Here y= tan-1(-√3)tan y= -√3 (-π/2 < y < π/2)y= 2π/3tan-1(-√3) = 2π/3"
+        }
+      ],
+      "explanation": "Here y= tan-1(-√3)tan y= -√3 (-π/2 < y < π/2)y= 2π/3tan-1(-√3) = 2π/3",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "sin-1(x) + cos-1(x)",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "π",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "2π",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "π/2",
+          "isCorrect": true,
+          "explanation": "We can backsolve it asx=0sin-1 (0) + cos-1 (0)0+ π/2π/2"
+        }
+      ],
+      "explanation": "We can backsolve it asx=0sin-1 (0) + cos-1 (0)0+ π/2π/2",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the cosine inverse of cos(0.5)?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/6",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "1/2",
+          "isCorrect": true,
+          "explanation": "The correct answer is b) 1/2.The inverse cosine of 0.5 is 60 degrees, which is π/3 radians.The cosine of π/3 radians is 1/2.Therefore, the correct answer is b) 1/2."
+        },
+        {
+          "letter": "C",
+          "text": "1/3",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "1/4",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is b) 1/2.The inverse cosine of 0.5 is 60 degrees, which is π/3 radians.The cosine of π/3 radians is 1/2.Therefore, the correct answer is b) 1/2.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Find the value of cos (tan^-1(1-1)).",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.766",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "0.707",
+          "isCorrect": true,
+          "explanation": "The correct answer is b) 0.707.The inverse tangent of (1-1) is 0 radians.The cosine of 0 radians is 1.Therefore, the correct answer is b) 0.707."
+        },
+        {
+          "letter": "C",
+          "text": "0.500",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "0.087",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is b) 0.707.The inverse tangent of (1-1) is 0 radians.The cosine of 0 radians is 1.Therefore, the correct answer is b) 0.707.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the domain of the inverse cosecant function?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "[-1,1]",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "R",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "R - (-1,1)",
+          "isCorrect": true,
+          "explanation": "Correct answer is R- (-1,1). All the real numbers which do not lie between -1 and 1 are domain of the inverse cosecant function."
+        },
+        {
+          "letter": "D",
+          "text": "(-1,1)",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Correct answer is R- (-1,1). All the real numbers which do not lie between -1 and 1 are domain of the inverse cosecant function.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the sine inverse of sin(π/2)?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "π/2 radians",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "90 degrees",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Both b and c",
+          "isCorrect": true,
+          "explanation": "The correct answer is d) Both b and c.The sine inverse (arcsin or sin^-1) of sin(π/2) is:a) 1 (dimensionless)b) π/2 radiansc) 90 degreesSince both the radian and degree values are correct, the answer is d) Both b and c."
+        }
+      ],
+      "explanation": "The correct answer is d) Both b and c.The sine inverse (arcsin or sin^-1) of sin(π/2) is:a) 1 (dimensionless)b) π/2 radiansc) 90 degreesSince both the radian and degree values are correct, the answer is d) Both b and c.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Evaluate: tan^-1 (√(1/3)).",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "π/6 radians",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "π/3 radians",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "13π/6 radians",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Both a and c",
+          "isCorrect": true,
+          "explanation": "Following of the solution"
+        }
+      ],
+      "explanation": "Following of the solution",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "sin^-1 (3/4) + sin^-1 (√7/4) =",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "180°",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "270°",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "90°",
+          "isCorrect": true,
+          "explanation": "The correct answer is c) 90°.sin^-1 (3/4) = 53.13° and sin^-1 (√7/4) = 36.87°The sum of these two angles is 53.13° + 36.87° = 90°.Therefore, the correct answer is c) 90°."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is c) 90°.sin^-1 (3/4) = 53.13° and sin^-1 (√7/4) = 36.87°The sum of these two angles is 53.13° + 36.87° = 90°.Therefore, the correct answer is c) 90°.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "sin^-1 (3/5) + sin^-1 (√7/4) =",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "cos^-1 (0)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "sin^-1 (1)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "tan^-1 (∞)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": true,
+          "explanation": "The correct answer is d) All of these.sin^-1 (3/5) = 53.13° and sin^-1 (√7/4) = 36.87°The sum of these two angles is 53.13° + 36.87° = 90°.The inverse sine of 0 is 0°, which is the same as the inverse cosine of 0.The inverse sine of 1 is 90°, which is the same as the inverse tangent of infinity.Therefore, the correct answer is d) All of these."
+        }
+      ],
+      "explanation": "The correct answer is d) All of these.sin^-1 (3/5) = 53.13° and sin^-1 (√7/4) = 36.87°The sum of these two angles is 53.13° + 36.87° = 90°.The inverse sine of 0 is 0°, which is the same as the inverse cosine of 0.The inverse sine of 1 is 90°, which is the same as the inverse tangent of infinity.Therefore, the correct answer is d) All of these.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "tan^-1 x + tan^-1 (1/x) =",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "π",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "π/2",
+          "isCorrect": true,
+          "explanation": "Following of the solution"
+        },
+        {
+          "letter": "C",
+          "text": "π/4",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Undefined",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Following of the solution",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If cos^-1 (-1/2) = x, what will be the value of sin (x/2)?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.866",
+          "isCorrect": true,
+          "explanation": "Following of the solution"
+        },
+        {
+          "letter": "B",
+          "text": "0.5",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "0.707",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Following of the solution",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "cos^-1 (-1/2)",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "120 degrees",
+          "isCorrect": true,
+          "explanation": "The correct answer is a) 120 degrees.The inverse cosine of -1/2 is 120 degrees."
+        },
+        {
+          "letter": "B",
+          "text": "180 degrees",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "90 degrees",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "270 degrees",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is a) 120 degrees.The inverse cosine of -1/2 is 120 degrees.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is equal to sin^-1 (5/6)?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "cos^-1 (5/6)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "sec^-1 (5/6)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "csc^-1 (5/6)",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": true,
+          "explanation": "The correct answer is d) All of these.The inverse sine, cosine, secant, and cosecant of 5/6 are all equal."
+        }
+      ],
+      "explanation": "The correct answer is d) All of these.The inverse sine, cosine, secant, and cosecant of 5/6 are all equal.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "sin^-1(x) + cos^-1(x) = ?",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Inverse Trigonometric Functions",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "π",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "4π",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "2π",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "π/2",
+          "isCorrect": true,
+          "explanation": "Following of the solution"
+        }
+      ],
+      "explanation": "Following of the solution",
+      "explanationImage": null,
+      "hints": []
+    }
+  ]
+}

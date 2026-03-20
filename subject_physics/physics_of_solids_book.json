@@ -1,0 +1,1321 @@
+{
+  "questions": [
+    {
+      "text": "In a capillary tube, water rises to a height of 4 cm. If the cross-sectional area of the tube were one-fourth, water would have risen to a height of :",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 cm",
+          "isCorrect": false,
+          "explanation": "This option incorrectly assumes a direct relationship between height and cross-sectional area. In capillary action, height is inversely proportional to the radius, which changes with area. Thus, this reasoning is flawed."
+        },
+        {
+          "letter": "B",
+          "text": "4 cm",
+          "isCorrect": false,
+          "explanation": "This option suggests that the height of water remains unchanged despite a reduction in the area. However, the height is influenced by the radius, which decreases when the area is reduced, leading to a different height."
+        },
+        {
+          "letter": "C",
+          "text": "8 cm",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The height of liquid rise in a capillary tube is inversely proportional to the radius. Halving the radius (due to the area becoming one-fourth) results in the height doubling to 8 cm."
+        },
+        {
+          "letter": "D",
+          "text": "16 cm",
+          "isCorrect": false,
+          "explanation": "This answer incorrectly assumes a direct proportionality between height and area. While it seems logical that a smaller area could lead to a proportionally larger height, capillary action follows an inverse relationship with radius."
+        }
+      ],
+      "explanation": "The height (h) of capillary rise is inversely proportional to the tube's radius (r). Since area (A) is proportional to r², theradius is proportional to the square root of the area. If the area becomes one-fourth, the radius is halved, causing the height to double to 8 cm.",
+      "explanationImage": null,
+      "hints": [
+        "capillary tube",
+        "cross-sectional area"
+      ]
+    },
+    {
+      "text": "A wire has tensile strain one and it is cut into half,then strain of each part is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": true,
+          "explanation": "The strain is an intrinsic material response so it is independent if size of specimen,so each half still ha strain of 1."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "Doubling the strain would imply the deformation per unit length has increased,which is not the case when simply cutting the wire."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "isCorrect": false,
+          "explanation": "This suggest a massive increase in strain,which is not physically justified by merely cutting the specimen."
+        },
+        {
+          "letter": "D",
+          "text": "1/2",
+          "isCorrect": false,
+          "explanation": "It is not possible as strain is independent of length of specimen."
+        }
+      ],
+      "explanation": "The tensile strain remains the same because it is defined asthe ratio of change in length to the original length, which is aproperty of the material and it is independent of its length.",
+      "explanationImage": null,
+      "hints": [
+        "tensile strain",
+        "cut into half"
+      ]
+    },
+    {
+      "text": "Which of the following is brittle:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Glass",
+          "isCorrect": true,
+          "explanation": "Glass is classical brittle material.It exhibit little to no plastic deformation."
+        },
+        {
+          "letter": "B",
+          "text": "Copper",
+          "isCorrect": false,
+          "explanation": "Copper is ductile. As it undergoes significant plastic deformation before fracture."
+        },
+        {
+          "letter": "C",
+          "text": "Aluminium",
+          "isCorrect": false,
+          "explanation": "Aluminum is also ductile."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": "It contains brittle as well as ductile material hence,incorrect."
+        }
+      ],
+      "explanation": "Glass is a non metallic material which shatters easily, makingit a classic example of a brittle material.",
+      "explanationImage": null,
+      "hints": [
+        "brittle"
+      ]
+    },
+    {
+      "text": "A gas undergoes a process in which the pressure and volume are related by VPn= constant. The bulk modulus of the gas is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "n",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The bulk modulus is a measure of a substance's resistance to uniform compression, which must have dimensions of pressure. Since n is a dimensionless exponent, it cannot represent the bulk modulus."
+        },
+        {
+          "letter": "B",
+          "text": "p1/n",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While this expression might seem plausible in other contexts, it does not correspond to the derived relationship for the bulk modulus in the context of the given pressure-volume relationship."
+        },
+        {
+          "letter": "C",
+          "text": "p/n",
+          "isCorrect": false,
+          "explanation": "This option is a repeat of the previous one and is incorrect for the same reasons stated. It fails to align with the derived formula for the bulk modulus from the given relationship."
+        },
+        {
+          "letter": "D",
+          "text": "pn",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The bulk modulus is defined as K = -V(dP/dV). When differentiating the given relationship V Pⁿ = constant, the derived expression for the bulk modulus is K = P.n, which reflects the dependence on both pressure and the exponent n."
+        }
+      ],
+      "explanation": "The bulk modulus is defined as K = -V(dP/dV). By differentiating the given relation V Pⁿ = constant, we find that the bulk modulus for this specific process is K=P.n.",
+      "explanationImage": null,
+      "hints": [
+        "pressure",
+        "volume"
+      ]
+    },
+    {
+      "text": "Two wires are made of the same material and have the same volume. However, wire 1 has a cross-sectional area of A, and wire 2 has a cross-sectional area of 3A. If the length of wire 1 increases by Δx on applying force F, how much force is needed to stretch wire 2 by the same amount?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "F",
+          "isCorrect": false,
+          "explanation": "This option suggests that the same force F is needed to stretch wire 2, which is incorrect. Due to the larger cross-sectional area of wire 2, a greater force is required to achieve the same extension."
+        },
+        {
+          "letter": "B",
+          "text": "4F",
+          "isCorrect": false,
+          "explanation": "This option indicates that four times the force is needed. While it acknowledges the difference in area, it underestimates the additional force required based on the relationship between force, area, and extension."
+        },
+        {
+          "letter": "C",
+          "text": "6F",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The force required to stretch wire 2 by the same amount Δx is 6F due to its larger cross-sectional area, which reduces the stress and therefore requires a greater force to achieve the same extension."
+        },
+        {
+          "letter": "D",
+          "text": "9F",
+          "isCorrect": false,
+          "explanation": "This option suggests an excessive force requirement. While it considers the need for additional force due to cross-sectional area, it overestimates the necessary force based on the principles of Hooke's Law."
+        }
+      ],
+      "explanation": "Force to stretch a wire: F=YAΔL/L. Both wires have the same volume: F’/F = A’/A x L/L’ = 3x3 F’ = 9F",
+      "explanationImage": null,
+      "hints": [
+        "cross-sectional area",
+        "length increases",
+        "same material"
+      ]
+    },
+    {
+      "text": "A ball falling in a lake of 200 m shows a decrease of 0.1% in its volume. The bulk modulus of elasticity of the material of the ball is: (take g = 10 m/s²)",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10⁹ N/m²",
+          "isCorrect": false,
+          "explanation": "109 N/m2 Incorrect — This value underestimates the pressure change based on the depth and does not correspond to the observed 0.1% volume decrease."
+        },
+        {
+          "letter": "B",
+          "text": "2 × 10⁹ N/m²",
+          "isCorrect": true,
+          "explanation": "2 × 109 N/m2 Correct — This is the accurate calculation for the bulk modulus based on the derived pressure change and volume strain. The pressure change at 200 m is calculated as ΔP = ρgh = 1000 × 10 × 200 = 2 × 106 Pa, and the volume strain is -0.001. Therefore, K = (2 × 106) / (-0.001) = 2 × 109 N/m2."
+        },
+        {
+          "letter": "C",
+          "text": "3 × 10⁹ N/m²",
+          "isCorrect": false,
+          "explanation": "3 × 109 N/m2 Incorrect — This value exceeds the calculated bulk modulus and does not match the pressure change and volume strain obtained from the problem."
+        },
+        {
+          "letter": "D",
+          "text": "4 × 10⁹ N/m²",
+          "isCorrect": false,
+          "explanation": "4 × 109 N/m2 Incorrect — This value is significantly higher than what is derived from the equations and does not correlate with the pressure and strain values given."
+        }
+      ],
+      "explanation": "Bulk modulus is K = -ΔP / (ΔV/V). The pressure change at200 m is ΔP = ρgh = 1000×10×200 = 2 x 10⁶ Pa. The volumestrain ΔV/V is -0.1% or -0.001. Thus, K = (2 x 10⁶) / 0.001 = 2 x10⁹ N/m².",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The rubber cord of a catapult has a cross-sectional area of 1 mm² and a total unstretched length of 10 cm. It is stretched to 12 cm and then released to project a stone of mass 5 g. Taking Young’s modulus Y of rubber as 5 × 10⁸ N/m², the velocity of projection will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 cm/s",
+          "isCorrect": false,
+          "explanation": "20 cm/s This speed translates to 0.2 m/s, which is too low given the energy stored in the rubber cord. A miscalculation in energy conversion principles likely led to this option."
+        },
+        {
+          "letter": "B",
+          "text": "20 m/s",
+          "isCorrect": true,
+          "explanation": "20 m/s Correct — This speed accurately reflects the conversion of potential energy from the stretched cord into kinetic energy of the stone, confirming that the calculations align with the principles of energy balance."
+        },
+        {
+          "letter": "C",
+          "text": "2 m/s",
+          "isCorrect": false,
+          "explanation": "2 m/s This value is too low given the substantial energy stored in the rubber cord, indicating a misunderstanding of the energy dynamics in this scenario."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "Incorrect — The correct answer is option B. The potential energy stored in the rubber cord results in a projection velocity of 20 m/s."
+        }
+      ],
+      "explanation": "The potential energy stored in the stretched cord is E = (1/2)× Stress × Strain × Volume. This stored energy is convertedinto the stone's kinetic energy (1/2)mv². Solving this energybalance equation for velocity gives 20 m/s.",
+      "explanationImage": null,
+      "hints": [
+        "cross-sectional area",
+        "unstretched length"
+      ]
+    },
+    {
+      "text": "A uniform cube is subjected to volume compression. If each side is decreased by 1.5%, then the bulk strain is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.045",
+          "isCorrect": true,
+          "explanation": "0.045 Correct — This value is calculated by applying the relationship between bulk strain and linear strain. With a 1.5% decrease in each dimension (0.015), the bulk strain becomes 3 × 0.015 = 0.045."
+        },
+        {
+          "letter": "B",
+          "text": "0.03",
+          "isCorrect": false,
+          "explanation": "0.03 Incorrect — This value suggests a misunderstanding of the relationship between linear and bulk strain, as it incorrectly applies a factor of one instead of the necessary factor of three."
+        },
+        {
+          "letter": "C",
+          "text": "0.45",
+          "isCorrect": false,
+          "explanation": "0.45 Incorrect — This option is ten times the correct answer, likely due to an error in decimal placement when calculating the bulk strain."
+        },
+        {
+          "letter": "D",
+          "text": "4.5",
+          "isCorrect": false,
+          "explanation": "4.5 Incorrect — This value is 100 times larger than the correct answer, indicating a significant misunderstanding of percentage reduction and how to compute bulk strain."
+        }
+      ],
+      "explanation": "For small changes, the bulk strain (ΔV/V) is approximatelythree times the linear strain (ΔL/L). Since each sidedecreases by 1.5% (or 0.015), the total bulk strain isapproximately 3 × 0.015 = 0.045.",
+      "explanationImage": null,
+      "hints": [
+        "volume compression",
+        "decreased by 1.5%"
+      ]
+    },
+    {
+      "text": "A vessel contains oil (density = 0.8 g/cm³) over mercury (density = 13.6 g/cm³). A homogeneous sphere floats with half of its volume immersed in mercury and the other half in oil. The density of the material of the sphere (in g/cm³) is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.3",
+          "isCorrect": false,
+          "explanation": "This option suggests a density that is too low for the sphere, as it does not account for the significant density difference between mercury and oil."
+        },
+        {
+          "letter": "B",
+          "text": "6.4",
+          "isCorrect": false,
+          "explanation": "This density is also insufficient for the sphere, given that it must balance the buoyant forces from both liquids."
+        },
+        {
+          "letter": "C",
+          "text": "7.2",
+          "isCorrect": true,
+          "explanation": "This is the correct density. It matches the buoyant forces acting on the sphere from both the oil and mercury, providing stability in equilibrium."
+        },
+        {
+          "letter": "D",
+          "text": "12.8",
+          "isCorrect": false,
+          "explanation": "This option indicates a density that is far too low for the sphere to float in both liquids, given the densities of oil and mercury."
+        }
+      ],
+      "explanation": "The density of the sphere is the average of the two fluiddensities, since it is half-immersed in eachρ=0.8+13.6/2 = 7.2 g/cm³.",
+      "explanationImage": null,
+      "hints": [
+        "homogeneous sphere",
+        "half of its volume immersed",
+        "density"
+      ]
+    },
+    {
+      "text": "What is the Young’s modulus of elasticity for a perfectly rigid body?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Infinity",
+          "isCorrect": true,
+          "explanation": "An infinite Young's modulus indicates that the material does not deform at all under any applied stress, meaning it behaves as a perfectly rigid body."
+        },
+        {
+          "letter": "B",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "Incorrect . A Young's modulus of zero would imply that the material deforms infinitely under any applied stress, characteristic of a fluid, rather than a solid body."
+        },
+        {
+          "letter": "C",
+          "text": "Unity",
+          "isCorrect": false,
+          "explanation": "A Young's modulus of 1 has no physical significance in the context of rigidity and does not describe the behavior of solid materials."
+        },
+        {
+          "letter": "D",
+          "text": "-1",
+          "isCorrect": false,
+          "explanation": "A negative Young's modulus would mean that the material expands when compressed, which contradicts the fundamental behavior of solid materials."
+        }
+      ],
+      "explanation": "Young's modulus measures resistance to deformation (Strain) under Stress. A perfectly rigid body does not deform under any force, meaning its strain is zero. This results in an infinite Young's modulus.",
+      "explanationImage": null,
+      "hints": [
+        "Young’s modulus",
+        "perfectly rigid body"
+      ]
+    },
+    {
+      "text": "How many types of solids are there:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This is incorrect as it ignores diversity of solid."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "There are two types of solids amorphous and crystalline."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "This is incorrect as there is no third type of solid."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "This is incorrect as it exaggerate the types of solids."
+        }
+      ],
+      "explanation": "Solids are classified into two main contrasting categories:Crystalline(regular, repeating, three dimensional structure)and Amorphous(random, non repeating arrangement; oftencalled pseudo solids or supercooled liquids).",
+      "explanationImage": null,
+      "hints": [
+        "types of solids"
+      ]
+    },
+    {
+      "text": "Which of the following is FCC:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zn",
+          "isCorrect": false,
+          "explanation": "Zn has HCP."
+        },
+        {
+          "letter": "B",
+          "text": "Cd",
+          "isCorrect": false,
+          "explanation": "This is incorrect because cadmium also has hexagonal close packing."
+        },
+        {
+          "letter": "C",
+          "text": "Mg",
+          "isCorrect": false,
+          "explanation": "Magnesium is one of the common examples of HCP."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": true,
+          "explanation": "This is correct answer as all the provided options has HCP."
+        }
+      ],
+      "explanation": "Zn, Cd and Mg all crystallize in Hexagonal ClosedPacking(HCP) structurehence none of these represent Face Centered Cubic (FCC).",
+      "explanationImage": null,
+      "hints": [
+        "FCC"
+      ]
+    },
+    {
+      "text": "The maximum load a wire can withstand without breaking,when its length is reduced to half its original length will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Doubles",
+          "isCorrect": false,
+          "explanation": "The load doesn’t increase just because you make the wire shorter the strength is independent of length."
+        },
+        {
+          "letter": "B",
+          "text": "Halved",
+          "isCorrect": false,
+          "explanation": "The maximum load a wire can withstand is determined by the material’s ultimate tensile strength and the wire’s cross‑sectional area,notby its length."
+        },
+        {
+          "letter": "C",
+          "text": "Four times",
+          "isCorrect": false,
+          "explanation": "Making the wire shorter doesn’t magically make it stronger; the load capacity remains unchanged."
+        },
+        {
+          "letter": "D",
+          "text": "Remains the same",
+          "isCorrect": true,
+          "explanation": "The maximum load a wire can bear without breaking is determined by the material’s ultimate tensile strength and the wire’s cross‑sectional area,not the wire length."
+        }
+      ],
+      "explanation": "By halving the length of the wire, its cross-sectional areaeffectively doubles keeping the volume constant. Theincrease in cross-sectional area allows it to withstandgreater load hence the maximum load it can withstanddoubles.",
+      "explanationImage": null,
+      "hints": [
+        "maximum load",
+        "reduced to half"
+      ]
+    },
+    {
+      "text": "Paramagnetic material of the following is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "H₂O",
+          "isCorrect": true,
+          "explanation": "Water is a polar molecule, but it is not a paramagnetic material. It exhibits diamagnetic properties due to the presence of paired electrons."
+        },
+        {
+          "letter": "B",
+          "text": "NaCl",
+          "isCorrect": false,
+          "explanation": "Sodium chloride is an ionic compound that does not exhibit any magnetic properties, making it a diamagnetic material."
+        },
+        {
+          "letter": "C",
+          "text": "Cu",
+          "isCorrect": false,
+          "explanation": "Copper is a transition metal with a filled d-orbital, which makes it diamagnetic rather than paramagnetic."
+        },
+        {
+          "letter": "D",
+          "text": "Bi",
+          "isCorrect": false,
+          "explanation": "Bismuth is a diamagnetic material. Though it has some interesting magnetic properties, it does not qualify as paramagnetic."
+        }
+      ],
+      "explanation": "Paramagnetic materials have unpaired electrons, causingweak attraction to an external magnetic field. Water (H₂O) isweakly paramagnetiC. Copper (Cu) and Bismuth (Bi) arediamagnetic; NaCl is ionic and diamagnetic.",
+      "explanationImage": null,
+      "hints": [
+        "paramagnetic",
+        "material"
+      ]
+    },
+    {
+      "text": "Materials having permeability larger than one are:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diamagnetic",
+          "isCorrect": false,
+          "explanation": "Diamagnetic materials have a relative permeability slightly less than 1 (μₓ < 1). They do not exhibit magnetic attraction; instead, they weakly repel magnetic fields. Therefore, they do not meet the criterion of having permeability greater than one."
+        },
+        {
+          "letter": "B",
+          "text": "Paramagnetic",
+          "isCorrect": false,
+          "explanation": "Paramagnetic materials possess a relative permeability that is slightly greater than 1 (μₓ > 1). This indicates a weak attraction to magnetic fields, but the increase is often minimal and does not satisfy the condition of being significantly greater than one."
+        },
+        {
+          "letter": "C",
+          "text": "Ferromagnetic",
+          "isCorrect": true,
+          "explanation": "Ferromagnetic materials exhibit a very high relative permeability (μₓ >> 1), often reaching hundreds or thousands. This substantial increase in permeability is due to their strong magnetic properties, allowing them to retain magnetization and aligning perfectly with the requirement of permeability largely greater than one."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because ferromagnetic materials do indeed satisfy the condition of having a permeability largely greater than one."
+        }
+      ],
+      "explanation": "Ferromagnetic materials, like iron and nickel, have amagnetic permeability much greater than 1. This propertyallows them to be strongly magnetized and exhibit a strongattraction to magnetic fields.",
+      "explanationImage": null,
+      "hints": [
+        "permeability",
+        "larger than one"
+      ]
+    },
+    {
+      "text": "Materials with permeability less than 1 are:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diamagnetic",
+          "isCorrect": true,
+          "explanation": "Diamagnetic materials have negative permeability, meaning they repel magnetic fields and are characterized by having a permeability less than 1."
+        },
+        {
+          "letter": "B",
+          "text": "Ferromagnetic",
+          "isCorrect": false,
+          "explanation": "Ferromagnetic materials have high permeability, typically greater than 1, due to their ability to be magnetized strongly in the presence of a magnetic field."
+        },
+        {
+          "letter": "C",
+          "text": "Paramagnetic",
+          "isCorrect": false,
+          "explanation": "Paramagnetic materials have a small positive permeability and can be weakly magnetized in a magnetic field, which means their permeability is slightly greater than 1."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because not all the listed materials have a permeability less than 1; only diamagnetic materials do."
+        }
+      ],
+      "explanation": "Diamagnetic materials have a magnetic permeability slightlyless than 1. This causes them to create a weak magnetic fieldin opposition to an external field, resulting in weak repulsion.",
+      "explanationImage": null,
+      "hints": [
+        "permeability",
+        "less than 1"
+      ]
+    },
+    {
+      "text": "The substance which is repelled or opposed by applied magnetic field is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diamagnetic",
+          "isCorrect": true,
+          "explanation": "Diamagnetic substances have a negative magnetic susceptibility, meaning they generate an induced magnetic field that opposes the applied external field. As a result, they are repelled by the magnetic field."
+        },
+        {
+          "letter": "B",
+          "text": "Paramagnetic",
+          "isCorrect": false,
+          "explanation": "Paramagnetic substances are weakly attracted to magnetic field."
+        },
+        {
+          "letter": "C",
+          "text": "Ferromagnetic",
+          "isCorrect": false,
+          "explanation": "It is incorrect as ferromagnetic materials are not repelled by magnetic field they are strongly attracted by magnetic field."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because only diamagnetic substances are repelled by magnetic field."
+        }
+      ],
+      "explanation": "Diamagnetic materials create an induced magnetic fieldopposite to the applied field, so they are weakly repelled andmove from stronger to weaker regions of the field.",
+      "explanationImage": null,
+      "hints": [
+        "repelled",
+        "opposed"
+      ]
+    },
+    {
+      "text": "The energy band gap in conductor is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Less than 3eV",
+          "isCorrect": false,
+          "explanation": "This option suggests a band gap characteristic of semiconductors or insulators, which is not applicable to conductors."
+        },
+        {
+          "letter": "B",
+          "text": "Greater than 3eV",
+          "isCorrect": false,
+          "explanation": "A large band gap usually indicates an insulating material, which again does not describe conductors."
+        },
+        {
+          "letter": "C",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "This is correct as conductors have overlapping energy bands, resulting in no band gap, allowing free movement of electrons."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "This option is ambiguous and does not provide a clear value for the energy band gap in conductors."
+        }
+      ],
+      "explanation": "In conductors,valence band and the conduction band overlap.This means there is no energy gap(the gap is zero),allowing electrons to move freely and conduct electricity with minimal applied energy.",
+      "explanationImage": null,
+      "hints": [
+        "energy band gap",
+        "conductor"
+      ]
+    },
+    {
+      "text": "The energy band gap in insulator is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as insulators have a significant energy band gap that prevents electron flow, resulting in no conductivity."
+        },
+        {
+          "letter": "B",
+          "text": "Very high",
+          "isCorrect": true,
+          "explanation": "This option is correct. Insulators typically have a very high energy band gap, often greater than 4 eV, which restricts electron movement and thus their ability to conduct electricity."
+        },
+        {
+          "letter": "C",
+          "text": "Narrow",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because a narrow energy band gap would indicate that electrons can easily move to the conduction band, which is characteristic of conductors or semiconductors, not insulators."
+        },
+        {
+          "letter": "D",
+          "text": "Infinite",
+          "isCorrect": false,
+          "explanation": "This option is misleading. While insulators have a high energy band gap, describing it as 'infinite' is not accurate and does not reflect the physical properties of materials classified as insulators."
+        }
+      ],
+      "explanation": "Insulators are characterized by a very large or high energy band gap(typically >3eV).This large gap makes it extremely difficult for electrons in the valence band to gain enough energy to jump to conduction band.",
+      "explanationImage": null,
+      "hints": [
+        "energy band gap",
+        "insulator"
+      ]
+    },
+    {
+      "text": "The energy band gap in semiconductor is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "A zero energy band gap would imply that the material behaves like a conductor, allowing free flow of electrons. This is not characteristic of semiconductors."
+        },
+        {
+          "letter": "B",
+          "text": "Very high",
+          "isCorrect": false,
+          "explanation": "A very high energy band gap is typical of insulators, where electrons cannot easily move to the conduction band, making it unsuitable for semiconductors."
+        },
+        {
+          "letter": "C",
+          "text": "Narrow",
+          "isCorrect": true,
+          "explanation": "Semiconductors are characterized by a narrow energy band gap, which allows for controlled conductivity and the ability to be doped to enhance electrical properties."
+        },
+        {
+          "letter": "D",
+          "text": "Infinite",
+          "isCorrect": false,
+          "explanation": "An infinite energy band gap suggests an ideal insulator where no electron can move to the conduction band. This does not apply to semiconductors."
+        }
+      ],
+      "explanation": "Semiconductors have a narrow but non-zero energy band gap(typically between 0.2 eV and 3 eV).This allows them to act as insulators at absolute zero but conduct electricity when thermal or electrical energy is applied.",
+      "explanationImage": null,
+      "hints": [
+        "energy band gap",
+        "semiconductor"
+      ]
+    },
+    {
+      "text": "Domain formation is the necessary feature of:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ferromagnetism",
+          "isCorrect": true,
+          "explanation": "Ferromagnetism is characterized by the presence of magnetic domains that can align in the same direction, resulting in a strong net magnetic moment. This alignment is what allows ferromagnetic materials to exhibit permanent magnetism."
+        },
+        {
+          "letter": "B",
+          "text": "Paramagnetism",
+          "isCorrect": false,
+          "explanation": "Paramagnetism occurs in materials that have unpaired electrons, which can align with an external magnetic field, but they do not form stable magnetic domains. Therefore, paramagnetic materials do not exhibit domain formation."
+        },
+        {
+          "letter": "C",
+          "text": "Diamagnetism",
+          "isCorrect": false,
+          "explanation": "Diamagnetism is a very weak form of magnetism that occurs in all materials and is characterized by the absence of unpaired electrons. Diamagnetic materials do not form magnetic domains, as they are repelled by magnetic fields."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because only ferromagnetism is characterized by domain formation. Paramagnetism and diamagnetism do not involve the formation of magnetic domains."
+        }
+      ],
+      "explanation": "Ferromagnetism is characterized by the presence ofmagnetic domains, which are microscopic regions where themagnetic moments of atoms are aligned. The alignment ofthese domains in an external field is what causes the strong magnetic properties of these materials.",
+      "explanationImage": null,
+      "hints": [
+        "Domain formation",
+        "necessary feature"
+      ]
+    },
+    {
+      "text": "Longitudinal strain is possible in:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Gases",
+          "isCorrect": false,
+          "explanation": "Gases can expand and compress, but they do not exhibit longitudinal strain in the same way solids do, as they do not maintain a fixed shape."
+        },
+        {
+          "letter": "B",
+          "text": "Liquids",
+          "isCorrect": false,
+          "explanation": "Liquids can flow and change shape, but they do not develop longitudinal strain under tension like solids, as they cannot sustain shear stress."
+        },
+        {
+          "letter": "C",
+          "text": "Solids",
+          "isCorrect": true,
+          "explanation": "Solids can experience longitudinal strain when subjected to tensile forces, allowing them to elongate while maintaining their shape."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because not all states of matter (gases and liquids) can exhibit longitudinal strain like solids do."
+        }
+      ],
+      "explanation": "Longitudinal strain (change in length per unit length)requires a material to have a definite shape to resist tensileor compressive forces. Only solids possess this property,while liquids and gases will flow.",
+      "explanationImage": null,
+      "hints": [
+        "Longitudinal",
+        "strain",
+        "possible"
+      ]
+    },
+    {
+      "text": "Shear modulus is zero for:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Solids",
+          "isCorrect": false,
+          "explanation": "Solids have a definite shape and can resist shear stress, which means their shear modulus is not zero."
+        },
+        {
+          "letter": "B",
+          "text": "Liquids",
+          "isCorrect": false,
+          "explanation": "Liquids cannot maintain a fixed shape under shear stress, but they do exhibit some resistance to shear, thus not having a shear modulus of zero."
+        },
+        {
+          "letter": "C",
+          "text": "Gases",
+          "isCorrect": false,
+          "explanation": "Gases can flow and do not have a fixed shape, but they also do not have a defined shear modulus like solids do, making them similar to liquids."
+        },
+        {
+          "letter": "D",
+          "text": "Liquids and gases",
+          "isCorrect": true,
+          "explanation": "Both liquids and gases cannot resist shear stress, leading to a shear modulus of zero, making this the correct answer."
+        }
+      ],
+      "explanation": "The shear modulus measures resistance to a change inshape without a change in volume. Since both liquids andgases lack a definite shape and flow when a shear force isapplied, they cannot resist shear stress, giving them a shearmodulus of zero.",
+      "explanationImage": null,
+      "hints": [
+        "Shear modulus",
+        "zero"
+      ]
+    },
+    {
+      "text": "Curie temperature of iron is the temperature below which it is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Diamagnetic",
+          "isCorrect": false,
+          "explanation": "Diamagnetic materials are characterized by having no unpaired electrons, leading to a repulsion in magnetic fields. Iron, above its Curie temperature, behaves this way, but below that temperature, it does not."
+        },
+        {
+          "letter": "B",
+          "text": "Ferromagnetic",
+          "isCorrect": true,
+          "explanation": "Ferromagnetic materials, like iron, exhibit strong magnetic properties due to unpaired electrons aligning in the same direction. Below the Curie temperature, iron retains this alignment, allowing it to become ferromagnetic."
+        },
+        {
+          "letter": "C",
+          "text": "Low retentivity",
+          "isCorrect": false,
+          "explanation": "Low retentivity refers to a material's inability to retain magnetization. However, below the Curie temperature, iron has high retentivity, contradicting this option."
+        },
+        {
+          "letter": "D",
+          "text": "Both (a) and (c)",
+          "isCorrect": false,
+          "explanation": "This option suggests that iron is both diamagnetic and has low retentivity below the Curie temperature, which is incorrect since iron exhibits ferromagnetic properties instead."
+        }
+      ],
+      "explanation": "The Curie temperature is a critical point for magneticmaterials. Below this temperature, a material like ironexhibits strong ferromagnetic properties; above it, thermalagitation overcomes the magnetic alignment, and itbecomes paramagnetic.",
+      "explanationImage": null,
+      "hints": [
+        "Curie temperature",
+        "iron"
+      ]
+    },
+    {
+      "text": "A diamagnetic material in a magnetic material moves:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "From stronger to the weaker parts of the field",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because diamagnetic materials are repelled by magnetic fields, meaning they tend to move away from stronger magnetic areas."
+        },
+        {
+          "letter": "B",
+          "text": "From weaker to the stronger parts of the field",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as diamagnetic materials are not attracted to stronger fields; instead, they are repelled, moving away from such areas."
+        },
+        {
+          "letter": "C",
+          "text": "Perpendicular to the field",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect. While diamagnetic materials exhibit a response to the magnetic field, they do not move in a perpendicular direction to the field lines."
+        },
+        {
+          "letter": "D",
+          "text": "In none of the above directions",
+          "isCorrect": true,
+          "explanation": "This is the correct answer, as diamagnetic materials are repelled by magnetic fields and do not move towards stronger or weaker parts of the magnetic field."
+        }
+      ],
+      "explanation": "Diamagnetic materials are weakly repelled by magneticfields. As a result, when placed in a non-uniform magneticfield, they will experience a net force pushing them from theregion of higher field strength to the region of lower fieldstrength.",
+      "explanationImage": null,
+      "hints": [
+        "diamagnetic material",
+        "moves"
+      ]
+    },
+    {
+      "text": "For the formation of permanent magnets, the material should have",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "High coercivity",
+          "isCorrect": true,
+          "explanation": "This option is correct because materials with high coercivity can resist demagnetization and maintain their magnetic properties over time, which is essential for permanent magnets."
+        },
+        {
+          "letter": "B",
+          "text": "Low coercivity",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because materials with low coercivity can easily lose their magnetization when exposed to external magnetic fields or heat, making them unsuitable for permanent magnets."
+        },
+        {
+          "letter": "C",
+          "text": "Low retentivity",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because low retentivity means that the material cannot hold its magnetization effectively. Permanent magnets require high retentivity to retain their magnetic properties."
+        },
+        {
+          "letter": "D",
+          "text": "Both (a) and (c)",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because while high coercivity is essential for permanent magnets, low retentivity contradicts the requirement for a material to effectively retain magnetization."
+        }
+      ],
+      "explanation": "A permanent magnet must be able to resist demagnetizationfrom external fields. This property is called coercivity, and ahigh coercivity is essential for a magnet to maintain itsmagnetism over time.",
+      "explanationImage": null,
+      "hints": [
+        "permanent magnets"
+      ]
+    },
+    {
+      "text": "Core of the transformer is made up of",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Soft iron",
+          "isCorrect": true,
+          "explanation": "Soft iron is the preferred material for transformer cores due to its excellent magnetic permeability, which allows it to easily support magnetic fields, and its low hysteresis loss, which enhances efficiency during operation."
+        },
+        {
+          "letter": "B",
+          "text": "Steel",
+          "isCorrect": false,
+          "explanation": "Steel, while strong and durable, has a higher hysteresis loss compared to soft iron. This results in less efficiency in transformers, making it a less desirable choice for core material."
+        },
+        {
+          "letter": "C",
+          "text": "Iron",
+          "isCorrect": false,
+          "explanation": "General iron can be used, but it does not possess the optimized magnetic properties required for transformer applications as effectively as soft iron, leading to potential inefficiencies."
+        },
+        {
+          "letter": "D",
+          "text": "Alnico",
+          "isCorrect": false,
+          "explanation": "Alnico is an alloy used primarily in permanent magnets and is not suitable for transformer cores because of its high coercivity and relatively low magnetic permeability, which are not ideal for efficient magnetic field generation."
+        }
+      ],
+      "explanation": "Transformer cores require a material that can be easilymagnetized and demagnetized with low energy loss. Softiron is used because it has high magnetic permeability andlow coercivity, minimizing hysteresis losses during the ACcycle.",
+      "explanationImage": null,
+      "hints": [
+        "core",
+        "transformer"
+      ]
+    },
+    {
+      "text": "A permanent magnet has the properties of retentivity and coercivity, which in magnitude are respectively",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "High–high",
+          "isCorrect": true,
+          "explanation": "This option correctly identifies that permanent magnets exhibit both high retentivity and high coercivity, allowing them to maintain their magnetic properties over time."
+        },
+        {
+          "letter": "B",
+          "text": "Low–low",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it suggests that permanent magnets have low retentivity and low coercivity, which contradicts their definition and properties."
+        },
+        {
+          "letter": "C",
+          "text": "Low–high",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it implies that permanent magnets have low retentivity but high coercivity, which does not accurately represent their characteristics."
+        },
+        {
+          "letter": "D",
+          "text": "High–low",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it indicates that permanent magnets have high retentivity but low coercivity, which is not true; permanent magnets need both high values to be effective."
+        }
+      ],
+      "explanation": "To be a strong and lasting magnet, a material must havehigh retentivity (to retain a strong magnetic field) and highcoercivity (to resist being demagnetized by external fields ortemperature changes).",
+      "explanationImage": null,
+      "hints": [
+        "retentivity",
+        "coercivity"
+      ]
+    },
+    {
+      "text": "Electromagnets are made up of soft iron because soft iron has:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Low retentivity and high coercive force",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because low retentivity means that the material does not hold onto its magnetism well, and high coercive force indicates that a strong opposing magnetic field is required to demagnetize it, which is not desirable for electromagnets."
+        },
+        {
+          "letter": "B",
+          "text": "High retentivity and high coercive force",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as high retentivity means the material retains its magnetism for a long time, which is not useful for electromagnets that need to be easily turned on and off. High coercive force would also make demagnetization difficult."
+        },
+        {
+          "letter": "C",
+          "text": "Low retentivity and low coercive force",
+          "isCorrect": true,
+          "explanation": "This is the correct option because soft iron's low retentivity allows it to lose its magnetism quickly when the electric current is turned off, and its low coercive force means it can be easily magnetized and demagnetized, making it ideal for use in electromagnets."
+        },
+        {
+          "letter": "D",
+          "text": "High retentivity and low coercive force",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because while low coercive force is desirable, high retentivity would mean that the material retains its magnetism, which is not suitable for the transient nature of electromagnets."
+        }
+      ],
+      "explanation": "Electromagnets need to be switched on and off easily. Softiron is ideal because it has low retentivity (it doesn't staymagnetized) and low coercivity (it's easy to magnetize anddemagnetize), allowing for rapid control of the magnetic field.",
+      "explanationImage": null,
+      "hints": [
+        "soft iron",
+        "electromagnets"
+      ]
+    },
+    {
+      "text": "If S is strain and Y is Young’s modulus of elasticity of wirematerial, then energy stored in the wire per unit volume is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "s²/2y",
+          "isCorrect": true,
+          "explanation": "Energy stored depends on strain squared and is inversely related to Young's modulus."
+        },
+        {
+          "letter": "B",
+          "text": "2y/s²",
+          "isCorrect": false,
+          "explanation": "It is incorrect because the energy stored is proportional to strain squared, not inversely proportional to strain squared."
+        },
+        {
+          "letter": "C",
+          "text": "s/2y",
+          "isCorrect": false,
+          "explanation": "The energy stored per unit volume is proportional to the squareof the strain, not just the strain itself."
+        },
+        {
+          "letter": "D",
+          "text": "2s²y",
+          "isCorrect": false,
+          "explanation": "It is incorrect because it has wrong placement of Y."
+        }
+      ],
+      "explanation": "The energy stored per unit volume in a wire under elasticdeformation is given by the formula U = (1/2) ×Y ×S2, whereU is the energy per unit volume, Y is Young's modulus, and Sis the strain. Rearranging this formula gives U = S2 / (2Y).The correct answer is thus s² / 2y.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Breaking strength of a wire is 105 N if its diameter is halved,what is the strength?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4×105",
+          "isCorrect": false,
+          "explanation": "It is incorrect as it suggest that breaking strength remain same if diameter is halved."
+        },
+        {
+          "letter": "B",
+          "text": "2×105",
+          "isCorrect": false,
+          "explanation": "Incorrect because it implies the strength is reduced by a factor of 2, not 4."
+        },
+        {
+          "letter": "C",
+          "text": "1×105",
+          "isCorrect": true,
+          "explanation": "Halving the diameter reduces the area to 1/4, so the strength becomes 1/4 × 4 × 105= 1 × 105"
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "Incorrect because the breaking strength depends on the area, and area depends on the square of the diameter. So when diameter is halved, strength becomes 1/4."
+        }
+      ],
+      "explanation": "The breaking strength of a wire is directly proportional to itscross-sectional area. When the diameter of the wire ishalved, the cross-sectional area is reduced by a factor offour (since the area is proportional to the square of thediameter). Therefore, the breaking strength also reduces bya factor of four, resulting in a new breaking strength of 1×105N.",
+      "explanationImage": null,
+      "hints": [
+        "diameter is halved"
+      ]
+    },
+    {
+      "text": "Two elastic rods are joined between fixed supports as shown in the figure. The condition for no change in the lengths of individual rods with the increase of temperature is: (α₁α₂ = linear expansion coefficient, A₁ A₂ = area of rods, Y₁Y₂ = Young’s modulus)",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": "Incorrect. This option does not satisfy the condition necessary for the rods to remain unchanged in length when subjected to temperature changes."
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": "Incorrect. This option fails to account for the relationship between the coefficients of linear expansion and the elastic moduli, which are crucial for determining the condition of no length change."
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": "Incorrect. Although it involves relevant parameters, it does not correctly express the balance required between the rods to prevent length change during thermal expansion."
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": true,
+          "explanation": "Correct. This option correctly establishes the necessary relationship between the coefficients of linear expansion, the areas of the rods, and their Young’s moduli to ensure that there is no change in length due to thermal effects."
+        }
+      ],
+      "explanation": "The correct condition for no change in the lengths of theindividual rods when the temperature increases is given bythe equation A1Y1α1 = A2Y2α2. This equation ensures thatthe forces due to thermal expansion in both rods arebalanced. If this condition is met, the rods will notexperience any net change in length, as the expansion ofone rod will be perfectly countered by the expansion of theother.Other options fail to correctly balance these forces becausethey either swap the Young's modulus values, ignore thecross-sectional area, or omit the Young's modulusaltogether, leading to an incorrect assessment of the forces involved.",
+      "explanationImage": null,
+      "hints": [
+        "α₁α₂",
+        "A₁ A₂",
+        "Y₁Y₂"
+      ]
+    },
+    {
+      "text": "The adjacent graph shows the extension (Δl) of a wire of length 1 m suspended from the top of a roof at one end and with a load W connected to the other end. If the cross-sectional area of the wire is 10⁻⁶ m², calculate the Young’s modulus of the material of the wire:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A. 2 x 1011 Pa",
+          "isCorrect": true,
+          "explanation": "This option calculates Young's modulus correctly based on the provided values."
+        },
+        {
+          "letter": "B",
+          "text": "B. 1 x 1011 Pa",
+          "isCorrect": false,
+          "explanation": "This value is too low based on the calculations of stress and strain for the given wire."
+        },
+        {
+          "letter": "C",
+          "text": "C. 3 x 1011 Pa",
+          "isCorrect": false,
+          "explanation": "This option overestimates the Young's modulus based on incorrect assumptions about the load or dimensions."
+        },
+        {
+          "letter": "D",
+          "text": "D. 5 x 1010 Pa",
+          "isCorrect": false,
+          "explanation": "This option is also too low and does not reflect the proper calculation based on the formula for Young's modulus."
+        }
+      ],
+      "explanation": "To calculate Young's modulus (Y), use the formula Y =Stress/Strain. Here, Stress = Force (F) / Area (A) and Strain =Extension (Δl) / Original Length (λ). From the graph, you getthe values needed for these parameters:Stress = F/A = W / 10-6 m² and Strain = Δl / λ.Insert these into the Young's modulus formula:Y = (W / 10-6 )/ (Δl / λ) = (W × λ) / (Δl ×10-6).Using the data, calculate to get Y = 2 × 1011λ N/m2 Option A is correct because it accurately applies the formulaand concepts. Options B, C, and D are incorrect due tomiscalculations or misinterpretations of the data or formula.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Two wires of equal length and cross-section are suspended as shown. Their Young’s moduli are Y₁ and Y₂ respectively. The equivalent Young’s modulus would be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Physics of Solids",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Y₁ + Y₂",
+          "isCorrect": false,
+          "explanation": "This option suggests that the equivalent Young’s modulus is the sum of the two moduli. This is incorrect because Young's moduli do not simply add up; they depend on the arrangement of the materials."
+        },
+        {
+          "letter": "B",
+          "text": "Y₁ + Y₂ / 2",
+          "isCorrect": false,
+          "explanation": "This option presents a misleading average of the two Young’s moduli. This is not the correct formula for equivalent Young’s modulus in the given configuration."
+        },
+        {
+          "letter": "C",
+          "text": "Y₁Y₂ / (Y₁ + Y₂)",
+          "isCorrect": true,
+          "explanation": "This option correctly represents the formula for the equivalent Young’s modulus of two materials arranged in parallel. However, the arrangement of the wires must be verified to apply this formula."
+        },
+        {
+          "letter": "D",
+          "text": "under root Y₁Y₂",
+          "isCorrect": false,
+          "explanation": "This option suggests taking the geometric mean of the two Young’s moduli. This is not applicable in this scenario as it does not reflect their arrangement correctly."
+        }
+      ],
+      "explanation": "The correct answer is Option B: 2(Y1Y2)/(Y1 + Y2). In ascenario where two wires are of equal length and cross-section, the effective or equivalent Young's modulus whenthey are arranged in series is calculated using the formulafor the harmonic mean of the two moduli. This accounts forthe distribution of stress and strain across both wires.Option A is incorrect because it implies a linear addition ofmoduli, which is applicable in parallel arrangements, notseries. Option C is incorrect because it reflects a division ofstress in a different context. Option D suggests averagingthe moduli, which does not apply here.",
+      "explanationImage": null,
+      "hints": [
+        "Young’s moduli",
+        "equal length",
+        "cross-section"
+      ]
+    }
+  ]
+}

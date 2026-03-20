@@ -1,0 +1,1987 @@
+{
+  "questions": [
+    {
+      "text": "A person walks 30m east and then 40m north. What is the difference between the travelled distance and the displacement?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0m",
+          "isCorrect": false,
+          "explanation": "Option A is incorrect. The displacement is not zero because the person did change their position."
+        },
+        {
+          "letter": "B",
+          "text": "20m",
+          "isCorrect": true,
+          "explanation": "Option B is correct. The total distance traveled is 70m, and the displacement is 50m, resulting in a difference of 20m."
+        },
+        {
+          "letter": "C",
+          "text": "50m",
+          "isCorrect": false,
+          "explanation": "Option C is incorrect. 50m is the displacement, not the difference between the traveled distance and displacement."
+        },
+        {
+          "letter": "D",
+          "text": "70m",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect. 70m is the total distance traveled, not the difference between distance and displacement."
+        }
+      ],
+      "explanation": "The correct answer is Option B: 20m. The person travels a total distance of 30m east and 40m north, which sums up to 70m. The displacement, being the straight-line distance between the starting and ending points, forms a right triangle with the legs of 30m and 40m. Using the Pythagorean theorem, the displacement is calculated as √(30² + 40²) = 50m. Therefore, the difference between the traveled distance and the displacement is 70m - 50m = 20m. Option A is incorrect because the displacement is not zero. Option C is incorrect because 50m is the displacement, not the difference. Option D is incorrect because 70m is the total distance traveled.",
+      "explanationImage": null,
+      "hints": [
+        "walks 30m east",
+        "40m north"
+      ]
+    },
+    {
+      "text": "A car is traveling at 40km/hr and the driver puts on the brakes bringing the car to rest in a time of 6s. What is the magnitude of the average acceleration of the car?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "240 km/hr²",
+          "isCorrect": false,
+          "explanation": "Option A is incorrect. This calculation does not correctly account for the conversion of velocity units or the change in velocity."
+        },
+        {
+          "letter": "B",
+          "text": "12,000 km/hr²",
+          "isCorrect": false,
+          "explanation": "Option B is incorrect. This value is derived from an incorrect calculation or conversion error."
+        },
+        {
+          "letter": "C",
+          "text": "24,000 km/hr²",
+          "isCorrect": true,
+          "explanation": "Option C is correct. The car's velocity change is from 40 km/hr to 0 km/hr over 6 seconds, giving this acceleration when calculated correctly."
+        },
+        {
+          "letter": "D",
+          "text": "30,000 km/hr²",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect. This is an overestimation of the acceleration due to incorrect calculation."
+        }
+      ],
+      "explanation": "The correct answer is Option C: 24,000 km/hr². To find the average acceleration, use the formula a = (v_f - v_i) / t, where v_f is the final velocity (0 km/hr), v_i is the initial velocity (40 km/hr), and t is the time (6 seconds). Converting the units to km/hr² by multiplying by 3600 to account for time in seconds results in an acceleration of 24,000 km/hr². Options A, B, and D result from miscalculations or incorrect unit conversions.",
+      "explanationImage": null,
+      "hints": [
+        "40km/hr",
+        "brakes",
+        "6s"
+      ]
+    },
+    {
+      "text": "A student must lift a mass of 4kg at a distance of 0.5 m. The ambient temperature is 298K and the student must lift the mass in 30s. Which of the following values is not necessary to calculate power?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mass",
+          "isCorrect": false,
+          "explanation": "Option A is incorrect. Mass is necessary to calculate the work done, which is part of the power calculation."
+        },
+        {
+          "letter": "B",
+          "text": "Distance",
+          "isCorrect": false,
+          "explanation": "Option B is incorrect. Distance is required to determine the work done, which is crucial for calculating power."
+        },
+        {
+          "letter": "C",
+          "text": "Temperature",
+          "isCorrect": true,
+          "explanation": "Option C is correct. Temperature is not involved in the calculation of power, which depends on work done and time."
+        },
+        {
+          "letter": "D",
+          "text": "Time",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect. Time is essential for calculating power, which is defined as work done per unit time."
+        }
+      ],
+      "explanation": "Option C is correct. To calculate power, you need to know the work done and the time over which that work is done. Work is calculated using mass and distance (Work = Force x Distance, where Force = Mass x Gravity). Time is required to determine power (Power = Work/Time). Temperature does not play a role in this calculation, making it unnecessary for determining power. Hence, the correct answer is temperature.",
+      "explanationImage": null,
+      "hints": [
+        "mass",
+        "distance",
+        "temperature",
+        "30s"
+      ]
+    },
+    {
+      "text": "During uniform circular motion ,which of the following relationships is necessarily true?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "No work is done",
+          "isCorrect": true,
+          "explanation": "Option A is correct"
+        },
+        {
+          "letter": "B",
+          "text": "The centripetal force does work",
+          "isCorrect": false,
+          "explanation": "Incorrect. The centripetal force acts perpendicular to the motion, so it does not do any work on the object."
+        },
+        {
+          "letter": "C",
+          "text": "The velocity does work",
+          "isCorrect": false,
+          "explanation": "Incorrect. Work is done by forces, not by velocity, which is a vector quantity representing speed and direction."
+        },
+        {
+          "letter": "D",
+          "text": "Potential energy depends on position of the object around the circle",
+          "isCorrect": false,
+          "explanation": "Incorrect. In uniform circular motion, potential energy changes are not related to the work done by the centripetal force."
+        }
+      ],
+      "explanation": "In uniform circular motion, the object moves in a circle at a constant speed. The centripetal force, which is required to keep the object moving in a circular path, acts towards the center of the circle and is perpendicular to the object's velocity. Since work is defined as the force along the direction of motion times the distance traveled, no work is done by the centripetal force because it does not contribute to the displacement in the direction of the force. Therefore, Option A is correct. Option B is incorrect because the centripetal force does not do work. Option C is incorrect because velocity does not perform work. Option D is incorrect as potential energy in a vertical circle would depend on height, not horizontal position, but this is irrelevant to the work done by the centripetal force.",
+      "explanationImage": null,
+      "hints": [
+        "uniform",
+        "circular",
+        "motion"
+      ]
+    },
+    {
+      "text": "A 1000kg rocket ship, travelling at 100m/s is acted upon by an average force of 20kN applied in the direction of its motion for 8s. What is the change in velocity of the rocket?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "160m/s",
+          "isCorrect": true,
+          "explanation": "Option A is correct. The change in velocity can be calculated using the formula: Change in Velocity = (Force / Mass) * Time. Substituting the given values: (20,000N / 1000kg) * 8s = 160m/s"
+        },
+        {
+          "letter": "B",
+          "text": "260m/s",
+          "isCorrect": false,
+          "explanation": "Option B is incorrect because it represents the new velocity of the rocket, not its change in velocity."
+        },
+        {
+          "letter": "C",
+          "text": "160,000m/s",
+          "isCorrect": false,
+          "explanation": "Option C is incorrect. This value is not within the expected range for the change in velocity of the rocket."
+        },
+        {
+          "letter": "D",
+          "text": "260,000m/s",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect. This value is also not within the expected range for the change in velocity of the rocket."
+        }
+      ],
+      "explanation": "The correct answer is Option A. The change in velocity of the rocket can be calculated using the formula: Change in Velocity = (Force / Mass) * Time. Substituting the given values: (20,000N / 1000kg) * 8s = 160m/s. This represents the change in velocity experienced by the rocket due to the applied force. Options B, C, and D are incorrect because they either represent the final velocity of the rocket or provide values that are not feasible for the given scenario.",
+      "explanationImage": null,
+      "hints": [
+        "rocket ship",
+        "force"
+      ]
+    },
+    {
+      "text": "Torque is maximum when applied force is at an angle of _ to the lever arm.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "90°",
+          "isCorrect": true,
+          "explanation": "Option A is correct. Torque is maximized when the force is perpendicular to the lever arm, at 90°, because the sine of 90° is 1. Therefore, the torque is simply the product of the force and the distance from the pivot point."
+        },
+        {
+          "letter": "B",
+          "text": "0°",
+          "isCorrect": false,
+          "explanation": "Option B is incorrect. When the force is applied at 0°, it is parallel to the lever arm, resulting in no torque since sin0°=0."
+        },
+        {
+          "letter": "C",
+          "text": "45°",
+          "isCorrect": false,
+          "explanation": "Option C is incorrect. Although the force applied at 45° does produce torque, it is not maximized because sin45° is less than 1."
+        },
+        {
+          "letter": "D",
+          "text": "180°",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect. At 180°, the force is again parallel to the lever arm, but in the opposite direction, which also results in zero torque since sin180°=0."
+        }
+      ],
+      "explanation": "Torque is given by the formula Torque = rFsinθ, where r is the lever arm length, F is the magnitude of the applied force, and θ is the angle between the force vector and the lever arm. The function sinθ reaches its maximum value of 1 when θ is 90°, meaning that the force is perpendicular to the lever arm. Thus, the torque is maximized when the angle is 90°. Other angles, such as 0° or 180°, result in zero torque because the force is parallel to the lever arm, making sinθ equal to 0. At 45°, the torque is non-zero but not maximized because sin45° is less than 1.",
+      "explanationImage": null,
+      "hints": [
+        "Torque",
+        "maximum",
+        "angle"
+      ]
+    },
+    {
+      "text": "A 40 kg block is resting at a height of 5 m off the ground. If the block is released and falls to the ground. Which of the following is closest to its total mechanical energy at a height of 2m, assuming negligible air resistance?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Mechanical energy cannot be zero if the object is moving or elevated above the ground."
+        },
+        {
+          "letter": "B",
+          "text": "400 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It underestimates the total mechanical energy, which includes both potential and kinetic energy at 2m."
+        },
+        {
+          "letter": "C",
+          "text": "800 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It accounts for part of the energy but does not represent the total mechanical energy at 2m."
+        },
+        {
+          "letter": "D",
+          "text": "2000J",
+          "isCorrect": true,
+          "explanation": "Option D is correct."
+        }
+      ],
+      "explanation": "The total mechanical energy of the block at any point during its fall is the sum of its potential energy (PE) and kinetic energy (KE). Initially, at 5m, the block has only potential energy calculated by PE = mgh = 40 kg × 9.8 m/s² × 5 m = 1960 J. As it falls, its potential energy decreases, and kinetic energy increases, but the total mechanical energy remains constant, assuming negligible air resistance. Therefore, at 2m, the total mechanical energy is still approximately 2000 J, making Option D correct.",
+      "explanationImage": null,
+      "hints": [
+        "40 kg block",
+        "height of 5 m",
+        "negligible air resistance"
+      ]
+    },
+    {
+      "text": "_ equilibrium exists only when the vector sum of all the forces acting on object is zero.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rotational",
+          "isCorrect": false,
+          "explanation": "Option A is incorrect. Rotational equilibrium refers to the balance of torques causing no angular acceleration. It does not directly relate to the vector sum of all forces being zero."
+        },
+        {
+          "letter": "B",
+          "text": "Translational",
+          "isCorrect": true,
+          "explanation": "Option B is correct. Translational equilibrium occurs when the vector sum of all forces acting on an object is zero, resulting in no change in the object's linear velocity."
+        },
+        {
+          "letter": "C",
+          "text": "Second condition of equilibrium",
+          "isCorrect": false,
+          "explanation": "Option C is incorrect. The second condition of equilibrium is concerned with rotational equilibrium, where the net torque on an object is zero."
+        },
+        {
+          "letter": "D",
+          "text": "Both A and C",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect. Both options A and C refer to rotational equilibrium, which is not related to the vector sum of forces being zero."
+        }
+      ],
+      "explanation": "The correct answer is Option B: Translational. Translational equilibrium occurs when the vector sum of all forces acting on an object is zero. This results in the object maintaining a constant velocity, meaning there is no net force causing it to accelerate. Option A, Rotational, and Option C, Second condition of equilibrium, both refer to rotational aspects, where the focus is on the balance of torques rather than the vector sum of linear forces. Option D is incorrect as it combines two incorrect options.",
+      "explanationImage": null,
+      "hints": [
+        "equilibrium",
+        "vector sum",
+        "zero"
+      ]
+    },
+    {
+      "text": "A firefighter jumps horizontally from a burning building with an initial speed of 1.5 m/s. At what time is the angle between his velocity and acceleration vectors the greatest?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The instant he jumps.",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "When he reaches terminal velocity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Halfway through his fall",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Right before he lands on the ground",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "When the firefighter jumps horizontally from the building, his initial velocity is purely horizontal (since no vertical component is mentioned).At the moment of jumping, the acceleration due to gravity acts vertically downward. The angle between the horizontal velocity and vertical acceleration vectors is 90 degrees, making it the greatest angle between these vectors.As the firefighter falls, the angle between the velocity and acceleration vectors decreases until he reaches the maximum speed vertically downward when the angle is 0 degrees, aligning with the acceleration due to gravity.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "An elevator is designed to carry a maximum weight of 9800 N (including its own weight), and to move upward at a speed of 5 m/s after an initial period of acceleration. What is the relationship between the maximum tension in the elevator cable and the maximum weight of the elevator while the elevator is accelerating upward?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The tension is greater than 9800 N.",
+          "isCorrect": true,
+          "explanation": "The tension must be greater than 9800 N to not only support the weight of the elevator but also provide additional force for upward acceleration."
+        },
+        {
+          "letter": "B",
+          "text": "The tension is less than 9800 N.",
+          "isCorrect": false,
+          "explanation": "This is incorrect because if the tension were less than 9800 N, the elevator would not be able to accelerate upward as it would not even support the weight of the elevator."
+        },
+        {
+          "letter": "C",
+          "text": "The tension equals 9800 N.",
+          "isCorrect": false,
+          "explanation": "While stationary or moving at constant speed, the tension equals the weight of the elevator. However, during acceleration upward, additional force is needed, making this option incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "It cannot be determined from the information given.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the problem statement provides enough information to determine the tension must exceed the maximum weight to achieve upward acceleration."
+        }
+      ],
+      "explanation": "To move upward with acceleration, the elevator needs a net force in the upward direction. The tension in the cable is responsible for supporting the elevator's weight and providing the additional force needed for acceleration. Therefore, the tension must be more than 9800 N during acceleration. Option A is correct because it recognizes the necessity of a tension greater than the elevator's weight to provide the required upward force. Option B is incorrect as tension less than 9800 N would not support the elevator's weight. Option C is incorrect because tension equal to the weight would only suffice for a stationary or constant-speed scenario. Option D is incorrect because the problem provides sufficient information to determine the relationship between tension and weight during acceleration.",
+      "explanationImage": null,
+      "hints": [
+        "maximum weight",
+        "accelerating upward"
+      ]
+    },
+    {
+      "text": "The coefficient of static Friction will always be _ than the coefficient of kinetic Friction.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Equal",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The coefficient of static friction is typically greater than the coefficient of kinetic friction."
+        },
+        {
+          "letter": "B",
+          "text": "Smaller",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The coefficient of static friction is not smaller than the coefficient of kinetic friction."
+        },
+        {
+          "letter": "C",
+          "text": "Larger",
+          "isCorrect": true,
+          "explanation": "This is correct. The coefficient of static friction is larger because it requires more force to initiate movement than to maintain it."
+        },
+        {
+          "letter": "D",
+          "text": "Both A and C are possible",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The coefficient of static friction is universally larger than that of kinetic friction."
+        }
+      ],
+      "explanation": "The coefficient of static friction is larger than the coefficient of kinetic friction because it requires more force to overcome static friction and start moving an object than to keep it moving once it has started. Therefore, Option C is correct. Option A is incorrect because the coefficients are not equal. Option B is incorrect because the static coefficient is not smaller. Option D is incorrect because only Option C is possible.",
+      "explanationImage": null,
+      "hints": [
+        "coefficient",
+        "static",
+        "kinetic"
+      ]
+    },
+    {
+      "text": "What is the displacement of a person who walks 2km East then 2km North then 2 km west and then 2 km south?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0 km",
+          "isCorrect": true,
+          "explanation": "Option A is correct. Displacement is the shortest path between the starting and ending point. Since the person returns to the starting point, the displacement is 0 km."
+        },
+        {
+          "letter": "B",
+          "text": "8 km",
+          "isCorrect": false,
+          "explanation": "Option B is incorrect. 8 km is the total distance traveled, not the displacement. Displacement measures the change in position, which is zero in this case."
+        },
+        {
+          "letter": "C",
+          "text": "4 km",
+          "isCorrect": false,
+          "explanation": "Option C is incorrect. 4 km does not represent the correct displacement, as the person returns to the starting point making the displacement zero."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect as 0 km, the correct displacement, is provided as one of the options."
+        }
+      ],
+      "explanation": "The correct answer is Option A: 0 km. Displacement is the straight-line distance from the starting point to the ending point, along with the direction. In this case, the person walks in a complete loop back to the starting point, resulting in a displacement of 0 km. Option B incorrectly identifies 8 km as the displacement, which is actually the total path length or distance traveled. Option C suggests 4 km, which is incorrect as the net change in position is zero. Option D suggests that none of the options are correct, which is inaccurate since Option A is indeed correct.",
+      "explanationImage": null,
+      "hints": [
+        "displacement",
+        "2km East",
+        "2 km south"
+      ]
+    },
+    {
+      "text": "A rock (m=2kg) is shot up vertically at the same time that a ball (m=0.5kg) is projected horizontally. If both start from the same height then",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The rock and ball will reach the ground at the same time",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the rock is launched vertically which causes it to take longer to reach the ground due to its initial upward motion."
+        },
+        {
+          "letter": "B",
+          "text": "The rock will reach the ground first",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the ball, projected horizontally, is only influenced by gravity in the vertical direction, allowing it to reach the ground faster than the rock which also has an upward trajectory."
+        },
+        {
+          "letter": "C",
+          "text": "The ball will reach the ground first",
+          "isCorrect": true,
+          "explanation": "This option is correct because the ball is only influenced by gravity in the vertical direction and has no vertical initial velocity, causing it to reach the ground faster than the rock which is shot upwards first."
+        },
+        {
+          "letter": "D",
+          "text": "The rock and ball will collide in air before reaching the ground",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the rock is moving vertically upwards initially, making it impossible for the two objects to collide unless additional forces acted upon them."
+        }
+      ],
+      "explanation": "The correct answer is that the ball will reach the ground first. When the rock is shot upwards, it experiences a delay in reaching the ground due to its initial upward motion which counteracts gravity for a time. The ball, on the other hand, is projected horizontally and is immediately influenced by gravity, making it fall directly downwards. Therefore, the ball reaches the ground before the rock. Option A is incorrect because both objects do not fall simultaneously due to different initial motions. Option B is incorrect because the rock takes longer to return to the initial height before falling. Option D is incorrect as their different trajectories prevent them from colliding.",
+      "explanationImage": null,
+      "hints": [
+        "rock",
+        "ball",
+        "height"
+      ]
+    },
+    {
+      "text": "In uniform circular motion, tangential force is _",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Maximum",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because a tangential force would result in a change in speed, which does not occur in uniform circular motion."
+        },
+        {
+          "letter": "B",
+          "text": "Equal to radial force",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the radial (centripetal) force is responsible for keeping the object in circular motion, whereas the tangential force is zero in uniform circular motion."
+        },
+        {
+          "letter": "C",
+          "text": "Lesser than radial force",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because in uniform circular motion, the tangential force is zero, not merely lesser than the radial force."
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "This option is correct. In uniform circular motion, the speed of the object remains constant, indicating that the tangential force is zero as there is no change in speed."
+        }
+      ],
+      "explanation": "The correct answer is Option D: Zero. In uniform circular motion, an object moves in a circle at constant speed, meaning there's no acceleration in the direction of the motion (tangential direction). Thus, the tangential force is zero. Options A, B, and C are incorrect as they imply the existence of tangential force, which would result in a change in speed, contradicting the nature of uniform circular motion.",
+      "explanationImage": null,
+      "hints": [
+        "uniform",
+        "circular",
+        "motion"
+      ]
+    },
+    {
+      "text": "A physics major builds a potato launcher and tests it in an open field. The student launches a potato with a velocity of 12m/s at an angle of 30°. The potato is found 60 meters from the launch site . Which of the following represents the maximum height achieved by the potato?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.3m",
+          "isCorrect": false,
+          "explanation": "Option A is incorrect because it does not accurately represent the maximum height achieved by the potato."
+        },
+        {
+          "letter": "B",
+          "text": "1.8m",
+          "isCorrect": true,
+          "explanation": "Option B is correct because it correctly calculates the maximum height achieved by the potato based on the given information."
+        },
+        {
+          "letter": "C",
+          "text": "5m",
+          "isCorrect": false,
+          "explanation": "Option C is incorrect as it does not accurately represent the maximum height achieved by the potato."
+        },
+        {
+          "letter": "D",
+          "text": "18m",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect as it does not accurately represent the maximum height achieved by the potato."
+        }
+      ],
+      "explanation": "The correct answer is Option B: 1.8m. To calculate the maximum height achieved by the potato, we need to consider the vertical component of the initial velocity. Using the equation for uniformly accelerated motion, we can calculate the time it takes for the potato to reach the highest point. Then, using this time, we can determine the maximum height reached by the potato. Option A, C, and D are incorrect as they do not accurately calculate the maximum height based on the given information.",
+      "explanationImage": null,
+      "hints": [
+        "velocity",
+        "angle"
+      ]
+    },
+    {
+      "text": "A tractor pulls a log with a mass of 500 kg along the ground for 100 m. The rope( between the tractor and the log) makes an angle of 30°with the ground and is acted on by a tensile force of 5000N. How much work does the tractor perform in this scenario? (sin 30°=0.5 , cos 30°=0.866,tan30°=0.577)",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "250 kJ",
+          "isCorrect": false,
+          "explanation": "Option A is incorrect. This calculation doesn't account for the angle properly and results in a lower value."
+        },
+        {
+          "letter": "B",
+          "text": "289 kJ",
+          "isCorrect": false,
+          "explanation": "Option B is incorrect. This value results from an incorrect application of trigonometric functions."
+        },
+        {
+          "letter": "C",
+          "text": "433kJ",
+          "isCorrect": true,
+          "explanation": "Option C is correct"
+        },
+        {
+          "letter": "D",
+          "text": "500 kJ",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect. This assumes the entire force is in the direction of the displacement, ignoring the angle."
+        }
+      ],
+      "explanation": "The work done by the tractor is calculated using the formula: W = F * d * cos(θ), where F is the force, d is the distance, and θ is the angle between the force and the direction of motion. In this case, the tensile force is 5000 N, the distance is 100 m, and the angle θ is 30°. Thus, the work done is:W = 5000 N * 100 m * cos(30°) = 5000 * 100 * 0.866 = 433,000 J, or 433 kJ.Option C is correct because it correctly applies the cosine component of the force in the direction of displacement. Option A and B miscalculate the effect of the angle, while Option D assumes the force is completely aligned with the displacement, ignoring the angle.",
+      "explanationImage": null,
+      "hints": [
+        "tensile force",
+        "angle",
+        "cos 30°"
+      ]
+    },
+    {
+      "text": "Which of the following statements is true for movement on a plane with friction?I. Acceleration is a function of applied force onlyII. More force is needed to accelerate a stationary object than an identical moving objectIII. The force of friction is independent of the mass of objects",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "I only",
+          "isCorrect": false,
+          "explanation": "Option A is incorrect because acceleration is influenced by both applied force and friction, not just the applied force."
+        },
+        {
+          "letter": "B",
+          "text": "II only",
+          "isCorrect": true,
+          "explanation": "Option B is correct because more force is indeed required to overcome static friction and start moving a stationary object compared to keeping an identical moving object in motion."
+        },
+        {
+          "letter": "C",
+          "text": "I and II only",
+          "isCorrect": false,
+          "explanation": "Option C is incorrect because, while more force is needed to start moving a stationary object, acceleration is not solely a function of applied force due to the presence of friction."
+        },
+        {
+          "letter": "D",
+          "text": "I and III",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect because both statements I and III are false. Friction is dependent on the mass of objects, and acceleration is not solely a function of the applied force."
+        }
+      ],
+      "explanation": "The correct answer is Option B: II only. This is because a greater force is required to overcome static friction to start moving a stationary object than to keep it moving once in motion. Statement I is incorrect because acceleration is affected by both the applied force and the frictional force. Statement III is incorrect because the force of friction does depend on the mass of the object, as it influences the normal force exerted on the surface.",
+      "explanationImage": null,
+      "hints": [
+        "function of applied force",
+        "force is needed",
+        "friction is independent"
+      ]
+    },
+    {
+      "text": "A weightlifter lifts a 275 kg barbell from the ground to a height of 2.4 m. How much work has the weightlifter done in lifting the barbel and how much work is required to hold a weight at that height?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3234J and 0J respectively",
+          "isCorrect": false,
+          "explanation": "Option A is incorrect. The work done to lift the barbell is miscalculated, though the work required to hold it is correctly identified as 0J."
+        },
+        {
+          "letter": "B",
+          "text": "3234J and 3234J respectively",
+          "isCorrect": false,
+          "explanation": "Option B is incorrect. Although the work done to hold the barbell is stated, holding it requires no additional work once it is lifted."
+        },
+        {
+          "letter": "C",
+          "text": "6468J and 0J respectively",
+          "isCorrect": true,
+          "explanation": "Option C is correct"
+        },
+        {
+          "letter": "D",
+          "text": "6468J and 6468J respectively",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect. The correct work done to lift the barbell is given, but holding it does not require additional work."
+        }
+      ],
+      "explanation": "To calculate the work done in lifting the barbell, use the formula Work = Force x Distance. The force required is equal to the weight of the barbell, which is mass times the acceleration due to gravity (9.8 m/s²). Thus, Force = 275 kg x 9.8 m/s² = 2695 N. The work done is then Work = 2695 N x 2.4 m = 6468 J. Once the barbell is lifted, holding it at that height requires no additional work because there is no displacement. Therefore, the correct answer is 6468J and 0J respectively. Options A and B miscalculate the work done to lift the barbell, while Option D incorrectly states that work is required to hold the barbell at a height.",
+      "explanationImage": null,
+      "hints": [
+        "275 kg",
+        "2.4 m"
+      ]
+    },
+    {
+      "text": "A parachutist jumps from a plane. Beginning at the point when she reaches terminal velocity, which of the following is/are true? I. The jumper is in translational equilibrium. II. The jumper is not being acted upon by any forces. III. There is an equal amount of work being done by gravity and air resistance.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "I only",
+          "isCorrect": false,
+          "explanation": "I is true because at terminal velocity, the forces are balanced, resulting in translational equilibrium. However, III is also true, so this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "I and III only",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. At terminal velocity, the parachutist is in translational equilibrium (I), and there is an equal amount of work being done by gravity and air resistance (III)."
+        },
+        {
+          "letter": "C",
+          "text": "II and III only",
+          "isCorrect": false,
+          "explanation": "II is incorrect because the parachutist is still acted upon by forces (gravity and air resistance), they are just balanced. III is true, but I is also true, so this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "I, II, and III",
+          "isCorrect": false,
+          "explanation": "II is incorrect. Although the parachutist is acted upon by forces, they are balanced, resulting in no net force, not the absence of forces. I and III are true, but II makes this option incorrect."
+        }
+      ],
+      "explanation": "At terminal velocity, the parachutist is in translational equilibrium (statement I) because the net force acting on her is zero; the downward gravitational force is exactly balanced by the upward air resistance. This balance of forces results in a constant velocity. Statement II is false; the parachutist is indeed acted upon by forces, but they are balanced. Statement III is true because the gravitational force (doing work to move the jumper downward) is balanced by the work done by air resistance (which acts in the opposite direction). Therefore, the correct answer is B: I and III only.",
+      "explanationImage": null,
+      "hints": [
+        "terminal velocity",
+        "translational equilibrium",
+        "work being done"
+      ]
+    },
+    {
+      "text": "Centrifugal force is an apparent outward force during circular motion. It has been described as a reaction force according to Newton's third law. Which of the following statements is most likely to be correct regarding centrifugal force?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Centrifugal force exists only for uniform circular motion, not non-uniform circular motion.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Centrifugal force exists only when tension or a normal force provides centripetal acceleration",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Centrifugal force always acts antiparallel to the centripetal force vector",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Centrifugal force is result of repulsive electrostatic interactions.",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The statement that centrifugal force always acts antiparallel to the centripetal force vector is likely to be correct because they are equal in magnitude and opposite in direction according to Newton's third law of motion. While the centripetal force is directed towards the center of the circular motion, the centrifugal force is an apparent outward force that emerges as a result of an object's inertia trying to continue in a straight line. Therefore, to maintain circular motion, the two forces act in opposite directions, with the centripetal force pulling the object towards the center and the centrifugal force pushing it away from the center.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Type of friction that exists between a stationary object and the surface upon which it rests is called _",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Kinetic Friction",
+          "isCorrect": false,
+          "explanation": "Option A is incorrect. Kinetic friction occurs when there is relative motion between surfaces, such as when an object slides over a surface."
+        },
+        {
+          "letter": "B",
+          "text": "Static Friction",
+          "isCorrect": true,
+          "explanation": "Option B is correct. Static friction acts between a stationary object and the surface on which it rests, preventing motion until a force strong enough to overcome it is applied."
+        },
+        {
+          "letter": "C",
+          "text": "No friction is present",
+          "isCorrect": false,
+          "explanation": "Option C is incorrect. Friction is always present between surfaces in contact, even if the object is stationary, due to static friction."
+        },
+        {
+          "letter": "D",
+          "text": "Both A and B",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect. Only static friction is present for a stationary object on a surface. Kinetic friction is not applicable in this scenario."
+        }
+      ],
+      "explanation": "The correct answer is Option B: Static Friction. Static friction is the force that resists the initial motion of a stationary object in contact with a surface. It must be overcome for the object to start moving. Option A, kinetic friction, applies when an object is already in motion. Option C is incorrect because friction always exists between surfaces in contact. Option D is incorrect because kinetic friction does not act on stationary objects.",
+      "explanationImage": null,
+      "hints": [
+        "Type of friction",
+        "stationary object",
+        "surface upon which it rests"
+      ]
+    },
+    {
+      "text": "A ball is thrown vertically up into the air from a window ledge 30 meters above the ground with an initial velocity of 10m/s. Find velocity of ball after 2 seconds.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "9.6 m/s",
+          "isCorrect": true,
+          "explanation": "Option A is correct. The velocity after 2 seconds is 9.6 m/s, calculated using the formula v = u + at."
+        },
+        {
+          "letter": "B",
+          "text": "29.6 m/s",
+          "isCorrect": false,
+          "explanation": "Option B is incorrect. This value is not consistent with the effects of gravity on the ball's motion."
+        },
+        {
+          "letter": "C",
+          "text": "19.8 m/s",
+          "isCorrect": false,
+          "explanation": "Option C is incorrect. This value may result from a miscalculation or misunderstanding of the formula for final velocity."
+        },
+        {
+          "letter": "D",
+          "text": "2 m/s",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect. The velocity value is too low considering the initial upward velocity and the time elapsed."
+        }
+      ],
+      "explanation": "To find the velocity of the ball after 2 seconds, use the equation of motion v = u + at, where 'u' is the initial velocity, 'a' is the acceleration (gravity, which is -9.8 m/s² when considering upward motion), and 't' is the time. Here, u = 10 m/s, a = -9.8 m/s², and t = 2 seconds. Substituting these values, v = 10 + (-9.8) * 2 = 9.6 m/s. Option A is correct because it matches this calculation. Option B is incorrect as it suggests a significant increase in velocity, which is unrealistic given the deceleration due to gravity. Option C is incorrect due to a likely misapplication of the formula. Option D is incorrect as it underestimates the velocity significantly.",
+      "explanationImage": null,
+      "hints": [
+        "initial velocity",
+        "2 seconds"
+      ]
+    },
+    {
+      "text": "A baseball of mass 0.25 kg is thrown in the air with an initial speed of 30m/s but because of air resistance, the ball returns to the ground with a speed of 27m/s. Find the work done by air resistance.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-21.37J",
+          "isCorrect": true,
+          "explanation": "Option A is correct"
+        },
+        {
+          "letter": "B",
+          "text": "15 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. This value does not take into account the correct calculation of the change in kinetic energy due to air resistance."
+        },
+        {
+          "letter": "C",
+          "text": "21.37 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Although the magnitude is correct, the sign is incorrect as the work done by air resistance should be negative due to energy loss."
+        },
+        {
+          "letter": "D",
+          "text": "-15 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. This value does not reflect the correct change in kinetic energy and does not match the calculated work done by air resistance."
+        }
+      ],
+      "explanation": "The work done by air resistance can be determined by the change in kinetic energy of the baseball. The initial kinetic energy (KEinitial) is given by:KEinitial = 0.5 × 0.25 kg × (30 m/s)2 = 112.5 JThe final kinetic energy (KEfinal) when it returns to the ground is:KEfinal = 0.5 × 0.25 kg × (27 m/s)2 = 91.125 JThe work done by air resistance is the difference in kinetic energy: Work = KEfinal - KEinitial = 91.125 J - 112.5 J = -21.375 JTherefore, Option A is correct. Other options either have incorrect values or do not account for the negative sign, indicating energy loss due to air resistance.",
+      "explanationImage": null,
+      "hints": [
+        "initial speed",
+        "air resistance",
+        "returns to the ground"
+      ]
+    },
+    {
+      "text": "A seesaw with a mass of 5kg has one block of mass 10kg two metres to the left of fulcrum and another block 0.5m to the right of the fulcrum. As shown below. If seesaw is in equilibrium, find the force exerted by the fulcrum.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 N",
+          "isCorrect": false,
+          "explanation": "Option A is incorrect. The force exerted by the fulcrum must account for all forces acting on the seesaw, not just one mass."
+        },
+        {
+          "letter": "B",
+          "text": "40 N",
+          "isCorrect": false,
+          "explanation": "Option B is incorrect. This value does not consider the correct distribution of forces and distances from the fulcrum."
+        },
+        {
+          "letter": "C",
+          "text": "550 N",
+          "isCorrect": true,
+          "explanation": "Option C is correct. The force exerted by the fulcrum balances the gravitational force acting on the seesaw and the blocks, ensuring equilibrium."
+        },
+        {
+          "letter": "D",
+          "text": "500 N",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect. This calculation does not accurately represent the forces involved in maintaining equilibrium."
+        }
+      ],
+      "explanation": "Option C is correct because the combined gravitational forces on the seesaw and the blocks must equal the force exerted by the fulcrum to maintain equilibrium. The gravitational force on the seesaw itself (5 kg) combines with the gravitational forces on the two blocks (10 kg and the unknown mass on the right side). The correct calculation shows that 550 N is required for balance, considering the distance of each mass from the fulcrum. Options A, B, and D do not account for these factors accurately, leading to incorrect values.",
+      "explanationImage": null,
+      "hints": [
+        "mass of 5kg",
+        "mass 10kg",
+        "equilibrium"
+      ]
+    },
+    {
+      "text": "Which of the following quantities is not a vector?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Velocity",
+          "isCorrect": false,
+          "explanation": "Option A is incorrect. Velocity is a vector because it has both magnitude and direction."
+        },
+        {
+          "letter": "B",
+          "text": "Force",
+          "isCorrect": false,
+          "explanation": "Option B is incorrect. Force is a vector as it is characterized by both magnitude and direction."
+        },
+        {
+          "letter": "C",
+          "text": "Displacement",
+          "isCorrect": false,
+          "explanation": "Option C is incorrect. Displacement is a vector because it represents a change in position with both magnitude and direction."
+        },
+        {
+          "letter": "D",
+          "text": "Distance",
+          "isCorrect": true,
+          "explanation": "Option D is correct. Distance is a scalar quantity because it only has magnitude and no direction."
+        }
+      ],
+      "explanation": "The correct answer is Option D: Distance. Scalars are quantities that have only magnitude, such as distance. Vectors, on the other hand, have both magnitude and direction, like velocity, force, and displacement. Therefore, distance is not a vector because it lacks directional information, unlike the other options provided.",
+      "explanationImage": null,
+      "hints": [
+        "quantities",
+        "not",
+        "vector"
+      ]
+    },
+    {
+      "text": "A 30 kg child sits on a seesaw at a distance of 2m from the fulcrum. Where must the child’s parent sit to balance the seesaw if the parent has a mass of 90kg",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "67cm from the child",
+          "isCorrect": false,
+          "explanation": "Option A is incorrect. This distance would result in an imbalance because it does not account for the weight difference between the child and the parent."
+        },
+        {
+          "letter": "B",
+          "text": "67cm from the fulcrum",
+          "isCorrect": true,
+          "explanation": "Option B is correct. The parent needs to sit closer to the fulcrum due to their higher weight, creating an equal torque to balance the seesaw."
+        },
+        {
+          "letter": "C",
+          "text": "133cm from the child",
+          "isCorrect": false,
+          "explanation": "Option C is incorrect. This would place the parent too far from the fulcrum, resulting in an imbalance."
+        },
+        {
+          "letter": "D",
+          "text": "267 cm from the fulcrum",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect. Sitting this far from the fulcrum would cause an imbalance due to excessive torque on the parent's side."
+        }
+      ],
+      "explanation": "In order to balance the seesaw, the torque produced by the child and the parent must be equal. Torque is calculated as the product of force (weight in this case) and distance from the fulcrum. For the child, the torque is 30 kg × 9.8 m/s² × 2 m = 588 Nm. For the parent, the torque should also be 588 Nm. Given the parent's weight is 90 kg, the equation is 90 kg × 9.8 m/s² × distance = 588 Nm. Solving for distance gives approximately 0.67 m or 67 cm from the fulcrum. Therefore, Option B is correct. The other options do not satisfy the condition for balanced torque, resulting in imbalance.",
+      "explanationImage": null,
+      "hints": [
+        "30 kg",
+        "2m"
+      ]
+    },
+    {
+      "text": "Which of the following is a conservative force?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Air resistance",
+          "isCorrect": false,
+          "explanation": "Air resistance is a non-conservative force because it dissipates energy as heat and depends on the path taken."
+        },
+        {
+          "letter": "B",
+          "text": "Friction",
+          "isCorrect": false,
+          "explanation": "Friction is a non-conservative force as it converts mechanical energy into heat and is path-dependent."
+        },
+        {
+          "letter": "C",
+          "text": "Gravity",
+          "isCorrect": true,
+          "explanation": "Option C is correct"
+        },
+        {
+          "letter": "D",
+          "text": "Convection",
+          "isCorrect": false,
+          "explanation": "Convection is not a force but a mode of heat transfer, and it does not apply to the concept of conservative forces."
+        }
+      ],
+      "explanation": "Gravity is the correct answer as it is a conservative force; the work done only depends on the initial and final positions, not the path. Air resistance and friction are non-conservative forces because they convert mechanical energy into other forms like heat, and the work done depends on the path taken. Convection is unrelated to the concept of conservative forces, as it refers to the movement of heat through fluids.",
+      "explanationImage": null,
+      "hints": [
+        "conservative",
+        "force"
+      ]
+    },
+    {
+      "text": "A consumer is comparing two new cars. Car A exert 250 horsepower while Car B exerts 300 horsepower. The consumer is most concerned about the peak velocity that the car can reach. If non conservative forces can be ignored, which of the following statements is true?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Car A and Car B both have unlimited velocities",
+          "isCorrect": true,
+          "explanation": "Option A is correct because without non-conservative forces like friction, both cars can theoretically achieve unlimited velocities by continuously exerting power. In this idealized scenario, there is no force to limit their velocity."
+        },
+        {
+          "letter": "B",
+          "text": "Car A will reach its peak velocity more quickly than Car B.",
+          "isCorrect": false,
+          "explanation": "Option B is incorrect because Car B, having higher horsepower, can exert more power than Car A. This means Car B could reach higher velocities more quickly, assuming all other factors are equal."
+        },
+        {
+          "letter": "C",
+          "text": "Car A will dissipate less energy to the surroundings than Car B.",
+          "isCorrect": false,
+          "explanation": "Option C is incorrect because energy dissipation is irrelevant in this scenario as non-conservative forces are ignored. Both cars are assumed to operate in an ideal environment with no energy loss."
+        },
+        {
+          "letter": "D",
+          "text": "Car A will have a lower peak velocity than Car B.",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect because, without non-conservative forces, peak velocity is theoretically unlimited for both cars, negating any assumption about Car A having a lower peak velocity."
+        }
+      ],
+      "explanation": "Option A is correct. In an idealized scenario where non-conservative forces such as friction and air resistance are ignored, both Car A and Car B can theoretically achieve unlimited velocities. The absence of opposing forces means there is no cap on the velocity they could reach as long as power is continuously exerted. Options B, C, and D incorrectly assume limitations or factors that are not present in this idealized scenario. Car B's higher horsepower does not lead to a finite peak velocity in the absence of non-conservative forces, nor does it imply faster or energy-efficient performance when such forces are disregarded.",
+      "explanationImage": null,
+      "hints": [
+        "peak velocity",
+        "non conservative"
+      ]
+    },
+    {
+      "text": "A block of mass 'm' is slipping down a rough inclined plane with constant speed. The force on the block by the plane is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "mg",
+          "isCorrect": false,
+          "explanation": "This refers to the total gravitational force acting on the block, which is equal to the weight of the block. The gravitational force has two components:Parallel component: mgsin⁡θ, which causes the block to move down the incline.Perpendicular component: mgcos⁡θ, which acts perpendicular to the surface and affects the normal force.However, the total force exerted by the plane on the block is not just the gravitational force mg. The plane exerts two forces on the block: the normal force (perpendicular to the surface) and the frictional force (opposing the motion). So, mg is not the correct answer for the force exerted by the plane."
+        },
+        {
+          "letter": "B",
+          "text": "mg/2",
+          "isCorrect": false,
+          "explanation": "This would imply that the force on the block by the plane is half of the gravitational force. However, there is no reason for this specific relationship in the scenario provided, and it doesn't match the forces involved. In fact, the force on the block by the plane includes both the normal force and the frictional force, neither of which equals mg/2. Therefore, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Depends upon coefficient of friction",
+          "isCorrect": false,
+          "explanation": "This is partially true, but it isn't the complete answer. The coefficient of friction μ\\muμ determines the frictional force, which opposes the motion. The frictional force is:f=μmgcos⁡θSince the frictional force is part of the total force the plane exerts on the block, it is indeed dependent on the coefficient of friction. However, the total force on the block by the plane also depends on the normal force, which depends on the mass of the block and the angle of inclination. So, this option is partially correct, but it's incomplete without mentioning the angle of inclination."
+        },
+        {
+          "letter": "D",
+          "text": "Depends upon angle of inclination",
+          "isCorrect": true,
+          "explanation": "This option is correct. The total force on the block by the plane (which is a combination of the normal force and frictional force) depends on both the angle of inclination and the coefficient of friction. The normal force is N=mgcos⁡θ, and the frictional force is f=μmgcos⁡θ. Both of these forces depend on the angle of the incline θ\\thetaθ. So, the total force exerted by the plane is influenced by the angle of inclination."
+        }
+      ],
+      "explanation": "This option is correct. The total force on the block by the plane (which is a combination of the normal force and frictional force) depends on both the angle of inclination and the coefficient of friction. The normal force is N=mgcos⁡θ, and the frictional force is f=μmgcos⁡θ. Both of these forces depend on the angle of the incline θ\\thetaθ. So, the total force exerted by the plane is influenced by the angle of inclination.",
+      "explanationImage": null,
+      "hints": [
+        "block of mass 'm'",
+        "slipping down a rough inclined plane",
+        "constant speed",
+        "force",
+        "on the block by the plane"
+      ]
+    },
+    {
+      "text": "A rider on a horse back falls when the horse starts running all of a sudden because:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The rider is pushed backward by the air resistance",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Air resistance would not be significant enough to cause the rider to fall backward in this scenario. The primary factor is inertia, not air resistance."
+        },
+        {
+          "letter": "B",
+          "text": "The rider becomes suddenly afraid due to the horse's movement",
+          "isCorrect": false,
+          "explanation": "This is incorrect. While fear might be a factor psychologically, the physical reason the rider falls is due to inertia, not emotion."
+        },
+        {
+          "letter": "C",
+          "text": "Inertia of rest keeps the rider's upper body stationary while the lower body moves with the horse",
+          "isCorrect": true,
+          "explanation": "This is correct. When the horse suddenly starts to run, the upper part of the rider's body tends to remain at rest due to inertia, causing the rider to lose balance and fall."
+        },
+        {
+          "letter": "D",
+          "text": "None of the above",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The correct explanation is related to the inertia of rest affecting the rider's body."
+        }
+      ],
+      "explanation": "When the horse starts running suddenly, the rider's body is subject to the law of inertia, which states that an object at rest will remain at rest unless acted upon by an external force. The rider's upper body remains at rest due to inertia while the lower body moves forward with the horse. This difference in motion causes the rider to lose balance and fall. This phenomenon is a direct application of Newton's first law of motion.The incorrect options either misattribute the cause to air resistance or emotion, which are not the primary factors in this physical scenario.",
+      "explanationImage": null,
+      "hints": [
+        "rider",
+        "sudden"
+      ]
+    },
+    {
+      "text": "Displacement is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Dimension",
+          "isCorrect": false,
+          "explanation": "A dimension is a measurable extent of some kind, such as length, breadth, depth, or height."
+        },
+        {
+          "letter": "B",
+          "text": "Scalar",
+          "isCorrect": false,
+          "explanation": "A scalar quantity has only magnitude and no direction. Displacement requires both magnitude and direction."
+        },
+        {
+          "letter": "C",
+          "text": "Vector",
+          "isCorrect": true,
+          "explanation": "Displacement is a vector quantity because it involves both magnitude and direction."
+        },
+        {
+          "letter": "D",
+          "text": "Speed",
+          "isCorrect": false,
+          "explanation": "Speed is a scalar quantity that refers to how fast an object is moving, not its overall change in position."
+        }
+      ],
+      "explanation": "Displacement is defined as a vector quantity because it considers both the magnitude and direction of an object's change in position from its initial point to its final point. This is distinct from scalar quantities like distance, which only consider magnitude. Option A, 'Dimension,' refers to a physical measurement and not a type of quantity applicable to displacement. Option B, 'Scalar,' is incorrect because displacement requires direction, which scalars do not have. Option D, 'Speed,' is a scalar and only measures how fast something is moving, without involving direction, making it unrelated to displacement.",
+      "explanationImage": null,
+      "hints": [
+        "Displacement",
+        "characteristics",
+        "vector"
+      ]
+    },
+    {
+      "text": "In the displacement time graph if the slope or gradient of the tangent increases,",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Velocity becomes constant",
+          "isCorrect": false,
+          "explanation": "If the slope is constant, the velocity is constant. An increasing slope indicates a changing (increasing) velocity."
+        },
+        {
+          "letter": "B",
+          "text": "Average velocity becomes greater",
+          "isCorrect": true,
+          "explanation": "An increasing slope means the rate of change of displacement over time is increasing, indicating a greater average velocity."
+        },
+        {
+          "letter": "C",
+          "text": "Acceleration decreases",
+          "isCorrect": false,
+          "explanation": "An increasing slope indicates increasing velocity, which suggests acceleration is occurring, not decreasing."
+        },
+        {
+          "letter": "D",
+          "text": "Velocity decreases",
+          "isCorrect": false,
+          "explanation": "A decreasing velocity would correspond to a decreasing slope, not an increasing one."
+        }
+      ],
+      "explanation": "In a displacement-time graph, the slope or gradient of the tangent line represents the velocity. An increasing slope means that the displacement is changing at an increasing rate over time, which indicates that velocity is increasing. Therefore, the average velocity becomes greater. Option B is correct. Options A and D are incorrect because they describe scenarios where the slope is constant or decreasing, respectively. Option C is incorrect because an increasing slope suggests that acceleration is positive, not decreasing.",
+      "explanationImage": null,
+      "hints": [
+        "displacement",
+        "time",
+        "slope"
+      ]
+    },
+    {
+      "text": "The force which produces acceleration of 1m/sec2 in a body of mass 1 Kg is equal to",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "One dyne",
+          "isCorrect": false,
+          "explanation": "A dyne is a smaller unit of force used in the centimeter-gram-second system. It is not used in the SI system where the problem is set."
+        },
+        {
+          "letter": "B",
+          "text": "One Newton",
+          "isCorrect": true,
+          "explanation": "One Newton is the correct SI unit of force required to accelerate a 1 kg mass by 1 m/s² according to Newton's Second Law of Motion."
+        },
+        {
+          "letter": "C",
+          "text": "10 Kg",
+          "isCorrect": false,
+          "explanation": "The kilogram is a unit of mass, not force, and does not apply to this problem."
+        },
+        {
+          "letter": "D",
+          "text": "10 dyne",
+          "isCorrect": false,
+          "explanation": "10 dyne is still a much smaller force than 1 Newton. The problem requires using the SI unit of force."
+        }
+      ],
+      "explanation": "According to Newton's Second Law of Motion, force is calculated as the product of mass and acceleration (F = ma). With a mass of 1 kg and an acceleration of 1 m/s², the force required is 1 Newton, which is the SI unit for force. Option A (One dyne) is incorrect because dyne is a smaller unit of force in the centimeter-gram-second system. Option C (10 Kg) is incorrect because kilogram is a unit of mass, not force. Option D (10 dyne) is incorrect as it represents a much smaller force than 1 Newton.",
+      "explanationImage": null,
+      "hints": [
+        "force",
+        "acceleration"
+      ]
+    },
+    {
+      "text": "The value of μk is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Equal to μs",
+          "isCorrect": false,
+          "explanation": "Kinetic friction coefficient is typically not equal to static friction coefficient due to differing conditions."
+        },
+        {
+          "letter": "B",
+          "text": "Less than μs",
+          "isCorrect": true,
+          "explanation": "The kinetic friction coefficient is usually less than the static friction coefficient because it takes more force to start moving an object than to keep it moving."
+        },
+        {
+          "letter": "C",
+          "text": "Less and equal to μs",
+          "isCorrect": false,
+          "explanation": "While kinetic friction can be less than static friction, it is not 'less and equal' simultaneously."
+        },
+        {
+          "letter": "D",
+          "text": "Greater than μs",
+          "isCorrect": false,
+          "explanation": "Kinetic friction is generally not greater than static friction; it requires less force to keep an object moving than to start its motion."
+        }
+      ],
+      "explanation": "The coefficient of kinetic friction (μk) is generally less than the coefficient of static friction (μs) because it usually requires more force to overcome static friction and start motion than to maintain motion against kinetic friction. Option A is incorrect because μk is not equal to μs; they represent different states of motion. Option C suggests an incorrect expression; it cannot be 'less and equal' at the same time. Option D is incorrect because it is easier to keep an object moving (kinetic friction) than to start it moving (static friction).",
+      "explanationImage": null,
+      "hints": [
+        "value",
+        "μ<sub>k</sub>",
+        "μ<sub>s</sub>"
+      ]
+    },
+    {
+      "text": "When a space ship is out of the pull of the earth",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "It moves with constant velocity",
+          "isCorrect": true,
+          "explanation": "In the absence of external forces, an object in space continues to move at a constant velocity due to Newton's first law of motion."
+        },
+        {
+          "letter": "B",
+          "text": "Zero velocity",
+          "isCorrect": false,
+          "explanation": "If the spaceship had zero velocity, it would be stationary, which is not the case if it's already in motion."
+        },
+        {
+          "letter": "C",
+          "text": "Its velocity starts decreasing",
+          "isCorrect": false,
+          "explanation": "In space, without external forces like friction or gravity, the velocity of an object does not change."
+        },
+        {
+          "letter": "D",
+          "text": "Its speed starts decreasing",
+          "isCorrect": false,
+          "explanation": "Speed does not decrease unless there is an opposing force applied to the object."
+        }
+      ],
+      "explanation": "The correct answer is that the spaceship moves with a constant velocity. According to Newton's first law of motion, an object will remain in its state of rest or uniform motion unless acted upon by an external force. In space, once a spaceship is beyond the Earth's gravitational pull and no other forces are acting on it, it will continue to move at a constant velocity. The other options are incorrect because they suggest changes in velocity or speed, which would require the presence of unbalanced forces.",
+      "explanationImage": null,
+      "hints": [
+        "space ship",
+        "out of",
+        "earth"
+      ]
+    },
+    {
+      "text": "The force of friction on a car wheel, on a road, of mass \"m\" is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "mμ",
+          "isCorrect": false,
+          "explanation": "This option fails to include the gravitational force, which is necessary to determine the normal force on a flat surface."
+        },
+        {
+          "letter": "B",
+          "text": "μmg2",
+          "isCorrect": false,
+          "explanation": "This option incorrectly multiplies the gravitational acceleration by itself, resulting in an overestimation of the frictional force."
+        },
+        {
+          "letter": "C",
+          "text": "μmg",
+          "isCorrect": true,
+          "explanation": "This option correctly applies the formula for frictional force on a flat surface, considering both the coefficient of friction and the normal force, which is equal to the gravitational force mg."
+        },
+        {
+          "letter": "D",
+          "text": "μm2",
+          "isCorrect": false,
+          "explanation": "This option incorrectly uses the square of mass, which is irrelevant in calculating frictional force."
+        }
+      ],
+      "explanation": "The correct answer isμmg. The frictional force (f) on a flat surface is calculated using the formula f = μN, where μ is the coefficient of friction and N is the normal force. On a flat surface, the normal force is equal to the gravitational force exerted by the mass of the car, N = mg. Therefore, the frictional force is f = μmg. The optionmμis incorrect because it ignores the gravitational component necessary for calculating the normal force. The optionμmg2overestimates the frictional force by including an extra factor of g. Finally,μm2is incorrect because squaring the mass is not relevant to calculating frictional force.",
+      "explanationImage": null,
+      "hints": [
+        "force",
+        "friction"
+      ]
+    },
+    {
+      "text": "A body whose speed is constant has",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "zero velocity",
+          "isCorrect": false,
+          "explanation": "Velocity includes both speed and direction. A body can have constant speed but still change direction, meaning velocity isn't necessarily zero."
+        },
+        {
+          "letter": "B",
+          "text": "zero acceleration",
+          "isCorrect": true,
+          "explanation": "Acceleration is the rate of change of velocity. If speed is constant, acceleration must be zero as velocity is not changing."
+        },
+        {
+          "letter": "C",
+          "text": "A & B",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because while the acceleration is zero, the velocity is not necessarily zero."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because there is a correct choice among the given options."
+        }
+      ],
+      "explanation": "The correct answer is zero acceleration. When a body's speed is constant, its velocity remains unchanged, meaning there is no acceleration. Option A is incorrect because a body with constant speed can have a non-zero velocity. Option C is incorrect because the velocity is not zero. Option D is incorrect because option B is a correct statement.",
+      "explanationImage": null,
+      "hints": [
+        "body",
+        "speed",
+        "constant"
+      ]
+    },
+    {
+      "text": "Average velocity is the rate of change of",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Speed",
+          "isCorrect": false,
+          "explanation": "Speed refers to how fast something is moving, but it does not account for direction, which is essential for calculating velocity."
+        },
+        {
+          "letter": "B",
+          "text": "Torque",
+          "isCorrect": false,
+          "explanation": "Torque is related to rotational motion and is not directly involved in the concept of average velocity."
+        },
+        {
+          "letter": "C",
+          "text": "Displacement",
+          "isCorrect": true,
+          "explanation": "Displacement is the straight-line distance between the initial and final positions and includes direction, making it the correct factor for determining average velocity."
+        },
+        {
+          "letter": "D",
+          "text": "Velocity",
+          "isCorrect": false,
+          "explanation": "Velocity is a vector quantity that includes both speed and direction, but the question asks for the rate of change, which is specific to displacement when calculating average velocity."
+        }
+      ],
+      "explanation": "Average velocity is defined as the total displacement divided by the total time taken. Displacement is a vector quantity that considers both magnitude and direction, making it the correct answer. Speed is a scalar quantity and does not involve direction, which is necessary for velocity calculations. Torque is related to rotational forces and not directly relevant to linear motion. While velocity is indeed the rate of displacement, the question specifically asks for what average velocity is the rate of change of, which is displacement.",
+      "explanationImage": null,
+      "hints": [
+        "rate",
+        "change",
+        "displacement"
+      ]
+    },
+    {
+      "text": "Motion along a line is called",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Motion in one dimension",
+          "isCorrect": true,
+          "explanation": "This refers to motion that occurs along a single straight line, requiring only one coordinate to describe its position."
+        },
+        {
+          "letter": "B",
+          "text": "Motion in two dimensions",
+          "isCorrect": false,
+          "explanation": "This type of motion involves movement along a plane, requiring two coordinates to describe the position, such as movement on a flat surface like a table."
+        },
+        {
+          "letter": "C",
+          "text": "Motion in three dimensions",
+          "isCorrect": false,
+          "explanation": "This motion takes place in space and requires three coordinates to describe the position, like the movement of an airplane in the sky."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "This option suggests that none of the given options are correct, which is not the case here."
+        }
+      ],
+      "explanation": "The correct answer is 'Motion in one dimension' because motion along a line only requires a single coordinate to describe its position. This is distinct from 'Motion in two dimensions,' which involves a plane and requires two coordinates, and 'Motion in three dimensions,' which involves space and requires three coordinates. 'None of these' is incorrect since the correct option is provided.",
+      "explanationImage": null,
+      "hints": [
+        "Motion",
+        "along",
+        "line"
+      ]
+    },
+    {
+      "text": "The mass of an object is a quantitative measure of it's",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Force",
+          "isCorrect": false,
+          "explanation": "Force is an interaction that changes the motion of an object, not a measure of its mass."
+        },
+        {
+          "letter": "B",
+          "text": "Velocity",
+          "isCorrect": false,
+          "explanation": "Velocity describes the speed and direction of an object's motion, not its mass."
+        },
+        {
+          "letter": "C",
+          "text": "Inertia",
+          "isCorrect": true,
+          "explanation": "Inertia is the property of an object to resist changes in its state of motion, which is directly related to its mass."
+        },
+        {
+          "letter": "D",
+          "text": "All of them",
+          "isCorrect": false,
+          "explanation": "Not all these terms are measures of mass. Inertia is the only one directly related to mass."
+        }
+      ],
+      "explanation": "The correct answer is Inertia. Mass is a measure of an object's inertia, which is its tendency to resist changes to its motion. The greater the mass, the greater the inertia. This means more force is required to change the motion of an object with more mass. Force is not a measure of mass; it is an influence that can change the motion of an object. Velocity is the speed of something in a given direction and is unrelated to mass. The option All of them is incorrect because only inertia is a measure of mass.",
+      "explanationImage": null,
+      "hints": [
+        "mass",
+        "quantitative",
+        "measure"
+      ]
+    },
+    {
+      "text": "A stone has a mass of 40 grams, It weight is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "128 N",
+          "isCorrect": false,
+          "explanation": "This option assumes a much larger mass or gravitational acceleration, which is not applicable here."
+        },
+        {
+          "letter": "B",
+          "text": "0.392 N",
+          "isCorrect": true,
+          "explanation": "This is the correct calculation using Earth's gravitational acceleration of approximately 9.8 m/s²."
+        },
+        {
+          "letter": "C",
+          "text": "128 dynes",
+          "isCorrect": false,
+          "explanation": "Dynes are a unit of force in the CGS system. Converting 0.392 N to dynes would yield a different value."
+        },
+        {
+          "letter": "D",
+          "text": "39 N",
+          "isCorrect": false,
+          "explanation": "This option likely results from a misunderstanding or miscalculation of the weight formula."
+        }
+      ],
+      "explanation": "To find the weight of the stone, we use the formula Weight = mass × gravitational acceleration. The mass of the stone is 40 grams, which is 0.04 kg (since 1 kg = 1000 grams). The standard gravitational acceleration on Earth is approximately 9.8 m/s². Thus, the weight = 0.04 kg × 9.8 m/s² = 0.392 N. Option B is correct. Option A assumes an incorrect scenario, Option C uses a different unit (dynes), which isn't the correct conversion, and Option D reflects a miscalculation.",
+      "explanationImage": null,
+      "hints": [
+        "stone",
+        "mass",
+        "weight"
+      ]
+    },
+    {
+      "text": "An object whose mass is 100 gm starts from rest and moves with constant acceleration of 20 cm sec2 at the end 8 sec its momentum is in gm. cm /sec",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "16000",
+          "isCorrect": true,
+          "explanation": "Correct! The momentum is calculated using the formula: momentum = mass × velocity."
+        },
+        {
+          "letter": "B",
+          "text": "200",
+          "isCorrect": false,
+          "explanation": "This answer might result from a miscalculation. Ensure you correctly apply the formula for velocity."
+        },
+        {
+          "letter": "C",
+          "text": "100",
+          "isCorrect": false,
+          "explanation": "This value is incorrect. Remember that velocity is not simply the acceleration value."
+        },
+        {
+          "letter": "D",
+          "text": "7000",
+          "isCorrect": false,
+          "explanation": "This is an incorrect calculation. Consider checking your final velocity computation."
+        }
+      ],
+      "explanation": "To find the momentum, we first calculate the velocity of the object at the end of 8 seconds using the formula: velocity = initial velocity + (acceleration × time). Since the object starts from rest, the initial velocity is 0. Therefore, velocity = 0 + (20 cm/s² × 8 s) = 160 cm/s. The momentum is then calculated using the formula: momentum = mass × velocity. Here, the mass is 100 g and the velocity is 160 cm/s, thus the momentum = 100 g × 160 cm/s = 16000 g·cm/s. Other options are incorrect due to errors in calculating velocity or improperly applying the momentum formula.",
+      "explanationImage": null,
+      "hints": [
+        "mass",
+        "acceleration",
+        "momentum"
+      ]
+    },
+    {
+      "text": "The force which will accelerate a 10 Kg mass at 98 cm/sec2 on a smooth horizontal plane is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "9.8 N",
+          "isCorrect": true,
+          "explanation": "Correct! Using the formula F = m * a, where m = 10 kg and a = 98 cm/sec2 (which is 0.98 m/sec2), the force is 9.8 N."
+        },
+        {
+          "letter": "B",
+          "text": "98 N",
+          "isCorrect": false,
+          "explanation": "Incorrect. This would be the force if the acceleration was 9.8 m/sec2, not 0.98 m/sec2."
+        },
+        {
+          "letter": "C",
+          "text": "980 N",
+          "isCorrect": false,
+          "explanation": "Incorrect. This result mistakenly uses an incorrect conversion or calculation of acceleration."
+        },
+        {
+          "letter": "D",
+          "text": "70 N",
+          "isCorrect": false,
+          "explanation": "Incorrect. This is not derived from the correct calculation of the force using the given mass and acceleration."
+        }
+      ],
+      "explanation": "To find the force, we use the formula F = m * a, where F is the force, m is the mass, and a is the acceleration. Given that the mass (m) is 10 kg and the acceleration (a) is 98 cm/sec2, we first convert acceleration to meters per second squared: 98 cm/sec2 = 0.98 m/sec2. Therefore, F = 10 kg * 0.98 m/sec2 = 9.8 N. The correct answer is 9.8 N. Other options are incorrect due to either wrong conversion of units or incorrect multiplication.",
+      "explanationImage": null,
+      "hints": [
+        "force",
+        "accelerate",
+        "mass"
+      ]
+    },
+    {
+      "text": "A string passes over a smooth pulley and carries a 2 Kg mass at one end and 1 Kg mass at the other. What is the acceleration of the masses?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.27 m / sec2",
+          "isCorrect": true,
+          "explanation": "This is the correct acceleration, calculated by considering the net force acting on the system and using Newton's second law."
+        },
+        {
+          "letter": "B",
+          "text": "19.6 m / sec2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it represents the acceleration due to gravity, not the net acceleration of the system."
+        },
+        {
+          "letter": "C",
+          "text": "4.9 m / sec2",
+          "isCorrect": false,
+          "explanation": "This is incorrect and might be a miscalculation; it could be confused with a different scenario involving gravity."
+        },
+        {
+          "letter": "D",
+          "text": "170 m / sec2",
+          "isCorrect": false,
+          "explanation": "This value is unrealistically high for this scenario and suggests a misunderstanding of the forces involved."
+        }
+      ],
+      "explanation": "To find the acceleration of the system, first identify the forces acting on the masses. For the 2 Kg mass, the force is 2g (where g = 9.8 m/s²), and for the 1 Kg mass, the force is 1g. The net force on the system is the difference in these gravitational forces, which is (2g - 1g) = 1g. Applying Newton's second law (F = ma) to the entire system (total mass = 2 Kg + 1 Kg = 3 Kg), we get:Net force = total mass × acceleration => 1g = 3aTherefore, a = g/3 = 9.8/3 ≈ 3.27 m/s².Option A is correct as it reflects this calculation. Option B represents the acceleration due to gravity and is not applicable here. Option C is incorrect as it does not match the calculated value, and Option D is an unrealistic and incorrect value for this situation.",
+      "explanationImage": null,
+      "hints": [
+        "smooth pulley",
+        "mass",
+        "acceleration"
+      ]
+    },
+    {
+      "text": "If the change in momentum with respect ot time is zero then",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Some force acts",
+          "isCorrect": false,
+          "explanation": "If a force acts, there would be a change in momentum over time, which contradicts the condition given in the question."
+        },
+        {
+          "letter": "B",
+          "text": "Momentum is zero",
+          "isCorrect": false,
+          "explanation": "Momentum being zero is not necessarily related to the change in momentum over time being zero. Momentum can be zero or non-zero while still being constant."
+        },
+        {
+          "letter": "C",
+          "text": "Momentum is constant",
+          "isCorrect": true,
+          "explanation": "When the change in momentum over time is zero, it implies that the momentum does not change, meaning it is constant. This is the correct interpretation."
+        },
+        {
+          "letter": "D",
+          "text": "Force changes",
+          "isCorrect": false,
+          "explanation": "If the force changes, it would result in a change in momentum over time, which is opposite to the condition provided in the question."
+        }
+      ],
+      "explanation": "The correct answer is that the momentum is constant. The rate of change of momentum with respect to time is equal to the force acting on the object according to Newton's second law. If this rate of change is zero, it means that no net force is acting on the object, thus the momentum remains constant. Option A is incorrect because if a force acts, it would cause a change in momentum. Option B incorrectly assumes that zero change in momentum implies zero momentum, which is not necessarily true. Option D is incorrect because a changing force would imply a changing momentum.",
+      "explanationImage": null,
+      "hints": [
+        "change",
+        "momentum",
+        "time"
+      ]
+    },
+    {
+      "text": "When a falling object reaches a speed where the force of ait resistance is equal to its weight it",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Is flying",
+          "isCorrect": false,
+          "explanation": "Flying typically refers to moving through the air using wings or propulsion, not reaching a balance between forces."
+        },
+        {
+          "letter": "B",
+          "text": "Has reached its terminal velocity",
+          "isCorrect": true,
+          "explanation": "Terminal velocity is reached when the force of air resistance equals the weight of the object, resulting in a constant speed."
+        },
+        {
+          "letter": "C",
+          "text": "Will begin to slow down",
+          "isCorrect": false,
+          "explanation": "The object will not slow down because the forces are balanced, causing it to move at a constant speed."
+        },
+        {
+          "letter": "D",
+          "text": "Zero velocity",
+          "isCorrect": false,
+          "explanation": "Zero velocity implies no movement, but the object is moving at a constant speed when forces are balanced."
+        }
+      ],
+      "explanation": "When an object falls through the air, gravity pulls it downward, increasing its speed. As its speed increases, the force of air resistance also increases. Eventually, the force of air resistance becomes equal to the object's weight. At this point, the object stops accelerating and continues to fall at a constant speed, known as terminal velocity. Therefore, option B is correct. Option A is incorrect because 'flying' involves a different concept of movement. Option C is wrong because the object does not slow down; it maintains a constant speed. Option D is incorrect because the object is not stationary; it is moving at a terminal velocity.",
+      "explanationImage": null,
+      "hints": [
+        "falling object",
+        "force",
+        "speed"
+      ]
+    },
+    {
+      "text": "the bullet fired from a gun has momentum, which is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Equal to recoil of gun",
+          "isCorrect": true,
+          "explanation": "According to the law of conservation of momentum, the total momentum before and after firing must be equal. Before firing, the system (gun plus bullet) is at rest, so their combined momentum is zero. After firing, the momentum of the bullet is equal and opposite to the momentum of the gun's recoil, maintaining the total momentum at zero."
+        },
+        {
+          "letter": "B",
+          "text": "Less than recoil of gun",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because if the bullet's momentum were less than the gun's recoil, it would violate the law of conservation of momentum."
+        },
+        {
+          "letter": "C",
+          "text": "Greater than recoil of gun",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because if the bullet's momentum were greater than the gun's recoil, it would violate the law of conservation of momentum."
+        },
+        {
+          "letter": "D",
+          "text": "Anything is possible",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the scenario must obey the law of conservation of momentum, which dictates that the bullet's momentum and the gun's recoil are equal and opposite."
+        }
+      ],
+      "explanation": "When a bullet is fired from a gun, the gun and bullet exert equal and opposite forces on each other. According to the law of conservation of momentum, the momentum of the bullet is equal in magnitude and opposite in direction to the momentum of the gun's recoil. This ensures that the total momentum of the system (bullet and gun) remains zero, as it was before the firing. Therefore, the bullet's momentum is equal to the recoil of the gun. Other options suggesting different momenta would violate this fundamental principle of physics.",
+      "explanationImage": null,
+      "hints": [
+        "momentum",
+        "recoil",
+        "gun"
+      ]
+    },
+    {
+      "text": "If the values of instantaneous and average velocities are equal, the body is said to be moving with",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Uniform acceleration",
+          "isCorrect": false,
+          "explanation": "Uniform acceleration means the velocity is changing at a constant rate, so instantaneous velocity may not equal average velocity."
+        },
+        {
+          "letter": "B",
+          "text": "Uniform speed",
+          "isCorrect": false,
+          "explanation": "Uniform speed refers to constant speed, but it doesn't imply a constant direction, so the velocity could change."
+        },
+        {
+          "letter": "C",
+          "text": "Variable velocity",
+          "isCorrect": false,
+          "explanation": "Variable velocity means the velocity is changing over time, hence instantaneous and average velocities cannot be equal."
+        },
+        {
+          "letter": "D",
+          "text": "Uniform velocity",
+          "isCorrect": true,
+          "explanation": "Uniform velocity means both the speed and direction are constant, resulting in instantaneous velocity being equal to average velocity."
+        }
+      ],
+      "explanation": "The correct answer is Uniform velocity. When a body moves with uniform velocity, it means that both its speed and direction are constant over time. As a result, the instantaneous velocity at any point in time is equal to the average velocity over any time interval. Conversely, with Uniform acceleration, the velocity changes over time, so instantaneous and average velocities differ. Uniform speed only implies constant speed, not direction, so velocity can vary. Variable velocity explicitly means the velocity is changing, making the instantaneous and average velocities different.",
+      "explanationImage": null,
+      "hints": [
+        "instantaneous",
+        "average",
+        "equal"
+      ]
+    },
+    {
+      "text": "Acceleration of bodies of different masses allowed to fall freely is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Different for different heights",
+          "isCorrect": false,
+          "explanation": "Acceleration due to gravity is constant for all heights near Earth's surface."
+        },
+        {
+          "letter": "B",
+          "text": "Different for different bodies",
+          "isCorrect": false,
+          "explanation": "In the absence of air resistance, all bodies fall at the same acceleration due to gravity."
+        },
+        {
+          "letter": "C",
+          "text": "The same",
+          "isCorrect": true,
+          "explanation": "All objects, regardless of mass, experience the same acceleration when falling freely under gravity."
+        },
+        {
+          "letter": "D",
+          "text": "Variable",
+          "isCorrect": false,
+          "explanation": "The acceleration due to gravity is not variable for freely falling objects near Earth's surface."
+        }
+      ],
+      "explanation": "The correct answer is that the acceleration of bodies of different masses allowed to fall freely is the same. This is due to the principle of uniform acceleration under gravity, which states that all objects experience the same gravitational acceleration, approximately 9.81 m/s² near the surface of the Earth, regardless of their mass. Option A is incorrect because the acceleration due to gravity is constant near the Earth's surface. Option B is incorrect because mass does not affect the acceleration of freely falling bodies in a vacuum. Option D is incorrect because the acceleration due to gravity is not variable but constant in such conditions.",
+      "explanationImage": null,
+      "hints": [
+        "Acceleration",
+        "fall",
+        "freely"
+      ]
+    },
+    {
+      "text": "If a body is moving with constant acceleration, then",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Its direction may be changing",
+          "isCorrect": false,
+          "explanation": "Constant acceleration doesn't necessarily imply a change in direction; it depends on the initial direction and any forces acting on the body."
+        },
+        {
+          "letter": "B",
+          "text": "Its acceleration is zero",
+          "isCorrect": false,
+          "explanation": "If the body has constant acceleration, it means the acceleration is not zero; the velocity is changing at a consistent rate."
+        },
+        {
+          "letter": "C",
+          "text": "Its velocity is increasing",
+          "isCorrect": true,
+          "explanation": "With constant acceleration, the velocity changes at a steady rate. This means the velocity can increase if the acceleration is in the same direction as the velocity."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "There is a correct statement among the options; hence 'None of these' is incorrect."
+        }
+      ],
+      "explanation": "The correct answer is Option C: Its velocity is increasing. When a body moves with constant acceleration, its velocity changes uniformly over time. If the acceleration is positive and in the direction of motion, the velocity increases. Option A is incorrect because constant acceleration does not inherently imply a change in direction. Option B is incorrect because constant acceleration means the acceleration is not zero; rather, it is steady. Option D is incorrect because there is a correct choice among the provided options.",
+      "explanationImage": null,
+      "hints": [
+        "moving",
+        "constant",
+        "acceleration"
+      ]
+    }
+  ]
+}

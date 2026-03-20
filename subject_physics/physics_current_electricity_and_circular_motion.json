@@ -1,0 +1,2339 @@
+{
+  "questions": [
+    {
+      "text": "Two heaters A and B are connected in parallel across the supply voltage. Heater A produces 500 kJ in 20 minutes and B produces 1000 kJ in 10 minutes. The resistance of A is 100 Ω . If the same heaters are connected in series across the same voltage, the heat produced in 5 minutes will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "200 kJ",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The correct calculation yields 100 kJ. When connected in series, the total resistance increases, reducing the current and thus the heat produced."
+        },
+        {
+          "letter": "B",
+          "text": "100 kJ",
+          "isCorrect": true,
+          "explanation": "According to the calculation given below, the correct answer is 100kJ. Hence, this option is correct. We use the formula,H = I²RtWe can also put I=V/R in the above equation according to Ohm's law."
+        },
+        {
+          "letter": "C",
+          "text": "50 kJ",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The correct calculation yields 100 kJ. The heat produced is greater than 50 kJ due to both resistances contributing to the total resistance in series."
+        },
+        {
+          "letter": "D",
+          "text": "10 kJ",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The correct calculation yields 100 kJ. Heat production is significantly more than 10 kJ when both heaters are in series."
+        }
+      ],
+      "explanation": "To solve this problem, we start by calculating the power of each heater in parallel. Heater A operates at 500 kJ in 20 minutes, which translates to a power of 500 kJ/1200 seconds = 416.67 W. Heater B operates at 1000 kJ in 10 minutes, translating to a power of 1000 kJ/600 seconds = 1666.67 W.Using P = V²/R, we determine the voltage across each heater. Since heater A's resistance is 100 Ω, its voltage is √(416.67 W * 100 Ω) = 204.12 V.When connected in series, the total resistance is the sum of the resistances of A and B. Assuming the same supply voltage, the current through both heaters is lower, reducing the total power and thus the heat produced. Using the formula H = I²Rt, with the new current and the total series resistance, we find the heat produced is 100 kJ in 5 minutes.Options 200 kJ, 50 kJ, and 10 kJ are incorrect because they miscalculate the effect of the series connection on the total resistance and current.",
+      "explanationImage": null,
+      "hints": [
+        "parallel",
+        "series",
+        "500 kJ in 20 minutes",
+        "1000 kJ in 10 minutes",
+        "100 Ω ."
+      ]
+    },
+    {
+      "text": "In the circuit shown in the figure, current through the 5 Ω resistor is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1 A",
+          "isCorrect": false,
+          "explanation": "The given circuit is a balanced Wheatstone bridge. So, the current through the 5Ω resistor is zero. Hence, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "2 A",
+          "isCorrect": false,
+          "explanation": "The given circuit is a balanced Wheatstone bridge. So, the current through the 5Ω resistor is zero. Hence, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "The given circuit is a balanced Wheatstone bridge. So, the current through the 5Ω resistor is zero. Hence, this option is correct. RAC​=(8∥4)=8×4/8+4​=32/12​=2.667 Ω.Path C→B→D resistance =5+8=13 Ω.13 Ω in parallel with 16 Ω⇒RCD=13×16/13+16=208/29=7.172 ΩReq​=2.667+7.172=9.839 Ω. Itot=10/9.839=1.0166 AVoltage across C ⁣− ⁣D: V=Itot×RCD=1.0166×7.172=7.289 VCurrent through 5 Ω (same as through C ⁣B ⁣D series): I=7.289/13=0.561 A≈0.56 A"
+        },
+        {
+          "letter": "D",
+          "text": "0.5 A",
+          "isCorrect": false,
+          "explanation": "The given circuit is a balanced Wheatstone bridge. So, the current through the 5Ω resistor is zero. Hence, this option is incorrect."
+        }
+      ],
+      "explanation": "Option C is correct because the given circuit is a balanced Wheatstone bridge. So, the current through the 5Ω resistor is zero.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A wire of resistance R is stretched till its length is double that of the original wire. Then, the resistance of the stretched wire is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2R",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Doubling the length of the wire without considering the change in cross-sectional area would lead to incorrect results. The area reduces, affecting the resistance more significantly."
+        },
+        {
+          "letter": "B",
+          "text": "4R",
+          "isCorrect": true,
+          "explanation": "If the length of the wire is doubled the resistance will become four times. This is because on stretching the wire, not only the length becomes double but the area also reduces to half. According to fomula, R= ρL/AIf L'=2L and A'=A/2, the resistance becomes R'=4RHence, this option is correct."
+        },
+        {
+          "letter": "C",
+          "text": "8R",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It overestimates the increase in resistance by ignoring the actual mathematical relationship between length, area, and resistance."
+        },
+        {
+          "letter": "D",
+          "text": "16R",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It greatly exaggerates the effect of stretching on the resistance and does not follow from the correct application of the formula."
+        }
+      ],
+      "explanation": "When a wire is stretched to double its original length, its cross-sectional area is reduced by half due to the conservation of volume. Resistance is calculated using the formula R = ρL/A, where ρ is the resistivity, L is the length, and A is the cross-sectional area. With the new length L' = 2L and new area A' = A/2, the resistance becomes R' = ρ(2L)/(A/2) = 4(ρL/A) = 4R. Therefore, the resistance of the stretched wire is 4R. Options A, C, and D are incorrect as they do not accurately account for the relationships between length, area, and resistance.",
+      "explanationImage": null,
+      "hints": [
+        "stretched",
+        "length",
+        "double"
+      ]
+    },
+    {
+      "text": "Ohm's law establishes a relation between:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Current and voltage",
+          "isCorrect": true,
+          "explanation": "Ohm's Law states that current through a conductor between 2 points is directly proportional to the potential difference across the 2 points. I ∝ V {the constant of proportionality is the resistance of the conductor} I = V / R"
+        },
+        {
+          "letter": "B",
+          "text": "Resistance and voltage",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as Ohm's law establishes relation between current and voltage i.e. I∝V."
+        },
+        {
+          "letter": "C",
+          "text": "Charge and voltage",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as Ohm's law establishes relation between current and voltage i.e. I∝V."
+        },
+        {
+          "letter": "D",
+          "text": "Current and resistance",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as Ohm's law establishes relation between current and voltage i.e. I∝V."
+        }
+      ],
+      "explanation": "Ohm's Law states that current through a conductor between 2 points is directly proportional to the potential difference across the 2 points. I ∝ V {the constan proportionality is the resistance of the conductor} I = V / R",
+      "explanationImage": null,
+      "hints": [
+        "relation"
+      ]
+    },
+    {
+      "text": "The following four wires are made of the same material and are at the same temperature. Which one of them has highest electrical resistance?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "length = 100 cm, diameter = 1 mm",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given."
+        },
+        {
+          "letter": "B",
+          "text": "length = 200 cm, diameter = 2 mm",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given."
+        },
+        {
+          "letter": "C",
+          "text": "length = 50 cm, diameter = 0.5 mm",
+          "isCorrect": true,
+          "explanation": "resistance = (resistivity x length) / areaAs they are made of the same material, they have the same resistivityso, R = l / AFor highest resistance, l / A should be maximum which is true in this case only."
+        },
+        {
+          "letter": "D",
+          "text": "length = 300 cm, diameter = 3 mm",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given."
+        }
+      ],
+      "explanation": "resistance = (resistivity x length) / areaas they are made of the same material, they have the same resistivityso, R = l / Afor highest resistance, l / A should be maximum which is true in option C only.",
+      "explanationImage": null,
+      "hints": [
+        "same",
+        "highest"
+      ]
+    },
+    {
+      "text": "When the length and area of cross-section both are doubled, then its resistance",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Will become half",
+          "isCorrect": false,
+          "explanation": "This would be true if only the cross-sectional area increased while the length remained constant."
+        },
+        {
+          "letter": "B",
+          "text": "Will remain the same",
+          "isCorrect": true,
+          "explanation": "When both the length and area of cross-section are doubled, the resistance remains unchanged according to the formula."
+        },
+        {
+          "letter": "C",
+          "text": "Will be doubled",
+          "isCorrect": false,
+          "explanation": "Doubling the length without changing the area would double the resistance, but that's not the case here."
+        },
+        {
+          "letter": "D",
+          "text": "Will become four times",
+          "isCorrect": false,
+          "explanation": "This option assumes both length and resistance increase quadratically, which is incorrect."
+        }
+      ],
+      "explanation": "Explanation is given below.",
+      "explanationImage": null,
+      "hints": [
+        "length",
+        "area of cross-section"
+      ]
+    },
+    {
+      "text": "A wire of resistance R is cut into two equal parts, its resistance becomes R/2, what hapens to resistivity:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Double",
+          "isCorrect": false,
+          "explanation": "Resistivity is a property of the material, unaffected by changes in the wire's dimensions. Thus, it does not double when the wire is cut."
+        },
+        {
+          "letter": "B",
+          "text": "Same",
+          "isCorrect": true,
+          "explanation": "Resistivity depends only on the material and temperature, not on the wire's dimensions. Since the material and temperature remain unchanged, the resistivity stays the same."
+        },
+        {
+          "letter": "C",
+          "text": "Half",
+          "isCorrect": false,
+          "explanation": "Though the resistance of a wire changes when its length changes, the resistivity is a constant for a given material and is unaffected by cutting the wire."
+        },
+        {
+          "letter": "D",
+          "text": "One fourth",
+          "isCorrect": false,
+          "explanation": "The resistivity of a material is independent of its shape or size. It remains constant regardless of how the wire is divided."
+        }
+      ],
+      "explanation": "Resistivity is a material-specific property that does not change with alterations in the physical dimensions of the wire, such as length or cross-sectional area. It is determined by the nature of the material and its temperature. In this scenario, even though the wire is cut into two equal parts, resulting in a change in resistance, the resistivity remains constant because it is not influenced by the wire's dimensions. Thus, the correct answer is that the resistivity stays the same. Incorrect options suggest a change in resistivity, which is misleading because resistivity is unaffected by changes in the length or cross-sectional area of the wire.",
+      "explanationImage": null,
+      "hints": [
+        "cut",
+        "resistance"
+      ]
+    },
+    {
+      "text": "A new flashlight cell of emf 1.5 volts gives a current of 15 A, when connected directly to a ammeter of resistance 0.04Ω. The internal resistance of cell is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.04Ω",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given"
+        },
+        {
+          "letter": "B",
+          "text": "0.10Ω",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given"
+        },
+        {
+          "letter": "C",
+          "text": "0.06Ω",
+          "isCorrect": true,
+          "explanation": "I=E/R+rWhere:E = EMF of cell=1.5VR = external resistance (ammeter)=R=0.04Ωr = internal resistance of cell=r=?I=Current through ammeter: I=15 A15=1.5/0.04+r0.04+r=1.5/150.04+r=0.1r=0.1-0.04r=0.06Ω"
+        },
+        {
+          "letter": "D",
+          "text": "10Ω",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given below."
+        }
+      ],
+      "explanation": "I=E/R+rWhere:E = EMF of cell=1.5VR = external resistance (ammeter)=R=0.04Ωr = internal resistance of cell=r=?I=Current through ammeter: I=15 A15=1.5/0.04+r0.04+r=1.5/150.04+r=0.1r=0.1-0.04r=0.06Ω",
+      "explanationImage": null,
+      "hints": [
+        "directly"
+      ]
+    },
+    {
+      "text": "A heater coil is cut into two equal parts and only one part is now used in the heater. The heat generated wilI now be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Halved",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given."
+        },
+        {
+          "letter": "B",
+          "text": "Four times",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given."
+        },
+        {
+          "letter": "C",
+          "text": "One-fourth",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given."
+        },
+        {
+          "letter": "D",
+          "text": "Doubled",
+          "isCorrect": true,
+          "explanation": "According to Joule's law,H=I²RtWhen the coil is cut into two halves, the resistance is also halved whereas the current is doubled.H' = (2I)²(R/2)t = 4I² × R/2 × t = 2I²RtH' =2HHence, the heat generated is doubled."
+        }
+      ],
+      "explanation": "H = I2Rt → H' = (2I)2 (R/2)t → H' = 2H",
+      "explanationImage": null,
+      "hints": [
+        "equal"
+      ]
+    },
+    {
+      "text": "A 100 W, 200V bulb is connected to a 160 V supply. The actual power consumption would be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "64 W",
+          "isCorrect": true,
+          "explanation": "We use the formula,R = V2/P = (200)2/100 = 400Ω P = V2/R = (160)2/400 = 64 WattHence, this option is correct."
+        },
+        {
+          "letter": "B",
+          "text": "100 W",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation."
+        },
+        {
+          "letter": "C",
+          "text": "72W",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation."
+        },
+        {
+          "letter": "D",
+          "text": "90W",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given below."
+        }
+      ],
+      "explanation": "R = V2/P = (200)2/100 = 400Ω P = V2/R = (160)2/400 = 64 Watt",
+      "explanationImage": null,
+      "hints": [
+        "actual"
+      ]
+    },
+    {
+      "text": "You are given four bulbs of 25W, 40W, 50W and 60W. Which bulb has the lowest resistance?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "25 W",
+          "isCorrect": false,
+          "explanation": "The bulb having the highest power has lowest resistance and vice versa. As the power of this bulb is lowest, its resistance will be highest. Hence, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "60 W",
+          "isCorrect": true,
+          "explanation": "As this bulb has highest power, its resistance will be lowest. Hence, this option is correct."
+        },
+        {
+          "letter": "C",
+          "text": "50 W",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as the correct option is B."
+        },
+        {
+          "letter": "D",
+          "text": "40 W",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as the correct option is B."
+        }
+      ],
+      "explanation": "The resistance of high power devices is smaller than the low power ones. The resistance of 60 watt bulb is smaller than 40 watt bulb and so on P=V2/R For a given voltage, P = 1/R. So, 60 W bulb has the lowest resistance.",
+      "explanationImage": null,
+      "hints": [
+        "lowest"
+      ]
+    },
+    {
+      "text": "A cell of internal resistance 2.0Ω and electromotive force (e.m.f) 1.5V is connected to a resistor of resistance 3.0Ω. What is the potential difference across the 3.0Ω resistor?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": 2017,
+      "options": [
+        {
+          "letter": "A",
+          "text": "5V",
+          "isCorrect": false,
+          "explanation": "This option suggests that the potential difference across the resistor is 5 volts however, calculations show that the value of the potential difference is 0.9 volts. This option is thus incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "1.2V",
+          "isCorrect": false,
+          "explanation": "This option suggests that the potential difference across the resistor is 1.2 volts however, calculations show that the value of the potential difference is 0.9 volts. This option is thus incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "0.9V",
+          "isCorrect": true,
+          "explanation": "Rtotal = Internal resistance of the cell + Resistance of the external resistorRtotal = 2.0Ω + 3.0ΩRtotal = 5.0ΩCalculate the current (I) flowing through the circuit using Ohm's law:I = (e.m.f) / Rtotal )I = 1.5V / 5.0ΩI = 0.3A (amperes)Finally, calculate the potential difference (V) across the 3.0Ω resistor using Ohm's law:V = I * R (where I is the current and R is the resistance of the resistor)V = 0.3A * 3.0ΩV = 0.9V"
+        },
+        {
+          "letter": "D",
+          "text": "0.6V",
+          "isCorrect": false,
+          "explanation": "This option suggests that the potential difference across the resistor is 0.6 volts however, calculations show that the value of the potential difference is 0.9 volts. This option is thus incorrect."
+        }
+      ],
+      "explanation": "Rtotal = Internal resistance of the cell + Resistance of the external resistorRtotal = 2.0Ω + 3.0ΩRtotal = 5.0ΩCalculate the current (I) flowing through the circuit using Ohm's law:I = (e.m.f) / (Rtotal )I = 1.5V / 5.0ΩI = 0.3A (amperes)Finally, calculate the potential difference (V) across the 3.0Ω resistor using Ohm's law:V = I * R (where I is the current and R is the resistance of the resistor)V = 0.3A * 3.0ΩV = 0.9V",
+      "explanationImage": null,
+      "hints": [
+        "2.0Ω",
+        "1.5V",
+        "3.0Ω",
+        "potential difference"
+      ]
+    },
+    {
+      "text": "One kilowatt-hour is commonly termed as one commercial unit of electric energy which is equal to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.6 × 105 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as 1kWh is equal to 3.6MJ or 3.6×10⁶J."
+        },
+        {
+          "letter": "B",
+          "text": "3.6 × 106 J",
+          "isCorrect": true,
+          "explanation": "This option is correct as 1kWh is equal to 3.6MJ or 3.6×10⁶J."
+        },
+        {
+          "letter": "C",
+          "text": "3.6 × 104 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as 1kWh is equal to 3.6MJ or 3.6×10⁶J."
+        },
+        {
+          "letter": "D",
+          "text": "3.6 × 103 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as 1kWh is equal to 3.6MJ or 3.6×10⁶J."
+        }
+      ],
+      "explanation": "P = E/tE = P×t = 1000 × 3600P = 3.6 × 106 J",
+      "explanationImage": null,
+      "hints": [
+        "commercial"
+      ]
+    },
+    {
+      "text": "Resistance of tungsten wire at 150 oC is 133Ω. Its resistance temperature coefficient is 0.0045/oC. The resistance of this wire at 500oC will be",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "180Ω",
+          "isCorrect": false,
+          "explanation": "This option is too low. It does not account for the significant increase in resistance due to the higher temperature."
+        },
+        {
+          "letter": "B",
+          "text": "225Ω",
+          "isCorrect": false,
+          "explanation": "This value is still underestimated. The resistance increases more than this value when applying the temperature coefficient."
+        },
+        {
+          "letter": "C",
+          "text": "342 Ω",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. It accurately reflects the increase in resistance from 150°C to 500°C using the temperature coefficient of resistance."
+        },
+        {
+          "letter": "D",
+          "text": "317Ω",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect as it does not accurately calculate the increase in resistance at the specified temperature based on the formula."
+        }
+      ],
+      "explanation": "To calculate the resistance of the tungsten wire at 500°C, we can use the formula for resistance change with temperature:R_t = R_0(1 + α(T - T_0))Where:R_t = resistance at the new temperature (500°C)R_0 = initial resistance at 150°C (133Ω)α = temperature coefficient (0.0045/°C)T = final temperature (500°C)T_0 = initial temperature (150°C)Substituting the values:R_t = 133Ω(1 + 0.0045(500 - 150))R_t = 133Ω(1 + 0.0045 * 350)R_t = 133Ω(1 + 1.575)R_t = 133Ω * 2.575 = 342ΩThis confirms that Option C (342Ω) is the correct answer. The other options do not reflect the correct calculations based on the resistance temperature coefficient.",
+      "explanationImage": null,
+      "hints": [
+        "Resistance",
+        "temperature coefficient"
+      ]
+    },
+    {
+      "text": "SI unit of resistivity is _",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ω-m2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The unit Ω-m2 does not correspond to any standard electrical property. The correct unit for resistivity is Ωm."
+        },
+        {
+          "letter": "B",
+          "text": "(Ω-m)-1",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it represents the unit of conductivity, which is the inverse of resistivity."
+        },
+        {
+          "letter": "C",
+          "text": "Ω-m",
+          "isCorrect": true,
+          "explanation": "The formula of resistivity is, ρ = RA/L Putting the units of R, A and L in above equation, ρ = Ω × m²/m = Ωm Hence, this option is correct."
+        },
+        {
+          "letter": "D",
+          "text": "(Ω-m)-2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The unit (Ω-m)-2 does not correspond to resistivity or any common electrical property. The SI unit of resistivity is Ωm."
+        }
+      ],
+      "explanation": "Resistivity (ρ) is a fundamental property of materials that quantifies how strongly a material opposes the flow of electric current. It is given by the equation ρ = RA/L, where R is resistance, A is cross-sectional area, and L is length. Substituting the respective units, we get ρ = Ω × m²/m = Ωm, making Ωm the correct SI unit for resistivity.Option A (Ω-m2) is incorrect because it is not a recognized unit for resistivity. Option B ((Ω-m)-1) is incorrect as it represents the unit of conductivity, the reciprocal of resistivity. Option D ((Ω-m)-2) is incorrect since it does not correspond to any meaningful electrical property.",
+      "explanationImage": null,
+      "hints": [
+        "SI unit",
+        "resistivity"
+      ]
+    },
+    {
+      "text": "Resistivity at a given temperature depends upon",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Area of cross-section",
+          "isCorrect": false,
+          "explanation": "The area of cross-section affects resistance but not the intrinsic resistivity of the material."
+        },
+        {
+          "letter": "B",
+          "text": "Length",
+          "isCorrect": false,
+          "explanation": "Length affects resistance but not the intrinsic resistivity of the material."
+        },
+        {
+          "letter": "C",
+          "text": "Nature of material of conductor",
+          "isCorrect": true,
+          "explanation": "The nature or type of material is a fundamental factor determining its resistivity."
+        },
+        {
+          "letter": "D",
+          "text": "Both length and area",
+          "isCorrect": false,
+          "explanation": "Both length and area affect resistance but do not change the intrinsic resistivity of the material."
+        }
+      ],
+      "explanation": "Resistivity is an intrinsic property of a material and depends on the nature of the material itself. It is independent of the dimensions, such as length and area of cross-section, which influence resistance but not resistivity. Therefore, the correct answer is the nature of the material of the conductor.",
+      "explanationImage": null,
+      "hints": [
+        "Resistivity",
+        "given temperature"
+      ]
+    },
+    {
+      "text": "The terminal potential difference of a cell when short-circuited is: (E = E.M.F. of the cell)",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "E",
+          "isCorrect": false,
+          "explanation": "This option suggests that the terminal potential difference of the cell when short-circuited is equal to the EMF (E) of the cell. In other words, there is no drop in potential across the internal resistance of the cell when it is short-circuited. Hence, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "E/2",
+          "isCorrect": false,
+          "explanation": "This option suggests that the terminal potential difference of the cell when short-circuited is half of its EMF (E). It implies that there is some drop in potential across the internal resistance of the cell when it is short-circuited. Hence, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "This option suggests that the terminal potential difference of the cell becomes zero when it is short-circuited. It means that the entire EMF is consumed by the internal resistance, and no potential difference remains across the terminals. Hence, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "E/3",
+          "isCorrect": false,
+          "explanation": "This option suggests that the terminal potential difference of the cell when short-circuited is one-third of its EMF (E). It implies that there is a partial drop in potential across the internal resistance of the cell when it is short-circuited. Hence, this option is incorrect."
+        }
+      ],
+      "explanation": "The correct option is: c) Zero. When a cell is short-circuited, the current flows with minimum resistance directly between its terminals, and the potential difference across the cell becomes zero. The entire EMF is used to overcome the internal resistance of the cell, resulting in no potential difference available across the terminals.",
+      "explanationImage": null,
+      "hints": [
+        "terminal potential"
+      ]
+    },
+    {
+      "text": "The rate of flow of electric charge through any cross-section of a conductor is known as _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electric flux",
+          "isCorrect": false,
+          "explanation": "Electric flux refers to the number of electric field lines passing through a given area. It is not related to the flow of electric charge through a conductor."
+        },
+        {
+          "letter": "B",
+          "text": "Electric Potential",
+          "isCorrect": false,
+          "explanation": "Electric potential is the amount of work needed to move a unit charge from a reference point to a specific point within an electric field. It does not describe the flow of charge."
+        },
+        {
+          "letter": "C",
+          "text": "Electric current",
+          "isCorrect": true,
+          "explanation": "Electric current is the correct answer as it is defined as the rate of flow of electric charge through a conductor."
+        },
+        {
+          "letter": "D",
+          "text": "Resistance",
+          "isCorrect": false,
+          "explanation": "Resistance is a measure of how much a material opposes the flow of electric current. It does not describe the rate of flow of charge."
+        }
+      ],
+      "explanation": "The correct answer is Electric current. It is defined as the rate at which electric charge flows through a conductor. Other options are incorrect because:Electric flux is related to electric fields, not charge flow.Electric Potential deals with energy per charge, not the rate of charge flow.Resistance measures opposition to current, not the current itself.",
+      "explanationImage": null,
+      "hints": [
+        "rate",
+        "flow",
+        "electric charge"
+      ]
+    },
+    {
+      "text": "The opposition offered by the electrolyte of the cell to the flow of current through itself is known as _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "External resistance",
+          "isCorrect": false,
+          "explanation": "External resistance refers to the resistance in the external circuit, outside the cell, which does not include the cell's own materials."
+        },
+        {
+          "letter": "B",
+          "text": "Internal resistance",
+          "isCorrect": true,
+          "explanation": "Internal resistance is the opposition to current flow within the cell itself, caused by the materials and reactions inside the cell, leading to some energy loss as heat."
+        },
+        {
+          "letter": "C",
+          "text": "Both",
+          "isCorrect": false,
+          "explanation": "Both external and internal resistances are distinct concepts; they cannot jointly describe the resistance specific to the cell's internal components."
+        },
+        {
+          "letter": "D",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as internal resistance is the well-defined term for the resistance within the cell."
+        }
+      ],
+      "explanation": "The correct answer is internal resistance, which refers to the opposition to the flow of current caused by the materials and reactions within the cell itself. This resistance results in the generation of heat when current flows through the cell. External resistance, on the other hand, pertains to resistance encountered in the circuit components outside the cell. The option 'Both' is incorrect because internal and external resistances are different and cannot be combined to describe the opposition within the cell. The option 'None' is incorrect as there is a specific term for this opposition, which is internal resistance.",
+      "explanationImage": null,
+      "hints": [
+        "opposition",
+        "electrolyte",
+        "flow of current"
+      ]
+    },
+    {
+      "text": "If a substance has negative temperature coefficient its resistance",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increases with an increase in temperature",
+          "isCorrect": false,
+          "explanation": "This is typical of a positive temperature coefficient, where resistance increases as temperature rises. It is not characteristic of a negative temperature coefficient."
+        },
+        {
+          "letter": "B",
+          "text": "Decreases with a decrease in temperature",
+          "isCorrect": false,
+          "explanation": "This behavior would imply a positive relationship with temperature, which is not indicative of a negative temperature coefficient."
+        },
+        {
+          "letter": "C",
+          "text": "Decreases with an increase in temperature",
+          "isCorrect": true,
+          "explanation": "A negative temperature coefficient means that resistance decreases as temperature increases, which is the correct behavior described in this option."
+        },
+        {
+          "letter": "D",
+          "text": "None of the above",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because option C correctly describes the behavior of substances with a negative temperature coefficient."
+        }
+      ],
+      "explanation": "Materials with a negative temperature coefficient exhibit a decrease in resistance as temperature increases. Option C correctly describes this behavior. Option A and B describe scenarios that are typical of positive temperature coefficients, where resistance increases with temperature. Option D is incorrect because option C accurately captures the behavior of a negative temperature coefficient.",
+      "explanationImage": null,
+      "hints": [
+        "negative",
+        "temperature",
+        "coefficient"
+      ]
+    },
+    {
+      "text": "1 horse power = _",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "746 kW",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because 746 kW equals 746,000 W, which is much larger than 1 hp. The correct conversion is 1 hp = 746 W."
+        },
+        {
+          "letter": "B",
+          "text": "746 W",
+          "isCorrect": true,
+          "explanation": "This option is correct as 1 horsepower is defined as being equal to 746 watts. This is the standard conversion factor."
+        },
+        {
+          "letter": "C",
+          "text": "746 mW",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because 746 mW equals 0.746 W, which is much smaller than 1 hp. The correct conversion is 1 hp = 746 W."
+        },
+        {
+          "letter": "D",
+          "text": "746 MW",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because 746 MW equals 746,000,000 W, which is significantly larger than 1 hp. The correct conversion is 1 hp = 746 W."
+        }
+      ],
+      "explanation": "The correct answer is 746 W. One horsepower (hp) is a unit of power that is equivalent to 746 watts (W). This is the accepted standard conversion. The other options are incorrect as they either significantly overestimate or underestimate the power equivalent of 1 hp. Specifically, 746 kW and 746 MW represent much higher power levels, whereas 746 mW represents a much lower power level compared to 746 W.",
+      "explanationImage": null,
+      "hints": [
+        "horse",
+        "power",
+        "1"
+      ]
+    },
+    {
+      "text": "Calculate the amount of charge flowing in 2 minutes in a wire of resistance 10 Ω when a potential difference of 20 V is applied its ends.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 C",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given."
+        },
+        {
+          "letter": "B",
+          "text": "20 C",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given."
+        },
+        {
+          "letter": "C",
+          "text": "240 C",
+          "isCorrect": true,
+          "explanation": "For current,I = V/R = 20/10 = 2AFor chargeQ=It = 2×120 = 240 coulomb"
+        },
+        {
+          "letter": "D",
+          "text": "120 C",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given."
+        }
+      ],
+      "explanation": "I=V/R=20/10=2Q=It=2 x 120=240",
+      "explanationImage": null,
+      "hints": [
+        "charge",
+        "amount"
+      ]
+    },
+    {
+      "text": "A cell is connected to a resistor. What is the e.m.f of the cell equal to?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The potential difference across the resistor for each unit of current",
+          "isCorrect": false,
+          "explanation": "Potential difference relates to the energy per unit charge used in a component, not the e.m.f. which is related to the energy provided by the cell itself."
+        },
+        {
+          "letter": "B",
+          "text": "The power produced in the circuit for each unit of charge that passes",
+          "isCorrect": false,
+          "explanation": "Power is the rate of doing work and is not directly equal to e.m.f. The e.m.f relates to energy per unit charge, not power per unit charge."
+        },
+        {
+          "letter": "C",
+          "text": "The work done in the circuit for each unit of charge that passes",
+          "isCorrect": true,
+          "explanation": "EMF(e) is equal to the amount of work done in carrying a unit positive charge from negative terminal to positive terminal of a cell. Potential difference (V) is the amount of work done in carrying a unit positive charge across a resistor."
+        },
+        {
+          "letter": "D",
+          "text": "The work done in the circuit for each unit of current",
+          "isCorrect": false,
+          "explanation": "Work done per unit current would relate to potential difference and resistance, not directly to e.m.f."
+        }
+      ],
+      "explanation": "The electromotive force (e.m.f) of a cell is the total energy supplied by the cell per unit charge, which means it is the work done to move a charge from the negative terminal to the positive terminal. This is why Option C is correct. Option A is incorrect because it describes potential difference, not e.m.f. Option B is incorrect because power is not directly related to e.m.f in terms of per unit charge. Option D confuses work done per unit current with e.m.f, which is more aligned with potential difference and resistance.",
+      "explanationImage": null,
+      "hints": [
+        "cell",
+        "connected",
+        "resistor"
+      ]
+    },
+    {
+      "text": "A primary cell has an emf of 1.5V, when short circuited it gives a current of 3A. The internal resistance of the cell is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.5 Ω",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Using Ohm's Law, the internal resistance is calculated as 0.5 Ω, not 4.5 Ω."
+        },
+        {
+          "letter": "B",
+          "text": "2 Ω",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The internal resistance is 0.5 Ω, obtained by dividing the emf by the current."
+        },
+        {
+          "letter": "C",
+          "text": "0.5 Ω",
+          "isCorrect": true,
+          "explanation": "This option is correct. Using the formula for internal resistance r = E/I, we have r = 1.5V / 3A = 0.5 Ω."
+        },
+        {
+          "letter": "D",
+          "text": "1/4.5 Ω",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The calculation of internal resistance yields 0.5 Ω, not the reciprocal of 4.5 Ω."
+        }
+      ],
+      "explanation": "The internal resistance of a cell can be calculated using the formula r = E/I, where E is the electromotive force (emf) and I is the current. In this case, the emf is 1.5V and the current is 3A when short-circuited. Therefore, the internal resistance r = 1.5V / 3A = 0.5 Ω. This is why option C is correct. Options A, B, and D provide incorrect calculations that do not match the given values.",
+      "explanationImage": null,
+      "hints": [
+        "primary cell",
+        "emf",
+        "short circuited"
+      ]
+    },
+    {
+      "text": "A steady current is flowing in a conductor of non-uniform cross-section. The charge passing through any cross-section per unit time is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Current Electricity",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Directly proportional to the area of cross-section",
+          "isCorrect": true,
+          "explanation": "The charge passing through any cross-section per unit time is current and is inversely proportionaly to reisitance and hence is directly proportional to area of cross section."
+        },
+        {
+          "letter": "B",
+          "text": "Proportional to square of the area of cross-section",
+          "isCorrect": false,
+          "explanation": "It is directly proportional to area of cross section."
+        },
+        {
+          "letter": "C",
+          "text": "Inversely proportional to the area of cross-section",
+          "isCorrect": false,
+          "explanation": "It is directly proportional to area of cross section."
+        },
+        {
+          "letter": "D",
+          "text": "lndependent of the area of cross-section",
+          "isCorrect": false,
+          "explanation": "It depeneds on area of cross section."
+        }
+      ],
+      "explanation": "The charge passing through any cross-section per unit time is current and is inversely proportionaly to resistance and hence is directly proportional to area of cross section.",
+      "explanationImage": null,
+      "hints": [
+        "charge",
+        "per unit time"
+      ]
+    },
+    {
+      "text": "A wheel starts rotating from the result with an angular acceleration of 2 rads-2 till its angular speed becomes 6 rad/s. The angular displacement of the wheel will be equal to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 rad",
+          "isCorrect": false,
+          "explanation": "It is incorrect as per the given formula.Using 1st eq. of motion in rotatory termsV = u + at , where u=06=0+2tt = 3 secondsØ = ut + 1/2at²Ø= 0+1/2.2.32Ø = 9 radian"
+        },
+        {
+          "letter": "B",
+          "text": "9 rad",
+          "isCorrect": true,
+          "explanation": "Using 1st eq. of motion in rotatory termsV = u + at , where u=06=0+2tt = 3 secondsØ = ut + 1/2at²Ø= 0+1/2.2.32Ø = 9 radian"
+        },
+        {
+          "letter": "C",
+          "text": "12 rad",
+          "isCorrect": false,
+          "explanation": "It is incorrect as per the given formula. Using 1st eq. of motion in rotatory termsV = u + at , where u=06=0+2tt = 3 secondsØ = ut + 1/2at²Ø= 0+1/2.2.32Ø = 9 radian"
+        },
+        {
+          "letter": "D",
+          "text": "7 rad",
+          "isCorrect": false,
+          "explanation": "It is incorrect as per the given formula. Using 1st eq. of motion in rotatory termsV = u + at , where u=06=0+2tt = 3 secondsØ = ut + 1/2at²Ø= 0+1/2.2.32Ø = 9 radian"
+        }
+      ],
+      "explanation": "V = u + at6 = 0 + 2tt = 3 secondsØ = ut + 1/2at2Ø = 0 + 1/2 • 2 • 3²Ø = 9 radian.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following gives the relationship between linear velocity and angular velocity?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "v = rω",
+          "isCorrect": true,
+          "explanation": "The greater the rotation angle in a given amount of time, the greater the angular velocity. Angular velocity (ω) is analogous to linear velocity (v). We can write the relationship between linear velocity and angular velocity in two different ways:v=rw or ω=v/r."
+        },
+        {
+          "letter": "B",
+          "text": "v = rθ",
+          "isCorrect": false,
+          "explanation": "It is incorrect as per the given explanation.v = rθ. This formula is incorrect. While θ represents angular displacement, it doesn't directly relate to linear velocity in the same way angular velocity (ω) does."
+        },
+        {
+          "letter": "C",
+          "text": "v=sω",
+          "isCorrect": false,
+          "explanation": "It is incorrect as per the given explanation. v = sω and v = sθ. These options are also incorrect. 's' typically represents arc length, and while related, these formulas don't accurately describe the fundamental relationship between linear and angular velocity."
+        },
+        {
+          "letter": "D",
+          "text": "v=sθ",
+          "isCorrect": false,
+          "explanation": "v = sω and v = sθ. These options are also incorrect. 's' typically represents arc length, and while related, these formulas don't accurately describe the fundamental relationship between linear and angular velocity."
+        }
+      ],
+      "explanation": "The greater the rotation angle in a given amount of time, the greater the angular velocity. Angular velocity (ω) is analogous to linear velocity (v). We can write the relationship between linear velocity and angular velocity in two different ways: v=rω or ω=v/r.",
+      "explanationImage": null,
+      "hints": [
+        "linear velocity and angular velocity"
+      ]
+    },
+    {
+      "text": "Law of conservation of momentum states that:I. there is no external force applied to a system, then the total momentum of that system remains constant II. if there is an external force applied to a system, then the total momentum of that system remains constant III. if there is no external force applied to a system, then the total momentum of that system keeps changing",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "I only",
+          "isCorrect": true,
+          "explanation": "Right answer. The law of conservation of momentum states that, for two or more bodies in an isolated system acting upon each other, their total momentum remains constant unless an external force is applied. Therefore, momentum can neither be created nor destroyed and will stay constant."
+        },
+        {
+          "letter": "B",
+          "text": "I and II only",
+          "isCorrect": false,
+          "explanation": "Wrong answer. Law of conservation of momentum states that. For two or more bodies in an isolated system acting upon each other, their total momentum remains constant unless an external force is applied. Therefore, momentum can neither be created nor destroyed."
+        },
+        {
+          "letter": "C",
+          "text": "I and III only",
+          "isCorrect": false,
+          "explanation": "Wrong answer. Law of conservation of momentum states that. For two or more bodies in an isolated system acting upon each other, their total momentum remains constant unless an external force is applied. Therefore, momentum can neither be created nor destroyed."
+        },
+        {
+          "letter": "D",
+          "text": "III only",
+          "isCorrect": false,
+          "explanation": "Wrong answer. Law of conservation of momentum states that. For two or more bodies in an isolated system acting upon each other, their total momentum remains constant unless an external force is applied. Therefore, momentum can neither be created nor destroyed."
+        },
+        {
+          "letter": "E",
+          "text": "I, II and III",
+          "isCorrect": false,
+          "explanation": "Wrong answer. Law of conservation of momentum states that. For two or more bodies in an isolated system acting upon each other, their total momentum remains constant unless an external force is applied. Therefore, momentum can neither be created nor destroyed."
+        }
+      ],
+      "explanation": "If there is no external force applied to the system, then the total momentum of that system remains constant. If an external force is applied then the total momentum will change.The law of conservation of momentum states that, for two or more bodies in an isolated system acting upon each other, their total momentum remains constant unless an external force is applied. Therefore, momentum can neither be created nor destroyed and will stay constant.",
+      "explanationImage": null,
+      "hints": [
+        "no external force",
+        "an external force"
+      ]
+    },
+    {
+      "text": "If during circular motion, the tangential velocity of a body becomes double, then centripetal force becomes:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Double",
+          "isCorrect": false,
+          "explanation": "This option is not correct. If the tangential velocity of a body becomes double during circular motion, the centripetal force required does not double but increases by a greater factor."
+        },
+        {
+          "letter": "B",
+          "text": "One half",
+          "isCorrect": false,
+          "explanation": "This option is also not correct. Doubling the tangential velocity does not result in the centripetal force becoming one-half of its initial value; it increases."
+        },
+        {
+          "letter": "C",
+          "text": "Four times",
+          "isCorrect": true,
+          "explanation": "When an object moves in a circular motion, it experiences a centripetal force that keeps it moving in a curved path. The centripetal force is given by the equation: F = (mv²) / r, where F is the centripetal force, m is the mass of the object, v is the tangential velocity, and r is the radius of the circular path. If the tangential velocity of the body becomes double, we can denote the original velocity as v and the new velocity as 2v. We can calculate the new centripetal force as F' = (m(2v)²) / r = (4mv²) / r. Comparing F' to the original force F, we can see that F' is indeed four times the value of F."
+        },
+        {
+          "letter": "D",
+          "text": "One fourth",
+          "isCorrect": false,
+          "explanation": "This option is not correct. When the tangential velocity becomes double, the centripetal force doesn't become one-fourth of its initial value. Instead, it increases, as indicated in option c."
+        }
+      ],
+      "explanation": "When an object moves in a circular motion, it experiences a centripetal force that keeps it moving in a curved path. The centripetal force is given by the equation: F = (mv²) / r, where F is the centripetal force, m is the mass of the object, v is the tangential velocity, and r is the radius of the circular path. If the tangential velocity of the body becomes double, we can denote the original velocity as v and the new velocity as 2v. We can calculate the new centripetal force as F' = (m(2v)²) / r = (4mv²) / r. Comparing F' to the original force F, we can see that F' is indeed four times the value of F.",
+      "explanationImage": null,
+      "hints": [
+        "tangential velocity",
+        "becomes double",
+        "centripetal force"
+      ]
+    },
+    {
+      "text": "The angular velocity of a rotating disk increases from 2 rad/s to 5 rad/s in 0.5s. What is the disk’s average angular acceleration?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "67 rad/s2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "46 rad/s2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "36 rad/s2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "16 rad/s2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "E",
+          "text": "6 rad/s2",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Average angular acceleration = Rate of change of angular velocity = (Final angular velocity - Initial angular velocity) / Time = (5 rad/s - 2 rad/s) / 0.5 s = 6 rad/s²",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "When brakes of a car are applied, angular velocity of a flywheel reduces from 900 cycle / min to 720 cycle / min in 6 sec. Angular retardation is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "𝝅 rad/s2",
+          "isCorrect": true,
+          "explanation": "First, we need to convert the given angular velocities from cycles per minute to radians per second. We know that 1 cycle is equal to 2π radians. Therefore,Angular velocity at the start = 900 cycles/min = (900 x 2π) / 60 rad/s = 30π rad/sAngular velocity at the end = 720 cycles/min = (720 x 2π) / 60 rad/s = 24π rad/sThe time taken for the flywheel to reduce its angular velocity from 30π rad/s to 24π rad/s is 6 seconds. We can use the formula for angular retardation:Angular retardation (α) = (ω2 - ω1) / tWhere ω2 is the final angular velocity, ω1 is the initial angular velocity, and t is the time taken.Substituting the given values, we get:Angular retardation (α) = (24π - 30π) / 6 = -π rad/s^2Therefore, the angular retardation is -π rad/s^2."
+        },
+        {
+          "letter": "B",
+          "text": "9 𝝅 rad/s2",
+          "isCorrect": false,
+          "explanation": "Incorrect according to the given solution."
+        },
+        {
+          "letter": "C",
+          "text": "8 𝝅 rad/s2",
+          "isCorrect": false,
+          "explanation": "Incorrect according to the solution."
+        },
+        {
+          "letter": "D",
+          "text": "⅔ 𝝅rad / s2",
+          "isCorrect": false,
+          "explanation": "Incorrect according to the solution."
+        },
+        {
+          "letter": "E",
+          "text": "Insufficient data",
+          "isCorrect": false,
+          "explanation": "Incorrect. The data given is sufficient."
+        }
+      ],
+      "explanation": "This is the following solution.First, we need to convert the given angular velocities from cycles per minute to radians per second. We know that 1 cycle is equal to 2π radians. Therefore,Angular velocity at the start = 900 cycles/min = (900 x 2π) / 60 rad/s = 30π rad/sAngular velocity at the end = 720 cycles/min = (720 x 2π) / 60 rad/s = 24π rad/sThe time taken for the flywheel to reduce its angular velocity from 30π rad/s to 24π rad/s is 6 seconds. We can use the formula for angular retardation:Angular retardation (α) = (ω2 - ω1) / tWhere ω2 is the final angular velocity, ω1 is the initial angular velocity, and t is the time taken.Substituting the given values, we get:Angular retardation (α) = (24π - 30π) / 6 = -π rad/s^2Therefore, the angular retardation is -π rad/s^2.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A body moves on a circular path subtending an angle of 2 radians at the center of a circle of radius 3.5 meters. The linear displacement of the body is _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6.5 m",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it does not accurately apply the formula for linear displacement."
+        },
+        {
+          "letter": "B",
+          "text": "7 m",
+          "isCorrect": true,
+          "explanation": "This is correct answer"
+        },
+        {
+          "letter": "C",
+          "text": "7.5 m",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it overestimates the linear displacement based on the given parameters."
+        },
+        {
+          "letter": "D",
+          "text": "1.75 m",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it significantly underestimates the linear displacement derived from the radius and angle."
+        }
+      ],
+      "explanation": "The linear displacement of a body moving along a circular path can be determined using the formula:Linear Displacement = 2 × Radius × sin(θ/2)Here, the radius (r) is 3.5 meters, and the angle (θ) is 2 radians. Plugging in the values, we apply:Linear Displacement = 2 × 3.5 × sin(2/2) = 2 × 3.5 × sin(1) ≈ 7 metersTherefore, the correct linear displacement of the body is 7 meters. All other options (6.5 m, 5.8 m, 7.5 m, and 1.75 m) do not match the computed value from the provided formula and parameters.",
+      "explanationImage": null,
+      "hints": [
+        "circular path",
+        "angle of 2 radians",
+        "radius of 3.5 meters"
+      ]
+    },
+    {
+      "text": "A body performing circular motion with a constant speed has a constant:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "momentum",
+          "isCorrect": false,
+          "explanation": "Momentum keeps on changing due to change in velocity."
+        },
+        {
+          "letter": "B",
+          "text": "Angular velocity",
+          "isCorrect": true,
+          "explanation": "When an object moves along a circle at constant speed, v, its angular velocity about the circle's center is also constant, and the object is said to move with uniform circular motion. Although the object's speed is constant, its direction of motion keeps changing, being always tangent to the circular path."
+        },
+        {
+          "letter": "C",
+          "text": "Acceleration",
+          "isCorrect": false,
+          "explanation": "Acceleration keeps on changing due to change in velocity."
+        },
+        {
+          "letter": "D",
+          "text": "Radius vector",
+          "isCorrect": false,
+          "explanation": "It is incorrect, it also keeps changing."
+        }
+      ],
+      "explanation": "When an object moves along a circle at constant speed, v, its angular velocity about the circle's center is also constant, and the object is said to move with uniform circular motion. Although the object's speed is constant, its direction of motion keeps changing, being always tangent to the circular path.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "1 radian is equal to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "57.1°",
+          "isCorrect": false,
+          "explanation": "This option is the closest approximation to the actual value of 57.3°, but 1 radian is equal to 57.3°"
+        },
+        {
+          "letter": "B",
+          "text": "57.2°",
+          "isCorrect": false,
+          "explanation": "This option is also close, but it is not as accurate as option C."
+        },
+        {
+          "letter": "C",
+          "text": "57.3°",
+          "isCorrect": true,
+          "explanation": "1 radian is equal to approximately 57.3 degrees. This means that if you have an angle of 1 radian, it is equivalent to an angle of approximately 57.3 degrees when measured in degrees. Radians and degrees are two common units for measuring angles, and this conversion factor allows you to relate them."
+        },
+        {
+          "letter": "D",
+          "text": "57.4°",
+          "isCorrect": false,
+          "explanation": "This option is not as accurate as option A and is slightly further from the actual value."
+        }
+      ],
+      "explanation": "1 radian is equal to approximately 57.3°. This means that if you have an angle of 1 radian, it is equivalent to an angle of approximately 57.3° when measured in degrees. Radians and degrees are two common units for measuring angles, and this conversion factor allows you to relate them.",
+      "explanationImage": null,
+      "hints": [
+        "1 radian"
+      ]
+    },
+    {
+      "text": "For anti-clockwise rotation, the angular displacement is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": 2024,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Negative",
+          "isCorrect": false,
+          "explanation": "by convention, anti-clockwise rotation is considered positive."
+        },
+        {
+          "letter": "B",
+          "text": "Positive",
+          "isCorrect": true,
+          "explanation": "anti-clockwise rotation is assigned a positive angular displacement."
+        },
+        {
+          "letter": "C",
+          "text": "Null",
+          "isCorrect": false,
+          "explanation": "null (zero) would mean no rotation, which is not the case here."
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "same as above; angular displacement is clearly not zero."
+        }
+      ],
+      "explanation": "For anti-clockwise (or counter-clockwise) rotation, the angular displacement is considered positive. This convention is based on the right-hand rule. If you curl the fingers of your right hand in the direction of the anti-clockwise rotation, your thumb points upwards, which is the conventional positive direction for angular displacement.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "How many degrees in 2π/5 radians?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": 2024,
+      "options": [
+        {
+          "letter": "A",
+          "text": "72°",
+          "isCorrect": true,
+          "explanation": "Correct; matches calculation.Degrees = Radians × (180/π)Calculation for 2π/5 radiansDegrees = (2π/5) × (180/π)= (2 × 180) / 5= 72°"
+        },
+        {
+          "letter": "B",
+          "text": "80°",
+          "isCorrect": false,
+          "explanation": "Too high; incorrect conversion."
+        },
+        {
+          "letter": "C",
+          "text": "50°",
+          "isCorrect": false,
+          "explanation": "Too low; incorrect conversion."
+        },
+        {
+          "letter": "D",
+          "text": "90°",
+          "isCorrect": false,
+          "explanation": "Incorrect; would correspond to π/2 radians."
+        }
+      ],
+      "explanation": "A full circle is 2π radians, which is equal to 360 degrees. Therefore, to convert radians to degrees, you can use the following formula:Degrees = Radians * (180/π) In this case, you have 2π/5 radians. Plugging that into the formula:Degrees = (2π/5) * (180/π)The π cancels out:Degrees = (2/5) * 180Degrees = 72So, 2π/5 radians is equal to 72​ degrees.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which one of the following is the SI-unit of angular displacement?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": 2024,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A.degree",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Degree is not an SI unit."
+        },
+        {
+          "letter": "B",
+          "text": "radian",
+          "isCorrect": true,
+          "explanation": "This option is correct. Radian(rad) is the SI unit of angular displacement."
+        },
+        {
+          "letter": "C",
+          "text": "revolution",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Revolution(rev) is not an SI unit."
+        },
+        {
+          "letter": "D",
+          "text": "Steradian",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It is the unit of solid angle in 3-D space."
+        }
+      ],
+      "explanation": "Radian(rad) is the SI unit of angular displacement.",
+      "explanationImage": null,
+      "hints": [
+        "angular displacement"
+      ]
+    },
+    {
+      "text": "The instantaneous acceleration of an object travelling with uniform speed in a circle directed towards the centre of circle is referred as",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": 2024,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Centrifugal acceleration",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The apparent outward force experienced by an object moving in a circular path, directed away from the center of the circle."
+        },
+        {
+          "letter": "B",
+          "text": "Centripetal acceleration",
+          "isCorrect": true,
+          "explanation": "This option is correct. The acceleration directed toward the center of a circular path, required to keep an object moving in that path."
+        },
+        {
+          "letter": "C",
+          "text": "Tangential acceleration",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The acceleration of an object in the direction tangent to its circular path, indicating a change in speed."
+        },
+        {
+          "letter": "D",
+          "text": "angular acceleration",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The rate of change of angular velocity of an object, typically measured in radians per second squared (rad/s²)."
+        }
+      ],
+      "explanation": "The acceleration directed toward the center of a circular path, required to keep an object moving in that path.",
+      "explanationImage": null,
+      "hints": [
+        "uniform speed",
+        "circle"
+      ]
+    },
+    {
+      "text": "Which of the following rules helps us to detect the direction of angular velocity?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": 2024,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Head to tail rule",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The head to tail rule is a fundamental method used in vector addition. It states that to combine two or more vectors, you start by placing the tail of the second vector at the head of the first vector. This arrangement allows for a clear visual representation of how the vectors interact. After positioning the vectors, the resultant vector can be drawn from the tail of the first vector to the head of the last vector. This method emphasizes the directional nature of vectors, illustrating how their magnitudes and directions combine to produce a single resultant vector, which is crucial in physics and engineering applications."
+        },
+        {
+          "letter": "B",
+          "text": "Kirchhoff rule",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Kirchhoff's rules are essential principles for analyzing electrical circuits. There are two primary rules: Kirchhoff's Current Law (KCL) and Kirchhoff's Voltage Law (KVL). KCL states that the total current entering a junction must equal the total current leaving that junction, reflecting the conservation of charge within the circuit. This principle helps in understanding how current divides among different paths in a network. KVL, on the other hand, asserts that the sum of all electrical potential differences (voltages) around any closed loop in a circuit is zero. This rule is based on the conservation of energy, ensuring that the energy supplied by sources equals the energy used by resistors and other components. Together, these rules provide a systematic approach to analyzing complex circuits."
+        },
+        {
+          "letter": "C",
+          "text": "Left hand rule",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The left-hand rule is a useful mnemonic for determining the direction of force exerted on a current-carrying conductor in a magnetic field. To apply this rule, hold your left hand such that your thumb, forefinger, and middle finger are all perpendicular to each other. Your thumb represents the direction of the force (or motion) on the conductor, your forefinger indicates the direction of the magnetic field (from North to South), and your middle finger shows the direction of the electric current (from positive to negative). This visual representation helps in understanding the interplay between magnetic fields and electric currents, which is fundamental in electromechanical systems."
+        },
+        {
+          "letter": "D",
+          "text": "Right hand rule",
+          "isCorrect": true,
+          "explanation": "This option is correct. The right-hand rule is another mnemonic used to determine the relationships between current, magnetic fields, and induced currents. For a current-carrying wire, you would point your right thumb in the direction of the current flow, while curling your fingers around the wire. The direction in which your fingers curl indicates the direction of the magnetic field lines encircling the wire. In the context of electromagnetic induction, if you point your right thumb in the direction of the induced current and your fingers in the direction of the magnetic field, your palm will indicate the direction of the force acting on the conductor. This rule is critical for understanding phenomena in electromagnetism, including the functioning of motors and generators."
+        }
+      ],
+      "explanation": "The right-hand rule is another mnemonic used to determine the relationships between current, magnetic fields, and induced currents. For a current-carrying wire, you would point your right thumb in the direction of the current flow, while curling your fingers around the wire. The direction in which your fingers curl indicates the direction of the magnetic field lines encircling the wire. In the context of electromagnetic induction, if you point your right thumb in the direction of the induced current and your fingers in the direction of the magnetic field, your palm will indicate the direction of the force acting on the conductor. This rule is critical for understanding phenomena in electromagnetism, including the functioning of motors and generators.",
+      "explanationImage": null,
+      "hints": [
+        "direction"
+      ]
+    },
+    {
+      "text": "A disc, a hoop, and a sphere of the same mass and radius are rolled down from a frictionless, inclined plane. Which has a greater speed on reaching the ground?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Disc",
+          "isCorrect": false,
+          "explanation": "The sphere has the greatest speed on reaching the ground."
+        },
+        {
+          "letter": "B",
+          "text": "Loop",
+          "isCorrect": false,
+          "explanation": "The sphere has the greatest speed on reaching the ground. The shape of loop is as follows;"
+        },
+        {
+          "letter": "C",
+          "text": "Sphere",
+          "isCorrect": true,
+          "explanation": "The sphere has the greatest speed on reaching the ground. This is because a sphere has the lowest moment of inertia of the three objects, which means that it will accelerate the most quickly when rolling down the inclined plane. The hoop has the highest moment of inertia, and the disc has an intermediate moment of inertia. Therefore, the sphere will have the greatest speed on reaching the ground, while the hoop will have the slowest speed."
+        },
+        {
+          "letter": "D",
+          "text": "All have the same speed",
+          "isCorrect": false,
+          "explanation": "The sphere has the greatest speed on reaching the ground."
+        }
+      ],
+      "explanation": "The sphere has most of its mass near the axis of rotation, so it will have the smallest moment of inertia and will reach the ground first.The disc has its mass uniformly distributed, so will have a greater moment of inertia and will arrive second.The hoop has all its mass concentrated away from the center, so will have the greatest moment of inertia. It will arrive last, but will then travel farther away on the horizontal plane than the other shapes, as it will have stored more of the original potential energy in the form of rotational energy.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The angular speed of the rotating rigid body is increased from 4ω to 5ω. The percentage increase in its K.E. is :",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "20%",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the calculations."
+        },
+        {
+          "letter": "B",
+          "text": "25%",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the calculations."
+        },
+        {
+          "letter": "C",
+          "text": "125%",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the calculations."
+        },
+        {
+          "letter": "D",
+          "text": "56%",
+          "isCorrect": true,
+          "explanation": "K.E. = ½ I ω² ⇒ K.E. ∝ ω²K.E.i ∝(4)²= 16ω²K.E.f ∝(5)²= 25ω²% increase in K.E. = (KEf − KEᵢ) / KEᵢ × 100= (25 − 16) / 16 × 100= 9/16 × 100= 56.25%The percentage increase is 56.25%. Among the given options, 56% is the closest and most appropriate answer."
+        }
+      ],
+      "explanation": "K.E. = ½ I ω² ⇒ K.E. ∝ ω²K.E.i ∝(4)²= 16ω²K.E.f ∝(5)²= 25ω²% increase in K.E. = (KEf − KEᵢ) / KEᵢ × 100= (25 − 16) / 16 × 100= 9/16 × 100= 56.25%The percentage increase is 56.25%. Among the given options, 56% is the closest and most appropriate answer.",
+      "explanationImage": null,
+      "hints": [
+        "angular speed",
+        "rotating rigid body",
+        "K.E."
+      ]
+    },
+    {
+      "text": "The angular speed of flywheel making 420 revolution per minute:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "42300 rad/sec",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the calculations."
+        },
+        {
+          "letter": "B",
+          "text": "1200 rad/sec",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the calculations."
+        },
+        {
+          "letter": "C",
+          "text": "10/4200 rad/sec",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the calculations."
+        },
+        {
+          "letter": "D",
+          "text": "44 rad/sec",
+          "isCorrect": true,
+          "explanation": "The following is the solution:The formula for angular speed is given by:ω = 2πfwhere ω is the angular speed, and f is the frequency of rotation of the flywheel.We know that the flywheel is making 420 revolutions per minute. To convert this to frequency, we can use the formula:f = n / twhere n is the number of rotations and t is the time taken for those rotations.Converting 420 revolutions per minute to rotations per second, we get:n = 420 rev/min * (1 min / 60 s) = 7 rev/sThe time taken for one rotation ist = 1 / f = 1 / 7 s/rev = 0.143 s/revSubstituting the given values, we get:ω = 2πf = 2π(7 rev/s) = 44.0 rad/sTherefore, the angular speed of the flywheel is 44.0 rad/s."
+        }
+      ],
+      "explanation": "The following is the solution:The formula for angular speed is given by:ω = 2πfwhere ω is the angular speed, and f is the frequency of rotation of the flywheel.We know that the flywheel is making 420 revolutions per minute. To convert this to frequency, we can use the formula:f = n / twhere n is the number of rotations and t is the time taken for those rotations.Converting 420 revolutions per minute to rotations per second, we get:n = 420 rev/min * (1 min / 60 s) = 7 rev/sThe time taken for one rotation ist = 1 / f = 1 / 7 s/rev = 0.143 s/revSubstituting the given values, we get:ω = 2πf = 2π(7 rev/s) = 44.0 rad/sTherefore, the angular speed of the flywheel is 44.0 rad/s.",
+      "explanationImage": null,
+      "hints": [
+        "angular speed",
+        "420 revolution per minute"
+      ]
+    },
+    {
+      "text": "The ratio of angular frequency and linear frequency is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2π",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The angular frequency (ω) is 2π times the linear frequency (f), based on the relationship ω = 2πf."
+        },
+        {
+          "letter": "B",
+          "text": "π",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While π is a common factor in circular motion, the correct ratio between angular and linear frequency is 2π, not π."
+        },
+        {
+          "letter": "C",
+          "text": "1/2π",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The conversion factor between angular and linear frequency is not 1/2π, but rather 2π."
+        },
+        {
+          "letter": "D",
+          "text": "π/2",
+          "isCorrect": false,
+          "explanation": "This option is not correct. The ratio of angular to linear frequency is not π/2, but 2π."
+        }
+      ],
+      "explanation": "The correct answer is 2π. The relationship between angular frequency (ω) and linear frequency (f) is given by the formula ω = 2πf. This means that for each complete cycle of linear frequency, the angular displacement is 2π radians. Therefore, the ratio of angular frequency to linear frequency is 2π. The other options are incorrect because they do not correctly represent this fundamental relationship: π and π/2 are common misinterpretations, and 1/2π is the reciprocal of the correct ratio.",
+      "explanationImage": null,
+      "hints": [
+        "angular frequency",
+        "linear frequency"
+      ]
+    },
+    {
+      "text": "When a body moves in a circle, the angle between its velocity v and angular velocity ω is always",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0o",
+          "isCorrect": false,
+          "explanation": "When a body moves in a circle, the angle between its velocity vector and the angular velocity vector is not 0 degrees. The correct angle is 90 degrees."
+        },
+        {
+          "letter": "B",
+          "text": "180o",
+          "isCorrect": false,
+          "explanation": "When a body moves in a circle, the angle between its velocity vector and the angular velocity vector is not 180 degrees. The correct angle is 90 degrees."
+        },
+        {
+          "letter": "C",
+          "text": "360o",
+          "isCorrect": false,
+          "explanation": "When a body moves in a circle, the angle between its velocity vector and the angular velocity vector is not 360 degrees. The correct angle is 90 degrees."
+        },
+        {
+          "letter": "D",
+          "text": "90o",
+          "isCorrect": true,
+          "explanation": "Correct! When a body moves in a circle, the angle between its velocity vector and the angular velocity vector is always 90 degrees. This relationship is due to the perpendicular nature of these vectors in circular motion."
+        }
+      ],
+      "explanation": "When a body moves in a circle, the angle between its velocity vector (v) and angular velocity vector (ω) is always 90 degrees, or π/2 radians. This is because the velocity vector is tangential to the circle at any point, pointing in the direction of motion, while the angular velocity vector is perpendicular to the plane of the circle and points along the axis of rotation. As a result, the angle between them is always a right angle. Options A, B, and C are incorrect because the angle between velocity and angular velocity in circular motion is not 0, 180, or 360 degrees. The correct angle is always 90 degrees due to the specific geometric relationship between these vectors in circular motion.",
+      "explanationImage": null,
+      "hints": [
+        "moves in a circle",
+        "angle",
+        "velocity v and angular velocity"
+      ]
+    },
+    {
+      "text": "A body of mass 5 kg is moving in a circle of radius 1m with an angular velocity of 2 radian/sec. The centripetal force is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 N",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the calculations."
+        },
+        {
+          "letter": "B",
+          "text": "20 N",
+          "isCorrect": true,
+          "explanation": "Given data:m=5kg, r=1m, w= 2 radian/secFind out: Fc=?Solution:Fc=mrw2=5*1*(2)2=20N"
+        },
+        {
+          "letter": "C",
+          "text": "30 N",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the calculations."
+        },
+        {
+          "letter": "D",
+          "text": "40 N",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the calculations."
+        }
+      ],
+      "explanation": "Option B is correct.Given data:m=5kg, r=1m, w= 2 radian/secFind out: Fc=?Solution:Fc=mrw2=5*1*(2)2=20NExplanation: The centripetal force is calculated using the formula Fc=mrw2. Option B provides the correct calculation based on the given data. Options A, C, and D do not correctly apply the formula or provide an accurate calculation for the centripetal force in this scenario.",
+      "explanationImage": null,
+      "hints": [
+        "5 kg",
+        "radius 1m",
+        "2 radian/sec.",
+        "centripetal force"
+      ]
+    },
+    {
+      "text": "The ratio of angular speed of the minute hand of clock to that of its hour hand is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3600:1",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the calculations."
+        },
+        {
+          "letter": "B",
+          "text": "60:1",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the calculations."
+        },
+        {
+          "letter": "C",
+          "text": "24:1",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the calculations."
+        },
+        {
+          "letter": "D",
+          "text": "12:1",
+          "isCorrect": true,
+          "explanation": "The minute hand of a clock completes one revolution (360 degrees) in one hour or 60 minutes. Therefore, its angular speed isωminute = (360 degrees) / (60 minutes) = 6 degrees per minuteThe hour hand of a clock completes one revolution in 12 hours or 720 minutes. Therefore, its angular speed is:ωhour = (360 degrees) / (720 minutes) = 0.5 degrees per minuteThe ratio of the angular speed of the minute hand to that of the hour hand is:ωminute / ωhour = (6 degrees per minute) / (0.5 degrees per minute) = 12Therefore, the ratio of the angular speed of the minute hand to that of the hour hand is 12:1."
+        }
+      ],
+      "explanation": "The clock displays 12 divisions, which are 1 hour each for the hour hand and 5 minutes each for the minute hand. The minute hand completes 1 whole rotation of the 12 divisions for the hour hand to move 1 whole division; hence, the minute hand has to be 12 times faster than the hour hand.The minute hand of a clock completes one revolution (360 degrees) in one hour or 60 minutes. Therefore, its angular speed isωminute = (360 degrees) / (60 minutes) = 6 degrees per minuteThe hour hand of a clock completes one revolution in 12 hours or 720 minutes. Therefore, its angular speed is:ωhour = (360 degrees) / (720 minutes) = 0.5 degrees per minuteThe ratio of the angular speed of the minute hand to that of the hour hand is:ωminute / ωhour = (6 degrees per minute) / (0.5 degrees per minute) = 12Therefore, the ratio of the angular speed of the minute hand to that of the hour hand is 12:1.",
+      "explanationImage": null,
+      "hints": [
+        "angular speed",
+        "minute hand",
+        "hour hand"
+      ]
+    },
+    {
+      "text": "If the body of mass m is rotating in a circle of radius r with frquency of rotation \"f\" then centripetal force acting on it is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2πmrf",
+          "isCorrect": false,
+          "explanation": "Incorrect. This option does not correctly apply the formula for centripetal force."
+        },
+        {
+          "letter": "B",
+          "text": "4π2mrf",
+          "isCorrect": false,
+          "explanation": "Incorrect. This option also does not correctly apply the formula for centripetal force."
+        },
+        {
+          "letter": "C",
+          "text": "4π2mrf2",
+          "isCorrect": true,
+          "explanation": "Correct! The centripetal force can be calculated using Fc = mrw2, which simplifies to Fc = 4π2mrf2 in this case."
+        },
+        {
+          "letter": "D",
+          "text": "π2mrf-2",
+          "isCorrect": false,
+          "explanation": "Incorrect. This option does not align with the correct formula for centripetal force."
+        }
+      ],
+      "explanation": "The centripetal force can be calculated using Fc = mrw2, which simplifies to Fc = 4π2mrf2 in this case. This is why Option C is the correct answer. Options A, B, and D do not apply the formula correctly and therefore are incorrect.",
+      "explanationImage": null,
+      "hints": [
+        "mass",
+        "radius",
+        "frequency",
+        "centripetal force"
+      ]
+    },
+    {
+      "text": "The ratio of displacement along the diameter of the circle and the total distance along the circle is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": 2017,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1:π",
+          "isCorrect": true,
+          "explanation": "As the diameter is twice the radius, soMathematically, we can write it as 2R=======Eq 1Total distance along the circle= circumference of the circle= 2𝝅R========Eq 2Taking ratio of Eq1 and Eq2 , we get1/𝝅, hence the correct answer to this question is option A."
+        },
+        {
+          "letter": "B",
+          "text": "π:1",
+          "isCorrect": false,
+          "explanation": "As per the explanation, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "2:π",
+          "isCorrect": false,
+          "explanation": "As per the explanation, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "π:2",
+          "isCorrect": false,
+          "explanation": "As per the explanation, this option is incorrect."
+        }
+      ],
+      "explanation": "Since the diameter of the circle is unknown, we can assume it to be 2r, where ‘r’ is the radius of the circle. The total distance along the circle refers to the circumference of the circle, which, mathematically, is 2πr. The ratio of the two values would be 2r:2πr, which can be simplified to 1:π.",
+      "explanationImage": null,
+      "hints": [
+        "displacement",
+        "total distance",
+        "diameter"
+      ]
+    },
+    {
+      "text": "A wheel rotates about an axis passing through the center and prependicular to the plane with slowly increasing angular speed. Then it has",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Radial velocity and radial acceleration",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as circular motion involves tangential velocity and radial acceleration, not radial velocity."
+        },
+        {
+          "letter": "B",
+          "text": "Tangential velocity and radial acceleration",
+          "isCorrect": false,
+          "explanation": "While this option mentions tangential velocity and radial acceleration, it fails to account for the additional tangential acceleration that occurs with increasing angular speed."
+        },
+        {
+          "letter": "C",
+          "text": "Tangential velocity and tangential acceleration",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as circular motion requires radial acceleration to keep the body moving in a circular path."
+        },
+        {
+          "letter": "D",
+          "text": "Tangential velocity but acceleration having both components",
+          "isCorrect": true,
+          "explanation": "This option is correct because in circular motion, there is always tangential velocity and radial acceleration, but with increasing angular speed, there is also tangential acceleration present."
+        }
+      ],
+      "explanation": "Option D is the correct choice as in circular motion, a body always possesses tangential velocity and radial acceleration. However, with increasing angular speed, the body also experiences tangential acceleration in addition to the other components.Options A, B, and C are incorrect as they either miss crucial components of motion in circular motion or fail to consider how these components change with increasing angular speed.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A point on the wheel of 4m diameter has a velocity of 1600cm/s. The angular velocity of the wheel is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "8rad/s",
+          "isCorrect": true,
+          "explanation": "This option correctly calculates the angular velocity of the wheel using the given linear velocity and radius.𝑣=1600 cm/s=16 m/sω=vr=16/2=8rad/s."
+        },
+        {
+          "letter": "B",
+          "text": "4rad/s",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests a lower angular velocity than the calculated value, making it incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "12rad/s",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests a higher angular velocity than the calculated value, making it incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "2rad/s",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests a lower angular velocity than the calculated value, making it incorrect."
+        }
+      ],
+      "explanation": "Option A correctly calculates the angular velocity of the wheel using the given linear velocity and radius.𝑣=1600 cm/s=16 m/sω=vr=16/2=8rad/s Options B, C, and D provide incorrect angular velocity values based on the calculation, making them incorrect choices.",
+      "explanationImage": null,
+      "hints": [
+        "4m diameter",
+        "velocity of 1600cm/s."
+      ]
+    },
+    {
+      "text": "We prefer fruits _ sweets.",
+      "image": null,
+      "subject": "English",
+      "topic": "Conjunction",
+      "year": 2020,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Then",
+          "isCorrect": false,
+          "explanation": "\"Then\" preposition is used to describe when things will happen. For Example, I ate breakfast and then I went to work.That's why it is not the correct option."
+        },
+        {
+          "letter": "B",
+          "text": "On",
+          "isCorrect": false,
+          "explanation": "The \" on \" preposition describes location, direction, or time.That's why it is not the correct option."
+        },
+        {
+          "letter": "C",
+          "text": "Over",
+          "isCorrect": true,
+          "explanation": "The correct preposition to use in this case will be “over”. You prefer one thing “over” the other."
+        },
+        {
+          "letter": "D",
+          "text": "From",
+          "isCorrect": false,
+          "explanation": "The preposition \"from\" is used to show where something starts.That's why it is not the correct option."
+        }
+      ],
+      "explanation": "The correct preposition to use in this case will be “over”. You prefer one thing “over” the other.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Choose the correct spelling:",
+      "image": null,
+      "subject": "English",
+      "topic": "Passages",
+      "year": 2020,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Defnite",
+          "isCorrect": false,
+          "explanation": "It is not a valid spelling."
+        },
+        {
+          "letter": "B",
+          "text": "Defanit",
+          "isCorrect": false,
+          "explanation": "It is also not a valid spelling."
+        },
+        {
+          "letter": "C",
+          "text": "Dafanite",
+          "isCorrect": false,
+          "explanation": "This spelling is not valid."
+        },
+        {
+          "letter": "D",
+          "text": "Definite",
+          "isCorrect": true,
+          "explanation": "\"Definite\" is the correct spelling. It means something is certain or clearly established."
+        }
+      ],
+      "explanation": "\"Definite\" is the correct spelling which means “to be on point”.",
+      "explanationImage": null,
+      "hints": [
+        "spelling",
+        "correct"
+      ]
+    },
+    {
+      "text": "Choose the correct option: Knowledge and wisdom _ no time for connection.",
+      "image": null,
+      "subject": "English",
+      "topic": "Verb",
+      "year": 2020,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Has",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because \"has\" is the singular form of the verb \"to have,\" used with singular subjects like \"knowledge\" or \"wisdom.\" However, in this sentence, \"knowledge and wisdom\" are treated as a plural compound subject, so a plural verb form is required."
+        },
+        {
+          "letter": "B",
+          "text": "Have",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. \"Have\" is the plural form of the verb \"to have,\" used with plural subjects like \"knowledge and wisdom.\" In this sentence, \"knowledge and wisdom\" are considered together as a plural entity requiring a plural verb."
+        },
+        {
+          "letter": "C",
+          "text": "Had",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because \"had\" is the past tense form of \"have.\" It does not fit the present tense context of the sentence."
+        },
+        {
+          "letter": "D",
+          "text": "Are",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because \"are\" is the present tense form of the verb \"to be,\" not \"have.\" It does not match with the verb needed to complete the sentence correctly."
+        }
+      ],
+      "explanation": "The context of the sentence firstly requires a verb that satisfies the need to indicate the possession of \"no time for connection\" by \"Knowledge and wisdom.\" Therefore the verb forms \"is/am/are\" which indicate \"being\" are not suitable here - eliminating Option D. Moreover, since the need for \"no time\" is being stated as a universal statement (everlasting) i.e. started in the past and continues to be true in the present, the tense should be present perfect. Hence, the verb form should include the helping verb \"Have\" as indicated by Option B.",
+      "explanationImage": null,
+      "hints": [
+        "Knowledge and wisdom"
+      ]
+    },
+    {
+      "text": "Choose the correctly structured sentence:",
+      "image": null,
+      "subject": "English",
+      "topic": "Combination Mistake",
+      "year": 2020,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Had he lived in England he would miss his family.",
+          "isCorrect": false,
+          "explanation": "This option uses the conditional tense (had + past participle) to describe a hypothetical past situation, but the consequence (would miss) is in the present tense, which doesn't match the conditional tense. Incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Had he lived in England he would have missed his family.",
+          "isCorrect": true,
+          "explanation": "This option uses the conditional perfect tense (had + past participle + would have + past participle) to describe a hypothetical past situation and its consequences, which is the correct form. Correct!Conditional tense: Use the conditional tense (had + past participle) to describe hypothetical past situations."
+        },
+        {
+          "letter": "C",
+          "text": "Had he lived in England he had missed his family.",
+          "isCorrect": false,
+          "explanation": "This option uses the past perfect tense (had + past participle) twice, which is redundant and incorrect. Incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Had he live in England he will missed his family.",
+          "isCorrect": false,
+          "explanation": "This option uses the conditional tense (had + past participle) to describe a hypothetical past situation, but the consequence (will missed) is in the future tense and carries wrong form of the verb with it (missed), which doesn't match the conditional tense. Incorrect."
+        }
+      ],
+      "explanation": "Option B is correct because it is the only sentence that adheres perfectly to grammar rules. The first part of the sentence is in the past perfect tense (indicated by the verb form \"had he\"), so the next part of the sentence should also conform to the same tense so the correct context should be “would have”.",
+      "explanationImage": null,
+      "hints": [
+        "correctly structured"
+      ]
+    },
+    {
+      "text": "Not only the parents but also their son _ for interview.",
+      "image": null,
+      "subject": "English",
+      "topic": "Verb",
+      "year": 2020,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Has called",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because \"has called\" implies that the son is the one who made phone calls. The sentence structure, however, suggests that the son is the one who received a call or invitation."
+        },
+        {
+          "letter": "B",
+          "text": "Have called",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because \"have called\" is plural, but the subject \"son\" is singular. The verb form should agree with the singular subject."
+        },
+        {
+          "letter": "C",
+          "text": "Have been called",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because \"have been called\" is plural, but the subject \"son\" is singular."
+        },
+        {
+          "letter": "D",
+          "text": "Has been called",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. \"Has been called\" is in the passive voice and indicates that the son received a call or invitation for an interview. This fits the sentence structure and meaning intended, as it focuses on the son being invited or contacted."
+        }
+      ],
+      "explanation": "Parents are plural but the blank follows the noun 'son' which is singular. Hence \"has\" instead of \"have\" is the right option.The sentence refers to an act being done to the noun instead of the son doing something. Hence it will be: ‘been called’ instead of just ‘called’",
+      "explanationImage": null,
+      "hints": [
+        "their son"
+      ]
+    },
+    {
+      "text": "Complete the following sentence: You cannot eat that mango. It is not _ yet.",
+      "image": null,
+      "subject": "English",
+      "topic": "Combination Mistake",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Best",
+          "isCorrect": false,
+          "explanation": "Best is used to describe condition of a particular thing. So this doesn't fit the context of the sentence."
+        },
+        {
+          "letter": "B",
+          "text": "Pale",
+          "isCorrect": false,
+          "explanation": "Pale is used to describe the appearance, which is irrelevant for the question."
+        },
+        {
+          "letter": "C",
+          "text": "Ripe",
+          "isCorrect": true,
+          "explanation": "Ripe is used to describe the fruit state. \"Ripe\" fits the sentence according to the context, hence it is correct."
+        },
+        {
+          "letter": "D",
+          "text": "Mature",
+          "isCorrect": false,
+          "explanation": "Mature is used to describe a condition of fully attained growth. So this doesn't fit the context of the question."
+        }
+      ],
+      "explanation": "In order to describe a fruit's state, ‘ripe’ is used. ‘Best’ is used to define quality, ‘pale’ is used to describe the appearance and ‘mature' is used to describe full growth and development. The most grammatically correct is 'ripe' given the subject's nature.",
+      "explanationImage": null,
+      "hints": [
+        "cannot eat"
+      ]
+    },
+    {
+      "text": "Read the passage and the following statements below. Then choose the correct option,basing your answer only on the information provided. Pakistan is rich in wildlife and culture. It is home to many sorts of wildlife,from the Ibex to the Indus River Dolphin ;and people from most countries in the world have made their home here. Statements :i. Pakistan is rich countryii. People from all nationalities of the world live in Pakistan.iii. Pakistan is home to at least one dolphin species.",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": 2024,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only iii statement is correct",
+          "isCorrect": true,
+          "explanation": "Let's evaluate each statement based only on the passage:Statement i: \"Pakistan is rich country\" Incorrect. The passage says \"Pakistan is rich in wildlife and culture\", not in terms of wealth.Statement ii: \"People from all nationalities of the world live in Pakistan.\" Incorrect. The passage says \"people from most countries\", not all nationalities.Statement iii: \"Pakistan is home to at least one dolphin species.\" Correct. The passage specifically mentions the Indus River Dolphin, confirming this.Correct answer: Only statement iii is correct."
+        },
+        {
+          "letter": "B",
+          "text": "Only i and ii are correct",
+          "isCorrect": false,
+          "explanation": "Let's evaluate each statement based only on the passage:Statement i: \"Pakistan is rich country\" Incorrect. The passage says \"Pakistan is rich in wildlife and culture\", not in terms of wealth.Statement ii: \"People from all nationalities of the world live in Pakistan.\" Incorrect. The passage says \"people from most countries\", not all nationalities.Statement iii: \"Pakistan is home to at least one dolphin species.\" Correct. The passage specifically mentions the Indus River Dolphin, confirming this.Correct answer: Only statement iii is correct."
+        },
+        {
+          "letter": "C",
+          "text": "Only i and iii are correct",
+          "isCorrect": false,
+          "explanation": "Let's evaluate each statement based only on the passage:Statement i: \"Pakistan is rich country\" Incorrect. The passage says \"Pakistan is rich in wildlife and culture\", not in terms of wealth.Statement ii: \"People from all nationalities of the world live in Pakistan.\" Incorrect. The passage says \"people from most countries\", not all nationalities.Statement iii: \"Pakistan is home to at least one dolphin species.\" Correct. The passage specifically mentions the Indus River Dolphin, confirming this.Correct answer: Only statement iii is correct."
+        },
+        {
+          "letter": "D",
+          "text": "Only ii and iii are correct",
+          "isCorrect": false,
+          "explanation": "Let's evaluate each statement based only on the passage:Statement i: \"Pakistan is rich country\" Incorrect. The passage says \"Pakistan is rich in wildlife and culture\", not in terms of wealth.Statement ii: \"People from all nationalities of the world live in Pakistan.\" Incorrect. The passage says \"people from most countries\", not all nationalities.Statement iii: \"Pakistan is home to at least one dolphin species.\" Correct. The passage specifically mentions the Indus River Dolphin, confirming this.Correct answer: Only statement iii is correct."
+        }
+      ],
+      "explanation": "Let's evaluate each statement based only on the passage:Statement i: \"Pakistan is rich country\" Incorrect. The passage says \"Pakistan is rich in wildlife and culture\", not in terms of wealth.Statement ii: \"People from all nationalities of the world live in Pakistan.\" Incorrect. The passage says \"people from most countries\", not all nationalities.Statement iii: \"Pakistan is home to at least one dolphin species.\" Correct. The passage specifically mentions the Indus River Dolphin, confirming this.Correct answer: Only statement iii is correct.",
+      "explanationImage": null,
+      "hints": [
+        "information provided."
+      ]
+    },
+    {
+      "text": "Observe the pattern and select the next term, in the sequence: JEQ, HEO, FEM.",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": 2024,
+      "options": [
+        {
+          "letter": "A",
+          "text": "GFN",
+          "isCorrect": false,
+          "explanation": "The pattern follows (-2, 0, -2) for the first, second, and third letters, respectively, so the next term is DEK."
+        },
+        {
+          "letter": "B",
+          "text": "DEK",
+          "isCorrect": true,
+          "explanation": "The pattern follows (-2, 0, -2) for the first, second, and third letters, respectively, so the next term is DEK."
+        },
+        {
+          "letter": "C",
+          "text": "GEL",
+          "isCorrect": false,
+          "explanation": "The pattern follows (-2, 0, -2) for the first, second, and third letters, respectively, so the next term is DEK."
+        },
+        {
+          "letter": "D",
+          "text": "DFK",
+          "isCorrect": false,
+          "explanation": "The pattern follows (-2, 0, -2) for the first, second, and third letters, respectively, so the next term is DEK."
+        }
+      ],
+      "explanation": "The pattern follows (-2, 0, -2) for the first, second, and third letters respectively, so the next term is DEK.",
+      "explanationImage": null,
+      "hints": [
+        "pattern"
+      ]
+    },
+    {
+      "text": "Verbal ReasoningStatements:(I) He has got cavities in his tooth (II) He eats too many chocolates",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Statement 1 is the cause and statement 2 is its effect.",
+          "isCorrect": false,
+          "explanation": "This is incorrect because having cavities cannot cause someone to eat chocolates."
+        },
+        {
+          "letter": "B",
+          "text": "Statement 2 is the cause and statement 1 is its effect.",
+          "isCorrect": true,
+          "explanation": "This is correct because excessive consumption of chocolates, which are high in sugar, can lead to cavities due to bacterial growth and acid production in the mouth."
+        },
+        {
+          "letter": "C",
+          "text": "Both statements are independent causes.",
+          "isCorrect": false,
+          "explanation": "This is incorrect because the two statements are related, with one leading to the other."
+        },
+        {
+          "letter": "D",
+          "text": "Both statements are of a common cause.",
+          "isCorrect": false,
+          "explanation": "This is incorrect because the statements do not share a common cause; rather, one is the cause and the other is the effect."
+        }
+      ],
+      "explanation": "Statement 2 is the cause and statement 1 is its effect. Eating too many chocolates is a known cause of cavities due to the sugar content, which promotes bacterial growth and acid production. As a result, this leads to tooth decay and cavities. Statement 1 being the cause would not logically lead to statement 2. Additionally, the statements are not independent as they are directly related, nor do they share a common cause.",
+      "explanationImage": null,
+      "hints": [
+        "cavities",
+        "chocolates",
+        "effect"
+      ]
+    },
+    {
+      "text": "Directions: In the following question, a number sequence is given with one term missing. Choose the correct term that will continue the same pattern and replace the question mark in the given sequence.198,194,185,169,?",
+      "image": null,
+      "subject": "Logical Reasoning",
+      "topic": "Logical Reasoning",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "92",
+          "isCorrect": false,
+          "explanation": "The differences between the sequence terms follow a pattern of consecutive perfect squares (2², 3², 4²). Subtracting 5² from the last term (169) gives 144, not 92."
+        },
+        {
+          "letter": "B",
+          "text": "112",
+          "isCorrect": false,
+          "explanation": "The sequence decreases by perfect square values (2², 3², 4²). The next difference should be 5², leading to 144, not 112."
+        },
+        {
+          "letter": "C",
+          "text": "136",
+          "isCorrect": false,
+          "explanation": "Subtracting 5² (25) from 169 matches the pattern of perfect squares, resulting in 144, not 136."
+        },
+        {
+          "letter": "D",
+          "text": "144",
+          "isCorrect": true,
+          "explanation": "The differences between terms are consecutive perfect squares (2², 3², 4²). The next difference, 5² (25), subtracted from 169 results in the correct answer, 144."
+        }
+      ],
+      "explanation": "To solve this sequence, observe the differences between consecutive numbers: 198, 194, 185, 169. The differences are -4, -9, -16, which are perfect squares of 2, 3, and 4. Continuing this pattern, the next difference should be 5², which is 25. Subtracting 25 from 169 gives 144.Therefore, the missing term is 144. Options 92, 112, and 136 do not match the pattern of perfect square differences and thus are incorrect.",
+      "explanationImage": null,
+      "hints": [
+        "sequence",
+        "differences",
+        "pattern"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3884 @@
+{
+  "questions": [
+    {
+      "text": "The extension in a string, obeying Hooke’s law, is x. The speed of sound in the stretched string is v. If the extension in the string is increased to 1.5x, the speed of sound will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.22 v",
+          "isCorrect": true,
+          "explanation": "This option is correct because the relationship between speed and extension shows that increasing extension by 1.5 times increases speed by the square root of 1.5, giving approximately 1.22 times the original speed."
+        },
+        {
+          "letter": "B",
+          "text": "0.61 v",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It suggests a decrease in speed, which does not align with the increase in tension due to greater extension."
+        },
+        {
+          "letter": "C",
+          "text": "1.50 v",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While it suggests a direct multiplication of speed by the extension factor, the correct relationship involves the square root of the extension factor, not a direct ratio."
+        },
+        {
+          "letter": "D",
+          "text": "0.75 v",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect. It implies a reduction in speed, which contradicts the principle that increasing extension increases tension and thus the speed of sound."
+        }
+      ],
+      "explanation": "Wave speed in a stretched string v ∝ √T and tension T ∝ extension (Hooke’s law). Increasing extension by 1.5 multiplies T by 1.5, so v₂ = v₁√1.5 ≈ 1.22 v₁.",
+      "explanationImage": null,
+      "hints": [
+        "extension",
+        "speed of sound"
+      ]
+    },
+    {
+      "text": "When sound waves move from one medium to other medium the quantity which remains unchanged is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wavelength",
+          "isCorrect": false,
+          "explanation": "The wavelength of sound waves changes when moving from one medium to another because it is dependent on both the speed of sound in the medium and the frequency. Therefore, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Frequency",
+          "isCorrect": true,
+          "explanation": "Frequency remains unchanged as sound waves transition between different media. It is determined by the source of the sound, making this option the correct answer."
+        },
+        {
+          "letter": "C",
+          "text": "Speed",
+          "isCorrect": false,
+          "explanation": "The speed of sound varies between different media due to differences in density and elasticity. This means that speed is not constant and can change, making this option incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Intensity",
+          "isCorrect": false,
+          "explanation": "Intensity can vary when sound waves move between media due to factors such as absorption and reflection. Therefore, this option is also incorrect."
+        }
+      ],
+      "explanation": "At a boundary the source determines the oscillation rate; frequency is set by the emitter and stays constant across media. Speed and wavelength adjust to satisfy v = fλ, and intensity may change due to transmission/reflection.",
+      "explanationImage": null,
+      "hints": [
+        "sound waves",
+        "medium",
+        "unchanged"
+      ]
+    },
+    {
+      "text": "A cylindrical tube, open at both ends, has a fundamental frequency 'f' in air. The tube is vertically dipped in water so that half of it is in water. The fundamental frequency of the air column is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "f/2",
+          "isCorrect": false,
+          "explanation": "This option suggests that the fundamental frequency is halved. This would only be true if the length of the air column was effectively doubled, which is not the case here."
+        },
+        {
+          "letter": "B",
+          "text": "3f/4",
+          "isCorrect": false,
+          "explanation": "This option implies a reduction in frequency but is not reflective of the actual change in effective length of the air column in this specific configuration."
+        },
+        {
+          "letter": "C",
+          "text": "f",
+          "isCorrect": true,
+          "explanation": "This is the correct answer as the effective length of the air column that supports standing waves remains unchanged, leading to the same fundamental frequency."
+        },
+        {
+          "letter": "D",
+          "text": "2f",
+          "isCorrect": false,
+          "explanation": "This option suggests that the fundamental frequency has doubled, which would occur only if the effective length of the air column were halved, contrary to the setup described. So, this option is not correct."
+        }
+      ],
+      "explanation": "Dipping may change effective length slightly, but if air column length that supports standing wave remains unchanged for described configuration, fundamental frequency remains essentially f. Frequency depends on effective resonant length and wave speed, which are unchanged here.",
+      "explanationImage": null,
+      "hints": [
+        "cylindrical tube",
+        "fundamental frequency",
+        "half of it in water"
+      ]
+    },
+    {
+      "text": "An accurate and reliable audio oscillator is used to standardize a tuning fork. When the oscillator reading is 514, two beats are heard per second. When the oscillator reading is 510, the beat frequency is 6 Hz. The frequency of the tuning fork is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "506",
+          "isCorrect": false,
+          "explanation": "This option suggests a frequency lower than both oscillator readings. However, with a beat frequency of 6 Hz at 510 Hz, the tuning fork frequency cannot be 506 Hz."
+        },
+        {
+          "letter": "B",
+          "text": "510",
+          "isCorrect": false,
+          "explanation": "This option matches one of the oscillator readings but does not account for the beat frequencies observed, making it an incorrect choice."
+        },
+        {
+          "letter": "C",
+          "text": "516",
+          "isCorrect": true,
+          "explanation": "This option satisfies both conditions stated in the problem, where the frequency difference with the oscillator reading of 514 produces 2 beats, and with 510 produces 6 beats."
+        },
+        {
+          "letter": "D",
+          "text": "158",
+          "isCorrect": false,
+          "explanation": "This option is significantly lower than the observed frequencies and does not fit the conditions for beat frequency calculations, rendering it incorrect."
+        }
+      ],
+      "explanation": "Beats = |ffork − fosc|. From readings: |f−514| = 2 and |f−510| = 6. Solving gives f = 516 Hz (516−514=2 and 516−510=6). So 516 Hz fits both conditions.",
+      "explanationImage": null,
+      "hints": [
+        "oscillator reading",
+        "beats heard",
+        "frequency of the tuning fork"
+      ]
+    },
+    {
+      "text": "Two waves of frequency 250 Hz and 255 Hz are sounded together. The beat frequency is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.5 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it does not represent the absolute difference between the two given frequencies."
+        },
+        {
+          "letter": "B",
+          "text": "5 Hz",
+          "isCorrect": true,
+          "explanation": "This is the correct answer as it represents the absolute difference between the two frequencies (|255 Hz - 250 Hz| = 5 Hz)."
+        },
+        {
+          "letter": "C",
+          "text": "255 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it simply restates one of the original frequencies, not the beat frequency."
+        },
+        {
+          "letter": "D",
+          "text": "250 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it is one of the original frequencies and does not reflect the beat frequency."
+        }
+      ],
+      "explanation": "Beat frequency = difference of frequencies = |255 – 250| = 5 Hz.",
+      "explanationImage": null,
+      "hints": [
+        "frequency",
+        "beat frequency",
+        "sounded together"
+      ]
+    },
+    {
+      "text": "The velocity of sound in air is 332 m/s. Velocity in the vacuum will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Greater than 332 m/s",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because sound cannot travel faster than its maximum speed in any medium, and it requires a medium to propagate."
+        },
+        {
+          "letter": "B",
+          "text": "Less than 332 m/s",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect since sound cannot travel in a vacuum at all; it does not have a speed, rather it is nonexistent in that environment."
+        },
+        {
+          "letter": "C",
+          "text": "Equal to 332 m/s",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because this value is specific to sound traveling in air, and sound cannot propagate in a vacuum."
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "This is the correct option because sound requires a medium to transmit through pressure waves. In a vacuum, there are no particles to carry the sound, resulting in a speed of zero."
+        }
+      ],
+      "explanation": "Sound is a mechanical pressure wave requiring a material medium to propagate; a vacuum has no particles to transmit compressions/rarefactions, so sound speed in vacuum is zero.",
+      "explanationImage": null,
+      "hints": [
+        "velocity of sound",
+        "in the vacuum"
+      ]
+    },
+    {
+      "text": "A source of sound of frequency 600 Hz is placed inside water. The speed of sound in water is 1500 m/s and in air, it is 300 m/s. The frequency of sound recorded by an observer who is standing in the air is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "200 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the frequency of the sound source does not change as it moves from water to air."
+        },
+        {
+          "letter": "B",
+          "text": "3000 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect; it suggests a significant increase in frequency, which does not happen when transitioning between media."
+        },
+        {
+          "letter": "C",
+          "text": "120 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it underestimates the frequency of the sound produced by the source, which remains at 600 Hz."
+        },
+        {
+          "letter": "D",
+          "text": "600 Hz",
+          "isCorrect": true,
+          "explanation": "This is the correct answer, as the frequency of a sound wave is determined by its source and remains unchanged when it travels from one medium to another."
+        }
+      ],
+      "explanation": "Frequency is determined by source oscillation and does not change when waves cross media. Observed frequency remains 600 Hz; only wavelength and speed change according to v = fλ.",
+      "explanationImage": null,
+      "hints": [
+        "frequency",
+        "speed of sound in air",
+        "observer"
+      ]
+    },
+    {
+      "text": "The time required for a wave to complete one vibration is called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Frequency",
+          "isCorrect": false,
+          "explanation": "Frequency refers to the number of complete vibrations or cycles that occur in a unit of time, typically measured in Hertz (Hz). It is not the time taken for one vibration, but rather how often vibrations occur."
+        },
+        {
+          "letter": "B",
+          "text": "Amplitude",
+          "isCorrect": false,
+          "explanation": "Amplitude measures the maximum displacement of points on a wave from the rest position. It indicates the strength or intensity of the wave, not the duration of one complete vibration."
+        },
+        {
+          "letter": "C",
+          "text": "Time period",
+          "isCorrect": true,
+          "explanation": "The time period (T) is defined as the time taken for one complete cycle or vibration of a wave. It is the correct answer and is the reciprocal of frequency, given by the formula T = 1/f."
+        },
+        {
+          "letter": "D",
+          "text": "Wavelength",
+          "isCorrect": false,
+          "explanation": "Wavelength is the distance between successive crests (or troughs) of a wave. While it relates to the characteristics of a wave, it does not define the time taken for a single vibration."
+        }
+      ],
+      "explanation": "The time period (T) is the time taken for one complete cycle or vibration of a wave. It is the reciprocal of frequency: T=1/f.",
+      "explanationImage": null,
+      "hints": [
+        "time",
+        "vibration"
+      ]
+    },
+    {
+      "text": "The points in a wave separated by the displacement \"x\" have the phase difference of:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "λ",
+          "isCorrect": false,
+          "explanation": "This option represents the wavelength, but does not reflect the phase difference caused by a specific displacement."
+        },
+        {
+          "letter": "B",
+          "text": "λx/π",
+          "isCorrect": false,
+          "explanation": "This expression incorrectly relates the wavelength and displacement to the phase difference. The correct relationship involves 2π instead of π."
+        },
+        {
+          "letter": "C",
+          "text": "2πx/λ",
+          "isCorrect": true,
+          "explanation": "This is the correct expression for phase difference. It shows how the displacement x correlates with the wavelength λ to determine the phase in radians."
+        },
+        {
+          "letter": "D",
+          "text": "2πλ/x",
+          "isCorrect": false,
+          "explanation": "This option inverts the relationship between displacement and wavelength, leading to an incorrect calculation of phase difference."
+        }
+      ],
+      "explanation": "Phase difference Δφ = (2π/λ)·x because a full wavelength λ corresponds to 2π radians. So displacement x maps to phase (2π/λ)x.",
+      "explanationImage": null,
+      "hints": [
+        "phase difference",
+        "displacement",
+        "wave"
+      ]
+    },
+    {
+      "text": "A plane produces a sonic boom when:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Its speed is greater than sound",
+          "isCorrect": true,
+          "explanation": "This is the correct answer because a sonic boom occurs when an object exceeds the speed of sound, creating shock waves."
+        },
+        {
+          "letter": "B",
+          "text": "Its sound is much louder",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because simply producing louder sound does not cause a sonic boom; the speed of the object is the critical factor."
+        },
+        {
+          "letter": "C",
+          "text": "It produces sound of high energy",
+          "isCorrect": false,
+          "explanation": "This option is misleading, as high energy sound does not guarantee a sonic boom; the object's speed relative to sound is what matters."
+        },
+        {
+          "letter": "D",
+          "text": "It produces sound of high amplitude",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because high amplitude sound does not necessarily relate to supersonic speeds; the occurrence of a sonic boom is strictly about speed."
+        }
+      ],
+      "explanation": "A sonic boom is the shock wave formed when an object travels supersonically (speed > sound) and the pressure disturbances coalesce into a sharp shock, producing the audible boom.",
+      "explanationImage": null,
+      "hints": [
+        "sonic boom",
+        "speed",
+        "sound"
+      ]
+    },
+    {
+      "text": "If the distant star is receding from us, the spectral lines from such a star when examined on Earth will show:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "No shift in frequency",
+          "isCorrect": false,
+          "explanation": "This option suggests that the spectral lines remain unchanged, which is incorrect because motion affects observed wavelengths."
+        },
+        {
+          "letter": "B",
+          "text": "A shift in frequency towards the red end",
+          "isCorrect": true,
+          "explanation": "This is the correct answer, as a receding star results in a redshift, where wavelengths are stretched, indicating a shift towards the red end of the spectrum."
+        },
+        {
+          "letter": "C",
+          "text": "A shift in frequency towards the violet end",
+          "isCorrect": false,
+          "explanation": "This option is incorrect; a shift towards the violet end (blueshift) occurs when an object is approaching, not receding."
+        },
+        {
+          "letter": "D",
+          "text": "Shift in frequency towards ultraviolet",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect; a shift towards ultraviolet would imply a stronger blueshift, which does not occur in the case of a receding star."
+        }
+      ],
+      "explanation": "Recession causes wavelengths to be stretched (redshift), shifting spectral lines to longer wavelengths (red end). This is the cosmological/ Doppler effect signature of receding objects.",
+      "explanationImage": null,
+      "hints": [
+        "receding",
+        "spectral lines",
+        "shift in frequency"
+      ]
+    },
+    {
+      "text": "A person moves with a speed 1/3 the speed of sound waves towards the stationary source of sound. Then the frequency of sound waves heard by the person will:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2/3 f",
+          "isCorrect": false,
+          "explanation": "This option suggests a decrease in frequency, which is incorrect. An observer moving towards a source of sound will actually perceive a higher frequency."
+        },
+        {
+          "letter": "B",
+          "text": "3/2 f",
+          "isCorrect": false,
+          "explanation": "This option indicates an increase in frequency, but it does not take into account the correct ratio of the observer's speed to the speed of sound for this specific scenario."
+        },
+        {
+          "letter": "C",
+          "text": "4/3 f",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. According to the Doppler effect, when the observer moves towards a stationary source at 1/3 the speed of sound, the frequency increases to 4/3 times the original frequency."
+        },
+        {
+          "letter": "D",
+          "text": "3/4 f",
+          "isCorrect": false,
+          "explanation": "This option suggests a significant decrease in frequency, which contradicts the effect of the observer approaching the sound source."
+        }
+      ],
+      "explanation": "For observer moving towards stationary source: f' = f(1 + vobs /v). With vobs = (1/3)v, f' = f(1 + 1/3) = (4/3) f. So observed frequency increases to 4/3 times f.",
+      "explanationImage": null,
+      "hints": [
+        "speed of sound",
+        "frequency"
+      ]
+    },
+    {
+      "text": "Due to the overlapping of two identical waves the speed of the resultant wave:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decrease",
+          "isCorrect": false,
+          "explanation": "This option suggests that the speed of the resultant wave decreases, which is incorrect. The speed of a wave is constant for a given medium."
+        },
+        {
+          "letter": "B",
+          "text": "Increase",
+          "isCorrect": false,
+          "explanation": "This option implies that the speed of the resultant wave increases, which is also incorrect. The speed remains unchanged regardless of the wave interactions."
+        },
+        {
+          "letter": "C",
+          "text": "Becomes twice",
+          "isCorrect": false,
+          "explanation": "This option is not valid as speed doesn't twice with the superposition of two identical waves in a medium because it remains unchanged in a medium."
+        },
+        {
+          "letter": "D",
+          "text": "Remains same",
+          "isCorrect": true,
+          "explanation": "This option correctly states that the speed of the resultant wave remains the same as that of the original waves, due to the principle of superposition."
+        }
+      ],
+      "explanation": "Superposition affects amplitude and phase but not the propagation speed, which is set by the medium and wave type. Thus the resultant wave travels at the same speed.",
+      "explanationImage": null,
+      "hints": [
+        "overlapping",
+        "resultant wave",
+        "speed"
+      ]
+    },
+    {
+      "text": "Longitudinal waves are also known as:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transverse waves",
+          "isCorrect": false,
+          "explanation": "Transverse waves are characterized by oscillations that are perpendicular to the direction of wave propagation, unlike longitudinal waves, which have oscillations in the same direction as their propagation."
+        },
+        {
+          "letter": "B",
+          "text": "Pressure waves",
+          "isCorrect": true,
+          "explanation": "Pressure waves refer to longitudinal waves, as they are characterized by areas of compression and rarefaction, making this the correct answer especially in the context of sound."
+        },
+        {
+          "letter": "C",
+          "text": "Particle waves",
+          "isCorrect": false,
+          "explanation": "While particle waves can refer to wave-like behavior of particles, it is not a commonly used term for longitudinal waves and does not accurately describe the nature of the compressions and rarefactions."
+        },
+        {
+          "letter": "D",
+          "text": "Electromagnetic waves",
+          "isCorrect": false,
+          "explanation": "Electromagnetic waves are a type of transverse wave that do not require a medium to propagate, which differentiates them from longitudinal waves like sound."
+        }
+      ],
+      "explanation": "Longitudinal waves consist of compressions and rarefactions (pressure variations) along propagation, so calling them pressure waves is appropriate, especially for sound.",
+      "explanationImage": null,
+      "hints": [
+        "Longitudinal waves"
+      ]
+    },
+    {
+      "text": "Longitudinal and transverse waves can be distinguished by the property of:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Interference",
+          "isCorrect": false,
+          "explanation": "Interference refers to the interaction between waves that can result in constructive or destructive patterns. It is a property observed in both longitudinal and transverse waves, thus not distinguishing them."
+        },
+        {
+          "letter": "B",
+          "text": "Diffraction",
+          "isCorrect": false,
+          "explanation": "Diffraction is the bending of waves around obstacles and openings. This phenomenon occurs in both longitudinal and transverse waves, making it insufficient for distinguishing between the two types."
+        },
+        {
+          "letter": "C",
+          "text": "Reflection",
+          "isCorrect": false,
+          "explanation": "Reflection is the bouncing back of waves when they encounter a barrier. Both longitudinal and transverse waves can reflect, so this property does not differentiate them."
+        },
+        {
+          "letter": "D",
+          "text": "Polarization",
+          "isCorrect": true,
+          "explanation": "Polarization is the orientation of wave oscillations in a specific direction. This property is unique to transverse waves, as longitudinal waves cannot be polarized. Therefore, polarization effectively distinguishes between the two types of waves."
+        }
+      ],
+      "explanation": "Polarization is unique to transverse waves (directional oscillation perpendicular to propagation). Longitudinal waves cannot be polarized, so polarization distinguishes the two types.",
+      "explanationImage": null,
+      "hints": [
+        "Longitudinal",
+        "Transverse",
+        "distinguished"
+      ]
+    },
+    {
+      "text": "A star is moving towards Earth shows:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Blue shift",
+          "isCorrect": true,
+          "explanation": "The phenomenon where light waves are compressed as the source approaches, resulting in a shift towards the blue end of the spectrum. This indicates that the star is moving closer to Earth."
+        },
+        {
+          "letter": "B",
+          "text": "Red shift",
+          "isCorrect": false,
+          "explanation": "This refers to the increase in wavelength (or decrease in frequency) of light from an object moving away from the observer, which is not applicable when the star is approaching."
+        },
+        {
+          "letter": "C",
+          "text": "Green shift",
+          "isCorrect": false,
+          "explanation": "This is not a recognized term in astronomy; light can shift to blue or red depending on the object's motion relative to the observer."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it suggests that multiple shifts can occur simultaneously, which is not the case. Only blue shift applies when the star is moving towards Earth."
+        }
+      ],
+      "explanation": "Approach shortens wavelengths (blueshift), shifting spectral lines toward the blue region. Redshift occurs for recession, not approach.",
+      "explanationImage": null,
+      "hints": [
+        "moving",
+        "towards",
+        "Earth"
+      ]
+    },
+    {
+      "text": "Which of the following cannot be used in RADAR system?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Infrared rays",
+          "isCorrect": false,
+          "explanation": "Infrared rays are used in some sensing applications, but they are not suitable for long-range detection like RADAR systems, which primarily employ radio and microwave frequencies."
+        },
+        {
+          "letter": "B",
+          "text": "X-Rays",
+          "isCorrect": true,
+          "explanation": "X-Rays are high-energy electromagnetic waves that are impractical for RADAR systems due to their strong absorption in the atmosphere and safety concerns associated with their use."
+        },
+        {
+          "letter": "C",
+          "text": "Microwaves",
+          "isCorrect": false,
+          "explanation": "Microwaves are widely used in RADAR systems for their ability to penetrate the atmosphere and provide high-resolution detection capabilities."
+        },
+        {
+          "letter": "D",
+          "text": "Radio waves",
+          "isCorrect": false,
+          "explanation": "Radio waves are the primary medium for RADAR systems, allowing for effective transmission and reception of signals over vast distances."
+        }
+      ],
+      "explanation": "Radar commonly uses radio/microwave bands. X‑rays are impractical due to strong absorption, safety issues and lack of suitable antennas; hence X‑rays are not used in radar.",
+      "explanationImage": null,
+      "hints": [
+        "RADAR",
+        "cannot be used"
+      ]
+    },
+    {
+      "text": "Electric and magnetic fields constitute:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electromagnetic waves",
+          "isCorrect": true,
+          "explanation": "Electromagnetic waves are formed by oscillating electric and magnetic fields that propagate through space. This is the correct answer because these waves can travel through a vacuum and include visible light, radio waves, and X-rays."
+        },
+        {
+          "letter": "B",
+          "text": "Transverse waves",
+          "isCorrect": false,
+          "explanation": "While electromagnetic waves are indeed transverse, this option does not fully encapsulate the specific type of wave formed by electric and magnetic fields together. Transverse waves can also refer to other wave types, like waves on a string."
+        },
+        {
+          "letter": "C",
+          "text": "Longitudinal waves",
+          "isCorrect": false,
+          "explanation": "Longitudinal waves are characterized by particle displacement parallel to wave propagation, such as sound waves in air. Electromagnetic waves do not fit this description, making this choice incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Stationary waves",
+          "isCorrect": false,
+          "explanation": "Stationary waves, or standing waves, occur when two waves of the same frequency interfere with each other. This is not applicable to the propagation of electric and magnetic fields, thus this option is also incorrect."
+        }
+      ],
+      "explanation": "Time-varying electric and magnetic fields propagate together as electromagnetic waves (which are transverse in free space), so option A is correct.",
+      "explanationImage": null,
+      "hints": [
+        "Magnetic fields",
+        "Electric"
+      ]
+    },
+    {
+      "text": "If 20 waves pass through the medium in 1 sec with speed of 20ms-1 then wavelength is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "20m",
+          "isCorrect": false,
+          "explanation": "Incorrect. This value suggests a wavelength that would imply a much lower frequency given the speed of the wave."
+        },
+        {
+          "letter": "B",
+          "text": "2m",
+          "isCorrect": false,
+          "explanation": "Incorrect. This option implies a frequency that does not match the given speed and number of waves. If the wavelength were 2m, the frequency would be 10 Hz."
+        },
+        {
+          "letter": "C",
+          "text": "400m",
+          "isCorrect": false,
+          "explanation": "Incorrect. A wavelength of 400m would imply a very low frequency, which is inconsistent with the information provided."
+        },
+        {
+          "letter": "D",
+          "text": "1m",
+          "isCorrect": true,
+          "explanation": "Correct. This value is derived from the formula λ = v/f, where v is the speed of the wave (20 m/s) and f is the frequency (20 Hz). Thus, λ = 20 m/s / 20 Hz = 1 m."
+        }
+      ],
+      "explanation": "Frequency f = 20 Hz, speed v = 20 m/s, so λ = v/f = 20/20 = 1 m. Thus option D is correct.",
+      "explanationImage": null,
+      "hints": [
+        "20 waves",
+        "1 sec",
+        "wavelength"
+      ]
+    },
+    {
+      "text": "Progressive waves of frequency 300 Hz are superimposed to produce a system of stationary waves in which adjacent nodes are 1.5 m apart. What is the speed of progressive waves?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 m/s",
+          "isCorrect": false,
+          "explanation": "This option suggests a very low wave speed. Given the frequency and node separation, this value does not align with the expected calculations for progressive waves."
+        },
+        {
+          "letter": "B",
+          "text": "200 m/s",
+          "isCorrect": false,
+          "explanation": "This option also underestimates the wave speed. With a frequency of 300 Hz and the calculated wavelength, the wave speed should be significantly higher than this value."
+        },
+        {
+          "letter": "C",
+          "text": "450 m/s",
+          "isCorrect": false,
+          "explanation": "This option is closer but still incorrect. The calculated speed based on the wavelength derived from the nodes indicates a higher value."
+        },
+        {
+          "letter": "D",
+          "text": "900 m/s",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The wave speed is calculated using the formula v = fλ, where λ is derived from the distance between nodes, confirming that the speed is indeed 900 m/s."
+        }
+      ],
+      "explanation": "Adjacent nodes separation = λ/2 = 1.5 m ⇒ λ = 3.0 m. Wave speed v = f λ = 300 × 3 = 900 m/s. Thus, option (D) is correct.",
+      "explanationImage": null,
+      "hints": [
+        "frequency 300 Hz",
+        "adjacent nodes 1.5 m apart",
+        "nodes",
+        "1.5 m",
+        "speed"
+      ]
+    },
+    {
+      "text": "The frequency of sound is f and velocity is v, if frequency increases to 4f velocity will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "v",
+          "isCorrect": true,
+          "explanation": "This option is correct because the speed of sound in a medium remains constant regardless of changes in frequency."
+        },
+        {
+          "letter": "B",
+          "text": "4v",
+          "isCorrect": false,
+          "explanation": "This option suggests that velocity quadruples with frequency, which is incorrect as velocity is independent of frequency in a given medium."
+        },
+        {
+          "letter": "C",
+          "text": "v/4",
+          "isCorrect": false,
+          "explanation": "This option implies that velocity decreases to a quarter, which is incorrect. The speed of sound does not change with frequency."
+        },
+        {
+          "letter": "D",
+          "text": "2v",
+          "isCorrect": false,
+          "explanation": "This option suggests that velocity doubles, which is incorrect. The speed of sound remains constant regardless of frequency changes."
+        }
+      ],
+      "explanation": "In a given medium sound speed depends on medium properties (elasticity, density), not frequency. If f increases, λ decreases such that v = fλ remains constant.",
+      "explanationImage": null,
+      "hints": [
+        "frequency",
+        "velocity"
+      ]
+    },
+    {
+      "text": "If the frequency of a wave is doubled while the speed remains constant, its wavelength becomes:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Doubled",
+          "isCorrect": false,
+          "explanation": "Doubling the frequency while keeping speed constant would not result in a doubling of wavelength, making this option incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Halved",
+          "isCorrect": true,
+          "explanation": "When the frequency of the wave is doubled, the wavelength is halved to maintain constant wave speed, making this the correct answer."
+        },
+        {
+          "letter": "C",
+          "text": "Unchanged",
+          "isCorrect": false,
+          "explanation": "Keeping the speed the same while changing frequency means the wavelength must change, so this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Four times",
+          "isCorrect": false,
+          "explanation": "Four times the wavelength would imply a much lower frequency, contradicting the condition of doubling frequency, thus making this option incorrect."
+        }
+      ],
+      "explanation": "If the wave speed stays constant, doubling the frequency makes the wavelength half.",
+      "explanationImage": null,
+      "hints": [
+        "frequency",
+        "wavelength"
+      ]
+    },
+    {
+      "text": "A 100 cm long string fixed at its two ends is plucked from the middle. The wavelength of stationary waves generated is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.5 m",
+          "isCorrect": false,
+          "explanation": "This option represents a wavelength corresponding to the second harmonic, but it does not apply to the fundamental frequency for the given string length."
+        },
+        {
+          "letter": "B",
+          "text": "1m",
+          "isCorrect": false,
+          "explanation": "This wavelength corresponds to the third harmonic of a string of this length, but it is not the fundamental wavelength."
+        },
+        {
+          "letter": "C",
+          "text": "2m",
+          "isCorrect": true,
+          "explanation": "This is the correct wavelength for the fundamental frequency of the string fixed at both ends, calculated as λ = 2L, where L is the length of the string."
+        },
+        {
+          "letter": "D",
+          "text": "3m",
+          "isCorrect": false,
+          "explanation": "This wavelength does not correspond to any harmonic of a string of this length and is therefore incorrect."
+        }
+      ],
+      "explanation": "A string fixed at both ends with length L = 1 m supports fundamental λ = 2L = 2 m. Plucking at midpoint excites harmonics including the fundamental, giving λ = 2 m.",
+      "explanationImage": null,
+      "hints": [
+        "100 cm long",
+        "plucked from the middle",
+        "wavelength"
+      ]
+    },
+    {
+      "text": "The distance between node and anti-node is 85 cm the velocity of sound is 340 ms⁻¹ the frequency of waves is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 Hz",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The calculation shows that the frequency is determined by dividing the speed of sound by the wavelength."
+        },
+        {
+          "letter": "B",
+          "text": "250 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. If the frequency were 250 Hz, the wavelength would be shorter than calculated, contradicting the given distance between the node and anti-node."
+        },
+        {
+          "letter": "C",
+          "text": "200 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A frequency of 200 Hz implies a much longee wavelength, which does not fit the distance provided between the node and anti-node."
+        },
+        {
+          "letter": "D",
+          "text": "340 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as well. A frequency of 340 Hz would suggest a wavelength that does not align with the distance between the node and anti-node calculated from the given data."
+        }
+      ],
+      "explanation": "Node to antinode = λ/4 = 0.85 m ⇒ λ = 3.4 m. Frequency f = v/λ = 340/3.4 = 100 Hz. Thus, option A is correct.",
+      "explanationImage": null,
+      "hints": [
+        "node",
+        "anti-node",
+        "velocity of sound"
+      ]
+    },
+    {
+      "text": "When a wave moves through 10 m, a point changes from crest to trough and the time taken is 1 s. The wavelength of the wave and its frequency are:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 m, 0.5 Hz",
+          "isCorrect": true,
+          "explanation": "This option is correct because the distance from crest to trough is half the wavelength, leading to a wavelength of 20 m, and a frequency of 0.5 Hz when calculated from the time period."
+        },
+        {
+          "letter": "B",
+          "text": "0.5 m, 20 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The wavelength cannot be 0.5 m since the distance covered is 10 m for a half cycle. Additionally, a frequency of 20 Hz would imply a very short period, which does not match the time taken."
+        },
+        {
+          "letter": "C",
+          "text": "10 m, 1 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as the wavelength is not 10 m; it represents the full cycle, while only half the wavelength is covered in the given distance."
+        },
+        {
+          "letter": "D",
+          "text": "1 m, 10 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A wavelength of 1 m is too short for the distance covered of 10 m, and a frequency of 10 Hz is incompatible with the time period calculated."
+        }
+      ],
+      "explanation": "Crest to trough is half a wavelength; hence λ/2 = 10 m ⇒ λ = 20 m. Time for half-cycle = 1 s ⇒ period T = 2 s ⇒ f = 1/2 = 0.5 Hz.",
+      "explanationImage": null,
+      "hints": [
+        "crest",
+        "trough",
+        "wavelength",
+        "frequency"
+      ]
+    },
+    {
+      "text": "Which one is the correct relation for the fundamental frequency of open and closed pipes:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "fopen = 2fclosed",
+          "isCorrect": true,
+          "explanation": "This option correctly states that the fundamental frequency of an open pipe is twice that of a closed pipe, which is a result of their differing harmonics and lengths."
+        },
+        {
+          "letter": "B",
+          "text": "fclosed = 2fopen",
+          "isCorrect": false,
+          "explanation": "This statement is incorrect because it suggests that the closed pipe's frequency is twice that of the open pipe, which contradicts the established relationship."
+        },
+        {
+          "letter": "C",
+          "text": "fopen = fclosed",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it implies both pipes have the same fundamental frequency, which is not true due to their different harmonic structures."
+        },
+        {
+          "letter": "D",
+          "text": "fopen = 1/fclosed",
+          "isCorrect": false,
+          "explanation": "This statement is incorrect as it suggests an inverse relationship between the frequencies of the two types of pipes, which does not hold true in wave motion."
+        }
+      ],
+      "explanation": "For same length L: open pipe fopen = v/2L; closed pipe fclosed = v/4L. Therefore fopen = 2 fclosed. Thus, option A is correct.",
+      "explanationImage": null,
+      "hints": [
+        "fundamental frequency",
+        "open pipe",
+        "closed pipe",
+        "open"
+      ]
+    },
+    {
+      "text": "The phase change of 180 is equivalent to a path difference:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "λ/2",
+          "isCorrect": true,
+          "explanation": "This option is correct because a phase change of 180 degrees (or π radians) corresponds to a path difference of half a wavelength, λ/2."
+        },
+        {
+          "letter": "B",
+          "text": "λ",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because a path difference of one full wavelength (λ) corresponds to a phase change of 360 degrees, not 180 degrees."
+        },
+        {
+          "letter": "C",
+          "text": "2λ",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as a path difference of two wavelengths (2λ) corresponds to a phase change of 720 degrees, which is more than the 180 degrees specified in the question."
+        },
+        {
+          "letter": "D",
+          "text": "4λ",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect because a path difference of four wavelengths (4λ) corresponds to a phase change of 1440 degrees, which is significantly greater than the 180 degrees in the question."
+        }
+      ],
+      "explanation": "A full cycle 2π corresponds to λ, so phase π (180°) corresponds to λ/2 path difference. Thus, option A is correct.",
+      "explanationImage": null,
+      "hints": [
+        "phase change",
+        "path difference",
+        "180"
+      ]
+    },
+    {
+      "text": "The ratio of the nodes and antinodes in a closed pipe system (open at one end) is always:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Less than one",
+          "isCorrect": false,
+          "explanation": "This option suggests that there are more antinodes than nodes, which is incorrect for a closed pipe system. In reality, a closed pipe has more nodes than antinodes."
+        },
+        {
+          "letter": "B",
+          "text": "Greater than one",
+          "isCorrect": true,
+          "explanation": "This is the correct option. In a closed pipe, the number of nodes is always one more than the number of antinodes, leading to a ratio that is greater than one."
+        },
+        {
+          "letter": "C",
+          "text": "Equal to one",
+          "isCorrect": false,
+          "explanation": "This option implies an equal number of nodes and antinodes, which is not the case in a closed pipe. The structure of standing waves in such a system guarantees that nodes outnumber antinodes."
+        },
+        {
+          "letter": "D",
+          "text": "Less than or equal to one",
+          "isCorrect": false,
+          "explanation": "This option suggests that the number of nodes is less than or equal to the number of antinodes, which is also incorrect for a closed pipe system. Nodes will always exceed antinodes."
+        }
+      ],
+      "explanation": "For a pipe closed at one end, modes have node at closed end and antinode at open end; typically number of nodes exceeds antinodes (nodes = antinodes +1), so ratio nodes/antinodes > 1.",
+      "explanationImage": null,
+      "hints": [
+        "closed pipe",
+        "nodes",
+        "antinodes"
+      ]
+    },
+    {
+      "text": "Oscillating charge produces:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mechanical wave",
+          "isCorrect": false,
+          "explanation": "Mechanical waves require a medium (solid, liquid, or gas) to propagate. They are produced by vibrating objects, not by oscillating charges, which is why this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Electromagnetic wave",
+          "isCorrect": true,
+          "explanation": "Electromagnetic waves are produced by accelerating or oscillating charges, as they generate time-varying electric and magnetic fields. This is the correct answer."
+        },
+        {
+          "letter": "C",
+          "text": "Matter wave",
+          "isCorrect": false,
+          "explanation": "Matter waves are associated with quantum mechanics and describe the wave-like behavior of particles, not the effects of oscillating charges, making this option incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Longitudinal wave",
+          "isCorrect": false,
+          "explanation": "Longitudinal waves are characterized by particle displacement parallel to the direction of wave propagation, such as sound waves in a medium. Oscillating charges produce electromagnetic waves, not specifically longitudinal waves, making this option incorrect."
+        }
+      ],
+      "explanation": "Accelerating (oscillating) charges generate time-varying electric and magnetic fields that propagate as electromagnetic waves. Thus, option B is correct.",
+      "explanationImage": null,
+      "hints": [
+        "Oscillating"
+      ]
+    },
+    {
+      "text": "A source of frequency f sends waves of wavelength λ traveling with speed v in some medium. If frequency changes to 2f, then new wavelength and new speed are:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2λ, v",
+          "isCorrect": false,
+          "explanation": "This option suggests that the wavelength doubles while the speed remains the same. However, if the frequency increases, the wavelength should decrease, making this option incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "λ, 2v",
+          "isCorrect": false,
+          "explanation": "This option states the wavelength remains constant and the speed doubles. Since the medium is unchanged, the speed cannot change, making this option incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "λ/2, v",
+          "isCorrect": true,
+          "explanation": "This option correctly indicates that when the frequency doubles, the wavelength halves while the speed stays constant. This aligns with the wave equation, making this option correct."
+        },
+        {
+          "letter": "D",
+          "text": "λ, v/2",
+          "isCorrect": false,
+          "explanation": "This option suggests that the wavelength remains the same while the speed is halved. This is incorrect since the frequency increases; thus, the wavelength must decrease instead of remaining constant."
+        }
+      ],
+      "explanation": "Medium unchanged ⇒ wave speed v fixed. If f doubles to 2f, wavelength must halve: λ' = v/(2f) = λ/2. So v remains v and λ becomes λ/2. Thus, option (C) is correct.",
+      "explanationImage": null,
+      "hints": [
+        "frequency f",
+        "wavelength λ",
+        "2f"
+      ]
+    },
+    {
+      "text": "When a certain string is clamped at both ends, the lowest four resonant frequencies are measured to be 100, 150, 200, and 250 Hz. One of the resonant frequencies (below 200 Hz) is missing. What is it?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "25 Hz",
+          "isCorrect": false,
+          "explanation": "This frequency is lower than the fundamental frequency of the string, which makes it impossible as a resonant frequency."
+        },
+        {
+          "letter": "B",
+          "text": "75 Hz",
+          "isCorrect": false,
+          "explanation": "This frequency does not fit the pattern of integral multiples of the fundamental frequency and is thus not a valid resonant frequency."
+        },
+        {
+          "letter": "C",
+          "text": "50 Hz",
+          "isCorrect": true,
+          "explanation": "This frequency is the fundamental frequency of the string, and it fits the pattern of resonant frequencies as the lowest missing frequency below 200 Hz."
+        },
+        {
+          "letter": "D",
+          "text": "125 Hz",
+          "isCorrect": false,
+          "explanation": "This frequency is higher than 100 Hz and is a possible resonant frequency, but it does not fill the gap below 200 Hz that is missing."
+        }
+      ],
+      "explanation": "Observed sequence 100,150,200,250 corresponds to 2f,3f,4f,5f ⇒ fundamental f = 50 Hz. So the missing lowest resonance is 50 Hz.",
+      "explanationImage": null,
+      "hints": [
+        "lowest four resonant frequencies",
+        "missing resonant frequency",
+        "missing"
+      ]
+    },
+    {
+      "text": "An observer hears a clap of thunder 2.0 seconds after seeing the flash of lightning. The speed of sound in air is 320 m/s. How far from the observer was the lightning?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "160 m",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it suggests that sound traveled for only 0.5 seconds, which is significantly shorter than the actual time of 2.0 seconds."
+        },
+        {
+          "letter": "B",
+          "text": "320 m",
+          "isCorrect": false,
+          "explanation": "This option is incorrect; it implies that the sound took 1 second to travel, which does not match the given time of 2.0 seconds."
+        },
+        {
+          "letter": "C",
+          "text": "640 m",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. It is calculated using the formula distance = speed × time, where speed is 320 m/s and time is 2.0 seconds, resulting in a distance of 640 m."
+        },
+        {
+          "letter": "D",
+          "text": "1280 m",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it assumes the sound took 4 seconds to travel, which is double the actual time of 2.0 seconds."
+        }
+      ],
+      "explanation": "Sound travel time = 2.0 s ⇒ distance = v t = 320 × 2 = 640 m. Thus, option C is correct.",
+      "explanationImage": null,
+      "hints": [
+        "2.0 seconds",
+        "speed of sound",
+        "320 m/s"
+      ]
+    },
+    {
+      "text": "Which of the following correctly describes a wave?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "It is a medium",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because a medium is the substance through which a wave travels, not the wave itself."
+        },
+        {
+          "letter": "B",
+          "text": "It is a disturbance",
+          "isCorrect": true,
+          "explanation": "This is the correct answer because a wave is fundamentally a disturbance that propagates through a medium, transferring energy."
+        },
+        {
+          "letter": "C",
+          "text": "It is motion",
+          "isCorrect": false,
+          "explanation": "This option is misleading because while waves involve motion, they are specifically defined as disturbances rather than mere motion itself."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because a wave is fundamentally a disturbance that propagates through a medium, transferring energy."
+        }
+      ],
+      "explanation": "A wave is a disturbance that transfers energy (and information) through a medium or field without net transport of matter. So describing it as a disturbance is correct.",
+      "explanationImage": null,
+      "hints": [
+        "wave",
+        "disturbance"
+      ]
+    },
+    {
+      "text": "In transverse waves the particles of the medium vibrate:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Along the direction of the motion",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because in transverse waves, particles do not move in the same direction as the wave travels; rather, they move perpendicular to it."
+        },
+        {
+          "letter": "B",
+          "text": "Perpendicular to the direction of wave motion",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. In transverse waves, such as those created by a vibrating string, the particles oscillate perpendicular to the direction of wave propagation."
+        },
+        {
+          "letter": "C",
+          "text": "Opposite to the direction of motion of the wave",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it misrepresents the particle motion in transverse waves; particles do not move directly opposite to the wave's movement."
+        },
+        {
+          "letter": "D",
+          "text": "Repeat themselves over time",
+          "isCorrect": false,
+          "explanation": "This option is misleading. While wave patterns can repeat, the question specifically addresses the direction of particle vibrations, not their periodic nature."
+        }
+      ],
+      "explanation": "In transverse waves particles oscillate perpendicular to propagation direction (e.g., string waves, EM fields).",
+      "explanationImage": null,
+      "hints": [
+        "transverse waves",
+        "vibrate",
+        "direction of wave motion"
+      ]
+    },
+    {
+      "text": "An organ pipe with both ends open is 0.85 m long. Assuming that the speed of sound is 340 m/s, the frequency of the third harmonic of this pipe is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "200 Hz",
+          "isCorrect": false,
+          "explanation": "This option is too low. It likely results from a miscalculation of the harmonic frequency or an incorrect assumption about the harmonic number."
+        },
+        {
+          "letter": "B",
+          "text": "400 Hz",
+          "isCorrect": false,
+          "explanation": "This option underestimates the frequency. It may arise from using an incorrect harmonic number or misapplying the frequency formula."
+        },
+        {
+          "letter": "C",
+          "text": "300 Hz",
+          "isCorrect": false,
+          "explanation": "This frequency is also incorrect, as it does not accurately reflect the calculations for the third harmonic of the given pipe length."
+        },
+        {
+          "letter": "D",
+          "text": "600 Hz",
+          "isCorrect": true,
+          "explanation": "This is the correct frequency for the third harmonic of the pipe. The calculation using the formula f = nv /(2L) gives the right result."
+        }
+      ],
+      "explanation": "For open pipe fn = n v / (2L). n=3 ⇒ f = 3×340/(2×0.85) = 1020/1.7 = 600 Hz. Thus option D is correct.",
+      "explanationImage": null,
+      "hints": [
+        "speed of sound",
+        "ends open"
+      ]
+    },
+    {
+      "text": "The sounds of the frequency greater than 20000 Hz are called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Audible sound",
+          "isCorrect": false,
+          "explanation": "Audible sound refers to frequencies that fall within the range of human hearing, typically from about 20 Hz to 20 kHz. Therefore, this option is not correct as it does not encompass frequencies above 20 kHz."
+        },
+        {
+          "letter": "B",
+          "text": "Ultrasonic",
+          "isCorrect": true,
+          "explanation": "Ultrasonic refers to sound frequencies that are greater than 20 kHz, which are beyond the upper limit of human hearing. This option is correct as it accurately identifies sounds with frequencies above 20,000 Hz."
+        },
+        {
+          "letter": "C",
+          "text": "Infrasonic",
+          "isCorrect": false,
+          "explanation": "Infrasonic refers to frequencies that are below 20 Hz, which are also outside the range of human hearing. Therefore, this option is incorrect as it does not relate to frequencies above 20 kHz."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it implies that all provided terms apply to sound frequencies greater than 20 kHz. Only ultrasonic applies, while audible and infrasonic do not."
+        }
+      ],
+      "explanation": "Frequencies above ≈20 kHz are ultrasonic (above human hearing range). Infrasonic is below audible range.",
+      "explanationImage": null,
+      "hints": [
+        "frequency",
+        "20000 Hz"
+      ]
+    },
+    {
+      "text": "If 30 waves per second pass through a medium at a speed of 30 ms⁻¹ then the wavelength is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "30 m",
+          "isCorrect": false,
+          "explanation": "This option suggests a wavelength of 30 meters, which is incorrect. If 30 waves pass in one second at a speed of 30 m/s, the wavelength cannot be this long."
+        },
+        {
+          "letter": "B",
+          "text": "1 m",
+          "isCorrect": true,
+          "explanation": "This option is correct. Using the formula λ = v/f, we find λ = 30 m/s / 30 Hz = 1 m."
+        },
+        {
+          "letter": "C",
+          "text": "15 m",
+          "isCorrect": false,
+          "explanation": "This option suggests a wavelength of 15 meters, which is incorrect. The calculation shows that the wavelength is only 1 meter based on the given speed and frequency."
+        },
+        {
+          "letter": "D",
+          "text": "900 m",
+          "isCorrect": false,
+          "explanation": "This option is significantly incorrect as it implies a wavelength that is far too large compared to the given speed and frequency values."
+        }
+      ],
+      "explanation": "λ = v/f = 30/30 = 1 m. Thus, Option B is correct.",
+      "explanationImage": null,
+      "hints": [
+        "30 waves per second",
+        "speed of 30 ms⁻¹"
+      ]
+    },
+    {
+      "text": "When a transverse wave is reflected on going from a denser to a rarer medium, then:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "There is 180° phase shift",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because a 180° phase shift occurs when a wave reflects off a denser medium, not a rarer medium."
+        },
+        {
+          "letter": "B",
+          "text": "A crest is converted into a trough",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect; a crest becomes a trough only when reflecting off a denser medium, not a rarer one."
+        },
+        {
+          "letter": "C",
+          "text": "There is no change in phase shift",
+          "isCorrect": true,
+          "explanation": "This option is correct as reflection from a rarer medium does not involve a phase change."
+        },
+        {
+          "letter": "D",
+          "text": "Both A and B",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because neither A nor B is true regarding the reflection of a transverse wave going from a denser to a rarer medium."
+        }
+      ],
+      "explanation": "Reflection from a boundary to a rarer medium generally involves no phase inversion; only reflection at a denser boundary produces a π phase flip. Thus, option C is correct.",
+      "explanationImage": null,
+      "hints": [
+        "transverse wave",
+        "reflected",
+        "denser to rarer medium"
+      ]
+    },
+    {
+      "text": "If the speed of a transverse wave on a stretched string of length 1 m is 60 m/s, what is the fundamental frequency of vibration?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 Hz",
+          "isCorrect": false,
+          "explanation": "This option calculates a frequency that is too low. Given the wave speed and length, it does not fit the fundamental frequency formula."
+        },
+        {
+          "letter": "B",
+          "text": "30 Hz",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. It is derived from the formula for the fundamental frequency of a string fixed at both ends: frequency = speed / (2 * length) = 60 / (2 * 1) = 30 Hz."
+        },
+        {
+          "letter": "C",
+          "text": "40 Hz",
+          "isCorrect": false,
+          "explanation": "This frequency is incorrect as it does not match the calculation based on the given speed and length of the string."
+        },
+        {
+          "letter": "D",
+          "text": "70 Hz",
+          "isCorrect": false,
+          "explanation": "70 Hz is too high for the fundamental frequency considering the provided speed and string length; it does not satisfy the formula."
+        }
+      ],
+      "explanation": "For string fixed at both ends fundamental f = v/(2L) = 60/(2×1) = 30 Hz. Thus, option B is correct.",
+      "explanationImage": null,
+      "hints": [
+        "transverse wave",
+        "length 1 m",
+        "speed 60 m/s"
+      ]
+    },
+    {
+      "text": "The distance between the node and the next anti-node is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "λ/4",
+          "isCorrect": true,
+          "explanation": "This is the correct answer as the distance from a node to the nearest anti-node is one quarter of the wavelength (λ/4)."
+        },
+        {
+          "letter": "B",
+          "text": "λ",
+          "isCorrect": false,
+          "explanation": "This option represents the full wavelength, which is the distance from one node to the next node, not from a node to an anti-node."
+        },
+        {
+          "letter": "C",
+          "text": "λ/2",
+          "isCorrect": false,
+          "explanation": "This distance represents the span from one node to the next node, which is half the wavelength, but not from a node to an anti-node."
+        },
+        {
+          "letter": "D",
+          "text": "2λ",
+          "isCorrect": false,
+          "explanation": "This option suggests a distance equal to two wavelengths, which is much greater than the distance between a node and the nearest anti-node."
+        }
+      ],
+      "explanation": "In a standing wave, node to adjacent antinode is one quarter wavelength (λ/4). Thus option A is correct.",
+      "explanationImage": null,
+      "hints": [
+        "node",
+        "anti-node"
+      ]
+    },
+    {
+      "text": "A string of length E can maintain the stationary waves of wavelength λ given by:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "λn = 2E / n",
+          "isCorrect": true,
+          "explanation": "This formula accurately represents the relationship between the wavelength (λ) and the harmonic number (n) for a string fixed at both ends. It indicates that the wavelength is inversely proportional to the harmonic number."
+        },
+        {
+          "letter": "B",
+          "text": "λn = 2E n",
+          "isCorrect": false,
+          "explanation": "This option suggests a direct proportionality between wavelength and harmonic number, which contradicts the established relationship for stationary waves on a string."
+        },
+        {
+          "letter": "C",
+          "text": "λn = 2n / E",
+          "isCorrect": false,
+          "explanation": "This option incorrectly places 'E' in the denominator in a manner that does not reflect the established relationship. The formula should not have 'n' in the numerator."
+        },
+        {
+          "letter": "D",
+          "text": "λn = E / 2n",
+          "isCorrect": false,
+          "explanation": "This option suggests a similar relationship but is misarranged. It incorrectly implies that the wavelength increases with harmonic number, which is not the case for fixed strings."
+        }
+      ],
+      "explanation": "For nth harmonic on string of length E fixed at ends, λn = 2E/n. This follows from n half-wavelengths fitting into length E.",
+      "explanationImage": null,
+      "hints": [
+        "length E",
+        "wavelength λ",
+        "harmonics"
+      ]
+    },
+    {
+      "text": "During a time interval of exactly one period of vibration of a tuning fork, the emitted sound travels a distance:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Equal to the length of the tuning fork",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the distance traveled by sound during one period does not relate to the physical length of the tuning fork itself, but rather to the wavelength of the sound wave produced."
+        },
+        {
+          "letter": "B",
+          "text": "About 330m",
+          "isCorrect": false,
+          "explanation": "This option is an approximation of the speed of sound in air, but it does not specify the distance traveled in one period of vibration, which is determined by the wavelength."
+        },
+        {
+          "letter": "C",
+          "text": "Twice the length of the tuning fork",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it implies a distance that is unrelated to the wave characteristics. The distance traveled in one complete period corresponds to one wavelength, not a factor of the tuning fork's length."
+        },
+        {
+          "letter": "D",
+          "text": "One wavelength in air",
+          "isCorrect": true,
+          "explanation": "This is the correct answer because, during one period of vibration, the sound wave travels a distance equal to one wavelength, which is defined as the distance covered by the wave in one complete cycle."
+        }
+      ],
+      "explanation": "In one period T the wave travels one wavelength λ = vT. So the distance covered equals one wavelength in the medium (air).",
+      "explanationImage": null,
+      "hints": [
+        "one period",
+        "vibration",
+        "distance"
+      ]
+    },
+    {
+      "text": "Car \"A” has a siren sounding a note of 540 Hz. A listener in car \"B\" hears a note of 544 Hz. Both move in the same direction. One concludes that:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "\"B\" leads \"A\" and moves faster",
+          "isCorrect": false,
+          "explanation": "This option suggests that car B is ahead of car A and moving faster, which would actually decrease the frequency heard by B. Thus, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "\"B\" is behind and moves slower",
+          "isCorrect": false,
+          "explanation": "This option implies that car B is behind car A and moving slower. If this were true, the frequency heard by B would be lower than 540 Hz, making it incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Both move with same speed",
+          "isCorrect": false,
+          "explanation": "If both cars were moving at the same speed, the observer in car B would hear the same frequency as the source in car A. Since B hears a higher frequency, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "\"B\" leads \"A\" and moves slower",
+          "isCorrect": true,
+          "explanation": "This option correctly indicates that car B is ahead of car A and moving slower. In this scenario, car A is approaching car B, resulting in a higher frequency being heard by the observer in B compared to the source frequency."
+        }
+      ],
+      "explanation": "Observed frequency higher than source implies observer is moving toward source or source moving toward observer. Given same direction and small shift, the consistent scenario is B ahead but moving slower relative to A, so A approaches B increasing frequency; thus D matches the provided reasoning.",
+      "explanationImage": null,
+      "hints": [
+        "540 Hz",
+        "544 Hz"
+      ]
+    },
+    {
+      "text": "When two identical waves move in the same direction, they give rise to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Stationary waves",
+          "isCorrect": false,
+          "explanation": "Stationary waves are formed when two waves of the same frequency and amplitude travel in opposite directions and interfere. Since the question refers to waves moving in the same direction, this is not the correct answer."
+        },
+        {
+          "letter": "B",
+          "text": "Beats",
+          "isCorrect": false,
+          "explanation": "Beats occur when two waves of slightly different frequencies interfere with each other. In this case, since the waves are identical and moving in the same direction, this scenario does not apply."
+        },
+        {
+          "letter": "C",
+          "text": "Constructive Interference",
+          "isCorrect": true,
+          "explanation": "When two identical waves move in the same direction and are in phase, they will reinforce each other, resulting in constructive interference, which increases the overall amplitude."
+        },
+        {
+          "letter": "D",
+          "text": "Doppler's Effect",
+          "isCorrect": false,
+          "explanation": "The Doppler's Effect describes the change in frequency or wavelength of a wave in relation to an observer moving relative to the wave source. This phenomenon is not related to the interference of identical waves moving in the same direction."
+        }
+      ],
+      "explanation": "Two identical waves traveling together can superpose constructively or destructively depending on phase; if in phase they produce constructive interference, enhancing amplitude. Stationary waves require opposite directions.",
+      "explanationImage": null,
+      "hints": [
+        "identical waves",
+        "same direction"
+      ]
+    },
+    {
+      "text": "At the open end of an organ pipe:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nodes are formed",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because nodes are points of minimum displacement, which do not occur at the open end of an organ pipe."
+        },
+        {
+          "letter": "B",
+          "text": "Nodes and antinodes may be formed",
+          "isCorrect": false,
+          "explanation": "This option is misleading. While nodes and antinodes can exist in wave systems, at the open end of an organ pipe specifically, only an antinode is formed."
+        },
+        {
+          "letter": "C",
+          "text": "Antinodes are formed",
+          "isCorrect": true,
+          "explanation": "This option is correct as the open end of an organ pipe represents a displacement antinode, where the air can move freely and has maximum displacement."
+        },
+        {
+          "letter": "D",
+          "text": "Neither node nor antinode is formed",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because at the open end of an organ pipe, an antinode is definitely formed due to the nature of wave motion."
+        }
+      ],
+      "explanation": "An open end allows maximum air motion (displacement antinode) and minimum pressure variation, so an antinode forms at each open end.",
+      "explanationImage": null,
+      "hints": [
+        "open end",
+        "organ pipe"
+      ]
+    },
+    {
+      "text": "A stretched string is 4m long and it has 4 loops of stationary waves, then the wavelength is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1m",
+          "isCorrect": false,
+          "explanation": "This option suggests that the wavelength is 1 meter. If this were true, then 4 loops would imply a much shorter total length than the 4m given."
+        },
+        {
+          "letter": "B",
+          "text": "3m",
+          "isCorrect": false,
+          "explanation": "This option proposes that the wavelength is 3 meters. However, with 4 loops, this would mean that the total length would not match the required 4m length."
+        },
+        {
+          "letter": "C",
+          "text": "2m",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. With 4 loops, there are 4 half-wavelengths fitting into the 4m length, leading to a wavelength of 2m."
+        },
+        {
+          "letter": "D",
+          "text": "4m",
+          "isCorrect": false,
+          "explanation": "This option claims the wavelength is 4 meters. If that were the case, only 2 loops would fit within the 4m string, contradicting the information given."
+        }
+      ],
+      "explanation": "Four loops means n = 4 half-wavelengths fit in length: L = n(λ/2) ⇒ λ = 2L/n = 2×4/4 = 2 m. Thus, option C is correct.",
+      "explanationImage": null,
+      "hints": [
+        "4 loops",
+        "4m long",
+        "wavelength"
+      ]
+    },
+    {
+      "text": "A stationary wave is established in a string that vibrates in four segments at a frequency of 120Hz. Its fundamental frequency is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "15 Hz",
+          "isCorrect": false,
+          "explanation": "This option suggests a fundamental frequency that is too low. The relationship between harmonics indicates that the fundamental frequency must be higher."
+        },
+        {
+          "letter": "B",
+          "text": "60 Hz",
+          "isCorrect": false,
+          "explanation": "This option corresponds to the second harmonic, but since the wave is vibrating in four segments, this is not the fundamental frequency."
+        },
+        {
+          "letter": "C",
+          "text": "30 Hz",
+          "isCorrect": true,
+          "explanation": "This option is correct as it represents the fundamental frequency calculated from the fourth harmonic relationship."
+        },
+        {
+          "letter": "D",
+          "text": "480 Hz",
+          "isCorrect": false,
+          "explanation": "This frequency is too high and does not correspond to any harmonic of the established stationary wave in this scenario."
+        }
+      ],
+      "explanation": "Four segments correspond to fourth harmonic: f4 = 4 f1 ⇒ f1 = f4/4 = 120/4 = 30 Hz. Thus, option (C) is correct.",
+      "explanationImage": null,
+      "hints": [
+        "stationary wave",
+        "four segments",
+        "frequency of 120Hz"
+      ]
+    },
+    {
+      "text": "If the speed of sound is 340 m/s, the length of the shortest closed pipe that resonates at 100 Hz is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "170 cm",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it represents a length that corresponds to a frequency much lower than 100 Hz for a closed pipe."
+        },
+        {
+          "letter": "B",
+          "text": "42.5 cm",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it would resonate at a frequency higher than 100 Hz given the speed of sound."
+        },
+        {
+          "letter": "C",
+          "text": "17 cm",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect as it represents a length that corresponds to an even higher frequency than 100 Hz for a closed pipe."
+        },
+        {
+          "letter": "D",
+          "text": "85 cm",
+          "isCorrect": true,
+          "explanation": "This is the correct option. The length of the shortest closed pipe that resonates at 100 Hz is calculated using the formula L = v/(4f), giving us L = 340/(4*100) = 85 cm."
+        }
+      ],
+      "explanation": "Closed pipe fundamental f = v/(4L) ⇒ L = v/(4f) = 340/(400) = 0.85 m = 85 cm. Thus, option D is correct.",
+      "explanationImage": null,
+      "hints": [
+        "speed of sound",
+        "length of the shortest closed pipe"
+      ]
+    },
+    {
+      "text": "If the speed of sound is 340m/s, the two lowest frequencies of an 0.5 m organ pipe, closed at one end, are approximately:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "170 and 340 Hz",
+          "isCorrect": false,
+          "explanation": "This option suggests the first harmonic (170 Hz) and the second harmonic (340 Hz). However, the second harmonic does not apply to a closed pipe, as only odd harmonics are allowed."
+        },
+        {
+          "letter": "B",
+          "text": "340 and 680 Hz",
+          "isCorrect": false,
+          "explanation": "This option implies the first harmonic is 340 Hz and the second harmonic is 680 Hz. This is incorrect for a closed pipe since it cannot support these frequencies."
+        },
+        {
+          "letter": "C",
+          "text": "170 and 510 Hz",
+          "isCorrect": true,
+          "explanation": "This is the correct option. The fundamental frequency (first harmonic) is 170 Hz, and the next harmonic (third harmonic) is 510 Hz, following the pattern of odd harmonics in a closed pipe."
+        },
+        {
+          "letter": "D",
+          "text": "340 and 1020 Hz",
+          "isCorrect": false,
+          "explanation": "This option suggests 340 Hz as the first harmonic, which is incorrect for a closed pipe, and 1020 Hz as the second harmonic, which is also not applicable."
+        }
+      ],
+      "explanation": "Closed pipe harmonics are odd multiples: f1 = v/(4L)=340/(2)=170 Hz; next is 3f1 = 510 Hz. Thus option C is correct.",
+      "explanationImage": null,
+      "hints": [
+        "speed of sound",
+        "organ pipe",
+        "closed at one end"
+      ]
+    },
+    {
+      "text": "At what temperature velocity of sound is double that of 0°C?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "819 K",
+          "isCorrect": false,
+          "explanation": "This temperature is incorrect. While 819 K is a high temperature, it does not correspond to the velocity of sound being double that at 0°C."
+        },
+        {
+          "letter": "B",
+          "text": "600°C",
+          "isCorrect": false,
+          "explanation": "This temperature is too high to achieve a velocity of sound that is double that at 0°C. The relationship shows that a much lower temperature is needed."
+        },
+        {
+          "letter": "C",
+          "text": "819°C",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. At 819°C, the velocity of sound is indeed double that at 0°C, according to the proportional relationship with temperature."
+        },
+        {
+          "letter": "D",
+          "text": "600 K",
+          "isCorrect": false,
+          "explanation": "This temperature is significantly lower than required. It does not provide sufficient energy to double the speed of sound from its value at 0°C."
+        }
+      ],
+      "explanation": "v ∝ √T (in Kelvin). Doubling v ⇒ T must increase by 4×: Tnew = 4×273 K = 1092 K = 1092 − 273 = 819°C. Thus,option C is correct.",
+      "explanationImage": null,
+      "hints": [
+        "temperature",
+        "velocity",
+        "double"
+      ]
+    },
+    {
+      "text": "The number of vibrations per second is called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Amplitude",
+          "isCorrect": false,
+          "explanation": "Amplitude refers to the maximum displacement of a wave from its rest position. It is not related to the number of vibrations per second."
+        },
+        {
+          "letter": "B",
+          "text": "Wavelength",
+          "isCorrect": false,
+          "explanation": "Wavelength is the distance between successive crests (or troughs) of a wave. It does not measure the frequency or number of vibrations per second."
+        },
+        {
+          "letter": "C",
+          "text": "Frequency",
+          "isCorrect": true,
+          "explanation": "Frequency is defined as the number of complete vibrations or cycles that occur in one second, measured in Hertz (Hz). It is the correct answer for this question."
+        },
+        {
+          "letter": "D",
+          "text": "Velocity",
+          "isCorrect": false,
+          "explanation": "Velocity refers to the speed of the wave as it travels through a medium, calculated as distance divided by time. It does not measure the number of vibrations per second."
+        }
+      ],
+      "explanation": "Frequency (f) is the number of complete oscillations per second, measured in Hertz (Hz). f = 1/T.",
+      "explanationImage": null,
+      "hints": [
+        "vibrations",
+        "per second"
+      ]
+    },
+    {
+      "text": "The distance between two consecutive crests or troughs is called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Amplitude",
+          "isCorrect": false,
+          "explanation": "Amplitude refers to the maximum displacement of points on a wave from the equilibrium position, not the distance between crests or troughs."
+        },
+        {
+          "letter": "B",
+          "text": "Wavelength",
+          "isCorrect": true,
+          "explanation": "Wavelength (λ) is defined as the distance between two consecutive crests or troughs in a wave, making it the correct answer to this question."
+        },
+        {
+          "letter": "C",
+          "text": "Time period",
+          "isCorrect": false,
+          "explanation": "The time period is the duration of one complete cycle of the wave, and does not refer to the distance between crests or troughs."
+        },
+        {
+          "letter": "D",
+          "text": "Frequency",
+          "isCorrect": false,
+          "explanation": "Frequency is the number of cycles of a wave that occur in a unit of time, which does not describe the distance between points on the wave."
+        }
+      ],
+      "explanation": "Wavelength (λ) is the distance between two points on a wave that are in the same phase — e.g. two crests or two troughs. It tells how “long” one wave is.",
+      "explanationImage": null,
+      "hints": [
+        "consecutive crests",
+        "troughs"
+      ]
+    },
+    {
+      "text": "If the frequency of a wave is 100 Hz and its wavelength is 0.5 m, then the speed of the wave is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "25 m/s",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The calculation of speed as frequency multiplied by wavelength has been misapplied, leading to this erroneous result."
+        },
+        {
+          "letter": "B",
+          "text": "50 m/s",
+          "isCorrect": true,
+          "explanation": "This option is correct. The speed of the wave is accurately calculated using the formula: speed = frequency × wavelength = 100 Hz × 0.5 m = 50 m/s."
+        },
+        {
+          "letter": "C",
+          "text": "100 m/s",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It reflects a misunderstanding of the relationship between frequency and wavelength, as it does not correctly apply the formula."
+        },
+        {
+          "letter": "D",
+          "text": "200 m/s",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It indicates a significant error in applying the wave speed formula, resulting in an excessively high speed."
+        }
+      ],
+      "explanation": "v = fλ = 100×0.5 = 50 m/s.",
+      "explanationImage": null,
+      "hints": [
+        "frequency",
+        "wavelength",
+        "speed"
+      ]
+    },
+    {
+      "text": "Sound waves cannot travel through:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Air",
+          "isCorrect": false,
+          "explanation": "Air is a medium that allows sound waves to travel effectively due to the presence of particles that can vibrate and transmit sound energy."
+        },
+        {
+          "letter": "B",
+          "text": "Water",
+          "isCorrect": false,
+          "explanation": "Water is also a medium for sound transmission, allowing sound waves to travel faster than in air due to its denser molecular structure."
+        },
+        {
+          "letter": "C",
+          "text": "Steel",
+          "isCorrect": false,
+          "explanation": "Steel is a solid medium that conducts sound waves very well, even better than air or water due to its tightly packed molecules."
+        },
+        {
+          "letter": "D",
+          "text": "Vacuum",
+          "isCorrect": true,
+          "explanation": "A vacuum is devoid of matter; thus, there are no particles to vibrate and carry sound waves, making it impossible for sound to travel through."
+        }
+      ],
+      "explanation": "Sound requires a material medium for vibration transmission. In vacuum, there are no particles to carry sound energy.",
+      "explanationImage": null,
+      "hints": [
+        "cannot travel"
+      ]
+    },
+    {
+      "text": "Which of the following is a longitudinal wave?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Light wave",
+          "isCorrect": false,
+          "explanation": "Light waves are electromagnetic waves that do not require a medium to propagate. They are transverse waves, meaning the oscillations occur perpendicular to the direction of travel."
+        },
+        {
+          "letter": "B",
+          "text": "Sound wave",
+          "isCorrect": true,
+          "explanation": "Sound waves are longitudinal waves where particles of the medium vibrate parallel to the direction of wave propagation. This is the correct answer as sound requires a medium like air or water to travel through."
+        },
+        {
+          "letter": "C",
+          "text": "Water wave",
+          "isCorrect": false,
+          "explanation": "Water waves are typically surface waves that exhibit both longitudinal and transverse properties. The movement of water particles is circular, which is not purely longitudinal."
+        },
+        {
+          "letter": "D",
+          "text": "X-ray",
+          "isCorrect": false,
+          "explanation": "X-rays are a form of electromagnetic radiation and are therefore transverse waves. They do not involve particle movement in the medium but instead propagate through space."
+        }
+      ],
+      "explanation": "In longitudinal waves, particles vibrate parallel to the direction of propagation.Sound waves in the air are examples of this.",
+      "explanationImage": null,
+      "hints": [
+        "longitudinal",
+        "wave"
+      ]
+    },
+    {
+      "text": "In a transverse wave, the distance between a crest and a trough is equal to",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "λ/2",
+          "isCorrect": true,
+          "explanation": "This option is correct because the distance from a crest to the next trough in a transverse wave is half the wavelength."
+        },
+        {
+          "letter": "B",
+          "text": "λ",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the distance from a crest to the next trough is not a full wavelength, but rather half of it."
+        },
+        {
+          "letter": "C",
+          "text": "λ/4",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it represents a quarter of the wavelength, which does not correspond to the distance between a crest and a trough."
+        },
+        {
+          "letter": "D",
+          "text": "2λ",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because 2λ represents a distance that is twice the full wavelength, which is much greater than the distance from a crest to a trough."
+        }
+      ],
+      "explanation": "Crest to next trough spans half a wavelength (crest → node → trough), so distance = λ/2.",
+      "explanationImage": null,
+      "hints": [
+        "transverse wave",
+        "crest",
+        "trough"
+      ]
+    },
+    {
+      "text": "The sound of lightning flash is heard 3 seconds after the flash is seen. The distance of the lightning is 1020 metres. The speed of sound is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "340 m/s",
+          "isCorrect": true,
+          "explanation": "This is the correct option. It is calculated correctly using the formula: speed = distance / time, where distance is 1020 m and time is 3 s."
+        },
+        {
+          "letter": "B",
+          "text": "332 m/s",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The speed of sound in air under normal conditions is approximately 340 m/s, not 332 m/s."
+        },
+        {
+          "letter": "C",
+          "text": "1400 m/s",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect. A speed of 1400 m/s is much higher than the speed of sound in air; it is closer to the speed of sound in water or other mediums."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as well; option A provides the correct calculation for the speed of sound based on the given distance and time."
+        }
+      ],
+      "explanation": "v = distance/time = 1020 m / 3 s = 340 m/s. Thus, option A is correct.",
+      "explanationImage": null,
+      "hints": [
+        "lightning flash",
+        "3 seconds",
+        "1020 metres"
+      ]
+    },
+    {
+      "text": "If two sound waves have a phase difference of 60o, then they will have a path difference of:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "λ/6",
+          "isCorrect": true,
+          "explanation": "This option represents the correct path difference for a phase difference of 60°."
+        },
+        {
+          "letter": "B",
+          "text": "λ/3",
+          "isCorrect": false,
+          "explanation": "This option indicates a larger path difference, which corresponds to a phase difference of 120° instead of 60°."
+        },
+        {
+          "letter": "C",
+          "text": "λ",
+          "isCorrect": false,
+          "explanation": "This option suggests a complete wavelength difference, which corresponds to a phase difference of 360°."
+        },
+        {
+          "letter": "D",
+          "text": "3λ",
+          "isCorrect": false,
+          "explanation": "This option represents a path difference of three wavelengths, equivalent to a phase difference of 1080°, which is much greater than 60°."
+        }
+      ],
+      "explanation": "Phase Δφ = 60° = π/3 rad. Path difference Δx = (λ/2π)Δφ = λ(π/3)/(2π) = λ/6.",
+      "explanationImage": null,
+      "hints": [
+        "phase difference",
+        "path difference"
+      ]
+    },
+    {
+      "text": "For beats to be produced,",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Frequency of sources should be different and amplitude should be the same",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because while the frequencies must be different, the amplitudes do not need to be the same for beats to occur. Different amplitudes can also produce beats."
+        },
+        {
+          "letter": "B",
+          "text": "Frequency of sources should be same and amplitude should be different",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because if the frequencies are the same, no beats will be produced. Beats require two waves of slightly different frequencies."
+        },
+        {
+          "letter": "C",
+          "text": "Frequency of sources should be different and amplitude should be different",
+          "isCorrect": true,
+          "explanation": "This is the correct option. For beats to be produced, the frequencies of the two sound sources must be different, and the amplitudes can vary."
+        },
+        {
+          "letter": "D",
+          "text": "Frequency of sources should be same and amplitude should be the same",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it states that both frequencies and amplitudes must be the same. If the frequencies are the same, no beats will occur."
+        }
+      ],
+      "explanation": "Beats arise from interference of two waves of nearly equal but different frequencies; comparable amplitudes maximize audible beat amplitude modulation. Option A captures the necessary condition.",
+      "explanationImage": null,
+      "hints": [
+        "beats"
+      ]
+    },
+    {
+      "text": "The frequency of the first harmonic of a string stretched between two points is 100 Hz. The frequency of the third overtone is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "200 Hz",
+          "isCorrect": false,
+          "explanation": "This frequency corresponds to the second harmonic (f2 = 2 × 100 Hz), not the third overtone."
+        },
+        {
+          "letter": "B",
+          "text": "300 Hz",
+          "isCorrect": false,
+          "explanation": "This frequency corresponds to the third harmonic (f3 = 3 × 100 Hz), but the third overtone is the fourth harmonic."
+        },
+        {
+          "letter": "C",
+          "text": "400 Hz",
+          "isCorrect": true,
+          "explanation": "This is the frequency of the fourth harmonic (f4 = 4 × 100 Hz), which is correctly identified as the third overtone."
+        },
+        {
+          "letter": "D",
+          "text": "600 Hz",
+          "isCorrect": false,
+          "explanation": "This frequency corresponds to the fifth harmonic (f5 = 5 × 100 Hz), which exceeds the third overtone."
+        }
+      ],
+      "explanation": "“Third overtone” means fourth harmonic: f4 = 4 f1 = 4×100 = 400 Hz. Thus option (c) is correct.",
+      "explanationImage": null,
+      "hints": [
+        "first harmonic",
+        "third overtone",
+        "frequency"
+      ]
+    },
+    {
+      "text": "The organ pipe which is open at both ends is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Weaker in harmonics",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because an open-end pipe actually supports a full harmonic series, making it rich in harmonics rather than weak."
+        },
+        {
+          "letter": "B",
+          "text": "No harmonics produce",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect since open-end pipes do produce harmonics, specifically a series of harmonics that are more complex than those produced by closed pipes."
+        },
+        {
+          "letter": "C",
+          "text": "Richer in harmonics",
+          "isCorrect": true,
+          "explanation": "This is the correct option. Open-end pipes allow for both even and odd harmonics, resulting in a richer harmonic content compared to closed pipes."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as one of the provided options (the correct one) accurately describes the harmonic content of an open-end pipe."
+        }
+      ],
+      "explanation": "Open-open pipes support both even and odd harmonics (full harmonic series), making their harmonic content richer compared to closed pipes that support only odd harmonics.",
+      "explanationImage": null,
+      "hints": [
+        "open",
+        "harmonics",
+        "both ends"
+      ]
+    },
+    {
+      "text": "Progressive waves of frequency 300 Hz are superimposed to produce a system of stationary waves in which adjacent nodes are 1.5 m apart. What is the speed of the progressive waves?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100 m s⁻¹",
+          "isCorrect": false,
+          "explanation": "This option suggests a very low speed which does not match the given frequency and node spacing. Calculating with the provided parameters will show this is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "900 m s⁻¹",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. Using the formula speed = frequency × wavelength, and noting that the wavelength can be derived from the node spacing, we find this speed matches the calculations perfectly."
+        },
+        {
+          "letter": "C",
+          "text": "450 m s⁻¹",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it does not align with the calculations based on the frequency and node spacing provided. It suggests a wavelength that doesn't correspond to the given parameters."
+        },
+        {
+          "letter": "D",
+          "text": "200 m s⁻¹",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect. Similar to the others, it does not satisfy the condition derived from the node spacing and frequency, indicating a misunderstanding of the wave properties."
+        }
+      ],
+      "explanation": "Node spacing = λ/2 = 1.5 m ⇒ λ = 3.0 m. Speed v = f λ = 300 × 3 = 900 m/s. Thus, option B is correct.",
+      "explanationImage": null,
+      "hints": [
+        "frequency 300 Hz",
+        "adjacent nodes",
+        "speed"
+      ]
+    },
+    {
+      "text": "A tube closed at one end and containing air produces, when excited, the fundamental note of frequency 512 Hz. If the tube is open at both ends, the fundamental frequency that can be excited is (Hz).",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1024",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. When a tube is open at both ends, the fundamental frequency is double that of a tube closed at one end. Therefore, 2 × 512 Hz = 1024 Hz."
+        },
+        {
+          "letter": "B",
+          "text": "512",
+          "isCorrect": false,
+          "explanation": "This option represents the frequency of the closed tube. It does not account for the doubling that occurs when the tube is opened at both ends."
+        },
+        {
+          "letter": "C",
+          "text": "256",
+          "isCorrect": false,
+          "explanation": "This value is half of the frequency for the closed tube. It is incorrect as it does not reflect the relationship between the frequencies of closed and open tubes."
+        },
+        {
+          "letter": "D",
+          "text": "128",
+          "isCorrect": false,
+          "explanation": "This is an even lower frequency and does not correspond to the fundamental frequency of either tube configuration. Hence, it is incorrect."
+        }
+      ],
+      "explanation": "Closed tube fundamental fclosed = v/(4L) = 512 ⇒ v/(2L) (open) = 2×512 = 1024 Hz. Therefore opening both ends doubles fundamental frequency.",
+      "explanationImage": null,
+      "hints": [
+        "tube closed at one end",
+        "open at both ends"
+      ]
+    },
+    {
+      "text": "Doppler's effect is not applicable for:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Microwaves",
+          "isCorrect": false,
+          "explanation": "Microwaves are a type of electromagnetic wave and can demonstrate the Doppler effect when there is relative motion between the source and the observer."
+        },
+        {
+          "letter": "B",
+          "text": "Electromagnetic waves",
+          "isCorrect": false,
+          "explanation": "Electromagnetic waves, including light and radio waves, exhibit the Doppler effect due to their propagation through space and interaction with moving observers."
+        },
+        {
+          "letter": "C",
+          "text": "Ultrasonic",
+          "isCorrect": false,
+          "explanation": "Ultrasonic waves, which are sound waves above the human hearing range, can also demonstrate the Doppler effect when the source or observer is in motion."
+        },
+        {
+          "letter": "D",
+          "text": "Standing waves",
+          "isCorrect": true,
+          "explanation": "Standing waves are formed by the superposition of two waves traveling in opposite directions and do not involve relative motion that would create a Doppler effect."
+        }
+      ],
+      "explanation": "Doppler shift concerns relative motion between source and observer of propagating waves. Standing waves are produced by superposition of equal opposing waves, not by relative motion, so Doppler notion doesn’t apply.",
+      "explanationImage": null,
+      "hints": [
+        "not applicable"
+      ]
+    },
+    {
+      "text": "Doppler shift in frequency does not depend upon:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The actual frequency of the wave",
+          "isCorrect": false,
+          "explanation": "The Doppler effect is influenced by the original frequency of the wave, as it determines the baseline frequency that will be perceived by the observer."
+        },
+        {
+          "letter": "B",
+          "text": "The distance of the source from the listener",
+          "isCorrect": true,
+          "explanation": "The Doppler effect is independent of the distance between the source and observer; it is purely a function of their relative velocities."
+        },
+        {
+          "letter": "C",
+          "text": "The velocity of the source",
+          "isCorrect": false,
+          "explanation": "The velocity of the source is crucial in determining the change in frequency heard by the observer; a faster source results in a greater frequency shift."
+        },
+        {
+          "letter": "D",
+          "text": "The velocity of the observer",
+          "isCorrect": false,
+          "explanation": "The observer's velocity also affects the perceived frequency, as their motion towards or away from the source alters the frequency they detect."
+        }
+      ],
+      "explanation": "Doppler formula depends on velocities and original frequency but not on separation distance; intensity falls with distance, but frequency shift is independent of distance.",
+      "explanationImage": null,
+      "hints": [
+        "Doppler shift",
+        "does not"
+      ]
+    },
+    {
+      "text": "An observer standing at the sea coast observes 54 waves reaching the coast per minute. If the wavelength of the waves is 10 m, find the velocity.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3 m/s",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it results from a miscalculation of frequency or wavelength."
+        },
+        {
+          "letter": "B",
+          "text": "6 m/s",
+          "isCorrect": false,
+          "explanation": "This option is incorrect; it suggests a frequency of 0.6 Hz, which does not match the given data."
+        },
+        {
+          "letter": "C",
+          "text": "9 m/s",
+          "isCorrect": true,
+          "explanation": "This is the correct answer, calculated using the frequency (0.9 Hz) and wavelength (10 m)."
+        },
+        {
+          "letter": "D",
+          "text": "12 m/s",
+          "isCorrect": false,
+          "explanation": "This option is incorrect; it implies a higher frequency than what is provided in the question."
+        }
+      ],
+      "explanation": "f = 54/60 = 0.9 Hz. v = f λ = 0.9 × 10 = 9 m/s. Thus, option C is correct.",
+      "explanationImage": null,
+      "hints": [
+        "54 waves",
+        "10 m",
+        "per minute"
+      ]
+    },
+    {
+      "text": "A whistle giving out 450 Hz approaches a stationary observer at a speed of 33 m/s. The frequency heard by the observer in Hz is (speed of sound = 330 m/s).",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "409",
+          "isCorrect": false,
+          "explanation": "This option is lower than the expected frequency and does not account for the increase in frequency as the source approaches the observer."
+        },
+        {
+          "letter": "B",
+          "text": "429",
+          "isCorrect": false,
+          "explanation": "This option represents a modest increase but is still less than the correct frequency calculated using the Doppler effect."
+        },
+        {
+          "letter": "C",
+          "text": "517",
+          "isCorrect": false,
+          "explanation": "This option is higher than expected and does not align with the Doppler effect for a source moving toward a stationary observer."
+        },
+        {
+          "letter": "D",
+          "text": "500",
+          "isCorrect": true,
+          "explanation": "This is the correct answer, calculated using the Doppler effect formula for a moving source approaching a stationary observer."
+        }
+      ],
+      "explanation": "Doppler for moving source toward observer: f' = f × v/(v − vs ) = 450 × 330/(330 − 33) = 450 × 330/297 ≈ 450 × 1.111 = 500 Hz. Thus, option D is correct.",
+      "explanationImage": null,
+      "hints": [
+        "450 Hz",
+        "33 m/s",
+        "330 m/s",
+        "frequency",
+        "observer"
+      ]
+    },
+    {
+      "text": "A traveling wave, in which the particles of the disturbed medium move perpendicular to the direction of propagation of the wave is called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Transverse wave",
+          "isCorrect": true,
+          "explanation": "In a transverse wave, the particles of the medium move at right angles to the direction of wave propagation. This type of wave is commonly observed in water waves and electromagnetic waves."
+        },
+        {
+          "letter": "B",
+          "text": "Longitudinal wave",
+          "isCorrect": false,
+          "explanation": "A longitudinal wave is characterized by particle movement parallel to the direction of the wave propagation, as seen in sound waves traveling through air."
+        },
+        {
+          "letter": "C",
+          "text": "Standing wave",
+          "isCorrect": false,
+          "explanation": "A standing wave results from the interference of two waves traveling in opposite directions and does not involve the particles moving perpendicular to the direction of wave propagation."
+        },
+        {
+          "letter": "D",
+          "text": "Shock wave",
+          "isCorrect": false,
+          "explanation": "A shock wave is a type of traveling wave that occurs when an object moves faster than the speed of sound in the medium, producing a pressure wave, but is not defined by the perpendicular movement of particles."
+        }
+      ],
+      "explanation": "In a transverse wave, particles of the medium vibrate perpendicular to the direction in which the wave travels. This is the opposite of longitudinal waves, where particles move parallel to the wave direction. Examples include water waves and electromagnetic waves.",
+      "explanationImage": null,
+      "hints": [
+        "traveling wave",
+        "particles",
+        "perpendicular"
+      ]
+    },
+    {
+      "text": "If velocity of sound in a gas is 360 m/s and the distance between a compression and the nearest rarefaction is 1 m, then the frequency of sound is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "90 Hz",
+          "isCorrect": false,
+          "explanation": "This frequency is too low for the given wave properties, as it suggests a longer wavelength than what is provided."
+        },
+        {
+          "letter": "B",
+          "text": "180 Hz",
+          "isCorrect": true,
+          "explanation": "This is the correct frequency, calculated using the formula f = v/λ, where λ = 2 m (derived from the distance of 1 m between compression and rarefaction)."
+        },
+        {
+          "letter": "C",
+          "text": "360 Hz",
+          "isCorrect": false,
+          "explanation": "This frequency suggests that the wavelength is equal to the speed of sound, which is not supported by the distance given between compression and rarefaction."
+        },
+        {
+          "letter": "D",
+          "text": "720 Hz",
+          "isCorrect": false,
+          "explanation": "This frequency is too high and implies a wavelength shorter than what is given, which contradicts the provided distance between compression and rarefaction."
+        }
+      ],
+      "explanation": "Compression to adjacent rarefaction = λ/2 = 1 m ⇒ λ = 2 m. Then f = v/λ= 360/2 = 180 Hz.",
+      "explanationImage": null,
+      "hints": [
+        "velocity of sound",
+        "distance between compression and rarefaction",
+        "frequency"
+      ]
+    },
+    {
+      "text": "Wave is a mechanism which transmits:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Wavelength",
+          "isCorrect": false,
+          "explanation": "Wavelength refers to the distance between successive crests or troughs of a wave. It is a property of the wave itself, but not something that is transmitted by the wave."
+        },
+        {
+          "letter": "B",
+          "text": "Amplitude",
+          "isCorrect": false,
+          "explanation": "Amplitude is the maximum extent of a vibration or oscillation, measured from the position of equilibrium. Like wavelength, amplitude is a characteristic of the wave, not a quantity that is transmitted by it."
+        },
+        {
+          "letter": "C",
+          "text": "Mass",
+          "isCorrect": false,
+          "explanation": "Mass is a measure of the amount of matter in an object. Waves do not carry mass; instead, they transport energy and information through a medium."
+        },
+        {
+          "letter": "D",
+          "text": "Energy",
+          "isCorrect": true,
+          "explanation": "Energy is the correct answer because waves are mechanisms that transmit energy through a medium without the net transport of matter. This is a fundamental property of wave motion."
+        }
+      ],
+      "explanation": "Waves transport energy and information through a medium (or field) without net transport of mass. Thus, option D is correct.",
+      "explanationImage": null,
+      "hints": [
+        "transmits",
+        "wave"
+      ]
+    },
+    {
+      "text": "A transverse wave travels along a rope. The graph shows the variation of the displacement of the particles in the rope with distance along it at a particular instant. At which distance along the rope do the particles have maximum upward velocity?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.5 m",
+          "isCorrect": true,
+          "explanation": "This point is where the particles are at their equilibrium position and moving upwards with the maximum velocity, as indicated by the steepest slope in the displacement graph."
+        },
+        {
+          "letter": "B",
+          "text": "1.0 m",
+          "isCorrect": false,
+          "explanation": "At this point, the particles are also moving upwards, but not with the maximum velocity since the slope of the graph is less steep compared to 0.5 m."
+        },
+        {
+          "letter": "C",
+          "text": "1.5 m",
+          "isCorrect": false,
+          "explanation": "At this distance, the particles may be moving downwards or have less upward velocity compared to 0.5 m, as they are approaching a trough in the wave."
+        },
+        {
+          "letter": "D",
+          "text": "2.0 m",
+          "isCorrect": false,
+          "explanation": "Particles at this distance are likely at a peak or trough and are not moving upwards, resulting in zero velocity."
+        }
+      ],
+      "explanation": "Since the wave is moving to the right, we can draw the position of the wave at the next instant by simply replicating the wave, but shifted to the right.In this way, we can know how each point has moved in the next instant. It can be seen that particles at both 0.5 m and 1.0 m will move upward at the next instant but the largest upward change in displacement occurs at a distance of 0.5 m.",
+      "explanationImage": null,
+      "hints": [
+        "transverse wave",
+        "maximum upward velocity"
+      ]
+    },
+    {
+      "text": "Longitudinal wave consists of:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crests and troughs",
+          "isCorrect": false,
+          "explanation": "This option describes features of transverse waves, not longitudinal waves. In transverse waves, the wave motion is perpendicular to the direction of particle oscillation, creating crests and troughs."
+        },
+        {
+          "letter": "B",
+          "text": "Compression and rarefactions",
+          "isCorrect": true,
+          "explanation": "This option correctly identifies the two main features of longitudinal waves. Compression refers to areas where particles are close together, while rarefaction refers to areas where particles are spread apart."
+        },
+        {
+          "letter": "C",
+          "text": "Crests and compressions",
+          "isCorrect": false,
+          "explanation": "This option incorrectly combines characteristics of both wave types. Crests are associated with transverse waves while compressions are a feature of longitudinal waves, making this option misleading."
+        },
+        {
+          "letter": "D",
+          "text": "Troughs and rarefactions",
+          "isCorrect": false,
+          "explanation": "This option mixes terms from both wave types. Troughs are features of transverse waves, while rarefactions belong to longitudinal waves, making this option incorrect."
+        }
+      ],
+      "explanation": "Longitudinal waves show alternating regions of compression (high density/pressure) and rarefaction (low density/pressure), thus option B is correct.",
+      "explanationImage": null,
+      "hints": [
+        "Longitudinal wave",
+        "Compression",
+        "Rarefaction"
+      ]
+    },
+    {
+      "text": "Transverse wave is different from longitudinal wave, because it possesses a property of:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reflection",
+          "isCorrect": false,
+          "explanation": "Reflection is a property that allows waves to bounce off surfaces. Both transverse and longitudinal waves can reflect when they encounter a barrier."
+        },
+        {
+          "letter": "B",
+          "text": "Interference",
+          "isCorrect": false,
+          "explanation": "Interference occurs when two or more waves overlap, producing a new wave pattern. This phenomenon can happen with both transverse and longitudinal waves."
+        },
+        {
+          "letter": "C",
+          "text": "Diffraction",
+          "isCorrect": false,
+          "explanation": "Diffraction is the bending of waves around obstacles and openings. Both types of waves can exhibit diffraction effects."
+        },
+        {
+          "letter": "D",
+          "text": "Polarization",
+          "isCorrect": true,
+          "explanation": "Polarization refers to the orientation of the oscillation plane in waves. It is a unique property of transverse waves, as they can oscillate in specific directions, unlike longitudinal waves."
+        }
+      ],
+      "explanation": "Polarization (orientation of oscillation plane) is possible only for transverse waves. Reflection, interference and diffraction can occur for both types.",
+      "explanationImage": null,
+      "hints": [
+        "Transverse wave",
+        "Longitudinal wave",
+        "property"
+      ]
+    },
+    {
+      "text": "The speed of sound does not depend upon:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Density",
+          "isCorrect": false,
+          "explanation": "Density affects the speed of sound; as density increases, the speed of sound in gases typically decreases, assuming temperature remains constant."
+        },
+        {
+          "letter": "B",
+          "text": "Elasticity",
+          "isCorrect": false,
+          "explanation": "Elasticity is a crucial factor in determining the speed of sound; greater elasticity results in a higher speed of sound."
+        },
+        {
+          "letter": "C",
+          "text": "Temperature",
+          "isCorrect": false,
+          "explanation": "The speed of sound increases with temperature in gases; higher temperatures lead to faster molecular motion, enhancing sound propagation."
+        },
+        {
+          "letter": "D",
+          "text": "Pressure",
+          "isCorrect": true,
+          "explanation": "At a constant temperature, pressure changes do not significantly affect the speed of sound in gases. Thus, it is the correct answer as it is the factor that does not influence sound speed effectively."
+        }
+      ],
+      "explanation": "In gases at fixed temperature, sound speed depends on temperature and molecular properties (and indirectly on density and elasticity). Pressure alone (at constant temperature) does not change sound speed significantly; hence (D) is the intended choice.",
+      "explanationImage": null,
+      "hints": [
+        "speed",
+        "does not"
+      ]
+    },
+    {
+      "text": "When two waves of same frequency and travelling in the same direction are superimposed than we have?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Interference",
+          "isCorrect": true,
+          "explanation": "When two waves overlap, they can combine to form a new wave pattern, which is referred to as interference. This can result in constructive or destructive interference based on their phase relationship."
+        },
+        {
+          "letter": "B",
+          "text": "Beats",
+          "isCorrect": false,
+          "explanation": "Beats occur when two waves of slightly different frequencies interfere with each other, creating a fluctuating amplitude. Since the waves in this question have the same frequency, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Standing wave",
+          "isCorrect": false,
+          "explanation": "Standing waves form from the interference of two waves traveling in opposite directions, not the same direction. Therefore, this option does not apply to the scenario described."
+        },
+        {
+          "letter": "D",
+          "text": "Stationary wave",
+          "isCorrect": false,
+          "explanation": "Stationary waves are created through the interference of waves moving in opposite directions. Since the question specifies waves traveling in the same direction, this option is also incorrect."
+        }
+      ],
+      "explanation": "Two co-propagating waves interfere; beats require slight frequency difference; standing waves require opposite directions. So interference is correct.",
+      "explanationImage": null,
+      "hints": [
+        "same frequency",
+        "same direction"
+      ]
+    },
+    {
+      "text": "How many beats can be observed when the difference in frequencies of two waves is two:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because a difference of 2 Hz results in 2 beats per second, not 1."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "This is the correct answer, as the beat frequency is equal to the absolute difference of the two frequencies, which is 2 Hz in this case, resulting in 2 beats per second."
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because a difference of 2 Hz does not produce 3 beats per second; the beat frequency directly corresponds to the frequency difference."
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": "This option is incorrect for the same reason; a frequency difference of 2 Hz cannot produce 4 beats per second."
+        }
+      ],
+      "explanation": "Beat frequency equals absolute difference of frequencies. If difference = 2 Hz, observer hears 2 beats per second.",
+      "explanationImage": null,
+      "hints": [
+        "difference",
+        "frequencies",
+        "beats"
+      ]
+    },
+    {
+      "text": "When wave is reflected from denser medium to rare medium then there is phase change of:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "π/4",
+          "isCorrect": false,
+          "explanation": "This option suggests a phase change of π/4, which is incorrect. The phase change observed during reflection at a boundary does not correspond to this value."
+        },
+        {
+          "letter": "B",
+          "text": "π/2",
+          "isCorrect": false,
+          "explanation": "A phase change of π/2 implies a quarter wavelength shift, which is not applicable in this context. The phase change upon reflection depends on the medium's density."
+        },
+        {
+          "letter": "C",
+          "text": "π",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. When a wave reflects from a denser medium to a rarer medium, there is a phase change of π (180 degrees), indicating a complete reversal of the wave."
+        },
+        {
+          "letter": "D",
+          "text": "2π",
+          "isCorrect": false,
+          "explanation": "A phase change of 2π would imply a full cycle shift, which does not occur during a simple reflection from a denser to a rarer medium."
+        }
+      ],
+      "explanation": "When a wave is reflected from a denser medium to a rarer medium, there is a phase change of 0° or no phase change (or 360°).But if it was reflected from a rarer medium to a denser medium, the phase change would be 180°.",
+      "explanationImage": null,
+      "hints": [
+        "denser medium",
+        "rare medium",
+        "phase change"
+      ]
+    },
+    {
+      "text": "The sound which stimulates our ear is known as:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sonic",
+          "isCorrect": true,
+          "explanation": "Sonic refers to sound waves that fall within the audible frequency range for humans, typically between 20 Hz and 20 kHz. This is the correct answer as it describes the type of sound that stimulates our ears."
+        },
+        {
+          "letter": "B",
+          "text": "Infrasonic",
+          "isCorrect": false,
+          "explanation": "Infrasonic refers to sound waves with frequencies below 20 Hz, which are not audible to humans. Therefore, infrasonic sounds do not stimulate our ears."
+        },
+        {
+          "letter": "C",
+          "text": "Ultrasonic",
+          "isCorrect": false,
+          "explanation": "Ultrasonic refers to sound waves with frequencies above 20 kHz, which are also inaudible to humans. Thus, ultrasonic sounds do not stimulate our ears."
+        },
+        {
+          "letter": "D",
+          "text": "Tidal",
+          "isCorrect": false,
+          "explanation": "Tidal refers to the movement of water due to gravitational forces and is not a category of sound. Therefore, tidal does not pertain to the sound that stimulates our ears."
+        }
+      ],
+      "explanation": "\"Sonic\" refers to audible frequencies (roughly 20 Hz to 20 kHz) that stimulate human hearing; infrasonic/ultrasonic are outside audible range.",
+      "explanationImage": null,
+      "hints": [
+        "sound",
+        "stimulates",
+        "ear"
+      ]
+    },
+    {
+      "text": "The energy of a wave is directly proportional to the:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Amplitude",
+          "isCorrect": false,
+          "explanation": "While amplitude is an important factor in wave behavior, energy is not directly proportional to amplitude alone."
+        },
+        {
+          "letter": "B",
+          "text": "Amplitude2",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The energy of a wave is directly proportional to the square of its amplitude, meaning that as amplitude increases, energy increases exponentially."
+        },
+        {
+          "letter": "C",
+          "text": "Frequency",
+          "isCorrect": false,
+          "explanation": "Frequency affects wave properties but is not directly proportional to wave energy in the context of amplitude."
+        },
+        {
+          "letter": "D",
+          "text": "Wavelength",
+          "isCorrect": false,
+          "explanation": "Wavelength relates to the spatial characteristics of a wave but does not directly correlate with the energy of the wave as described in this question."
+        }
+      ],
+      "explanation": "Wave energy increases rapidly with amplitude. E directly proportional to A square.",
+      "explanationImage": null,
+      "hints": [
+        "energy",
+        "wave"
+      ]
+    },
+    {
+      "text": "The bending of waves around corners or obstacles is called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reflection",
+          "isCorrect": false,
+          "explanation": "Reflection occurs when waves bounce off a surface and change direction, but they do not bend around obstacles."
+        },
+        {
+          "letter": "B",
+          "text": "Refraction",
+          "isCorrect": false,
+          "explanation": "Refraction is the change in direction of waves as they pass from one medium to another due to a change in speed, not specifically related to bending around corners."
+        },
+        {
+          "letter": "C",
+          "text": "Diffraction",
+          "isCorrect": true,
+          "explanation": "Diffraction is the phenomenon where waves bend around corners and obstacles, spreading out as they pass through narrow openings."
+        },
+        {
+          "letter": "D",
+          "text": "Interference",
+          "isCorrect": false,
+          "explanation": "Interference is the interaction between two or more waves, leading to a combination of their amplitudes, but it does not involve bending around obstacles."
+        }
+      ],
+      "explanation": "When waves pass through a narrow opening or around an edge, they bend and spread out. This is a diffraction — more noticeable when wavelength ≈ slit size.",
+      "explanationImage": null,
+      "hints": [
+        "bending",
+        "corners",
+        "obstacles"
+      ]
+    },
+    {
+      "text": "Two identical waves moving in opposite directions overlap to form:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Progressive wave",
+          "isCorrect": false,
+          "explanation": "A progressive wave is a wave that travels through space and transfers energy from one point to another without any permanent displacement of the medium. In this case, since the waves overlap in opposite directions, they do not form a progressive wave."
+        },
+        {
+          "letter": "B",
+          "text": "Stationary wave",
+          "isCorrect": true,
+          "explanation": "A stationary wave, also known as a standing wave, is formed when two waves of the same frequency and amplitude travel in opposite directions and interfere with each other. This results in areas of constructive and destructive interference, creating nodes and antinodes. This is the correct answer as it describes the phenomenon occurring in the question."
+        },
+        {
+          "letter": "C",
+          "text": "Transverse wave",
+          "isCorrect": false,
+          "explanation": "A transverse wave is characterized by particle motion that is perpendicular to the direction of wave propagation. While transverse waves can be involved in stationary waves, the key aspect of this question is the interaction of two identical waves, which leads to a stationary wave, not just any transverse wave."
+        },
+        {
+          "letter": "D",
+          "text": "Longitudinal wave",
+          "isCorrect": false,
+          "explanation": "A longitudinal wave is one in which the particle displacement is parallel to the direction of wave propagation. Similar to transverse waves, longitudinal waves can be involved in stationary formations, but the essential point of this question is the overlap of two identical waves in opposite directions, which forms a stationary wave."
+        }
+      ],
+      "explanation": "Stationary (standing) waves are produced when two waves of the same frequency and amplitude travel in opposite directions and interfere.",
+      "explanationImage": null,
+      "hints": [
+        "identical waves",
+        "opposite directions"
+      ]
+    },
+    {
+      "text": "A particle is executing S.H.M along a straight line with amplitude A, its kinetic energy is maximum when its displacement is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "±A",
+          "isCorrect": false,
+          "explanation": "This option represents the maximum displacement of the particle in simple harmonic motion, where it is momentarily at rest and thus has zero kinetic energy."
+        },
+        {
+          "letter": "B",
+          "text": "±A/2",
+          "isCorrect": false,
+          "explanation": "At this displacement, the particle has some potential energy, and its kinetic energy is not at its maximum. Therefore, it is not the correct answer."
+        },
+        {
+          "letter": "C",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "At zero displacement, the particle is at the mean position, where its speed is greatest and, consequently, its kinetic energy is at its maximum."
+        },
+        {
+          "letter": "D",
+          "text": "±A/√2",
+          "isCorrect": false,
+          "explanation": "This displacement corresponds to a point where the particle has both kinetic and potential energy, but it is not the maximum kinetic energy position."
+        }
+      ],
+      "explanation": "Kinetic energy is maximum where potential energy is minimum, i.e., at mean position x = 0 where speed is greatest.",
+      "explanationImage": null,
+      "hints": [
+        "displacement",
+        "straight line with amplitude"
+      ]
+    },
+    {
+      "text": "The point of zero displacement in a stationary wave is called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Crest",
+          "isCorrect": false,
+          "explanation": "The crest is the highest point of the wave, where particles experience maximum positive displacement. It is not a point of zero displacement."
+        },
+        {
+          "letter": "B",
+          "text": "Trough",
+          "isCorrect": false,
+          "explanation": "The trough is the lowest point of the wave, where particles experience maximum negative displacement. Like the crest, it is not a point of zero displacement."
+        },
+        {
+          "letter": "C",
+          "text": "Node",
+          "isCorrect": true,
+          "explanation": "A node is a point in a stationary wave where there is zero displacement of the particles. At this point, the amplitude is zero, making it the correct answer."
+        },
+        {
+          "letter": "D",
+          "text": "Antinode",
+          "isCorrect": false,
+          "explanation": "An antinode is a point in a wave where the amplitude is at its maximum, indicating maximum displacement. It is the opposite of a node and thus not the correct answer."
+        }
+      ],
+      "explanation": "At a node, particles do not move (zero amplitude). At an antinode, particles vibrate with maximum amplitude.",
+      "explanationImage": null,
+      "hints": [
+        "zero displacement",
+        "stationary wave",
+        "node"
+      ]
+    },
+    {
+      "text": "When a wave passes from one medium to another, its:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Frequency changes",
+          "isCorrect": false,
+          "explanation": "When a wave transitions from one medium to another, its frequency remains constant, making this option incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Speed changes",
+          "isCorrect": true,
+          "explanation": "The speed of a wave does change when it moves from one medium to another, which is why this option is correct."
+        },
+        {
+          "letter": "C",
+          "text": "Amplitude remains same",
+          "isCorrect": false,
+          "explanation": "Although the amplitude can change depending on the medium, it is not a guaranteed outcome; hence this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": "This option suggests that all previous statements are true, but since frequency does not change, this option is also incorrect."
+        }
+      ],
+      "explanation": "When light or sound enters another medium, its speed and wavelength change, but frequency remains constant.",
+      "explanationImage": null,
+      "hints": [
+        "wave",
+        "medium"
+      ]
+    },
+    {
+      "text": "The speed of sound is greatest in:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Air",
+          "isCorrect": false,
+          "explanation": "Sound travels at approximately 343 m/s in air, which is the slowest among the given options due to the relatively large distance between air molecules."
+        },
+        {
+          "letter": "B",
+          "text": "Water",
+          "isCorrect": false,
+          "explanation": "In water, sound travels at about 1500 m/s, faster than in air, due to the closer packing of water molecules compared to air molecules."
+        },
+        {
+          "letter": "C",
+          "text": "Iron",
+          "isCorrect": true,
+          "explanation": "Sound travels fastest in iron at approximately 5100 m/s, as the closely packed arrangement of iron atoms allows for efficient transmission of sound waves."
+        },
+        {
+          "letter": "D",
+          "text": "Vacuum",
+          "isCorrect": false,
+          "explanation": "Sound cannot travel in a vacuum, as there are no particles to transmit the sound waves, resulting in a speed of 0 m/s."
+        }
+      ],
+      "explanation": "Sound travels fastest in solids because particles are closely packed.Approximate speeds:Air: 343 m/sWater: 1500 m/s Iron: 5100 m/s.",
+      "explanationImage": null,
+      "hints": [
+        "speed",
+        "sound",
+        "greatest"
+      ]
+    },
+    {
+      "text": "Food is cooked in a microwave oven by the effect of:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Interference",
+          "isCorrect": false,
+          "explanation": "Interference refers to the phenomenon where two or more waves superimpose to form a resultant wave. This concept is not directly related to how microwaves heat food."
+        },
+        {
+          "letter": "B",
+          "text": "Mechanical resonance",
+          "isCorrect": false,
+          "explanation": "Mechanical resonance involves oscillations in physical structures due to external forces. However, this does not apply to the heating process in a microwave oven."
+        },
+        {
+          "letter": "C",
+          "text": "Magnetic resonance",
+          "isCorrect": false,
+          "explanation": "Magnetic resonance is a technique used in imaging and spectroscopy, but it does not describe the process by which microwaves heat food."
+        },
+        {
+          "letter": "D",
+          "text": "Electric resonance",
+          "isCorrect": true,
+          "explanation": "Electric resonance is the correct answer as it describes how microwaves cause polar molecules (like water) in food to rotate and generate heat through dielectric heating."
+        }
+      ],
+      "explanation": "Microwaves interact with polar molecules (water) causing dielectric heating via dipole rotation and absorption at microwave frequencies—often referred to as electric resonance heating. Thus option D is correct.",
+      "explanationImage": null,
+      "hints": [
+        "microwave oven",
+        "effect"
+      ]
+    },
+    {
+      "text": "A wave has a frequency of 200 Hz and a wavelength of 1.5 m. What is the wave speed?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "150 m/s",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because, according to the formula v = f × λ, substituting 200 Hz for frequency and 1.5 m for wavelength yields a higher value."
+        },
+        {
+          "letter": "B",
+          "text": "200 m/s",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it does not accurately represent the calculation of wave speed using the given frequency and wavelength."
+        },
+        {
+          "letter": "C",
+          "text": "300 m/s",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. It is calculated by multiplying the frequency (200 Hz) by the wavelength (1.5 m), resulting in a wave speed of 300 m/s."
+        },
+        {
+          "letter": "D",
+          "text": "400 m/s",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the calculated speed based on the given frequency and wavelength is lower than this value."
+        }
+      ],
+      "explanation": "Wave speed v = f × λ = 200 × 1.5 = 300 m/s.",
+      "explanationImage": null,
+      "hints": [
+        "frequency",
+        "wavelength",
+        "speed"
+      ]
+    },
+    {
+      "text": "A sound wave in air at 20°C has a frequency of 340 Hz and a speed of 343 m/s. What is the distance between two consecutive crests?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.5 m",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A wavelength of 0.5 m would imply a much higher frequency or a lower speed than given in the question."
+        },
+        {
+          "letter": "B",
+          "text": "1.01 m",
+          "isCorrect": true,
+          "explanation": "This option is correct. It correctly calculates the wavelength using the given speed and frequency, yielding a result of approximately 1.01 m."
+        },
+        {
+          "letter": "C",
+          "text": "1.5 m",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A wavelength of 1.5 m would suggest a lower frequency or a higher speed than provided in the question."
+        },
+        {
+          "letter": "D",
+          "text": "2.0 m",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. A wavelength of 2.0 m indicates an even lower frequency, which does not match the frequency provided in the question."
+        }
+      ],
+      "explanation": "Wavelength λ = v / f = 343 / 340 ≈ 1.01 m, which is the distance between consecutive crests.",
+      "explanationImage": null,
+      "hints": [
+        "consecutive crests",
+        "distance"
+      ]
+    },
+    {
+      "text": "A source emits a sound of frequency 400 Hz. If the source moves toward a stationary observer at 20 m/s, what frequency does the observer hear? (Speed of sound = 343 m/s)",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "375 Hz",
+          "isCorrect": false,
+          "explanation": "This option is lower than the expected frequency increase due to the motion of the source toward the observer. It does not account for the Doppler effect."
+        },
+        {
+          "letter": "B",
+          "text": "400 Hz",
+          "isCorrect": false,
+          "explanation": "This option represents the original frequency emitted by the source, not the frequency perceived by the observer. It fails to consider the Doppler shift resulting from the source's movement."
+        },
+        {
+          "letter": "C",
+          "text": "425 Hz",
+          "isCorrect": true,
+          "explanation": "This is the correct answer, calculated using the Doppler effect formula, accounting for the source's speed towards the observer."
+        },
+        {
+          "letter": "D",
+          "text": "450 Hz",
+          "isCorrect": false,
+          "explanation": "This option is higher than the expected frequency. It does not correctly apply the Doppler effect, leading to an overestimation of the frequency perceived by the observer."
+        }
+      ],
+      "explanation": "Doppler effect: f' = f × (v / (v - vs )) = 400 × (343 / (343 - 20)) = 400 × (343 / 323) ≈ 425 Hz.",
+      "explanationImage": null,
+      "hints": [
+        "frequency",
+        "source moves toward"
+      ]
+    },
+    {
+      "text": "Two sound waves of equal amplitude interfere destructively. If the intensity of each wave is 2 W/m² , what is the resultant intensity?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0 W/m²",
+          "isCorrect": true,
+          "explanation": "This is correct because destructive interference of two sound waves of equal amplitude results in a cancellation of their effects, leading to a resultant intensity of 0 W/m²."
+        },
+        {
+          "letter": "B",
+          "text": "2 W/m²",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. If the waves interfere destructively, their combined effect is not simply the intensity of one wave, but rather a cancellation of both waves."
+        },
+        {
+          "letter": "C",
+          "text": "4 W/m²",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The intensity is not additive in the case of destructive interference; thus, the resultant intensity cannot be greater than 0 W/m²."
+        },
+        {
+          "letter": "D",
+          "text": "8 W/m²",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Similar to option C, the intensity cannot be summed in destructive interference, leading to a misunderstanding of wave interaction."
+        }
+      ],
+      "explanation": "Destructive interference of equal amplitude waves results in zero amplitude, so the resultant intensity is 0 W/m².",
+      "explanationImage": null,
+      "hints": [
+        "destructively",
+        "intensity",
+        "equal amplitude"
+      ]
+    },
+    {
+      "text": "A string fixed at both ends has a length of 1.2 m and a wave speed of 60 m/s. What is the frequency of the third harmonic?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "37.5 Hz",
+          "isCorrect": false,
+          "explanation": "This option is calculated based on incorrect values for harmonic frequency. It does not align with the correct formula."
+        },
+        {
+          "letter": "B",
+          "text": "75 Hz",
+          "isCorrect": false,
+          "explanation": "This frequency corresponds to the second harmonic and is not the correct value for the third harmonic."
+        },
+        {
+          "letter": "C",
+          "text": "112.5 Hz",
+          "isCorrect": true,
+          "explanation": "This is the correct frequency for the third harmonic of the string, calculated using the proper formula."
+        },
+        {
+          "letter": "D",
+          "text": "150 Hz",
+          "isCorrect": false,
+          "explanation": "This frequency is too high and does not correspond to any harmonic of the given string length and wave speed."
+        }
+      ],
+      "explanation": "For a string fixed at both ends, nth harmonic frequency fn = (n × v) / (2L). Third harmonic (n=3): f3 = (3 × 60) / (2 × 1.2) = 180 / 1.6 = 112.5 Hz..",
+      "explanationImage": null,
+      "hints": [
+        "length",
+        "wave speed",
+        "third harmonic"
+      ]
+    },
+    {
+      "text": "A sound source produces 10⁻⁴ W/m² at a distance of 2 m. What is the intensity at 4 m?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.5 × 10⁻⁵ W/m²",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. It is calculated using the inverse square law, where intensity decreases as the square of the distance from the source increases."
+        },
+        {
+          "letter": "B",
+          "text": "5.0 × 10⁻⁵ W/m²",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While it seems like a reasonable estimate, it does not account for the correct application of the inverse square law."
+        },
+        {
+          "letter": "C",
+          "text": "1.0 × 10⁻⁴ W/m²",
+          "isCorrect": false,
+          "explanation": "This option is also incorrect. It represents the initial intensity at 2 m, but does not reflect the decrease in intensity as the distance increases to 4 m."
+        },
+        {
+          "letter": "D",
+          "text": "4.0 × 10⁻⁴ W/m²",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It suggests an increase in intensity, which contradicts the principle of sound intensity decreasing with increased distance from the source."
+        }
+      ],
+      "explanation": "Intensity follows the inverse square law: I2 = I1 × (r1 / r2 )² = 10⁻⁴ × (2 / 4)² = 10⁻⁴ × 0.25 = 2.5 × 10⁻⁵ W/m².",
+      "explanationImage": null,
+      "hints": [
+        "10⁻⁴ W/m²",
+        "distance of 2 m",
+        "intensity at 4 m"
+      ]
+    },
+    {
+      "text": "An open pipe of length 0.85 m resonates at its fundamental frequency. What is this frequency? (Speed of sound = 343 m/s)",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "101 Hz",
+          "isCorrect": false,
+          "explanation": "This option is too low. The fundamental frequency for an open pipe must be calculated using the formula, which will yield a higher value."
+        },
+        {
+          "letter": "B",
+          "text": "202 Hz",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. It is derived from the formula for the fundamental frequency of an open pipe, where the speed of sound is divided by twice the length of the pipe."
+        },
+        {
+          "letter": "C",
+          "text": "303 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It is higher than the calculated fundamental frequency, indicating a misunderstanding of the relationship between pipe length and frequency."
+        },
+        {
+          "letter": "D",
+          "text": "404 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as well. It exceeds the fundamental frequency significantly, suggesting a miscalculation of the frequency for the given length of the pipe."
+        }
+      ],
+      "explanation": "For an open pipe, fundamental frequency f1 = v / (2L) = 343 / (2 × 0.85) = 343 / 1.7 ≈ 202 Hz.",
+      "explanationImage": null,
+      "hints": [
+        "open pipe",
+        "length 0.85 m",
+        "frequency"
+      ]
+    },
+    {
+      "text": "Two waves with frequencies 500 Hz and 510 Hz produce beats. What is the beat frequency?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the beat frequency is calculated by taking the absolute difference between the two frequencies. In this case, 510 Hz - 500 Hz equals 10 Hz, not 5 Hz."
+        },
+        {
+          "letter": "B",
+          "text": "10 Hz",
+          "isCorrect": true,
+          "explanation": "This option is correct because the beat frequency is determined by the formula |f1 - f2|. Here, |510 Hz - 500 Hz| equals 10 Hz, which represents the number of beats per second."
+        },
+        {
+          "letter": "C",
+          "text": "15 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect since the beat frequency is not 15 Hz. The correct calculation shows that the difference between 510 Hz and 500 Hz is 10 Hz."
+        },
+        {
+          "letter": "D",
+          "text": "20 Hz",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The beat frequency is not determined by adding the frequencies but by finding the absolute difference. Therefore, 20 Hz is not the correct answer."
+        }
+      ],
+      "explanation": "Beat frequency = |f1 - f2 | = |510 - 500| = 10 Hz.",
+      "explanationImage": null,
+      "hints": [
+        "frequencies",
+        "beats",
+        "beat frequency"
+      ]
+    },
+    {
+      "text": "A car moving at 30 m/s toward an observer sounds its horn at 400 Hz. If the speed of sound is 343 m/s, what frequency does the observer hear?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "368 Hz",
+          "isCorrect": false,
+          "explanation": "This frequency is lower than the original frequency of the horn. It does not account for the movement of the car towards the observer, which would increase the observed frequency."
+        },
+        {
+          "letter": "B",
+          "text": "400 Hz",
+          "isCorrect": false,
+          "explanation": "This option represents the original frequency of the horn. It fails to consider the Doppler effect, where the frequency changes due to the relative motion of the source and the observer."
+        },
+        {
+          "letter": "C",
+          "text": "436 Hz",
+          "isCorrect": true,
+          "explanation": "This is the correct frequency that the observer hears, calculated using the Doppler effect formula, accounting for the movement of the car towards the observer."
+        },
+        {
+          "letter": "D",
+          "text": "472 Hz",
+          "isCorrect": false,
+          "explanation": "This frequency is higher than the correct answer and suggests an overestimation of the effect of the car's speed on the sound frequency."
+        }
+      ],
+      "explanation": "Explanation: Doppler effect: f' = f × (v / (v - vs )) = 400 × (343 / (343 - 30)) = 400 × (343 / 313) ≈ 436 Hz.",
+      "explanationImage": null,
+      "hints": [
+        "car",
+        "observer"
+      ]
+    },
+    {
+      "text": "A standing wave in a closed pipe (one end closed) has a length of 0.5 m. What is the wavelength of the second harmonic? (Speed of sound = 343 m/s)",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0.67 m",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it assumes a wavelength that does not fit the harmonic pattern for a closed pipe."
+        },
+        {
+          "letter": "B",
+          "text": "1.0 m",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it incorrectly represents the wavelength for the second harmonic of a closed pipe."
+        },
+        {
+          "letter": "C",
+          "text": "1.33 m",
+          "isCorrect": true,
+          "explanation": "This is the correct answer as it accurately reflects the wavelength of the second harmonic in a closed pipe, calculated using the formula λ = 4L/3."
+        },
+        {
+          "letter": "D",
+          "text": "2.0 m",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it suggests a wavelength that exceeds the length of the closed pipe's harmonic structure."
+        }
+      ],
+      "explanation": "For a closed pipe, second harmonic wavelength λ2 = 4L / 3 = (4 × 0.5) / 3 = 2 / 3 ≈ 1.33 m.",
+      "explanationImage": null,
+      "hints": [
+        "standing wave",
+        "closed pipe",
+        "second harmonic"
+      ]
+    },
+    {
+      "text": "Bats navigate and find food by:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Ultrasonic",
+          "isCorrect": false,
+          "explanation": "Bats emit ultrasonic sound waves that are beyond the range of human hearing. While this term is related to their method of navigation, it does not directly describe the process they use."
+        },
+        {
+          "letter": "B",
+          "text": "Amplitude",
+          "isCorrect": false,
+          "explanation": "Amplitude refers to the strength of sound waves but does not specifically explain how bats find food. It is a characteristic of sound rather than a method of navigation."
+        },
+        {
+          "letter": "C",
+          "text": "Echo location",
+          "isCorrect": true,
+          "explanation": "Echolocation is the process bats use to navigate and locate food by emitting sound waves that bounce off objects, allowing them to determine the distance and direction of those objects based on the returning echoes. This is the correct answer."
+        },
+        {
+          "letter": "D",
+          "text": "Refraction",
+          "isCorrect": false,
+          "explanation": "Refraction is the bending of waves when they pass through different mediums. While it is a concept related to wave behavior, it does not pertain to how bats find food."
+        }
+      ],
+      "explanation": "Bats emit ultrasonic pulses and interpret returning echoes (echolocation) to determine distance, direction and nature of objects, so echolocation is the mechanism.",
+      "explanationImage": null,
+      "hints": [
+        "Bats",
+        "navigate",
+        "food"
+      ]
+    },
+    {
+      "text": "Which one of the following explains that all the galaxies are receding from us?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Wave Motion and Sound",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "White shift",
+          "isCorrect": false,
+          "explanation": "White shift is not a recognized phenomenon in astronomy and does not relate to the movement of galaxies."
+        },
+        {
+          "letter": "B",
+          "text": "Neutron stars",
+          "isCorrect": false,
+          "explanation": "Neutron stars are remnants of supernova explosions and do not explain the recession of galaxies."
+        },
+        {
+          "letter": "C",
+          "text": "Black holes",
+          "isCorrect": false,
+          "explanation": "Black holes are regions of spacetime with strong gravitational effects but are unrelated to the overall recession of galaxies."
+        },
+        {
+          "letter": "D",
+          "text": "Red shift",
+          "isCorrect": true,
+          "explanation": "Red shift refers to the increase in wavelength of light from galaxies moving away from us, indicating that they are receding due to the expansion of the universe."
+        }
+      ],
+      "explanation": "Observed cosmological redshift of galaxy spectra shows systematic wavelength stretching indicative of recession and cosmic expansion, so redshift is the evidence.",
+      "explanationImage": null,
+      "hints": [
+        "galaxies",
+        "receding"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1766 @@
+{
+  "questions": [
+    {
+      "text": "A weightlifter lifts a 275 kg barbell from the ground to a height of 2.4 m. How much work has the weightlifter done in lifting the barbel and how much work is required to hold a weight at that height?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3234J and 0J respectively",
+          "isCorrect": false,
+          "explanation": "Option A is incorrect. The work done to lift the barbell is miscalculated, though the work required to hold it is correctly identified as 0J."
+        },
+        {
+          "letter": "B",
+          "text": "3234J and 3234J respectively",
+          "isCorrect": false,
+          "explanation": "Option B is incorrect. Although the work done to hold the barbell is stated, holding it requires no additional work once it is lifted."
+        },
+        {
+          "letter": "C",
+          "text": "6468J and 0J respectively",
+          "isCorrect": true,
+          "explanation": "Option C is correct"
+        },
+        {
+          "letter": "D",
+          "text": "6468J and 6468J respectively",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect. The correct work done to lift the barbell is given, but holding it does not require additional work."
+        }
+      ],
+      "explanation": "To calculate the work done in lifting the barbell, use the formula Work = Force x Distance. The force required is equal to the weight of the barbell, which is mass times the acceleration due to gravity (9.8 m/s²). Thus, Force = 275 kg x 9.8 m/s² = 2695 N. The work done is then Work = 2695 N x 2.4 m = 6468 J. Once the barbell is lifted, holding it at that height requires no additional work because there is no displacement. Therefore, the correct answer is 6468J and 0J respectively. Options A and B miscalculate the work done to lift the barbell, while Option D incorrectly states that work is required to hold the barbell at a height.",
+      "explanationImage": null,
+      "hints": [
+        "275 kg",
+        "2.4 m"
+      ]
+    },
+    {
+      "text": "A gas in a cylinder is kept at a constant pressure of 3.6 × 10⁵ Pa while 300 kJ of heat are added to it,causing the gas to expand from 1.0 m³ to 1.5 m³. Find the work done by the gas and the change in internal energy of the gas.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1.8 × 10⁵ J and 120 kJ respectively",
+          "isCorrect": true,
+          "explanation": "The work done by the gas is calculated using W = PΔV = 3.6 × 10⁵ Pa × (1.5 m³ - 1.0 m³) = 1.8 × 10⁵ J. The change in internal energy is ΔU = Q - W = 300 kJ - 180 kJ = 120 kJ."
+        },
+        {
+          "letter": "B",
+          "text": "120 J and 1.8 × 10⁵ kJ respectively",
+          "isCorrect": false,
+          "explanation": "This option confuses the units and magnitude of energy and work. The work done should be in joules, not kJ, making this option incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "120 J and 2 kJ respectively",
+          "isCorrect": false,
+          "explanation": "This option incorrectly calculates the work done and change in internal energy, providing incorrect values and units."
+        },
+        {
+          "letter": "D",
+          "text": "Impossible to find by the given data",
+          "isCorrect": false,
+          "explanation": "The problem provides sufficient data to calculate both the work done and the change in internal energy using the formulas for work done at constant pressure and the first law of thermodynamics."
+        }
+      ],
+      "explanation": "The correct answer is: 1.8 × 10⁵ J and 120 kJ respectively.To find the work done by the gas, we use the formula for work done at constant pressure: W = PΔV.Given P = 3.6 × 10⁵ Pa and the change in volume ΔV = 1.5 m³ - 1.0 m³ = 0.5 m³, we calculate W = 3.6 × 10⁵ Pa × 0.5 m³ = 1.8 × 10⁵ J.The change in internal energy ΔU is found using the first law of thermodynamics: ΔU = Q - W, where Q = 300 kJ = 300,000 J and W = 180,000 J. Thus, ΔU = 300,000 J - 180,000 J = 120,000 J or 120 kJ.The other options are incorrect because they either mix up units or provide incorrect calculations based on the given data.",
+      "explanationImage": null,
+      "hints": [
+        "constant pressure",
+        "300 kJ",
+        "expand from 1.0 m³ to 1.5 m³"
+      ]
+    },
+    {
+      "text": "A tractor pulls a log with a mass of 500 kg along the ground for 100 m. The rope( between the tractor and the log) makes an angle of 30°with the ground and is acted on by a tensile force of 5000N. How much work does the tractor perform in this scenario? (sin 30°=0.5 , cos 30°=0.866,tan30°=0.577)",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "250 kJ",
+          "isCorrect": false,
+          "explanation": "Option A is incorrect. This calculation doesn't account for the angle properly and results in a lower value."
+        },
+        {
+          "letter": "B",
+          "text": "289 kJ",
+          "isCorrect": false,
+          "explanation": "Option B is incorrect. This value results from an incorrect application of trigonometric functions."
+        },
+        {
+          "letter": "C",
+          "text": "433kJ",
+          "isCorrect": true,
+          "explanation": "Option C is correct"
+        },
+        {
+          "letter": "D",
+          "text": "500 kJ",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect. This assumes the entire force is in the direction of the displacement, ignoring the angle."
+        }
+      ],
+      "explanation": "The work done by the tractor is calculated using the formula: W = F * d * cos(θ), where F is the force, d is the distance, and θ is the angle between the force and the direction of motion. In this case, the tensile force is 5000 N, the distance is 100 m, and the angle θ is 30°. Thus, the work done is:W = 5000 N * 100 m * cos(30°) = 5000 * 100 * 0.866 = 433,000 J, or 433 kJ.Option C is correct because it correctly applies the cosine component of the force in the direction of displacement. Option A and B miscalculate the effect of the angle, while Option D assumes the force is completely aligned with the displacement, ignoring the angle.",
+      "explanationImage": null,
+      "hints": [
+        "tensile force",
+        "angle",
+        "cos 30°"
+      ]
+    },
+    {
+      "text": "Which of the following is a conservative force?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Air resistance",
+          "isCorrect": false,
+          "explanation": "Air resistance is a non-conservative force because it dissipates energy as heat and depends on the path taken."
+        },
+        {
+          "letter": "B",
+          "text": "Friction",
+          "isCorrect": false,
+          "explanation": "Friction is a non-conservative force as it converts mechanical energy into heat and is path-dependent."
+        },
+        {
+          "letter": "C",
+          "text": "Gravity",
+          "isCorrect": true,
+          "explanation": "Option C is correct"
+        },
+        {
+          "letter": "D",
+          "text": "Convection",
+          "isCorrect": false,
+          "explanation": "Convection is not a force but a mode of heat transfer, and it does not apply to the concept of conservative forces."
+        }
+      ],
+      "explanation": "Gravity is the correct answer as it is a conservative force; the work done only depends on the initial and final positions, not the path. Air resistance and friction are non-conservative forces because they convert mechanical energy into other forms like heat, and the work done depends on the path taken. Convection is unrelated to the concept of conservative forces, as it refers to the movement of heat through fluids.",
+      "explanationImage": null,
+      "hints": [
+        "conservative",
+        "force"
+      ]
+    },
+    {
+      "text": "Josh ,who has a mass of 80 kg ,and Sara ,who has a mass of 50 kg jump off a 20 m tall building and land on a fire net. The net compresses and then bounce back up at the same time. Which of the following statements is not true?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Sara will bounce higher than Josh",
+          "isCorrect": true,
+          "explanation": "Option A is correct because both Josh and Sara have the same initial potential energy conversion to kinetic energy. However, the net force experienced differs due to their masses, affecting their rebound height."
+        },
+        {
+          "letter": "B",
+          "text": "For Josh, the change in speed from the start of the jump to contacting the net is 20m/s",
+          "isCorrect": false,
+          "explanation": "Option B is incorrect because the change in speed should be calculated using the formula for gravitational potential energy conversion, which involves the square root of 2gh (where g is the acceleration due to gravity and h is the height)."
+        },
+        {
+          "letter": "C",
+          "text": "Josh will experience a greater force upon impact than Sara",
+          "isCorrect": false,
+          "explanation": "Option C is incorrect because while Josh is heavier, the force experienced depends on the net's compression and the energy absorption capacity, which is not solely dependent on mass."
+        },
+        {
+          "letter": "D",
+          "text": "The energy in this event is converted from potential to kinetic to elastic to kinetic",
+          "isCorrect": false,
+          "explanation": "Option D is correct as it accurately describes the sequence of energy transformations as Josh and Sara fall, compress the net, and bounce back."
+        }
+      ],
+      "explanation": "Option A is correct because Sara and Josh both experience the same gravitational acceleration, but the net's response to their different masses affects their rebound heights. Larger mass implies more energy lost to deformation, leading to a lower bounce height for Josh compared to Sara. Option B is incorrect; the final velocity before impact involves the square root of two times gravity times height equation, resulting in a final speed that would be different than 20 m/s. Option C is incorrect because the force experienced upon impact depends on various factors including the net's elasticity and the duration of impact. Option D is incorrect as it correctly describes the energy transformations from potential to kinetic to elastic and back to kinetic as they bounce.",
+      "explanationImage": null,
+      "hints": [
+        "jump",
+        "20 m tall building",
+        "land on a fire net"
+      ]
+    },
+    {
+      "text": "An 80 kg diver leaps from a 10 m cliff into the sea, as shown below. Find the diver’s potential energy at the top of the cliff and when the diver is two meters underwater, using sea level as the datum.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10J, -2J",
+          "isCorrect": false,
+          "explanation": "Option A is incorrect. These values do not correctly apply the formula for potential energy given the mass and height involved."
+        },
+        {
+          "letter": "B",
+          "text": "7480J, -1568J",
+          "isCorrect": false,
+          "explanation": "Option B is incorrect. Although the underwater potential energy is calculated correctly, the potential energy at the top of the cliff is slightly off."
+        },
+        {
+          "letter": "C",
+          "text": "7840J, -1568J",
+          "isCorrect": true,
+          "explanation": "Option C is correct"
+        },
+        {
+          "letter": "D",
+          "text": "7840J ,9600J",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect. The potential energy at the top of the cliff is correct, but the value for potential energy underwater is incorrect and not calculated based on the diver being below sea level."
+        }
+      ],
+      "explanation": "Option C is correct. The potential energy at the top of the cliff is calculated by using the formula PE = mgh, where m = 80 kg, g = 9.8 m/s² (acceleration due to gravity), and h = 10 m (height above sea level). This gives us 7840J. When the diver is two meters underwater, the height h is -2 m, resulting in a potential energy of -1568J. Other options either miscalculate the potential energy at one or both points, not taking into account the correct height and gravitational parameters.",
+      "explanationImage": null,
+      "hints": [
+        "80 kg diver",
+        "10 m cliff",
+        "sea level"
+      ]
+    },
+    {
+      "text": "A lead ball of mass 0.125 kg is thrown straight up in the air with an initial velocity of 30m/s. Assuming no air resistance, find the work done by the force of gravity by the time the ball is at its maximum height.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "50 J",
+          "isCorrect": false,
+          "explanation": "Option A is incorrect because it underestimates the conversion of kinetic energy to work done against gravity."
+        },
+        {
+          "letter": "B",
+          "text": "56J",
+          "isCorrect": true,
+          "explanation": "Option B is correct"
+        },
+        {
+          "letter": "C",
+          "text": "40 J",
+          "isCorrect": false,
+          "explanation": "Option C is incorrect because it significantly underestimates the kinetic energy transferred to gravitational work."
+        },
+        {
+          "letter": "D",
+          "text": "46 J",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect because it does not account for the full conversion of kinetic energy to work done against gravity."
+        }
+      ],
+      "explanation": "Option B is correct. To find the work done by gravity, calculate the initial kinetic energy of the ball using the formula KE = 0.5 * m * v2, where m is the mass (0.125 kg) and v is the initial velocity (30 m/s). This gives a kinetic energy of 56.25 J, which rounds to 56 J, as energy lost to gravitational work. Other options are incorrect as they do not match the calculated initial kinetic energy.",
+      "explanationImage": null,
+      "hints": [
+        "lead ball",
+        "initial velocity",
+        "maximum height"
+      ]
+    },
+    {
+      "text": "A block weighing 100N is pushed up a frictionless incline over a distance of 20 m to a height of 10 m as shown below. Find minimum force required to push the block",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "5 N",
+          "isCorrect": false,
+          "explanation": "Option A is incorrect because such a small force cannot balance the gravitational component along the incline."
+        },
+        {
+          "letter": "B",
+          "text": "50 N",
+          "isCorrect": true,
+          "explanation": "Option B is correct"
+        },
+        {
+          "letter": "C",
+          "text": "20 N",
+          "isCorrect": false,
+          "explanation": "Option C is incorrect as it underestimates the force required to move the block up the incline."
+        },
+        {
+          "letter": "D",
+          "text": "100 N",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect because it suggests applying the full weight of the block, which is unnecessary due to the incline angle."
+        }
+      ],
+      "explanation": "The minimum force required to push the block up the incline is determined by the component of gravitational force acting parallel to the incline. This is calculated using the formula F = (weight * height) / distance, where the weight is 100 N, the height is 10 m, and the distance along the incline is 20 m. Therefore, F = (100 N * 10 m) / 20 m = 50 N. The other options are incorrect because:Option A: 5 N is too small to overcome the gravitational component.Option C: 20 N is less than the necessary force calculated.Option D: 100 N applies the full weight, which is not needed due to the incline.",
+      "explanationImage": null,
+      "hints": [
+        "frictionless incline",
+        "distance of 20 m",
+        "height of 10 m"
+      ]
+    },
+    {
+      "text": "A 40 kg block is resting at a height of 5 m off the ground. If the block is released and falls to the ground. Which of the following is closest to its total mechanical energy at a height of 2m, assuming negligible air resistance?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Mechanical energy cannot be zero if the object is moving or elevated above the ground."
+        },
+        {
+          "letter": "B",
+          "text": "400 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It underestimates the total mechanical energy, which includes both potential and kinetic energy at 2m."
+        },
+        {
+          "letter": "C",
+          "text": "800 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It accounts for part of the energy but does not represent the total mechanical energy at 2m."
+        },
+        {
+          "letter": "D",
+          "text": "2000J",
+          "isCorrect": true,
+          "explanation": "Option D is correct."
+        }
+      ],
+      "explanation": "The total mechanical energy of the block at any point during its fall is the sum of its potential energy (PE) and kinetic energy (KE). Initially, at 5m, the block has only potential energy calculated by PE = mgh = 40 kg × 9.8 m/s² × 5 m = 1960 J. As it falls, its potential energy decreases, and kinetic energy increases, but the total mechanical energy remains constant, assuming negligible air resistance. Therefore, at 2m, the total mechanical energy is still approximately 2000 J, making Option D correct.",
+      "explanationImage": null,
+      "hints": [
+        "40 kg block",
+        "height of 5 m",
+        "negligible air resistance"
+      ]
+    },
+    {
+      "text": "A massless spring initially compressed by a displacement of 2 cm is now compressed by 4 cm. How has the potential energy of this system changed?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The potential energy has not changed",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The potential energy changes with the square of the compression, so increasing the compression will change the potential energy."
+        },
+        {
+          "letter": "B",
+          "text": "The potential energy has doubled",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The potential energy is proportional to the square of the compression, not directly to the compression itself."
+        },
+        {
+          "letter": "C",
+          "text": "The potential energy has increased by 2J",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Without knowing the spring constant, we cannot determine the exact change in joules."
+        },
+        {
+          "letter": "D",
+          "text": "The potential energy has quadrupled",
+          "isCorrect": true,
+          "explanation": "This is correct. The potential energy is proportional to the square of the compression. Since the compression has doubled from 2 cm to 4 cm, the potential energy increases by a factor of four (2^2 = 4)."
+        }
+      ],
+      "explanation": "The correct answer is that the potential energy has quadrupled. The formula for the potential energy stored in a spring is PE = 1/2 k x^2, where k is the spring constant and x is the displacement from the equilibrium position. Initially, the spring is compressed by 2 cm, and then by 4 cm, which means the displacement doubles. Since the potential energy is proportional to the square of the displacement, it increases by a factor of four when the displacement doubles. The other options are incorrect because they either misunderstand the relationship between displacement and potential energy or make assumptions without the necessary information.",
+      "explanationImage": null,
+      "hints": [
+        "massless spring",
+        "compressed",
+        "potential energy"
+      ]
+    },
+    {
+      "text": "A parachutist jumps from a plane. Beginning at the point when she reaches terminal velocity, which of the following is/are true? I. The jumper is in translational equilibrium. II. The jumper is not being acted upon by any forces. III. There is an equal amount of work being done by gravity and air resistance.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "I only",
+          "isCorrect": false,
+          "explanation": "I is true because at terminal velocity, the forces are balanced, resulting in translational equilibrium. However, III is also true, so this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "I and III only",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. At terminal velocity, the parachutist is in translational equilibrium (I), and there is an equal amount of work being done by gravity and air resistance (III)."
+        },
+        {
+          "letter": "C",
+          "text": "II and III only",
+          "isCorrect": false,
+          "explanation": "II is incorrect because the parachutist is still acted upon by forces (gravity and air resistance), they are just balanced. III is true, but I is also true, so this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "I, II, and III",
+          "isCorrect": false,
+          "explanation": "II is incorrect. Although the parachutist is acted upon by forces, they are balanced, resulting in no net force, not the absence of forces. I and III are true, but II makes this option incorrect."
+        }
+      ],
+      "explanation": "At terminal velocity, the parachutist is in translational equilibrium (statement I) because the net force acting on her is zero; the downward gravitational force is exactly balanced by the upward air resistance. This balance of forces results in a constant velocity. Statement II is false; the parachutist is indeed acted upon by forces, but they are balanced. Statement III is true because the gravitational force (doing work to move the jumper downward) is balanced by the work done by air resistance (which acts in the opposite direction). Therefore, the correct answer is B: I and III only.",
+      "explanationImage": null,
+      "hints": [
+        "terminal velocity",
+        "translational equilibrium",
+        "work being done"
+      ]
+    },
+    {
+      "text": "If the gravitational potential energy of an object has doubled in the absence of non-conservative forces, which of the following must be true, assuming the total mechanical energy of the object is constant?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The object has been lifted to twice its initial height",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "The kinetic energy of the object has been halved.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "The kinetic energy has decreased by the same quantity as the potential energy has increased.",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "The mass of the object has doubled",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "If the gravitational potential energy of an object has doubled in the absence of non-conservative forces while the total mechanical energy remains constant, the object's kinetic energy must have decreased by an equal amount that the potential energy increased. According to the principle of conservation of mechanical energy, the total mechanical energy (sum of kinetic and potential energies) of a system remains constant in the absence of non-conservative forces like friction. Therefore, any increase in potential energy must be offset by a corresponding decrease in kinetic energy to ensure the total mechanical energy remains constant. This relationship demonstrates the conversion of energy between potential and kinetic forms while maintaining the overall energy balance of the system.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A student making a coffee cup calorimeter fails to use a second coffee cup and incompletely seals the lid. What was her initial goal, and what was the result of this mistake?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "She was trying to create an isolated system but created an open system instead.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. An open system allows for both energy and matter exchange with the surroundings, which is not the result of an incomplete seal and lack of a second cup."
+        },
+        {
+          "letter": "B",
+          "text": "She was trying to create an isolated system but created a closed system instead.",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. An isolated system prevents energy exchange with the surroundings, which was the student's goal. However, a closed system only prevents matter exchange, which is what she inadvertently created due to the incomplete seal."
+        },
+        {
+          "letter": "C",
+          "text": "She was trying to create a closed system but created an open system instead.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The student's goal was to create an isolated system, not a closed system. Also, creating an open system would require a complete lack of sealing, not just an incomplete one."
+        },
+        {
+          "letter": "D",
+          "text": "She was trying to create a closed system but created an isolated system instead.",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The student was attempting to create an isolated system, and an isolated system is more restrictive than a closed system. Her actions did not accidentally result in a more restrictive system."
+        }
+      ],
+      "explanation": "The initial goal of the student was to create an isolated system, which means no exchange of energy or matter with the environment. However, due to the incomplete sealing and lack of a second coffee cup, she ended up with a closed system, where matter cannot be exchanged, but energy can still be transferred in the form of heat. Option B correctly identifies this mistake. Options A and C are incorrect because they incorrectly identify the kind of system created. Option D is incorrect because it reverses the goal and the result.",
+      "explanationImage": null,
+      "hints": [
+        "coffee cup calorimeter",
+        "incompletely seals",
+        "goal"
+      ]
+    },
+    {
+      "text": "1 calorie is equal to how many joules?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "3.184 J",
+          "isCorrect": false,
+          "explanation": "This value is incorrect. The accurate conversion factor from calories to joules is slightly higher than this value."
+        },
+        {
+          "letter": "B",
+          "text": "4.184 J",
+          "isCorrect": true,
+          "explanation": "This is the correct conversion factor. 1 calorie equals exactly 4.184 joules, which is a precise measurement used in energy calculations."
+        },
+        {
+          "letter": "C",
+          "text": "3.183 J",
+          "isCorrect": false,
+          "explanation": "This value is incorrect. It is close to the correct conversion factor but does not match the exact value of 4.184 J."
+        },
+        {
+          "letter": "D",
+          "text": "4.000 J",
+          "isCorrect": false,
+          "explanation": "This value is incorrect. While it is a rounded number, it does not reflect the precise conversion value of 4.184 J."
+        }
+      ],
+      "explanation": "The correct answer is 4.184 J. This is the precise conversion factor used to convert calories to joules, a standard in energy-related calculations. Options such as 3.184 J and 3.183 J are incorrect as they underestimate the conversion, while 4.000 J is a rounded approximation and does not accurately represent the true value.",
+      "explanationImage": null,
+      "hints": [
+        "1 calorie",
+        "joules"
+      ]
+    },
+    {
+      "text": "A wind mill raises 500 kg of water from a well of depth 50 m in 1 hr. What is the power generated by the wind mill? (Take g = 10 m/s2)",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "500x1Ow/1 x 60",
+          "isCorrect": false,
+          "explanation": "This option mistakenly calculates power using the wrong work formula."
+        },
+        {
+          "letter": "B",
+          "text": "500 x 50W/ 1 x 60",
+          "isCorrect": false,
+          "explanation": "This option incorrectly assumes gravitational acceleration is not needed in the calculation."
+        },
+        {
+          "letter": "C",
+          "text": "500 x10 w / 60x 60",
+          "isCorrect": false,
+          "explanation": "This option calculates power using incorrect work values and division by time."
+        },
+        {
+          "letter": "D",
+          "text": "500 xl0x 50 w / 60x 60",
+          "isCorrect": true,
+          "explanation": "This option correctly calculates the work done and divides by the time in seconds to find power."
+        }
+      ],
+      "explanation": "The correct approach to solve this problem involves calculating the work done and then finding the power. The work done to raise the water is given by the formula: Work = mass x gravitational acceleration x height = 500 kg x 10 m/s² x 50 m = 250,000 J (joules). The time taken is 1 hour, which is 3600 seconds. Therefore, the power generated is Work/Time = 250,000 J / 3600 s ≈ 69.44 W. Option D correctly uses these values to compute the power. The other options either use incorrect values or formulas, leading to incorrect power calculations.",
+      "explanationImage": null,
+      "hints": [
+        "500 kg",
+        "depth 50 m"
+      ]
+    },
+    {
+      "text": "A 2000 kg experimental car can accelerate from 0 to 30 m per second in 6 seconds. What is the average power of the engine needed to achieve this acceleration?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "150W",
+          "isCorrect": false,
+          "explanation": "Option A is incorrect. This value is too low. Remember to convert the units properly and consider the kinetic energy change."
+        },
+        {
+          "letter": "B",
+          "text": "150kW",
+          "isCorrect": true,
+          "explanation": "Option B is correct."
+        },
+        {
+          "letter": "C",
+          "text": "900W",
+          "isCorrect": false,
+          "explanation": "Option C is incorrect. This value is still too low. Ensure you calculate the kinetic energy correctly."
+        },
+        {
+          "letter": "D",
+          "text": "900kW",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect. This value is too high, suggesting an error in energy or time calculation."
+        }
+      ],
+      "explanation": "To find the average power, we first need to calculate the change in kinetic energy of the car. The kinetic energy (KE) is given by the formula:KE = 0.5 * mass * velocity2For the car:KE = 0.5 * 2000 kg * (30 m/s)2 = 0.5 * 2000 * 900 = 900,000 JThis is the work done by the engine to accelerate the car. The average power is the work done divided by the time taken:Power = 900,000 J / 6 s = 150,000 W = 150 kWTherefore, Option B is correct. Option A and Option C are incorrect as they underestimate the power required, and Option D is incorrect as it overestimates the power.",
+      "explanationImage": null,
+      "hints": [
+        "2000 kg",
+        "accelerate from 0 to 30 m per second",
+        "6 seconds"
+      ]
+    },
+    {
+      "text": "Mechanical advantage and efficiency are both ratios. Which of the following is true regarding the quantities used in these ratios?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mechanical advantage compares values of work; efficiency compares values of power",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Mechanical advantage relates to forces, not work, and efficiency relates to work, not power."
+        },
+        {
+          "letter": "B",
+          "text": "Mechanical advantage compares values of forces; efficiency compares values of work",
+          "isCorrect": true,
+          "explanation": "This option is correct. Mechanical advantage is the ratio of output force to input force, and efficiency is the ratio of useful work output to total work input."
+        },
+        {
+          "letter": "C",
+          "text": "Mechanical advantage compares values of power; efficiency compares values of energy",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Mechanical advantage is about forces, not power, and efficiency is about work, not energy in general."
+        },
+        {
+          "letter": "D",
+          "text": "Mechanical advantage compares values of work; efficiency compares values of forces",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Mechanical advantage is about forces, and efficiency is about work, not the other way around."
+        }
+      ],
+      "explanation": "Option B is the correct choice because mechanical advantage is the ratio of the output force produced by a machine to the applied input force, making it a comparison of forces. Efficiency, on the other hand, compares the useful work output to the total work input, which is a ratio of work values. Option A is incorrect as it incorrectly associates mechanical advantage with work and efficiency with power. Option C is incorrect as it confuses mechanical advantage with power and efficiency with energy. Option D is incorrect because it reverses the associations of forces and work between mechanical advantage and efficiency.",
+      "explanationImage": null,
+      "hints": [
+        "Mechanical advantage",
+        "efficiency",
+        "ratios"
+      ]
+    },
+    {
+      "text": "A consumer is comparing two new cars. Car A exert 250 horsepower while Car B exerts 300 horsepower. The consumer is most concerned about the peak velocity that the car can reach. If non conservative forces can be ignored, which of the following statements is true?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Car A and Car B both have unlimited velocities",
+          "isCorrect": true,
+          "explanation": "Option A is correct because without non-conservative forces like friction, both cars can theoretically achieve unlimited velocities by continuously exerting power. In this idealized scenario, there is no force to limit their velocity."
+        },
+        {
+          "letter": "B",
+          "text": "Car A will reach its peak velocity more quickly than Car B.",
+          "isCorrect": false,
+          "explanation": "Option B is incorrect because Car B, having higher horsepower, can exert more power than Car A. This means Car B could reach higher velocities more quickly, assuming all other factors are equal."
+        },
+        {
+          "letter": "C",
+          "text": "Car A will dissipate less energy to the surroundings than Car B.",
+          "isCorrect": false,
+          "explanation": "Option C is incorrect because energy dissipation is irrelevant in this scenario as non-conservative forces are ignored. Both cars are assumed to operate in an ideal environment with no energy loss."
+        },
+        {
+          "letter": "D",
+          "text": "Car A will have a lower peak velocity than Car B.",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect because, without non-conservative forces, peak velocity is theoretically unlimited for both cars, negating any assumption about Car A having a lower peak velocity."
+        }
+      ],
+      "explanation": "Option A is correct. In an idealized scenario where non-conservative forces such as friction and air resistance are ignored, both Car A and Car B can theoretically achieve unlimited velocities. The absence of opposing forces means there is no cap on the velocity they could reach as long as power is continuously exerted. Options B, C, and D incorrectly assume limitations or factors that are not present in this idealized scenario. Car B's higher horsepower does not lead to a finite peak velocity in the absence of non-conservative forces, nor does it imply faster or energy-efficient performance when such forces are disregarded.",
+      "explanationImage": null,
+      "hints": [
+        "peak velocity",
+        "non conservative"
+      ]
+    },
+    {
+      "text": "A student must lift a mass of 4kg at a distance of 0.5 m. The ambient temperature is 298K and the student must lift the mass in 30s. Which of the following values is not necessary to calculate power?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mass",
+          "isCorrect": false,
+          "explanation": "Option A is incorrect. Mass is necessary to calculate the work done, which is part of the power calculation."
+        },
+        {
+          "letter": "B",
+          "text": "Distance",
+          "isCorrect": false,
+          "explanation": "Option B is incorrect. Distance is required to determine the work done, which is crucial for calculating power."
+        },
+        {
+          "letter": "C",
+          "text": "Temperature",
+          "isCorrect": true,
+          "explanation": "Option C is correct. Temperature is not involved in the calculation of power, which depends on work done and time."
+        },
+        {
+          "letter": "D",
+          "text": "Time",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect. Time is essential for calculating power, which is defined as work done per unit time."
+        }
+      ],
+      "explanation": "Option C is correct. To calculate power, you need to know the work done and the time over which that work is done. Work is calculated using mass and distance (Work = Force x Distance, where Force = Mass x Gravity). Time is required to determine power (Power = Work/Time). Temperature does not play a role in this calculation, making it unnecessary for determining power. Hence, the correct answer is temperature.",
+      "explanationImage": null,
+      "hints": [
+        "mass",
+        "distance",
+        "temperature",
+        "30s"
+      ]
+    },
+    {
+      "text": "A 15 kg block, initially at rest, slides down a frictionless incline and comes to the bottom with a speed of 7 m/s. What is the kinetic energy of the object at the top and bottom of the ramp?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "52.5 J at the top and 367.5 J at the bottom",
+          "isCorrect": false,
+          "explanation": "Incorrect. The kinetic energy at the top is 0 J because the block is initially at rest. The value 52.5 J incorrectly assumes some kinetic energy at the top."
+        },
+        {
+          "letter": "B",
+          "text": "367.5 J at the bottom and 0 J at the top",
+          "isCorrect": true,
+          "explanation": "Correct. At the top, the block's kinetic energy is 0 J because it is at rest. At the bottom, the kinetic energy is calculated as 0.5 × 15 kg × (7 m/s)² = 367.5 J."
+        },
+        {
+          "letter": "C",
+          "text": "0 J at the top and 735 J at the bottom",
+          "isCorrect": false,
+          "explanation": "Incorrect. The calculation for kinetic energy at the bottom is wrong. It should be 367.5 J, not 735 J. The initial kinetic energy is correctly 0 J at the top."
+        },
+        {
+          "letter": "D",
+          "text": "367.5 J at the top and 0 J at the bottom",
+          "isCorrect": false,
+          "explanation": "Incorrect. This would imply the block loses kinetic energy as it slides down, which contradicts the conservation of energy in a frictionless system."
+        }
+      ],
+      "explanation": "The kinetic energy of an object is given by the formula KE = 0.5 × m × v². At the top of the incline, the block is at rest, so v = 0 m/s, resulting in a kinetic energy of 0 J. As the block slides down the frictionless incline, its potential energy is converted into kinetic energy. At the bottom, where its speed is 7 m/s, the kinetic energy is calculated as 0.5 × 15 kg × (7 m/s)² = 367.5 J. Therefore, Option B is correct. Options A, C, and D are incorrect because they either miscalculate the kinetic energy at the bottom or incorrectly assign values to the top or bottom, violating the conservation of mechanical energy.",
+      "explanationImage": null,
+      "hints": [
+        "15 kg block",
+        "frictionless incline"
+      ]
+    },
+    {
+      "text": "The graph shown represents the potential energy U as a function of displacement x for an object on the end of a spring moving back and forth with amplitude Xo.Which of the following graphs represents the kinetic energy K of the object as a function of displacement x?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Figure A",
+          "isCorrect": false,
+          "explanation": "Figure A does not correctly show the conversion of potential energy to kinetic energy in harmonic motion. The graph is not symmetric and does not reflect the conservation of total mechanical energy."
+        },
+        {
+          "letter": "B",
+          "text": "Figure B",
+          "isCorrect": false,
+          "explanation": "Figure B depicts kinetic energy as constant, which is incorrect. In harmonic motion, kinetic energy varies with displacement, reaching a maximum when potential energy is minimum."
+        },
+        {
+          "letter": "C",
+          "text": "Figure C",
+          "isCorrect": false,
+          "explanation": "Figure C does not accurately represent the relationship between kinetic and potential energy in oscillatory motion. The graph does not show the expected variation in kinetic energy with displacement."
+        },
+        {
+          "letter": "D",
+          "text": "Figure D",
+          "isCorrect": true,
+          "explanation": "Figure D correctly represents the kinetic energy of an object in harmonic motion as a function of displacement. As potential energy decreases, kinetic energy increases, illustrating the conservation of total mechanical energy."
+        }
+      ],
+      "explanation": "In harmonic motion, such as that of an object attached to a spring, total mechanical energy is conserved. This means that the sum of potential energy (U) and kinetic energy (K) remains constant. As the object moves through its displacement, potential energy is maximum at the extremes and minimum at the equilibrium position. Conversely, kinetic energy is maximum at the equilibrium position and minimum at the extremes. Figure D accurately reflects this relationship, with kinetic energy increasing as potential energy decreases and vice versa. The other options do not correctly represent this interplay between kinetic and potential energy.",
+      "explanationImage": null,
+      "hints": [
+        "potential energy",
+        "displacement",
+        "kinetic energy"
+      ]
+    },
+    {
+      "text": "Which of the following best characterizes the work energy theorem?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The work done by any force is proportional only to the magnitude of that force",
+          "isCorrect": false,
+          "explanation": "Option A is incorrect. The work-energy theorem relates work done to changes in kinetic energy, not merely to the magnitude of force."
+        },
+        {
+          "letter": "B",
+          "text": "The total work done on any object is equal to the change in kinetic energy for that object",
+          "isCorrect": true,
+          "explanation": "Option B is correct"
+        },
+        {
+          "letter": "C",
+          "text": "The work done on an object by any force is proportional to the change in kinetic energy for that object",
+          "isCorrect": false,
+          "explanation": "Option C is incorrect. The work done is not just proportional but equal to the change in kinetic energy, according to the work-energy theorem."
+        },
+        {
+          "letter": "D",
+          "text": "The work done by an applied force on an object is equal to the change in kinetic energy of that object",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect. While it partially describes the work-energy theorem, it fails to account for all forces acting on the object, not just the applied force."
+        }
+      ],
+      "explanation": "The work-energy theorem states that the total work done on an object by all forces is equal to the change in its kinetic energy, which makes Option B the correct choice. Option A is incorrect because it focuses only on the magnitude of force without considering energy changes. Option C is misleading because it uses the term 'proportional' instead of 'equal.' Finally, Option D is incorrect because it does not consider the total work done by all forces, focusing only on an applied force.",
+      "explanationImage": null,
+      "hints": [
+        "work",
+        "energy",
+        "theorem"
+      ]
+    },
+    {
+      "text": "Which of the following statements is true regarding the law of conservation of energy?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energy can be created or destroyed.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Energy can be converted from potential energy to kinetic energy.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Energy can be converted from one form to another, but the total energy remains constant.",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Energy can be converted from kinetic energy to potential energy without any loss.",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is C) Energy can be converted from one form to another, but the total energy remains constant. The law of conservation of energy states that energy cannot be created or destroyed; it can only change from one form to another. In any energy transformation, the total amount of energy before and after the transformation remains constant. This principle holds true across various types of energy, such as potential energy, kinetic energy, mechanical energy, thermal energy, and more.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "First law of thermodynamics accounts for the conservation of _",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mechanical Energy",
+          "isCorrect": true,
+          "explanation": "Option A is correct"
+        },
+        {
+          "letter": "B",
+          "text": "Potential Energy",
+          "isCorrect": false,
+          "explanation": "Option B is incorrect. While potential energy is a form of energy, the First Law of Thermodynamics applies to all forms of energy, not just potential energy."
+        },
+        {
+          "letter": "C",
+          "text": "Momentum",
+          "isCorrect": false,
+          "explanation": "Option C is incorrect. The conservation of momentum is a separate principle that is not addressed by the First Law of Thermodynamics."
+        },
+        {
+          "letter": "D",
+          "text": "Temperature",
+          "isCorrect": false,
+          "explanation": "Option D is incorrect. Temperature is a measure of the average kinetic energy of particles, not a conserved quantity in the context of thermodynamics."
+        }
+      ],
+      "explanation": "The First Law of Thermodynamics is a statement of the conservation of energy. It asserts that the total energy of an isolated system remains constant, although it can change forms, such as from kinetic to potential energy or vice versa. Option A, 'Energy,' is correct because it encompasses all forms of energy, not just one specific type. Option B is incorrect because it refers only to one type of energy, while Option C is incorrect because momentum is a distinct concept not covered by this law. Option D is incorrect because temperature is not a conserved quantity.",
+      "explanationImage": null,
+      "hints": [
+        "First",
+        "law",
+        "thermodynamics"
+      ]
+    },
+    {
+      "text": "A baseball of mass 0.25 kg is thrown in the air with an initial speed of 30m/s but because of air resistance, the ball returns to the ground with a speed of 27m/s. Find the work done by air resistance.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Forces and Motion",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-21.37J",
+          "isCorrect": true,
+          "explanation": "Option A is correct"
+        },
+        {
+          "letter": "B",
+          "text": "15 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. This value does not take into account the correct calculation of the change in kinetic energy due to air resistance."
+        },
+        {
+          "letter": "C",
+          "text": "21.37 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. Although the magnitude is correct, the sign is incorrect as the work done by air resistance should be negative due to energy loss."
+        },
+        {
+          "letter": "D",
+          "text": "-15 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. This value does not reflect the correct change in kinetic energy and does not match the calculated work done by air resistance."
+        }
+      ],
+      "explanation": "The work done by air resistance can be determined by the change in kinetic energy of the baseball. The initial kinetic energy (KEinitial) is given by:KEinitial = 0.5 × 0.25 kg × (30 m/s)2 = 112.5 JThe final kinetic energy (KEfinal) when it returns to the ground is:KEfinal = 0.5 × 0.25 kg × (27 m/s)2 = 91.125 JThe work done by air resistance is the difference in kinetic energy: Work = KEfinal - KEinitial = 91.125 J - 112.5 J = -21.375 JTherefore, Option A is correct. Other options either have incorrect values or do not account for the negative sign, indicating energy loss due to air resistance.",
+      "explanationImage": null,
+      "hints": [
+        "initial speed",
+        "air resistance",
+        "returns to the ground"
+      ]
+    },
+    {
+      "text": "During uniform circular motion ,which of the following relationships is necessarily true?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Circular Motion & Momentum",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "No work is done",
+          "isCorrect": true,
+          "explanation": "Option A is correct"
+        },
+        {
+          "letter": "B",
+          "text": "The centripetal force does work",
+          "isCorrect": false,
+          "explanation": "Incorrect. The centripetal force acts perpendicular to the motion, so it does not do any work on the object."
+        },
+        {
+          "letter": "C",
+          "text": "The velocity does work",
+          "isCorrect": false,
+          "explanation": "Incorrect. Work is done by forces, not by velocity, which is a vector quantity representing speed and direction."
+        },
+        {
+          "letter": "D",
+          "text": "Potential energy depends on position of the object around the circle",
+          "isCorrect": false,
+          "explanation": "Incorrect. In uniform circular motion, potential energy changes are not related to the work done by the centripetal force."
+        }
+      ],
+      "explanation": "In uniform circular motion, the object moves in a circle at a constant speed. The centripetal force, which is required to keep the object moving in a circular path, acts towards the center of the circle and is perpendicular to the object's velocity. Since work is defined as the force along the direction of motion times the distance traveled, no work is done by the centripetal force because it does not contribute to the displacement in the direction of the force. Therefore, Option A is correct. Option B is incorrect because the centripetal force does not do work. Option C is incorrect because velocity does not perform work. Option D is incorrect as potential energy in a vertical circle would depend on height, not horizontal position, but this is irrelevant to the work done by the centripetal force.",
+      "explanationImage": null,
+      "hints": [
+        "uniform",
+        "circular",
+        "motion"
+      ]
+    },
+    {
+      "text": "The negative of the work done by the conservative internal force on a system always equals the change in:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Total energy",
+          "isCorrect": false,
+          "explanation": "Option A is incorrect as it is equal to potential energy not total energy."
+        },
+        {
+          "letter": "B",
+          "text": "Kinetic energy",
+          "isCorrect": false,
+          "explanation": "Option B is correct as it is equal to potential energy not kinetic energy."
+        },
+        {
+          "letter": "C",
+          "text": "Potential energy",
+          "isCorrect": true,
+          "explanation": "Option C is correct as:The relation between conservative force and potential energy isFcos = -dU/dxFcos (dx) = -dU-W = -Fcos (dx) = ∆U"
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as one of the above options is correct."
+        }
+      ],
+      "explanation": "Option C is correct as:The relation between conservative force and potential energy isFcos = -dU/dxFcos (dx) = -dU-W = -Fcos (dx) = ∆U",
+      "explanationImage": null,
+      "hints": [
+        "negative of the work done",
+        "s the change"
+      ]
+    },
+    {
+      "text": "An object of 5 kg is pulled horizontally by a force of 50 N through a displacement of 10m. The work done by gravity is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "250 J",
+          "isCorrect": false,
+          "explanation": "Incorrect as per calculations."
+        },
+        {
+          "letter": "B",
+          "text": "500 J",
+          "isCorrect": false,
+          "explanation": "Incorrect as per calculations."
+        },
+        {
+          "letter": "C",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "W = Fdcos90º = 0 J"
+        },
+        {
+          "letter": "D",
+          "text": "5 kJ",
+          "isCorrect": false,
+          "explanation": "Incorrect as per calculations."
+        }
+      ],
+      "explanation": "Since we are required to find the work done by gravity. So, W = Fdcos90º= 0 J",
+      "explanationImage": null,
+      "hints": [
+        "horizontally by a forc",
+        "work done"
+      ]
+    },
+    {
+      "text": "If a mass of 5 Kg is lifted upto 5m height, what will be the work done against the gravitational field:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "245 J",
+          "isCorrect": true,
+          "explanation": "Formula of work done isW=F.d=FdcosθHere F=mg, d=h and cosθ=cos0º=1. Hence,W=mgh(1) = 5×5×9.8 =245JTherefore, this option is correct."
+        },
+        {
+          "letter": "B",
+          "text": "49 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to calculations."
+        },
+        {
+          "letter": "C",
+          "text": "25 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the solution."
+        },
+        {
+          "letter": "D",
+          "text": "98 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to calculations."
+        }
+      ],
+      "explanation": "W=Fdcos θ cos θ =0o=1W = mghW = 245J",
+      "explanationImage": null,
+      "hints": [
+        "lifted",
+        "against"
+      ]
+    },
+    {
+      "text": "Slope of work time graph is equal to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": 2020,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Displacement",
+          "isCorrect": false,
+          "explanation": "Mathematical relation between work and time :Power = work/timeThis option is incorrect according to formula."
+        },
+        {
+          "letter": "B",
+          "text": "Power",
+          "isCorrect": true,
+          "explanation": "Mathematical relation between work and time can be represented by:Work = Power x TimePower = Work /TimeSo graph of work vs time will represent Power."
+        },
+        {
+          "letter": "C",
+          "text": "Acceleration",
+          "isCorrect": false,
+          "explanation": "Graph of work vs time represent power so this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Energy",
+          "isCorrect": false,
+          "explanation": "Mathematical relation between work and time can be represented by:Work = Power x TimePower = Work /TimeSo graph of work vs time will represent Power. Thus option is also incorrect."
+        }
+      ],
+      "explanation": "Slope of W-t graph = W/t = Power",
+      "explanationImage": null,
+      "hints": [
+        "work time graph",
+        "Slope"
+      ]
+    },
+    {
+      "text": "Work done against gravity in lifting a 5 kg box through a distance of 1.5 m is (g=10 ms-2):",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-75 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the work done against gravity is positive, as the force and displacement are in the same direction."
+        },
+        {
+          "letter": "B",
+          "text": "-73.5 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because both the magnitude and the sign are wrong. The work done against gravity should be positive."
+        },
+        {
+          "letter": "C",
+          "text": "73.5 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The calculation of work done involves multiplying the mass (5 kg), the gravitational acceleration (10 m/s-2), and the height (1.5 m), which gives 75 J, not 73.5 J."
+        },
+        {
+          "letter": "D",
+          "text": "75 J",
+          "isCorrect": true,
+          "explanation": "This is the correct option. The work done against gravity is calculated using the formula W = m * g * h = 5 kg * 10 m/s-2 * 1.5 m = 75 J."
+        }
+      ],
+      "explanation": "The correct answer is 75 J. To find the work done against gravity, you use the formula W = m * g * h. Here, the mass (m) is 5 kg, the gravitational acceleration (g) is 10 m/s-2, and the height (h) is 1.5 m. Therefore, W = 5 kg * 10 m/s-2 * 1.5 m = 75 J. The work done is positive because the force applied to lift the box is in the same direction as the displacement. The incorrect options either have the wrong magnitude or the wrong sign.",
+      "explanationImage": null,
+      "hints": [
+        "lifting",
+        "Work done"
+      ]
+    },
+    {
+      "text": "A person holds a bucket of weight 60 N. He walks 7 m along the horizontal path and then climbs up a vertical distance of 5 m. The work done by the gravity is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "300 N-m",
+          "isCorrect": true,
+          "explanation": "Total work done is the sum of both horizonal and vertical work.WT= Whorizontal + WverticalWT= Fd(horizontal) + Fd(vertical)Horizontally, the angle is 90°, so no work will be done. Vertically, the work done is F×d=60×5=300J. Hence total work done is:WT = 0+300=300J/300N mHence, this option is correct."
+        },
+        {
+          "letter": "B",
+          "text": "420 N-m",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to calculations."
+        },
+        {
+          "letter": "C",
+          "text": "720 N-m",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to calculations."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as one of the above options is correct."
+        }
+      ],
+      "explanation": "WT = Whorizontal + WverticalWT =0+60×5WT = 300 N m",
+      "explanationImage": null,
+      "hints": [
+        "horizontal",
+        "vertical"
+      ]
+    },
+    {
+      "text": "Work done is equal to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Change in K.E",
+          "isCorrect": false,
+          "explanation": "Work done can be equal to the change in an object's kinetic energy. This occurs when the speed or velocity of an object changes. The formula for kinetic energy is KE = 1/2 * m * v^2, where m is mass and v is velocity."
+        },
+        {
+          "letter": "B",
+          "text": "Change in P.E",
+          "isCorrect": false,
+          "explanation": "Work done can also be equal to the change in an object's potential energy. This typically refers to gravitational potential energy, where an object's height above the ground changes. The formula for gravitational potential energy is PE = m * g * h, where m is mass, g is the acceleration due to gravity, and h is the height."
+        },
+        {
+          "letter": "C",
+          "text": "Change in elastic P.E",
+          "isCorrect": false,
+          "explanation": "Work done can be equal to the change in elastic potential energy when dealing with objects like springs. When a spring is compressed or stretched, it stores potential energy. The formula for elastic potential energy is PE = 1/2 * k * x^2, where k is the spring constant and x is the displacement from the equilibrium position."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": true,
+          "explanation": "Work done can indeed be equal to the change in any of these forms of energy (kinetic, gravitational potential, or elastic potential) depending on the situation. In many cases, multiple energy forms may be involved in a single process."
+        }
+      ],
+      "explanation": "Solution:- According to work-energy principle“Work done on a body is equal to change in its K.E or change in its P.E or change in both energies.”i.e W=Δ K.E or ΔP .E or both.",
+      "explanationImage": null,
+      "hints": [
+        "Work done"
+      ]
+    },
+    {
+      "text": "A force of 20 N acts on a body through a distance of 10m. What must be the angle between force and displacement such that work comes out to be 100 J?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "90°",
+          "isCorrect": false,
+          "explanation": "If θ is 90 degree, cos(90°) = 0. In this case, the work done would be 20 N * 10 m * 0 = 0 J, which doesn't match the given 100 J of work."
+        },
+        {
+          "letter": "B",
+          "text": "0°",
+          "isCorrect": false,
+          "explanation": "If θ is 0 degree, cos(0°) = 1. In this case, the work done would be 20 N * 10 m * 1 = 200 J, which doesn't match the given 100 J of work."
+        },
+        {
+          "letter": "C",
+          "text": "30°",
+          "isCorrect": false,
+          "explanation": "If θ is 30 degree, cos(30°) = √3/2 ≈ 0.866. In this case, the work done would be 20 N * 10 m * 0.866 ≈ 173.2 J, which is still not 100 J."
+        },
+        {
+          "letter": "D",
+          "text": "60°",
+          "isCorrect": true,
+          "explanation": "If θ is 60 degrees, cos(60°) = 1/2 = 0.5. In this case, the work done would be 20 N * 10 m * 0.5 = 100 J, which matches the given 100 J of work."
+        }
+      ],
+      "explanation": "Solution:- Use relation; W= Fd cosθ If θ is 60 degrees, cos(60°) = 1/2 = 0.5. In this case, the work done would be 20 N * 10 m * 0.5 = 100 J.",
+      "explanationImage": null,
+      "hints": [
+        "20 N",
+        "10m"
+      ]
+    },
+    {
+      "text": "During rainfall, a certain drop of radius \"r\" falls through a height \"h\" above the ground. The work done by the gravitational force is proportional to the:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "r3",
+          "isCorrect": true,
+          "explanation": "Gravitational potential energy is given by,W = PE = mghWe know that, ρ=m/V. Hence m=ρV. The volume of sphere is given by V=4/3πr³. Therefore, m=ρ(4/3πr³). Hence, the above equation becomes,W = ρ(4/3πr³)ghThis shows that work done by gravitational force is proportional to r³. Hence, this is the correct option."
+        },
+        {
+          "letter": "B",
+          "text": "r2",
+          "isCorrect": false,
+          "explanation": "According to the formula W = PE = (4/3πr³)ρgh, PE is proportional to r³. Hence, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "r",
+          "isCorrect": false,
+          "explanation": "Incorrect as per calculations."
+        },
+        {
+          "letter": "D",
+          "text": "r4",
+          "isCorrect": false,
+          "explanation": "Incorrect as per calculations."
+        }
+      ],
+      "explanation": "Gravitational potential energy is given by,W = PE = mghWe know that, ρ=m/V. Hence m=ρV. The volume of sphere is given by V=4/3πr³. Therefore, m=ρ(4/3πr³). Hence, the above equation becomes,W = ρ(4/3πr³)ghThis shows that work done by gravitational force is proportional to r³. Hence, this is the correct option.",
+      "explanationImage": null,
+      "hints": [
+        "drop",
+        "proportional",
+        "work done"
+      ]
+    },
+    {
+      "text": "The amount of work required to stop a moving object is equal to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The velocity of the object",
+          "isCorrect": false,
+          "explanation": "It is incorrect. It should be equal to the change in K.E to stop the body."
+        },
+        {
+          "letter": "B",
+          "text": "The kinetic energy of the object",
+          "isCorrect": true,
+          "explanation": "By work energy principleWork done = ∆K.E"
+        },
+        {
+          "letter": "C",
+          "text": "The mass of the object times its velocity",
+          "isCorrect": false,
+          "explanation": "It is incorrect according to formula."
+        },
+        {
+          "letter": "D",
+          "text": "The weight of the body",
+          "isCorrect": false,
+          "explanation": "It is incorrect according to formula."
+        }
+      ],
+      "explanation": "The correct answer is Option B: The kinetic energy of the object. According to the work-energy principle, the work done on an object to stop it is equal to the change in its kinetic energy, which in this case is the initial kinetic energy of the object since it is being brought to rest.Option A is incorrect because velocity alone does not quantify the work needed. Option C is incorrect as it describes force, not work. Option D is incorrect because it describes momentum, which is not directly related to the work done to stop the object.",
+      "explanationImage": null,
+      "hints": [
+        "work",
+        "stop",
+        "moving"
+      ]
+    },
+    {
+      "text": "Force F on a particle moving in a straight line varies with distance d as shown in the figure. The work done on the particle during its displacement from 3m to 12m",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "13 J",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "26 J",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "18 J",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "21 J",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The explanation of this question will be added soon.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A body, constrained to move in the y-direction, is subjected to a force F-2i+15j+6k Newton's. The work done by this force in moving the body a distance of 10m along the y-axis is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "190 J",
+          "isCorrect": false,
+          "explanation": "Incorrect according to calculations."
+        },
+        {
+          "letter": "B",
+          "text": "160 J",
+          "isCorrect": false,
+          "explanation": "Incorrect according to calculations"
+        },
+        {
+          "letter": "C",
+          "text": "150 J",
+          "isCorrect": true,
+          "explanation": "The work done (W) is calculated using the dot product of the force vector F→and the displacement vector d​Force vector: F = -2{i} + 15{j} + 6{k} N​Displacement vector: d = 10j m (since the movement is 10m along the y-axis)​The calculation is:W = Fd= (15)(10) = 150 { J}The work done is 150 Joules."
+        },
+        {
+          "letter": "D",
+          "text": "20 J",
+          "isCorrect": false,
+          "explanation": "Incorrect according to calculations"
+        }
+      ],
+      "explanation": "The work done (W) is calculated using the dot product of the force vector F→ and the displacement vector dForce vector: F = -2{i} + 15{j} + 6{k} NDisplacement vector: d} = 10j m (since the movement is 10m along the y-axis)The calculation is:W = Fd}= (15)(10) = 150 { J}The work done is 150 Joules.",
+      "explanationImage": null,
+      "hints": [
+        "body, constrained to move in the y-direction",
+        "work done by this force"
+      ]
+    },
+    {
+      "text": "If force and displacement of a particle in direction of force are doubled, work would be",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Double",
+          "isCorrect": false,
+          "explanation": "If the force and displacement of a particle in the direction of the force are both doubled, the work done is given by W = F × d. Doubling both force and displacement gives W' = (2F) × (2d) = 4(F × d) = 4W. Therefore, the work done would be quadrupled, not just doubled."
+        },
+        {
+          "letter": "B",
+          "text": "1/4 times",
+          "isCorrect": false,
+          "explanation": "No. If both the force and displacement are doubled, work W = F × d becomes W' = (2F) × (2d) = 4W. So the work is 4 times the original, not 1/4 times."
+        },
+        {
+          "letter": "C",
+          "text": "Half",
+          "isCorrect": false,
+          "explanation": "No. If both force and displacement are doubled, the work W = F × d becomes W' = (2F) × (2d) = 4W. So the work is 4 times the original, not half."
+        },
+        {
+          "letter": "D",
+          "text": "4 times",
+          "isCorrect": true,
+          "explanation": "If both the force and displacement are doubled, the work done W = F × d becomes W' = (2F) × (2d) = 4W. Therefore, the work done is 4 times the original."
+        }
+      ],
+      "explanation": "Work = force x distance therefore, Work ∝ force and work ∝ distanceW1= fdW2 = 2f x 2d = 4fdW2 = 4 W1",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The work done on an object does not depend upon the",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Displacement",
+          "isCorrect": false,
+          "explanation": "According to formula W=Fd cos theta. Work done depends on displacement."
+        },
+        {
+          "letter": "B",
+          "text": "Angle between force and displacement",
+          "isCorrect": false,
+          "explanation": "According to formula W=Fd cos theta. Work done depends on Angle between force and displacement"
+        },
+        {
+          "letter": "C",
+          "text": "Force applied",
+          "isCorrect": false,
+          "explanation": "According to formula W=Fd cos theta. Work done depends on Angle between force applied."
+        },
+        {
+          "letter": "D",
+          "text": "Initial velocity of the object",
+          "isCorrect": true,
+          "explanation": "According to formula W=Fd cos theta. Work done don't depends on initial velocity of object."
+        }
+      ],
+      "explanation": "Work done by object depends only on Force Displacement Angle between force and displacement.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "For a body moving in a circular path, the work done by the centripetal force is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Negative",
+          "isCorrect": false,
+          "explanation": "If the work done by a force on an object is negative, it means that the force is acting in the opposite direction of the displacement of the object. In the case of a centripetal force acting on a body moving in a circular path, the force is directed towards the center of the circle, while the displacement is tangential to the circle. Since the centripetal force is always perpendicular to the displacement, the work done by the centripetal force is not negative."
+        },
+        {
+          "letter": "B",
+          "text": "Constant",
+          "isCorrect": false,
+          "explanation": "If the work done by a force on an object is constant, it means that the force and the displacement are always parallel to each other, and the magnitude of the force and displacement remain constant throughout the motion. For a body moving in a circular path, the centripetal force is continuously changing direction to keep the object moving in a circle, so its direction is not always parallel to the displacement. Therefore, the work done by the centripetal force is not constant."
+        },
+        {
+          "letter": "C",
+          "text": "Positive",
+          "isCorrect": false,
+          "explanation": "If the work done by a force on an object is positive, it means that the force and the displacement are in the same direction. However, for a body moving in a circular path, the centripetal force is always directed towards the center of the circle, which is perpendicular to the displacement of the object. Hence, the work done by the centripetal force is not positive."
+        },
+        {
+          "letter": "D",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "This is the correct option. The centripetal force is responsible for keeping the body moving in a circular path by continuously changing the direction of its velocity. Since the centripetal force and the displacement are always perpendicular to each other, the work done by the centripetal force is zero. In other words, the centripetal force does not transfer any energy to or from the object, but it changes the direction of the velocity to keep the circular motion."
+        }
+      ],
+      "explanation": "Option d) Zero is the correct option. The work done by the centripetal force on a body moving in a circular path is zero.Let's explain each option:a) Negative: If the work done by a force on an object is negative, it means that the force is acting in the opposite direction of the displacement of the object. In the case of a centripetal force acting on a body moving in a circular path, the force is directed towards the center of the circle, while the displacement is tangential to the circle. Since the centripetal force is always perpendicular to the displacement, the work done by the centripetal force is not negative.b) Constant: If the work done by a force on an object is constant, it means that the force and the displacement are always parallel to each other, and the magnitude of the force and displacement remain constant throughout the motion. For a body moving in a circular path, the centripetal force is continuously changing direction to keep the object moving in a circle, so its direction is not always parallel to the displacement. Therefore, the work done by the centripetal force is not constant.c) Positive: If the work done by a force on an object is positive, it means that the force and the displacement are in the same direction. However, for a body moving in a circular path, the centripetal force is always directed towards the center of the circle, which is perpendicular to the displacement of the object. Hence, the work done by the centripetal force is not positive.d) Zero: This is the correct option. The centripetal force is responsible for keeping the body moving in a circular path by continuously changing the direction of its velocity. Since the centripetal force and the displacement are always perpendicular to each other, the work done by the centripetal force is zero. In other words, the centripetal force does not transfer any energy to or from the object, but it changes the direction of the velocity to keep the circular motion.In conclusion, the correct option is d) Zero because the work done by the centripetal force on a body moving in a circular path is zero.",
+      "explanationImage": null,
+      "hints": [
+        "circular path",
+        "work done by the centripetal force"
+      ]
+    },
+    {
+      "text": "A force F=(5i-3j)N is applied over a particle which displaces it from its origin to the point r=(2i-1j)m. The work done on the particle is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-7 joules",
+          "isCorrect": false,
+          "explanation": "According to the solution this is not the correct option."
+        },
+        {
+          "letter": "B",
+          "text": "+7 joules",
+          "isCorrect": false,
+          "explanation": "According to the solution this is not the correct option."
+        },
+        {
+          "letter": "C",
+          "text": "+ 13 joules",
+          "isCorrect": true,
+          "explanation": "Work done is given as W = F.d W= (5i - 3j) . (2i - 1j)W= 10 + 3W= 13J"
+        },
+        {
+          "letter": "D",
+          "text": "-11 joules",
+          "isCorrect": false,
+          "explanation": "According to the solution this is not the correct option."
+        }
+      ],
+      "explanation": "Work done is given as W = F.d W= (5i - 3j) . (2i - 1j)W= 10 + 3W= 13J",
+      "explanationImage": null,
+      "hints": [
+        "F=(5i-3j)N",
+        "r=(2i-1j)m",
+        "work done"
+      ]
+    },
+    {
+      "text": "4 kg cart starts up an incline with a speed of 3m/s and comes to rest 2m up the incline. The total work done on the car is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 J",
+          "isCorrect": false,
+          "explanation": "Incorrect as per calculations."
+        },
+        {
+          "letter": "B",
+          "text": "12 J",
+          "isCorrect": false,
+          "explanation": "Incorrect as per calculations."
+        },
+        {
+          "letter": "C",
+          "text": "8 J",
+          "isCorrect": false,
+          "explanation": "Incorrect as per calculations."
+        },
+        {
+          "letter": "D",
+          "text": "18 J",
+          "isCorrect": true,
+          "explanation": "Work = 1/2 m (vf² - vi²)= 1/2 (4) (0² - 3²) = (2) (-9) = -18 J-ve sign indicates that the loss in K.E which is converted into P.E."
+        }
+      ],
+      "explanation": "Work = 1/2 m (vf² - vi²)= 1/2 (4) (0² - 3²) = (2) (-9) = -18 J-ve sign indicates that the loss in K.E which is converted into P.E.",
+      "explanationImage": null,
+      "hints": [
+        "total work done",
+        "cart starts up an incline"
+      ]
+    },
+    {
+      "text": "Work done on the body is equal to the:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Change in its K.E always",
+          "isCorrect": false,
+          "explanation": "The work-energy theorem states that the work done by a force on a body is equal to the change in both kinetic energy or potential energy of the body not only one kind of energy so this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Change in its K.E and change in its P.E",
+          "isCorrect": true,
+          "explanation": "The work-energy theorem states that the work done by a force on a body is equal to the change in both kinetic energy or potential energy of the body."
+        },
+        {
+          "letter": "C",
+          "text": "Change in its P.E always",
+          "isCorrect": false,
+          "explanation": "Work done equal to change in both kinetic energy or potential energy not only one kind so this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Neither change in K.E nor change in its P.E",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to formula."
+        }
+      ],
+      "explanation": "By work energy principle:\"Work done on a body equals the change in its kinetic energy and change in potential energy of the body.\"Work done = ∆K.E. + ∆P.E.",
+      "explanationImage": null,
+      "hints": [
+        "Work done",
+        "body"
+      ]
+    },
+    {
+      "text": "An object of mass 1 g is whirled in a horizontal circle of radius 0.5m at a constant speed of 2m/s. The work done on the object during one revolution is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Work, Power & Energy",
+      "year": 2016,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0 J",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The work done is zero because the centripetal force acts perpendicular to the direction of motion, meaning no work is performed."
+        },
+        {
+          "letter": "B",
+          "text": "1 J",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Work done is calculated using the component of force in the direction of displacement, which is zero in this case."
+        },
+        {
+          "letter": "C",
+          "text": "2 J",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The work done is not determined by the speed or radius alone, but by the force component in the displacement direction, which is zero."
+        },
+        {
+          "letter": "D",
+          "text": "4 J",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The centripetal force does not contribute to work done since it is perpendicular to the motion path."
+        }
+      ],
+      "explanation": "The work done on an object is calculated by the product of the force component in the direction of motion and the displacement. In circular motion at constant speed, the centripetal force is always perpendicular to the displacement, resulting in zero work done. This is because work is only done by forces that have a component in the direction of displacement, which is not the case here.Option A is correct because it recognizes that the perpendicular nature of centripetal force results in zero work done. Options B, C, and D incorrectly suggest that non-zero work is done, misunderstanding the role of force direction in work calculation.",
+      "explanationImage": null,
+      "hints": [
+        "horizontal circle",
+        "constant speed",
+        "work done"
+      ]
+    }
+  ]
+}

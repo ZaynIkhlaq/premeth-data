@@ -1,0 +1,1941 @@
+{
+  "questions": [
+    {
+      "text": "When capacitor is connected to the circuit and the key is pressed, the value of current is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "zero",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "maximum",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "any transient value",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "depends on capacitor used",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The current = charge/time. When capacitor is connected to the circuit and key is pressed, initially the rate of flow of charge to the capacitor will be maximum because after storing some charge, the charge in the capacitor will repel the more like charge coming to capacitor. Hence the rate of flow of charge in the circuit will decrease.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Two capacitors C1 ( 12 uf ) and C2 (24 uf) are in series connected across a 360 volts d.c. supply. Calculate the charges on C1 and C2 respectively.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2016,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2880 x 10-6 C , 2880 x 10-6",
+          "isCorrect": true,
+          "explanation": "This is correct. The charge on capacitors in series is the same, and the total capacitance in series is calculated correctly, leading to this charge."
+        },
+        {
+          "letter": "B",
+          "text": "4770 x 10-6 C, 4770 x 10-6",
+          "isCorrect": false,
+          "explanation": "Incorrect. The calculation of total capacitance is incorrect, leading to an incorrect charge value."
+        },
+        {
+          "letter": "C",
+          "text": "5810 x 10-6 , 6610 x 10-6",
+          "isCorrect": false,
+          "explanation": "Incorrect. This option provides different charges for the capacitors, which is not possible in series configuration."
+        },
+        {
+          "letter": "D",
+          "text": "7170 x 10-6 , 8140 x 10-6",
+          "isCorrect": false,
+          "explanation": "Incorrect. The charges are different, which is impossible for capacitors in series."
+        },
+        {
+          "letter": "E",
+          "text": "9090 x 10-6 , 8880 x 10-6",
+          "isCorrect": false,
+          "explanation": "Incorrect. The charges provided are inconsistent with the principle that capacitors in series have the same charge."
+        }
+      ],
+      "explanation": "Charge throughout the circuit is the same so either the answer is A or B, as only these options have the same charge throughout.Q=CVCapacitance in series can be calculated as:1/C=1/C1 + 1/C21/C=1/12 + 1/241/C=2+1/241/C=⅛C=8 microfarads.->Q=CVQ=(8x10^-6)(360) Q=2880 x 10-6 C",
+      "explanationImage": null,
+      "hints": [
+        "series",
+        "total capacitance",
+        "charge"
+      ]
+    },
+    {
+      "text": "The values of electric intensity will _ due to the presence of dielectric medium:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2020,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increase",
+          "isCorrect": false,
+          "explanation": "This option suggests that the electric intensity (electric field strength) increases due to the presence of a dielectric medium. When a dielectric material is introduced into an electric field, the polarization of the material occurs, leading to the creation of induced dipoles. These induced dipoles weaken the overall electric field inside the dielectric, which reduces the net electric intensity. Therefore, the electric intensity does not increase; instead, it decreases."
+        },
+        {
+          "letter": "B",
+          "text": "Increase exponentially",
+          "isCorrect": false,
+          "explanation": "This option implies a rapid and significant increase in electric intensity due to the presence of a dielectric medium. However, the behavior of electric intensity in the presence of a dielectric is not exponential; instead, it decreases gradually and depends on factors such as the dielectric constant of the material and the applied electric field strength."
+        },
+        {
+          "letter": "C",
+          "text": "Decrease",
+          "isCorrect": true,
+          "explanation": "This option correctly describes the effect of a dielectric medium on electric intensity. When a dielectric material is inserted into an electric field, it reduces the overall electric field strength within the material. This reduction in electric field strength decreases the electric intensity or electric field inside the dielectric medium. The decrease in electric intensity is proportional to the dielectric constant of the material and the strength of the applied electric field."
+        },
+        {
+          "letter": "D",
+          "text": "Remain same",
+          "isCorrect": false,
+          "explanation": "This option suggests that the electric intensity does not change in the presence of a dielectric medium. However, as explained earlier, the introduction of a dielectric material alters the electric field distribution, leading to a decrease in electric intensity within the dielectric. Therefore, the electric intensity does not remain the same."
+        }
+      ],
+      "explanation": "The strength of the electric field is reduced due to the presence of dielectric. If the total charge on the plates is kept constant, then the potential difference is reduced across the capacitor plates.",
+      "explanationImage": null,
+      "hints": [
+        "values of electric intensity will",
+        "resence of dielectric medium"
+      ]
+    },
+    {
+      "text": "Ceq =C1+ C2 + C3 + ... + Cn is the combination in _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Parallel",
+          "isCorrect": true,
+          "explanation": "Option A: The combination C = C + C + C + ... + C represents the combination of multiple capacitors connected in parallel.Therefore, the correct answer is A) Parallel.In a parallel combination of capacitors, the positive terminals of all capacitors are connected together, and the negative terminals are connected together. This results in the same potential difference across each capacitor. The total capacitance of the combination is the sum of the individual capacitances.In the given expression, since all the capacitors are added together, it represents a parallel combination."
+        },
+        {
+          "letter": "B",
+          "text": "Series",
+          "isCorrect": false,
+          "explanation": "The combination C = C + C + C + ... + C represents the combination of multiple capacitors connected in parallel.Therefore, the correct answer is A) Parallel.In a parallel combination of capacitors, the positive terminals of all capacitors are connected together, and the negative terminals are connected together. This results in the same potential difference across each capacitor. The total capacitance of the combination is the sum of the individual capacitances.In the given expression, since all the capacitors are added together, it represents a parallel combination."
+        },
+        {
+          "letter": "C",
+          "text": "Both of them",
+          "isCorrect": false,
+          "explanation": "As only option A is correct, this cannot be the correct option."
+        },
+        {
+          "letter": "D",
+          "text": "None of them",
+          "isCorrect": false,
+          "explanation": "This is incorrect."
+        }
+      ],
+      "explanation": "Option A: The combination C = C + C + C + ... + C represents the combination of multiple capacitors connected in parallel.Therefore, the correct answer is A) Parallel.In a parallel combination of capacitors, the positive terminals of all capacitors are connected together, and the negative terminals are connected together. This results in the same potential difference across each capacitor. The total capacitance of the combination is the sum of the individual capacitances.In the given expression, since all the capacitors are added together, it represents a parallel combination.Option B: In a series combination of capacitors, the positive terminal of one capacitor is connected to the negative terminal of the next capacitor. The total capacitance in a series combination is given by the reciprocal of the sum of the reciprocals of the individual capacitances.",
+      "explanationImage": null,
+      "hints": [
+        "combination in"
+      ]
+    },
+    {
+      "text": "The value of permittivity of free space is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "8.85 x 10-12 C2 / (N.m2)",
+          "isCorrect": true,
+          "explanation": "The value of permittivity of free space is approximately 8.85 x 10-12 C2 /(N.m2). This is a fact hence, option A is correct."
+        },
+        {
+          "letter": "B",
+          "text": "8.85 x 10-12 (N.m2)/C2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect since the value of permittivity of free space is 8.85 x 10-12 C2 / (N.m2)."
+        },
+        {
+          "letter": "C",
+          "text": "9.9 x 10-12 C2 / (N.m2)",
+          "isCorrect": false,
+          "explanation": "This option is incorrect since the value of permittivity of free space is 8.85 x 10-12 C2 / (N.m2)."
+        },
+        {
+          "letter": "D",
+          "text": "9.9 x 1012 C2 / (N.m2)",
+          "isCorrect": false,
+          "explanation": "This option is incorrect since the value of permittivity of free space is 8.85 x 10-12 C2 / (N.m2)."
+        }
+      ],
+      "explanation": "The value of permittivity of free space is approximately 8.85 x 10-12 C2 /(N.m2). This is a fact hence, option A is correct.",
+      "explanationImage": null,
+      "hints": [
+        "value",
+        "permittivity",
+        "free space"
+      ]
+    },
+    {
+      "text": "You have two identical capacitors. They can be connected in series or parallel. If you want the smallest equivalent capacitance for the combination, how should you connect them?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "In parallel",
+          "isCorrect": false,
+          "explanation": "When capacitors are connected in parallel, their equivalent capacitance is the sum of the individual capacitances, which means the total capacitance will be larger than either individual capacitor."
+        },
+        {
+          "letter": "B",
+          "text": "In series",
+          "isCorrect": true,
+          "explanation": "In series, the net capacitance of the capacitors is less than the individual capacitances. Ct = 1/C1+1/C2 + 1/C3Thus any values for C1, C2, and C3 will become less than the original as they are each divided by 1."
+        },
+        {
+          "letter": "C",
+          "text": "Either way because both combinations have the same capacitance",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because both combinations do not have the same capacitance."
+        },
+        {
+          "letter": "D",
+          "text": "We can not determine, because presence of resistance in the circuit determines capacitance",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the presence of resistance in the circuit does not affect the calculation of the equivalent capacitance of the capacitors, as long as the resistance is not in series with the capacitors or parallel with the capacitor combination."
+        }
+      ],
+      "explanation": "In series, the net capacitance of the capacitors is less than the individual capacitances. Ct = 1/C1 + 1/C2 + 1/C3Thus any values for C1, C2, and C3 will become less than the original as they are each divided by 1.",
+      "explanationImage": null,
+      "hints": [
+        "two identical",
+        "smallest equivalent capacitance",
+        "combination"
+      ]
+    },
+    {
+      "text": "Aluminium is _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "An excellent conductor",
+          "isCorrect": true,
+          "explanation": "This option is correct because aluminum is metal and has free electrons. As metals are conductors so aluminum is a metal and thus an excellent conductor of electricity"
+        },
+        {
+          "letter": "B",
+          "text": "A semiconductor",
+          "isCorrect": false,
+          "explanation": "Aluminum is not a semiconductor. Semiconductors have properties that fall between those of conductors and insulators, and they can exhibit variable conductivity depending on external conditions. Aluminum, on the other hand, is a metal and is classified as a conductor due to its high electrical conductivity."
+        },
+        {
+          "letter": "C",
+          "text": "An insulator",
+          "isCorrect": false,
+          "explanation": "Aluminium is not an insulator. Insulators are materials that have very low conductivity and do not allow the flow of electric current. Aluminium, as mentioned earlier, is an excellent conductor and allows the flow of electric current."
+        },
+        {
+          "letter": "D",
+          "text": "A photoconductor",
+          "isCorrect": false,
+          "explanation": "Aluminium is not a photoconductor. Photoconductors are materials that experience changes in their electrical conductivity when exposed to light. While some materials, such as certain types of silicon, can be used as photoconductors, aluminium does not exhibit this property."
+        }
+      ],
+      "explanation": "Option A is correct because aluminum is metal and has free electrons. As metals are conductors so aluminum is a metal and thus an excellent conductor of electricity",
+      "explanationImage": null,
+      "hints": [
+        "Aluminum"
+      ]
+    },
+    {
+      "text": "The presence of dielectric between two charged particles:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reduces the electrostatic force",
+          "isCorrect": true,
+          "explanation": "The presence of a dielectric between the two plates decreases the electric field inside the capacitor."
+        },
+        {
+          "letter": "B",
+          "text": "Increases the electrostatic force",
+          "isCorrect": false,
+          "explanation": "The presence of dielectric will not increase the electrostatic force."
+        },
+        {
+          "letter": "C",
+          "text": "Does not change electrostatic force",
+          "isCorrect": false,
+          "explanation": "The presence of dielectric does change electrostatic force."
+        },
+        {
+          "letter": "D",
+          "text": "Doubles the electrostatic force",
+          "isCorrect": false,
+          "explanation": "The presence of dielectric will not double the electrostatic force."
+        }
+      ],
+      "explanation": "Option: A The presence of a dielectric between the two plates actually decreases the electric field inside the capacitor. Option B : The presence of dielectric will not increase the electrostatic force. Option C : The presence of dielectric does change electrostatic force. Option D : The presence of dielectric will not double the electrostatic force.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What effect does a dielectric have on the capacitance of a capacitor?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increases by k",
+          "isCorrect": true,
+          "explanation": "When a dielectric material is inserted between the plates of a capacitor, it increases the capacitance of the capacitor. The extent of this increase is determined by the dielectric constant (k) or relative permittivity of the material. The dielectric constant represents the ratio of the capacitance of the capacitor with the dielectric material to the capacitance of the same capacitor without the dielectric material. Mathematically, the capacitance with the dielectric (C' ) is given by C'=k×C, where C is the capacitance without the dielectric. This formula indicates that the capacitance increases by a factor of k when a dielectric material is present. Therefore, option A) Increases by k accurately describes the effect of a dielectric on the capacitance."
+        },
+        {
+          "letter": "B",
+          "text": "Has no effect",
+          "isCorrect": false,
+          "explanation": "This option suggests that the presence of a dielectric material has no effect on the capacitance of the capacitor. However, this is not accurate. The presence of a dielectric material between the plates of a capacitor increases the capacitance, as explained in option A). Therefore, option B) Has no effect is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "Decreases by k",
+          "isCorrect": false,
+          "explanation": "This option suggests that the capacitance of the capacitor decreases by a factor of k when a dielectric material is inserted. However, this is not the case. The presence of a dielectric material increases the capacitance by a factor of k, as explained in option A). Therefore, option C) Decreases by k is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Increases by k/2",
+          "isCorrect": false,
+          "explanation": "This option suggests that the capacitance of the capacitor increases by half of the dielectric constant (k) when a dielectric material is inserted. However, this is not accurate. The presence of a dielectric material increases the capacitance by the full value of the dielectric constant (k), not by half of it. Therefore, option D) Increases by k/2 is incorrect."
+        }
+      ],
+      "explanation": "Introducing a dielectric in a capacitor causes a decrease in the electric field, and hence the voltage. The charge stored on the plate remains unchanged.As C = Q/V,decreasing V causes an increase in capacitance.The capacitance of a parallel plate capacitor is given by:capacitance C = (area of plate) (permittivity of free space) / (distance between the plates) = Aεo/d ..........(1)Introducing the dielectric, the capacitance becomes:capacitance Cm = (area of plate) (permittivity of medium) / (distance between the plates) = Aεm/d .......... (2)The relative permittivity is given by:k = εm/εoor εm = kεoPutting (εm = kεo ) in equation 2:Cm = Akεo/d = Aεo/d x kCm = C x kHence, the introduction of dielectric causes the capacitance to increase by k times.",
+      "explanationImage": null,
+      "hints": [
+        "effect",
+        "capacitance",
+        "dielectric"
+      ]
+    },
+    {
+      "text": "The presence of a dielectric between two charged particles:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reduces the electrostatic force",
+          "isCorrect": true,
+          "explanation": "Fvacum = 1/4πϵ0 × q1q2/r In presence of dielectricFmedium = 11/4πϵ0ϵr × q1q2/rFmedium= Fvacum/ ϵrThis clearly shows that by putting dielectric between particles reduces the forceWhen a dielectric material is placed between two charged particles, it reduces the electrostatic force between them. The presence of the dielectric material polarizes the atoms or molecules within the dielectric, which weakens the electric field between the charged particles and results in a reduction of the electrostatic force"
+        },
+        {
+          "letter": "B",
+          "text": "Increases the electrostatic force",
+          "isCorrect": false,
+          "explanation": "This is not correct. The presence of a dielectric material between two charged particles does not increase the electrostatic force. As explained in option (a), it actually reduces the force."
+        },
+        {
+          "letter": "C",
+          "text": "Does not change electrostatic force",
+          "isCorrect": false,
+          "explanation": "This option is not correct either. As mentioned in option (a), the presence of a dielectric does change the electrostatic force between charged particles. It decreases the force."
+        },
+        {
+          "letter": "D",
+          "text": "Doubles the electrostatic force",
+          "isCorrect": false,
+          "explanation": "This is also incorrect. Placing a dielectric between two charged particles does not double the electrostatic force. It decreases the force2, as explained in option (a).So, the correct option is A"
+        }
+      ],
+      "explanation": "Fvacum = 1/4πϵ0 × q1q2/r In presence of dielectricFmedium = 11/4πϵ0ϵr × q1q2/rFmedium= Fvacum/ ϵrThis clearly shows that by putting dielectric between particles reduces the forceWhen a dielectric material is placed between two charged particles, it reduces the electrostatic force between them. The presence of the dielectric material polarizes the atoms or molecules within the dielectric, which weakens the electric field between the charged particles and results in a reduction of the electrostatic force",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A battery is permanently connected to a parallel plate capacitor and the energy stored is x joules. When one plate is moved so that the separation of the plate is doubled, the energy now stored in the joule is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4x",
+          "isCorrect": false,
+          "explanation": "this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "2x",
+          "isCorrect": false,
+          "explanation": "b) 2xAs explained, when the separation of the plates is doubled, the new energy stored in the capacitor is one-fourth of the initial energy. So, the correct option is not b) \"2x.\""
+        },
+        {
+          "letter": "C",
+          "text": "x/2",
+          "isCorrect": true,
+          "explanation": "C = A𝛆 / d where C is capacitance, 𝛆 is the permittivity of free space, A is the area of plates, and d is the distance between them. When d is doubled, C halves.Since v remains constant throughout because the battery is permanently connected to the capacitor we use the formula E= Cv^2 / 2 where E is energy stored in a capacitor, C is capacitance, and v is the potential difference. So when C halves, E halves because C and E are directly proportional. So the answer is x/2 which is option C."
+        },
+        {
+          "letter": "D",
+          "text": "x/4",
+          "isCorrect": false,
+          "explanation": "d) x/4This option implies that the energy stored in the capacitor is halved when the separation is doubled. This is not correct."
+        }
+      ],
+      "explanation": "C = A𝛆 / d where C is capacitance, 𝛆 is the permittivity of free space, A is the area of plates, and d is the distance between them. When d is doubled, C halves.Since v remains constant throughout because the battery is permanently connected to the capacitor we use the formula E= Cv^2 / 2 where E is energy stored in a capacitor, C is capacitance, and v is the potential difference. So when C halves, E halves because C and E are directly proportional. So the answer is x/2 which is option C.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which statement is correct while recharging the automobile battery?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2013,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Pb is converted to PbO2",
+          "isCorrect": false,
+          "explanation": "a) Pb is converted to PbO2:When recharging an automobile battery, the lead-acid battery undergoes a chemical reaction in which lead dioxide (PbO2) is formed on the positive electrode (anode). During the discharge process, lead dioxide (PbO2) is reduced to lead sulfate (PbSO4) and lead (Pb) on the negative electrode (cathode). During the recharge process, the reverse reaction occurs, and lead (Pb) is oxidized back to lead dioxide (PbO2) on the positive electrode."
+        },
+        {
+          "letter": "B",
+          "text": "PbSO4 is converted to Ph",
+          "isCorrect": false,
+          "explanation": "b) PbSO4 is converted to Pb:This statement is incorrect. During the recharging process, lead sulfate (PbSO4) on the negative electrode is reduced to lead (Pb) and lead dioxide (PbO2) during the charging process. It does not directly convert to lead (Pb)."
+        },
+        {
+          "letter": "C",
+          "text": "Pb is converted to PbSO4",
+          "isCorrect": true,
+          "explanation": "Pb oxidized to PBSO4When the battery is discharging, it acts as a galvanic cell and the following chemical reaction occurs:Negative:Pb(s) + HSO4- + H2O (l) → 2e- + PbSO4(s) + H3O+(aq)Pb is oxidized.Positive:PbO2 (s) + HSO4- (aq) + 3H3O+(aq) +2e- → PBSO4 (s) + 5H2O (l)"
+        },
+        {
+          "letter": "D",
+          "text": "None of the above",
+          "isCorrect": false,
+          "explanation": "this option is incorrect."
+        }
+      ],
+      "explanation": "Pb oxidized to PBSO4When the battery is discharging, it acts as a galvanic cell and the following chemical reaction occurs:Negative:Pb(s) + HSO4- + H2O (l) → 2e- + PbSO4(s) + H3O+(aq)Pb is oxidized.Positive:PbO2 (s) + HSO4- (aq) + 3H3O+(aq) +2e- → PBSO4 (s) + 5H2O (l)",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The electric field between the plates of an isolated air-spaced parallel- plate capacitor is E. What is the field between the plates after immersing the capacitor in a liquid of relative permitivity 10?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2014,
+      "options": [
+        {
+          "letter": "A",
+          "text": "E√10",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Introducing a dielectric reduces the electric field; it does not increase it."
+        },
+        {
+          "letter": "B",
+          "text": "E/√10",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The formula for the electric field with a dielectric involves dividing by the relative permittivity, not its square root."
+        },
+        {
+          "letter": "C",
+          "text": "10E",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The electric field is reduced by the dielectric, not increased by a factor of 10."
+        },
+        {
+          "letter": "D",
+          "text": "E/10",
+          "isCorrect": true,
+          "explanation": "This is correct. The electric field is reduced by a factor equal to the relative permittivity of the dielectric, which is 10 in this case."
+        }
+      ],
+      "explanation": "The relationship between the electric field in the absence of the dielectric (E0) and the electric field with the dielectric (E) is given by:E = E0 / εrwhere εr is the relative permittivity of the medium.In this case, the relative permittivity of the liquid is given as 10. Therefore, the fiel used between the plates after immersing the capacitor in the liquid is:E' = E / εr = E / 10So, the correct answer is option 4E / 10SO, ELECTRIC FIELD WILL DECREASE BY A FACTOR 10.",
+      "explanationImage": null,
+      "hints": [
+        "electric field",
+        "relative permittivity",
+        "capacitor"
+      ]
+    },
+    {
+      "text": "A capacitor is charged by using a battery which is then disconnected. A dielectric slab is then slipped between the plates, which result in:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Reduction of charge on the plates and increase of potential difference across the plates",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the charge on the plates remains constant once the battery is disconnected, and the potential difference decreases due to the dielectric insertion, not increases."
+        },
+        {
+          "letter": "B",
+          "text": "Increase in the potential difference across the plates, reduction in stored energy, but no change in the charge on the plates",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The potential difference decreases, not increases, when a dielectric is inserted into a charged, isolated capacitor."
+        },
+        {
+          "letter": "C",
+          "text": "Decrease in the potential difference across the plates, reduction in stored energy, but no change in the charge on the plates",
+          "isCorrect": true,
+          "explanation": "This option is correct. Inserting a dielectric reduces the electric field and potential difference while the charge remains constant, leading to a reduction in stored energy."
+        },
+        {
+          "letter": "D",
+          "text": "None of the above",
+          "isCorrect": false,
+          "explanation": "This option is incorrect, as there is indeed a correct statement among the given options."
+        }
+      ],
+      "explanation": "When a dielectric is inserted into a capacitor whose battery is disconnected, the charge on the plates remains constant because there is no external circuit allowing charge flow. The dielectric reduces the electric field between the plates, which causes a decrease in the potential difference across the plates. Consequently, the stored energy, which depends on the square of the potential difference, also decreases. Therefore, Option C is correct. Option A is incorrect because the charge does not reduce, and the potential difference decreases rather than increases. Option B is incorrect because the potential difference decreases, not increases. Option D is incorrect because Option C provides the correct outcome.",
+      "explanationImage": null,
+      "hints": [
+        "capacitor",
+        "dielectric",
+        "disconnected"
+      ]
+    },
+    {
+      "text": "The energy stored per unit volume in an electric field of strenght E volt/meter in a medium of dielectric constant K(in Joule/meter3)is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The explanation will be added soon!",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Relative permitivity ℓr is defined by the following relation.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cmed/Cvac",
+          "isCorrect": true,
+          "explanation": "This option is correct because relative permittivity (ℓr) is the ratio of the capacitance of a capacitor with a dielectric medium (Cmed) to the capacitance of the same capacitor in vacuum (Cvac)."
+        },
+        {
+          "letter": "B",
+          "text": "Cvac/Cmed",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it inverts the correct definition. Relative permittivity is not the ratio of Cvac to Cmed."
+        },
+        {
+          "letter": "C",
+          "text": "Cmed × Cvac",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it suggests multiplying the capacitances, which does not relate to the definition of relative permittivity."
+        },
+        {
+          "letter": "D",
+          "text": "Cvac × Cmed",
+          "isCorrect": false,
+          "explanation": "This option is incorrect for the same reason as the previous one; it involves multiplication, which is unrelated to the concept of relative permittivity."
+        }
+      ],
+      "explanation": "Relative permittivity (ℓr), also known as the dielectric constant, is defined as the ratio of the capacitance of a capacitor when a dielectric is present (Cmed) to the capacitance of the same capacitor when there is a vacuum or air (Cvac). Hence, the correct relation is ℓr = Cmed/Cvac. The incorrect options either reverse this ratio or suggest a multiplication of capacitances, which does not match the definition of relative permittivity.",
+      "explanationImage": null,
+      "hints": [
+        "Relative permitivity",
+        "C<sub>med</sub>",
+        "C<sub>vac</sub>"
+      ]
+    },
+    {
+      "text": "If a slab of dielectric constant Er=2 is inserted between, the parallel plates of a charged 20 uF capacitor. Its capacitance will:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Remain the same",
+          "isCorrect": false,
+          "explanation": "This option is not correct as capacitance increases when the dielectric is placed between plates of capacitor."
+        },
+        {
+          "letter": "B",
+          "text": "Be four times",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as per calculations."
+        },
+        {
+          "letter": "C",
+          "text": "Be doubled",
+          "isCorrect": true,
+          "explanation": "the capacitance will be doubled when the dielectric slab is inserted."
+        },
+        {
+          "letter": "D",
+          "text": "Be halved",
+          "isCorrect": false,
+          "explanation": "This option is not correct as capacitance increases when the dielectric is placed between plates of capacitor."
+        },
+        {
+          "letter": "E",
+          "text": "Become zero",
+          "isCorrect": false,
+          "explanation": "This option is not correct as capacitance increases when the dielectric is placed between plates of capacitor."
+        }
+      ],
+      "explanation": "The capacitance will be doubled when the dielectric slab is inserted. So option C is correct.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If 2uF and 4 uF capacitors connected in series. Their equivalent capacitance will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "8uF",
+          "isCorrect": false,
+          "explanation": "This option is not correct as per calculations"
+        },
+        {
+          "letter": "B",
+          "text": "0.75 uF",
+          "isCorrect": false,
+          "explanation": "This option is not correct as per calculations"
+        },
+        {
+          "letter": "C",
+          "text": "1.33 uF",
+          "isCorrect": true,
+          "explanation": "This option is correct as per calculations. In series the relative capacitance of capacitors is sum of both the capacitors."
+        },
+        {
+          "letter": "D",
+          "text": "6μF",
+          "isCorrect": false,
+          "explanation": "This option is not correct as per calculations"
+        },
+        {
+          "letter": "E",
+          "text": "2 μF",
+          "isCorrect": false,
+          "explanation": "This option is not correct as per calculations"
+        }
+      ],
+      "explanation": "When capacitors are connected in series, the inverse of the equivalent capacitance is equal to the sum of the inverses of the individual capacitances. For two capacitors connected in series with capacitances 2 μF and 4 μF, the equivalent capacitance (C_eq) can be calculated as: 1/C_eq = 1/2 + 1/4 Simplifying this equation: 1/C_eq = 2/4 + 1/4 1/C_eq = 3/4 C_eq = 4/3 μF Therefore, the equivalent capacitance of the 2 μF and 4 μF capacitors connected in series is: 1.33 μF. As it is a numerical only one option C is correct",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The parallel metal plates of the capacitor are separated by:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Insulators",
+          "isCorrect": true,
+          "explanation": "This is the correct answer.A capacitor consists of two conducting plates separated by an insulator and is used to store electric charge. If a voltage is applied to the capacitor, one plate becomes negatively charged and the other becomes positively charged."
+        },
+        {
+          "letter": "B",
+          "text": "Isolators",
+          "isCorrect": false,
+          "explanation": "The isolator can be defined as; it is one type of mechanical switch used to isolate a fraction of the electrical circuit when it is required. Isolator switches are used for opening an electrical circuit in the no-load condition. It is not proposed to be opened while current flows through the line."
+        },
+        {
+          "letter": "C",
+          "text": "Capacitors",
+          "isCorrect": false,
+          "explanation": "Capacitor is a device which is used to store a charge."
+        },
+        {
+          "letter": "D",
+          "text": "Resistors",
+          "isCorrect": false,
+          "explanation": "Resistor is a passive two-terminal electrical component that implements electrical resistance as a circuit element. In electronic circuits, resistors are used to reduce current flow, adjust signal levels, to divide voltages, bias active elements, and terminate transmission lines, among other uses."
+        }
+      ],
+      "explanation": "A capacitor consists of two conducting plates separated by an insulator and is used to store electric charge. If a voltage is applied to the capacitor, one plate becomes negatively charged and the other becomes positively charged. Thus, option A is correct.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The capacitance of a capacitor does not depend upon",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Area of plates",
+          "isCorrect": false,
+          "explanation": "The capacitance of a capacitor is directly proportional to the area of the plates. Increasing the plate area increases the capacitance because there is more surface area available for charge accumulation."
+        },
+        {
+          "letter": "B",
+          "text": "Medium",
+          "isCorrect": false,
+          "explanation": "The capacitance of a capacitor does depend on the medium between the plates. The dielectric constant or relative permittivity of the medium affects the capacitance. Different dielectric materials have different abilities to store electric charge, leading to different capacitance values."
+        },
+        {
+          "letter": "C",
+          "text": "Distance between plates",
+          "isCorrect": false,
+          "explanation": "The capacitance of a capacitor is inversely proportional to the distance between the plates. Decreasing the distance between the plates increases the capacitance because the electric field lines between the plates become stronger, allowing for more charge to accumulate."
+        },
+        {
+          "letter": "D",
+          "text": "Thickness",
+          "isCorrect": true,
+          "explanation": "The thickness of the plates does not affect the capacitance. The capacitance depends on the area of the plates, but not on their thickness. The thickness only affects other properties such as the mechanical strength or resistance to heat, but not the ability to store electric charge."
+        }
+      ],
+      "explanation": "The thickness of the plates does not affect the capacitance. The capacitance depends on the area of the plates, but not on their thickness. The thickness only affects other properties such as the mechanical strength or resistance to heat, but not the ability to store electric charge.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Two capacitors C1 (6µF) and C2 (12µF) are in series across 180 volts d.c. supply. Calculate the charges on C1 and C2",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "720 x 10-6 C ….. 720 x 10-6 C",
+          "isCorrect": true,
+          "explanation": "This is the correct answer because in series, both capacitors have the same charge."
+        },
+        {
+          "letter": "B",
+          "text": "920 x 10-6 C …. 730 x 10-6 C",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it suggests different charges on C1 and C2, which is not possible in a series circuit."
+        },
+        {
+          "letter": "C",
+          "text": "660 x 10-6 C …. 480 x 10-6 C",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as the charges should be equal in a series connection."
+        },
+        {
+          "letter": "D",
+          "text": "440 x 10-6 C …. 770 x 10-6 C",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the charges on both capacitors should be the same in a series circuit."
+        },
+        {
+          "letter": "E",
+          "text": "910 x 10-6 C …. 750 x 10-6 C",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as it violates the principle that charges are the same in a series circuit."
+        }
+      ],
+      "explanation": "In a series circuit, the same charge is stored across each capacitor. The equivalent capacitance Ceq is given by the formula 1/Ceq = 1/C1 + 1/C2. For C1 = 6µF and C2 = 12µF, the equivalent capacitance Ceq is 4µF. The total charge Q can be calculated by Q = Ceq × V, where V is the voltage. Therefore, Q = 4µF × 180V = 720µC or 720 x 10-6 C. This charge is the same for both capacitors in series, making Option A correct. Other options incorrectly assume different charges for C1 and C2, which contradicts the properties of capacitors in series.",
+      "explanationImage": null,
+      "hints": [
+        "series",
+        "charge",
+        "capacitance"
+      ]
+    },
+    {
+      "text": "Two capacitors C1=3 uF and C2=6 uF are in series across a 90 volts D.C. supply. The total capacitance is given by:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "9 uF",
+          "isCorrect": false,
+          "explanation": "1/Ceq=1/C1+1/C2=1/3F+1/6F=1/2FCeq =2F"
+        },
+        {
+          "letter": "B",
+          "text": "2 uF",
+          "isCorrect": true,
+          "explanation": "1/Ceq=1/C1+1/C2=1/3F+1/6F=1/2FCeq =2F"
+        },
+        {
+          "letter": "C",
+          "text": "10 uF",
+          "isCorrect": false,
+          "explanation": "1/Ceq=1/C1+1/C2=1/3F+1/6F=1/2FCeq =2F"
+        },
+        {
+          "letter": "D",
+          "text": "90 uF",
+          "isCorrect": false,
+          "explanation": "1/Ceq=1/C1+1/C2=1/3F+1/6F=1/2FCeq =2F"
+        },
+        {
+          "letter": "E",
+          "text": "5 uF",
+          "isCorrect": false,
+          "explanation": "1/Ceq=1/C1+1/C2=1/3+1/6=1/2Ceq =2uF"
+        }
+      ],
+      "explanation": "1/C1 + 1/C2 = 1/C⅓ + ⅙ = 1/C2 + 1 /6 = 1/C3/6 = 1/C½ =1 /CC = 2 uF",
+      "explanationImage": null,
+      "hints": [
+        "C1=3 uF",
+        "C2=6 uF",
+        "series",
+        "90 volts",
+        "total capacitance"
+      ]
+    },
+    {
+      "text": "The ratio of the capacitance of the capacitor having a dielectric to the capacitance of a capacitor having free space in the dielectric is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2010,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Relative permittivity",
+          "isCorrect": true,
+          "explanation": "The ratio of the capacitance of the capacitor with a dielectric to the capacitance of the same capacitor with free space is given by the relative permittivity (also known as the dielectric constant) of the material between the capacitor plates. Relative permittivity (εr) = C/Co"
+        },
+        {
+          "letter": "B",
+          "text": "Permittivity",
+          "isCorrect": false,
+          "explanation": "This option is not correct because permittivity is a fundamental constant of free space, denoted by εo. It represents the electric field per unit charge in a vacuum."
+        },
+        {
+          "letter": "C",
+          "text": "Permeability",
+          "isCorrect": false,
+          "explanation": "Permeability is a property related to magnetic fields and how materials respond to them, but it is not directly relevant to capacitance or dielectrics."
+        },
+        {
+          "letter": "D",
+          "text": "Electric polarization",
+          "isCorrect": false,
+          "explanation": "Electric polarization refers to the alignment or displacement of charges within a dielectric material when subjected to an electric field. While it is related to dielectrics, it does not specifically address the ratio of capacitances."
+        }
+      ],
+      "explanation": "The ratio of the capacitance of the capacitor with a dielectric to the capacitance of the same capacitor with free space is given by the relative permittivity (also known as the dielectric constant) of the material between the capacitor plates. Relative permittivity (εr) = C/Co",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Equivalent capacitance is less than least value of capacitance in a combination in:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2023,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Series",
+          "isCorrect": true,
+          "explanation": "This option is correct. When connected in series, the total capacitance of capacitors is less than the capacitance of the individual capacitors."
+        },
+        {
+          "letter": "B",
+          "text": "Parallel",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. When capacitors are connected in parallel, their total capacitance is greater than the individual capacitance of each capacitor."
+        },
+        {
+          "letter": "C",
+          "text": "Closed circuit",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Open circuit",
+          "isCorrect": false,
+          "explanation": "This option is incorrect."
+        }
+      ],
+      "explanation": "When capacitors are connected in series, the total capacitance is less than any one of the series capacitors' individual capacitances.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "When dielectric is placed between the plates of a capacitor then capacitance will:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2023,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Decrease",
+          "isCorrect": false,
+          "explanation": "This is an incorrect option. A dielectric material placed between capacitor plates increases capacitance by reducing the internal electric field."
+        },
+        {
+          "letter": "B",
+          "text": "Increase",
+          "isCorrect": true,
+          "explanation": "This option is correct. A dielectric between the plates increases capacitance by reducing the internal electric field through polarization."
+        },
+        {
+          "letter": "C",
+          "text": "Becomes half",
+          "isCorrect": false,
+          "explanation": "This is an incorrect option. A dielectric material placed between capacitor plates increases capacitance by reducing the internal electric field."
+        },
+        {
+          "letter": "D",
+          "text": "Remains same",
+          "isCorrect": false,
+          "explanation": "This is an incorrect option. A dielectric material placed between capacitor plates increases capacitance by reducing the internal electric field."
+        }
+      ],
+      "explanation": "If the total charge on the plates is kept constant, then the potential difference is reduced across the capacitor plates.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A heating coil has a resistance of 10 ohm. It is designed to operate on 20V. What electric energy is supplied to heater in 10s?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2023,
+      "options": [
+        {
+          "letter": "A",
+          "text": "100J",
+          "isCorrect": false,
+          "explanation": "That's not the correct option as per calculations"
+        },
+        {
+          "letter": "B",
+          "text": "200J",
+          "isCorrect": false,
+          "explanation": "That's not the correct option as per calculation"
+        },
+        {
+          "letter": "C",
+          "text": "300J",
+          "isCorrect": false,
+          "explanation": "That's not the correct option as per calculations and explanations"
+        },
+        {
+          "letter": "D",
+          "text": "400J",
+          "isCorrect": true,
+          "explanation": "That's the correct option . Explanation is given in the image below."
+        }
+      ],
+      "explanation": "Explanation is given as an image.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The relation between Cp and Cv is given as:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2023,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cp - Cv= R",
+          "isCorrect": true,
+          "explanation": "That's the correct relation between Cv and CP."
+        },
+        {
+          "letter": "B",
+          "text": "Cp+ Cv= R",
+          "isCorrect": false,
+          "explanation": "That's not the correct relation between Cv and Cp"
+        },
+        {
+          "letter": "C",
+          "text": "Cy -Cp= R",
+          "isCorrect": false,
+          "explanation": "That's not the correct relation between Cv and Cp"
+        },
+        {
+          "letter": "D",
+          "text": "R- Cv= Cp",
+          "isCorrect": false,
+          "explanation": "That's not the correct relation between Cv and Cp"
+        }
+      ],
+      "explanation": "Taking into consideration a substance's ideal gas behaviour, the following link can be established: R is equal to Cp– Cv. In this equation, r denotes the universal gas constant. The ratio between CP and CV is the specific heat ratio, γ.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A one micro fared capacitor of a TV is subjected to 4000 V potential difference. The energy stored in capacitor is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2023,
+      "options": [
+        {
+          "letter": "A",
+          "text": "16",
+          "isCorrect": false,
+          "explanation": "That's incorrect answer."
+        },
+        {
+          "letter": "B",
+          "text": "4x10-3 J",
+          "isCorrect": false,
+          "explanation": "That's incorrect answer."
+        },
+        {
+          "letter": "C",
+          "text": "2×10-3 J",
+          "isCorrect": false,
+          "explanation": "That's incorrect answer."
+        },
+        {
+          "letter": "D",
+          "text": "8 J",
+          "isCorrect": true,
+          "explanation": "That's the correct option. Question is solved in the image below."
+        }
+      ],
+      "explanation": "Explanation is given as an image.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A particle carrying a charge 2 e falls through a P.D of 3 V. The energy acquired by it will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2023,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6 ev",
+          "isCorrect": true,
+          "explanation": "That's the correct option. Question is solved in the image below."
+        },
+        {
+          "letter": "B",
+          "text": "Tev",
+          "isCorrect": false,
+          "explanation": "That's incorrect answer as per calculation."
+        },
+        {
+          "letter": "C",
+          "text": "1.5 ev",
+          "isCorrect": false,
+          "explanation": "That's incorrect answer as per calculation."
+        },
+        {
+          "letter": "D",
+          "text": "5 ev",
+          "isCorrect": false,
+          "explanation": "That's incorrect answer as per calculation."
+        }
+      ],
+      "explanation": "Explanation is given as an image.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Due to polarization process of dielectric, the electric intensity:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2023,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increases",
+          "isCorrect": false,
+          "explanation": "That's incorrect. The electric intensity decreases due to phenomenon of polarization and capacitance increases."
+        },
+        {
+          "letter": "B",
+          "text": "Decreases",
+          "isCorrect": true,
+          "explanation": "That's correct. The electric intensity decreases due to phenomenon of polarization and capacitance increases."
+        },
+        {
+          "letter": "C",
+          "text": "Remains same",
+          "isCorrect": false,
+          "explanation": "That's incorrect. The electric intensity decreases due to phenomenon of polarization and capacitance increases."
+        },
+        {
+          "letter": "D",
+          "text": "Becomes zero",
+          "isCorrect": false,
+          "explanation": "That's incorrect. The electric intensity decreases due to phenomenon of polarization and capacitance increases."
+        }
+      ],
+      "explanation": "The positive charges within the dielectric are displaced minutely in the direction of the electric field, and the negative charges are displaced minutely in the direction opposite to the electric field. This slight separation of charge, or polarization, reduces the electric field within the dielectric",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Two equal and opposite charges of 10 C are separated at a distance of 10 cm, the electric potential at mid-point between the charges is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2023,
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 V",
+          "isCorrect": false,
+          "explanation": "This option suggests that the potential is the sum of the potentials from both charges, which isn't correct since they cancel each other out at the midpoint."
+        },
+        {
+          "letter": "B",
+          "text": "10 V",
+          "isCorrect": false,
+          "explanation": "This option assumes a contribution from one charge without considering the opposing influence of the second charge at the midpoint. The potentials from equal and opposite charges cancel each other out."
+        },
+        {
+          "letter": "C",
+          "text": "5 V",
+          "isCorrect": false,
+          "explanation": "This option implies a partial contribution from one charge, but again neglects the cancellation effect of the opposite charge at the midpoint."
+        },
+        {
+          "letter": "D",
+          "text": "0 V",
+          "isCorrect": true,
+          "explanation": "This is the correct answer because at the midpoint between two equal and opposite charges, the potentials due to each charge cancel each other out, resulting in a net potential of 0 V."
+        }
+      ],
+      "explanation": "At the midpoint between two equal and opposite charges, the electric potential contributions from each charge are equal in magnitude but opposite in sign. Therefore, they cancel each other out, resulting in a total electric potential of 0 V at that point. This is why the correct answer is 0 V. The other options suggest a non-zero potential, which does not consider the crucial fact that the charges are equal and opposite, leading to a complete cancellation of their effects at the midpoint.",
+      "explanationImage": null,
+      "hints": [
+        "equal and opposite charges",
+        "distance of 10 cm",
+        "mid-point between the charges"
+      ]
+    },
+    {
+      "text": "The force of repulsion between two alike charges is 10 N in vacuum. When a material of Ep= 2 is placed between them. New force will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2023,
+      "options": [
+        {
+          "letter": "A",
+          "text": "20 N",
+          "isCorrect": false,
+          "explanation": "This option suggests an increase in force, which is incorrect as the dielectric material reduces the force between the charges."
+        },
+        {
+          "letter": "B",
+          "text": "15 N",
+          "isCorrect": false,
+          "explanation": "This option implies a minor reduction in force, but does not account for the full effect of the dielectric polarization factor."
+        },
+        {
+          "letter": "C",
+          "text": "10 N",
+          "isCorrect": false,
+          "explanation": "This option indicates no change in force, which is incorrect as the presence of the dielectric will reduce the force."
+        },
+        {
+          "letter": "D",
+          "text": "5 N",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The force of repulsion is reduced by the factor of the dielectric constant, Ep, resulting in a new force of 10 N / 2 = 5 N."
+        }
+      ],
+      "explanation": "In this problem, we start with a repulsive force of 10 N between two like charges in a vacuum. When a dielectric material with an electric polarization factor of Ep= 2 is introduced, the force between the charges is reduced by this factor. The relationship governing this change is given by:F' = F / Ep,where F' is the new force, F is the original force (10 N), and Ep is the electric polarization factor (which is 2 in this case). Thus:F' = 10 N / 2 = 5 N.This shows that the force is halved due to the presence of the dielectric. The other options are incorrect as they either suggest an increase in force or no change at all, which contradicts the effect of the dielectric material on the electric forces between the charges.",
+      "explanationImage": null,
+      "hints": [
+        "force of repulsion",
+        "E<sub>p</sub>= 2"
+      ]
+    },
+    {
+      "text": "The slope-of the charge-time graph for a charging capacitor gives:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2023,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Current",
+          "isCorrect": true,
+          "explanation": "The slope of the charge-time graph represents the rate at which charge accumulates on the capacitor. This rate is defined as current, which is the amount of charge per unit time."
+        },
+        {
+          "letter": "B",
+          "text": "Voltage",
+          "isCorrect": false,
+          "explanation": "Voltage is related to the charge stored in the capacitor, but does not directly represent the slope of the charge-time graph. It reflects the potential difference across the capacitor rather than the rate of charge accumulation."
+        },
+        {
+          "letter": "C",
+          "text": "Force",
+          "isCorrect": false,
+          "explanation": "Force is not relevant in this context, as the question specifically pertains to charge and time. Force is not a measure that can be derived from the charge-time graph."
+        },
+        {
+          "letter": "D",
+          "text": "Energy",
+          "isCorrect": false,
+          "explanation": "Energy relates to the amount of work done to charge the capacitor, but it is not represented by the slope of the charge-time graph. The graph specifically indicates the rate of charge flow, which is current."
+        }
+      ],
+      "explanation": "The correct answer is Current, as the slope of the charge-time graph indicates how quickly charge is flowing into the capacitor, which is defined as current (I = dq/dt). A steeper slope corresponds to a higher current, meaning more charge is accumulating over time. The other options do not represent this relationship: Voltage is related to the charge stored but not the rate of charge flow, Force is unrelated to charge and time, and Energy pertains to the work done to charge the capacitor rather than the rate of charge accumulation.",
+      "explanationImage": null,
+      "hints": [
+        "slope",
+        "charge-time graph"
+      ]
+    },
+    {
+      "text": "When dielectric is removed from plates of a charged capacitor then electric field between plates:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2020,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Remains unchanged",
+          "isCorrect": false,
+          "explanation": "Incorrect.When the dielectric is removed from the plates of a charged capacitor, the electric field between the plates generally increases. This is because the dielectric material helps reduce the electric field strength by polarizing and storing charge. Without the dielectric, the electric field becomes stronger. It's like taking away a cushion that was reducing the force between the plates."
+        },
+        {
+          "letter": "B",
+          "text": "Decreases",
+          "isCorrect": false,
+          "explanation": "Incorrect.When the dielectric is removed from the plates of a charged capacitor, the electric field between the plates generally increases. This is because the dielectric material helps reduce the electric field strength by polarizing and storing charge. Without the dielectric, the electric field becomes stronger. It's like taking away a cushion that was reducing the force between the plates."
+        },
+        {
+          "letter": "C",
+          "text": "Increases",
+          "isCorrect": true,
+          "explanation": "When the dielectric is removed from the plates of a charged capacitor, the electric field between the plates generally increases. This is because the dielectric material helps reduce the electric field strength by polarizing and storing charge. Without the dielectric, the electric field becomes stronger. It's like taking away a cushion that was reducing the force between the plates."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": false,
+          "explanation": "Incorrect option."
+        }
+      ],
+      "explanation": "When the dielectric is removed from the plates of a charged capacitor, the electric field between the plates generally increases. This is because the dielectric material helps reduce the electric field strength by polarizing and storing charge. Without the dielectric, the electric field becomes stronger. It's like taking away a cushion that was reducing the force between the plates.",
+      "explanationImage": null,
+      "hints": [
+        "dielectric is removed",
+        "electric field"
+      ]
+    },
+    {
+      "text": "The SI unit of capacitance is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2009,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Farad",
+          "isCorrect": true,
+          "explanation": "Correct! The SI unit of capacitance is the Farad, named after Michael Faraday."
+        },
+        {
+          "letter": "B",
+          "text": "Ohms",
+          "isCorrect": false,
+          "explanation": "Incorrect. Ohms is the SI unit of electrical resistance, not capacitance."
+        },
+        {
+          "letter": "C",
+          "text": "Volt",
+          "isCorrect": false,
+          "explanation": "Incorrect. Volt is the SI unit of electric potential difference, not capacitance."
+        },
+        {
+          "letter": "D",
+          "text": "Newton",
+          "isCorrect": false,
+          "explanation": "Incorrect. Newton is the SI unit of force, not capacitance."
+        },
+        {
+          "letter": "E",
+          "text": "None",
+          "isCorrect": false,
+          "explanation": "Incorrect. There is a specific SI unit for capacitance, which is the Farad."
+        }
+      ],
+      "explanation": "The SI unit of capacitance is the Farad. This unit is used to measure the ability of a capacitor to store an electrical charge. The Farad is named after Michael Faraday, a pioneer in the study of electromagnetism. Other options like Ohms, Volts, and Newtons are units for measuring different physical quantities, such as resistance, potential difference, and force, respectively. Therefore, they are not applicable to capacitance.",
+      "explanationImage": null,
+      "hints": [
+        "SI unit",
+        "capacitance",
+        "store an electrical charge"
+      ]
+    },
+    {
+      "text": "An ohm Is defined as one-volt per ampere and an ampere is a coulomb per second. A farad, the unit for capacitance, is a coulomb per volt. An ohm times a farad is a unit of",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2011,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Voltage",
+          "isCorrect": false,
+          "explanation": "Ohm times farad is a unit of time.To see this, we can use dimensional analysis.Ohm = volt / ampereFarad = coulomb / voltTherefore, ohm times farad is:ohm * farad = (volt / ampere) * (coulomb / volt)Canceling out the volts, we get:ohm * farad = coulomb / ampereBut coulomb / ampere is a unit of time, specifically the second."
+        },
+        {
+          "letter": "B",
+          "text": "Resistance",
+          "isCorrect": false,
+          "explanation": "Ohm times farad is a unit of time.To see this, we can use dimensional analysis.Ohm = volt / ampereFarad = coulomb / voltTherefore, ohm times farad is:ohm * farad = (volt / ampere) * (coulomb / volt)Canceling out the volts, we get:ohm * farad = coulomb / ampereBut coulomb / ampere is a unit of time, specifically the second."
+        },
+        {
+          "letter": "C",
+          "text": "Energy",
+          "isCorrect": false,
+          "explanation": "Ohm times farad is a unit of time.To see this, we can use dimensional analysis.Ohm = volt / ampereFarad = coulomb / voltTherefore, ohm times farad is:ohm * farad = (volt / ampere) * (coulomb / volt)Canceling out the volts, we get:ohm * farad = coulomb / ampereBut coulomb / ampere is a unit of time, specifically the second."
+        },
+        {
+          "letter": "D",
+          "text": "Time",
+          "isCorrect": true,
+          "explanation": "Ohm times farad is a unit of time.To see this, we can use dimensional analysis.Ohm = volt / amperFarad = coulomb / voltTherefore, ohm times farad isohm * farad = (volt / ampere) * (coulomb / volt)Canceling out the volts, we get:ohm * farad = coulomb / ampereBut coulomb / ampere is a unit of time, specifically the second."
+        },
+        {
+          "letter": "E",
+          "text": "Charge",
+          "isCorrect": false,
+          "explanation": "Ohm times farad is a unit of time.To see this, we can use dimensional analysis.Ohm = volt / ampereFarad = coulomb / voltTherefore, ohm times farad is:ohm * farad = (volt / ampere) * (coulomb / volt)Canceling out the volts, we get:ohm * farad = coulomb / ampereBut coulomb / ampere is a unit of time, specifically the second."
+        }
+      ],
+      "explanation": "Ohm times farad is a unit of time.To see this, we can use dimensional analysis.Ohm = volt / ampereFarad = coulomb / voltTherefore, ohm times farad is:ohm * farad = (volt / ampere) * (coulomb / volt)Canceling out the volts, we get:ohm * farad = coulomb / ampereBut coulomb / ampere is a unit of time, specifically the second.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A capacitor of capacitance C is charged to a potential difference V, and then it is disconnected from the battery. What will be the new capacitance, if a dielectric is inserted between its plates, so that the new potential difference becomes 2V?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4 times",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "2 times",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Remains same",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "One-Half",
+          "isCorrect": true,
+          "explanation": "When the capacitor is charged and disconnected, the charge Q remains constantQ=CVLet the new capacitance be C′, and the new potential difference is 2V.So the same charge Q is now:Q=C 2VEquating equations (1) and (2)CV=2V⋅C′C′= CV/2V​=C​/2"
+        },
+        {
+          "letter": "E",
+          "text": "One-fourth",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "When the capacitor is charged and disconnected, the charge Q remains constantQ=CVLet the new capacitance be C′, and the new potential difference is 2V.So the same charge Q is now:Q=C 2VEquating equations (1) and (2)CV=2V⋅C′C′= CV/2V​=C​/2",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Electric Dipole Moment DirectionThe direction of the electric dipole moment vector is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "From negative to positive charge",
+          "isCorrect": false,
+          "explanation": "Opposite to the defined dipole moment direction."
+        },
+        {
+          "letter": "B",
+          "text": "From positive to negative charge",
+          "isCorrect": true,
+          "explanation": "By convention, the dipole moment (p) points from the negative to the positive charge.Although the electric field of a dipole points from positive to negative, the electric dipole moment vector itself is defined from the negative charge to the positive charge. This convention is used in physics to characterize the dipole’s orientation and strength as p = q × d, where d is a vector from negative to positive."
+        },
+        {
+          "letter": "C",
+          "text": "Perpendicular to the dipole axis",
+          "isCorrect": false,
+          "explanation": "The moment lies along the axis, not perpendicular."
+        },
+        {
+          "letter": "D",
+          "text": "Random",
+          "isCorrect": false,
+          "explanation": "Direction is fixed by the charges' configuration, not random."
+        }
+      ],
+      "explanation": "By convention, the dipole moment (p) points from the negative to the positive charge.Although the electric field of a dipole points from positive to negative, the electric dipole moment vector itself is defined from the negative charge to the positive charge. This convention is used in physics to characterize the dipole’s orientation and strength as p = q × d, where d is a vector from negative to positive.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Role of Dielectric in Capacitors;",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The dielectric conducts electricity",
+          "isCorrect": false,
+          "explanation": "False; dielectrics are insulators."
+        },
+        {
+          "letter": "B",
+          "text": "The dielectric reduces the electric field",
+          "isCorrect": false,
+          "explanation": "True effect, but caused by polarization."
+        },
+        {
+          "letter": "C",
+          "text": "The dielectric polarizes, countering the external field",
+          "isCorrect": true,
+          "explanation": "A dielectric material placed between capacitor plates becomes polarized in the presence of an electric field, producing an internal field that opposes the external field. This reduces the net field, lowers potential difference for a given charge, and increases the capacitance. The dielectric doesn’t conduct but enhances the capacitor’s ability to store charge."
+        },
+        {
+          "letter": "D",
+          "text": "The dielectric absorbs excess charge",
+          "isCorrect": false,
+          "explanation": "It doesn’t store charge itself."
+        }
+      ],
+      "explanation": "A dielectric material placed between capacitor plates becomes polarized in the presence of an electric field, producing an internal field that opposes the external field. This reduces the net field, lowers potential difference for a given charge, and increases the capacitance. The dielectric doesn’t conduct but enhances the capacitor’s ability to store charge.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The dipole moment vector points:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "From negative to positive charge",
+          "isCorrect": true,
+          "explanation": "By definition, the electric dipole moment (p) is a vector quantity pointing from the negative charge to the positive charge, even though the electric field lines go from positive to negative. This convention aligns with physics formulations like torque on a dipole in an external field."
+        },
+        {
+          "letter": "B",
+          "text": "From positive to negative charge",
+          "isCorrect": false,
+          "explanation": "This is the direction of the electric field, not dipole moment."
+        },
+        {
+          "letter": "C",
+          "text": "Perpendicular to the dipole axis",
+          "isCorrect": false,
+          "explanation": "False; the dipole moment lies along the axis."
+        },
+        {
+          "letter": "D",
+          "text": "Randomly",
+          "isCorrect": false,
+          "explanation": "The direction is fixed by the charge configuration."
+        }
+      ],
+      "explanation": "By definition, the electric dipole moment (p) is a vector quantity pointing from the negative charge to the positive charge, even though the electric field lines go from positive to negative. This convention aligns with physics formulations like torque on a dipole in an external field.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Discharging a capacitor through a resistor releases energy as:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Light",
+          "isCorrect": false,
+          "explanation": "Light is not a typical byproduct"
+        },
+        {
+          "letter": "B",
+          "text": "Heat",
+          "isCorrect": true,
+          "explanation": "When a capacitor discharges through a resistor, the current flows and dissipates energy as heat. This energy loss is due to I²R losses in the resistor. This is a common principle in RC circuits and electronic damping."
+        },
+        {
+          "letter": "C",
+          "text": "Magnetic field",
+          "isCorrect": false,
+          "explanation": "No magnetic field is sustained in a purely RC circuit."
+        },
+        {
+          "letter": "D",
+          "text": "Sound",
+          "isCorrect": false,
+          "explanation": "Sound is not generated unless through a speaker or similar device"
+        }
+      ],
+      "explanation": "When a capacitor discharges through a resistor, the current flows and dissipates energy as heat. This energy loss is due to I²R losses in the resistor. This is a common principle in RC circuits and electronic damping.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Polarization in a dielectric material:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increases the net electric field",
+          "isCorrect": false,
+          "explanation": "Polarization has an opposing effect."
+        },
+        {
+          "letter": "B",
+          "text": "Reduces the net electric field",
+          "isCorrect": true,
+          "explanation": "Dipole alignment opposes the external field, lowering E_net = E_ext/εᵣ.When a dielectric is placed in an electric field, its molecules align to produce an internal field that opposes the external one. This polarization reduces the effective field inside the material and increases the capacitance."
+        },
+        {
+          "letter": "C",
+          "text": "Neutralizes the capacitor plates",
+          "isCorrect": false,
+          "explanation": "It affects field, not plate charge directly"
+        },
+        {
+          "letter": "D",
+          "text": "Creates free charges",
+          "isCorrect": false,
+          "explanation": "Only bound charges are created, not free ones."
+        }
+      ],
+      "explanation": "Dipole alignment opposes the external field, lowering E_net = E_ext/εᵣ.When a dielectric is placed in an electric field, its molecules align to produce an internal field that opposes the external one. This polarization reduces the effective field inside the material and increases the capacitance.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "An uncharged metal object ‘M’ is insulated from its surroundings. A positively charged metal sphere ‘S’ is then brought near to ‘M’. Which diagram best illustrates the resultant distributions of charge on ‘S’ and ‘M’?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": "This diagram incorrectly shows the charge distribution as it doesn't consider the effect of induction, where opposite charges accumulate near the charged object."
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": "This diagram does not correctly represent the induction effect. The charges should be redistributed due to the presence of the charged sphere."
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": "This option does not show any charge separation on the uncharged object, which is incorrect when a charged object is nearby."
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": true,
+          "explanation": "This diagram correctly illustrates the induction effect, where the negative charges in the uncharged metal object are attracted towards the positively charged sphere, and positive charges are repelled."
+        }
+      ],
+      "explanation": "When a positively charged metal sphere 'S' is brought near an uncharged metal object 'M', the charges within 'M' redistribute due to electrostatic induction. The electrons in 'M' are attracted towards 'S', causing a concentration of negative charge on the side of 'M' closer to 'S', and leaving a deficiency of electrons (positive charge) on the opposite side. Option D accurately depicts this distribution, whereas the other options fail to represent this effect correctly.",
+      "explanationImage": null,
+      "hints": [
+        "uncharged",
+        "positively charged",
+        "distributions of charge"
+      ]
+    },
+    {
+      "text": "One metallic sphere A is given positive charge and another identical sphere B is given equal amount of negative charge. Then:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Mass of A and B remain equal",
+          "isCorrect": true,
+          "explanation": "The mass remains equal because the gain or loss of electrons (which have negligible mass) does not significantly affect the total mass of the spheres."
+        },
+        {
+          "letter": "B",
+          "text": "Mass of A increases",
+          "isCorrect": false,
+          "explanation": "While metallic sphere A gains positive charge, it implies a loss of electrons, which would slightly decrease its mass, not increase it."
+        },
+        {
+          "letter": "C",
+          "text": "Mass of B decreases",
+          "isCorrect": false,
+          "explanation": "Sphere B gains electrons, and thus increases its mass slightly. The mass would not decrease."
+        },
+        {
+          "letter": "D",
+          "text": "Mass of B increases",
+          "isCorrect": false,
+          "explanation": "Sphere B becomes negatively charged by gaining electrons, which slightly increases its mass. However, the mass change is negligible and does not affect the answer compared to sphere A."
+        }
+      ],
+      "explanation": "The correct answer is that the mass of A and B remain equal. When sphere A is given a positive charge, it means electrons have been removed from it, resulting in a slight decrease in mass. Conversely, when sphere B is given a negative charge, it gains electrons, resulting in a slight increase in mass. However, the mass of an electron is so small compared to the mass of the sphere that these changes are negligible, and the mass of both spheres remains effectively equal. Options B and C are incorrect because they misinterpret the mass change effects of losing or gaining electrons, and Option D is incorrect because even though B's mass increases slightly, the change is too small to be significant compared to sphere A.",
+      "explanationImage": null,
+      "hints": [
+        "metallic",
+        "positive",
+        "negative"
+      ]
+    },
+    {
+      "text": "Five balls numbered 1 to 5 are suspended. Pairs (1,2), (2,4), and (4,1) show attraction. Pairs (2,3) and (4,5) show repulsion. Therefore, ball 1 must be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Neutral",
+          "isCorrect": true,
+          "explanation": "Ball 1 is neutral because it attracts both positive and negative charges."
+        },
+        {
+          "letter": "B",
+          "text": "Metallic",
+          "isCorrect": false,
+          "explanation": "While metal can be neutral, being metallic alone doesn't explain the specific attraction and repulsion patterns."
+        },
+        {
+          "letter": "C",
+          "text": "Positively charged",
+          "isCorrect": false,
+          "explanation": "If ball 1 were positively charged, it would repel other positively charged balls."
+        },
+        {
+          "letter": "D",
+          "text": "Negatively charged",
+          "isCorrect": false,
+          "explanation": "If ball 1 were negatively charged, it would repel other negatively charged balls."
+        }
+      ],
+      "explanation": "Ball 1 must be neutral because it shows attraction to both positive and negative charges. In the given interactions, ball 1 attracts ball 2 and ball 4, which implies that ball 1 is neutral since neutral objects can attract both charged objects. The repulsion between pairs (2,3) and (4,5) suggests that these pairs have like charges, further indicating that ball 1 must be neutral to attract both positively and negatively charged balls. Options B, C, and D do not fit the observed attraction and repulsion patterns.",
+      "explanationImage": null,
+      "hints": [
+        "attraction",
+        "repulsion",
+        "neutral"
+      ]
+    },
+    {
+      "text": "If a plastic sheet of relative permittivity 2.5 is inserted between two point charges placed in a vacuum, then the electrostatic force between them",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2025,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Increases by a factor of 2.5",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because inserting a dielectric decreases the electrostatic force rather than increasing it."
+        },
+        {
+          "letter": "B",
+          "text": "Decreases by a factor of 2.5",
+          "isCorrect": true,
+          "explanation": "This is the correct answer, as the relative permittivity indicates that the electric field and thus the force between the charges will decrease by this factor."
+        },
+        {
+          "letter": "C",
+          "text": "Increases by a factor of 5",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the introduction of a dielectric does not increase the force; rather, it weakens it."
+        },
+        {
+          "letter": "D",
+          "text": "Decreases by a factor of 5",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as the factor for decrease is 2.5, not 5. Thus, this does not align with the concept of relative permittivity."
+        }
+      ],
+      "explanation": "When a dielectric material, such as a plastic sheet with a relative permittivity of 2.5, is inserted between two point charges, the electrostatic force between them decreases. This is due to the fact that the electric field in a dielectric medium is reduced by the factor of the material's relative permittivity. According to Coulomb's law, the electrostatic force is inversely proportional to the square of the distance between the charges and directly proportional to the product of the charges, but when a dielectric is introduced, the effective force is modified by the relative permittivity. Therefore, the force decreases by a factor of 2.5. Options A, C, and D are incorrect because they suggest an increase in force or a decrease by a different factor than the given relative permittivity, which does not reflect the behavior of electrostatic forces in dielectrics.",
+      "explanationImage": null,
+      "hints": [
+        "relative permittivity",
+        "plastic sheet",
+        "electrostatic force"
+      ]
+    },
+    {
+      "text": "The force between two charges is 28 N in vacuum. If paraffin wax of relative permittivity 2.8is introduced between the charges, then the force reduces to:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2025,
+      "options": [
+        {
+          "letter": "A",
+          "text": "25 N",
+          "isCorrect": false,
+          "explanation": "This option does not account for the effect of the dielectric constant. The force should be significantly lower than the original force of 28 N."
+        },
+        {
+          "letter": "B",
+          "text": "20 N",
+          "isCorrect": false,
+          "explanation": "This option is closer but still does not fully consider the impact of the relative permittivity of 2.8 on the force between the charges."
+        },
+        {
+          "letter": "C",
+          "text": "15 N",
+          "isCorrect": false,
+          "explanation": "While this option reflects a reduction in force, it does not accurately apply the relative permittivity value given in the question."
+        },
+        {
+          "letter": "D",
+          "text": "10 N",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The force is calculated by dividing the original force (28 N) by the relative permittivity (2.8), resulting in 10 N."
+        }
+      ],
+      "explanation": "To find the new force when a dielectric material is introduced, we use the formula: F' = F / ε_r where F' is the new force, F is the original force, and ε_r is the relative permittivity of the dielectric. Here, the original force is 28 N and the relative permittivity of paraffin wax is 2.8. Plugging in the values: F' = 28 N / 2.8 = 10 N This confirms that the force reduces to 10 N when the dielectric is introduced. The other options (25 N, 20 N, and 15 N) do not correctly apply the dielectric effect on the force, leading to incorrect values.",
+      "explanationImage": null,
+      "hints": [
+        "force",
+        "relative permittivity",
+        "paraffin wax"
+      ]
+    },
+    {
+      "text": "The unit of RC in case of charging a capacitor is",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": 2025,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Farad",
+          "isCorrect": false,
+          "explanation": "Farad is the unit of capacitance, not the time unit in the RC time constant."
+        },
+        {
+          "letter": "B",
+          "text": "Seconds",
+          "isCorrect": true,
+          "explanation": "Seconds are the unit of time, which correctly represents the RC time constant when charging a capacitor."
+        },
+        {
+          "letter": "C",
+          "text": "Ohm",
+          "isCorrect": false,
+          "explanation": "Ohm is the unit of resistance, not time, and thus does not relate to the RC time constant."
+        },
+        {
+          "letter": "D",
+          "text": "Volt",
+          "isCorrect": false,
+          "explanation": "Volt is the unit of electric potential, which is not relevant to the time constant of a charging capacitor."
+        }
+      ],
+      "explanation": "The correct answer is Seconds, as the RC time constant (τ) is defined as the time it takes for a capacitor to charge to approximately 63.2% of its maximum voltage. It is calculated as τ = R × C, where R is the resistance in ohms and C is the capacitance in farads. Since the product of resistance and capacitance results in a time measurement, the unit for RC is seconds. The other options are incorrect because Farads measure capacitance, Ohms measure resistance, and Volts measure electric potential, none of which directly indicate the time it takes for a capacitor to charge.",
+      "explanationImage": null,
+      "hints": [
+        "unit",
+        "charging",
+        "capacitor"
+      ]
+    },
+    {
+      "text": "The net charge flowing through any section of the conductor per unit time is known as?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electric intensity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Electric flux",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Electric current",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Electric potential",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Electric current is the flow of charge through a conductor per unit time. It measures how much charge passes a point in the circuit every second.The other options describe electric field strength, electric flux, or potential, not the flow of charge.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If we double the separation between two charges , then coulomb's force will become?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Electrostatics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Double",
+          "isCorrect": false,
+          "explanation": "This option suggests that the force increases; however, according to Coulomb's law, increasing the distance decreases the force."
+        },
+        {
+          "letter": "B",
+          "text": "Half",
+          "isCorrect": false,
+          "explanation": "This option indicates that the force is reduced but not sufficiently; it fails to account for the square of the distance in the relationship."
+        },
+        {
+          "letter": "C",
+          "text": "Four times",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests that the force increases significantly, which contradicts the principle that increasing distance decreases force."
+        },
+        {
+          "letter": "D",
+          "text": "1/4th",
+          "isCorrect": true,
+          "explanation": "This is the correct answer as it reflects the inverse square relationship: doubling the distance leads to a reduction in force by a factor of four."
+        }
+      ],
+      "explanation": "Coulomb's law states that the force between two point charges is directly proportional to the product of the magnitudes of charges and inverselyproportional to the square of the distance between them. So, if the separation is doubled the force becomes 1/4 of the original force.",
+      "explanationImage": null,
+      "hints": [
+        "double the separation",
+        "Coulomb's force"
+      ]
+    }
+  ]
+}

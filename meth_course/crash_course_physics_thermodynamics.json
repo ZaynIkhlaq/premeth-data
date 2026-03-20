@@ -1,0 +1,768 @@
+{
+  "questions": [
+    {
+      "text": "A container is filled with oxygen and helium at the same temperature. The molar mass of oxygen is 32 g/mol and that of helium is 4 g/mol. What is the ratio:average speed of oxygen molecules / average speed of helium molecules",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/√8",
+          "isCorrect": true,
+          "explanation": "This option suggests the ratio of the average speed of oxygen molecules to the average speed of helium molecules is 1/√8. This is derived from the fact that the ratio of the molar masses of helium to oxygen is 4g/mol / 32g/mol=1/8. When taking the square root, we get 1/√8 . So, this option is correct."
+        },
+        {
+          "letter": "B",
+          "text": "√8",
+          "isCorrect": false,
+          "explanation": "This option suggests the ratio of the average speed of oxygen molecules to the average speed of helium molecules is √8. However, this is incorrect. The correct ratio is 1/√8 not √8."
+        },
+        {
+          "letter": "C",
+          "text": "1/8",
+          "isCorrect": false,
+          "explanation": "This option suggests the ratio of the average speed of oxygen molecules to the average speed of helium molecules is 1/8.However, this is incorrect. The given molar masses are used to find the square root of the ratio, not the ratio itself."
+        },
+        {
+          "letter": "D",
+          "text": "8",
+          "isCorrect": false,
+          "explanation": "This option suggests the ratio of the average speed of oxygen molecules to the average speed of helium molecules is 8. However, this is incorrect. The given molar masses are used to find the square root of the ratio, not the ratio itself."
+        }
+      ],
+      "explanation": "Average speed of a molecule is directly proportional to the square root of the temperature at which the gas is kept and indirectly proportional to the molar mass of the gas.FORMULA: √(8RT)/(πM), where R is the universal gas constant (8.3144 J/K mol), T stands for the temperature in kelvins, and M is the molar mass of the molecule.Since the temperature for both gases is same and 8R/π is a constant, therefore the average speed depends inversely on the molar mass of gas.- Let average speed of oxygen be v1 and average speed of helium be v2.Molar mass of oxygen (m1) = 32 g/molMolar mass of helium (m2) = 4 g/molUsing the formula:v1 / v2 = √m2/m1v1 / v2 = √4/32v1 / v2 = √1/8Therefore the ratio of average speed of oxygen molecules and helium molecules is option A ( 1 : ✓8 ).",
+      "explanationImage": null,
+      "hints": [
+        "same temperature",
+        "32 g/mol",
+        "4 g/mol",
+        "ratio"
+      ]
+    },
+    {
+      "text": "The pendulum of a certain pendulum clock is made of brass. When the temperature increases, what happens to the period of the clock?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "It increases",
+          "isCorrect": true,
+          "explanation": "When the temperature increases, the period of a pendulum clock made of brass will generally increase.The period of a pendulum clock is the time it takes for the pendulum to complete one full swing or oscillation. The period is influenced by the length of the pendulum and the acceleration due to gravity. However, when considering temperature changes, we also need to take into account the thermal expansion properties of the material from which the pendulum is made.Brass, like many other materials, expands when its temperature increases. As the temperature rises, the brass pendulum elongates due to thermal expansion. Since the length of the pendulum affects its period, this increase in length leads to a longer period of oscillation.To be more precise, the period (T) of a simple pendulum is directly proportional to the square root of its effective length (L_eff):T ∝ √L_effAs the length of the pendulum increases due to thermal expansion, its effective length also increases, leading to a longer period of oscillation. This means the clock will start running slightly slower when the temperature rises.For precise timekeeping, especially in high-precision clocks, compensation mechanisms are employed to counteract the effect of thermal expansion on the pendulum's period. These mechanisms can use different materials or configurations to minimize the impact of temperature changes on the clock's accuracy."
+        },
+        {
+          "letter": "B",
+          "text": "It decreases",
+          "isCorrect": false,
+          "explanation": "This option suggests that the period of the clock decreases when the temperature increases. However, this is not consistent with the behavior of pendulum clocks. When the temperature increases, the brass pendulum expands, causing an increase in its length. As mentioned earlier, the period of a pendulum is directly proportional to the square root of its length, so an increase in length leads to an increase in the period, not a decrease."
+        },
+        {
+          "letter": "C",
+          "text": "It remains the same",
+          "isCorrect": false,
+          "explanation": "This option suggests that the period of the clock remains unchanged regardless of changes in temperature. However, this is not accurate. The period of a pendulum clock is affected by the length of the pendulum, which changes with temperature due to thermal expansion. Therefore, as the temperature increases, the length of the pendulum increases, leading to a longer period."
+        },
+        {
+          "letter": "D",
+          "text": "It decreases with the square of temperature",
+          "isCorrect": false,
+          "explanation": "This option suggests a relationship between the period of the clock and the square of the temperature. However, this relationship does not accurately represent the behavior of pendulum clocks. The period of a pendulum clock is primarily affected by the length of the pendulum, which changes with temperature due to thermal expansion. As the temperature increases, the length of the pendulum increases, leading to a longer period. There is no direct relationship between the period of the clock and the square of the temperature."
+        }
+      ],
+      "explanation": "When the temperature increases, the length of the pendulum also increases and hence its time period increases.",
+      "explanationImage": null,
+      "hints": [
+        "pendulum",
+        "brass",
+        "temperature increases",
+        "period"
+      ]
+    },
+    {
+      "text": "The isothermal process can be defined as?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "PV = constant",
+          "isCorrect": true,
+          "explanation": "An isothermal process is a thermodynamic process in which the temperature of a system remains constant. The transfer of heat into or out of the system happens so slowly that thermal equilibrium is maintained. In an isothermal condition, for an ideal gas, the product of Pressure and Volume (PV) is constant. This is known as Boyle's law.From Boyle's law it is proved PV = Constant"
+        },
+        {
+          "letter": "B",
+          "text": "PV = RT",
+          "isCorrect": false,
+          "explanation": "This equation, PV = RT, is the ideal gas law, where P is the pressure, V is the volume, R is the gas constant, and T is the absolute temperature. While the ideal gas law is a fundamental equation that describes the behavior of ideal gases, it does not specifically represent an isothermal process."
+        },
+        {
+          "letter": "C",
+          "text": "PIV = constant",
+          "isCorrect": false,
+          "explanation": "This expression is not a valid representation of an isothermal process. It appears to be a combination of the terms pressure (P), current (I), and voltage (V), which are unrelated to each other in the context of an isothermal process."
+        },
+        {
+          "letter": "D",
+          "text": "P/V = Nrt",
+          "isCorrect": false,
+          "explanation": "This equation is a variation of the ideal gas law, where N is the number of moles of gas and r is a constant. Similar to option b, this equation is not specific to an isothermal process, as it describes the general behavior of an ideal gas under any conditions."
+        }
+      ],
+      "explanation": "An isothermal process is a thermodynamic process in which the temperature of a system remains constant. The transfer of heat into or out of the system happens so slowly that thermal equilibrium is maintained. In an isothermal condition, for an ideal gas, the product of Pressure and Volume (PV) is constant. This is known as Boyle’s law.",
+      "explanationImage": null,
+      "hints": [
+        "isothermal process"
+      ]
+    },
+    {
+      "text": "Find the mean translational kinetic energy of ideal hydrogen gas at 17 degrees Celsius.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": 2018,
+      "options": [
+        {
+          "letter": "A",
+          "text": "6.21 x 10-21 J",
+          "isCorrect": true,
+          "explanation": "This option correctly represents the mean translational kinetic energy of ideal hydrogen gas at 17 degrees Celsius. It's the result obtained using the correct formula KEtrans = 3/2kT, where k is the Boltzmann constant and T is the temperature in Kelvin."
+        },
+        {
+          "letter": "B",
+          "text": "5 x 10-21J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It's significantly lower than the correct value obtained using the formula for mean translational kinetic energy. This could be a distractor value."
+        },
+        {
+          "letter": "C",
+          "text": "6.21 x 10-12 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It's several orders of magnitude higher than the correct value. This suggests a calculation error or a misunderstanding of the formula for mean translational kinetic energy."
+        },
+        {
+          "letter": "D",
+          "text": "6 x 10-21 J",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. While it's close to the correct value, it's not accurate. It's important to calculate the value precisely using the correct formula to ensure accuracy."
+        }
+      ],
+      "explanation": "Following is the correct solution:",
+      "explanationImage": null,
+      "hints": [
+        "mean",
+        "kinetic energy",
+        "ideal",
+        "17 degrees Celsius"
+      ]
+    },
+    {
+      "text": "Thermal energy is also called:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Internal energy",
+          "isCorrect": false,
+          "explanation": "Internal energy is the sum of all the kinetic and potential energies of the particles within a system. It includes both the kinetic energy of the particles due to their motion and the potential energy due to their positions relative to each other. Thermal energy is a part of internal energy that specifically refers to the kinetic energy associated with the random motion of particles."
+        },
+        {
+          "letter": "B",
+          "text": "Temperature of a body",
+          "isCorrect": false,
+          "explanation": "Temperature is a measure of the average kinetic energy of the particles in a substance. It gives an indication of how hot or cold a body is relative to a reference point (such as the Celsius or Kelvin scale). However, it is not the same as thermal energy, as thermal energy depends on both temperature and the amount of substance present."
+        },
+        {
+          "letter": "C",
+          "text": "Kinetic energy",
+          "isCorrect": false,
+          "explanation": "Kinetic energy is the energy possessed by an object or system due to its motion. While thermal energy is related to the kinetic energy of the particles, it specifically refers to the total kinetic energy of all particles in a substance."
+        },
+        {
+          "letter": "D",
+          "text": "Heat energy",
+          "isCorrect": true,
+          "explanation": "Heat energy is the energy transferred between two substances at different temperatures due to their temperature difference. It is the energy exchanged during heating or cooling processes. Heat energy is also called thermal energy."
+        }
+      ],
+      "explanation": "Thermal energy is also called heat energy. Heat energy is another term for thermal energy, kinetic energy is a property of a moving object, and internal energy is the total amount of kinetic energy and potential energy in a system.",
+      "explanationImage": null,
+      "hints": [
+        "Thermal energy"
+      ]
+    },
+    {
+      "text": "Two objects, with different sizes, masses, and temperatures, are placed in thermal contact. In which direction does the energy travel?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Energy travels from the larger object to the smaller object",
+          "isCorrect": false,
+          "explanation": "This option is wrong because flow of energy doesn't depends on size of objects."
+        },
+        {
+          "letter": "B",
+          "text": "Energy travels from the object with more mass to the one with less mass",
+          "isCorrect": false,
+          "explanation": "This option is wrong because flow of energy doesn't depend upon masses of objects."
+        },
+        {
+          "letter": "C",
+          "text": "Energy travels from the object at a higher temperature to the object at a lower temperature",
+          "isCorrect": true,
+          "explanation": "This option is correct because the energy travels from the object at a higher temperature to the object at a lower temperature."
+        },
+        {
+          "letter": "D",
+          "text": "Energy does not travel",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because energy can travel."
+        }
+      ],
+      "explanation": "Correct option is C.The energy travels from the object at higher temperature to the object at lower temperature.Equilibrium is the condition of a system when neither its state of motion nor its the internal energy state tends to change with time.Energy travels from the particle with greater kinetic energy to the particle with lower kinetic energy to maintain equilibrium condition. The vibrating atoms of the system with higher temperature will collide with the atoms or molecules of the system with lower temperature and transfer the energy gained from the hot system. Energy transfer will take place until equilibrium conditions are acquired.Thermal energy naturally flows from hot towards cold. Hence energy travels from the object at higher temperature to the object at lower temperature.",
+      "explanationImage": null,
+      "hints": [
+        "Two objects",
+        "different",
+        "thermal contact",
+        "direction",
+        "energy travel"
+      ]
+    },
+    {
+      "text": "What will be the change in internal energy when work done by the system is 210 J and heat absorbed is 20 J?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-190",
+          "isCorrect": true,
+          "explanation": "ΔU=q−wΔU=20J−210JΔU=−190JTherefore, the change in internal energy is −190J."
+        },
+        {
+          "letter": "B",
+          "text": "190",
+          "isCorrect": false,
+          "explanation": "This option suggests an increase in internal energy, which contradicts the calculated result. Therefore, it is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "90",
+          "isCorrect": false,
+          "explanation": "This option suggests a positive change in internal energy, which is inconsistent with the calculated value. Therefore, it is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "-90",
+          "isCorrect": false,
+          "explanation": "This option suggests a decrease in internal energy, but the magnitude is different from the calculated value. Therefore, it is incorrect."
+        }
+      ],
+      "explanation": "In thermodynamics, heat entering the system is taking as positive, and heat leaving the system is taken as negative.Similarly, work done by the system is taken as positive, and work done on the system is taken as negative in Physics. While the opposite is true for Chemistry.Change in internal energy is given byΔU = Q - WΔU = 20 - 210ΔU = -190 J",
+      "explanationImage": null,
+      "hints": [
+        "change",
+        "internal energy",
+        "by",
+        "absorbed"
+      ]
+    },
+    {
+      "text": "Which one is true about Cp and Cv?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cp = Cv",
+          "isCorrect": false,
+          "explanation": "This option suggests that Cp is equal to Cv for all substances, which is generally not true. In many cases, Cp is greater than Cv, especially for gases."
+        },
+        {
+          "letter": "B",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "This option suggests that none of the options is correct. However, this option is incorrect since option C is correct."
+        },
+        {
+          "letter": "C",
+          "text": "Cp > Cv",
+          "isCorrect": true,
+          "explanation": "This option suggests that Cp is greater than Cv, which is generally true for many substances, especially gases. The reason for this difference lies in the fact that at constant pressure, the system can perform work on its surroundings by expanding, allowing for additional energy to be stored as work in addition to the internal energy change associated with the temperature change. This results in Cp being greater than Cv."
+        },
+        {
+          "letter": "D",
+          "text": "Cv > Cp",
+          "isCorrect": false,
+          "explanation": "This option is typically not true. It suggests that Cv is greater than Cp, which is generally not the case. Cp is typically greater than Cv, especially for gases, due to the reasons mentioned earlier."
+        }
+      ],
+      "explanation": "CV is the specific heat at constant volume, and CP is the specific heat at constant pressure.When a gas is heated at a constant volume, the work done on the gas increases the internal energy of the system. At constant pressure, when a gas is heated, work is done to overcome the pressure and there is an expansion in the volume with an increase in the internal energy of the system. Therefore, it can be said that Cp is greater than Cv.For an ideal gas,Cp - Cv = R.Thus, it can also be proved mathematically that Cp is greater than Cv.",
+      "explanationImage": null,
+      "hints": [
+        "true",
+        "Cp",
+        "Cv"
+      ]
+    },
+    {
+      "text": "Which one of the following formulae is INCORRECT?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "PV=nRT",
+          "isCorrect": false,
+          "explanation": "This is the ideal gas law, where P is pressure, V is volume, n is the number of moles, R is the gas constant, and T is temperature. This equation is correct and commonly used to describe the behavior of ideal gases."
+        },
+        {
+          "letter": "B",
+          "text": "Cp-Cv=R",
+          "isCorrect": false,
+          "explanation": "This equation relates the specific heat capacities at constant pressure (Cp) and constant volume (Cv ) to the gas constant (R). This equation is correct and is a manifestation of the equipartition theorem in thermodynamics."
+        },
+        {
+          "letter": "C",
+          "text": "Cp/Cv=R",
+          "isCorrect": true,
+          "explanation": "This equation is incorrect since the relation between Cp and Cv is given by; Cp-Cv=R not by Cp/Cv=R."
+        },
+        {
+          "letter": "D",
+          "text": "W= F.d",
+          "isCorrect": false,
+          "explanation": "This equation represents work (W) as the product of force (F) and distance (d). This equation is correct in classical mechanics, where work is defined as the product of force and displacement along the direction of the force."
+        }
+      ],
+      "explanation": "All of the other options have formulae that are correct. Cp-Cv=R indicates the relationship of specific heat constants with a gas. PV=nRT is the simple gas equation, and work done is equal to force x displacement. Hence the only incorrect equation from these is Cp/Cv=R",
+      "explanationImage": null,
+      "hints": [
+        "formulae",
+        "INCORRECT"
+      ]
+    },
+    {
+      "text": "Which one of the following is the correct demonstration of the first law of thermodynamics?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "∆H=q + w",
+          "isCorrect": false,
+          "explanation": "This equation represents the change in enthalpy (ΔH) and includes both heat added (q) and work done (w). While this equation is valid, it represents the change in enthalpy (ΔH) rather than the first law of thermodynamics."
+        },
+        {
+          "letter": "B",
+          "text": "∆H= qw",
+          "isCorrect": false,
+          "explanation": "This equation represents the change in enthalpy (ΔH) as the product of heat added (q) and work done (w). This equation does not accurately represent the first law of thermodynamics, as it does not consider the sign convention for work done."
+        },
+        {
+          "letter": "C",
+          "text": "∆H=q - ∆P∆V",
+          "isCorrect": false,
+          "explanation": "This equation represents the change in enthalpy (ΔH) as the difference between heat added (q) and the product of pressure change (ΔP) and volume change (ΔV). This equation does not accurately represent the first law of thermodynamics."
+        },
+        {
+          "letter": "D",
+          "text": "∆E = q + w",
+          "isCorrect": true,
+          "explanation": "This equation accurately represents the first law of thermodynamics, where the change in internal energy (ΔE) is equal to the heat added (q) to the system plus the work done (w) by the system."
+        }
+      ],
+      "explanation": "The first law of thermodynamics states that energy can neither be created nor be destroyed, but can change from one form to another. Therefore, the correct representation of this law is:ΔE = q + wwhere ΔE is the change in internal energy, q is the heat supplied to the system and w is the work done by the system.",
+      "explanationImage": null,
+      "hints": [
+        "correct",
+        "first law of thermodynamics"
+      ]
+    },
+    {
+      "text": "If a system changes from a state P1V1 to P2V2 by two paths then the quantity which remains unchanged is _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "dQ",
+          "isCorrect": false,
+          "explanation": "Heat (Q) is not a state function. Its value depends on the path taken during the process, so it can vary for different paths between the same initial and final states."
+        },
+        {
+          "letter": "B",
+          "text": "dW",
+          "isCorrect": false,
+          "explanation": "Work (W) is also not a state function. Like heat, its value depends on the path taken during the process, so it can vary for different paths between the same initial and final states."
+        },
+        {
+          "letter": "C",
+          "text": "dQ-dW",
+          "isCorrect": true,
+          "explanation": "The quantity that remains unchanged is known as a state function, which depends only on the initial and final states of the system and is independent of the path taken between those states. The only state function among the given options is dQ - dW.dQ is the heat added to the system, and dW is the work done on the system. The first law of thermodynamics states that the change in internal energy of a system is equal to the heat added to the system minus the work done by the system, i.e., ΔU = dQ - dW. Thus, the quantity dQ - dW is equal to the change in internal energy, which is a state function."
+        },
+        {
+          "letter": "D",
+          "text": "dQ+dW",
+          "isCorrect": false,
+          "explanation": "Work (W) is also not a state function. Like heat, its value depends on the path taken during the process, so it can vary for different paths between the same initial and final states."
+        }
+      ],
+      "explanation": "The quantity that remains unchanged is known as a state function, which depends only on the initial and final states of the system and is independent of the path taken between those states. The only state function among the given options is dQ - dW.dQ is the heat added to the system, and dW is the work done on the system. The first law of thermodynamics states that the change in internal energy of a system is equal to the heat added to the system minus the work done by the system, i.e., ΔU = dQ - dW. Thus, the quantity dQ - dW is equal to the change in internal energy, which is a state function.",
+      "explanationImage": null,
+      "hints": [
+        "changes",
+        "P1V1 to P2V2",
+        "quantity"
+      ]
+    },
+    {
+      "text": "An ideal gas at 15.5oC and a pressure of 1.72 x 105 Pa occupies a volume of 2.81 m3. How many moles of gas are present?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2.01 mol",
+          "isCorrect": false,
+          "explanation": "This is not a correct option based on calculations."
+        },
+        {
+          "letter": "B",
+          "text": "21 mol",
+          "isCorrect": false,
+          "explanation": "This is not a correct option based on calculations. ."
+        },
+        {
+          "letter": "C",
+          "text": "201 mol",
+          "isCorrect": true,
+          "explanation": "Using the ideal gas equation PV = nRT, we can solve for n:n = PV / RTGiven:P = 1.72 x 10^5 PaV = 2.81 m^3R = 8.314 J/(mol K)T = 15.5°C = 15.5 + 273.15 = 288.65 KSubstituting the values:n = (1.72 x 10^5 Pa) * (2.81 m^3) / (8.314 J/(mol K) * 288.65 K)Calculating:n ≈ 201.6 molTherefore, the correct answer is approximately 201.6 mol, which is closest to option C) 201 mol."
+        },
+        {
+          "letter": "D",
+          "text": "2001 mol",
+          "isCorrect": false,
+          "explanation": "This is not a correct option based on calculations. ."
+        }
+      ],
+      "explanation": "Using the ideal gas equation PV = nRT, we can solve for n:n = PV / RTGiven:P = 1.72 x 10^5 PaV = 2.81 m^3R = 8.314 J/(mol K)T = 15.5°C = 15.5 + 273.15 = 288.65 KSubstituting the values:n = (1.72 x 10^5 Pa) * (2.81 m^3) / (8.314 J/(mol K) * 288.65 K)Calculating:n ≈ 201.6 molTherefore, the correct answer is approximately 201.6 mol, which is closest to option C) 201 mol.",
+      "explanationImage": null,
+      "hints": [
+        "ideal gas",
+        "pressure",
+        "volume",
+        "moles"
+      ]
+    },
+    {
+      "text": "An ideal gas at 15.5C and a pressure of 1.72 x 105 Pa occupies a volume of 2.81 m3. If the volume is raised to 4.16 m3 and the temperature raised to 28.2C, what will be the pressure of the gas?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "121 x 1^5 Pa",
+          "isCorrect": false,
+          "explanation": "This option suggests a pressure that is significantly higher than the initial pressure of the gas. However, when the volume increases, and the temperature rises, according to the ideal gas law, the pressure is expected to decrease. Therefore, this option does not accurately represent the expected pressure of the gas after the change in volume and temperature."
+        },
+        {
+          "letter": "B",
+          "text": "1.21 x 1^5 Pa",
+          "isCorrect": true,
+          "explanation": "To solve this problem, we can use the combined gas law:(P1V1)/T1 = (P2V2)/T2where P1, V1, and T1 are the initial pressure, volume, and temperature, respectively, and P2, V2, and T2 are the final pressure, volume, and temperature, respectively.Substituting the given values, we get:(1.72 × 10^5 Pa)(2.81 m^3)/(15.5 + 273.15 K) = (P2)(4.16 m^3)/(28.2 + 273.15 K)Solving for P2, we get:P2 = [(1.72 × 10^5 Pa)(2.81 m^3)/(15.5 + 273.15 K)] × [(28.2 + 273.15 K)/(4.16 m^3)]= 1.06 × 10^5 PaTherefore, the pressure of the gas is approximately 1.06 × 10^5 Pa when the volume is raised to 4.16 m^3 and the temperature is raised to 28.2 °C."
+        },
+        {
+          "letter": "C",
+          "text": "1.21 Pa",
+          "isCorrect": false,
+          "explanation": "This option suggests a pressure that is significantly lower than the initial pressure of the gas. However, after the change in volume and temperature, the pressure of the gas is expected to decrease but not to such a low value. Therefore, this option does not accurately represent the expected pressure of the gas."
+        },
+        {
+          "letter": "D",
+          "text": "121 Pa",
+          "isCorrect": false,
+          "explanation": "This option suggests a pressure that is significantly lower than the initial pressure of the gas. However, after the change in volume and temperature, the pressure of the gas is expected to decrease but not to such a low value. Therefore, this option does not accurately represent the expected pressure of the gas."
+        }
+      ],
+      "explanation": "Using the Ideal Gas formula PV=nRT where R is the molar gas constant of 8.31 Joules, with the first set of values (temperature must be converted to Kelvin), the value of n can be found as 200.78. This can then be inputted into the equation with the second set of values (V=4.16 , T=28.2°C=301.35°K) to get Pressure (P) as the number in option B.To solve this problem, we can use the combined gas law:(P1V1)/T1 = (P2V2)/T2where P1, V1, and T1 are the initial pressure, volume, and temperature, respectively, and P2, V2, and T2 are the final pressure, volume, and temperature, respectively.Substituting the given values, we get:(1.72 × 10^5 Pa)(2.81 m^3)/(15.5 + 273.15 K) = (P2)(4.16 m^3)/(28.2 + 273.15 K)Solving for P2, we get:P2 = [(1.72 × 10^5 Pa)(2.81 m^3)/(15.5 + 273.15 K)] × [(28.2 + 273.15 K)/(4.16 m^3)] = 1.06 × 10^5 PaTherefore, the pressure of the gas is approximately 1.06 × 10^5 Pa when the volume is raised to 4.16 m^3 and the temperature is raised to 28.2 °C.",
+      "explanationImage": null,
+      "hints": [
+        "ideal gas",
+        "pressure",
+        "raised",
+        "temperature"
+      ]
+    },
+    {
+      "text": "The energy input to an engine is 4.00 times greater than the work it performs. What is its thermal efficiency?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "4.00",
+          "isCorrect": false,
+          "explanation": "This option incorrectly suggests that the thermal efficiency of the engine is 4.00. However, thermal efficiency is always a fraction between 0 and 1, representing the ratio of useful work output to the energy input. It cannot exceed 1. Therefore, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "1.00",
+          "isCorrect": false,
+          "explanation": "This option suggests that the thermal efficiency of the engine is 1.00, indicating that all the energy input is converted into useful work output. While this would be ideal, it is highly unlikely and unrealistic due to inevitable losses such as friction, heat transfer, and other inefficiencies in real-world systems. Therefore, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "0.25",
+          "isCorrect": true,
+          "explanation": "Efficiency= Output work/ Input workAs input energy is 4 times the useful work done.Efficiency=¼=0.25Hence,C is the correct option."
+        },
+        {
+          "letter": "D",
+          "text": "Impossible to determine",
+          "isCorrect": false,
+          "explanation": "This option suggests that it is impossible to determine the thermal efficiency of the engine. While it is true that calculating thermal efficiency requires certain information about the system, such as the useful work done and the energy input, it is not impossible to determine if this information is provided. Since the problem provides a relationship between the energy input and the useful work done, it is possible to calculate the thermal efficiency. Therefore, this option is incorrect."
+        }
+      ],
+      "explanation": "Efficiency= Output work/ Input workAs input energy is 4 times the useful work done. Efficiency=¼=0.25Hence,C is the correct option.",
+      "explanationImage": null,
+      "hints": [
+        "energy input",
+        "greater",
+        "work",
+        "thermal efficiency"
+      ]
+    },
+    {
+      "text": "Which of the following is equivalent to a temperature of 150K?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "123⁰C",
+          "isCorrect": false,
+          "explanation": "this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "-123⁰C",
+          "isCorrect": true,
+          "explanation": "Temperature is kelvin = Temperature is Celsius + 273 150K = Temp in C + 273 Temperature is Celsius = 150-273 Temperature in Celsius = -123 degree Therefore other options are incorrect and only option B is correct ."
+        },
+        {
+          "letter": "C",
+          "text": "423⁰C",
+          "isCorrect": false,
+          "explanation": "this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "-423⁰C",
+          "isCorrect": false,
+          "explanation": "this option is incorrect."
+        }
+      ],
+      "explanation": "Temperature in degrees Celsius + 273= Temperature in Kelvinx+273=150x= -273+150x= -123 C which is option B.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Work done in an adiabatic process depends upon:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Change in pressure",
+          "isCorrect": false,
+          "explanation": "Work done in adiabatic change in a particular gas (ideal gas) depends only on the change in temperature."
+        },
+        {
+          "letter": "B",
+          "text": "Change in temperature",
+          "isCorrect": true,
+          "explanation": "Work done in adiabatic change in a particular gas (ideal gas) depends on the change in temperature.As in adiabatic process, ΔW = -ΔU;Where ΔU depends on temperature, it changes on changing temperature, so work done also only depends on temeprature in adiabatic process."
+        },
+        {
+          "letter": "C",
+          "text": "Change in volume",
+          "isCorrect": false,
+          "explanation": "Work done in adiabatic change in a particular gas (ideal gas) depends only on the change in temperature."
+        },
+        {
+          "letter": "D",
+          "text": "All of these options are correct",
+          "isCorrect": false,
+          "explanation": "Work done in adiabatic change in a particular gas (ideal gas) depends only on the change in temperature."
+        }
+      ],
+      "explanation": "Work done in adiabatic change in a particular gas (ideal gas) depends on the change in temperature.As in adiabatic process, ΔW = -ΔU;Where ΔU depends on temperature, it changes on changing temperature, so work done also only depends on temeprature in adiabatic process.",
+      "explanationImage": null,
+      "hints": [
+        "Work done",
+        "adiabatic",
+        "depends"
+      ]
+    },
+    {
+      "text": "A closed container contains an ideal gas. Which of the following changes will result in a decrease in temperature?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Volume = decrease temperature = decrease",
+          "isCorrect": true,
+          "explanation": "As volume and temperature are directly proportional to each other, so, by decreasing volume, temperature will also decrease. V ∝ TThe remaining options are incorrect according to the relation of V and T."
+        },
+        {
+          "letter": "B",
+          "text": "Volume = decrease temperature = increase",
+          "isCorrect": false,
+          "explanation": "V ∝ T So, when volume decreases, temperature will not increase."
+        },
+        {
+          "letter": "C",
+          "text": "Volume = increase temperature =decrease",
+          "isCorrect": false,
+          "explanation": "When volume increases, the temperature will not decrease."
+        },
+        {
+          "letter": "D",
+          "text": "Volume = increase temperature = increase",
+          "isCorrect": false,
+          "explanation": "Volume increase and temperature increase will not result in a temperate decrease."
+        }
+      ],
+      "explanation": "Option: A As volume and temperature are directly proportional to each other, so, by decreasing volume, temperature will also decrease. V ∝ TThe remaining options are incorrect according to the relation of V and T. Option B : V ∝ T So, when volume decreases, the temperature will not increase.Option C : When volume increases, the temperature will not decrease.Option D : Volume increase and temperature increase will not result in a temperate decrease.",
+      "explanationImage": null,
+      "hints": [
+        "closed container",
+        "ideal gas.",
+        "changes",
+        "decrease in temperature"
+      ]
+    },
+    {
+      "text": "A heater is used for 5 minutes to heat 500 g of water from 20˚C to 50˚C. What is the power of heater? Specific heat capacity of water is 4.2 J/gC.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1260 W",
+          "isCorrect": false,
+          "explanation": "It is incorrect based on calculations."
+        },
+        {
+          "letter": "B",
+          "text": "12.6 kW",
+          "isCorrect": false,
+          "explanation": "It is incorrect based on calculations."
+        },
+        {
+          "letter": "C",
+          "text": "210 W",
+          "isCorrect": true,
+          "explanation": "To find : the power of the heater if the specific heat capacity of water is 4.2 J/g/C is..solution : first we should find the energy needed to heat the 500g of water from 20°C to 50°C.energy needed to raise the temperature of water, Q = msΔ = 500g × 4.2J/g/°C × (50°C - 20°C) = 500 × 4.2 × 30 J = 63000 Jnow the power of heater = energy dissipated by heater/time taken = 63000 J/5 min = 63000/300 = 210 Wtherefore the power of the heater is 210 Watt.As this is a numerical thus only one option is correct"
+        },
+        {
+          "letter": "D",
+          "text": "12.6 W",
+          "isCorrect": false,
+          "explanation": "It is incorrect based on calculations."
+        }
+      ],
+      "explanation": "To find : the power of the heater if the specific heat capacity of water is 4.2 J/g/C is..solution : first we should find the energy needed to heat the 500g of water from 20°C to 50°C.energy needed to raise the temperature of water, Q = msΔT = 500g × 4.2J/g/°C × (50°C - 20°C) = 500 × 4.2 × 30 J = 63000 Jnow the power of heater = energy dissipated by heater/time taken = 63000 J/5 min = 63000/300 = 210 Wtherefore the power of the heater is 210 Watt.As this is a numerical thus only one option is correct",
+      "explanationImage": null,
+      "hints": [
+        "heater",
+        "power of heater?"
+      ]
+    },
+    {
+      "text": "Two containers, X and Y, are filled with an ideal gas. X has 1 mol of gas and Y has 2 mol of gas. The volume of Y is four times that of X. Pressure in Y is half that in X. What is the temperature of the gas in Y relative to the temperature of the gas in X?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Heat and Thermodynamics",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2 times",
+          "isCorrect": false,
+          "explanation": "If the gas in container Y were at twice the temperature of the gas in container X, it would mean T2 = 2T. However, we cannot determine this based on the given information, so option A is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "Equal",
+          "isCorrect": true,
+          "explanation": "The temperature of the gas in container Y is equal to the temperature of the gas in container X.According to the ideal gas law, the pressure (P), volume (V), and number of moles (n) of an ideal gas are related to its temperature (T) by the equation PV = nRT, where R is the ideal gas constant.In this scenario, we have two containers, X and Y. Container X contains 1 mol of gas, and container Y contains 2 mol of gas. The volume of container Y is four times that of container X. We are given that the pressure in Y is half that in X.Let's denote the pressure in container X as P_X and the pressure in container Y as P_Y. Since P_Y is half of P_X, we can express it as P_Y = 0.5 P_X.Since the number of moles and volume are different between the two containers, the only way for the equation PV = nRT to hold true for both containers is if the temperature (T) is the same for both containers. Therefore, the temperature of the gas in container Y is equal to the temperature of the gas in container X.Hence, the correct answer is \"Equal.\""
+        },
+        {
+          "letter": "C",
+          "text": "Between 1 and 2 times",
+          "isCorrect": false,
+          "explanation": "Without any further information, we cannot conclude that the temperature of the gas in container Y is equal to the temperature of the gas in container X. Option C is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "Between 1 and 4 times",
+          "isCorrect": false,
+          "explanation": "This option suggests that the temperature of the gas in container Y could be between 1 and 4 times the temperature of the gas in container X. However, we cannot determine the exact relationship without additional information, so option D is incorrect."
+        }
+      ],
+      "explanation": "PV=nRTFind the value for T(y) and T(x) by rearranging, and then divide both to find T(y)/T(x).",
+      "explanationImage": null,
+      "hints": [
+        "ideal gas",
+        "1 mol",
+        "2 mol",
+        "volume",
+        "four times",
+        "Pressure",
+        "half",
+        "relative"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1921 @@
+{
+  "questions": [
+    {
+      "text": "If the unit vectors i, j, k are perpendicular to each other therefore;i.i = j.j = k.k = _.I.j = j.k = k.i = _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2016,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0 … 1",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the dot product of a unit vector with itself is always 1, not 0."
+        },
+        {
+          "letter": "B",
+          "text": "1 … 0",
+          "isCorrect": true,
+          "explanation": "This is the correct answer because the dot product of a unit vector with itself (e.g., i.i) is 1. The dot product of two different perpendicular unit vectors (e.g., i.j) is 0."
+        },
+        {
+          "letter": "C",
+          "text": "0 … 0",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the dot product of a unit vector with itself is not 0; it is 1."
+        },
+        {
+          "letter": "D",
+          "text": "1 … 1",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because the dot product of two different perpendicular unit vectors is 0, not 1."
+        }
+      ],
+      "explanation": "The dot product of two vectors A and B is given by A.B = |A||B| cosθ. If the angle θ between the vectors is 0°, cosθ = 1, so a vector dotted with itself (i.i, j.j, k.k) is 1, due to the unit magnitude of the vectors. If θ is 90°, cosθ = 0, so the dot product of two perpendicular vectors (i.j, j.k, k.i) is 0. Therefore, the correct answer is 1 for i.i = j.j = k.k, and 0 for i.j = j.k = k.i. The other options are incorrect as they do not accurately reflect these properties of the dot product for unit vectors.",
+      "explanationImage": null,
+      "hints": [
+        "perpendicular",
+        "unit vectors"
+      ]
+    },
+    {
+      "text": "If A = 2i + 3j - k , B = 4i + 2j - 2k . Find a vector x which is parallel to A but has the magnitude of B?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2012,
+      "options": [
+        {
+          "letter": "A",
+          "text": "√(12/7) (2i + 3j - k)",
+          "isCorrect": true,
+          "explanation": "This option correctly scales vector A to have the magnitude of vector B while maintaining its direction, making it parallel to A."
+        },
+        {
+          "letter": "B",
+          "text": "√(7/12) (4i + 2j - 2k)",
+          "isCorrect": false,
+          "explanation": "This option is simply vector A, which has the correct direction but not the required magnitude equal to vector B."
+        },
+        {
+          "letter": "C",
+          "text": "√(7/12) (2i + 3j + k)",
+          "isCorrect": false,
+          "explanation": "This is vector B itself, which has the correct magnitude but not the direction parallel to vector A."
+        },
+        {
+          "letter": "D",
+          "text": "√(3/5) (i + 2j - 3k)",
+          "isCorrect": false,
+          "explanation": "This option incorrectly scales vector A, resulting in a vector with the incorrect magnitude."
+        },
+        {
+          "letter": "E",
+          "text": "√(5/12) (3i + 5j - 2k)",
+          "isCorrect": false,
+          "explanation": "This vector neither has the correct direction nor the correct magnitude to be parallel to A with B's magnitude."
+        }
+      ],
+      "explanation": "The magnitude of B is equal to √(4)² + (2)² + (2)²=√24The magnitude of A is equal to √(2)² + (3)² + (1)² =√14The parallel vector is proportional to vector A.=>√24/√14 (2i + 3j - k)=>√(12/7) (2i + 3j - k)",
+      "explanationImage": null,
+      "hints": [
+        "parallel",
+        "magnitude"
+      ]
+    },
+    {
+      "text": "A particle moves from position r= 3i+2j-6k to r= 14i+13j+9k under the action of a Force F= 8i+2j+6k. Find the work done by the force:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2010,
+      "options": [
+        {
+          "letter": "A",
+          "text": "50 units",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given below."
+        },
+        {
+          "letter": "B",
+          "text": "75 units",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given below."
+        },
+        {
+          "letter": "C",
+          "text": "125 units",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given below."
+        },
+        {
+          "letter": "D",
+          "text": "155 units",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given below."
+        },
+        {
+          "letter": "E",
+          "text": "200 units",
+          "isCorrect": true,
+          "explanation": "According to the calculation given below, this is the correct answer. Total Work Done= work done in x + work done in y + work done in z Since, Work done= Force x distance moved in the direction of forceDistance moved from r1 to r2 is= r2 – r1 = (14i+13j+9k) - (3i+2j-6k) = (11i+11j+15k)Force= 8i+2j+6kHence, Work done (x)= force (x) x Distance moved in x-axis = 8 x 11 = 88 Work done (y)= force(y) x Distance moved in y-axis = 2 x 11 = 22 Work done (z)= force (y) x Distance moved in z-axis = 6 x 15 = 90Total work done= 88 + 22 + 90=200"
+        }
+      ],
+      "explanation": "Work done = force×displacement Given data:F=8i+2j+6k N Now displacement, d=(14i+13j+9k) — (3i+2j-6k)d=(14–3)i+(13–2)j+(9-[-6])k d=11i+11j+15k Now, W=F×d W= (8i+2j+6k) × (11i+11j+15k) W=(11×8)+(2×11)+(6×15)W=88+22+90 W=200J",
+      "explanationImage": null,
+      "hints": [
+        "work done"
+      ]
+    },
+    {
+      "text": "A vector such as the velocity of a body undergoing uniform translational motion, which can be displaced parallel to itself and applied to any point known as:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2009,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Unit vector",
+          "isCorrect": false,
+          "explanation": "A vector whose magnitude is one is called a unit vector."
+        },
+        {
+          "letter": "B",
+          "text": "Free vector",
+          "isCorrect": true,
+          "explanation": "A free vector is one whose action is not confined or associated with a unique line in space. For a body in uniform translational motion, the velocity of any point in the body may be taken as a vector and this vector will equally well describe the velocity of all points in the body."
+        },
+        {
+          "letter": "C",
+          "text": "Null vector",
+          "isCorrect": false,
+          "explanation": "A directionless vector whose magnitude is zero is called a null vector."
+        },
+        {
+          "letter": "D",
+          "text": "Position vector",
+          "isCorrect": false,
+          "explanation": "A position vector is defined as a vector that symbolizes either the position or the location of any given point concerning any arbitrary reference point."
+        },
+        {
+          "letter": "E",
+          "text": "Resultant vector",
+          "isCorrect": false,
+          "explanation": "A resultant vector is defined as a single vector that produces the same effect as is produced by a number of vectors collectively."
+        }
+      ],
+      "explanation": "Option B is the correct answer because a free vector is one whose action is not confined or associated with a unique line in space. For a body in uniform translational motion, the velocity of any point in the body may be taken as a vector and this vector will equally well describe the velocity of all points in the body. Hence, the velocity of such a body may be represented by a free vector.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Find the unit vector parallel to the vector: B = 6i + 12j - 4k",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2010,
+      "options": [
+        {
+          "letter": "A",
+          "text": "B = 4/14 i+ 12/14 j - 4/14 k",
+          "isCorrect": false,
+          "explanation": "According to given data, this option is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "B = 6/14 i + 12/14 j - 4/14 k",
+          "isCorrect": true,
+          "explanation": "The unit vector of a vector can be calculated as a vector divided by its magnitude. The magnitude of the given vector is: =√ (6) ^2+(12) ^2+(-4) ^2=√ (36+144+16) =√196=14 =6/14i+12/14j-4k/14 Hence b is the correct answer."
+        },
+        {
+          "letter": "C",
+          "text": "B = 6/14 i + 17/14 j - 4/14 k",
+          "isCorrect": false,
+          "explanation": "According to given data, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "B = 6/14 i + 17/14 j - 4/14 k",
+          "isCorrect": false,
+          "explanation": "According to given data, this option is incorrect."
+        },
+        {
+          "letter": "E",
+          "text": "B = 9/14 i + 12/14 j - 1/14 k",
+          "isCorrect": false,
+          "explanation": "According to given data, this option is incorrect."
+        }
+      ],
+      "explanation": "The unit vector of a vector can be calculated as a vector divided by its magnitude. The magnitude of the given vector is: =√(6)²(12)²(-4)²=√(36+144+16)=√196=14 =6/14i+12/14j-4k/14Hence B is the correct answer.",
+      "explanationImage": null,
+      "hints": [
+        "parallel"
+      ]
+    },
+    {
+      "text": "All of the following is/are scalar quantities except:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2011,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Temperature",
+          "isCorrect": false,
+          "explanation": "Temperature is a scalar quantity. It is characterized only by its magnitude, indicating the degree of hotness or coldness, and does not involve any direction."
+        },
+        {
+          "letter": "B",
+          "text": "Density",
+          "isCorrect": false,
+          "explanation": "Density is a scalar quantity, defined as mass per unit volume. It is expressed by a numerical value without direction."
+        },
+        {
+          "letter": "C",
+          "text": "Volume",
+          "isCorrect": false,
+          "explanation": "Volume is a scalar quantity that measures the three-dimensional space occupied by a substance or object. It is described solely by its magnitude."
+        },
+        {
+          "letter": "D",
+          "text": "Force",
+          "isCorrect": true,
+          "explanation": "Force is a vector quantity. It is defined by both magnitude and direction, representing a push or pull acting upon an object."
+        },
+        {
+          "letter": "E",
+          "text": "Speed",
+          "isCorrect": false,
+          "explanation": "Speed is a scalar quantity that refers to how fast an object is moving. It has magnitude but no direction."
+        }
+      ],
+      "explanation": "Scalar quantities are defined by having only magnitude, such as temperature, density, volume, and speed. These quantities do not involve any direction.Force is the exception here as it is a vector quantity, meaning it has both magnitude and direction, which is why it is not a scalar quantity.While temperature, density, volume, and speed are described without direction, force is characterized by the direction in which it acts as well as its strength.",
+      "explanationImage": null,
+      "hints": [
+        "scalar",
+        "quantities",
+        "except"
+      ]
+    },
+    {
+      "text": "R1 and R2 are two-position vectors making angles θ1 and θ2 with positive X-axis respectively. Their vector product is:[R1 = 4 cm, R2 = 3 cm , θ1 = 30 degrees , θ2 = 90 ]",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2011,
+      "options": [
+        {
+          "letter": "A",
+          "text": "12√3",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It results from a miscalculation of the sine component or swapping of angles."
+        },
+        {
+          "letter": "B",
+          "text": "6√3",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. The vector product is calculated using the formula |R1 × R2| = |R1||R2|sin(θ2 - θ1). Substituting the given values, we find |R1 × R2| = 6√3 cm, directed along the Z-axis."
+        },
+        {
+          "letter": "C",
+          "text": "6√12",
+          "isCorrect": false,
+          "explanation": "This option is incorrect due to an error in simplifying the trigonometric component or incorrect angle substitution."
+        },
+        {
+          "letter": "D",
+          "text": "12√6",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. It likely stems from an incorrect use of the trigonometric function or angle values."
+        },
+        {
+          "letter": "E",
+          "text": "3√6",
+          "isCorrect": false,
+          "explanation": "This option is incorrect and results from either a calculation error in the sine component or incorrect angle usage."
+        }
+      ],
+      "explanation": "The vector product of two vectors, R1 and R2, is given by the formula |R1 × R2| = |R1| |R2| sin(θ2 - θ1), where θ is the angle between the vectors. Here, |R1| = 4 cm, |R2| = 3 cm, θ1 = 30°, and θ2 = 90°. Thus, |R1 × R2| = 4 × 3 × sin(90° - 30°) = 4 × 3 × 1/2√3 = 6√3 cm.This calculation confirms that the correct answer is 6√3 cm, directed along the Z-axis.The incorrect options result from errors in either the trigonometric calculations or angle substitutions, leading to incorrect values.",
+      "explanationImage": null,
+      "hints": [
+        "two-position vectors"
+      ]
+    },
+    {
+      "text": "If A = 3i + 6j - 2k, then the unit vector parallel to A will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2012,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/7 (3i + 6j - 2k)",
+          "isCorrect": false,
+          "explanation": "This option is incorrect because it does not correctly calculate the magnitude of vector A."
+        },
+        {
+          "letter": "B",
+          "text": "(1/7) * (3i + 6j - 2k)",
+          "isCorrect": true,
+          "explanation": "This option is correct as it divides each component of vector A by its magnitude, 7, resulting in the unit vector."
+        },
+        {
+          "letter": "C",
+          "text": "(1/14) * (3i + 6j - 2k)",
+          "isCorrect": false,
+          "explanation": "This option incorrectly uses 14 as the magnitude, which is incorrect for vector A."
+        },
+        {
+          "letter": "D",
+          "text": "3i + 6j - 2k",
+          "isCorrect": false,
+          "explanation": "This option represents vector A itself, not the unit vector parallel to A."
+        },
+        {
+          "letter": "E",
+          "text": "7(3i + 6j - 2k)",
+          "isCorrect": false,
+          "explanation": "This option multiplies by the magnitude instead of dividing, which is incorrect for finding a unit vector."
+        }
+      ],
+      "explanation": "To find a unit vector parallel to a given vector A = 3i + 6j - 2k, first calculate the magnitude of A: |A| = √(3² + 6² + (-2)²) = √(9 + 36 + 4) = √49 = 7. The unit vector, denoted as û, is then calculated by dividing each component of A by its magnitude: û = (1/7)(3i + 6j - 2k) = (3/7)i + (6/7)j - (2/7)k. Therefore, the correct answer is (1/7) * (3i + 6j - 2k). The other options either use incorrect magnitudes or represent the vector A itself, not the unit vector.",
+      "explanationImage": null,
+      "hints": [
+        "unit",
+        "vector"
+      ]
+    },
+    {
+      "text": "Find the work done in moving an object along a straight line from (3,2,−1) to (2,−1,4) in a force field given by F=4i^−3j^​+2k^.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2013,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10 units",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given below. Determine the displacement vector (d): The object moves from an initial point P1 = (3, 2, -1) to a final point P2 = (2, -1, 4). The displacement vector is given by d = P2 - P1. d = (2 - 3)i + (-1 - 2)j + (4 - (-1))k d = -1i - 3j + 5k * Identify the force vector (F): The force field is given by F = 4i - 3j + 2k. * Calculate the work done (W): Work done (W) is the dot product of the force vector and the displacement vector: W = F ⋅ d. W = (4)(-1) + (-3)(-3) + (2)(5) W = -4 + 9 + 10 W = 15 units"
+        },
+        {
+          "letter": "B",
+          "text": "12 units",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given below. Determine the displacement vector (d): The object moves from an initial point P1 = (3, 2, -1) to a final point P2 = (2, -1, 4). The displacement vector is given by d = P2 - P1. d = (2 - 3)i + (-1 - 2)j + (4 - (-1))k d = -1i - 3j + 5k * Identify the force vector (F): The force field is given by F = 4i - 3j + 2k. * Calculate the work done (W): Work done (W) is the dot product of the force vector and the displacement vector: W = F ⋅ d. W = (4)(-1) + (-3)(-3) + (2)(5) W = -4 + 9 + 10 W = 15 units"
+        },
+        {
+          "letter": "C",
+          "text": "15 units",
+          "isCorrect": true,
+          "explanation": "Hence, all other options are rendered as incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "17 units",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given below. Determine the displacement vector (d): The object moves from an initial point P1 = (3, 2, -1) to a final point P2 = (2, -1, 4). The displacement vector is given by d = P2 - P1. d = (2 - 3)i + (-1 - 2)j + (4 - (-1))k d = -1i - 3j + 5k * Identify the force vector (F): The force field is given by F = 4i - 3j + 2k. * Calculate the work done (W): Work done (W) is the dot product of the force vector and the displacement vector: W = F ⋅ d. W = (4)(-1) + (-3)(-3) + (2)(5) W = -4 + 9 + 10 W = 15 units"
+        },
+        {
+          "letter": "E",
+          "text": "5 units",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given below. Determine the displacement vector (d): The object moves from an initial point P1 = (3, 2, -1) to a final point P2 = (2, -1, 4). The displacement vector is given by d = P2 - P1. d = (2 - 3)i + (-1 - 2)j + (4 - (-1))k d = -1i - 3j + 5k * Identify the force vector (F): The force field is given by F = 4i - 3j + 2k. * Calculate the work done (W): Work done (W) is the dot product of the force vector and the displacement vector: W = F ⋅ d. W = (4)(-1) + (-3)(-3) + (2)(5) W = -4 + 9 + 10 W = 15 units"
+        }
+      ],
+      "explanation": "Correct option is 'C'.",
+      "explanationImage": null,
+      "hints": [
+        "straight"
+      ]
+    },
+    {
+      "text": "The scalar product of (2i - j + 3k).(3i + 2j - k)?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2014,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": true,
+          "explanation": "This is correct. Calculating the scalar product: (2i-j+3k) • (3i+2j-k) = 2×3 + (-1)×2 + 3×(-1) = 6 - 2 - 3 = 1."
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Check the signs and operations used in calculating the scalar product."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "isCorrect": false,
+          "explanation": "This is incorrect. You may have miscalculated the component products or their sum."
+        },
+        {
+          "letter": "D",
+          "text": "20",
+          "isCorrect": false,
+          "explanation": "This is incorrect. This result is too high; re-evaluate the multiplication of the components."
+        },
+        {
+          "letter": "E",
+          "text": "25",
+          "isCorrect": false,
+          "explanation": "This is incorrect. This value is not consistent with the correct calculation of the scalar product."
+        }
+      ],
+      "explanation": "The scalar product (also known as the dot product) of two vectors is calculated by multiplying their corresponding components and adding the results: (2i-j+3k) • (3i+2j-k) = 2×3 + (-1)×2 + 3×(-1) = 6 - 2 - 3 = 1. Options B, C, D, and E are incorrect as they result from miscalculations in either the component multiplication or the addition of these products.",
+      "explanationImage": null,
+      "hints": [
+        "scalar",
+        "product",
+        "components"
+      ]
+    },
+    {
+      "text": "What is the projection of E = 2i-3j+6k onto the direction of vector F=i+2j+2k?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2016,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1/2",
+          "isCorrect": false,
+          "explanation": "This is incorrect because the calculations for the dot product and magnitude do not result in this value. Recheck the dot product and magnitude calculations."
+        },
+        {
+          "letter": "B",
+          "text": "8/3",
+          "isCorrect": true,
+          "explanation": "This is correct. By calculating the dot product of E and F and dividing it by the magnitude of F, we find that the projection is indeed 8/3."
+        },
+        {
+          "letter": "C",
+          "text": "3/5",
+          "isCorrect": false,
+          "explanation": "This is incorrect because the calculations for the dot product and magnitude do not result in this value. Recheck the dot product and magnitude calculations."
+        },
+        {
+          "letter": "D",
+          "text": "5/7",
+          "isCorrect": false,
+          "explanation": "This is incorrect because the calculations for the dot product and magnitude do not result in this value. Recheck the dot product and magnitude calculations."
+        },
+        {
+          "letter": "E",
+          "text": "7/9",
+          "isCorrect": false,
+          "explanation": "This is incorrect because the calculations for the dot product and magnitude do not result in this value. Recheck the dot product and magnitude calculations."
+        }
+      ],
+      "explanation": "The explanation is as follows:To find the projection of vector E onto the direction ofvector F, we can use the formula: Projection of E onto F = (E dot F) / |F| First, let's calculate the dot product of E and F: E dot F =(2)(1) + (-3)(2) + (6)(2) = 2 - 6 + 12 = 8 Next, we need to find the magnitude of vector F: |F| = √(1² + 2² + 2²) = √9 = 3 Now we can calculate the projection: Projection of E onto F= (E dot F) / |F| = 8 / 3 ≈ 2.67 Therefore, the projection of vector E onto the direction ofvector F is approximately 2.67.",
+      "explanationImage": null,
+      "hints": [
+        "projection",
+        "dot product",
+        "magnitude"
+      ]
+    },
+    {
+      "text": "Evaluate the scalar product of the following: k.( i + j) ?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": true,
+          "explanation": "This is correct because the scalar product of a vector with a perpendicular vector is zero. Vector k is perpendicular to i and j, hence their dot product is zero."
+        },
+        {
+          "letter": "B",
+          "text": "45",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The scalar product depends on the angle between vectors. Since k is perpendicular to both i and j, the product is zero, not 45."
+        },
+        {
+          "letter": "C",
+          "text": "90",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The scalar product of perpendicular vectors is zero, not 90. The angle between k and each of i and j is 90 degrees, leading to a zero dot product."
+        },
+        {
+          "letter": "D",
+          "text": "180",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Although 180 might suggest a full turn, in terms of scalar products, perpendicular vectors result in a product of zero."
+        },
+        {
+          "letter": "E",
+          "text": "360",
+          "isCorrect": false,
+          "explanation": "This is incorrect. A scalar product of 360 is not possible when vectors are perpendicular. The correct product in this scenario is zero."
+        }
+      ],
+      "explanation": "The scalar product of two vectors is computed as the product of their magnitudes and the cosine of the angle between them. In this case, vector k is perpendicular to both i and j, meaning the angle between them is 90 degrees. The cosine of 90 degrees is zero, hence the scalar product is zero. That's why option A is correct. All other options are incorrect as they do not account for the perpendicular nature of the vectors, leading to a scalar product of zero.",
+      "explanationImage": null,
+      "hints": [
+        "scalar",
+        "product",
+        "perpendicular"
+      ]
+    },
+    {
+      "text": "Two vectors S and R are such that S= 4, R= 6 and S.R= 13.5. Find the angle between S and R.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "11.77",
+          "isCorrect": false,
+          "explanation": "S.R = lSl lRl cos (theta) 13.5=(4)(6) cos (theta) Cos -1 (13.5/24) =theta Theta= 55.77 So, option C is correct."
+        },
+        {
+          "letter": "B",
+          "text": "22.99",
+          "isCorrect": false,
+          "explanation": "S.R = lSl lRl cos (theta) 13.5=(4)(6) cos (theta) Cos -1 (13.5/24) =theta Theta= 55.77 So, option C is correct."
+        },
+        {
+          "letter": "C",
+          "text": "55.77",
+          "isCorrect": true,
+          "explanation": "S.R = lSl lRl cos (theta) 13.5=(4)(6) cos (theta) Cos -1 (13.5/24) =theta Theta= 55.77 So, option C is correct."
+        },
+        {
+          "letter": "D",
+          "text": "77.81",
+          "isCorrect": false,
+          "explanation": "S.R = lSl lRl cos (theta) 13.5=(4)(6) cos (theta) Cos -1 (13.5/24) =theta Theta= 55.77 So, option C is correct."
+        },
+        {
+          "letter": "E",
+          "text": "99.18",
+          "isCorrect": false,
+          "explanation": "S.R = lSl lRl cos (theta) 13.5=(4)(6) cos (theta) Cos -1 (13.5/24) =theta Theta= 55.77 So, option C is correct."
+        }
+      ],
+      "explanation": "S.R = lSl lRl cos (theta) 13.5=(4)(6) cos (theta) Cos -1 (13.5/24) =theta Theta= 55.77 So, option C is correct. As this question is theroretical options A, B, D and , E are incorrect.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The resultant of two forces has magnitude of 20N. If one of the forces is of magnitude 20√3 N and makes an angle of 30o with the resultant then, the other forces must be of magnitude:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10√3 N",
+          "isCorrect": false,
+          "explanation": "Please refer to the main explanation text."
+        },
+        {
+          "letter": "B",
+          "text": "20 N",
+          "isCorrect": true,
+          "explanation": "To calculate the magnitude of the other force, we can use trigonometry and vector addition. The given force is 20√3 N at an angle of 30 degrees. Let's break down the force into x and y components:The x-component of the force = 20√3 * cos(30°) = 20NThe y-component of the force = 20√3 * sin(30°) = 10NSince the resultant force is 20N, and one force is already 20N, the other force should balance out the y-component, which is 10N. Therefore, the magnitude of the other force must also be 20N to cancel out the y-component and give a resultant of 20N."
+        },
+        {
+          "letter": "C",
+          "text": "20√3 N",
+          "isCorrect": false,
+          "explanation": "Please refer to the main explanation text."
+        },
+        {
+          "letter": "D",
+          "text": "10 N",
+          "isCorrect": false,
+          "explanation": "Please refer to the main explanation text."
+        },
+        {
+          "letter": "E",
+          "text": "37 N",
+          "isCorrect": false,
+          "explanation": "Please refer to the main explanation text."
+        }
+      ],
+      "explanation": "Correct option is 'B'.",
+      "explanationImage": null,
+      "hints": [
+        "two forces"
+      ]
+    },
+    {
+      "text": "Which pair includes a vector quantity and a scalar quantity respectively?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2017,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Power, speed",
+          "isCorrect": false,
+          "explanation": "Power & speed both are scalar quantities."
+        },
+        {
+          "letter": "B",
+          "text": "Work, potential energy",
+          "isCorrect": false,
+          "explanation": "Work & potential energy both are scalar quantities."
+        },
+        {
+          "letter": "C",
+          "text": "Displacement, acceleration",
+          "isCorrect": false,
+          "explanation": "Displacement and acceleration are vector quantities."
+        },
+        {
+          "letter": "D",
+          "text": "Force, kinetic energy",
+          "isCorrect": true,
+          "explanation": "Force is vector quantity and kinetic energy is scalar quantity."
+        }
+      ],
+      "explanation": "Force is vector quantity and kinetic energy is scalar quantity.",
+      "explanationImage": null,
+      "hints": [
+        "pair"
+      ]
+    },
+    {
+      "text": "If A = B + C and A, B, C have scalar magnitudes of 5, 4, 3 units respectively then the angle between vector A and vector C is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2014,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cos-1 (3/5)",
+          "isCorrect": true,
+          "explanation": "According to the explanation given below, A is the correct answer."
+        },
+        {
+          "letter": "B",
+          "text": "cos-1 (4/5)",
+          "isCorrect": false,
+          "explanation": "According to the explanation given below ,A is the correct answer."
+        },
+        {
+          "letter": "C",
+          "text": "3.14/2",
+          "isCorrect": false,
+          "explanation": "According to the explanation given below, A is the correct answer."
+        },
+        {
+          "letter": "D",
+          "text": "Sin-1 (3/4)",
+          "isCorrect": false,
+          "explanation": "According to the explanation given below ,A is the correct answer."
+        }
+      ],
+      "explanation": "Explanation is given below;",
+      "explanationImage": null,
+      "hints": [
+        "scalar"
+      ]
+    },
+    {
+      "text": "If '0.8 i + 0.5 j + ck' represents a unit vector, the value of ‘c’ is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "√0.64",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given below."
+        },
+        {
+          "letter": "B",
+          "text": "√0.66",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given below."
+        },
+        {
+          "letter": "C",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given below."
+        },
+        {
+          "letter": "D",
+          "text": "0.2",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given below."
+        },
+        {
+          "letter": "E",
+          "text": "√0.11",
+          "isCorrect": true,
+          "explanation": "The magnitude of the given vector is:|0.8i + 0.5j + ck| = √(0.8² + 0.5² + c²)For the given vector to be a unit vector, its magnitude must be 1. So,√(0.8² + 0.5² + c²) = 10.64 + 0.25 + c² = 1c² = 1 - 0.64 - 0.25 = 0.11c= √0.11Therefore, the value of c is √0.11 or approximately 0.33. Hence, the correct answer is E."
+        }
+      ],
+      "explanation": "The magnitude of the given vector is:|0.8i + 0.5j + ck| = √(0.8² + 0.5² + c²)For the given vector to be a unit vector, its magnitude must be 1. So,√(0.8² + 0.5² + c²) = 10.64 + 0.25 + c² = 1c² = 1 - 0.64 - 0.25 = 0.11c= √0.11Therefore, the value of c is √0.11 or approximately 0.33. Hence, the correct answer is E.",
+      "explanationImage": null,
+      "hints": [
+        "unit"
+      ]
+    },
+    {
+      "text": "A vector in space has _ dimension:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2017,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero",
+          "isCorrect": false,
+          "explanation": "A vector in space has three dimensions, x, y and z."
+        },
+        {
+          "letter": "B",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": "A vector in space has three dimensions, x, y and z."
+        },
+        {
+          "letter": "C",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "A vector in space has three dimensions, x, y and z."
+        },
+        {
+          "letter": "D",
+          "text": "3",
+          "isCorrect": true,
+          "explanation": "A vector in space has three dimensions, x, y and z."
+        }
+      ],
+      "explanation": "The \"three\" dimensions are x, y, and z. Three-dimensional space (also: 3D space, 3-space or, rarely, tri-dimensional space) is a geometric setting in which three values (called parameters) are required to determine the position of an element (i.e., point). This is the informal meaning of the term dimension.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A body will be in translational equilibrium if the vector sum of all the forces acting on it is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2017,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "A body possesses translational equilibrium when no net force is acting on the body."
+        },
+        {
+          "letter": "B",
+          "text": "Min",
+          "isCorrect": false,
+          "explanation": "The net force of the body must be zero for the body in equilibrium."
+        },
+        {
+          "letter": "C",
+          "text": "Max",
+          "isCorrect": false,
+          "explanation": "The net force of the body must be zero for the body in equilibrium."
+        },
+        {
+          "letter": "D",
+          "text": "Equal",
+          "isCorrect": false,
+          "explanation": "The net force of the body must be zero for the body in equilibrium."
+        }
+      ],
+      "explanation": "The vector sum of all of the forces acting on a body is a single force called the net force. If the net force is equal to zero, the object is said to be in equilibrium. The law of equilibrium states that the sum of all forces/torques on a body has to be \"Zero\" for the body to be considered in equilibrium based on it the body is moving or not, the equilibrium is classified as static or dynamic.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The scalar or Dot product of Vectors (3i - 2j + 4k) and (2i + 2j - 3k) is _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-9",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "-10",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "-11",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "10",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "(3)(2)+(-2)(2)+(4)(-3) 6-4-12 =-10",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The vector product of two vectors A and B is _ vectors A and B.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2019,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Not equal to the product of magnitudes of",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The vector product, or cross product, results in a vector, not a scalar, and its magnitude is given by |A||B|sin(θ), not just the product of magnitudes."
+        },
+        {
+          "letter": "B",
+          "text": "In the plane parallel to",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The cross product results in a vector that is perpendicular to, not parallel to, the plane containing the original vectors."
+        },
+        {
+          "letter": "C",
+          "text": "Perpendicular to the plane containing",
+          "isCorrect": true,
+          "explanation": "Correct! The cross product of two vectors A and B results in a vector that is perpendicular to the plane containing A and B, as determined by the right-hand rule."
+        },
+        {
+          "letter": "D",
+          "text": "Less in magnitude than the product of magnitudes of",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. The magnitude of the cross product is based on |A||B|sin(θ), and it can be less than, equal to, or greater than the simple product of magnitudes, depending on the angle between the vectors."
+        }
+      ],
+      "explanation": "The vector product, or cross product, of two vectors A and B results in a vector perpendicular to the plane containing A and B. This is determined using the right-hand rule, which helps visualize the direction of the resulting vector. The magnitude of the cross product is |A × B| = |A||B|sin(θ), where θ is the angle between A and B. Option C correctly identifies the perpendicular nature of the resulting vector. Option A is incorrect because it misrepresents the nature of the cross product as a scalar. Option B is incorrect because it misinterprets the orientation as parallel rather than perpendicular. Option D is incorrect because it inaccurately describes the magnitude relationship without considering the sine component.",
+      "explanationImage": null,
+      "hints": [
+        "vector",
+        "product",
+        "plane"
+      ]
+    },
+    {
+      "text": "A constant force F= 2i + 3j +4k is applied on a body. What will be the work done to move the body 5m in the z-direction?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "This is incorrect because there is a component of force in the z-direction, which means work is done."
+        },
+        {
+          "letter": "B",
+          "text": "10 J",
+          "isCorrect": false,
+          "explanation": "This is incorrect because the calculation of work done involves multiplying the force component in the z-direction by the displacement, which does not yield 10 J."
+        },
+        {
+          "letter": "C",
+          "text": "45 J",
+          "isCorrect": false,
+          "explanation": "This is incorrect because it assumes the entire magnitude of the force is applied in the z-direction, which is not the case."
+        },
+        {
+          "letter": "D",
+          "text": "20 J",
+          "isCorrect": true,
+          "explanation": "This is correct. The work done is calculated by multiplying the force component in the z-direction (4 N) by the displacement (5 m), resulting in 20 J."
+        }
+      ],
+      "explanation": "We know that work done = F x dwhere F is the force and d is the displacement in the direction of the force.The question statement says a constant force, F = 2i + 3j + 4k is applied. The component of force in the z-direction (direction of displacement of the body) = 4NTherefore, Work done = 4 x 5This equals to 20 J.",
+      "explanationImage": null,
+      "hints": [
+        "constant force",
+        "z-direction"
+      ]
+    },
+    {
+      "text": "Displacement of sun with respect to earth is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "r",
+          "isCorrect": true,
+          "explanation": "Correct. At any given instant, the displacement of the Sun with respect to Earth is approximately r, which is the radius of Earth's nearly circular orbit. Displacement is the shortest path between two points."
+        },
+        {
+          "letter": "B",
+          "text": "2πr",
+          "isCorrect": false,
+          "explanation": "Incorrect. 2πr is the circumference of the Earth's orbit, representing the total path length of one full revolution, not the displacement at any specific moment."
+        },
+        {
+          "letter": "C",
+          "text": "2r",
+          "isCorrect": false,
+          "explanation": "Incorrect. 2r might represent the displacement if the Earth moved directly across its orbit from one side to the opposite side, but this is not generally the case for displacement at any given moment."
+        },
+        {
+          "letter": "D",
+          "text": "r²",
+          "isCorrect": false,
+          "explanation": "Incorrect. r² represents the square of the radius, which is not related to displacement. Displacement is a vector quantity that involves distance and direction, not squared values."
+        }
+      ],
+      "explanation": "The correct answer is r. Displacement is a vector quantity that describes the shortest path between two points, taking into account direction. At any given moment, the displacement of the Sun with respect to the Earth is approximately the radius of Earth's nearly circular orbit, r. The other options are incorrect because they do not accurately describe displacement: 2πr is the path length of a full orbit, 2r is only applicable in a specific situation not generally true at any moment, and r² is unrelated to displacement.",
+      "explanationImage": null,
+      "hints": [
+        "Displacement"
+      ]
+    },
+    {
+      "text": "Work is a:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vector quantity",
+          "isCorrect": false,
+          "explanation": "Work is a scalar quantity having only magnitude."
+        },
+        {
+          "letter": "B",
+          "text": "Scalar quantity",
+          "isCorrect": true,
+          "explanation": "Work has only a magnitude but no direction. The formula for work is written as a dot product of force and displacement. Therefore, work is a scalar quantity."
+        },
+        {
+          "letter": "C",
+          "text": "Sometimes scalar sometimes vector",
+          "isCorrect": false,
+          "explanation": "Works is a scalar quantity having only magnitude."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "As one of the above options is correct, this option is not correct."
+        }
+      ],
+      "explanation": "Work has only a magnitude but no direction. The formula for work is written as a dot product of force and displacement. Therefore, work is a scalar quantity.",
+      "explanationImage": null,
+      "hints": [
+        "Work"
+      ]
+    },
+    {
+      "text": "Which quantity is a scalar quantity?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Angular displacement",
+          "isCorrect": false,
+          "explanation": "Displacement is a vector quantity as it has both magnitude and direction associated with it."
+        },
+        {
+          "letter": "B",
+          "text": "Angular velocity",
+          "isCorrect": false,
+          "explanation": "Velocity is a vector quantity as it has both magnitude and direction associated with it."
+        },
+        {
+          "letter": "C",
+          "text": "Angular acceleration",
+          "isCorrect": false,
+          "explanation": "Acceleration is a vector quantity as it has both magnitude and direction associated with it."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": true,
+          "explanation": "As none of the above options is correct, this option is correct."
+        }
+      ],
+      "explanation": "Displacement, velocity and acceleration are vector quantities as they have magnitude and direction associated with them.",
+      "explanationImage": null,
+      "hints": [
+        "scalar"
+      ]
+    },
+    {
+      "text": "Instantaneous velocity is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Always positive",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given below. Instantaneous velocity is the velocity of an object at a specific instant in time. It is the rate of change of the object's displacement with respect to time at that precise moment. In other words, it is the slope of the object's position-time graph at a particular time point.Mathematically, the instantaneous velocity (v) of an object at time t can be expressed as the derivative of its displacement (s) with respect to time (t):v(t) = ∆s/∆twhere:v(t) = Instantaneous velocity at time t∆s = Infinitesimal change in displacement (distance traveled) during an infinitesimally short time intervaldt = Infinitesimal change in time during that same infinitesimally short time intervalIf we want to know the instantaneous velocity at a specific moment t₀, we take the limit of the average velocity over a shorter and shorter time interval Δt approaching zero:If we want to know the instantaneous velocity at a specific moment t₀, we take the limit of the average velocity over a shorter and shorter time interval Δt approaching zero:v(t₀) = lim(Δt → 0) Δs / ΔtAs the time interval Δt becomes infinitesimally small (Δt → 0), we get the instantaneous velocity at time t₀.In summary, instantaneous velocity gives us the exact velocity of an object at an exact point in time, taking into account any changes in speed and direction that may be occurring continuously during motion. It is a fundamental concept in calculus and physics, as it allows us to study the behavior of objects with precision as time changes."
+        },
+        {
+          "letter": "B",
+          "text": "Always negative",
+          "isCorrect": false,
+          "explanation": "This option is incorrect according to the explanation given below. Instantaneous velocity is the velocity of an object at a specific instant in time. It is the rate of change of the object's displacement with respect to time at that precise moment. In other words, it is the slope of the object's position-time graph at a particular time point.Mathematically, the instantaneous velocity (v) of an object at time t can be expressed as the derivative of its displacement (s) with respect to time (t):v(t) = ∆s/∆twhere:v(t) = Instantaneous velocity at time t∆s = Infinitesimal change in displacement (distance traveled) during an infinitesimally short time intervaldt = Infinitesimal change in time during that same infinitesimally short time intervalIf we want to know the instantaneous velocity at a specific moment t₀, we take the limit of the average velocity over a shorter and shorter time interval Δt approaching zero:If we want to know the instantaneous velocity at a specific moment t₀, we take the limit of the average velocity over a shorter and shorter time interval Δt approaching zero:v(t₀) = lim(Δt → 0) Δs / ΔtAs the time interval Δt becomes infinitesimally small (Δt → 0), we get the instantaneous velocity at time t₀.In summary, instantaneous velocity gives us the exact velocity of an object at an exact point in time, taking into account any changes in speed and direction that may be occurring continuously during motion. It is a fundamental concept in calculus and physics, as it allows us to study the behavior of objects with precision as time changes."
+        },
+        {
+          "letter": "C",
+          "text": "Positive and negative",
+          "isCorrect": true,
+          "explanation": "Instantaneous velocity is the velocity of an object at a specific instant in time. It is the rate of change of the object's displacement with respect to time at that precise moment. In other words, it is the slope of the object's position-time graph at a particular time point.Mathematically, the instantaneous velocity (v) of an object at time t can be expressed as the derivative of its displacement (s) with respect to time (t):v(t) = ∆s/∆twhere:v(t) = Instantaneous velocity at time t∆s = Infinitesimal change in displacement (distance traveled) during an infinitesimally short time intervaldt = Infinitesimal change in time during that same infinitesimally short time intervalIf we want to know the instantaneous velocity at a specific moment t₀, we take the limit of the average velocity over a shorter and shorter time interval Δt approaching zero:If we want to know the instantaneous velocity at a specific moment t₀, we take the limit of the average velocity over a shorter and shorter time interval Δt approaching zero:v(t₀) = lim(Δt → 0) Δs / ΔtAs the time interval Δt becomes infinitesimally small (Δt → 0), we get the instantaneous velocity at time t₀.In summary, instantaneous velocity gives us the exact velocity of an object at an exact point in time, taking into account any changes in speed and direction that may be occurring continuously during motion. It is a fundamental concept in calculus and physics, as it allows us to study the behavior of objects with precision as time changes."
+        },
+        {
+          "letter": "D",
+          "text": "Not enough info",
+          "isCorrect": false,
+          "explanation": "This option is incorrect as the correct one is available."
+        }
+      ],
+      "explanation": "Instantaneous velocity is the velocity of an object at a specific instant in time. It is the rate of change of the object's displacement with respect to time at that precise moment. In other words, it is the slope of the object's position-time graph at a particular time point.Mathematically, the instantaneous velocity (v) of an object at time t can be expressed as the derivative of its displacement (s) with respect to time (t):v(t) = ∆s/∆twhere:v(t) = Instantaneous velocity at time t∆s = Infinitesimal change in displacement (distance traveled) during an infinitesimally short time intervaldt = Infinitesimal change in time during that same infinitesimally short time intervalIf we want to know the instantaneous velocity at a specific moment t₀, we take the limit of the average velocity over a shorter and shorter time interval Δt approaching zero:If we want to know the instantaneous velocity at a specific moment t₀, we take the limit of the average velocity over a shorter and shorter time interval Δt approaching zero:v(t₀) = lim(Δt → 0) Δs / ΔtAs the time interval Δt becomes infinitesimally small (Δt → 0), we get the instantaneous velocity at time t₀.In summary, instantaneous velocity gives us the exact velocity of an object at an exact point in time, taking into account any changes in speed and direction that may be occurring continuously during motion. It is a fundamental concept in calculus and physics, as it allows us to study the behavior of objects with precision as time changes.",
+      "explanationImage": null,
+      "hints": [
+        "Instantaneous"
+      ]
+    },
+    {
+      "text": "If a rotating body is moving anti-clockwise, the direction of angular velocity is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Towards the center",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Angular velocity is not directed towards the center; it is perpendicular to the plane of rotation."
+        },
+        {
+          "letter": "B",
+          "text": "Along the linear velocity",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Linear velocity is tangent to the path of the rotating body, while angular velocity is perpendicular to the plane of rotation."
+        },
+        {
+          "letter": "C",
+          "text": "Away from the center",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Angular velocity does not point away from the center; it is perpendicular to the plane of rotation."
+        },
+        {
+          "letter": "D",
+          "text": "Perpendicular to the plane of rotation, pointing towards you",
+          "isCorrect": true,
+          "explanation": "This is correct. For a body rotating anti-clockwise, the right-hand rule indicates that the angular velocity vector points perpendicular to the plane of rotation, directed towards the observer."
+        }
+      ],
+      "explanation": "The direction of the angular velocity is along the axis of rotation. For an object rotating clockwise, the angular velocity points away from you along the axis of rotation. For an object rotating counterclockwise, the angular velocity points toward you along the axis of rotation.",
+      "explanationImage": null,
+      "hints": [
+        "rotating",
+        "anti-clockwise"
+      ]
+    },
+    {
+      "text": "The displacement has _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Magnitude only",
+          "isCorrect": false,
+          "explanation": "Magnitude only is incorrect because displacement does not consist of magnitude or amount of the change in position only, but it also includes information about the direction of the change."
+        },
+        {
+          "letter": "B",
+          "text": "Direction only",
+          "isCorrect": false,
+          "explanation": "Direction only is also incorrect because displacement does not just include the direction of the change in position, but it also includes information about the magnitude of the change."
+        },
+        {
+          "letter": "C",
+          "text": "Magnitude and direction",
+          "isCorrect": true,
+          "explanation": "This is because displacement is a vector quantity. A vector quantity has both magnitude and direction."
+        },
+        {
+          "letter": "D",
+          "text": "No unit is required",
+          "isCorrect": false,
+          "explanation": "No unit is required is incorrect because displacement has units of length (e.g. meters, feet, etc.), just like other vector quantities such as velocity and acceleration."
+        }
+      ],
+      "explanation": "Option A) Magnitude only is incorrect because displacement does not just include the magnitude or amount of the change in position, but also includes information about the direction of the change.Option B) Direction only is also incorrect because displacement does not just include the direction of the change in position, but also includes information about the magnitude of the change.Option C) This is because displacement is a vector quantity. A vector quantity has both magnitude and direction. Option D) No unit is required is incorrect because displacement has units of length (e.g. meters, feet, etc.), just like other vector quantities such as velocity and acceleration.",
+      "explanationImage": null,
+      "hints": [
+        "displacement"
+      ]
+    },
+    {
+      "text": "Displacement is a:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tensor",
+          "isCorrect": false,
+          "explanation": "Tensor is not correct because tensors are mathematical objects that can describe physical quantities that have multiple directions or components, such as stress or strain, but displacement has only one direction."
+        },
+        {
+          "letter": "B",
+          "text": "Vector",
+          "isCorrect": true,
+          "explanation": "It has both direction and magnitude."
+        },
+        {
+          "letter": "C",
+          "text": "Scalar",
+          "isCorrect": false,
+          "explanation": "Scalar is not correct because scalar quantities have only magnitude and no direction, while displacement has both magnitude and direction."
+        },
+        {
+          "letter": "D",
+          "text": "None of these options is correct",
+          "isCorrect": false,
+          "explanation": "None of these option is not correct because the correct answer is B) Vector."
+        }
+      ],
+      "explanation": "Option A) Tensor is not correct because tensors are mathematical objects that can describe physical quantities that have multiple directions or components, such as stress or strain, but displacement has only one direction.Option B) It has both direction and magnitude. Option C) Scalar is not correct because scalar quantities have only magnitude and no direction, while displacement has both magnitude and direction.Option D) None of these options is not correct because the correct answer is B) Vector.",
+      "explanationImage": null,
+      "hints": [
+        "Displacement"
+      ]
+    },
+    {
+      "text": "Consider a car is travelling for one hour. Which of the following trips have the same average velocity?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Car travels 20 km due east and car travels 70 km due east",
+          "isCorrect": false,
+          "explanation": "Option 1: * Car 1: 20 km east * Car 2: 70 km east * Net Displacement: Car 1 (20 km), Car 2 (70 km) - Different"
+        },
+        {
+          "letter": "B",
+          "text": "Car travels 40 km due east, then turns around and travels 20 km due west and a car that travels 20 km due east",
+          "isCorrect": true,
+          "explanation": "Option 2: * Car 1: 40 km east - 20 km west = 20 km east * Car 2: 20 km east * Net Displacement: Car 1 (20 km), Car 2 (20 km) - Same"
+        },
+        {
+          "letter": "C",
+          "text": "Car travels 70 km due east and a car that travels 40 km due east, then turns around and travels 20 km due west",
+          "isCorrect": false,
+          "explanation": "Option 3: * Car 1: 70 km east * Car 2: 40 km east - 20 km west = 20 km east * Net Displacement: Car 1 (70 km), Car 2 (20 km) - Different"
+        },
+        {
+          "letter": "D",
+          "text": "Car travels 30 km due west, then turns around and travels 30 km due east and a car that travels 40 km due east, then turns around and travels 20 km due west",
+          "isCorrect": false,
+          "explanation": "Option 4: * Car 1: 30 km west + 30 km east = 0 km * Car 2: 40 km east - 20 km west = 20 km east * Net Displacement: Car 1 (0 km), Car 2 (20 km) - Different"
+        }
+      ],
+      "explanation": "Average velocity = total displacement/total timeWe know that displacement is a vector quantity. Therefore, let's assume that the west direction is negative and the east direction is positive throughout this question.For option B:Average velocity of the 1st car = {+40 + (-20)}/1 = 20 km/hrAverage velocity of the 2nd car = +20/1 = 20 km/hrThus B is the correct option.",
+      "explanationImage": null,
+      "hints": [
+        "average velocity"
+      ]
+    },
+    {
+      "text": "Velocity is a:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tensor",
+          "isCorrect": false,
+          "explanation": "A tensor is a quantity that is neither a vector nor a scalar. But velocity has both a magnitude and a direction. Hence, this option is wrong."
+        },
+        {
+          "letter": "B",
+          "text": "Vector",
+          "isCorrect": true,
+          "explanation": "A vector is a quantity that has both magnitude and direction. Velocity also has a magnitude and a definite direction. Hence, this option is the correct one."
+        },
+        {
+          "letter": "C",
+          "text": "Scalar",
+          "isCorrect": false,
+          "explanation": "A scalar is a quantity that only has magnitude, but velocity has direction. Hence, this option is wrong."
+        },
+        {
+          "letter": "D",
+          "text": "None of these options are correct",
+          "isCorrect": false,
+          "explanation": "As option B is correct, this option is incorrect."
+        }
+      ],
+      "explanation": "Velocity is a vector quantity; it is the speed of an object in a particular direction. A quantity that has magnitude and acts in a particular direction is described as a vector.",
+      "explanationImage": null,
+      "hints": [
+        "Velocity"
+      ]
+    },
+    {
+      "text": "Which unit is used in the measurement of Displacement?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "m",
+          "isCorrect": true,
+          "explanation": "Displacement is measured in metres (m). Hence, this option is the correct option."
+        },
+        {
+          "letter": "B",
+          "text": "m/s",
+          "isCorrect": false,
+          "explanation": "m/s is the unit of velocity. Hence, this option is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "1/s",
+          "isCorrect": false,
+          "explanation": "1/s is the unit of frequency. Hence, this option is incorrect."
+        },
+        {
+          "letter": "D",
+          "text": "N",
+          "isCorrect": false,
+          "explanation": "Force is measured in newtons (N), so this option is incorrect."
+        }
+      ],
+      "explanation": "The unit used in the measurement of displacement is meters. So option A is correct.",
+      "explanationImage": null,
+      "hints": [
+        "unit"
+      ]
+    },
+    {
+      "text": "Vector is quantity that ------.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Has direction",
+          "isCorrect": false,
+          "explanation": "While it is true that a vector has a direction, this option is incomplete as it does not account for the magnitude that is also essential to define a vector. Therefore, this option alone is not sufficient to describe a vector."
+        },
+        {
+          "letter": "B",
+          "text": "Has magnitude",
+          "isCorrect": false,
+          "explanation": "This option highlights that a vector possesses magnitude; however, it fails to mention that direction is equally important. Therefore, this option does not fully define a vector."
+        },
+        {
+          "letter": "C",
+          "text": "Follow rules of vector addition",
+          "isCorrect": false,
+          "explanation": "This option correctly identifies that vectors must adhere to the rules of vector addition, which include properties such as commutativity and associativity. These rules are vital in understanding how vectors interact and combine, making this option a strong candidate for the correct answer."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": "This option encompasses all the characteristics of a vector—having direction, having magnitude, and following rules of vector addition. Since a vector indeed possesses all these qualities, this option is correct."
+        }
+      ],
+      "explanation": "A vector is defined as a quantity that has both magnitude and direction. In addition to these fundamental properties, vectors also follow specific rules for addition that allow them to be combined in a consistent manner. Option A is incomplete because it only mentions direction. Option B is similarly inadequate, as it only refers to magnitude. Option C, while accurate in its description of vector addition, does not fully capture the essence of what a vector is, as it neglects to mention magnitude and direction. Therefore, the correct answer is Option D, which states that a vector possesses all these properties.",
+      "explanationImage": null,
+      "hints": [
+        "Vector",
+        "Quantity"
+      ]
+    },
+    {
+      "text": "The acceleration is a _.",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2021,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Vector quantity",
+          "isCorrect": true,
+          "explanation": "This option is correct because Acceleration is a vector quantity. This means that you include direction while describing acceleration."
+        },
+        {
+          "letter": "B",
+          "text": "Scalar quantity",
+          "isCorrect": false,
+          "explanation": "This option is wrong because a quantity which does not depend on direction is called a scalar quantity, and acceleration has a direction always."
+        },
+        {
+          "letter": "C",
+          "text": "Dimensionless quantity",
+          "isCorrect": false,
+          "explanation": "This option is wrong because a dimensionless quantity is a physical quantity which has no physical units."
+        },
+        {
+          "letter": "D",
+          "text": "None of these",
+          "isCorrect": false,
+          "explanation": "This is incorrect because option A is the correct answer."
+        }
+      ],
+      "explanation": "Correct option is A.Acceleration is a vector quantity. This means that you include direction while describing acceleration. Slowing down means that you are decreasing your velocity, which means there is a negative change in velocity and therefore a negative acceleration.",
+      "explanationImage": null,
+      "hints": [
+        "acceleration"
+      ]
+    },
+    {
+      "text": "Two forces, 5 N and 10 N are acting at ‘O’ and ‘P’ respectively on a uniform rod of 100 cm is suspended at the position of center of gravity 50 cm mark as shown in the figure. What is position of P on meter rod?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2014,
+      "options": [
+        {
+          "letter": "A",
+          "text": "80 cm",
+          "isCorrect": false,
+          "explanation": "A) 80 cm: If P were at 80 cm, the distance from the pivot would be 80 - 50 = 30 cm (0.3 m). The clockwise torque would be 0.3 \\text{ m} \\times 10 \\text{ N} = 3 \\text{ Nm}. This would not balance the 2.5 Nm counter-clockwise torque."
+        },
+        {
+          "letter": "B",
+          "text": "75 cm",
+          "isCorrect": true,
+          "explanation": "For the rod to be balanced, the clockwise moment must be equal to the anticlockwise moment.5×50=10×xx=25cm 50+25=75cm.250/10=xAs it is a numerical, it can have only one possible answer."
+        },
+        {
+          "letter": "C",
+          "text": "70 cm",
+          "isCorrect": false,
+          "explanation": "B) 70 cm: If P were at 70 cm, the distance from the pivot would be 70 - 50 = 20 cm (0.2 m). The clockwise torque would be 0.2 \\text{ m} \\times 10 \\text{ N} = 2 \\text{ Nm}. This would not balance the 2.5 Nm counter-clockwise torque."
+        },
+        {
+          "letter": "D",
+          "text": "65 cm",
+          "isCorrect": false,
+          "explanation": "D) 65 cm: If P were at 65 cm, the distance from the pivot would be 65 - 50 = 15 cm (0.15 m). The clockwise torque would be 0.15 \\text{ m} \\times 10 \\text{ N} = 1.5 \\text{ Nm}. This would not balance the 2.5 Nm counter-clockwise torque."
+        }
+      ],
+      "explanation": "For the rod to be balanced, the clockwise moment must be equal to the anticlockwise moment.5×50=10×xx=25cm 50+25=75cm.250/10=xAs it is a numerical, it can have only one possible answer.",
+      "explanationImage": null,
+      "hints": [
+        "uniform"
+      ]
+    },
+    {
+      "text": "If x-component of a vector is √3 and y-component is 1, then the angle made by the vector along x-axis is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2017,
+      "options": [
+        {
+          "letter": "A",
+          "text": "60O",
+          "isCorrect": false,
+          "explanation": "We find out the angle usingtan = x component/ycomponentso tan = √3/1 and then we inverse tan to find the angletherefore the angle = tan-1 (1/√3)= 30 degrees.As it is numerical, it can have only one possible answer."
+        },
+        {
+          "letter": "B",
+          "text": "30O",
+          "isCorrect": true,
+          "explanation": "We find out the angle usingtan = x component/ycomponentso tan = √3/1 and then we inverse tan to find the angletherefore the angle = tan-1 (1/√3)= 30 degrees.As it is numerical, it can have only one possible answer."
+        },
+        {
+          "letter": "C",
+          "text": "45O",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. We find out the angle usingtan = x component/ycomponentso tan = √3/1 and then we inverse tan to find the angletherefore the angle = tan-1 (1/√3)= 30 degrees."
+        },
+        {
+          "letter": "D",
+          "text": "90O",
+          "isCorrect": false,
+          "explanation": "This option is incorrect. We find out the angle usingtan = x component/ycomponentso tan = √3/1 and then we inverse tan to find the angletherefore the angle = tan-1 (1/√3)= 30 degrees."
+        }
+      ],
+      "explanation": "We find out the angle usingtan = x component/ycomponentso tan = √3/1 and then we inverse tan to find the angletherefore the angle = tan-1 (1/√3)= 30 degrees.As it is numerical, it can have only one possible answer.",
+      "explanationImage": null,
+      "hints": [
+        "along x-axis"
+      ]
+    },
+    {
+      "text": "The vectors A and B are such that |A + B| = |A – B|, then the angle between the two vectors is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2013,
+      "options": [
+        {
+          "letter": "A",
+          "text": "00",
+          "isCorrect": false,
+          "explanation": "Cosine of 90° is zero, which does not apply in this scenario."
+        },
+        {
+          "letter": "B",
+          "text": "600",
+          "isCorrect": false,
+          "explanation": "Incorrect, as the angle between the vectors is not 60° based on the given information."
+        },
+        {
+          "letter": "C",
+          "text": "900",
+          "isCorrect": true,
+          "explanation": "Correct! By using the properties of vector magnitudes and the given equation, the angle between the vectors A and B is indeed 90°."
+        },
+        {
+          "letter": "D",
+          "text": "1800",
+          "isCorrect": false,
+          "explanation": "Not the correct answer. The angle between the vectors A and B is not 180° as per the equation provided."
+        }
+      ],
+      "explanation": "Consider the angle between A and B as ∅. The resultant of A + B vector is R = √(A²+B²+2AB cos∅) and the resultant of A - B vector is R = √(A²+B²-2AB cos∅). Given |A+B| = |A-B|, we can equate the expressions and solve for cos∅ to find ∅ = 90°. This is the correct angle between the vectors based on the provided equation.The other options are incorrect because they do not align with the properties of vector magnitudes and the equation given. Option A and D provide angles that are not supported by the equation, and Option B is based on a misinterpretation of the cosine function in this context.",
+      "explanationImage": null,
+      "hints": [
+        "angle",
+        "vectors",
+        "resultant"
+      ]
+    },
+    {
+      "text": "Numbers are expressed in a standard form called scientific notation, which employs powers of:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Measurements",
+      "year": 2015,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": "Numbers in scientific notation use powers of 2 when represented in binary format, which is commonly used in computer systems and digital technology."
+        },
+        {
+          "letter": "B",
+          "text": "8",
+          "isCorrect": false,
+          "explanation": "Numbers in scientific notation can be expressed using powers of 8 when represented in octal format, though this is less common than base 10 or binary."
+        },
+        {
+          "letter": "C",
+          "text": "10",
+          "isCorrect": true,
+          "explanation": "A number is written in scientific notation when a number between 1 and 10 is multiplied by a power of 10."
+        },
+        {
+          "letter": "D",
+          "text": "16",
+          "isCorrect": false,
+          "explanation": "Numbers in scientific notation can be represented using powers of 16 when expressed in hexadecimal format, which is commonly used in computer programming and digital systems."
+        }
+      ],
+      "explanation": "A number is written in scientific notation when a number between 1 and 10 is multiplied by a power of 10.So the correct option is C.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "If A + B= 7i^ +7k^ and A-B= -i^ + k^, then the magnitude of A will be:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "-1",
+          "isCorrect": false,
+          "explanation": "This option does not match the calculated magnitude of A, which is 5. Option a is incorrect."
+        },
+        {
+          "letter": "B",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": "This option does not match the calculated magnitude of A, which is 5. Option b is incorrect."
+        },
+        {
+          "letter": "C",
+          "text": "5",
+          "isCorrect": true,
+          "explanation": "Given: A + B = 7i^ + 7k^ A - B = -i^ + k^ To find the magnitude of A, we need to eliminate B from these equations. We can do this by adding the two equations together: (A + B) + (A - B) = (7i^ + 7k^) + (-i^ + k^) Simplifying the left side and right side separately: 2A = 6i^ + 8k^ Dividing both sides by 2: A = 3i^ + 4k^ Now we have the vector A. To find its magnitude, we can use the formula: |A| = √(Ax^2 + Ay^2 + Az^2) In this case, Ax = 3, Ay = 0, and Az = 4. Substituting these values into the formula: |A| = √(3^2 + 0^2 + 4^2) = √(9 + 0 + 16) = √25 = 5 Therefore, the magnitude of A is 5. Hence, option C is the correct answer."
+        },
+        {
+          "letter": "D",
+          "text": "7",
+          "isCorrect": false,
+          "explanation": "This option does not match the calculated magnitude of A, which is 5. Option d is incorrect."
+        }
+      ],
+      "explanation": "Given:A + B = 7i^ + 7k^A - B = -i^ + k^To find the magnitude of A, we need to eliminate B from these equations. We can do this by adding the two equations together:(A + B) + (A - B) = (7i^ + 7k^) + (-i^ + k^)Simplifying the left side and right side separately:2A = 6i^ + 8k^Dividing both sides by 2:A = 3i^ + 4k^Now we have the vector A. To find its magnitude, we can use the formula:|A| = √(Ax^2 + Ay^2 + Az^2)Since i^,j^, and,k^ are the unit vectors for x,y, and z coordinate planes respectively.In this case, Ax = 3, Ay = 0, and Az = 4. Substituting these values into the formula:|A| = √(3^2 + 0^2 + 4^2)= √(9 + 0 + 16)= √25= 5Therefore, the magnitude of A is 5. Hence, option C is the correct answer.",
+      "explanationImage": null,
+      "hints": [
+        "A + B",
+        "A - B",
+        "magnitude of A"
+      ]
+    },
+    {
+      "text": "If two forces F1 and F2 act on a body and are balanced by a frictional force F3 so that the body is in equilibrium, then which of the following diagrams correctly represents the sum of vectors?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "A",
+          "isCorrect": false,
+          "explanation": "The three forces F₁, F₂, and F₃ are arranged tail-to-tail and pointing in different directions.There is no head-to-tail connection among the vectors.This does not represent vector addition or a closed triangle.So, it does not satisfy equilibrium condition.Conclusion: Incorrect"
+        },
+        {
+          "letter": "B",
+          "text": "B",
+          "isCorrect": false,
+          "explanation": "The vectors F₁ and F₂ are arranged head-to-tail.However, F₃ is also pointing outward rather than completing the triangle.The triangle does not close, and the resultant of F₁ + F₂ is not balanced by F₃.Again, this setup does not reflect zero net force.Conclusion: Incorrect"
+        },
+        {
+          "letter": "C",
+          "text": "C",
+          "isCorrect": false,
+          "explanation": "F₁ and F₂ are placed head-to-tail, but F₃ is pointing in the same general direction as the others.It fails to act as the opposing force to the resultant of F₁ + F₂.Therefore, it doesn’t complete the vector triangle properly.No equilibrium is achieved here either.Conclusion: Incorrect"
+        },
+        {
+          "letter": "D",
+          "text": "D",
+          "isCorrect": true,
+          "explanation": "This is the correct vector representation.F₁ and F₂ are placed head-to-tail, and then F₃ starts from the head of F₂ and ends at the tail of F₁, forming a closed triangle.This means:F₁ + F₂ + F₃ = 0, indicating the body is in perfect equilibrium.The frictional force F₃ is correctly shown as the balancing force against the resultant of F₁ and F₂.Conclusion: Correct"
+        }
+      ],
+      "explanation": "This is the correct vector representation.F₁ and F₂ are placed head-to-tail, and then F₃ starts from the head of F₂ and ends at the tail of F₁, forming a closed triangle.This means:F₁ + F₂ + F₃ = 0, indicating the body is in perfect equilibrium.The frictional force F₃ is correctly shown as the balancing force against the resultant of F₁ and F₂.Conclusion: Correct",
+      "explanationImage": null,
+      "hints": [
+        "equilibrium"
+      ]
+    },
+    {
+      "text": "Which pair includes a vector quantity and a scalar quantity respectively?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2023,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Force, kinetic energy",
+          "isCorrect": true,
+          "explanation": "This is the correct answer. Force is a vector quantity because it has both magnitude (size) and direction. Kinetic energy is a scalar quantity because it has only magnitude and does not depend on direction"
+        },
+        {
+          "letter": "B",
+          "text": "Velocity,acceleration",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Acceleration, displacement",
+          "isCorrect": false,
+          "explanation": "This is incorrect. Both acceleration and displacement are vector quantities, as they have both magnitude and direction."
+        },
+        {
+          "letter": "D",
+          "text": "mass and momentum",
+          "isCorrect": false,
+          "explanation": "This is incorrect."
+        }
+      ],
+      "explanation": "This is the correct answer. Force is a vector quantity because it has both magnitude (size) and direction. Kinetic energy is a scalar quantity because it has only magnitude and does not depend on direction",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Two forces equal in magnitude but opposite in direction and not acting along the same line constitute a couple",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2023,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Independent of the location of origin",
+          "isCorrect": false,
+          "explanation": "This is the correct answer. A couple, consisting of two equal and opposite forces that do not act along the same line, produces a pure torque. The magnitude of this torque is independent of the location of the origin chosen to calculate it. This means that the rotational effect of a couple is the same regardless of where you measure it from."
+        },
+        {
+          "letter": "B",
+          "text": "Dependent on the location of origin",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The torque produced by a couple is independent of the location of the origin."
+        },
+        {
+          "letter": "C",
+          "text": "Always produces a net force",
+          "isCorrect": false,
+          "explanation": "This is incorrect. A couple produces a net torque, not a net force. The net force of a couple is always zero."
+        },
+        {
+          "letter": "D",
+          "text": "Always produces a net torque",
+          "isCorrect": false,
+          "explanation": "This is correct. A couple always produces a net torque, which is a rotational force. The magnitude of this torque is equal to the product of one of the forces and the perpendicular distance between their lines of action."
+        },
+        {
+          "letter": "E",
+          "text": "a and d",
+          "isCorrect": true,
+          "explanation": "This is correct option.As both option A and Option D are correct."
+        }
+      ],
+      "explanation": "This is the correct answer is both A and D, couple, consisting of two equal and opposite forces that do not act along the same line, produces a pure torque. The magnitude of this torque is independent of the location of the origin chosen to calculate it. This means that the rotational effect of a couple is the same regardless of where you measure it from.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In three dimensional Cartesian Coordinate system (x,y,z), you have two vectors A and B. Vector A has components Ax= 4, Ay=3, and Az=2, while vector B has components Bx=1, By=5, and Bz=2. What is dot (scalar product) of vectors A and B?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2023,
+      "options": [
+        {
+          "letter": "A",
+          "text": "23",
+          "isCorrect": true,
+          "explanation": "To find the dot product (scalar product) of vectors A and B, you multiply the corresponding components and add them together:A · B = Ax_Bx + Ay_By + Az_Bz= (4)_(1) + (3)_(5) + (2)_(2)= 4 + 15 + 4= 23So, the correct answer is b. 23.The dot product is a scalar value that represents the amount of \"similarity\" between the two vectors. In this case, the result is positive, indicating that the vectors have some degree of alignment."
+        },
+        {
+          "letter": "B",
+          "text": "-23",
+          "isCorrect": false,
+          "explanation": "The dot product is positive, not negative."
+        },
+        {
+          "letter": "C",
+          "text": "0",
+          "isCorrect": false,
+          "explanation": "The vectors are not orthogonal (perpendicular), so the dot product is not zero."
+        },
+        {
+          "letter": "D",
+          "text": "19",
+          "isCorrect": false,
+          "explanation": "This is not the correct result of the calculation."
+        }
+      ],
+      "explanation": "To find the dot product (scalar product) of vectors A and B, you multiply the corresponding components and add them together:A · B = Ax_Bx + Ay_By + Az_Bz= (4)_(1) + (3)_(5) + (2)_(2)= 4 + 15 + 4= 23So, the correct answer is b. 23.The dot product is a scalar value that represents the amount of \"similarity\" between the two vectors. In this case, the result is positive, indicating that the vectors have some degree of alignment.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The magnitude of the vector product of two vectors is √3 times the scalar product. The angle between the two vectors is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2023,
+      "options": [
+        {
+          "letter": "A",
+          "text": "45°",
+          "isCorrect": false,
+          "explanation": "45°: tan(45°) = 1, not √3"
+        },
+        {
+          "letter": "B",
+          "text": "90°",
+          "isCorrect": false,
+          "explanation": "90°: tan(90°) is undefined."
+        },
+        {
+          "letter": "C",
+          "text": "30°",
+          "isCorrect": false,
+          "explanation": "30°: tan(30°) = 1/√3."
+        },
+        {
+          "letter": "D",
+          "text": "60°",
+          "isCorrect": true,
+          "explanation": "Explanation:|A × B| = AB sin(θ) and A·B = AB cos(θ).AB sin(θ) = √3 AB cos(θ).tan(θ) = √3, so θ = 60°."
+        }
+      ],
+      "explanation": "Explanation:|A × B| = AB sin(θ) and A·B = AB cos(θ).AB sin(θ) = √3 AB cos(θ).tan(θ) = √3, so θ = 60°.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Law of inertia satisfies:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2022,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Condition of equilibrium",
+          "isCorrect": true,
+          "explanation": "For a body in equilibrium, it must satisfy two conditions. Firstly, the net force acting upon the object must be zero. Secondly, the net torque acting upon the object must also be zero. Newton’s first law of motion tells us that a body continues its state of rest or of uniform motion in a straight line if no resultant or net force acts on it. Therefore, the Law of inertia satisfies the conditions of equilibrium."
+        },
+        {
+          "letter": "B",
+          "text": "Condition of variable force",
+          "isCorrect": false,
+          "explanation": "A force is said to be a variable force if magnitude or direction, or both change with time."
+        },
+        {
+          "letter": "C",
+          "text": "Condition of force in contact",
+          "isCorrect": false,
+          "explanation": "Contact force is a force that acts on objects when they are in physical contact with each other due to interaction."
+        },
+        {
+          "letter": "D",
+          "text": "Condition of conservation of mass",
+          "isCorrect": false,
+          "explanation": "The law of conservation of mass states that in a chemical reaction, mass is neither created nor destroyed."
+        }
+      ],
+      "explanation": "Law of inertia, also called Newton’s first law, states that an object will continue to be either in a state of motion or in a state of rest unless an external force acts on it.Diagram:",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A force of magnitude 10N is acting along the x-axis; its component along the y-axis is:",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2024,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Zero",
+          "isCorrect": true,
+          "explanation": "This is correct. Since the force is directed along the x-axis, there is no component along the y-axis. The y-component of a force that acts purely along the x-axis is always 0 N."
+        },
+        {
+          "letter": "B",
+          "text": "5N",
+          "isCorrect": false,
+          "explanation": "This is incorrect. A force acting solely along the x-axis cannot have a y-component unless it has a component in that direction."
+        },
+        {
+          "letter": "C",
+          "text": "20N",
+          "isCorrect": false,
+          "explanation": "This is incorrect. The force magnitude along the x-axis does not translate into the y-axis component in this scenario."
+        },
+        {
+          "letter": "D",
+          "text": "10N",
+          "isCorrect": false,
+          "explanation": "This is incorrect. While the force's total magnitude is 10N, it is entirely along the x-axis, yielding zero component along the y-axis."
+        },
+        {
+          "letter": "E",
+          "text": "25N",
+          "isCorrect": false,
+          "explanation": "This is incorrect. This value does not relate to the force's resolution into components."
+        }
+      ],
+      "explanation": "The correct answer is Zero. When resolving forces into components, a force acting along the x-axis has no y-component because it is entirely in the horizontal direction. Mathematically, the y-component of a force F acting at an angle θ from the x-axis is calculated as Fy = F sin θ. Here, θ is 0 degrees since the force is along the x-axis, resulting in sin(0) = 0. Therefore, Fy = 10 N × 0 = 0 N. The other options suggest non-zero y-components, which are incorrect since they imply that the force has a component along the y-axis, which it does not.",
+      "explanationImage": null,
+      "hints": [
+        "y-axis"
+      ]
+    },
+    {
+      "text": "A set of coordinate axes in which measurements are made is called",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2024,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Cartesian coordinates",
+          "isCorrect": false,
+          "explanation": "Cartesian coordinates define a 2D or 3D system using perpendicular axes. It is a specific type of coordinate system.This is only one specific type of a frame of reference."
+        },
+        {
+          "letter": "B",
+          "text": "Rectangular coordinates",
+          "isCorrect": false,
+          "explanation": "Rectangular coordinates are synonymous with Cartesian coordinates. This is a specific type of frame of reference.This is only one specific type of a frame of reference."
+        },
+        {
+          "letter": "C",
+          "text": "Spherical coordinates:",
+          "isCorrect": false,
+          "explanation": "Spherical coordinates use radius, azimuth, and polar angles. Used for 3D representation in spherical systems.This is only one specific type of a frame of reference."
+        },
+        {
+          "letter": "D",
+          "text": "Frame of reference",
+          "isCorrect": true,
+          "explanation": "A frame of reference is the broader concept that defines the system in which measurements are made. It consists of coordinate axes and a reference point, allowing observers to measure positions, velocities, and other physical quantities. Since the question asks about the system where measurements are made, this is the correct answer."
+        }
+      ],
+      "explanation": "A frame of reference is the broader concept that defines the system in which measurements are made. It consists of coordinate axes and a reference point, allowing observers to measure positions, velocities, and other physical quantities. Since the question asks about the system where measurements are made, this is the correct answer.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is a vector quantity?",
+      "image": null,
+      "subject": "Physics",
+      "topic": "Scalars and Vectors",
+      "year": 2024,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Electric Flux",
+          "isCorrect": false,
+          "explanation": "Electric flux is a scalar quantity as it does not have a direction. It is calculated as the product of the electric field and the area through which the field lines pass, considering the angle between them."
+        },
+        {
+          "letter": "B",
+          "text": "Work done",
+          "isCorrect": false,
+          "explanation": "Work done is a scalar quantity. It is defined as the product of force and displacement in the direction of the force, but it does not have a direction itself."
+        },
+        {
+          "letter": "C",
+          "text": "Electric Potential Energy",
+          "isCorrect": false,
+          "explanation": "Electric potential energy is a scalar quantity. It refers to the energy stored due to the position of a charge within an electric field and lacks direction."
+        },
+        {
+          "letter": "D",
+          "text": "None of the given options",
+          "isCorrect": true,
+          "explanation": "None of the listed quantities are vector quantities. A vector quantity is defined by both magnitude and direction, and none of the options provided meet this criterion."
+        }
+      ],
+      "explanation": "Vector quantities are those that have both magnitude and direction. In this question, none of the options provided are vector quantities. Electric flux, work done, and electric potential energy are all scalar quantities because they possess only magnitude without a directional component. Therefore, the correct answer is 'None of the given options'.",
+      "explanationImage": null,
+      "hints": [
+        "vector",
+        "quantity"
+      ]
+    }
+  ]
+}

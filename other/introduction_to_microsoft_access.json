@@ -1,0 +1,2272 @@
+{
+  "questions": [
+    {
+      "text": "An MS-Access database consists of various components called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Controls",
+          "isCorrect": false,
+          "explanation": "Controls is incorrect. Controls are elements within forms and reports that allow users to interact with the data. While controls are important components of an Access database, they are not the fundamental building blocks."
+        },
+        {
+          "letter": "B",
+          "text": "Objects/Entities",
+          "isCorrect": true,
+          "explanation": "Objects/Entities is correct. Objects are the fundamental building blocks of an Access database and represent the data and functionality of the database. Common objects include tables, queries, forms, reports, and macros.In summary, objects/entities are the core components of an MS-Access database that store and manipulate data. They provide the foundation for creating a functional and informative database application."
+        },
+        {
+          "letter": "C",
+          "text": "Tools",
+          "isCorrect": false,
+          "explanation": "Tools is incorrect. Tools are features within the Access application that help users create and manipulate objects. While tools are essential for working with a database, they are not the objects themselves."
+        },
+        {
+          "letter": "D",
+          "text": "Charts",
+          "isCorrect": false,
+          "explanation": "Charts is incorrect. Charts are a way to visually represent data from a database. While charts can be created from database objects, they are not fundamental building blocks themselves."
+        }
+      ],
+      "explanation": "Objects/Entities is correct. Objects are the fundamental building blocks of an Access database and represent the data and functionality of the database. Common objects include tables, queries, forms, reports, and macros.In summary, objects/entities are the core components of an MS-Access database that store and manipulate data. They provide the foundation for creating a functional and informative database application.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The object that extracts specific information from a database is called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Table",
+          "isCorrect": false,
+          "explanation": "A table is a fundamental structure in a relational database that stores data in a grid-like format with rows and columns. Each table represents a specific entity or concept, and each column represents an attribute of that entity."
+        },
+        {
+          "letter": "B",
+          "text": "Query",
+          "isCorrect": true,
+          "explanation": "A query is a specific request for data from a database. It allows you to retrieve data based on certain criteria, filter data, perform calculations, and more.In essence, a query is the tool you use to extract specific information from a database, while tables, reports, and forms are different ways to organize, present, and interact with that information"
+        },
+        {
+          "letter": "C",
+          "text": "Report",
+          "isCorrect": false,
+          "explanation": "A report is a formatted output that presents data from a database in a user-friendly way. Reports can be used to summarize data, compare data points, and visualize trends."
+        },
+        {
+          "letter": "D",
+          "text": "Form",
+          "isCorrect": false,
+          "explanation": "A form is a user interface element that allows users to input and edit data in a database. Forms can be used to create new records, update existing records, and delete records."
+        }
+      ],
+      "explanation": "A query is a specific request for data from a database. It allows you to retrieve data based on certain criteria, filter data, perform calculations, and more.In essence, a query is the tool you use to extract specific information from a database, while tables, reports, and forms are different ways to organize, present, and interact with that information",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which means duplication of data in multiple relations?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Copying of data",
+          "isCorrect": false,
+          "explanation": "Copying of data is a broader term that can refer to the duplication of data for any reason, not just within a database. For example, you might copy a file from one location to another on your computer."
+        },
+        {
+          "letter": "B",
+          "text": "Redundancy of data",
+          "isCorrect": true,
+          "explanation": "Redundancy of data refers to the situation where the same data is stored in multiple places within a database. This can lead to inconsistencies, as the data may be updated in one place but not in another. It can also waste storage space."
+        },
+        {
+          "letter": "C",
+          "text": "Objects",
+          "isCorrect": false,
+          "explanation": "Objects are data structures that store data and behavior. They are not inherently related to data redundancy."
+        },
+        {
+          "letter": "D",
+          "text": "Common standard",
+          "isCorrect": false,
+          "explanation": "Common standard refers to an agreed-upon way of doing something. Common standards are important for ensuring that data can be exchanged between different systems, but they do not address the issue of data redundancy."
+        }
+      ],
+      "explanation": "Redundancy of data refers to the situation where the same data is stored in multiple places within a database. This can lead to inconsistencies, as the data may be updated in one place but not in another. It can also waste storage space.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In a patient table, pid, pname, and paddress are collectively known as:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Byte",
+          "isCorrect": false,
+          "explanation": "Byte is incorrect. A byte is the smallest unit of storage in a computer and typically consists of eight bits. While bytes are used to store data in a database, they are not the way data is grouped in a relational database table"
+        },
+        {
+          "letter": "B",
+          "text": "Record",
+          "isCorrect": true,
+          "explanation": "Record is correct. A record in a database table is a collection of related fields that represent a single entity or item. In the patient table, each record would contain the information for a specific patient, including their pid (patient ID), pname (patient name), and paddress (patient address).In conclusion, a record is the term used to describe a collection of fields that represent a single entity in a database table. Each record in the patient table would contain the data for a specific patient"
+        },
+        {
+          "letter": "C",
+          "text": "Character",
+          "isCorrect": false,
+          "explanation": "Character is incorrect. A character is a single letter, number, symbol, or punctuation mark. While characters are used to build the data stored in fields, they are not the way data is grouped in a table."
+        },
+        {
+          "letter": "D",
+          "text": "Field",
+          "isCorrect": false,
+          "explanation": "Field is incorrect. A field is a specific attribute or data point within a record. In the patient table, pid, pname, and paddress would each be considered separate fields"
+        }
+      ],
+      "explanation": "Record is correct. A record in a database table is a collection of related fields that represent a single entity or item. In the patient table, each record would contain the information for a specific patient, including their pid (patient ID), pname (patient name), and paddress (patient address).In conclusion, a record is the term used to describe a collection of fields that represent a single entity in a database table. Each record in the patient table would contain the data for a specific patient",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which is used to enter data in a database?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Form",
+          "isCorrect": true,
+          "explanation": "A form is a user interface element that allows users to input and edit data in a database. Forms can be used to create new records, update existing records, and delete records."
+        },
+        {
+          "letter": "B",
+          "text": "Table",
+          "isCorrect": false,
+          "explanation": "A table is a fundamental structure in a relational database that stores data in a grid-like format with rows and columns. Each table represents a specific entity or concept, and each column represents an attribute of that entity. While you can't directly enter data into a table, tables do store the data entered through forms."
+        },
+        {
+          "letter": "C",
+          "text": "Query",
+          "isCorrect": false,
+          "explanation": "A query is a specific request for data from a database. It allows you to retrieve data based on certain criteria, filter data, perform calculations, and more. Queries don't directly input data, but are used to find and manipulate existing data"
+        },
+        {
+          "letter": "D",
+          "text": "Report",
+          "isCorrect": false,
+          "explanation": "A report is a formatted output that presents data from a database in a user-friendly way. Reports can be used to summarize data, compare data points, and visualize trends. Reports are for viewing data, not entering it"
+        }
+      ],
+      "explanation": "A form is a user interface element that allows users to input and edit data in a database. Forms can be used to create new records, update existing records, and delete records.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which shows/displayed name of program or file?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Menu bar",
+          "isCorrect": false,
+          "explanation": "The menu bar is the horizontal bar located below the title bar that provides access to the program's menus. There is no menu bar visible in the image."
+        },
+        {
+          "letter": "B",
+          "text": "Access database toolbar",
+          "isCorrect": false,
+          "explanation": "The Access database toolbar is a specific toolbar used in Microsoft Access, a database management program. The image does not show an Access database toolbar."
+        },
+        {
+          "letter": "C",
+          "text": "Program control icons",
+          "isCorrect": false,
+          "explanation": "Program control icons are typically buttons located in the top right corner of a window that allow you to minimize, maximize, or close the program. The image does not show any program control icons."
+        },
+        {
+          "letter": "D",
+          "text": "title bar",
+          "isCorrect": true,
+          "explanation": "The title bar is the horizontal bar at the top of a window that displays the name of the program or file currently open. In the image, the text \"Which shows/displayed name of program or file?\" is located on the title bar."
+        }
+      ],
+      "explanation": "The title bar is the horizontal bar at the top of a window that displays the name of the program or file currently open. In the image, the text \"Which shows/displayed name of program or file?\" is located on the title bar.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is also known as dataset?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tuple",
+          "isCorrect": false,
+          "explanation": "Tuple isle incorrect. In relational databases, a tuple is a single row in a table. While a dataset can be represented by a table containing many tuples, a tuple itself is not synonymous with a dataset."
+        },
+        {
+          "letter": "B",
+          "text": "Relation",
+          "isCorrect": false,
+          "explanation": "Relation is incorrect. In relational databases, a relation is another term for a table. Similar to tuples, while a dataset can be represented by a relation, a relation itself is not synonymous with a dataset"
+        },
+        {
+          "letter": "C",
+          "text": "File",
+          "isCorrect": true,
+          "explanation": "File is correct. A dataset is a collection of data, often organized into a specific format. A file can be used to store a dataset on a computer.In conclusion, a dataset is a collection of data, and a file is a common way to store a dataset on a computer. The schema describes the structure of the data, and tuples and relations are components used to represent data within relational database tables"
+        },
+        {
+          "letter": "D",
+          "text": "Schema",
+          "isCorrect": false,
+          "explanation": "Schema is incorrect. A schema is the definition of the structure of a dataset, including the data types of attributes and the relationships between different parts of the data. While the schema is important for understanding a dataset, it is not the data itself."
+        }
+      ],
+      "explanation": "File is correct. A dataset is a collection of data, often organized into a specific format. A file can be used to store a dataset on a computer.In conclusion, a dataset is a collection of data, and a file is a common way to store a dataset on a computer. The schema describes the structure of the data, and tuples and relations are components used to represent data within relational database tables",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is not a wizard of DBMS?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Database Wizard",
+          "isCorrect": false,
+          "explanation": "A database wizard is a software tool that helps users create a new database schema or structure in a step-by-step manner. It guides users through the process of defining tables, specifying data types, and establishing relationships between tables."
+        },
+        {
+          "letter": "B",
+          "text": "Table Wizard",
+          "isCorrect": false,
+          "explanation": "A table wizard is a software tool that helps users create new database tables in a step-by-step manner. It simplifies the process of defining table structure, including column names, data types, and primary keys."
+        },
+        {
+          "letter": "C",
+          "text": "Form Wizard",
+          "isCorrect": false,
+          "explanation": "A form wizard is a software tool that helps users create forms for data input and editing in a database. It simplifies the process of designing the layout of the form, specifying which fields are displayed, and how data is entered or edited."
+        },
+        {
+          "letter": "D",
+          "text": "File Wizard",
+          "isCorrect": true,
+          "explanation": "File Wizard is not a commonly used term in the context of Database Management Systems (DBMS). It is more likely a general term for software tools that assist with creating or managing files, not specifically database files"
+        }
+      ],
+      "explanation": "File Wizard is not a commonly used term in the context of Database Management Systems (DBMS). It is more likely a general term for software tools that assist with creating or managing files, not specifically database files",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is an example of RDBMS?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "MS Excel",
+          "isCorrect": false,
+          "explanation": "MS Excel is incorrect. MS Excel is a spreadsheet program that allows users to enter and manipulate data in a tabular format. While Excel can be used to store and manage data, it is not a relational database management system (RDBMS). RDBMSes are designed to store and manage large datasets according to the relational model, which emphasizes data integrity and minimizes redundancy."
+        },
+        {
+          "letter": "B",
+          "text": "Google Sheets",
+          "isCorrect": false,
+          "explanation": "Google Sheets is incorrect. Similar to MS Excel, Google Sheets is a spreadsheet program that is not an RDBMS."
+        },
+        {
+          "letter": "C",
+          "text": "Android OS",
+          "isCorrect": false,
+          "explanation": "Android OS is incorrect. Android OS is a mobile operating system used on smartphones and tablets. It is not a database management system of any kind."
+        },
+        {
+          "letter": "D",
+          "text": "SQL Server",
+          "isCorrect": true,
+          "explanation": "SQL Server is correct. SQL Server is a relational database management system developed by Microsoft. It is a popular choice for businesses and organizations that need to store and manage large amounts of data. SQL Server uses the SQL query language to access and manipulate data within the database. In conclusion, an RDBMS is a type of database management system that stores and manages data according to the relational model. SQL Server is an example of a popular RDBMS, while MS Excel, Google Sheets, and Android OS are not"
+        }
+      ],
+      "explanation": "SQL Server is correct. SQL Server is a relational database management system developed by Microsoft. It is a popular choice for businesses and organizations that need to store and manage large amounts of data. SQL Server uses the SQL query language to access and manipulate data within the database. In conclusion, an RDBMS is a type of database management system that stores and manages data according to the relational model. SQL Server is an example of a popular RDBMS, while MS Excel, Google Sheets, and Android OS are not",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The output of a query is in the form of a:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Table",
+          "isCorrect": true,
+          "explanation": "A table is the most common output format for a query. A query retrieves data from a database based on specific criteria and presents it in a tabular format with rows and columns. Each row represents a record, and each column represents an attribute or field of that record."
+        },
+        {
+          "letter": "B",
+          "text": "Form",
+          "isCorrect": false,
+          "explanation": "A form is a user interface element used to enter and edit data in a database. While forms can be used to display data retrieved by a query, they are not the primary output format for queries."
+        },
+        {
+          "letter": "C",
+          "text": "Report",
+          "isCorrect": false,
+          "explanation": "A report is a formatted presentation of data retrieved by a query. Reports can include charts, graphs, and other visual elements to summarize and analyze data. However, they are not the most common output format for queries, which often focus on retrieving raw data."
+        },
+        {
+          "letter": "D",
+          "text": "Macro",
+          "isCorrect": false,
+          "explanation": "A macro is a set of instructions that automates tasks in a database application. Macros are not directly related to the output of queries, although they may be used to process or manipulate data retrieved by a query"
+        }
+      ],
+      "explanation": "A table is the most common output format for a query. A query retrieves data from a database based on specific criteria and presents it in a tabular format with rows and columns. Each row represents a record, and each column represents an attribute or field of that record.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is an example of an RDBMS?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "MS Access",
+          "isCorrect": false,
+          "explanation": "MS Access is a desktop database management system from Microsoft. It is a popular choice for small businesses and personal use."
+        },
+        {
+          "letter": "B",
+          "text": "Sybase",
+          "isCorrect": false,
+          "explanation": "Sybase is a relational database management system that is now part of SAP HANA. It is a powerful and scalable RDBMS that can be used for a variety of purposes."
+        },
+        {
+          "letter": "C",
+          "text": "SQL Server",
+          "isCorrect": false,
+          "explanation": "SQL Server is a relational database management system from Microsoft. It is a widely used enterprise-level RDBMS that can be used for a variety of purposes"
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": "The answer is D) All of the above. RDBMS stands for Relational Database Management System. An RDBMS is a type of database that stores data in tables with rows and columns. The tables are related to each other by linking columns that contain the same data type.MS Access, Sybase, and SQL Server are all popular examples of RDBMS software."
+        }
+      ],
+      "explanation": "The answer is D) All of the above. RDBMS stands for Relational Database Management System. An RDBMS is a type of database that stores data in tables with rows and columns. The tables are related to each other by linking columns that contain the same data type.MS Access, Sybase, and SQL Server are all popular examples of RDBMS software.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which database object is used to retrieve & present data in a formatted way?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Basic Concepts and Terminologies of Database",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Report",
+          "isCorrect": true,
+          "explanation": "Report is correct. A report is a database object that is specifically designed to format, calculate, summarize, and present data from a database. Reports are often used for printing or sharing data in a user-friendly way. They can include elements like titles, labels, formatting, and calculations to present data in a clear and concise manner."
+        },
+        {
+          "letter": "B",
+          "text": "Query",
+          "isCorrect": false,
+          "explanation": "Query is incorrect. While queries are essential for retrieving data from a database, they do not themselves format or present the data. Queries are used to specify which data to retrieve from one or more tables, based on certain criteria. The results of a query can then be used to populate a report or form."
+        },
+        {
+          "letter": "C",
+          "text": "Table",
+          "isCorrect": false,
+          "explanation": "Table is incorrect. Tables are the fundamental storage structure in a relational database. They store data in rows and columns, with each row representing a record and each column representing a field (attribute) of that record. Tables do not inherently format or present data; they simply store it."
+        },
+        {
+          "letter": "D",
+          "text": "Form",
+          "isCorrect": false,
+          "explanation": "Form is incorrect. Forms are used for data entry and editing in a database. They provide a user interface that allows users to interact with the data in a table. While forms can sometimes display data in a formatted way, their primary function is to facilitate data manipulation rather than presentation.In conclusion, reports are the database object specifically designed to retrieve data and present it in a formatted way. They can leverage the data retrieved by queries and displayed through forms to create user-friendly data presentations"
+        }
+      ],
+      "explanation": "Report is correct. A report is a database object that is specifically designed to format, calculate, summarize, and present data from a database. Reports are often used for printing or sharing data in a user-friendly way. They can include elements like titles, labels, formatting, and calculations to present data in a clear and concise manner.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is a component of MS Access application windows?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Title bar",
+          "isCorrect": false,
+          "explanation": "The title bar displays the name of the application and the current file or object being worked on."
+        },
+        {
+          "letter": "B",
+          "text": "Toolbar",
+          "isCorrect": false,
+          "explanation": "The toolbar provides buttons and icons for commonly used functions, offering a quick way to access features without having to go through menus."
+        },
+        {
+          "letter": "C",
+          "text": "Scroll bar",
+          "isCorrect": false,
+          "explanation": "The scroll bar allows you to navigate through the contents of a window that is larger than the visible area."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": true,
+          "explanation": "In MS Access application windows, all of these elements work together to provide a user interface for interacting with the database. The title bar helps identify the application and specific database file, the toolbar provides shortcuts to common tasks, and the scroll bar allows you to view all the data in a table, form, report, or query that may extend beyond the initial window view"
+        }
+      ],
+      "explanation": "In MS Access application windows, all of these elements work together to provide a user interface for interacting with the database. The title bar helps identify the application and specific database file, the toolbar provides shortcuts to common tasks, and the scroll bar allows you to view all the data in a table, form, report, or query that may extend beyond the initial window view",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In a table, horizontal entries are called what?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Columns",
+          "isCorrect": false,
+          "explanation": "Columns are vertical entries in a table. They represent specific attributes or characteristics of the data being stored. In the image, \"Customer ID\", \"Name\", \"City\", and \"Country\" are all column headers."
+        },
+        {
+          "letter": "B",
+          "text": "row",
+          "isCorrect": true,
+          "explanation": "A row in a table is a horizontal entry that spans across multiple columns. It represents a single unit of data. In the image, each line of information about customers (Customer ID, Name, City, etc.) represents a row."
+        },
+        {
+          "letter": "C",
+          "text": "Fields",
+          "isCorrect": false,
+          "explanation": "Fields is another term for columns. It can also refer to any individual piece of data within a table."
+        },
+        {
+          "letter": "D",
+          "text": "Records",
+          "isCorrect": false,
+          "explanation": "Records are synonymous with rows. They refer to a single collection of data points in a table."
+        }
+      ],
+      "explanation": "A row in a table is a horizontal entry that spans across multiple columns. It represents a single unit of data. In the image, each line of information about customers (Customer ID, Name, City, etc.) represents a row.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A relational database consists of a collection of:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Table",
+          "isCorrect": true,
+          "explanation": "Tables is correct. In a relational database, tables are the fundamental structures that store data. Each table is like a spreadsheet with rows and columns, where each row represents a record (instance of an entity), and each column represents a field (attribute) containing a specific data value for that record. Tables store related data and can be linked together using keys to establish relationships between different tables. In conclusion, tables are the building blocks of a relational database and store data in a structured format of rows and columns. Records reside within tables, and fields (columns) define the categories of data for each record. Keys are special fields that uniquely identify records and can link data between tables"
+        },
+        {
+          "letter": "B",
+          "text": "Records",
+          "isCorrect": false,
+          "explanation": "Records is incorrect. Records are individual rows within a table. They represent a single instance of an entity and contain data for all the fields (attributes) defined for that entity in the table structure."
+        },
+        {
+          "letter": "C",
+          "text": "Fields",
+          "isCorrect": false,
+          "explanation": "Fields is incorrect. Fields are also known as columns in a table. They represent a specific category or characteristic of the entity (represented by the rows) stored in the table. Each field has a data type associated with it, which specifies the kind of data that can be stored in that column."
+        },
+        {
+          "letter": "D",
+          "text": "Keys",
+          "isCorrect": false,
+          "explanation": "Keys is incorrect. Keys are special fields or groups of fields within a table that uniquely identify a record. There are different types of keys, including primary keys, candidate keys, alternate keys, and foreign keys. Keys play an important role in maintaining data integrity and establishing relationships between tables in a relational database."
+        }
+      ],
+      "explanation": "Tables is correct. In a relational database, tables are the fundamental structures that store data. Each table is like a spreadsheet with rows and columns, where each row represents a record (instance of an entity), and each column represents a field (attribute) containing a specific data value for that record. Tables store related data and can be linked together using keys to establish relationships between different tables. In conclusion, tables are the building blocks of a relational database and store data in a structured format of rows and columns. Records reside within tables, and fields (columns) define the categories of data for each record. Keys are special fields that uniquely identify records and can link data between tables",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What extension does Microsoft Access save the database with?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "data",
+          "isCorrect": false,
+          "explanation": "data is not a specific extension used by Microsoft Access to save databases."
+        },
+        {
+          "letter": "B",
+          "text": "doc",
+          "isCorrect": false,
+          "explanation": "doc is a file extension commonly used by Microsoft Word to save documents."
+        },
+        {
+          "letter": "C",
+          "text": "wks",
+          "isCorrect": false,
+          "explanation": "wks is a file extension commonly used by spreadsheet applications like Microsoft Excel."
+        },
+        {
+          "letter": "D",
+          "text": "Microsoft Access",
+          "isCorrect": true,
+          "explanation": "Microsoft Access uses the .mdb extension for databases created in versions prior to Access 2007. It introduced a newer file format, .accdb, in Access 2007, which is now the default format. However, .mdb is still supported for compatibility with older versions of Access"
+        }
+      ],
+      "explanation": "Microsoft Access uses the .mdb extension for databases created in versions prior to Access 2007. It introduced a newer file format, .accdb, in Access 2007, which is now the default format. However, .mdb is still supported for compatibility with older versions of Access",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is not an example of a DBMS?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Google Sheets",
+          "isCorrect": true,
+          "explanation": "Google Sheets is a spreadsheet program that allows you to enter and manipulate data in a tabular format. However, it is not a DBMS because it lacks some of the key features of a DBMS, such as the ability to enforce data integrity and to control access to data."
+        },
+        {
+          "letter": "B",
+          "text": "MS Access",
+          "isCorrect": false,
+          "explanation": "MS Access are all examples of DBMS software. They allow users to create databases with tables, queries, forms, and reports. They also provide features to secure and manage access to data"
+        },
+        {
+          "letter": "C",
+          "text": "SQL Server",
+          "isCorrect": false,
+          "explanation": "SQL Server are all examples of DBMS software. They allow users to create databases with tables, queries, forms, and reports. They also provide features to secure and manage access to data"
+        },
+        {
+          "letter": "D",
+          "text": "Open Office Base",
+          "isCorrect": false,
+          "explanation": "Open Office Base are all examples of DBMS software. They allow users to create databases with tables, queries, forms, and reports. They also provide features to secure and manage access to data"
+        }
+      ],
+      "explanation": "A Database Management System (DBMS) is a software application that allows users to define, create, maintain and control access to data in a database. An important feature of a DBMS is its ability to efficiently store and retrieve data, and to enforce data integrity.Google Sheets is a spreadsheet program that allows you to enter and manipulate data in a tabular format. However, it is not a DBMS because it lacks some of the key features of a DBMS, such as the ability to enforce data integrity and to control access to data.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which is used to perform the same sequence of steps for automating tasks repeatedly?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Buttons",
+          "isCorrect": false,
+          "explanation": "Buttons are user interface elements that trigger actions when clicked. While buttons can be used to initiate macros, they themselves are not a way to automate tasks."
+        },
+        {
+          "letter": "B",
+          "text": "VBA code",
+          "isCorrect": false,
+          "explanation": "VBA code (Visual Basic for Applications) is a programming language that can be used to create more complex automation solutions within Microsoft applications. Macros, on the other hand, are simpler and often recorded sequences of steps."
+        },
+        {
+          "letter": "C",
+          "text": "Form",
+          "isCorrect": false,
+          "explanation": "Form is a user interface element that displays data and allows users to interact with it. Forms can be used in conjunction with macros to provide a user interface for the automated tasks. However, forms themselves are not used for automation."
+        },
+        {
+          "letter": "D",
+          "text": "Mac",
+          "isCorrect": true,
+          "explanation": "Macro is correct. A macro is a series of recorded instructions that automate repetitive tasks. Users can record their actions within an application and save them as a macro. The macro can then be replayed to execute the same sequence of steps automatically. Macros are a relatively simple way to automate tasks without needing to write code.In conclusion, macros are specifically designed to automate repetitive tasks by recording and replaying sequences of actions. VBA code offers more programming capabilities for complex automation, while buttons and forms are user interface elements that can be used in conjunction with macros"
+        }
+      ],
+      "explanation": "Macro is correct. A macro is a series of recorded instructions that automate repetitive tasks. Users can record their actions within an application and save them as a macro. The macro can then be replayed to execute the same sequence of steps automatically. Macros are a relatively simple way to automate tasks without needing to write code.In conclusion, macros are specifically designed to automate repetitive tasks by recording and replaying sequences of actions. VBA code offers more programming capabilities for complex automation, while buttons and forms are user interface elements that can be used in conjunction with macros",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In MS Access, which view is used to enter, modify and update data in tables?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Design view",
+          "isCorrect": false,
+          "explanation": "Design view allows you to define the structure of a table, including specifying data types for each field, setting primary keys, and creating relationships between tables. It's not used for entering or modifying data directly."
+        },
+        {
+          "letter": "B",
+          "text": "Justify view",
+          "isCorrect": false,
+          "explanation": "is not a standard view in MS Access. It's possible that you might be encountering a custom view created by someone, or there might be a typo in the option."
+        },
+        {
+          "letter": "C",
+          "text": "Datasheet view",
+          "isCorrect": true,
+          "explanation": "Datasheet view is the primary way to interact with data in MS Access tables. It displays data in a grid-like format similar to a spreadsheet, where each row represents a record and each column represents a field. You can easily enter new data, edit existing data, and delete records in datasheet"
+        },
+        {
+          "letter": "D",
+          "text": "Normal view",
+          "isCorrect": false,
+          "explanation": "Normal view provides a basic view of a table structure, showing field names and data types. While you can browse the table schema, you cannot enter or modify data directly in normal view."
+        }
+      ],
+      "explanation": "Datasheet view is the primary way to interact with data in MS Access tables. It displays data in a grid-like format similar to a spreadsheet, where each row represents a record and each column represents a field. You can easily enter new data, edit existing data, and delete records in datasheet",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is an extension of an MS Access file name?bles?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "std.mdb",
+          "isCorrect": true,
+          "explanation": "mdb is the standard file extension for Microsoft Access database files. In the past, Access used the .mdb extension up to Access 2003. More recent versions use the .accdb extension. However, .mdb is still a recognized extension for Access files."
+        },
+        {
+          "letter": "B",
+          "text": "std.ms access",
+          "isCorrect": false,
+          "explanation": "std.ms access is not a valid file extension."
+        },
+        {
+          "letter": "C",
+          "text": "std.ms mdb",
+          "isCorrect": false,
+          "explanation": "std.ms mdb has unnecessary spaces."
+        },
+        {
+          "letter": "D",
+          "text": "std.xls mdb",
+          "isCorrect": false,
+          "explanation": "std.xls mdb uses the extension for Excel files (.xls) instead of Access files (.mdb)."
+        }
+      ],
+      "explanation": "mdb is the standard file extension for Microsoft Access database files. In the past, Access used the .mdb extension up to Access 2003. More recent versions use the .accdb extension. However, .mdb is still a recognized extension for Access files.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "",
+      "image": null,
+      "subject": "Mathematics",
+      "topic": "Miscellaneous",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "10",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "11",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "20",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "21",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The output of queries is used as a source of records for:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Forms and Reports",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tables",
+          "isCorrect": false,
+          "explanation": "While queries can retrieve and manipulate data from tables, they don't directly create or serve as a source of records for tables themselves. Tables are fundamental structures in a database that store data"
+        },
+        {
+          "letter": "B",
+          "text": "Forms",
+          "isCorrect": false,
+          "explanation": "Forms are user interfaces that allow users to enter, edit, and view data in a database. Queries can be used to specify the data that populates a form. For instance, a query can filter data based on certain criteria to display only relevant ormatted presentations of data retrieved by queries. Queries can be used to define the data and formatting for a report, allowing you to create summaries, charts, and other visualizations based on the query results."
+        },
+        {
+          "letter": "C",
+          "text": "Reports",
+          "isCorrect": false,
+          "explanation": "Reports are f(A) Tables"
+        },
+        {
+          "letter": "D",
+          "text": "Both (B) & (C)",
+          "isCorrect": true,
+          "explanation": "The answer is (D) Both (B) & (C).Forms are user interfaces that allow users to enter, edit, and view data in a database. Queries can be used to specify the data that populates a form. For instance, a query can filter data based on certain criteria to display only relevant ormatted presentations of data retrieved by queries. Queries can be used to define the data and formatting for a report, allowing you to create summaries, charts, and other visualizations based on the query results. While queries can retrieve and manipulate data from tables, they don't directly create or serve as a source of records for tables themselves. Tables are fundamental structures in a database that store data"
+        }
+      ],
+      "explanation": "The answer is (D) Both (B) & (C).Forms are user interfaces that allow users to enter, edit, and view data in a database. Queries can be used to specify the data that populates a form. For instance, a query can filter data based on certain criteria to display only relevant ormatted presentations of data retrieved by queries. Queries can be used to define the data and formatting for a report, allowing you to create summaries, charts, and other visualizations based on the query results. While queries can retrieve and manipulate data from tables, they don't directly create or serve as a source of records for tables themselves. Tables are fundamental structures in a database that store data",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Identify the simplest way to create a database:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "By Query",
+          "isCorrect": false,
+          "explanation": "While queries are a powerful way to interact with and manipulate data in a database, they are not the simplest way to create a database schema or structure. You would typically use queries after a database is already created."
+        },
+        {
+          "letter": "B",
+          "text": "By Wizard",
+          "isCorrect": true,
+          "explanation": "By Wizard is the simplest way to create a database, especially for beginners. Wizards walk you through the steps of creating a database, including defining tables, fields, and relationships. This option requires minimal technical knowledge."
+        },
+        {
+          "letter": "C",
+          "text": "By entering data",
+          "isCorrect": false,
+          "explanation": "Entering data directly is not a way to create a database structure. You can enter data into an existing database, but you cannot create the database itself simply by entering data."
+        },
+        {
+          "letter": "D",
+          "text": "By Common standards",
+          "isCorrect": false,
+          "explanation": "Common standards are important for ensuring that data can be exchanged between different systems, but they don't directly relate to creating a database"
+        }
+      ],
+      "explanation": "By Wizard is the simplest way to create a database, especially for beginners. Wizards walk you through the steps of creating a database, including defining tables, fields, and relationships. This option requires minimal technical knowledge.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the best description of a query?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "selecting all records that match a set of criteria",
+          "isCorrect": false,
+          "explanation": "selecting all records that match a set of criteria is a common way to use queries. You can specify filters to narrow down the data you want to see."
+        },
+        {
+          "letter": "B",
+          "text": "Importing a spreadsheet file into the database",
+          "isCorrect": false,
+          "explanation": "Importing a spreadsheet file into the database is a separate process from querying a database. It involves bringing data from an external source into the database"
+        },
+        {
+          "letter": "C",
+          "text": "Searching for a specific record",
+          "isCorrect": false,
+          "explanation": "Searching for a specific record is another way to use queries. You can use queries to find a particular record based on its unique identifier or other criteria."
+        },
+        {
+          "letter": "D",
+          "text": "Both (a) and (c)",
+          "isCorrect": true,
+          "explanation": "The answer is (D) Both (a) and (c).Option (A) - Selecting all records that match a set of criteria is a common way to use queries. You can specify filters to narrow down the data you want to see.Option (C) - Searching for a specific record is another way to use queries. You can use queries to find a particular record based on its unique identifier or other criteria"
+        }
+      ],
+      "explanation": "A query is a request for information from a database. It allows you to retrieve specific data that meets certain criteria.The answer is (D) Both (a) and (c).Option (A) - Selecting all records that match a set of criteria is a common way to use queries. You can specify filters to narrow down the data you want to see.Option (C) - Searching for a specific record is another way to use queries. You can use queries to find a particular record based on its unique identifier or other criteria",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following make it easy to use MS Access more common feature and function?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Menu Bar",
+          "isCorrect": false,
+          "explanation": "The menu bar provides a hierarchical listing of menus and submenus, offering access to various features and functions in MS Access. While it offers a way to find functionalities, it can involve more navigation compared to the toolbar."
+        },
+        {
+          "letter": "B",
+          "text": "Tool Bar",
+          "isCorrect": true,
+          "explanation": "The tool bar contains buttons and icons for commonly used functions in MS Access. It provides a quicker way to access frequently used features without having to go through menus."
+        },
+        {
+          "letter": "C",
+          "text": "Status Bar",
+          "isCorrect": false,
+          "explanation": "The status bar displays contextual information about the current task or object in MS Access. It can be helpful for providing feedback and guidance, but it doesn't directly offer access to functionalities."
+        },
+        {
+          "letter": "D",
+          "text": "Scroll Bar",
+          "isCorrect": false,
+          "explanation": "The scroll bar allows you to navigate through the contents of a window that is larger than the visible area. While essential for viewing all parts of your data, it doesn't directly contribute to using MS Access features and functions."
+        }
+      ],
+      "explanation": "The tool bar contains buttons and icons for commonly used functions in MS Access. It provides a quicker way to access frequently used features without having to go through menus.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which field data type is automatically incremented by Access each time a new record is entered?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "ID",
+          "isCorrect": false,
+          "explanation": "ID is incorrect. While \"ID\" is a common name for a field that uniquely identifies a record, it is not a specific data type in Access. The data type used for an ID field could be AutoNumber, Number, or Text, depending on how you want the ID values to be generated."
+        },
+        {
+          "letter": "B",
+          "text": "AutoNumber",
+          "isCorrect": true,
+          "explanation": "AutoNumber is correct. This is a data type in Access that is specifically designed to automatically generate unique numeric values for each new record. AutoNumber fields can start from a specific value and increment by a specified amount (usually 1) for each new record."
+        },
+        {
+          "letter": "C",
+          "text": "Counter",
+          "isCorrect": false,
+          "explanation": "Counter is incorrect. There is no data type named \"Counter\" in Access. It's possible you might be confusing this with AutoNumber, which is the built-in way to create automatically incrementing numbers."
+        },
+        {
+          "letter": "D",
+          "text": "Integer",
+          "isCorrect": false,
+          "explanation": "Integer is incorrect. An integer is a general data type for whole numbers. While an AutoNumber field typically stores numeric values, it is a distinct data type with the specific functionality of automatic incrementing. Integer fields on their own do not inherently increment."
+        }
+      ],
+      "explanation": "AutoNumber is correct. This is a data type in Access that is specifically designed to automatically generate unique numeric values for each new record. AutoNumber fields can start from a specific value and increment by a specified amount (usually 1) for each new record.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which object stores VBA code?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "module",
+          "isCorrect": true,
+          "explanation": "In VBA, a module is a container for a collection of VBA procedures (functions and subroutines) and variables. It is a fundamental building block for VBA code. Modules can be hidden or visible, and they can be public or private."
+        },
+        {
+          "letter": "B",
+          "text": "Pages",
+          "isCorrect": false,
+          "explanation": "Pages refers more generally to the sheets or layouts within a workbook or application. While VBA code can be used to interact with these pages, it is not stored within the pages themselves."
+        },
+        {
+          "letter": "C",
+          "text": "Groups",
+          "isCorrect": false,
+          "explanation": "Groups is not a standard VBA object type used to store code. In the context of VBA, groups are typically used to organize related objects within the VBA project, but they don't store code directly."
+        },
+        {
+          "letter": "D",
+          "text": "Macros",
+          "isCorrect": false,
+          "explanation": "Macros are a type of VBA code themselves, but they are not containers for code. They are typically smaller routines that perform specific actions. Modules can contain macros, but macros themselves cannot contain other VBA code."
+        }
+      ],
+      "explanation": "In VBA, a module is a container for a collection of VBA procedures (functions and subroutines) and variables. It is a fundamental building block for VBA code. Modules can be hidden or visible, and they can be public or private.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A software that is used to organize and manage a data base is called:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "System software",
+          "isCorrect": false,
+          "explanation": "System software is a broad category of software that manages the computer's hardware and provides a platform for running other applications. Database management systems are a specific type of application software designed for working with databases."
+        },
+        {
+          "letter": "B",
+          "text": "Custom-built software",
+          "isCorrect": false,
+          "explanation": "Custom-built software is software that is designed and developed for a specific user or organization's needs. While a DBMS can be used to create custom database applications, it is a general-purpose tool that can be applied to various situations."
+        },
+        {
+          "letter": "C",
+          "text": "Package software",
+          "isCorrect": false,
+          "explanation": "Package software refers to pre-written software that is available for purchase and installation on a computer. DBMS like Microsoft Access or Oracle Database are examples of package software."
+        },
+        {
+          "letter": "D",
+          "text": "Database Management System",
+          "isCorrect": true,
+          "explanation": "A Database Management System (DBMS) is a software application specifically designed to organize, manage, store, retrieve, and manipulate data in a database. It provides a central repository for data, enforces data integrity, facilitates data sharing and access control, and offers tools for data analysis and reporting"
+        }
+      ],
+      "explanation": "A Database Management System (DBMS) is a software application specifically designed to organize, manage, store, retrieve, and manipulate data in a database. It provides a central repository for data, enforces data integrity, facilitates data sharing and access control, and offers tools for data analysis and reporting",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is the most popular and powerful DBMS?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Word Processor",
+          "isCorrect": false,
+          "explanation": "Word Processor is incorrect. Word processors are software applications for creating and editing text documents. While they can be used to store and manipulate data to some extent, they are not database management systems (DBMS)."
+        },
+        {
+          "letter": "B",
+          "text": "Oracle",
+          "isCorrect": true,
+          "explanation": "Oracle is correct. Oracle is a powerful and popular relational database management system (RDBMS) that is used by many organizations around the world for large-scale data storage and management. It offers a wide range of features, including scalability, security, and high performance.In conclusion, Oracle is a powerful and popular relational database management system that is widely used for large-scale data storage and management tasks. The other answer choices are not DBMS applications"
+        },
+        {
+          "letter": "C",
+          "text": "IDE",
+          "isCorrect": false,
+          "explanation": "IDE (Integrated Development Environment) is incorrect. An IDE is a software application that provides comprehensive facilities for computer programming, typically including a code editor, compiler, debugger, and other features. While some IDEs may interact with databases, they are not themselves DBMS."
+        },
+        {
+          "letter": "D",
+          "text": "MS-PowerPoint",
+          "isCorrect": false,
+          "explanation": "MS-PowerPoint is incorrect. MS-PowerPoint is a presentation software application used to create slide shows. Like word processors, it is not a database management system"
+        }
+      ],
+      "explanation": "Oracle is correct. Oracle is a powerful and popular relational database management system (RDBMS) that is used by many organizations around the world for large-scale data storage and management. It offers a wide range of features, including scalability, security, and high performance.In conclusion, Oracle is a powerful and popular relational database management system that is widely used for large-scale data storage and management tasks. The other answer choices are not DBMS applications",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is not a database?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tools",
+          "isCorrect": true,
+          "explanation": "Tools are not considered a fundamental component of a database itself, but rather the software used to create, interact with, and manage databases. Examples of database tools include MySQL, Oracle Database, Microsoft SQL Server, and PostgreSQL."
+        },
+        {
+          "letter": "B",
+          "text": "Properties",
+          "isCorrect": false,
+          "explanation": "Database properties are the characteristics of a database that define its structure, behavior, and access control. For instance, a property of a database might be the data type of a particular column (e.g., integer, string, date) or the access permissions for certain users."
+        },
+        {
+          "letter": "C",
+          "text": "Entities",
+          "isCorrect": false,
+          "explanation": "In a database, an entity is a real-world object or concept that is represented by a set of attributes (data points). For example, in a library database, an entity might be a book, and the attributes of that entity could include the book's title, author, publication date, and ISBN number."
+        },
+        {
+          "letter": "D",
+          "text": "Objects",
+          "isCorrect": false,
+          "explanation": "Database objects are the fundamental building blocks of a database. They include things like tables, schemas, views, and indexes. Tables store data in a structured format, with rows and columns. Schemas define the overall structure of the database, including the tables, columns, and data types. Views are virtual tables that provide users with a specific subset of data from one or more underlying tables. Indexes are used to speed up queries by creating shortcuts for finding specific data in a table."
+        }
+      ],
+      "explanation": "Tools are not considered a fundamental component of a database itself, but rather the software used to create, interact with, and manage databases. Examples of database tools include MySQL, Oracle Database, Microsoft SQL Server, and PostgreSQL.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following objects of a database is used to retrieve data from a database?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Queries",
+          "isCorrect": true,
+          "explanation": "Queries are the primary tool for retrieving data from a database. They allow you to specify criteria to filter and select specific data from one or more tables. You can use queries to find records based on certain conditions, perform calculations on data, and even modify data in tables."
+        },
+        {
+          "letter": "B",
+          "text": "Forms",
+          "isCorrect": false,
+          "explanation": "Forms are used to create a user interface for interacting with the database. They provide a way to enter, edit, and delete data in tables. However, forms themselves cannot retrieve data. They rely on queries to fetch data from tables."
+        },
+        {
+          "letter": "C",
+          "text": "Report",
+          "isCorrect": false,
+          "explanation": "Reports are used to format and present data from tables and queries. They allow you to create visually appealing summaries of your data. Like forms, reports cannot retrieve data on their own."
+        },
+        {
+          "letter": "D",
+          "text": "Table",
+          "isCorrect": false,
+          "explanation": "Tables are the fundamental objects in a relational database that store data. They are structured like a spreadsheet with rows and columns. Each row represents a record, and each column represents a field or attribute of that record. While tables store data, they cannot be used to retrieve specific data based on criteria.Forms: Forms are used to create a user interface for interacting with the database. They provide a way to enter, edit, and delete data in tables. However, forms themselves cannot retrieve data. They rely on queries to fetch data from tables."
+        }
+      ],
+      "explanation": "Queries are the primary tool for retrieving data from a database. They allow you to specify criteria to filter and select specific data from one or more tables. You can use queries to find records based on certain conditions, perform calculations on data, and even modify data in tables",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is a collection of related data organized in rows and columns?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Table",
+          "isCorrect": true,
+          "explanation": "A table is a data structure that organizes information into rows and columns. Each row represents a record, and each column represents a field or attribute of that record. Tables are a fundamental component of databases and spreadsheets."
+        },
+        {
+          "letter": "B",
+          "text": "Query",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Report",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Form",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A table is a data structure that organizes information into rows and columns. Each row represents a record, and each column represents a field or attribute of that record. Tables are a fundamental component of databases and spreadsheets.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A row of a table is divided into columns is called?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Records",
+          "isCorrect": false,
+          "explanation": "A record is a single row in a table. It represents a complete instance of an entity, containing all the data points (fields) for that particular instance. So, while a table is divided into records, records themselves are not further divided into columns."
+        },
+        {
+          "letter": "B",
+          "text": "Fields",
+          "isCorrect": true,
+          "explanation": "A field, also known as a column, represents a specific category of data within a record. All the records in a table will have the same set of fields, but the values in those fields can vary between records."
+        },
+        {
+          "letter": "C",
+          "text": "Entities",
+          "isCorrect": false,
+          "explanation": "An entity is a real-world object or concept that you want to represent in your database. A table typically represents one entity, and each record in the table represents a single instance of that entity. So, entities are not parts of tables and don't refer to table structure."
+        },
+        {
+          "letter": "D",
+          "text": "Tuples",
+          "isCorrect": false,
+          "explanation": "Tuple is another term for a record in a relational database. So, similar to records, tuples are not further divided into columns"
+        }
+      ],
+      "explanation": "A field, also known as a column, represents a specific category of data within a record. All the records in a table will have the same set of fields, but the values in those fields can vary between records.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which option in MS Access is used to create a new database from scratch",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Access template",
+          "isCorrect": false,
+          "explanation": "An Access template is a pre-designed database that provides a foundation for a specific type of application. For instance, there might be templates for asset tracking, contacts management, or invoicing. While templates can be a good way to get started quickly, they are not the way to create a new database from scratch if you have specific requirements in mind"
+        },
+        {
+          "letter": "B",
+          "text": "Blank Database",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Existing data base",
+          "isCorrect": false,
+          "explanation": "The \"Existing Database\" option would be used to open an already-created database file."
+        },
+        {
+          "letter": "D",
+          "text": "New folder database",
+          "isCorrect": false,
+          "explanation": "A new folder is a directory in the file system used to organize files. It is not a database creation option in MS Access"
+        }
+      ],
+      "explanation": ".",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the contents of an MS Access table?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Records but no fields",
+          "isCorrect": false,
+          "explanation": "A table cannot have a record without fields. A record is a collection of values for each field, so there must be fields defined to hold those values."
+        },
+        {
+          "letter": "B",
+          "text": "Fields but no records",
+          "isCorrect": true,
+          "explanation": "The answer is: (b) Fields but no records"
+        },
+        {
+          "letter": "C",
+          "text": "Both fields and records",
+          "isCorrect": false,
+          "explanation": "This is the ideal scenario for a table, but the question specifically asks about a table with a specific content."
+        },
+        {
+          "letter": "D",
+          "text": "Only Fields",
+          "isCorrect": false,
+          "explanation": "While tables are defined by fields, they are meant to store data in those fields. A table with only fields and no records would be empty"
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is displayed in the title bar of an open database?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Database name",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Program Name",
+          "isCorrect": false,
+          "explanation": "While the title bar might include the name of the database program (e.g., Microsoft Access), it will also typically display the name of the specific database file that is currently open."
+        },
+        {
+          "letter": "C",
+          "text": "Object Type",
+          "isCorrect": false,
+          "explanation": "The title bar might not necessarily indicate the specific type of object within the database that is being viewed (e.g., table, query, form). It’s more concerned with the overall database file itself."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": false,
+          "explanation": "The title bar typically won’t show all of these elements. It will focus on the database name but may not include details like program name or object type."
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is NOT a database object?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "MS Word",
+          "isCorrect": true,
+          "explanation": "MS Word is a word processing application used for creating and editing text documents. It is not a database object. Databases are designed to store, manage, and retrieve data, while word processors are designed to create and format textual content."
+        },
+        {
+          "letter": "B",
+          "text": "Query",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Report",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Table",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "MS Word is a word processing application used for creating and editing text documents. It is not a database object. Databases are designed to store, manage, and retrieve data, while word processors are designed to create and format textual content.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following represents the wizard of DBMS?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Database Wizard",
+          "isCorrect": false,
+          "explanation": "In Microsoft Access, a DBMS (Database Management System), wizards are tools that guide users through the process of creating various database objects. These wizards simplify the process by providing a step-by-step interface with prompts and options."
+        },
+        {
+          "letter": "B",
+          "text": "Form Wizard",
+          "isCorrect": false,
+          "explanation": "Guides users through creating a form, which is a user interface element for interacting with and entering data into the database."
+        },
+        {
+          "letter": "C",
+          "text": "Table Wizard",
+          "isCorrect": false,
+          "explanation": "Assists in creating a new table within a database, specifying fields (columns) and data types."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": "In Microsoft Access, a DBMS (Database Management System), wizards are tools that guide users through the process of creating various database objects. These wizards simplify the process by providing a step-by-step interface with prompts and options.Database Wizard: Helps create a new database file with a pre-defined structure based on a chosen template (e.g., contacts management, invoicing).Table Wizard: Assists in creating a new table within a database, specifying fields (columns) and data types.Form Wizard: Guides users through creating a form, which is a user interface element for interacting with and entering data into the database.Since all three options (a), (b), and (c) represent wizards used for creating database objects in MS Access, the answer is (d) All of the above."
+        }
+      ],
+      "explanation": "Since all three options (a), (b), and (c) represent wizards used for creating database objects in MS Access, the answer is (d) All of the above.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which object is used to store data and define structure for the data in a database?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Table",
+          "isCorrect": true,
+          "explanation": "A table is the fundamental object in a relational database that stores and defines the structure for data. Tables are like spreadsheets with rows and columns. Each row represents a record, and each column represents a field (attribute) of that record. The table definition specifies the data types allowed in each field, enforcing consistency and data integrity"
+        },
+        {
+          "letter": "B",
+          "text": "Query",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Report",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "MS word",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A table is the fundamental object in a relational database that stores and defines the structure for data. Tables are like spreadsheets with rows and columns. Each row represents a record, and each column represents a field (attribute) of that record. The table definition specifies the data types allowed in each field, enforcing consistency and data integrity",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following are objects in an MS Access database?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Forms and Reports",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tables, Forms, Queries and Reports",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Database, Datasheet and Form views",
+          "isCorrect": false,
+          "explanation": "While Database is a general term encompassing the entire collection of data, it's not an object itself within Access.Datasheet and Form views are ways to interact with data in tables, not separate objects."
+        },
+        {
+          "letter": "C",
+          "text": "Folders and Tools",
+          "isCorrect": false,
+          "explanation": "Folders are a way to organize your Access files, and Tools provide functionalities within the application, neither are database objects."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": true,
+          "explanation": "Tables, Forms, Queries and Reports are all fundamental components you use to create and interact with data in an MS Access database.Tables store the actual data in a structured format with rows and columns.Forms provide a user interface to enter, edit or view data in tables.Queries allow you to retrieve specific data from one or more tables based on certain criteria.Reports are used to present and summarize data from tables and queries, often in a printable format"
+        }
+      ],
+      "explanation": "Forms, Queries and Reports are all fundamental components you use to create and interact with data in an MS Access database.Tables store the actual data in a structured format with rows and columns.Forms provide a user interface to enter, edit or view data in tables.Queries allow you to retrieve specific data from one or more tables based on certain criteria.Reports are used to present and summarize data from tables and queries, often in a printable format",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A database may contain",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Only one table",
+          "isCorrect": false,
+          "explanation": "While a database can technically function with a single table, it is not very common or practical for most applications. Databases are designed to store and manage interrelated data, and having separate tables for different entities helps to organize the data efficiently and avoid redundancy."
+        },
+        {
+          "letter": "B",
+          "text": "At most two tables",
+          "isCorrect": false,
+          "explanation": "Two tables can be sufficient for very simple relationships, but most databases will involve more than two entities. For instance, an inventory database might have tables for products, suppliers, and orders."
+        },
+        {
+          "letter": "C",
+          "text": "At most three tables",
+          "isCorrect": false,
+          "explanation": "Similar to having at most two tables, this is an arbitrary restriction. The number of tables in a database will depend on the complexity of the data and the relationships between different entities"
+        },
+        {
+          "letter": "D",
+          "text": "Multiple Tables",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the smallest meaningful unit of data in a database called?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Byte",
+          "isCorrect": false,
+          "explanation": "A byte is a unit of digital information that typically consists of eight bits. It's the smallest addressable unit of memory in a computer and can store a single character or a special symbol in a character code. However, a byte itself may not have inherent meaning within the context of a database."
+        },
+        {
+          "letter": "B",
+          "text": "Character",
+          "isCorrect": false,
+          "explanation": "A character is a single letter, number, symbol, or punctuation mark. While characters are important for building meaningful data, they are not the smallest meaningful unit within a database."
+        },
+        {
+          "letter": "C",
+          "text": "Field",
+          "isCorrect": true,
+          "explanation": "A field, also known as a column, represents a specific category of data within a record in a database table. For example, in a customer table, a field might be \"Customer Name\" to store the name of each customer. A field is the smallest unit that holds a discrete piece of data that contributes to the overall meaning of a record."
+        },
+        {
+          "letter": "D",
+          "text": "",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A field, also known as a column, represents a specific category of data within a record in a database table. For example, in a customer table, a field might be \"Customer Name\" to store the name of each customer. A field is the smallest unit that holds a discrete piece of data that contributes to the overall meaning of a record.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The columns in a table correspond to:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Table",
+          "isCorrect": false,
+          "explanation": "A table is the entire collection of data organized into rows and columns. Columns are a part of the table structure."
+        },
+        {
+          "letter": "B",
+          "text": "Record",
+          "isCorrect": false,
+          "explanation": "A record is a single row in a table that contains data for all the fields (columns)."
+        },
+        {
+          "letter": "C",
+          "text": "Field",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Cell",
+          "isCorrect": false,
+          "explanation": "A cell is the intersection of a row and a column in a table. It holds a single data point. Each column (field) can have multiple cells, one for each record in the table."
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A report may be based on a:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Table",
+          "isCorrect": false,
+          "explanation": "While reports are based on data stored in tables, the table itself is not the report."
+        },
+        {
+          "letter": "B",
+          "text": "Query",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Form",
+          "isCorrect": false,
+          "explanation": "Forms are used for data entry and editing, not typically for report generation."
+        },
+        {
+          "letter": "D",
+          "text": "Both A and B",
+          "isCorrect": false,
+          "explanation": "Reports can be based on queries that retrieve data from one or more tables. They can also be based directly on tables themselves."
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Each separate piece of information stored in a record is called a:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Form",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Field",
+          "isCorrect": true,
+          "explanation": "A field, also known as a column, represents a single category of data within a record in a database table. For example, in a customer table, a field might be \"Customer Name\" to store the name of each customer. A field is the smallest unit that holds a discrete piece of data that contributes to the overall meaning of a record."
+        },
+        {
+          "letter": "C",
+          "text": "Table",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Cell",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "A field, also known as a column, represents a single category of data within a record in a database table. For example, in a customer table, a field might be \"Customer Name\" to store the name of each customer. A field is the smallest unit that holds a discrete piece of data that contributes to the overall meaning of a record.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "A record is a complete set of which type of field?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Forms and Reports",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Distinct",
+          "isCorrect": false,
+          "explanation": "While records should ideally contain unique data points for each instance they represent, they are not necessarily comprised of entirely distinct fields. A table structure will typically define the same set of fields (columns) for each record (row)."
+        },
+        {
+          "letter": "B",
+          "text": "Related",
+          "isCorrect": true,
+          "explanation": "The fields within a record are related in that they all pertain to the same entity or instance represented by that record. For example, in a customer record, the fields \"Customer ID,\" \"Customer Name,\" and \"Customer Address\" are all related data points about a single customer."
+        },
+        {
+          "letter": "C",
+          "text": "Design",
+          "isCorrect": false,
+          "explanation": "While the design of a table structure determines the fields included in a record, the records themselves are not sets of designed fields. Records are the populated instances that hold the actual data values."
+        },
+        {
+          "letter": "D",
+          "text": "All of above",
+          "isCorrect": false,
+          "explanation": "The explanations above detail why the other options are not correct. A record is not a collection of distinct fields, designed fields, or all of the above. It is a collection of related fields."
+        }
+      ],
+      "explanation": "The fields within a record are related in that they all pertain to the same entity or instance represented by that record. For example, in a customer record, the fields \"Customer ID,\" \"Customer Name,\" and \"Customer Address\" are all related data points about a single customer.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The actual data of a database is stored in:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Table",
+          "isCorrect": true,
+          "explanation": "Tables are the fundamental structure in a relational database that store data. They are like spreadsheets with rows and columns. Each row represents a record, and each column represents a field (attribute) of that record. The table definition specifies the data types allowed in each field, enforcing consistency and data integrity."
+        },
+        {
+          "letter": "B",
+          "text": "Queries",
+          "isCorrect": false,
+          "explanation": "A query is a database object used to retrieve specific data from one or more tables based on a defined set of criteria. Queries don't store data themselves."
+        },
+        {
+          "letter": "C",
+          "text": "Forms",
+          "isCorrect": false,
+          "explanation": "Forms are a user interface element in a database application that allows users to input, edit, or delete data. Forms are built using fields from tables, but they themselves are not how data is stored within the database."
+        },
+        {
+          "letter": "D",
+          "text": "Reports",
+          "isCorrect": false,
+          "explanation": "A report is a database object that allows you to format and present data from tables and queries in a user-friendly way. Reports also don't store data themselves"
+        }
+      ],
+      "explanation": "Tables are the fundamental structure in a relational database that store data. They are like spreadsheets with rows and columns. Each row represents a record, and each column represents a field (attribute) of that record. The table definition specifies the data types allowed in each field, enforcing consistency and data integrity.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which is an object that extracts specific information from a database",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Table",
+          "isCorrect": false,
+          "explanation": "A table stores data in a structured format with rows and columns. While tables contain the data, they do not have the capability to extract specific information on their own."
+        },
+        {
+          "letter": "B",
+          "text": "Query",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Report",
+          "isCorrect": false,
+          "explanation": "A report is a formatted presentation of data retrieved from a database, often used for printing or sharing. Reports are generated based on queries, but don't perform the extraction themselves."
+        },
+        {
+          "letter": "D",
+          "text": "All of the above",
+          "isCorrect": false,
+          "explanation": "While reports and tables play a role in working with database information, queries are the specific object designed to extract and filter data based on user criteria."
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The size of a field with a number data type cannot be:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "2",
+          "isCorrect": true,
+          "explanation": "Most common data types for numbers can store values larger than 2."
+        },
+        {
+          "letter": "B",
+          "text": "4",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "8",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "16",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Most common data types for numbers can store values larger than 2.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "An example of a query is:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Selection of all records that match a set of criteria.",
+          "isCorrect": true,
+          "explanation": "This is the primary function of a query in a relational database. Queries allow you to specify conditions to filter and select specific data from one or more tables. You can use queries to find records based on certain values, perform calculations on data, and even modify data in tables."
+        },
+        {
+          "letter": "B",
+          "text": "Importing of a specific file into the database.",
+          "isCorrect": false,
+          "explanation": "Importing data is a separate operation from querying data. It typically involves using a specific utility or tool to bring data from an external source into the database. While the data imported may eventually be queried, the query itself is not the method for importing data."
+        },
+        {
+          "letter": "C",
+          "text": "Search for a specific record.",
+          "isCorrect": false,
+          "explanation": "While finding a specific record is a common use case for queries, it's not the only function. Queries can select multiple records based on a variety of criteria, not just search for a single record."
+        },
+        {
+          "letter": "D",
+          "text": "Both (a) and (c)",
+          "isCorrect": false,
+          "explanation": "While option (a) is accurate and (c) is a common use case for queries, queries can perform many other functions besides searching for a single record. So, option (d) is not entirely accurate."
+        }
+      ],
+      "explanation": "This is the primary function of a query in a relational database. Queries allow you to specify conditions to filter and select specific data from one or more tables. You can use queries to find records based on certain values, perform calculations on data, and even modify data in tables.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What file extension does Microsoft Access use to save a database by default starting from Access 2007?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": ".mdb",
+          "isCorrect": false,
+          "explanation": "This was the default file extension for Microsoft Access databases prior to Access 2007. While .mdb files can still be opened in newer versions of Access, .accdb is the preferred format due to its enhanced features and security."
+        },
+        {
+          "letter": "B",
+          "text": ".accdb",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": ".msacc",
+          "isCorrect": false,
+          "explanation": "This is not a valid file extension for Microsoft Access databases."
+        },
+        {
+          "letter": "D",
+          "text": ".accda",
+          "isCorrect": false,
+          "explanation": "The .accda extension is used for Access databases saved in an Access 2007 or later format with additional security features, such as compiled VBA code and restricted access permissions. It is not the default file format for saving new database."
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Each row consists of a record, and each record consists of",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Forms and Reports",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Rows",
+          "isCorrect": false,
+          "explanation": "A table is made up of rows and columns. A record is a single row within the table."
+        },
+        {
+          "letter": "B",
+          "text": "Columns",
+          "isCorrect": true,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Cardinality",
+          "isCorrect": false,
+          "explanation": "Cardinality refers to the relationship between tables in a database, specifying how many records in one table can be linked to how many records in another table. It is not a component of a single record itself."
+        },
+        {
+          "letter": "D",
+          "text": "Primary Key",
+          "isCorrect": false,
+          "explanation": "A primary key is a field (or combination of fields) in a table that uniquely identifies each record. It is a crucial element for ensuring data integrity and enforcing relationships between tables. However, it’s not synonymous with what each record consists of in general."
+        }
+      ],
+      "explanation": "",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "In Access, the structure of a table is created in which view?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Design View",
+          "isCorrect": true,
+          "explanation": "Design view is the primary way to create and modify the structure of a jtable in Microsoft Access. It allows you to define the fields (columns) in a table, specify data types for each field, set primary keys, and establish relationships between tables."
+        },
+        {
+          "letter": "B",
+          "text": "Database View",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Index View",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Switch View",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Design view is the primary way to create and modify the structure of a table in Microsoft Access. It allows you to define the fields (columns) in a table, specify data types for each field, set primary keys, and establish relationships between tables.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "How Many Types of Databases Are There?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "1",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "2",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "3",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "4",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Design view is the primary way to create and modify the structure of a table in Microsoft Access. It allows you to define the fields (columns) in a table, specify data types for each field, set primary keys, and establish relationships between tables.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following is NOT a data type?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Text",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Number",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Picture/Graphic",
+          "isCorrect": true,
+          "explanation": "Data types are used in computer programming to define the type of data that a variable can hold. Text, numbers, dates, and times are all fundamental data types that most programming languages support. Images, however, are not a basic data type.While some programming languages may have built-in functionality or libraries to handle images, they are typically stored as a collection of data and not a single data type."
+        },
+        {
+          "letter": "D",
+          "text": "Date/ Time",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Data types are used in computer programming to define the type of data that a variable can hold. Text, numbers, dates, and times are all fundamental data types that most programming languages support. Images, however, are not a basic data type.While some programming languages may have built-in functionality or libraries to handle images, they are typically stored as a collection of data and not a single data type.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What is the maximum length of a text field in MySQL?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "32 characters",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "There is no limit",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "50 characters",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "255 characters",
+          "isCorrect": true,
+          "explanation": ""
+        }
+      ],
+      "explanation": "It depends (Incorrect)Explanation:The answer depends on the specific type of text field you use in MySQL. Here are the common text field types and their maximum lengths:TINYTEXT: Up to 255 charactersTEXT: Up to 65,535 charactersMEDIUMTEXT: Up to 16,777,215 charactersLONGTEXT: Up to 4,294,967,295 charactersThe options you provided (32 characters, 50 characters, and 255 characters) are all smaller than the minimum capacity of the standard TEXT data type (65,535 characters) in MySQL. There is no single maximum length for text fields in MySQL, as it depends on the data type you choose.In conclusion, the maximum length of a text field in MySQL depends on the specific text field type you use. Choose the most appropriate data type based on the size of the text data you expect to store.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following criteria would you use to find and record if your personality field does not equal \"Nice\"?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Nice",
+          "isCorrect": false,
+          "explanation": "This option would only find records where the personality field equals \"Nice\". The question is looking for the opposite criteria."
+        },
+        {
+          "letter": "B",
+          "text": "NOT Nice DCS Related",
+          "isCorrect": false,
+          "explanation": "The inclusion of \"DCS Related\" suggests this option might be looking for something specific beyond just \"Nice\" in the personality field. It's not a general option for \"Not Nice\"."
+        },
+        {
+          "letter": "C",
+          "text": "\"Nice\"",
+          "isCorrect": true,
+          "explanation": "This option would find records where the personality field literally contains the text string \"Nice\", including quotation marks. It likely is not intended to search for meaning of nice."
+        },
+        {
+          "letter": "D",
+          "text": "\"Nice\"",
+          "isCorrect": false,
+          "explanation": "This option would find records where the personality field literally contains the text string \"Nice\", including quotation marks. It likely is not intended to search for meaning of nice."
+        }
+      ],
+      "explanation": "This option would find records where the personality field literally contains the text string \"Nice\", including quotation marks. It likely is not intended to search for meaning of nice.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "What happens when you add the asterisk (*) from any field list to a query?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "The query uses records from the table without displaying them.",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "The query sorts the table's records in the order you specify",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "The query will include every field from the table.",
+          "isCorrect": true,
+          "explanation": "Adding an asterisk (*) to the field list in a query is a shortcut to select all fields from the table. This is useful when you want to see all the data in a table without having to specify each field name individually."
+        },
+        {
+          "letter": "D",
+          "text": "The query will not include any fields from the table.",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Adding an asterisk (*) to the field list in a query is a shortcut to select all fields from the table. This is useful when you want to see all the data in a table without having to specify each field name individually.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Where do reports and forms get their information from?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Table",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Queries",
+          "isCorrect": true,
+          "explanation": "Queries are the bridge between tables and reports/forms. Queries allow you to retrieve specific data from one or more tables based on a defined set of criteria. This retrieved data is then used as the source for populating reports and forms"
+        },
+        {
+          "letter": "C",
+          "text": "Forms",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "Modules",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Queries are the bridge between tables and reports/forms. Queries allow you to retrieve specific data from one or more tables based on a defined set of criteria. This retrieved data is then used as the source for populating reports and forms",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Which of the following wastes the storage media of a computer?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Memory Leakage",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Data Integrity",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Data redundancy/Duplication",
+          "isCorrect": true,
+          "explanation": "Out of the above options, (c) Data redundancy/Duplication wastes the storage media of a computer.Data redundancy/Duplication refers to having multiple copies of the same data stored on a computer system. This can happen unintentionally, due to errors or inefficiencies in data storage practices. It can also happen intentionally, for reasons such as backup and disaster recovery. While data redundancy can be a useful strategy for protecting against data loss, it also wastes storage space."
+        },
+        {
+          "letter": "D",
+          "text": "Data Integration",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "Out of the above options, (c) Data redundancy/Duplication wastes the storage media of a computer.Data redundancy/Duplication refers to having multiple copies of the same data stored on a computer system. This can happen unintentionally, due to errors or inefficiencies in data storage practices. It can also happen intentionally, for reasons such as backup and disaster recovery. While data redundancy can be a useful strategy for protecting against data loss, it also wastes storage space",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The left side of the MS Access database window consists of which of the following buttons?",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Tables, Queries, Forms, Reports",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Tables, Queries, Forms, Reports, Pages, Macros",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Tables, Queries, Forms, Reports, Pages, Macros, Groups",
+          "isCorrect": true,
+          "explanation": "The correct answer is (c) Tables, Queries, Forms, Reports, Pages, Macros, Groups.Here's why the other options are incorrect:(a) Tables, Queries, Forms, Reports This option is missing the Pages, Macros, and Groups buttons.(b) Tables, Queries, Forms, Reports, Pages, Macros This option is missing the Groups button.The buttons on the left side of the MS Access database window are used to navigate and manage the different objects in a database. These objects include tables, which store data; queries, which retrieve and manipulate data; forms, which provide a user interface for data entry and editing; reports, which present data in a formatted view; pages, which are used to create custom web applications within Access; macros, which automate tasks; modules, which contain VBA code for more complex automation; and groups, which help organize objects in the Navigation Pane."
+        },
+        {
+          "letter": "D",
+          "text": "Tables, Queries, Forms, Reports, Pages, Macros, Modules",
+          "isCorrect": false,
+          "explanation": ""
+        }
+      ],
+      "explanation": "The correct answer is (c) Tables, Queries, Forms, Reports, Pages, Macros, Groups.Here's why the other options are incorrect:(a) Tables, Queries, Forms, Reports This option is missing the Pages, Macros, and Groups buttons.(b) Tables, Queries, Forms, Reports, Pages, Macros This option is missing the Groups button.The buttons on the left side of the MS Access database window are used to navigate and manage the different objects in a database. These objects include tables, which store data; queries, which retrieve and manipulate data; forms, which provide a user interface for data entry and editing; reports, which present data in a formatted view; pages, which are used to create custom web applications within Access; macros, which automate tasks; modules, which contain VBA code for more complex automation; and groups, which help organize objects in the Navigation Pane.",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "The output of Queries is used as a source of records for:",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Table and Query",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Table",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "B",
+          "text": "Forms",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "C",
+          "text": "Report",
+          "isCorrect": false,
+          "explanation": ""
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": true,
+          "explanation": "The results of a query can be used to populate a new table or update existing tables.Forms: Queries can be used as the data source for forms, providing the data that is displayed and edited in the form.Reports: Queries can be used to create reports that display and summarize data from the database"
+        }
+      ],
+      "explanation": "The results of a query can be used to populate a new table or update existing tables.Forms: Queries can be used as the data source for forms, providing the data that is displayed and edited in the form.Reports: Queries can be used to create reports that display and summarize data from the database",
+      "explanationImage": null,
+      "hints": []
+    },
+    {
+      "text": "Relationship can be established between two tables by",
+      "image": null,
+      "subject": "Computer",
+      "topic": "Introduction to Microsoft Access",
+      "year": null,
+      "options": [
+        {
+          "letter": "A",
+          "text": "Drag Foreign key of a table into the Primary key of another table",
+          "isCorrect": true,
+          "explanation": "In a relational database, a relationship between two tables is established using foreign keys and primary keys. A primary key is a unique identifier for a table row, and a foreign key is a column in one table that references the primary key of another table. By creating a foreign key relationship, you ensure that the data in the two tables is consistent and that you can efficiently retrieve related data."
+        },
+        {
+          "letter": "B",
+          "text": "Drag primary key of a table into the foreign key of another table",
+          "isCorrect": false,
+          "explanation": "This would violate the concept of a primary key being unique. If a primary key is referenced in another table as a foreign key, it should not be possible for it to have duplicate values."
+        },
+        {
+          "letter": "C",
+          "text": "Drag any key of a table into the any key of another table",
+          "isCorrect": false,
+          "explanation": "Drag any key of a table into the any key of another table: This would not create a meaningful relationship between the tables. There needs to be a logical connection between the data in the two columns being linked."
+        },
+        {
+          "letter": "D",
+          "text": "All of these",
+          "isCorrect": false,
+          "explanation": "While foreign keys are the primary way to establish relationships between tables, there are other ways to achieve data association, such as using triggers or views. However, for basic table relationships, foreign keys are the recommended approach."
+        }
+      ],
+      "explanation": "In a relational database, a relationship between two tables is established using foreign keys and primary keys. A primary key is a unique identifier for a table row, and a foreign key is a column in one table that references the primary key of another table. By creating a foreign key relationship, you ensure that the data in the two tables is consistent and that you can efficiently retrieve related data.",
+      "explanationImage": null,
+      "hints": []
+    }
+  ]
+}
