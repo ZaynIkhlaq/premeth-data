@@ -5,6 +5,8 @@ on:
     branches: [main]
     paths:
       - "**/*.json"
+      - "scripts/**"
+      - ".github/workflows/validate.yml"
 
 jobs:
   validate:
